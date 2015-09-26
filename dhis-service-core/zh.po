@@ -1,0 +1,3927 @@
+#. #-- Application name -----------------------------------------------------------#
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-services/dhis-service-core/src/main/resources/i18n_global.properties, /home/jason/development/dhis2/dhis-2/dhis-services/dhis-service-core/src/main/resources/i18n_global_zh.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: district_health_information_software
+msgid "District Health Information Software 2"
+msgstr "区域医疗信息系统平台2.0"
+
+#: dhis2
+msgid "DHIS 2"
+msgstr ""
+
+#. #-- dhis-wp --------------------------------------------------------------------#
+#: no_page_specified
+msgid "No page specified"
+msgstr "没有指定页"
+
+#: an_exception_occured
+msgid "An exception occurred"
+msgstr "一个例外发生"
+
+#: exception_explanation_text
+msgid ""
+"Sorry! The system failed to execute the operation. Usually, no data is lost "
+"and you can continue working by going back to the previous page."
+msgstr ""
+"抱歉，系统执行操作失败，通常不会有数据丢失，你可以返回到前页继续工作。如果你希望报告该事故，请通过“文件”菜单的“保存页面为”子菜单保存该页并将其包括在报"
+"告中，问题细节列示如下。，"
+
+#: exception
+msgid "Exception"
+msgstr "例外"
+
+#: caused_by
+msgid "Caused by"
+msgstr "所致"
+
+#: unknown_source
+msgid "Unknown source"
+msgstr "来源不明"
+
+#: logged_in
+msgid "Logged in"
+msgstr "登入"
+
+#: not_logged_in
+msgid "Not logged in"
+msgstr "没有登录"
+
+#: log_out
+msgid "Log out"
+msgstr "登出"
+
+#: about
+msgid "About"
+msgstr "关于"
+
+#: access_denied
+msgid "Access denied"
+msgstr "拒绝随访"
+
+#: access_denied_message
+msgid "You don't have sufficient authority to view this page"
+msgstr "你没有足够的权限来查看这一页."
+
+#: create_access_denied_message
+msgid "You don't have create access to object"
+msgstr ""
+
+#: read_access_denied_message
+msgid "You don't have read access to object"
+msgstr ""
+
+#: update_access_denied_message
+msgid "You don't have update access to object"
+msgstr ""
+
+#: delete_access_denied_message
+msgid "You don't have delete access to object"
+msgstr ""
+
+#: go_back
+msgid "Go back"
+msgstr "返回"
+
+#: main_menu
+msgid "Main menu"
+msgstr "主菜单"
+
+#: maintenance
+msgid "Maintenance"
+msgstr "系统维护"
+
+#: services
+msgid "Services"
+msgstr "功能和服务"
+
+#. #-- dhis-ouwt ------------------------------------------------------------------#
+#: org_unit_tree
+msgid "Organisation Unit Tree"
+msgstr "组织机构树"
+
+#: specify_organisationunit
+msgid "Please specify an organisation unit"
+msgstr "请注明组织机构"
+
+#: cannot_clear_selected_orgunits
+msgid "Cannot clear the selected organisation units"
+msgstr "不能清除选择的机构"
+
+#: locate_organisation_unit_by_name
+msgid "Locate organisation unit by name"
+msgstr "按名称查找机构"
+
+#: error_occurred
+msgid "An error has occurred."
+msgstr "发生一个错误"
+
+#: select_organisationunit
+msgid "You must select an OrganisationUnit from the tree."
+msgstr "你需从树上选定机构"
+
+#. #-- Modules --------------------------------------------------------------------#
+#: dhis-web-maintenance-datadictionary
+msgid "Data Elements / Indicators"
+msgstr "数据元和指标"
+
+#: dhis-web-maintenance-dataset
+msgid "Data Sets"
+msgstr "数据集管理"
+
+#: dhis-web-maintenance-organisationunit
+msgid "Organisation Units"
+msgstr "组织机构管理"
+
+#: dhis-web-maintenance-user
+msgctxt "dhis-web-maintenance-user"
+msgid "Users"
+msgstr "用户管理"
+
+#: dhis-web-maintenance-dataadmin
+msgid "Data Administration"
+msgstr "数据管理"
+
+#: dhis-web-maintenance-settings
+msgctxt "dhis-web-maintenance-settings"
+msgid "Settings"
+msgstr "系统设置"
+
+#: dhis-web-maintenance-program
+msgid "Programs / Attributes"
+msgstr ""
+
+#: dhis-web-maintenance-mobile
+msgid "Mobile Configuration"
+msgstr "移动版配置"
+
+#: dhis-web-maintenance-appmanager
+msgid "App Management"
+msgstr ""
+
+#: dhis-web-caseentry
+msgid "Individual Records"
+msgstr "基于个体的数据记录"
+
+#: dhis-web-dataentry
+msgid "Data Entry"
+msgstr "数据录入"
+
+#: dhis-web-importexport
+msgid "Import-Export"
+msgstr "数据导入导出"
+
+#: dhis-web-validationrule
+msgid "Data Quality"
+msgstr "数据质量管理"
+
+#: dhis-web-mapping
+msgid "GIS"
+msgstr "GIS专题图"
+
+#: dhis-web-event-capture
+msgid "Event Capture"
+msgstr ""
+
+#: dhis-web-event-reports
+msgid "Event Reports"
+msgstr ""
+
+#: dhis-web-event-visualizer
+msgid "Event Visualizer"
+msgstr ""
+
+#: dhis-web-tracker-capture
+msgid "Tracker Capture"
+msgstr ""
+
+#: dhis-web-cache-cleaner
+msgid "Browser Cache Cleaner"
+msgstr ""
+
+#: dhis-web-reporting
+msgid "Reports"
+msgstr "报表管理"
+
+#: dhis-web-light
+msgid "Mobile (Light)"
+msgstr "移动版"
+
+#: dhis-web-mobile
+msgid "Mobile (Smartphone)"
+msgstr "移动版"
+
+#: dhis-web-dashboard-integration
+msgctxt "dhis-web-dashboard-integration"
+msgid "Dashboard"
+msgstr "状态面板"
+
+#: dhis-web-visualizer
+msgid "Data Visualizer"
+msgstr "数据可视化图表工具"
+
+#: dhis-web-pivot
+msgid "Pivot Table"
+msgstr ""
+
+#: dhis-web-dashboard
+msgid "Data Analyser"
+msgstr "仪表板"
+
+#: dhis-web-integration
+msgid "NHRM Integration"
+msgstr "人力资源管理集成"
+
+#: dhis-web-reports
+msgid "NRHM Reports"
+msgstr "NRHM报表"
+
+#: dhis-web-dataentry-national
+msgid "Linelisting Data Entry"
+msgstr "行列数据录入"
+
+#: dhis-web-validationrule-local-in
+msgid "Validation Analysis"
+msgstr "有效性分析"
+
+#: dhis-web-survey
+msgid "Survey - Target"
+msgstr "调查—目标"
+
+#: dhis-web-spreadsheet-reporting
+msgid "Spreadsheet Reports"
+msgstr "电子表格报表"
+
+#: dhis-web-sms
+msgid "SMS"
+msgstr "短信管理"
+
+#: dhis-web-maintenance-in
+msgid "Configuration"
+msgstr "配置"
+
+#: dhis-web-linelisting-mp
+msgid "Manpower"
+msgstr "人力"
+
+#: dhis-web-maintenance-rbf
+msgid "Maintenance RBF"
+msgstr ""
+
+#. #-- Intro modules -------------------------------------------------------------#
+#: intro_dhis-web-maintenance-datadictionary
+msgid "Maintain data elements, indicators, categories and groups."
+msgstr "维护数据元、指标、数据字典、分类和组"
+
+#: intro_dhis-web-maintenance-dataset
+msgid ""
+"Maintain data sets, custom forms, sections and compulsory data elements."
+msgstr "维护数据集、定制表单、分区和强制数据元"
+
+#: intro_dhis-web-maintenance-organisationunit
+msgid "Maintain organisation units and its hierarchy, groups and group sets."
+msgstr "维护组织机构及体系，机构组和组集"
+
+#: intro_dhis-web-maintenance-user
+msgid ""
+"Maintain users in terms of authorities and passwords, user roles and groups."
+msgstr "维护用户的权限、口令，用户角色和组"
+
+#: intro_dhis-web-maintenance-dataadmin
+msgid ""
+"Maintain resource tables, check data integrity, see statistics and more."
+msgstr "维护资源表、检查数据一致性，查看统计等等"
+
+#: intro_dhis-web-maintenance-settings
+msgid ""
+"Maintain user and system settings related to appearance, notifications and "
+"more."
+msgstr "维护用户和系统设置相关的外观、通知等等"
+
+#: intro_dhis-web-maintenance-program
+msgid ""
+"Maintain tracked entities and programs including attributes and identifiers."
+msgstr ""
+
+#: intro_dhis-web-maintenance-mobile
+msgid ""
+"Maintain data sets plus settings for mobile reporting and SMS configuration."
+msgstr "维护移动报表数据集及配置，短信配置"
+
+#: intro_dhis-web-maintenance-appmanager
+msgid ""
+"Access and upload apps, which are extensions to the standard user interface."
+msgstr ""
+
+#: intro_dhis-web-caseentry
+msgid ""
+"Register beneficiaries, enter data for encounters and events and view "
+"reports."
+msgstr "登记受益人，输入就诊和事件数据，查看报表"
+
+#: intro_dhis-web-dataentry
+msgid ""
+"Enter data for forms either on-line or off-line, validate data and view data "
+"trends."
+msgstr "在线或离线输入表单数据，验证数据和查看数据趋势"
+
+#: intro_dhis-web-importexport
+msgid ""
+"Import and export data from DHIS or third-party systems on various formats."
+msgstr "导入和导出数据，从本系统或第三方系统，使用内部和通用格式"
+
+#: intro_dhis-web-validationrule
+msgid ""
+"Validate and assess data quality using validation rules or statistical "
+"methods."
+msgstr "使用验证规则和统计方法 验证和评价数据质量"
+
+#: intro_dhis-web-mapping
+msgid ""
+"Visualize data on maps using polygons, points, symbols in multiple layers."
+msgstr "使用多边形、点、可定制图例的符号在地图上展示数据"
+
+#: intro_dhis-web-reporting
+msgid ""
+"Analyse data and reporting rates using predefined and dynamic report tools."
+msgstr "使用预定义的和动态报表工具进行数据分析，查看报表率"
+
+#: intro_dhis-web-light
+msgid "Access a mobile device optimized version of data entry and analysis."
+msgstr "随访针对移动设备的优化版本，功能包括数据录入、设置、消息和分析"
+
+#: intro_dhis-web-mobile
+msgid ""
+"Access a smartphone optimized version of data entry, settings, messages."
+msgstr ""
+
+#: intro_dhis-web-dashboard-integration
+msgid ""
+"Get an overview of favorite charts, reports and maps and view or write "
+"messages."
+msgstr "喜好的图表、报表和专题地图的概览，查看和书写消息"
+
+#: intro_dhis-web-visualizer
+msgid "Create dynamic data visualizations for data elements and indicators."
+msgstr "生成数据元和指标的可视化图表和表格"
+
+#: intro_dhis-web-pivot
+msgid "Generate flexible pivot tables with data aggregated in all dimensions."
+msgstr ""
+
+#: intro_dhis-web-sms
+msgid "Send SMS reminders and notifications manually or as scheduled tasks."
+msgstr ""
+
+#: intro_dhis-web-spreadsheet-reporting
+msgid "Generate and import data based on predefined Excel templates."
+msgstr "基于预定义的Excel模版文件生成和导入数据到报表或从报表导出数据"
+
+#: intro_dhis-web-event-reports
+msgid "Query for events and create aggregated, dimensional analysis of events."
+msgstr ""
+
+#: intro_dhis-web-event-capture
+msgid "Capture information about single events."
+msgstr ""
+
+#: intro_dhis-web-tracker-capture
+msgid "Capture information about trackable entities."
+msgstr ""
+
+#. #-- Intro functions -------------------------------------------------------------#
+#: intro_help_center
+msgid ""
+"Get help on a various of topics related to setting up and using the DHIS 2."
+msgstr ""
+
+#: intro_supportive_software
+msgid ""
+"Get an overview of useful software like report designers mobile clients."
+msgstr ""
+
+#: intro_system_overview
+msgid "Visit the system overview page to get a complete list of modules."
+msgstr ""
+
+#: intro_web_api
+msgid ""
+"Go to the Web API entry point, which is an interface for other computer "
+"systems."
+msgstr ""
+
+#: intro_about_dhis2
+msgid "Get information about the system version and runtime environment."
+msgstr ""
+
+#: intro_settings
+msgid ""
+"Set your personal preferences for interface language, style and email "
+"settings."
+msgstr ""
+
+#: intro_profile
+msgid ""
+"Set up your personal profile with information like job title and interests."
+msgstr ""
+
+#: intro_account
+msgid "Manage your user account including name, password, email and mobile."
+msgstr ""
+
+#: intro_log_out
+msgid ""
+"Go here to log out of the system and deny others to access your user account."
+msgstr ""
+
+#. #-- Common ---------------------------------------------------------------------#
+#: offline
+msgid "Offline"
+msgstr ""
+
+#: online
+msgid "Online"
+msgstr ""
+
+#: next
+msgid "Next"
+msgstr ""
+
+#: previous
+msgid "Previous"
+msgstr ""
+
+#: online_notification
+msgid "You are online"
+msgstr ""
+
+#: offline_notification
+msgid "You are offline, data will be stored locally"
+msgstr ""
+
+#: ajax_login_failed
+msgctxt "ajax_login_failed"
+msgid "Login failed, check your username and password and try again"
+msgstr ""
+
+#: need_to_sync_notification
+msgid "There is data stored locally, please upload to server"
+msgstr ""
+
+#: uploading_data_notification
+msgid "Uploading locally stored data to the server"
+msgstr ""
+
+#: sync_now
+msgid "Upload"
+msgstr ""
+
+#: discard
+msgid "Discard"
+msgstr ""
+
+#: remove_local_data
+msgid "Are you sure you want to remove the locally stored data?"
+msgstr ""
+
+#: sync_success
+msgid "Upload to server was successful"
+msgstr ""
+
+#: sync_failed
+msgid "Upload to server failed, please try again later"
+msgstr ""
+
+#: year
+msgid "Year"
+msgstr ""
+
+#: details
+msgctxt "details"
+msgid "Details"
+msgstr "详细"
+
+#: show_details
+msgid "Show details"
+msgstr "显示详情"
+
+#: hide_details
+msgid "Hide details"
+msgstr "隐藏细节"
+
+#: change_password
+msgid "Change password"
+msgstr "更改密码"
+
+#: expired_password
+msgid "Your password has expired, please change"
+msgstr ""
+
+#: date_selector
+msgid "Choose a date"
+msgstr "选择日期"
+
+#: hide_menu
+msgid "Hide menu"
+msgstr "隐藏菜单"
+
+#: extend_menu
+msgid "Extend menu"
+msgstr ""
+
+#: show_menu
+msgid "Show menu"
+msgstr "显示菜单"
+
+#: show_main_menu
+msgid "Show main menu"
+msgstr "显示主菜单"
+
+#: view_home_page
+msgid "View home page"
+msgstr ""
+
+#: view_intepretations
+msgid "View interpretations"
+msgstr ""
+
+#: organisation_unit
+msgid "Organisation unit"
+msgstr "组织机构"
+
+#: dataelement
+msgid "Data element"
+msgstr "数据元"
+
+#: start_date
+msgid "Start date"
+msgstr "起始日期"
+
+#: end_date
+msgid "End date"
+msgstr "结束日期"
+
+#: entry
+msgid "Entry"
+msgstr "条目"
+
+#: comment
+msgctxt "comment"
+msgid "Comment"
+msgstr "评论"
+
+#: operations
+msgid "Operations"
+msgstr "操作"
+
+#: add_new
+msgid "Add new"
+msgstr "新增"
+
+#: rename
+msgid "Rename"
+msgstr "改名"
+
+#: move
+msgid "Move"
+msgstr "移动"
+
+#: remove
+msgid "Remove"
+msgstr "移除"
+
+#: required
+msgid "Required"
+msgstr "所需"
+
+#: all
+msgid "All"
+msgstr "全部"
+
+#: save
+msgctxt "save"
+msgid "Save"
+msgstr "保存"
+
+#: new
+msgid "New"
+msgstr "新建"
+
+#: back
+msgid "Back"
+msgstr "后退"
+
+#: ok
+msgid "OK"
+msgstr "OK"
+
+#: cancel
+msgctxt "cancel"
+msgid "Cancel"
+msgstr "取消"
+
+#: clone
+msgid "Clone"
+msgstr ""
+
+#: add
+msgctxt "add"
+msgid "Add"
+msgstr "增加"
+
+#: edit
+msgid "Edit"
+msgstr "编辑"
+
+#: reply
+msgid "Reply"
+msgstr ""
+
+#: update
+msgid "Update"
+msgstr "更新"
+
+#: delete
+msgid "Delete"
+msgstr "删除"
+
+#: deleting
+msgid "Deleting"
+msgstr ""
+
+#: close
+msgid "Close"
+msgstr "关闭"
+
+#: gender_male
+msgctxt "gender_male"
+msgid "Male"
+msgstr ""
+
+#: gender_female
+msgctxt "gender_female"
+msgid "Female"
+msgstr ""
+
+#: gender_other
+msgctxt "gender_other"
+msgid "Other"
+msgstr ""
+
+#: password
+msgctxt "password"
+msgid "Password"
+msgstr ""
+
+#: confirm_password
+msgid "Confirm password"
+msgstr ""
+
+#: mobile_phone
+msgid "Mobile phone"
+msgstr ""
+
+#: create_new_account
+msgid "Create a new account"
+msgstr ""
+
+#: prove_you_are_not_a_robot
+msgid "Prove you are not a robot"
+msgstr ""
+
+#: create
+msgid "Create"
+msgstr ""
+
+#: cant_read_the_words_try_another_one
+msgid "Can't read the words? Try another one"
+msgstr ""
+
+#: restore
+msgid "Restore"
+msgstr ""
+
+#: new_password
+msgctxt "new_password"
+msgid "New password"
+msgstr "新口令"
+
+#: restore_account
+msgid "Restore account"
+msgstr ""
+
+#: account_recovery
+msgid "Account recovery"
+msgstr ""
+
+#: recover
+msgid "Recover"
+msgstr ""
+
+#: code_from_email
+msgid "Code from email"
+msgstr ""
+
+#: password_hint
+msgid "Minimum 8 characters, 1 upper-case and 1 digit"
+msgstr ""
+
+#: optional
+msgid "Optional"
+msgstr ""
+
+#: object_not_deleted_associated_by_objects
+msgid "Object was not deleted because it is used by other objects:"
+msgstr ""
+
+#: id
+msgid "ID"
+msgstr ""
+
+#: name_in_use
+msgid "The name is already in use. Please choose a different name"
+msgstr ""
+
+#: code_in_use
+msgid "The code is already in use. Please choose a different code"
+msgstr ""
+
+#: short_name_in_use
+msgid "The short name is already in use. Please choose a different short name"
+msgstr ""
+
+#: unsupported_browser
+msgid ""
+"Please upgrade your browser. Internet Explorer version 8 and earlier is not "
+"supported."
+msgstr ""
+
+#: data_element_or_type_null_or_empty
+msgid "Data element or type not defined"
+msgstr ""
+
+#: value_length_greater_than_max_length
+msgid "Value is greater than max length"
+msgstr ""
+
+#: comment_length_greater_than_max_length
+msgctxt "comment_length_greater_than_max_length"
+msgid "Comment is greater than max length"
+msgstr ""
+
+#: value_not_numeric
+msgid "Value is not numeric"
+msgstr ""
+
+#: value_not_unit_interval
+msgid "Value is not a unit interval"
+msgstr ""
+
+#: value_not_percentage
+msgid "Value is not a percentage"
+msgstr ""
+
+#: value_not_integer
+msgid "Value is not an integer"
+msgstr ""
+
+#: value_not_positive_integer
+msgid "Value is not a positive integer"
+msgstr ""
+
+#: value_not_negative_integer
+msgid "Value is not a negative integer"
+msgstr ""
+
+#: value_not_bool
+msgid "Value is not a boolean"
+msgstr ""
+
+#: value_not_true_only
+msgid "Value is not true"
+msgstr ""
+
+#: value_not_valid_date
+msgid "Value is not a valid date"
+msgstr ""
+
+#: email_not_configured_for_system
+msgid "Email is not configured for the system"
+msgstr ""
+
+#: no_user_credentials
+msgid "No user credentials"
+msgstr ""
+
+#: user_does_not_have_valid_email
+msgid "User does not have a valid email"
+msgstr ""
+
+#: user_has_critical_authorities
+msgid "User has critical authorities"
+msgstr ""
+
+#: default
+msgid "Default"
+msgstr ""
+
+#: left_brackets
+msgid "Left brackets"
+msgstr ""
+
+#: right_brackets
+msgid "Right brackets"
+msgstr ""
+
+#: multiply
+msgid "Multiply"
+msgstr ""
+
+#: divide
+msgid "Divide"
+msgstr ""
+
+#: plus
+msgid "Plus"
+msgstr ""
+
+#: minus
+msgid "Minus"
+msgstr ""
+
+#: no_of_days
+msgid "No of days"
+msgstr ""
+
+#: variables
+msgid "Variables"
+msgstr ""
+
+#: open
+msgid "Open"
+msgstr ""
+
+#: normal
+msgid "Normal"
+msgstr ""
+
+#. #-- Relative periods -----------------------------------------------------------#
+#: LAST_MONTH
+msgid "Last month"
+msgstr ""
+
+#: LAST_BIMONTH
+msgid "Last bi-month"
+msgstr ""
+
+#: LAST_QUARTER
+msgid "Last quarter"
+msgstr ""
+
+#: LAST_SIX_MONTH
+msgid "Last six-month"
+msgstr ""
+
+#: MONTHS_THIS_YEAR
+msgid "Months this year"
+msgstr ""
+
+#: QUARTERS_THIS_YEAR
+msgid "Quarters this year"
+msgstr ""
+
+#: THIS_YEAR
+msgid "This year"
+msgstr ""
+
+#: MONTHS_LAST_YEAR
+msgid "Months last year"
+msgstr ""
+
+#: QUARTERS_LAST_YEAR
+msgid "Quarters last year"
+msgstr ""
+
+#: LAST_YEAR
+msgid "Last year"
+msgstr ""
+
+#: LAST_5_YEARS
+msgid "Last 5 years"
+msgstr ""
+
+#: LAST_12_MONTHS
+msgid "Last 12 months"
+msgstr ""
+
+#: LAST_6_MONTHS
+msgid "Last 6 months"
+msgstr ""
+
+#: LAST_3_MONTHS
+msgid "Last 3 months"
+msgstr ""
+
+#: LAST_6_BIMONTHS
+msgid "Last 6 bi-months"
+msgstr ""
+
+#: LAST_4_QUARTERS
+msgid "Last 4 quarters"
+msgstr ""
+
+#: LAST_2_SIXMONTHS
+msgid "Last 2 six-months"
+msgstr ""
+
+#: THIS_FINANCIAL_YEAR
+msgid "This financial year"
+msgstr ""
+
+#: LAST_FINANCIAL_YEAR
+msgid "Last financial year"
+msgstr ""
+
+#: LAST_5_FINANCIAL_YEARS
+msgid "Last 5 financial years"
+msgstr ""
+
+#: LAST_WEEK
+msgid "Last week"
+msgstr ""
+
+#: LAST_4_WEEKS
+msgid "Last 4 weeks"
+msgstr ""
+
+#: LAST_12_WEEKS
+msgid "Last 12 weeks"
+msgstr ""
+
+#: LAST_52_WEEKS
+msgid "Last 52 weeks"
+msgstr ""
+
+#. #-- PeriodTypes ----------------------------------------------------------------#
+#: Daily
+msgid "Daily"
+msgstr "每日"
+
+#: Weekly
+msgid "Weekly"
+msgstr "每周"
+
+#: Monthly
+msgid "Monthly"
+msgstr "每月"
+
+#: BiMonthly
+msgid "Bimonthly"
+msgstr "每两月"
+
+#: Quarterly
+msgid "Quarterly"
+msgstr "每季"
+
+#: SixMonthly
+msgid "Six-monthly"
+msgstr "六个月"
+
+#: SixMonthlyApril
+msgid "Six-monthly April"
+msgstr ""
+
+#: Yearly
+msgid "Yearly"
+msgstr "每年"
+
+#: TwoYearly
+msgid "Two-yearly"
+msgstr "每两年"
+
+#: OnChange
+msgid "On-change"
+msgstr "改变时"
+
+#: Survey
+msgid "Survey"
+msgstr "调查"
+
+#: Relative
+msgid "Relative"
+msgstr "关系"
+
+#: FinancialApril
+msgid "Financial-April"
+msgstr "财务-四月"
+
+#: FinancialJuly
+msgid "Financial-July"
+msgstr "财务七月"
+
+#: FinancialOct
+msgid "Financial-Oct"
+msgstr "财务十月"
+
+#. #-- Period formats - Should not be translated ----------------------------------#
+#: format.Daily.startDate
+msgctxt "format.Daily.startDate"
+msgid "yyyy-MM-dd"
+msgstr "yyyy-MM-dd"
+
+#: format.Daily.endDate
+msgctxt "format.Daily.endDate"
+msgid ""
+msgstr ""
+
+#: format.Weekly.startDate
+msgid "yyyy 'W' w"
+msgstr "yyyy '周' w"
+
+#: format.Weekly.endDate
+msgctxt "format.Weekly.endDate"
+msgid ""
+msgstr ""
+
+#: format.Monthly.startDate
+msgid "MMMM yyyy"
+msgstr "MMMM yyyy"
+
+#: format.Monthly.endDate
+msgctxt "format.Monthly.endDate"
+msgid ""
+msgstr ""
+
+#: format.BiMonthly.startDate
+msgctxt "format.BiMonthly.startDate"
+"format.BiMonthly.startDate"
+"format.BiMonthly.startDate"
+msgid "MMM 'to '"
+msgstr "MMM 'to '"
+
+#: format.BiMonthly.endDate
+msgctxt "format.BiMonthly.endDate"
+msgid "MMM yyyy"
+msgstr "MMM yyyy"
+
+#: format.Quarterly.startDate
+msgctxt "format.Quarterly.startDate"
+msgid "MMM 'to '"
+msgstr "MMM '至'"
+
+#: format.Quarterly.endDate
+msgctxt "format.Quarterly.endDate"
+msgid "MMM yyyy"
+msgstr "MMM yyyy"
+
+#: format.SixMonthly.startDate
+msgctxt "format.SixMonthly.startDate"
+msgid "MMM 'to '"
+msgstr "MMM '至 '"
+
+#: format.SixMonthly.endDate
+msgctxt "format.SixMonthly.endDate"
+msgid "MMM yyyy"
+msgstr "MMM yyyy"
+
+#: format.SixMonthlyApril.startDate
+msgctxt "format.SixMonthlyApril.startDate"
+msgid "MMM 'to '"
+msgstr ""
+
+#: format.SixMonthlyApril.endDate
+msgctxt "format.SixMonthlyApril.endDate"
+msgid "MMM yyyy"
+msgstr ""
+
+#: format.Yearly.startDate
+msgctxt "format.Yearly.startDate"
+msgid "yyyy"
+msgstr "yyyy"
+
+#: format.Yearly.endDate
+msgctxt "format.Yearly.endDate"
+msgid ""
+msgstr ""
+
+#: format.TwoYearly.startDate
+msgid "yyyy 'and '"
+msgstr "yyyy 'and '"
+
+#: format.TwoYearly.endDate
+msgctxt "format.TwoYearly.endDate"
+msgid "yyyy"
+msgstr "yyyy"
+
+#: format.OnChange.startDate
+msgctxt "format.OnChange.startDate"
+msgid "yyyy-MM-dd '- '"
+msgstr "yyyy-MM-dd '- '"
+
+#: format.OnChange.endDate
+msgctxt "format.OnChange.endDate"
+msgid "yyyy-MM-dd"
+msgstr "yyyy-MM-dd"
+
+#: format.Survey.startDate
+msgctxt "format.Survey.startDate"
+msgid "yyyy-MM-dd"
+msgstr "yyyy-MM-dd"
+
+#: format.Survey.endDate
+msgctxt "format.Survey.endDate"
+msgid ""
+msgstr ""
+
+#: format.Relative.startDate
+msgctxt "format.Relative.startDate"
+msgid "yyyy-MM-dd '- '"
+msgstr "yyyy-MM-dd '- '"
+
+#: format.Relative.endDate
+msgctxt "format.Relative.endDate"
+msgid "yyyy-MM-dd"
+msgstr "yyyy-MM-dd"
+
+#: format.FinancialApril.startDate
+msgctxt "format.FinancialApril.startDate"
+"format.FinancialApril.startDate"
+msgid "MMM yyyy 'to '"
+msgstr "dd MMM yyyy '到'"
+
+#: format.FinancialApril.endDate
+msgctxt "format.FinancialApril.endDate"
+msgid "MMM yyyy"
+msgstr "dd MMM yyyy"
+
+#: format.FinancialJuly.startDate
+msgctxt "format.FinancialJuly.startDate"
+msgid "MMM yyyy 'to '"
+msgstr "dd MMM yyyy 'to '"
+
+#: format.FinancialJuly.endDate
+msgctxt "format.FinancialJuly.endDate"
+msgid "MMM yyyy"
+msgstr "dd MMM yyyy"
+
+#: format.FinancialOct.startDate
+msgctxt "format.FinancialOct.startDate"
+msgid "MMM yyyy 'to '"
+msgstr "'FY'"
+
+#: format.FinancialOct.endDate
+msgctxt "format.FinancialOct.endDate"
+msgid "MMM yyyy"
+msgstr "yyyy"
+
+#. #-- Months and weeks -----------------------------------------------------------#
+#: month.january
+msgid "January"
+msgstr "01"
+
+#: month.february
+msgid "February"
+msgstr "02"
+
+#: month.march
+msgid "March"
+msgstr "03"
+
+#: month.april
+msgid "April"
+msgstr "04"
+
+#: month.may
+msgctxt "month.may"
+msgid "May"
+msgstr "05"
+
+#: month.june
+msgid "June"
+msgstr "06"
+
+#: month.july
+msgid "July"
+msgstr "07"
+
+#: month.august
+msgid "August"
+msgstr "08"
+
+#: month.september
+msgid "September"
+msgstr "09"
+
+#: month.october
+msgid "October"
+msgstr "10"
+
+#: month.november
+msgid "November"
+msgstr "11"
+
+#: month.december
+msgid "December"
+msgstr "12"
+
+#: month.short.january
+msgid "Jan"
+msgstr "01"
+
+#: month.short.february
+msgid "Feb"
+msgstr "02"
+
+#: month.short.march
+msgid "Mar"
+msgstr "03"
+
+#: month.short.april
+msgid "Apr"
+msgstr "04"
+
+#: month.short.may
+msgctxt "month.short.may"
+msgid "May"
+msgstr "05"
+
+#: month.short.june
+msgid "Jun"
+msgstr "06"
+
+#: month.short.july
+msgid "Jul"
+msgstr "07"
+
+#: month.short.august
+msgid "Aug"
+msgstr "08"
+
+#: month.short.september
+msgid "Sep"
+msgstr "09"
+
+#: month.short.october
+msgid "Oct"
+msgstr "10"
+
+#: month.short.november
+msgid "Nov"
+msgstr "11"
+
+#: month.short.december
+msgid "Dec"
+msgstr "12"
+
+#: weekday.monday
+msgctxt "weekday.monday"
+msgid "Monday"
+msgstr "周一"
+
+#: weekday.tuesday
+msgctxt "weekday.tuesday"
+msgid "Tuesday"
+msgstr "周二"
+
+#: weekday.wednesday
+msgctxt "weekday.wednesday"
+msgid "Wednesday"
+msgstr "周三"
+
+#: weekday.thursday
+msgctxt "weekday.thursday"
+msgid "Thursday"
+msgstr "周四"
+
+#: weekday.friday
+msgctxt "weekday.friday"
+msgid "Friday"
+msgstr "周五"
+
+#: weekday.saturday
+msgctxt "weekday.saturday"
+msgid "Saturday"
+msgstr "周六"
+
+#: weekday.sunday
+msgctxt "weekday.sunday"
+msgid "Sunday"
+msgstr "周日"
+
+#: weekday.short.monday
+msgctxt "weekday.short.monday"
+msgid "Mon"
+msgstr "周一"
+
+#: weekday.short.tuesday
+msgctxt "weekday.short.tuesday"
+msgid "Tue"
+msgstr "周二"
+
+#: weekday.short.wednesday
+msgctxt "weekday.short.wednesday"
+msgid "Wed"
+msgstr "周三"
+
+#: weekday.short.thursday
+msgctxt "weekday.short.thursday"
+msgid "Thu"
+msgstr "周四"
+
+#: weekday.short.friday
+msgctxt "weekday.short.friday"
+msgid "Fri"
+msgstr "周五"
+
+#: weekday.short.saturday
+msgctxt "weekday.short.saturday"
+msgid "Sat"
+msgstr "周六"
+
+#: weekday.short.sunday
+msgctxt "weekday.short.sunday"
+msgid "Sun"
+msgstr "周日"
+
+#. #-- Nepali Calendar Month/Day names -------------------------------------------#
+#. # The keys for months are still based on ISO 8601, the ordering is correct, but the key names are not. Jan-Dec -> 1-12. #
+#: nepali.month.january
+msgctxt "nepali.month.january"
+msgid "Baishak"
+msgstr ""
+
+#: nepali.month.february
+msgctxt "nepali.month.february"
+msgid "Jestha"
+msgstr ""
+
+#: nepali.month.march
+msgctxt "nepali.month.march"
+msgid "Asar"
+msgstr ""
+
+#: nepali.month.april
+msgctxt "nepali.month.april"
+msgid "Shrawan"
+msgstr ""
+
+#: nepali.month.may
+msgctxt "nepali.month.may"
+msgid "Bhadra"
+msgstr ""
+
+#: nepali.month.june
+msgctxt "nepali.month.june"
+msgid "Ashwin"
+msgstr ""
+
+#: nepali.month.july
+msgctxt "nepali.month.july"
+msgid "Kartik"
+msgstr ""
+
+#: nepali.month.august
+msgctxt "nepali.month.august"
+msgid "Mangsir"
+msgstr ""
+
+#: nepali.month.september
+msgctxt "nepali.month.september"
+msgid "Poush"
+msgstr ""
+
+#: nepali.month.october
+msgctxt "nepali.month.october"
+msgid "Magh"
+msgstr ""
+
+#: nepali.month.november
+msgctxt "nepali.month.november"
+msgid "Falgun"
+msgstr ""
+
+#: nepali.month.december
+msgctxt "nepali.month.december"
+msgid "Chaitra"
+msgstr ""
+
+#: nepali.month.short.january
+msgctxt "nepali.month.short.january"
+msgid "Baishak"
+msgstr ""
+
+#: nepali.month.short.february
+msgctxt "nepali.month.short.february"
+msgid "Jestha"
+msgstr ""
+
+#: nepali.month.short.march
+msgctxt "nepali.month.short.march"
+msgid "Asar"
+msgstr ""
+
+#: nepali.month.short.april
+msgctxt "nepali.month.short.april"
+msgid "Shrawan"
+msgstr ""
+
+#: nepali.month.short.may
+msgctxt "nepali.month.short.may"
+msgid "Bhadra"
+msgstr ""
+
+#: nepali.month.short.june
+msgctxt "nepali.month.short.june"
+msgid "Ashwin"
+msgstr ""
+
+#: nepali.month.short.july
+msgctxt "nepali.month.short.july"
+msgid "Kartik"
+msgstr ""
+
+#: nepali.month.short.august
+msgctxt "nepali.month.short.august"
+msgid "Mangsir"
+msgstr ""
+
+#: nepali.month.short.september
+msgctxt "nepali.month.short.september"
+msgid "Poush"
+msgstr ""
+
+#: nepali.month.short.october
+msgctxt "nepali.month.short.october"
+msgid "Magh"
+msgstr ""
+
+#: nepali.month.short.november
+msgctxt "nepali.month.short.november"
+msgid "Falgun"
+msgstr ""
+
+#: nepali.month.short.december
+msgctxt "nepali.month.short.december"
+msgid "Chaitra"
+msgstr ""
+
+#: nepali.weekday.monday
+msgctxt "nepali.weekday.monday"
+msgid "Monday"
+msgstr ""
+
+#: nepali.weekday.tuesday
+msgctxt "nepali.weekday.tuesday"
+msgid "Tuesday"
+msgstr ""
+
+#: nepali.weekday.wednesday
+msgctxt "nepali.weekday.wednesday"
+msgid "Wednesday"
+msgstr ""
+
+#: nepali.weekday.thursday
+msgctxt "nepali.weekday.thursday"
+msgid "Thursday"
+msgstr ""
+
+#: nepali.weekday.friday
+msgctxt "nepali.weekday.friday"
+msgid "Friday"
+msgstr ""
+
+#: nepali.weekday.saturday
+msgctxt "nepali.weekday.saturday"
+msgid "Saturday"
+msgstr ""
+
+#: nepali.weekday.sunday
+msgctxt "nepali.weekday.sunday"
+msgid "Sunday"
+msgstr ""
+
+#: nepali.weekday.short.monday
+msgctxt "nepali.weekday.short.monday"
+msgid "Mon"
+msgstr ""
+
+#: nepali.weekday.short.tuesday
+msgctxt "nepali.weekday.short.tuesday"
+msgid "Tue"
+msgstr ""
+
+#: nepali.weekday.short.wednesday
+msgctxt "nepali.weekday.short.wednesday"
+msgid "Wed"
+msgstr ""
+
+#: nepali.weekday.short.thursday
+msgctxt "nepali.weekday.short.thursday"
+msgid "Thu"
+msgstr ""
+
+#: nepali.weekday.short.friday
+msgctxt "nepali.weekday.short.friday"
+msgid "Fri"
+msgstr ""
+
+#: nepali.weekday.short.saturday
+msgctxt "nepali.weekday.short.saturday"
+msgid "Sat"
+msgstr ""
+
+#: nepali.weekday.short.sunday
+msgctxt "nepali.weekday.short.sunday"
+msgid "Sun"
+msgstr ""
+
+#. #-- Translation page ------------------------------------------------------#
+#: translation_translate
+msgid "Translate"
+msgstr "翻译"
+
+#: translation_addlocale
+msgid "Add locale"
+msgstr "保存locale"
+
+#: translation_details
+msgctxt "translation_details"
+msgid "Details"
+msgstr "详情"
+
+#: translation_select_locale
+msgid "[ Select locale ]"
+msgstr "[ 选择 地区 ]"
+
+#: translation_select_ref
+msgid "[ Select reference ]"
+msgstr "[ 选择参考 ]"
+
+#: translation_save
+msgctxt "translation_save"
+msgid "Save"
+msgstr "保存"
+
+#: translation_label_id
+msgid "Id"
+msgstr "Id"
+
+#: translation_label_name
+msgctxt "translation_label_name"
+msgid "Name"
+msgstr "名称"
+
+#: translation_label_shortName
+msgctxt "translation_label_shortName"
+msgid "Short name"
+msgstr "缩写"
+
+#: translation_label_description
+msgctxt "translation_label_description"
+msgid "Description"
+msgstr "描述"
+
+#: translation_label_comment
+msgctxt "translation_label_comment"
+msgid "Comment"
+msgstr "评论"
+
+#: translation_label_region
+msgid "Region"
+msgstr "地区"
+
+#: translation_label_title
+msgid "Title"
+msgstr "称谓"
+
+#: translation_variant
+msgid "Variant"
+msgstr "变体"
+
+#: translation_countrycode
+msgid "Country code"
+msgstr "国家代码"
+
+#: translation_languagecode
+msgid "Language code"
+msgstr "语言代码"
+
+#: translation_label_numerator_description
+msgctxt "translation_label_numerator_description"
+msgid "Numerator description"
+msgstr "描述"
+
+#: translation_label_denominator_description
+msgctxt "translation_label_denominator_description"
+msgid "Denominator description"
+msgstr "分母描述"
+
+#: translation_locale_added
+msgid "Added locale"
+msgstr "添加地区"
+
+#: translation_cancel
+msgctxt "translation_cancel"
+msgid "Cancel"
+msgstr "取消"
+
+#: translation_add
+msgctxt "translation_add"
+msgid "Add"
+msgstr "添加"
+
+#: translation_locale
+msgid "Locale"
+msgstr "地区"
+
+#: translation_reference
+msgid "Reference"
+msgstr "引用"
+
+#: translation_language_must_be_two_chars
+msgid "Language must be two characters"
+msgstr "语言需为两个字符"
+
+#: translation_country_must_be_two_chars
+msgid "Country must be two characters"
+msgstr "国家必须两个字符"
+
+#: translation_variant_must_be_specified
+msgid "Variant must be specified"
+msgstr "需定义变体"
+
+#: translation_locale_already_exists
+msgid "Locale already exists"
+msgstr "地区已经存在"
+
+#: translation_shortname_wellformed
+msgid ""
+"Please verify Letters, Numbers, Underscore and Spaces for short name only"
+msgstr "请确认缩写仅限于字母、数字、下划线和空格"
+
+#: translation_shortname_length
+msgid "Shortname's maximum length of 25 charaters"
+msgstr "缩写需小于25个字符"
+
+#: translation_duplicated_name_with
+msgid "Sorry! You entered a duplicated name with"
+msgstr "抱歉，你输入重复的名称"
+
+#: translation_duplicated_shortname_with
+msgid "Sorry! You entered a duplicated short name with"
+msgstr "抱歉，你输入重复的姓氏"
+
+#: translation_label_formName
+msgid "Form name"
+msgstr ""
+
+#. #-- About ----------------------------------------------------------------------#
+#: name_exists
+msgid "Warning, name already exists"
+msgstr ""
+
+#: name_is_required
+msgid "Error, name is required"
+msgstr ""
+
+#: version
+msgid "Version"
+msgstr "版本"
+
+#: build_revision
+msgid "Build revision"
+msgstr "创建版本"
+
+#: build_date
+msgid "Build date"
+msgstr "创建日期"
+
+#: user_agent
+msgid "User agent"
+msgstr "用户代理"
+
+#: external_configuration_directory
+msgid "External configuration directory"
+msgstr "外部配置目录"
+
+#: environment_variable
+msgid "Environment variable"
+msgstr "环境变量"
+
+#: database_type
+msgid "Database type"
+msgstr "数据库类型"
+
+#: database_name
+msgid "Database name"
+msgstr "数据库名称"
+
+#: database_user
+msgid "Database user"
+msgstr "数据库用户"
+
+#: not_set
+msgid "Not set"
+msgstr "没有设置"
+
+#: current_user
+msgid "Current user"
+msgstr "当前用户"
+
+#: dhis2_online
+msgid "DHIS 2 Online"
+msgstr "区域医疗卫生信息在线"
+
+#: home_page
+msgid "Home Page"
+msgstr ""
+
+#: launchpad_site
+msgid "Launchpad Site"
+msgstr ""
+
+#: message_to_the_dhis2_development_team
+msgid "Message to the DHIS 2 development team"
+msgstr "发送信息到开发组"
+
+#: error_message_stack_trace
+msgid "Error message / Stack trace"
+msgstr "错误信息/堆栈跟踪"
+
+#: enter_message
+msgid "Enter a message"
+msgstr "输入一个信息"
+
+#: send
+msgid "Send"
+msgstr "发送"
+
+#: help
+msgid "Help"
+msgstr "帮助"
+
+#: send_feedback
+msgid "Send feedback"
+msgstr "发送反馈"
+
+#: status
+msgid "Status"
+msgstr ""
+
+#: system_status
+msgid "System status"
+msgstr "系统状态"
+
+#: feedback
+msgid "Feedback"
+msgstr "反馈"
+
+#: intro
+msgid "Intro"
+msgstr "介绍"
+
+#: help_contents
+msgid "Help Contents"
+msgstr "帮助内容"
+
+#: about_dhis2
+msgid "About DHIS 2"
+msgstr "关于综合卫生信息管理平台"
+
+#: last_name
+msgid "Last name"
+msgstr ""
+
+#: unknown
+msgid "Unknown"
+msgstr "未知"
+
+#: java_opts
+msgid "Java opts"
+msgstr "Java选项"
+
+#: java_home
+msgid "Java home"
+msgstr ""
+
+#: java_tmp_dir
+msgid "Java temporary directory"
+msgstr ""
+
+#: java_version
+msgid "Java version"
+msgstr "Java版本"
+
+#: java_vendor
+msgid "Java vendor"
+msgstr "java 供应商"
+
+#: os_name
+msgid "OS name"
+msgstr "OS名称"
+
+#: os_architecture
+msgid "OS architecture"
+msgstr "OS体系"
+
+#: os_version
+msgid "OS version"
+msgstr " 操作系统版本"
+
+#: supportive_software
+msgid "Supportive Software"
+msgstr "支持软件"
+
+#: chrome_description
+msgid "Super fast web browser for all platforms"
+msgstr "所有平台适用的最快浏览器"
+
+#: foxit_description
+msgid "Free and simple PDF reader for Windows"
+msgstr "简易免费windows PDF阅读器"
+
+#: web_browser
+msgid "Web browser"
+msgstr "Web浏览器"
+
+#: pdf_reader
+msgid "PDF reader"
+msgstr "PDF阅读器"
+
+#: ireport_description
+msgid "Report designer for standard reports"
+msgstr "标准报表设计器"
+
+#: report_designer
+msgid "Report designer"
+msgstr "报表设计器"
+
+#: my_datamart
+msgid "MyDatamart"
+msgstr "我的数据集市"
+
+#: my_datamart_description
+msgid "Local data mart for off-line data analysis"
+msgstr "离线数据分析用本地数据集市"
+
+#: mobile_client
+msgid "Mobile client"
+msgstr "移动客户"
+
+#: mobile_client_description
+msgid "Client for data capture on mobile devices"
+msgstr "移动设备数据采集客户端"
+
+#: web_api
+msgid "Web API"
+msgstr "Web API"
+
+#: system_overview
+msgid "System Overview"
+msgstr "系统概要"
+
+#: server_date
+msgid "Server date"
+msgstr "服务器日期"
+
+#: last_analytics_table_generation
+msgid "Last analytics table generation"
+msgstr ""
+
+#: last_analytics_table_runtime
+msgid "Last analytics table runtime"
+msgstr ""
+
+#: time_since_last_analytics_table_generation
+msgid "Time since last analytics table generation"
+msgstr ""
+
+#: online_release_page
+msgctxt "online_release_page"
+msgid "online release page"
+msgstr "在线发布页面"
+
+#: edit_profile
+msgid "Edit profile"
+msgstr ""
+
+#: view_profile
+msgid "View profile"
+msgstr ""
+
+#: profile_details
+msgid "Profile details"
+msgstr ""
+
+#: job_title
+msgid "Job title"
+msgstr ""
+
+#: introduction
+msgid "Introduction"
+msgstr ""
+
+#: gender
+msgid "Gender"
+msgstr ""
+
+#: male
+msgctxt "male"
+msgid "Male"
+msgstr ""
+
+#: female
+msgctxt "female"
+msgid "Female"
+msgstr ""
+
+#: other
+msgctxt "other"
+msgid "Other"
+msgstr ""
+
+#: birthday
+msgid "Birthday"
+msgstr ""
+
+#: nationality
+msgid "Nationality"
+msgstr ""
+
+#: employer
+msgid "Employer"
+msgstr ""
+
+#: education
+msgid "Education"
+msgstr ""
+
+#: interests
+msgid "Interests"
+msgstr ""
+
+#: languages
+msgid "Languages"
+msgstr ""
+
+#: update_user_profile_success
+msgid "Profile was updated"
+msgstr ""
+
+#: settings
+msgctxt "settings"
+msgid "Settings"
+msgstr ""
+
+#: property_to_display_in_analysis_modules
+msgid "Property to display in analysis modules"
+msgstr ""
+
+#: user_settings
+msgid "User settings"
+msgstr ""
+
+#: general
+msgid "General"
+msgstr ""
+
+#: message
+msgid "Message"
+msgstr ""
+
+#: db_language
+msgid "Database language"
+msgstr ""
+
+#: language
+msgid "Interface language"
+msgstr ""
+
+#: use_db_locale_no_translation
+msgid "Use database locale / no translation"
+msgstr ""
+
+#: style
+msgid "Style"
+msgstr ""
+
+#: user_general_settings
+msgid "User General Settings"
+msgstr ""
+
+#: user_message_settings
+msgid "User Message Settings"
+msgstr ""
+
+#: enable_message_email_notifications
+msgid "Enable message email notifications"
+msgstr ""
+
+#: enable_message_sms_notifications
+msgid "Enable message SMS notifications"
+msgstr ""
+
+#: intro_user_general_settings
+msgid ""
+"Customize the system with user specific settings for locale, style and more."
+msgstr ""
+
+#: intro_user_message_settings
+msgid ""
+"Customize the system with user specific settings for message email and sms "
+"notification."
+msgstr ""
+
+#: light_blue
+msgid "Light Blue"
+msgstr ""
+
+#: green
+msgid "Green"
+msgstr ""
+
+#: myanmar
+msgctxt "myanmar"
+msgid "Myanmar"
+msgstr ""
+
+#: india
+msgctxt "india"
+msgid "India"
+msgstr "橘红"
+
+#: vietnam
+msgctxt "vietnam"
+msgid "Vietnam"
+msgstr "深红"
+
+#: settings_updated
+msgid "Settings were updated"
+msgstr ""
+
+#: dashboard
+msgctxt "dashboard"
+msgid "Dashboard"
+msgstr ""
+
+#: messages
+msgid "Messages"
+msgstr ""
+
+#: interpretations
+msgid "Interpretations"
+msgstr ""
+
+#: interface_style
+msgid "Interface style"
+msgstr ""
+
+#: server_memory
+msgid "Server memory"
+msgstr ""
+
+#: cpu_cores
+msgid "CPU cores"
+msgstr ""
+
+#: please_select
+msgid "Please select"
+msgstr ""
+
+#: browse_it_here
+msgid "Browse it here"
+msgstr ""
+
+#. #-- Change Log------------------------------------------------------------------#
+#: change_log
+msgid "Change Log"
+msgstr "变更日志"
+
+#: release
+msgid "Release"
+msgstr "发布"
+
+#: release_page
+msgctxt "release_page"
+msgid "online release page"
+msgstr "在线发布页"
+
+#. #-- Macros ---------------------------------------------------------------------#
+#: yes
+msgctxt "yes"
+msgid "Yes"
+msgstr "是"
+
+#: no
+msgctxt "no"
+msgid "No"
+msgstr "否"
+
+#: true
+msgctxt "true"
+msgid "Yes"
+msgstr "是"
+
+#: false
+msgctxt "false"
+msgid "No"
+msgstr "否"
+
+#: sum
+msgid "Sum"
+msgstr "求和"
+
+#: count
+msgid "Count"
+msgstr "计数"
+
+#: average
+msgid "Average"
+msgstr "平均"
+
+#: stddev
+msgid "Standard deviation"
+msgstr ""
+
+#: variance
+msgid "Variance"
+msgstr ""
+
+#: min
+msgid "Min"
+msgstr ""
+
+#: max
+msgid "Max"
+msgstr ""
+
+#: text
+msgid "Text"
+msgstr "文本"
+
+#: long_text
+msgid "Long text"
+msgstr ""
+
+#: string
+msgid "String"
+msgstr "字符串"
+
+#: int
+msgctxt "int"
+msgid "Number"
+msgstr "数字"
+
+#: number
+msgctxt "number"
+msgid "Number"
+msgstr "数字"
+
+#: positive_integer
+msgid "Positive Integer"
+msgstr ""
+
+#: zero_positive_int
+msgid "Positive or Zero Integer"
+msgstr ""
+
+#: negative_integer
+msgid "Negative Integer"
+msgstr ""
+
+#: unit_interval
+msgid "Unit interval"
+msgstr ""
+
+#: percentage
+msgid "Percentage"
+msgstr ""
+
+#: date
+msgid "Date"
+msgstr "日期"
+
+#: date_time
+msgid "Date & Time"
+msgstr ""
+
+#: yes_no
+msgctxt "yes_no"
+msgid "Yes/No"
+msgstr "是/否"
+
+#: bool
+msgctxt "bool"
+msgid "Yes/No"
+msgstr "是/否"
+
+#: none
+msgctxt "none"
+msgid "None"
+msgstr "无"
+
+#: yes_only
+msgid "Yes Only"
+msgstr "仅是"
+
+#: custom
+msgid "Custom"
+msgstr ""
+
+#. #-- Validation messages -------------------------------------------------------#
+#: value_must_integer
+msgid "Value must be an integer"
+msgstr ""
+
+#: value_must_number
+msgid "Value must be a number"
+msgstr ""
+
+#: value_must_positive_integer
+msgid "Value must be a positive integer"
+msgstr ""
+
+#: value_must_negative_integer
+msgid "Value must be a negative integer"
+msgstr ""
+
+#: value_must_zero_or_positive_integer
+msgid "Value must be zero or a positive integer"
+msgstr ""
+
+#: value_must_unit_interval
+msgid "Value must be a unit interval (between 0 and 1)"
+msgstr ""
+
+#: value_must_percentage
+msgid "Value must be a percentage (between 0 and 100)"
+msgstr ""
+
+#. #-- User account --------------------------------------------------------------#
+#: profile
+msgid "Profile"
+msgstr ""
+
+#: account
+msgid "Account"
+msgstr ""
+
+#: update_user
+msgid "Update user"
+msgstr "更新用户"
+
+#: user_account
+msgid "User account"
+msgstr "用户账号"
+
+#: user_name
+msgctxt "user_name"
+"user_name"
+msgid "Username"
+msgstr "用户名称"
+
+#: old_password
+msgid "Old password"
+msgstr "旧口令"
+
+#: new_password
+msgctxt "new_password"
+msgid "New password"
+msgstr "新口令"
+
+#: retype_new_password
+msgid "Retype new password"
+msgstr "再次输入口令"
+
+#: surname
+msgid "Surname"
+msgstr "姓"
+
+#: first_name
+msgid "First name"
+msgstr "姓"
+
+#: email
+msgid "E-mail"
+msgstr "电子邮件"
+
+#: openid
+msgid "OpenID"
+msgstr ""
+
+#: username
+msgctxt "username"
+msgid "Username"
+msgstr "用户名"
+
+#: phone_number
+msgid "Mobile phone number"
+msgstr "电话号码"
+
+#: user_roles
+msgid "User roles"
+msgstr "用户角色"
+
+#: update_user_success
+msgid "Account was updated"
+msgstr "成功更新信息"
+
+#: wrong_password
+msgid "Wrong password"
+msgstr "错误的口令"
+
+#: help_center
+msgid "Help Center"
+msgstr "帮助中心"
+
+#: help_intro_header
+msgid "Welcome to the DHIS 2 Help Center"
+msgstr "欢迎来到帮助中心"
+
+#: help_intro_text
+msgid "Please select an item from the menu to the left."
+msgstr "请从菜单选择一个条目到左边"
+
+#: please_wait_while_the_system_is_processing
+msgid "Please wait while the system is processing"
+msgstr "系统正在处理请等等"
+
+#: organisation_unit_required_for_user
+msgid "User must be assigned to at least one organisation unit"
+msgstr ""
+
+#. #-- Contact info ---------------------------------------------------------------#
+#: address
+msgid "Address"
+msgstr "地址"
+
+#: contact_details
+msgid "Contact information"
+msgstr "联系信息"
+
+#: contact_person
+msgid "Contact person"
+msgstr "联系人"
+
+#. #-- Form validation messages --------------------------------------------------#
+#: this_field_is_required
+msgid "This field is required."
+msgstr "该字段是必须的"
+
+#: please_fix_this_field
+msgid "Please fix this field."
+msgstr "请解决该字段"
+
+#: please_enter_a_valid_email_address
+msgid "Please enter a valid email address."
+msgstr "请输入有效的email地址"
+
+#: please_enter_a_valid_url
+msgid "Please enter a valid URL."
+msgstr "请输入一个有效的URL"
+
+#: please_enter_a_valid_date
+msgid "Please enter a valid date."
+msgstr "请输入有效的日期"
+
+#: please_enter_a_valid_date_iso
+msgid "Please enter a valid date (e.g. 1990-01-01)."
+msgstr "请输入有效的日期（像1990-01-01）"
+
+#: please_enter_a_valid_number
+msgctxt "please_enter_a_valid_number"
+msgid "Please enter a valid number."
+msgstr "请输入有效的数字"
+
+#: please_enter_a_valid_digits
+msgid "Please enter only digits."
+msgstr "请输入仅仅数字"
+
+#: please_enter_the_equal_values_again
+msgid "The entered values do not match. Please re-enter the values."
+msgstr "输入不匹配，重新输入"
+
+#: please_enter_a_value_with_a_valid_expression
+msgid "Please enter a value with a valid extension."
+msgstr "请输入一个有有效扩展的值"
+
+#: first_character_must_be_alphabetical
+msgid "The first character must be a letter."
+msgstr "第一个字符必须是字母"
+
+#: please_enter_no_more_than_n_character
+msgid "Please enter no more than {0} characters."
+msgstr "请输入不要超过{0}个字符"
+
+#: please_enter_at_least_than_n_character
+msgctxt "please_enter_at_least_than_n_character"
+msgid "Please enter at least {0} characters."
+msgstr "请至少输入{0} 个字符"
+
+#: please_enter_a_value_between_n_character
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr "请输入一个在{0}到{1}字符长的值"
+
+#: please_enter_a_value_between_a_and_b
+msgid "Please enter a value between {0} and {1}."
+msgstr "请输入{0}到{1}之间的值"
+
+#: please_enter_a_value_less_than_or_equal_to_n
+msgid "Please enter a value less than or equal to {0}."
+msgstr "请输入一个小于或等于{0}的值"
+
+#: please_enter_a_value_greater_than_or_equal_to_n
+msgid "Please enter a value greater than or equal to {0}."
+msgstr "请输入一个大于或等于{0}的值"
+
+#: please_enter_a_different_value_to_above
+msgid "Please enter a different value to above."
+msgstr "请在上面输入不同的值"
+
+#: digits_decimal_only_please
+msgid ""
+"Please enter digits only. Three digits before decimal point and two after "
+"the decimal point are allowed."
+msgstr "仅输入数字，允许小数点前3位后2位"
+
+#: please_letters_numbers_spaces_underscores_only
+msgid "Only letters, numbers, spaces and underscores are allowed."
+msgstr "仅允许字符、数字、空间和下划线"
+
+#: please_letters_numbers_spaces_or_some_special_chars_only
+msgid ""
+"Only letters, numbers, spaces and the characters \n"
+" .,-,(,) are allowed."
+msgstr "仅允许字符、数字、空格和 .,-,(,)等字符"
+
+#: please_enter_a_value_less_than_or_equal_to
+msgid "Please enter a value less than or equal to {1}"
+msgstr "请输入一个小于或等于{0}的值"
+
+#: please_enter_a_value_greater_than_or_equal_to
+msgid "Please enter a value greater than or equal to {1}"
+msgstr "请输入大于或等于{1}的值"
+
+#: please_do_not_enter_same_values
+msgid "Please do not enter same values."
+msgstr "请不要输入同样的值"
+
+#: letters_or_punctuation_only_please
+msgid "Letters or punctuation only please."
+msgstr "仅字母或标点符号。"
+
+#: please_enter_n_words_or_less
+msgid "Please enter {0} words or less."
+msgstr "请输入{0}个字或更少"
+
+#: please_enter_at_least_n_words
+msgid "Please enter at least {0} words."
+msgstr "请至少输入{0}个词"
+
+#: please_enter_betwwen_a_and_b_words
+msgid "Please enter between {0} and {1} words."
+msgstr "请输入一个介于{0}和{1}之间的值"
+
+#: letters_only_please
+msgid "Letters only please."
+msgstr "仅仅字符"
+
+#: no_white_space_please
+msgid "No white space please"
+msgstr "不能有空格"
+
+#: no_start_white_space_please
+msgid "This field cannot start with a space."
+msgstr "不能空格开始"
+
+#: ZIP_code_must_be_in_the_range
+msgid "Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx"
+msgstr "你的邮编需在范围902xx-xxxx到905-xx-xxxx"
+
+#: please_enter_valid_time
+msgid "Please enter a valid time, between 00:00 and 23:59."
+msgstr "输入有效时间"
+
+#: please_enter_valid_phone_number
+msgid "Please specify a valid phone number."
+msgstr "请指定一个有效的电话号码"
+
+#: please_enter_at_least_n_character
+msgctxt "please_enter_at_least_n_character"
+msgid "Please enter at least {0} characters."
+msgstr "请输入至少{0}个字符"
+
+#: this_date_can_not_be_after_today
+msgid "This date can not be after today."
+msgstr "日期不能晚于今日"
+
+#: please_fill_out_at_least_one_of_these_fields
+msgid "Please fill out at least one of these fields."
+msgstr "请至少填写一个这些字段"
+
+#: please_select_at_least_one_option_for_these_fields
+msgid "Please select at least one option for these fields."
+msgstr "请至少为这些字段选择一个选项"
+
+#: password_must_contain_at_least_one_capital_letter_and_one_digit
+msgid "Password must contain at least one capital letter and one digit."
+msgstr "口令至少一个大写字符和数字"
+
+#: only_digits_are_not_allowed
+msgid "Only digits are not allowed"
+msgstr "不允许全数字"
+
+#: closedDate_should_be_greater_than_openDate
+msgid "The ClosedDate field should be greater than the OpenDate field."
+msgstr "截止日应大于开放日"
+
+#: please_unicode_chars_only
+msgid "Valid unicode charaters only are allowed."
+msgstr "仅允许有效的的UNICODE字符"
+
+#: unrecognized_coordinate_string
+msgid "Unrecognized coordinate string"
+msgstr "未知坐标串"
+
+#: please_enter_a_letters_or_digits
+msgid "Please enter letters or digits."
+msgstr "请输入数字或字符"
+
+#: please_enter_valid_number
+msgctxt "please_enter_valid_number"
+msgid "Please enter a valid number."
+msgstr "输入有效数字"
+
+#: please_enter_valid_integer
+msgid "Please enter a valid integer."
+msgstr "请输入一个有效的整数"
+
+#: please_enter_valid_positive_integer
+msgid "Please enter a valid positive integer."
+msgstr "请输入一个有效的的正整数"
+
+#: please_enter_valid_negative_integer
+msgid "Please enter a valid negative integer."
+msgstr "输入负整数"
+
+#: please_enter_name
+msgid "Please enter name!"
+msgstr "请输入名称"
+
+#: please_select_period
+msgid "Please select period!"
+msgstr "选择周期"
+
+#: please_select_dataset
+msgid "Please select dataset!"
+msgstr "选择数据集"
+
+#: please_select_dataelement
+msgid "Please select data element!"
+msgstr "请选择数据元"
+
+#: please_select_indicator
+msgid "Please select indicator!"
+msgstr "选择指标"
+
+#: please_enter_description
+msgid "Please enter description!"
+msgstr "请输入描述"
+
+#: delete_confirm
+msgid "Do you want to delete?"
+msgstr "要删除？"
+
+#: available
+msgid "Available"
+msgstr "可用的"
+
+#: selected
+msgid "Selected"
+msgstr "已选择"
+
+#: error
+msgid "Error"
+msgstr "错误"
+
+#: warning
+msgid "Warning"
+msgstr "警告"
+
+#: success
+msgid "Success"
+msgstr "成功"
+
+#: waiting
+msgid "Please wait"
+msgstr "请等待....."
+
+#: expression_not_well_formed
+msgid "Expression is not well formed"
+msgstr "表达式不符合语法规则"
+
+#: invalid_identifiers_in_expression
+msgid "Invalid identifiers in expression"
+msgstr ""
+
+#: filter_not_evaluating_to_true_or_false
+msgid "Filter is not evaluating to true or false"
+msgstr ""
+
+#: locate_by_code
+msgid "Locate by code"
+msgstr "按编码定位"
+
+#: select_at_level
+msgid "Select at level"
+msgstr "同级选择"
+
+#: unselect_at_level
+msgid "Un-select at level"
+msgstr "取消选择等级"
+
+#: unselect_all
+msgid "Un-select all"
+msgstr "取消全部选择"
+
+#: select_all
+msgid "Select all"
+msgstr "全选"
+
+#: select_in_group
+msgid "Select in group"
+msgstr "选择同组"
+
+#: unselect_in_group
+msgid "Un-select in group"
+msgstr "不选同组"
+
+#: select_children
+msgid "Select children"
+msgstr "选择下属"
+
+#: unselect_children
+msgid "Un-select children"
+msgstr "取消选择子级"
+
+#: organisation_unit_selection_tree
+msgid "Organisation Unit Selection"
+msgstr "组织机构选择"
+
+#: move_selected
+msgid "Move selected"
+msgstr "移动选择的"
+
+#: remove_selected
+msgid "Remove selected"
+msgstr "移除选择的"
+
+#: move_all
+msgid "Move all"
+msgstr "移动全部档案"
+
+#: remove_all
+msgid "Remove all"
+msgstr "全部移除"
+
+#: move_up
+msgid "Move up"
+msgstr "上移"
+
+#: move_down
+msgid "Move down"
+msgstr "下移"
+
+#: move_to_top
+msgid "Move to top"
+msgstr "移到顶部"
+
+#: move_to_bottom
+msgid "Move to bottom"
+msgstr "移动到底部"
+
+#. #-- Paging messages -----------------------------------------------------------#
+#: no_of_pages
+msgid "No. of pages"
+msgstr "页数"
+
+#: rows_in_page
+msgid "No. of rows per page"
+msgstr "每页行数"
+
+#: jump_to_page
+msgid "Jump to page"
+msgstr "跳到页面"
+
+#: go
+msgid "Go"
+msgstr "进入"
+
+#: filter_by_name
+msgid "Filter by name"
+msgstr "按名称过滤"
+
+#: filter
+msgid "Filter"
+msgstr "过滤"
+
+#: clear
+msgid "Clear"
+msgstr "清除"
+
+#: find
+msgid "Find"
+msgstr "查询"
+
+#: delete_success
+msgid "Object deleted"
+msgstr "对象已经删除"
+
+#: process
+msgid "Processing..."
+msgstr "正在处理......"
+
+#. #-- Export PDF messages -------------------------------------------------------#
+#: get_pdf
+msgid "Get PDF"
+msgstr "获取PDF"
+
+#: no_item_to_export
+msgid "There is no item to export"
+msgstr "无条目导出"
+
+#: name
+msgctxt "name"
+msgid "Name"
+msgstr "名称"
+
+#: short_name
+msgctxt "short_name"
+msgid "Short name"
+msgstr "缩写名"
+
+#: alternative_name
+msgid "Alternative name"
+msgstr "可选名称"
+
+#: code
+msgid "Code"
+msgstr "代码"
+
+#: description
+msgctxt "description"
+msgid "Description"
+msgstr "描述"
+
+#: opening_date
+msgid "Opening date"
+msgstr "生效日期"
+
+#: closed_date
+msgid "Closed date"
+msgstr "截止日"
+
+#: active
+msgid "Active"
+msgstr "活动的"
+
+#: type
+msgid "Type"
+msgstr "类型"
+
+#: value_type
+msgid "Value Type"
+msgstr "值类型"
+
+#: actual
+msgid "Actual"
+msgstr "实际的"
+
+#: target
+msgid "Target"
+msgstr "目标"
+
+#: percent
+msgid "Percent"
+msgstr "百分比"
+
+#: on_time
+msgid "On time"
+msgstr "准时"
+
+#: data_dictionary
+msgid "Data Dictionary"
+msgstr "数据字典"
+
+#: data_elements
+msgid "Data elements"
+msgstr "数据元"
+
+#: data_sets
+msgid "Data sets"
+msgstr "数据集"
+
+#: indicators
+msgid "Indicators"
+msgstr "指标"
+
+#: indicator_groups
+msgid "Indicator groups"
+msgstr "指标分组"
+
+#: data_element_groups
+msgid "Data element groups"
+msgstr "数据元组"
+
+#: data_element_concepts
+msgid "Data element concepts"
+msgstr "数据元概念"
+
+#: organisation_units
+msgid "Organisation units"
+msgstr "组织机构"
+
+#: organisation_unit_groups
+msgid "Organisation unit groups"
+msgstr "组织机构分组"
+
+#: organisation_unit_hierarchy
+msgid "Organisation unit hierarchy"
+msgstr "组织机构体系"
+
+#: validation_rules
+msgid "Validation rules"
+msgstr "验证规则"
+
+#: period_type
+msgid "Period Type"
+msgstr "周期类型"
+
+#: users
+msgctxt "users"
+msgid "Users"
+msgstr "用户"
+
+#: user_groups
+msgid "User groups"
+msgstr ""
+
+#: pivot_tables
+msgid "Pivot tables"
+msgstr ""
+
+#: charts
+msgid "Charts"
+msgstr ""
+
+#: maps
+msgid "Maps"
+msgstr ""
+
+#: dashboards
+msgid "Dashboards"
+msgstr ""
+
+#: programs
+msgid "Programs"
+msgstr ""
+
+#: events
+msgid "Events"
+msgstr ""
+
+#. #-- Indicator -----------------------------------------------------------------#
+#: expression
+msgid "Expression"
+msgstr "表达式"
+
+#: left_expression
+msgid "Left Expression"
+msgstr "左表达式"
+
+#: right_expression
+msgid "Right Expression"
+msgstr "正确的表达式"
+
+#: indicator_type
+msgid "Indicator Type"
+msgstr "指标类型"
+
+#: annualized
+msgid "Annualized"
+msgstr "年度"
+
+#: aggregation_operator
+msgid "Aggregation operator"
+msgstr "聚合算子"
+
+#: numerator
+msgid "Numerator"
+msgstr "分子"
+
+#: numerator_formula
+msgid "Numerator formula"
+msgstr "分子公式"
+
+#: numerator_description
+msgctxt "numerator_description"
+msgid "Numerator description"
+msgstr "分子描述"
+
+#: numerator_aggregation_operator
+msgid "Numerator aggregation operator"
+msgstr "分子聚合算子"
+
+#: denominator
+msgid "Denominator"
+msgstr "分母"
+
+#: denominator_formula
+msgid "Denominator formula"
+msgstr "分母公式"
+
+#: denominator_description
+msgctxt "denominator_description"
+msgid "Denominator description"
+msgstr "分母描述"
+
+#: denominator_aggregation_operator
+msgid "Denominator aggregation operator"
+msgstr "分母聚结算子"
+
+#: expression_is_empty
+msgid "Expression is empty"
+msgstr "表达式为空"
+
+#: category_option_combo_does_not_exist
+msgid "Category option combo does not exist"
+msgstr "分类选项下拉框不存在"
+
+#: data_element_does_not_exist
+msgid "Data element does not exist"
+msgstr "数据元不存在"
+
+#: constant_does_not_exist
+msgid "Constant does not exist"
+msgstr ""
+
+#: org_unit_group_does_not_exist
+msgid "Organisation unit group does not exist"
+msgstr ""
+
+#: id_not_numeric
+msgid "Identifier is not numeric"
+msgstr "标识不是数字"
+
+#: expression_not_well_formed
+msgid "Expression is not well-formed"
+msgstr "表达式不符合语法规则"
+
+#: valid
+msgid "Valid"
+msgstr ""
+
+#. #-- Validation Rule -----------------------------------------------------------#
+#: absolute
+msgid "Absolute"
+msgstr "绝对"
+
+#: statistical
+msgid "Statistical"
+msgstr "统计"
+
+#: left_side_description
+msgid "Left side description"
+msgstr "左边描述"
+
+#: right_side_description
+msgid "Right side description"
+msgstr "右边描述"
+
+#: left_side_of_expression
+msgid "Left side of Expression"
+msgstr "表达式左边"
+
+#: right_side_of_expression
+msgid "Right side of Expression"
+msgstr "表达式右边"
+
+#: operator
+msgid "Operator"
+msgstr "操作符"
+
+#: equal_to_symbol
+msgctxt "equal_to_symbol"
+msgid "=="
+msgstr "=="
+
+#: not_equal_to_symbol
+msgctxt "not_equal_to_symbol"
+msgid "!="
+msgstr "!="
+
+#: greater_than_symbol
+msgctxt "greater_than_symbol"
+msgid ">"
+msgstr ">"
+
+#: greater_than_or_equal_to_symbol
+msgctxt "greater_than_or_equal_to_symbol"
+msgid ">="
+msgstr ">="
+
+#: less_than_symbol
+msgctxt "less_than_symbol"
+msgid "<"
+msgstr "<"
+
+#: less_than_or_equal_to_symbol
+msgctxt "less_than_or_equal_to_symbol"
+msgid "<="
+msgstr "<="
+
+#: equal_to
+msgctxt "equal_to"
+msgid "=="
+msgstr "=="
+
+#: not_equal_to
+msgctxt "not_equal_to"
+msgid "!="
+msgstr "!="
+
+#: greater_than
+msgctxt "greater_than"
+msgid ">"
+msgstr ">"
+
+#: greater_than_or_equal_to
+msgctxt "greater_than_or_equal_to"
+msgid ">="
+msgstr ">="
+
+#: less_than
+msgctxt "less_than"
+msgid "<"
+msgstr "<"
+
+#: less_than_or_equal_to
+msgctxt "less_than_or_equal_to"
+msgid "<="
+msgstr "<="
+
+#: and_title
+msgid "And"
+msgstr ""
+
+#: or_title
+msgid "Or"
+msgstr ""
+
+#: equal_to_title
+msgid "Equal to"
+msgstr ""
+
+#: not_equal_to_title
+msgid "Not equal to"
+msgstr ""
+
+#: less_than_title
+msgid "Less than"
+msgstr ""
+
+#: less_than_or_equal_to_title
+msgid "Less than or equal to"
+msgstr ""
+
+#: greater_than_title
+msgid "Greater than"
+msgstr ""
+
+#: greater_than_or_equal_to_title
+msgid "Greater than or equal to"
+msgstr ""
+
+#. #-- Constant ------------------------------------------------------------------#
+#: constant
+msgid "Constant"
+msgstr "常数"
+
+#: constants
+msgid "Constants"
+msgstr "常数"
+
+#: no_constant_to_select
+msgid "No constants to select"
+msgstr "无常数可选"
+
+#. #-- Dynamic Attributes --------------------------------------------------------#
+#: multiple_choice
+msgid "Multiple Choice"
+msgstr "多重选择"
+
+#. #-- Sharing  ------------------------------------------------------------------#
+#: public_access
+msgid "Public access (with login)"
+msgstr ""
+
+#: external_access
+msgid "External access (without login)"
+msgstr ""
+
+#: user_group_access
+msgid "User group access"
+msgstr ""
+
+#: ajax_login_failed
+msgctxt "ajax_login_failed"
+msgid "Login failed, check your username and password and try again"
+msgstr ""
+
+#: group_name
+msgid "Group name"
+msgstr ""
+
+#: sharing_settings
+msgid "Sharing settings"
+msgstr ""
+
+#: no_access
+msgctxt "no_access"
+msgid "None"
+msgstr ""
+
+#: read_only
+msgid "Read only"
+msgstr ""
+
+#: read_write
+msgid "Read and write"
+msgstr ""
+
+#: can_edit_and_view
+msgid "Can edit and view"
+msgstr ""
+
+#: can_view
+msgid "Can view"
+msgstr ""
+
+#: search_for_user_groups
+msgid "Search for user groups"
+msgstr ""
+
+#: object_will_created_public
+msgid "This object will be created with public edit and view rights"
+msgstr ""
+
+#: object_will_created_private
+msgid "This object will be private to yourself"
+msgstr ""
+
+#: created_by
+msgid "Created by"
+msgstr ""
+
+#. #-- Countries / flags ---------------------------------------------------------#
+#: afghanistan
+msgid "Afghanistan"
+msgstr ""
+
+#: africare
+msgid "Africare"
+msgstr ""
+
+#: akros
+msgid "Akros"
+msgstr ""
+
+#: algeria
+msgid "Algeria"
+msgstr ""
+
+#: armenia
+msgid "Armenia"
+msgstr "亚美尼亚"
+
+#: bangladesh
+msgid "Bangladesh"
+msgstr "孟加拉国"
+
+#: benin
+msgid "Benin"
+msgstr "贝宁"
+
+#: bhutan
+msgid "Bhutan"
+msgstr ""
+
+#: botswana
+msgid "Botswana"
+msgstr "博茨瓦纳"
+
+#: burkina_faso
+msgid "Burkina Faso"
+msgstr "布吉纳法索"
+
+#: burkina_faso_coat_of_arms
+msgid "Burkina Faso Coat of Arms"
+msgstr "布基纳法索"
+
+#: burundi
+msgid "Burundi"
+msgstr ""
+
+#: cambodia
+msgid "Cambodia"
+msgstr "柬埔寨"
+
+#: cameroon
+msgid "Cameroon"
+msgstr ""
+
+#: china
+msgid "China"
+msgstr "中国"
+
+#: colombia
+msgid "Colombia"
+msgstr ""
+
+#: demoland
+msgid "Demoland"
+msgstr ""
+
+#: congo_brazzaville
+msgid "Republic of the Congo"
+msgstr ""
+
+#: congo_kinshasa
+msgid "Democratic Republic of the Congo"
+msgstr ""
+
+#: east_africa_community
+msgid "East Africa Community"
+msgstr ""
+
+#: ecowas
+msgid "ECOWAS"
+msgstr ""
+
+#: ecuador
+msgid "Ecuador"
+msgstr ""
+
+#: egypt
+msgid "Egypt"
+msgstr ""
+
+#: engender_health
+msgid "Engender Health"
+msgstr ""
+
+#: ethiopia
+msgid "Ethiopia"
+msgstr "埃塞俄比亚"
+
+#: fhi360
+msgid "FHI360"
+msgstr ""
+
+#: forut
+msgid "FORUT"
+msgstr ""
+
+#: gambia
+msgid "Gambia"
+msgstr "冈比亚"
+
+#: ghana
+msgid "Ghana"
+msgstr "加纳"
+
+#: global_fund
+msgid "Global Fund"
+msgstr ""
+
+#: guinea
+msgid "Guinea"
+msgstr "几内亚"
+
+#: guinea_bissau
+msgid "Guinea Bissau"
+msgstr "几内亚比绍"
+
+#: haiti
+msgid "Haiti"
+msgstr ""
+
+#: icap
+msgid "ICAP"
+msgstr ""
+
+#: ippf
+msgid "IPPF"
+msgstr ""
+
+#: india
+msgctxt "india"
+msgid "India"
+msgstr "橘红"
+
+#: indonesia
+msgid "Indonesia"
+msgstr "印尼"
+
+#: iraq
+msgid "Iraq"
+msgstr ""
+
+#: irc
+msgid "International Rescue Committee"
+msgstr "国际红十字会"
+
+#: ivory_coast
+msgid "Ivory Coast"
+msgstr "科特迪瓦"
+
+#: jhpiego
+msgid "JHPIEGO"
+msgstr ""
+
+#: kenya
+msgid "Kenya"
+msgstr ""
+
+#: laos
+msgid "Lao People's Democratic Republic"
+msgstr ""
+
+#: lesotho
+msgid "Lesotho"
+msgstr "莱索托"
+
+#: liberia
+msgid "Liberia"
+msgstr "利比里亚"
+
+#: malawi
+msgid "Malawi"
+msgstr "马拉维"
+
+#: mali
+msgid "Mali"
+msgstr "马里"
+
+#: mongolia
+msgid "Mongolia"
+msgstr ""
+
+#: mozambique
+msgid "Mozambique"
+msgstr "莫桑比克"
+
+#: myanmar
+msgctxt "myanmar"
+msgid "Myanmar"
+msgstr ""
+
+#: msf
+msgid "MSF"
+msgstr ""
+
+#: msi
+msgid "MSI"
+msgstr ""
+
+#: namibia
+msgid "Namibia"
+msgstr "纳米比亚"
+
+#: nepal
+msgid "Nepal"
+msgstr ""
+
+#: nicaragua
+msgid "Nicaragua"
+msgstr ""
+
+#: niger
+msgid "Niger"
+msgstr "尼日尔"
+
+#: nigeria
+msgid "Nigeria"
+msgstr ""
+
+#: norway
+msgid "Norway"
+msgstr "挪威"
+
+#: pakistan
+msgid "Pakistan"
+msgstr ""
+
+#: palestine
+msgid "Palestine"
+msgstr ""
+
+#: paraguay
+msgid "Paraguay"
+msgstr ""
+
+#: pepfar
+msgid "PEPFAR"
+msgstr ""
+
+#: peru
+msgid "Peru"
+msgstr ""
+
+#: philippines
+msgid "Philippines"
+msgstr "菲律宾"
+
+#: psi
+msgid "PSI"
+msgstr ""
+
+#: republic_of_trinidad_and_tobago
+msgid "Republic of Trinidad & Tobago"
+msgstr ""
+
+#: rwanda
+msgid "Rwanda"
+msgstr "卢旺达"
+
+#: senegal
+msgid "Senegal"
+msgstr "塞内加尔"
+
+#: sierra_leone
+msgid "Sierra Leone"
+msgstr "塞拉利昂"
+
+#: sierra_leone_coat_of_arms
+msgid "Sierra Leone Coat of Arms"
+msgstr "塞拉利昂层盾形纹章"
+
+#: solomon_islands
+msgid "Solomon Islands"
+msgstr ""
+
+#: south_africa
+msgid "South Africa"
+msgstr "南非"
+
+#: south_africa_department_of_health
+msgid "South Africa Department of Health"
+msgstr "南非卫生部门"
+
+#: south_sudan
+msgid "South Sudan"
+msgstr ""
+
+#: sri_lanka
+msgid "Sri Lanka"
+msgstr "斯里兰卡"
+
+#: sudan
+msgid "Sudan"
+msgstr ""
+
+#: swaziland
+msgid "Swaziland"
+msgstr "斯威士兰"
+
+#: tajikistan
+msgid "Tajikistan"
+msgstr "塔吉克斯塔"
+
+#: tanzania
+msgid "Tanzania"
+msgstr "坦桑尼亚"
+
+#: timor_leste
+msgid "Timor-Leste"
+msgstr ""
+
+#: togo
+msgid "Togo"
+msgstr "多哥"
+
+#: uganda
+msgid "Uganda"
+msgstr "乌干达"
+
+#: usaid
+msgid "USAID"
+msgstr ""
+
+#: vanuatu
+msgid "Vanuatu"
+msgstr ""
+
+#: vietnam
+msgctxt "vietnam"
+msgid "Vietnam"
+msgstr "深红"
+
+#: who
+msgid "WHO"
+msgstr ""
+
+#: zambia
+msgid "Zambia"
+msgstr "赞比亚"
+
+#: zanzibar
+msgid "Zanzibar"
+msgstr "桑给巴尔岛"
+
+#: zimbabwe
+msgid "Zimbabwe"
+msgstr "津巴布韦"
+
+#. #-- Login page ----------------------------------------------------------------#
+#: create_an_account
+msgid "Create an account"
+msgstr ""
+
+#: login_password
+msgctxt "login_password"
+msgid "Password"
+msgstr ""
+
+#: login_username
+msgctxt "login_username"
+msgid "Username"
+msgstr ""
+
+#: forgot_password
+msgid "Forgot password?"
+msgstr ""
+
+#: wrong_username_or_password
+msgid "Wrong username or password"
+msgstr ""
+
+#: powered_by
+msgid "Powered by"
+msgstr ""
+
+#: sign_in
+msgid "Sign in"
+msgstr ""
+
+#. #-- New User Account page -----------------------------------------------------#
+#: new_user_account_name
+msgctxt "new_user_account_name"
+msgid "Name"
+msgstr ""
+
+#: new_user_account_first_name
+msgid "First"
+msgstr ""
+
+#: new_user_account_last_name
+msgid "Last"
+msgstr ""
+
+#. #-- Recovery page -------------------------------------------------------------#
+#: recover_success_message
+msgid ""
+"Please check the email account which you registered for this username. We "
+"have sent you instructions on how to restore your password."
+msgstr ""
+
+#: recover_error_message
+msgid ""
+"Sorry, we were not able to restore your account. The username might be "
+"invalid, your account might not permit restore or you might have entered an "
+"invalid email address for your account."
+msgstr ""
+
+#. #-- App Menu ------------------------------------------------------------------#
+#: applications
+msgctxt "applications"
+msgid "Apps"
+msgstr ""
+
+#: more_applications
+msgid "More apps"
+msgstr ""
+
+#: app_manager
+msgctxt "app_manager"
+msgid "Apps"
+msgstr ""
+
+#: app_favorite_description
+msgid ""
+"This icon indicates an app that will be displayed in your dropdown menu."
+msgstr ""
+
+#: app_draggable_description
+msgid ""
+"Items are draggable to change their order, so it's easy to customize your "
+"favorite apps."
+msgstr ""
+
+#: app_order_custom
+msgid "My own order"
+msgstr ""
+
+#: app_order_name_alpha
+msgid "Alphabetical"
+msgstr ""
+
+#: app_search_placeholder
+msgid "Search apps"
+msgstr ""
+
+#. #-- Data value error codes ----------------------------------------------------#
+#: data_element_or_type_null_or_empty
+msgid "Data element or type is null or empty"
+msgstr ""
+
+#: value_length_greater_than_max_length
+msgid "Data value is greater than max length"
+msgstr ""
+
+#: value_not_numeric
+msgid "Data value is not numeric"
+msgstr ""
+
+#: value_not_unit_interval
+msgid "Data value is not a unit interval"
+msgstr ""
+
+#: value_not_percentage
+msgid "Data value is not a percentage"
+msgstr ""
+
+#: value_not_integer
+msgid "Data value is not an integer"
+msgstr ""
+
+#: value_not_positive_integer
+msgid "Data value is not a positive integer"
+msgstr ""
+
+#: value_not_negative_integer
+msgid "Data value is not a negative integer"
+msgstr ""
+
+#: value_is_zero_and_not_zero_significant
+msgid "Data value is zero and not zero significant"
+msgstr ""
+
+#: value_not_bool
+msgid "Data value is not a boolean"
+msgstr ""
+
+#: value_not_true_only
+msgid "Data value is not true"
+msgstr ""
+
+#: value_not_valid_date
+msgid "Data value is not a valid date"
+msgstr ""
+
+#: stored_by_length_greater_than_max_length
+msgid "Stored by is greater than max length"
+msgstr ""
+
+#: comment_length_greater_than_max_length
+msgctxt "comment_length_greater_than_max_length"
+msgid "Comment is greater than max length"
+msgstr ""
+
+#. #-- calendars -----------------------------------------------------------------#
+#: islamic
+msgid "Islamic"
+msgstr ""
+
+#: nepali
+msgid "Nepali"
+msgstr ""
+
+#: julian
+msgid "Julian"
+msgstr ""
+
+#: gregorian
+msgid "Gregorian"
+msgstr ""
+
+#: ethiopian
+msgid "Ethiopian"
+msgstr ""
+
+#: thai
+msgid "Thai"
+msgstr ""
+
+#: iso8601
+msgid "ISO 8601"
+msgstr ""
+
+#: coptic
+msgid "Coptic"
+msgstr ""
+
+#. #-- Email message footer ------------------------------------------------------#
+#: respond_to_this_message
+msgid "Respond to this message"
+msgstr ""
+
+#. #-- Restore emails ------------------------------------------------------------#
+#: email_restore_subject
+msgid "User account restore confirmation at"
+msgstr ""
+
+#: email_restore_1_1st_paragraph_before_application_title
+msgctxt "email_restore_1_1st_paragraph_before_application_title"
+msgid "Someone, probably you, has asked us to restore your"
+msgstr ""
+
+#: email_restore_1_1st_paragraph_after_application_title
+msgctxt "email_restore_1_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr ""
+
+#: email_restore_1_2nd_paragraph
+msgctxt "email_restore_1_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the first one. Please follow "
+"the link below. In the next step you will be asked to enter a code which has "
+"been sent to you in the other email."
+msgstr ""
+
+#: email_restore_1_3rd_paragraph
+msgctxt "email_restore_1_3rd_paragraph"
+msgid ""
+"You must complete the restore process within 1 hour. If you take no action, "
+"your account will not be restored. If you did not request this restore, "
+"please disregard this message."
+msgstr ""
+
+#: email_restore_2_1st_paragraph_before_application_title
+msgctxt "email_restore_2_1st_paragraph_before_application_title"
+msgid "Someone, probably you, has asked us to restore your"
+msgstr ""
+
+#: email_restore_2_1st_paragraph_after_application_title
+msgctxt "email_restore_2_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr ""
+
+#: email_restore_2_2nd_paragraph
+msgctxt "email_restore_2_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the second one. Please read the "
+"first email and follow the instructions. Please use the code below to "
+"complete the new account form."
+msgstr ""
+
+#: email_restore_2_3rd_paragraph
+msgctxt "email_restore_2_3rd_paragraph"
+msgid ""
+"You must complete the restore process within 1 hour. If you take no action, "
+"your account will not be restored. If you did not request this restore, "
+"please disregard this message."
+msgstr ""
+
+#. #-- Invite emails -------------------------------------------------------------#
+#: email_invite_subject
+msgid "Invitation to create user account at"
+msgstr ""
+
+#: email_invite_1_1st_paragraph_before_application_title
+msgctxt "email_invite_1_1st_paragraph_before_application_title"
+msgid "This is an invitation to create a"
+msgstr ""
+
+#: email_invite_1_1st_paragraph_after_application_title
+msgctxt "email_invite_1_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr ""
+
+#: email_invite_1_2nd_paragraph
+msgctxt "email_invite_1_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the first one. Please follow "
+"the link below. In the next step you will be asked to enter a code which has "
+"been sent to you in the other email."
+msgstr ""
+
+#: email_invite_1_3rd_paragraph
+msgctxt "email_invite_1_3rd_paragraph"
+msgid ""
+"You must respond to this invitation within 3 months. If you take no action, "
+"the invitation will expire at that time."
+msgstr ""
+
+#: email_invite_2_1st_paragraph_before_application_title
+msgctxt "email_invite_2_1st_paragraph_before_application_title"
+msgid "This is an invitation to create a"
+msgstr ""
+
+#: email_invite_2_1st_paragraph_after_application_title
+msgctxt "email_invite_2_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr ""
+
+#: email_invite_2_2nd_paragraph
+msgctxt "email_invite_2_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the second one. Please read the "
+"first email and follow the instructions. Please use the code below to "
+"complete the new account form."
+msgstr ""
+
+#: email_invite_2_3rd_paragraph
+msgctxt "email_invite_2_3rd_paragraph"
+msgid ""
+"You must respond to this invitation within 3 months. If you take no action, "
+"the invitation will expire at that time."
+msgstr ""
+
+#. #-- Cache strategy display strings --------------------------------------------#
+#: cache_strategy
+msgid "Cache strategy"
+msgstr ""
+
+#: respect_system_setting
+msgid "Respect system setting"
+msgstr ""
+
+#: no_cache
+msgid "No cache"
+msgstr ""
+
+#: cache_until_6am_tomorrow
+msgid "Cache until 6 AM tomorrow"
+msgstr ""
+
+#: cache_for_two_weeks
+msgid "Cache for two weeks"
+msgstr ""
+
+#: cache_for_one_hour
+msgid "Cache for one hour"
+msgstr ""
+
+#. #-- Program indicators --------------------------------------------------------#
+#: execution_date
+msgid "Execution date"
+msgstr ""
+
+#: due_date
+msgid "Due date"
+msgstr ""
+
+#: incident_date
+msgid "Incident date"
+msgstr ""
+
+#: enrollment_date
+msgid "Enrollment date"
+msgstr ""
+
+#: current_date
+msgid "Current date"
+msgstr ""
+
+#: value_count
+msgid "Value count"
+msgstr ""
+
+#: zero_pos_value_count
+msgid "Zero or positive value count"
+msgstr ""
+
+#: event_count
+msgid "Event count"
+msgstr ""
+
+#: enrollment_count
+msgid "Enrollment count"
+msgstr ""
+
+#: tei_count
+msgid "Tracked entity instance count"
+msgstr ""

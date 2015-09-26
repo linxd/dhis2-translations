@@ -1,0 +1,628 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-light/src/main/resources/org/hisp/dhis/light/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-light/src/main/resources/org/hisp/dhis/light/i18n_module_lo.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: DHIS_2
+msgid "DHIS2"
+msgstr "DHIS2"
+
+#: menu
+msgid "Menu"
+msgstr "Menu"
+
+#: home
+msgid "Home"
+msgstr "Home"
+
+#: navigate_to
+msgid "Navigate to"
+msgstr "Navigate to"
+
+#: reports
+msgid "Reports"
+msgstr "Reports"
+
+#: charts
+msgid "Charts"
+msgstr "Charts"
+
+#: documents
+msgid "Documents"
+msgstr "Documents"
+
+#: dashboard
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: dashboard_reports
+msgid "Dashboard reports"
+msgstr "Dashboard reports"
+
+#: dashboard_charts
+msgid "Dashboard charts"
+msgstr "Dashboard charts"
+
+#: dashboard_documents
+msgid "Dashboard documents"
+msgstr "Dashboard documents"
+
+#: data_entry
+msgid "Data Entry"
+msgstr "Data Entry"
+
+#: namebased_data_entry
+msgid "Namebased Data Entry"
+msgstr "Namebased Data Entry"
+
+#: data_entry_overview
+msgid "Data Entry Overview"
+msgstr "Data Entry Overview"
+
+#: logout
+msgid "Logout"
+msgstr "Logout"
+
+#: desktop_version
+msgid "Desktop version"
+msgstr "Desktop version"
+
+#: report_table_parameters
+msgid "Report parameters"
+msgstr "Report parameters"
+
+#: get_report
+msgid "Get report"
+msgstr "Get report"
+
+#: reporting_period
+msgid "Report period"
+msgstr "Report period"
+
+#: select_organisation_unit
+msgid "Please select organisation unit"
+msgstr "Please select organisation unit"
+
+#: available_datasets
+msgid "Available data sets"
+msgstr "Available data sets"
+
+#: available_organisation_units
+msgid "Available organisation units"
+msgstr "Available organisation units"
+
+#: available_periods
+msgid "Available periods"
+msgstr "Available periods"
+
+#: settings
+msgid "Settings"
+msgstr "Settings"
+
+#: language
+msgid "Interface Language"
+msgstr "Interface Language"
+
+#: is_invalid_boolean
+msgid "is not a valid boolean"
+msgstr "is not a valid boolean"
+
+#: is_invalid_date
+msgid "is not a valid date (yyyy-MM-dd)"
+msgstr "is not a valid date (yyyy-MM-dd)"
+
+#: is_invalid_number
+msgid "is not a valid number"
+msgstr "is not a valid number"
+
+#: is_invalid_integer
+msgid "is not a valid integer"
+msgstr "is not a valid integer"
+
+#: is_invalid_positive_integer
+msgid "is not a valid positive integer"
+msgstr "is not a valid positive integer"
+
+#: is_invalid_zero_or_positive_integer
+msgid "is not a valid zero or positive integer"
+msgstr "is not a valid zero or positive integer"
+
+#: is_invalid_negative_integer
+msgid "is not a valid negative integer"
+msgstr "is not a valid negative integer"
+
+#: is_invalid_name
+msgid "is not a valid name"
+msgstr "is not a valid name"
+
+#: is_invalid_name_length
+msgid "needs to be 7 or more characters"
+msgstr "needs to be 7 or more characters"
+
+#: is_mandatory
+msgid "is a mandatory field"
+msgstr "is a mandatory field"
+
+#: is_duplicate
+msgid "person identifier number is duplicated"
+msgstr "person identifier number is duplicated"
+
+#: warnings_and_errors
+msgid "Warnings and errors"
+msgstr "Warnings and errors"
+
+#: validation_rule_violation_warnings
+msgid "Validation Rule Violation Warnings"
+msgstr "Validation Rule Violation Warnings"
+
+#: minmax_violation_warnings
+msgid "Min/Max Violation Warnings"
+msgstr "Min/Max Violation Warnings"
+
+#: type_violation_errors
+msgid "Type Violation Errors"
+msgstr "Type Violation Errors"
+
+#: messages
+msgid "Messages"
+msgstr "Messages"
+
+#: conversations
+msgid "Conversations"
+msgstr "Conversations"
+
+#: subject
+msgid "Subject"
+msgstr "Subject"
+
+#: reply
+msgid "Reply"
+msgstr "Reply"
+
+#: form_complete
+msgid "Form complete"
+msgstr "Form complete"
+
+#: completed
+msgid "Completed"
+msgstr "Completed"
+
+#: complete_programs
+msgid "Completed Programs"
+msgstr "Completed Programs"
+
+#: saved_section
+msgid "Saved Section"
+msgstr "Saved Section"
+
+#: sections
+msgid "Sections"
+msgstr "Sections"
+
+#: current_activityplan
+msgid "Current Activity Plan"
+msgstr "Current Activity Plan"
+
+#: all_activityplan
+msgid "All Activity Plan"
+msgstr "All Activity Plan"
+
+#: activity_type
+msgid "Activity Type"
+msgstr "Activity Type"
+
+#: beneficiary_list
+msgid "Person List"
+msgstr "Person List"
+
+#: activity_list
+msgid "Activity List"
+msgstr "Activity List"
+
+#: successfully_saved
+msgid "Successfully Saved"
+msgstr "Successfully Saved"
+
+#: select_option
+msgid "Select Option"
+msgstr "Select Option"
+
+#: option_set_searching_result
+msgid "Option Set Searching Result"
+msgstr "Option Set Searching Result"
+
+#: search_for
+msgid "Searching for"
+msgstr "Searching for"
+
+#: id
+msgid "ID"
+msgstr "ID"
+
+#: gender
+msgid "Gender"
+msgstr "Gender"
+
+#: date_of_birth
+msgid "Date of Birth"
+msgstr "Date of Birth"
+
+#: blood_group
+msgid "Blood Group"
+msgstr "Blood Group"
+
+#: details_for
+msgid "Detail For"
+msgstr "Detail For"
+
+#: organisation_unit
+msgctxt "organisation_unit"
+msgid "Organisation Unit"
+msgstr "Organisation Unit"
+
+#: beneficiary_registration
+msgid "Person Registration"
+msgstr "Person Registration"
+
+#: full_name
+msgid "Full Name"
+msgstr "Full Name"
+
+#: male
+msgid "Male"
+msgstr "Male"
+
+#: female
+msgid "Female"
+msgstr "Female"
+
+#: transgender
+msgid "Transgender"
+msgstr "Transgender"
+
+#: is_empty
+msgid "Empty Field"
+msgstr "Empty Field"
+
+#: beneficiary_enrollment
+msgid "Person Enrollment"
+msgstr "Person Enrollment"
+
+#: beneficiary_search
+msgid "Person Search"
+msgstr "Person Search"
+
+#: beneficiary_name
+msgid "Person Name"
+msgstr "Person Name"
+
+#: search_result_for
+msgid "Search Result for"
+msgstr "Search Result for"
+
+#: search
+msgid "Search"
+msgstr "Search"
+
+#: enrolled_programs
+msgid "Enrolled Program(s)"
+msgstr "Enrolled Program(s)"
+
+#: other_programs
+msgid "Other Programs"
+msgstr "Other Programs"
+
+#: available_programs
+msgid "Available Programs"
+msgstr "Available Programs"
+
+#: no_enrolled_programs
+msgid "No Enrolled Programs"
+msgstr "No Enrolled Programs"
+
+#: no_completed_programs
+msgid "No Completed Programs"
+msgstr "No Completed Programs"
+
+#: enroll
+msgid "Enroll"
+msgstr "Enroll"
+
+#: enrollment_date
+msgid "Enrollment Date"
+msgstr "Enrollment Date"
+
+#: incident_date
+msgid "Incident Date"
+msgstr "Incident Date"
+
+#: program_list
+msgid "Program List"
+msgstr "Program List"
+
+#: single_event
+msgid "Single Event"
+msgstr "Single Event"
+
+#: single_event_list
+msgid "Single Event List"
+msgstr "Single Event List"
+
+#: back_single_event_form
+msgid "Back To Single Event Form"
+msgstr "Back To Single Event Form"
+
+#: tracking
+msgid "Tracking"
+msgstr "Tracking"
+
+#: find_beneficiary
+msgid "Find Person"
+msgstr "Find Person"
+
+#: activity_plan
+msgid "Activity Plan"
+msgstr "Activity Plan"
+
+#: search_by_name_or_id
+msgid "Search By Name or ID or Phone Number"
+msgstr "Search By Name or ID or Phone Number"
+
+#: select_orgunit
+msgid "Select Organisation Unit"
+msgstr "Select Organisation Unit"
+
+#: all_orgunit
+msgid "All Organisation Unit"
+msgstr "All Organisation Unit"
+
+#: tracking_menu
+msgid "Tracking Menu"
+msgstr "Tracking Menu"
+
+#: due_date
+msgid "Due Date"
+msgstr "Due Date"
+
+#: register_due_date_for
+msgid "Register Due Date For"
+msgstr "Register Due Date For"
+
+#: schedule
+msgid "Schedule"
+msgstr "Schedule"
+
+#: schedule_visit
+msgid "Schedule Visit"
+msgstr "Schedule Visit"
+
+#: do_not_schedule_visit
+msgid "Do Not Schedule Visit"
+msgstr "Do Not Schedule Visit"
+
+#: register
+msgid "Register"
+msgstr "Register"
+
+#: please_select
+msgid "Please Select"
+msgstr "Please Select"
+
+#: enroll_in_program
+msgid "Enroll In Program"
+msgstr "Enroll In Program"
+
+#: relationships
+msgid "Relationships"
+msgstr "Relationships"
+
+#: no_relationships
+msgid "No Relationships"
+msgstr "No Relationships"
+
+#: phone_number
+msgid "Phone Number"
+msgstr "Phone Number"
+
+#: add_relationships
+msgid "Add Relationships"
+msgstr "Add Relationships"
+
+#: related_person_search
+msgid "Related Person Search"
+msgstr "Related Person Search"
+
+#: related_person_list
+msgid "Related Person List"
+msgstr "Related Person List"
+
+#: add_relationship
+msgid "Add Relationship"
+msgstr "Add Relationship"
+
+#: anonymous_menu
+msgid "Anonymous Menu"
+msgstr "Anonymous Menu"
+
+#: date_of_birth_type
+msgid "Date of Birth Type"
+msgstr "Date of Birth Type"
+
+#: approximated
+msgid "Approximated"
+msgstr "Approximated"
+
+#: declared
+msgid "Declared"
+msgstr "Declared"
+
+#: verified
+msgid "Verified"
+msgstr "Verified"
+
+#: anomynous_program_list
+msgid "Anonymous Program List"
+msgstr "Anonymous Program List"
+
+#: orgunit
+msgctxt "orgunit"
+msgid "Organisation Unit"
+msgstr "Organisation Unit"
+
+#: change
+msgid "Change"
+msgstr "Change"
+
+#: register_location_for
+msgid "Register Location For"
+msgstr "Register Location For"
+
+#: agregate_reporting
+msgid "Aggregate Reporting"
+msgstr "Aggregate Reporting"
+
+#: find_or_add_person
+msgid "Find/Add Person"
+msgstr "Find/Add Person"
+
+#: search_by_phone_number
+msgid "Search By Phone Number"
+msgstr "Search By Phone Number"
+
+#: age_or_dob
+msgid "Age/Date of Birth"
+msgstr "Age/Date of Birth"
+
+#: dead
+msgid "Dead"
+msgstr "Dead"
+
+#: status
+msgid "Status"
+msgstr "Status"
+
+#: visit_schedule
+msgid "Visit Schedule"
+msgstr "Visit Schedule"
+
+#: visit_schedule_type
+msgid "Visit Schedule Type"
+msgstr "Visit Schedule Type"
+
+#: or_register_new_person
+msgid "or register new person"
+msgstr "or register new person"
+
+#: invalid_phone_number
+msgid "invalid phone number"
+msgstr "invalid phone number"
+
+#: save_any_way
+msgid "Save anyway"
+msgstr "Save anyway"
+
+#: form_in_complete
+msgid "Form InComplete"
+msgstr "Form InComplete"
+
+#: allow_provided_elsewhere
+msgid "Provided elsewhere"
+msgstr "Provided elsewhere"
+
+#: search_user
+msgid "Search user by name"
+msgstr "Search user by name"
+
+#: last_recipients
+msgid "Last recipients"
+msgstr "Last recipients"
+
+#: search_orgunit
+msgid "Search Organisation Unit"
+msgstr "Search Organisation Unit"
+
+#: date_of_birth_hint
+msgid ""
+"*Approximated: enter age. Declared or Verified: enter date in format [yyyy-"
+"mm-dd]"
+msgstr ""
+"*Approximated: enter age. Declared or Verified: enter date in format [yyyy-"
+"mm-dd]"
+
+#: select_attribute
+msgid "Select attribute"
+msgstr "Select attribute"
+
+#: tracked_entity
+msgid "Tracked entity"
+msgstr "Tracked entity"
+
+#: write
+msgid "Write"
+msgstr "Write"
+
+#: write_message
+msgid "Write Message"
+msgstr "Write Message"
+
+#: write_feedback
+msgid "Write Feedback"
+msgstr "Write Feedback"
+
+#: write_new_message
+msgid "Write new message"
+msgstr "Write new message"
+
+#: write_to_users
+msgid "To User(s):"
+msgstr "To User(s):"
+
+#: write_add_to_recipients
+msgid "Add to Recipient(s)"
+msgstr "Add to Recipient(s)"
+
+#: interpretations
+msgid "Interpretations"
+msgstr "Interpretations"
+
+#: interpretation
+msgid "Interpretation"
+msgstr "Interpretation"
+
+#: interpretations_support
+msgid "Only charts are currently supported for interpretations."
+msgstr "Only charts are currently supported for interpretations."
+
+#: interpretation_comment
+msgid "Comment(s):"
+msgstr "Comment(s):"
+
+#: interpretation_add_comment
+msgid "Add a comment"
+msgstr "Add a comment"
+
+#: interpretation_post_comment
+msgid "Post comment"
+msgstr "Post comment"
+
+#: interpretation_share
+msgid "Share interpretation"
+msgstr "Share interpretation"
+
+#: share
+msgid "Share"
+msgstr "Share"
+
+#: chart
+msgid "Chart"
+msgstr "Chart"

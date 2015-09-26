@@ -1,0 +1,711 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-validationrule/src/main/resources/org/hisp/dhis/validationrule/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-validationrule/src/main/resources/org/hisp/dhis/validationrule/i18n_module_pt.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: group_members
+msgid "Group Members"
+msgstr "Membros do Grupo"
+
+#: available_data_elements
+msgid "Available data elements"
+msgstr "Elementos de dados disponíveis"
+
+#: saving_validation_rule_failed
+msgid "Saving Validation Rule failed"
+msgstr "Gravação de regra de validação falhou"
+
+#: operator
+msgid "Operator"
+msgstr "Operador"
+
+#: adding_validation_rule_failed
+msgid "Adding validation rule failed"
+msgstr "Adicção regra de validação falhou"
+
+#: validation_failed
+msgid "Validation failed"
+msgstr "Regra de validação"
+
+#: right_side
+msgid "Right side"
+msgstr "Lado direito"
+
+#: left_side
+msgid "Left side"
+msgstr "Lado esquerdo"
+
+#: left_brackets
+msgid "Left brackets"
+msgstr "Colchetes esquerdo"
+
+#: right_brackets
+msgid "Right brackets"
+msgstr "colchetes a direita"
+
+#: multiply
+msgid "Multiply"
+msgstr "Multiplicar"
+
+#: divide
+msgid "Divide"
+msgstr "Dividir"
+
+#: plus
+msgid "Plus"
+msgstr "Mais"
+
+#: minus
+msgid "Minus"
+msgstr "Menos"
+
+#: no_of_days
+msgid "Number of days"
+msgstr "Número de dias"
+
+#: specify_left_side
+msgid "Please specify the left side"
+msgstr "Por favor, especifique o lado esquerdo"
+
+#: specify_right_side
+msgid "Please specify the right side"
+msgstr "Por favor, especifique o lado direito"
+
+#: specify_operator
+msgid "Please specify an operator"
+msgstr "Por favor, indique uma expressão"
+
+#: specify_name
+msgid "Please specify a name"
+msgstr "Por favor, indique um nome"
+
+#: specify_a_start_date
+msgid "Please specify a start date"
+msgstr "Por favor, indique uma data de inicio"
+
+#: specify_an_ending_date
+msgid "Please specify an ending date"
+msgstr "Por favor, indique uma data de termino"
+
+#: specify_description
+msgctxt "specify_description"
+msgid "Please specify a description"
+msgstr "Por favor, especifique uma descrição"
+
+#: specify_expression
+msgctxt "specify_expression"
+msgid "Please specify an expression"
+msgstr "Por favor, indique uma expressão"
+
+#: enter_a_valid_start_date
+msgid "Please enter a valid start date"
+msgstr "Favor introduzir data final válida"
+
+#: enter_a_valid_ending_date
+msgid "Please enter a valid end date"
+msgstr "Favor introduzir data final válida"
+
+#: end_date_cannot_be_before_start_date
+msgid "End date can not be before start date"
+msgstr "Data final não pode ser anterior a data início"
+
+#: name_in_use
+msgid "The name is in use"
+msgstr "O nome esta em uso"
+
+#: dataelements_left_must_be_type_integers
+msgid "The data elements on the left side must be of type numbers"
+msgstr "Os elementos de dados no lado esquerdo deve ser de tipo numerico"
+
+#: dataelements_right_must_be_type_integers
+msgid "The data elements on the right side must be of type numbers"
+msgstr "Os elementos de dados no lado direito deve ser de tipo numerico"
+
+#: create_new_validation_rule
+msgid "Create new validation rule"
+msgstr "Criar nova regra de validação"
+
+#: validate
+msgid "Validate"
+msgstr "Validado"
+
+#: confirm_delete_validation_rule
+msgid "Are you sure you want to delete the validation rule?"
+msgstr "Tens a certeza que quer apagar a regra de validação?"
+
+#: confirm_delete_validation_rule_group
+msgid "Are you sure you want to delete the validation rule group?"
+msgstr "Tem a certeza que quer apagar o grupo de regras de validação?"
+
+#: edit_left_side
+msgid "Edit left side"
+msgstr "Editar lado esquerdo"
+
+#: edit_right_side
+msgid "Edit right side"
+msgstr "Editar lado direito"
+
+#: select_operator
+msgid "Select operator"
+msgstr "Seleccionar operador"
+
+#: left
+msgid "Left"
+msgstr "Esquerda"
+
+#: right
+msgid "Right"
+msgstr "Direita"
+
+#: textual_expression_description
+msgid "Textual expression description"
+msgstr "Descrição de expressão textual"
+
+#: edit_validation_rule
+msgid "Edit validation rule"
+msgstr "Editar regra de validação"
+
+#: validation_rule
+msgid "Validation Rule"
+msgstr "Regra de validação"
+
+#: run_validation
+msgid "Run validation"
+msgstr "Validar"
+
+#: validation_alerts
+msgctxt "validation_alerts"
+msgid "Validation alerts"
+msgstr "Alertas de validação"
+
+#: value
+msgid "Value"
+msgstr "Valor"
+
+#: data_element
+msgid "Data element"
+msgstr "Elemento de dados"
+
+#: organisation_unit
+msgid "Organisation unit"
+msgstr "Unidade organizacional"
+
+#: period
+msgid "Period"
+msgstr "Período"
+
+#: source
+msgid "Source"
+msgstr "Fonte"
+
+#: done
+msgid "Done"
+msgstr "Realizado"
+
+#: validation
+msgctxt "validation"
+msgid "Validation"
+msgstr "Validação"
+
+#: VALIDATION
+msgctxt "VALIDATION"
+msgid "Validation"
+msgstr ""
+
+#: data_quality_report
+msgid "Data quality report"
+msgstr "Relatório de qualidade de dados"
+
+#: validation_result_details
+msgid "Validation result details"
+msgstr "Detalhes dos resultados da validação"
+
+#: validation_rule_
+msgid "Validation rule"
+msgstr "Regra de validação"
+
+#: dataelement_id_not_numeric
+msgid "Data element identifier must be a number"
+msgstr "Identificador do elemento de dado deve ser um número"
+
+#: category_option_combo_id_not_numeric
+msgid "Category option combo identifier must be a number"
+msgstr "Identificador da opção de combinação de categoria deve ser um número"
+
+#: data_element_does_not_exist
+msgid "Identifier does not reference a data element"
+msgstr "Identificador não faz referência a um elemento de dados"
+
+#: category_option_combo_does_not_exist
+msgid "Identifier does not reference a category option combo"
+msgstr "Identificador não faz referência a uma opção de combinação de categoria"
+
+#: expression_not_well_formed
+msgid "Expression is not well formed"
+msgstr "Expressão não está bem formada"
+
+#: everything_is_ok
+msgid "Everything is OK"
+msgstr "Tudo Ok"
+
+#: validation_rule_group_management
+msgid "Validation rule group management"
+msgstr "Gestão de regras de validação"
+
+#: validation_rule_management
+msgid "Validation rule management"
+msgstr "Gestão de regras de validação"
+
+#: validation_rule_group
+msgid "Validation Rule Group"
+msgstr "Grupo de regras de validação"
+
+#: create_new_validation_rule_group
+msgid "Create new validation rule group"
+msgstr "Criar novo grupo de regras de validação"
+
+#: available
+msgid "Available"
+msgstr "Disponível"
+
+#: selected
+msgid "Selected"
+msgstr "Seleccionado"
+
+#: validation_rules
+msgid "Validation rules"
+msgstr "Regras de validação"
+
+#: user_groups_to_alert
+msgid "User groups to alert"
+msgstr ""
+
+#: alert_by_org_units
+msgid "Alert only organisation unit related users"
+msgstr ""
+
+#: yes
+msgid "Yes"
+msgstr ""
+
+#: no
+msgid "No"
+msgstr ""
+
+#: available_validation_rules
+msgid "Available validation rules"
+msgstr "Regras de validação disponíveis"
+
+#: edit_validation_rule_group
+msgid "Edit validation rule group"
+msgstr "Editar grupo de regras de validação"
+
+#: all_validation_rules
+msgid "All validation rules"
+msgstr "Todas regras de validação"
+
+#: validation_alerts
+msgctxt "validation_alerts"
+msgid "Validation alerts"
+msgstr "Alertas de validação"
+
+#: validation_passed_successfully
+msgid "Validation passed successfully"
+msgstr "Validado com sucesso"
+
+#: outlier_analysis
+msgctxt "outlier_analysis"
+msgid "Outlier Analysis"
+msgstr "Análise de discrepâncias"
+
+#: from_date
+msgid "From date"
+msgstr "A partir da data"
+
+#: to_date
+msgid "To date"
+msgstr "Até à data"
+
+#: std_dev
+msgid "Standard Deviation"
+msgstr "Desvio Padrão"
+
+#: max
+msgid "Max"
+msgstr "Máx"
+
+#: min
+msgid "Min"
+msgstr "Min"
+
+#: values_found
+msgid "values found"
+msgstr "Valores encontrados"
+
+#: select_std_dev
+msgid "Select number of standard deviations"
+msgstr "Seleccione o número de desvios-padrão"
+
+#: select_parent_organisation_unit
+msgid "Select parent organisation unit"
+msgstr "Seleccionar Unidade Organizacional pai"
+
+#: outlier_analysis
+msgctxt "outlier_analysis"
+msgid "Outlier Analysis"
+msgstr "Análise de discrepâncias"
+
+#: no_values_found
+msgid "No values found"
+msgstr "Nenhum valor encontrado"
+
+#: intro_validation_rule
+msgid ""
+"Add, modify, view and delete validation rules. Anomalies can be discovered "
+"by running validation rules against the data."
+msgstr ""
+"Adicionar, modificar, consultar e apagar regras de validação. Anomalias "
+"podem ser encontradas nas regras de validação em relação aos dados."
+
+#: intro_validation_rule_group
+msgid ""
+"Add, modify, view and delete validation rule groups. Provides the ability to "
+"group and run validation rules together."
+msgstr ""
+"Adicionar, modificar, visualizar e excluir grupos de regras de validação. "
+"Fornece a capacidade de agrupar e executar regras de validação em conjunto."
+
+#: intro_validation_rule_analysis
+msgid ""
+"Run validation rules in order to unveil anomalies and errors in the data in "
+"the database."
+msgstr ""
+"Executar as regras de validação, a fim de revelar anomalias e erros nos "
+"dados existentes na base de dados."
+
+#: intro_stddevoutlier_analysis
+msgid ""
+"Analyze potential outlier values based on standard deviations. Outlier "
+"values can be examined and marked for follow-up."
+msgstr ""
+"Analisar potenciais valores discrepantes com base em desvios-padrão. Valores "
+"discrepantes podem ser examinados e marcados para acompanhamento."
+
+#: intro_minmaxoutlier_analysis
+msgid ""
+"Analyze potential outlier values based on min and max values. Outlier values "
+"can be examined and marked for follow-up."
+msgstr ""
+"Analisar potenciais valores discrepantes com base em valores mínimo e "
+"máximo. Valores discrepantes podem ser examinados e marcados para "
+"acompanhamento."
+
+#: intro_gap_analysis
+msgid ""
+"Perform analysis of potential missing values, referred to as gaps. Missing "
+"values can be entered or marked for follow-up."
+msgstr ""
+"Realizar análise de potenciais valores em falta, referidos como lacunas. Os "
+"valores em falta podem ser inseridos ou marcados para acompanhamento."
+
+#: intro_followup_analysis
+msgid ""
+"View or edit data values marked for further follow-up during data entry or "
+"analysis."
+msgstr ""
+"Ver ou editar valores de dados marcados para posterior acompanhamento "
+"durante a entrada de dados ou análise."
+
+#: value_must_be_a_number
+msgid "Value must be a number"
+msgstr "O valor deve ser um numero"
+
+#: value_is_lower_than_min_value
+msgid "Value is lower than minimum value"
+msgstr "O valor e menor que o valor minimo"
+
+#: value_is_higher_than_max_value
+msgid "Value is higher than maximum value"
+msgstr "O valor e maior que o valor máximo"
+
+#: mark
+msgid "Mark"
+msgstr "Marcar"
+
+#: mark_value_for_followup
+msgid "Mark value for follow-up"
+msgstr "Marcar valor para acompanhamento"
+
+#: unmark_value_for_followup
+msgid "Unmark value for follow-up"
+msgstr "Desmarcar valor para acompanhamento"
+
+#: data_analysis
+msgid "Data Analysis"
+msgstr "Análise de Dados"
+
+#: data_analysis_report
+msgid "Data Analysis Report"
+msgstr "Relatório de análise de dados"
+
+#: stddevoutlier_analysis
+msgid "Std Dev Outlier Analysis"
+msgstr "Análise de Discrepâncias de Desvio Padrão"
+
+#: minmaxoutlier_analysis
+msgid "Min-Max Outlier Analysis"
+msgstr "Análise de Discrepâncias de Min-Max"
+
+#: gap_analysis
+msgid "Gap Analysis"
+msgstr "Análise de lacunas"
+
+#: followup_analysis
+msgid "Follow-Up Analysis"
+msgstr "Análise do Acompanhamento"
+
+#: validation_rule_analysis
+msgid "Validation Rule Analysis"
+msgstr "Analise das regras de validação"
+
+#: result
+msgid "result"
+msgstr "resultado"
+
+#: start
+msgid "Start"
+msgstr "Inicio"
+
+#: clear_expression
+msgid "Clear expression"
+msgstr "Limpar expressão"
+
+#: period_type
+msgid "Period type"
+msgstr "Tipo de período"
+
+#: available_data_sets
+msgid "Available data sets"
+msgstr "Fichas disponíveis"
+
+#: selected_data_sets
+msgid "Selected data sets"
+msgstr "Fichas seleccionadas"
+
+#: analysing_data
+msgid "Analysing data"
+msgstr "Analisar dados"
+
+#: data_source
+msgid "Data source"
+msgstr "Fonte de dados"
+
+#: use_captured_data
+msgid "Use captured data"
+msgstr "Use os dados colectados"
+
+#: use_aggregated_data
+msgid "Use aggregated data"
+msgstr "Usar dados agregados"
+
+#: aggregate_data_info
+msgid "Immediate children of the selected organisation unit will be included"
+msgstr "Filhos imediatos da unidade organizacional seleccionada serão incluídas"
+
+#: captured_data_info
+msgid "All children of the selected organisation unit will be included"
+msgstr "Todas as filhos da unidade organizacional seleccionada serão incluídas"
+
+#: method
+msgid "Method"
+msgstr "Método"
+
+#: see_statistics
+msgid "See statistics"
+msgstr "Ver estatísticas"
+
+#: description_not_null
+msgctxt "description_not_null"
+msgid "Please specify a description"
+msgstr "Por favor, especifique uma descrição"
+
+#: expression_not_null
+msgctxt "expression_not_null"
+msgid "Please specify an expression"
+msgstr "Por favor, indique uma expressão"
+
+#: number_of_members
+msgid "Number of members"
+msgstr "Quantidade de membros"
+
+#: specify_organisationunit_has_children
+msgid "Please specify an organisationunit which has children."
+msgstr "Por favor, especifique uma unidade organicional que tenha filhos."
+
+#: get_report_as_xls
+msgid "Download as Excel"
+msgstr "Descarregar como Excel"
+
+#: get_report_as_csv
+msgid "Download as CSV"
+msgstr "Descarregar como CSV"
+
+#: get_report_as_pdf
+msgid "Download as PDF"
+msgstr "Descarregar como PDF"
+
+#: max_values_exceeded
+msgid "More than 500 values found, please narrow the search to see all"
+msgstr ""
+"Mais de 500 valores encontrados, corrija as violações ou restrinja a "
+"pesquisa para ver todos"
+
+#: specify_dataset
+msgid "Please specify data sets"
+msgstr "Por favor, especifique a ficha"
+
+#: analysing_please_wait
+msgid "Analysing data, please wait"
+msgstr "Analisando os dados, por favor aguarde"
+
+#: skip_for_missing_values
+msgid "Skip for missing values"
+msgstr "Ignorar valores em falta"
+
+#: select_parameters
+msgid "Select parameters"
+msgstr "Seleccionar parâmetros"
+
+#: compulsory_pair
+msgid "Compulsory pair"
+msgstr "Par obrigatório"
+
+#: visible_in_validation_alerts
+msgid "visible in validation alerts"
+msgstr "Visível em alertas de validação"
+
+#: tip
+msgid "Tip"
+msgstr "Dica"
+
+#: use
+msgid "use"
+msgstr "Utilizar"
+
+#: importance
+msgid "Importance"
+msgstr "Importância"
+
+#: high
+msgctxt "high"
+msgid "High"
+msgstr "Alto"
+
+#: medium
+msgctxt "medium"
+msgid "Medium"
+msgstr "Média"
+
+#: low
+msgctxt "low"
+msgid "Low"
+msgstr "Baixo"
+
+#: HIGH
+msgctxt "HIGH"
+msgid "High"
+msgstr ""
+
+#: MEDIUM
+msgctxt "MEDIUM"
+msgid "Medium"
+msgstr ""
+
+#: LOW
+msgctxt "LOW"
+msgid "Low"
+msgstr ""
+
+#: rule_type
+msgid "Rule type"
+msgstr "Tipo de regra"
+
+#: surveillance
+msgctxt "surveillance"
+msgid "Surveillance"
+msgstr "Vigilância"
+
+#: SURVEILLANCE
+msgctxt "SURVEILLANCE"
+msgid "Surveillance"
+msgstr ""
+
+#: attributes
+msgid "Attributes"
+msgstr ""
+
+#: organisation_unit_level
+msgid "Organisation unit level"
+msgstr "Nível de unidade organizacional"
+
+#: select_level
+msgid "Select level"
+msgstr "Seleccione o nível"
+
+#: sequential_sample_count
+msgid "Sequential sample count"
+msgstr "Contagem da amostra sequencial"
+
+#: annual_sample_count
+msgid "Annual sample count"
+msgstr "Contagem da amostra anual"
+
+#: high_outliers
+msgid "High outliers"
+msgstr "Valores discrepantes elevados"
+
+#: low_outliers
+msgid "Low outliers"
+msgstr "Valores discrepantes baixos"
+
+#: number_of_user_groups_to_alert
+msgid "Number of user groups to alert"
+msgstr ""
+
+#: send_alerts
+msgid "Send alerts"
+msgstr ""
+
+#: visible_when_rule_is_violated
+msgid "visible when rule is violated"
+msgstr ""
+
+#: instruction
+msgid "Instruction"
+msgstr ""
+
+#: skip_if_any_value_is_missing
+msgid "Skip if any value is missing"
+msgstr ""
+
+#: skip_if_all_values_are_missing
+msgid "Skip if all values are missing"
+msgstr ""
+
+#: never_skip
+msgid "Never skip"
+msgstr ""
+
+#: no_organisation_unit_selected
+msgid "No organisation unit selected"
+msgstr ""

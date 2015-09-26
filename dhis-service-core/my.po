@@ -1,0 +1,3995 @@
+#. #-- Application name -----------------------------------------------------------#
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-services/dhis-service-core/src/main/resources/i18n_global.properties, /home/jason/development/dhis2/dhis-2/dhis-services/dhis-service-core/src/main/resources/i18n_global_my.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: district_health_information_software
+msgid "District Health Information Software 2"
+msgstr ""
+"District Health Information Software 2/ "
+"စီမံခန့်ခွဲမှုအထောက်အကူပြုကျန်းမာရေးသတင်းစနစ်"
+
+#: dhis2
+msgid "DHIS 2"
+msgstr ""
+
+#. #-- dhis-wp --------------------------------------------------------------------#
+#: no_page_specified
+msgid "No page specified"
+msgstr "စာမျက်နှာတစ်ခုမှမရှိပါ။"
+
+#: an_exception_occured
+msgid "An exception occurred"
+msgstr "ခြွင်းချက်တစ်ခုရှိနေသည်။"
+
+#: exception_explanation_text
+msgid ""
+"Sorry! The system failed to execute the operation. Usually, no data is lost "
+"and you can continue working by going back to the previous page."
+msgstr ""
+"လုပ်ဆောင်ချက်မအောင်မြင်ပါ။ ဒါပေမယ့် အချက်အလတ်များ ဆုံးရှုံးမှုမရှိပါ။ "
+"ရှေ့စာမျက်နှာ သို့ပြန်သွား၍ ဆက်လက်လုပ်ဆောင်နိုင်ပါသည်။ ထိုကိစ္စကို report "
+"တင်လိုလျှင် browser မှ File -> Save (page as) ဖြင့် ထိုစာမျက်နှာကို "
+"သိမ်းထားပါ။ report တွင် သိမ်းထားသောစာမျက်နှာပါထည့်ပေးပါ။ ပြဿနာအသေးစိတ်ကို "
+"အောက်တွင်ဖော်ပြထားသည်။"
+
+#: exception
+msgid "Exception"
+msgstr "ခြွင်းချက်"
+
+#: caused_by
+msgid "Caused by"
+msgstr "ကြောင့်ဖြစ်စေသည်။/ ဖြစ်စေသောအကြောင်းရင်း"
+
+#: unknown_source
+msgid "Unknown source"
+msgstr "တည်နေရာကိုမသိပါ။"
+
+#: logged_in
+msgid "Logged in"
+msgstr "စနစ်သို့ဝင်နေသည်။"
+
+#: not_logged_in
+msgid "Not logged in"
+msgstr "စနစ်သို့ဝင်မနေပါ။"
+
+#: log_out
+msgid "Log out"
+msgstr "စနစ်မှထွက်ခြင်း"
+
+#: about
+msgid "About"
+msgstr "အကြောင်းအရာ"
+
+#: access_denied
+msgid "Access denied"
+msgstr "အလုပ်မလုပ်ပါ။/ ဝင်ရောက်၍မရပါ။"
+
+#: access_denied_message
+msgid "You don't have sufficient authority to view this page"
+msgstr "ဒီစာမျက်နှာကို ကြည့်ခွင့်မရှိပါ။"
+
+#: create_access_denied_message
+msgid "You don't have create access to object"
+msgstr "ဒီအကြောင်းအရာကို ကြည့်ရှုခွင့်မရှိပါ။"
+
+#: read_access_denied_message
+msgid "You don't have read access to object"
+msgstr "အကြောင်းအရာကိုဖတ်ရှုခွင့်မရှိပါ"
+
+#: update_access_denied_message
+msgid "You don't have update access to object"
+msgstr "အကြောင်းအရာကိုနောက်ဆုံးသတင်းအရဝင်ရောက်ခွင့်မရှိပါ"
+
+#: delete_access_denied_message
+msgid "You don't have delete access to object"
+msgstr "ဒီအကြောင်းအရာကို ပယ်ဖျက်ခွင့်မရှိပါ။"
+
+#: go_back
+msgid "Go back"
+msgstr "ပြန်သွားပါ"
+
+#: main_menu
+msgid "Main menu"
+msgstr "အဓိကစာမျက်နှာ"
+
+#: maintenance
+msgid "Maintenance"
+msgstr "ထိမ်းသိမ်းခြင်း"
+
+#: services
+msgid "Services"
+msgstr "ဝန်ဆောင်မှုများ"
+
+#. #-- dhis-ouwt ------------------------------------------------------------------#
+#: org_unit_tree
+msgid "Organisation Unit Tree"
+msgstr "အဖွဲ့အစည်းအညွှန်းပြပုံ"
+
+#: specify_organisationunit
+msgid "Please specify an organisation unit"
+msgstr "အဖွဲ့အစည်းယူနစ်ကိုကျေးဇူးပြု၍ရွေးချယ်ပါ"
+
+#: cannot_clear_selected_orgunits
+msgid "Cannot clear the selected organisation units"
+msgstr "‌ရွေးချယ်ထားသောအဖွဲ့အစည်းယူနစ်များကိုပယ်ဖျက်၍မရပါ"
+
+#: locate_organisation_unit_by_name
+msgid "Locate organisation unit by name"
+msgstr "အဖွဲ့အစည်းများကိုအမည်ဖြင့်ရှာပါ"
+
+#: error_occurred
+msgid "An error has occurred."
+msgstr "အသုံးပြုရာတွင်အမှားရှိသည်"
+
+#: select_organisationunit
+msgid "You must select an OrganisationUnit from the tree."
+msgstr "အဖွဲ့အစည်းယူနစ်ကိုအညွှန်းပြပုံမှသာရွေးချယ်ရမည်"
+
+#. #-- Modules --------------------------------------------------------------------#
+#: dhis-web-maintenance-datadictionary
+msgid "Data Elements / Indicators"
+msgstr "စာတိုင်နှင့်အညွှန်းကိန်းများ"
+
+#: dhis-web-maintenance-dataset
+msgid "Data Sets"
+msgstr "စာတိုင်စု(သို့)စီမံချက်များ"
+
+#: dhis-web-maintenance-organisationunit
+msgid "Organisation Units"
+msgstr "အဖွဲ့အစည်းယူနစ်များ"
+
+#: dhis-web-maintenance-user
+msgctxt "dhis-web-maintenance-user"
+msgid "Users"
+msgstr "အသုံးပြုသူများ"
+
+#: dhis-web-maintenance-dataadmin
+msgid "Data Administration"
+msgstr "ကိန်းဂဏန်းများကိုစီမံခန့်ခွဲခြင်း"
+
+#: dhis-web-maintenance-settings
+msgctxt "dhis-web-maintenance-settings"
+msgid "Settings"
+msgstr "တပ်ဆင်/ တည်ဆောက်ထားသည့်ပုံစံ"
+
+#: dhis-web-maintenance-program
+msgid "Programs / Attributes"
+msgstr ""
+
+#: dhis-web-maintenance-mobile
+msgid "Mobile Configuration"
+msgstr "မိုဘိုင်းလ်ဖုန်းတွင်တွေ့ရှိရမည့်သွင်ပြင်"
+
+#: dhis-web-maintenance-appmanager
+msgid "App Management"
+msgstr ""
+
+#: dhis-web-caseentry
+msgid "Individual Records"
+msgstr "တစ်ဦးချင်းမှတ်တမ်းများ"
+
+#: dhis-web-dataentry
+msgid "Data Entry"
+msgstr "အချက်အလက်များဖြည့်သွင်းခြင်း"
+
+#: dhis-web-importexport
+msgid "Import-Export"
+msgstr "အသွင်းအထုတ်ပြုလုပ်ခြင်း"
+
+#: dhis-web-validationrule
+msgid "Data Quality"
+msgstr "အချက်အလက်၏အရည်အသွေး"
+
+#: dhis-web-mapping
+msgid "GIS"
+msgstr "‌မြေပုံဆွဲသောပရိုဂရမ်"
+
+#: dhis-web-event-capture
+msgid "Event Capture"
+msgstr ""
+
+#: dhis-web-event-reports
+msgid "Event Reports"
+msgstr ""
+
+#: dhis-web-event-visualizer
+msgid "Event Visualizer"
+msgstr ""
+
+#: dhis-web-tracker-capture
+msgid "Tracker Capture"
+msgstr ""
+
+#: dhis-web-cache-cleaner
+msgid "Browser Cache Cleaner"
+msgstr ""
+
+#: dhis-web-reporting
+msgid "Reports"
+msgstr "အစီရင်ခံစာများ"
+
+#: dhis-web-light
+msgid "Mobile (Light)"
+msgstr "မိုဘိုင်းလ်ဖုန်း(ရိုးရိုး)"
+
+#: dhis-web-mobile
+msgid "Mobile (Smartphone)"
+msgstr "မိုဘိုင်းလ်ဖုန်း(စမတ်ဖုန်း)"
+
+#: dhis-web-dashboard-integration
+msgctxt "dhis-web-dashboard-integration"
+msgid "Dashboard"
+msgstr ""
+
+#: dhis-web-visualizer
+msgid "Data Visualizer"
+msgstr "ကိန်းဂဏန်းပြဇယားကွက်"
+
+#: dhis-web-pivot
+msgid "Pivot Table"
+msgstr ""
+
+#: dhis-web-dashboard
+msgid "Data Analyser"
+msgstr "အချက်အလက်များလေ့လာဆန်းစစ်ခြင်း"
+
+#: dhis-web-integration
+msgid "NHRM Integration"
+msgstr "စုစည်းခြင်း"
+
+#: dhis-web-reports
+msgid "NRHM Reports"
+msgstr "အစီရင်ခံစာများ"
+
+#: dhis-web-dataentry-national
+msgid "Linelisting Data Entry"
+msgstr "တန်းစီစာရင်းဖြင့်အချက်အလက်ဖြည့်သွင်းခြင်း"
+
+#: dhis-web-validationrule-local-in
+msgid "Validation Analysis"
+msgstr "ခိုင်မာမှုရှိမရှိလေ့လာခြင်း"
+
+#: dhis-web-survey
+msgid "Survey - Target"
+msgstr "‌လေ့လာခြင်း-အဓိကပစ်မှတ်"
+
+#: dhis-web-spreadsheet-reporting
+msgid "Spreadsheet Reports"
+msgstr "စာရင်းဇယားပြအစီရင်ခံစာများ"
+
+#: dhis-web-sms
+msgid "SMS"
+msgstr "သတင်းတိုပေးပို့ခြင်း"
+
+#: dhis-web-maintenance-in
+msgid "Configuration"
+msgstr "သွင်ပြင်လက္ခဏာ"
+
+#: dhis-web-linelisting-mp
+msgid "Manpower"
+msgstr "လူစွမ်းအား"
+
+#: dhis-web-maintenance-rbf
+msgid "Maintenance RBF"
+msgstr ""
+
+#. #-- Intro modules -------------------------------------------------------------#
+#: intro_dhis-web-maintenance-datadictionary
+msgid "Maintain data elements, indicators, categories and groups."
+msgstr ""
+"စာတိုင်များ၊ အညွှန်းကိန်းများ၊ အဓိပ္ပါယ်ဖွင့်ဆိုချက်များ၊ အမျိုးအစားနှင့် "
+"အုပ်စုများခွဲခြားထိန်းသိမ်းခြင်း"
+
+#: intro_dhis-web-maintenance-dataset
+msgid ""
+"Maintain data sets, custom forms, sections and compulsory data elements."
+msgstr ""
+"စီမံချက်များ၊ ပြဌာန်းပုံစံများ၊ အခန်းကဏ္ဍများနှင့် "
+"မဖြစ်မနေဖြည့်သွင်းရမည့်စာတိုင်များခွဲခြားထိန်းသိမ်းခြင်း"
+
+#: intro_dhis-web-maintenance-organisationunit
+msgid "Maintain organisation units and its hierarchy, groups and group sets."
+msgstr ""
+"အဖွဲ့အစည်းများနှင့် ၎င်းတို့၏ဝါစဉ်များ၊ "
+"အုပ်စုများနှင့်အဖွဲ့အုပ်စုများခွဲခြားထိန်းသိမ်းခြင်း"
+
+#: intro_dhis-web-maintenance-user
+msgid ""
+"Maintain users in terms of authorities and passwords, user roles and groups."
+msgstr ""
+"အသုံးပြုသူများကို ၎င်းတို့၏အခွင့်အာဏာ၊ လျှို့ဝှက်နံပါတ်၊ အသုံးပြုသူအဆင့်နှင့်"
+" အုပ်စုအလိုက်ခွဲခြားထိန်းသိမ်းခြင်း"
+
+#: intro_dhis-web-maintenance-dataadmin
+msgid ""
+"Maintain resource tables, check data integrity, see statistics and more."
+msgstr ""
+"အရင်းအမြစ်ဇယား၊ ကိန်းဂဏန်းအချက်အလက်ပြည့်စုံမှု၊ "
+"စာရင်းအင်းကြည့်ရှုခြင်းနှင့်အခြားကိစ္စများကိုခွဲခြားထိန်းသိမ်းခြင်း"
+
+#: intro_dhis-web-maintenance-settings
+msgid ""
+"Maintain user and system settings related to appearance, notifications and "
+"more."
+msgstr ""
+"အပြင်အဆင်၊ သတိပေးချက်တို့နှင့်သက်ဆိုင်သော "
+"စနစ်တည်ဆောက်မှုပုံစံနှင့်အသုံးပြုသူကိုခွဲခြားထိန်းသိမ်းခြင်း"
+
+#: intro_dhis-web-maintenance-program
+msgid ""
+"Maintain tracked entities and programs including attributes and identifiers."
+msgstr ""
+
+#: intro_dhis-web-maintenance-mobile
+msgid ""
+"Maintain data sets plus settings for mobile reporting and SMS configuration."
+msgstr ""
+"ဖုန်းဖြင့်သတင်းပို့ခြင်းနှင့်စာတိုပို့ခြင်းစနစ်တို့အတွက်စီမံချက်များနှင့်အခြာ"
+"းတည်ဆောက်ပုံတို့ကိုခွဲခြားထိန်းသိမ်းခြင်း"
+
+#: intro_dhis-web-maintenance-appmanager
+msgid ""
+"Access and upload apps, which are extensions to the standard user interface."
+msgstr ""
+
+#: intro_dhis-web-caseentry
+msgid ""
+"Register beneficiaries, enter data for encounters and events and view "
+"reports."
+msgstr ""
+"အကျိုးခံစားခွင့်ရှိသူများကိုစာရင်းသွင်းခြင်း၊ "
+"တိုက်ဆိုင်စစ်ဆေးသူတို့အတွက်အချက်အလက်ဖြည့်သွင်းခြင်းနှင့် "
+"အစီရင်ခံစာများကိုကြည့်ရှုခြင်းတို့ကိုခွဲခြားထိန်းသိမ်းခြင်းြ"
+
+#: intro_dhis-web-dataentry
+msgid ""
+"Enter data for forms either on-line or off-line, validate data and view data "
+"trends."
+msgstr ""
+"အင်တာနက်ရသည်ဖြစ်စေမရသည်ဖြစ်စေအချက်အလက်ဖြည့်သွင်းခြင်း၊ "
+"မှန်ကန်မှုစစ်ဆေးခြင်းနှင့်တိုးတက်မှုလေ့လာခြင်း"
+
+#: intro_dhis-web-importexport
+msgid ""
+"Import and export data from DHIS or third-party systems on various formats."
+msgstr ""
+"အချက်အလက်များကို DHIS "
+"(သို့)အခြားသူတို့အသုံးပြုရန်အလို့ငှာပုံစံအမျိုးမျိုးဖြင့်အသွင်းအထုတ်ပြုခြင်း"
+
+#: intro_dhis-web-validationrule
+msgid ""
+"Validate and assess data quality using validation rules or statistical "
+"methods."
+msgstr ""
+"အချက်အလက်များ၏အရည်အသွေးမှန်ကန်မှုကိုမှန်ကန်ခြင်းစံ(သို့)စာရင်းအင်းနည်းများဖြင"
+"့်စစ်ဆေးခြင်း"
+
+#: intro_dhis-web-mapping
+msgid ""
+"Visualize data on maps using polygons, points, symbols in multiple layers."
+msgstr ""
+"‌မြေပုံပေါ်တွင်အချက်အလက်များကိုမြင်သာစေရန်ခြောက်ထောင့်ပုံ၊ "
+"အစက်(သို့)အခြားသင်္ကေတများဖြင့်ပြသခြင်း"
+
+#: intro_dhis-web-reporting
+msgid ""
+"Analyse data and reporting rates using predefined and dynamic report tools."
+msgstr ""
+"အချက်အလက်များနှင့်အစီရင်ခံမှုနှုန်းထားများကိုကြိုတင်သတ်မှတ်ထားသောစံများနှင့်ပ"
+"ြောင်းလဲနေသောအစီရင်ခံပုံစံများဖြင့်ဆန်းစစ်ခြင်း"
+
+#: intro_dhis-web-light
+msgid "Access a mobile device optimized version of data entry and analysis."
+msgstr ""
+"ရွေ့လျားနိုင်သောစက်များဖြင့်အချက်အလက်သွင်းခြင်း၊ သတင်းပို့ခြင်းနှင့်ဆန်းစစ်ခြ"
+"င်းများပြုလုပ်နိုင်ရန်အဆင့်အမြင့်ဆုံးပုံစံကိုပေးသည်"
+
+#: intro_dhis-web-mobile
+msgid ""
+"Access a smartphone optimized version of data entry, settings, messages."
+msgstr ""
+"စမတ်ဖုန်းများဖြင့်အချက်အလက်သွင်းခြင်း၊ သတင်းပို့ခြင်းနှင့်ဆန်းစစ်ခြင်းများပြု"
+"လုပ်နိုင်ရန်အဆင့်အမြင့်ဆုံးပုံစံကိုပေးသည်"
+
+#: intro_dhis-web-dashboard-integration
+msgid ""
+"Get an overview of favorite charts, reports and maps and view or write "
+"messages."
+msgstr ""
+"သင်အနှစ်သက်ဆုံးကားချပ်ပုံ၊ အစီရင်ခံစာနှင့် မြေပုံတို့ကိုရယူခြင်းနှင့် "
+"သတင်းတိုကြည့်ရှုရေးသားခြင်း"
+
+#: intro_dhis-web-visualizer
+msgid "Create dynamic data visualizations for data elements and indicators."
+msgstr ""
+"စာတိုင်နှင့်အညွှန်းကိန်းများအလိုက်ပြောင်းလဲဖော်ပြနိုင်သောအချက်အလက်တင်ပြမှုပုံ"
+"စံများကိုဖန်တီးခြင်း"
+
+#: intro_dhis-web-pivot
+msgid "Generate flexible pivot tables with data aggregated in all dimensions."
+msgstr ""
+"ဘက်ပေါင်းစုံမှစုစည်းထားသောအချက်အလက်များကိုလိုက်၍ပြောင်းလဲလွယ်သောဆုံချက်ကျသည့်"
+"ဇယားများထုတ်ပြန်ခြင်း"
+
+#: intro_dhis-web-sms
+msgid "Send SMS reminders and notifications manually or as scheduled tasks."
+msgstr ""
+"သတိပေးစာနှင့်အကြောင်းကြားစာများကိုဖုန်းသို့သတင်းတိုဖြင့်ပေးပို့ခြင်း၊ "
+"စာဖြင့်ထုတ်ပြန်ခြင်းနှင့် တာဝန်ပေး၍ခိုင်းစေခြင်း"
+
+#: intro_dhis-web-spreadsheet-reporting
+msgid "Generate and import data based on predefined Excel templates."
+msgstr ""
+"ကြိုတင်သတ်မှတ်ထားသော Excel အခြေပြုအစီရင်ခံစာများမှအချက်အလက်များထုတ်လုပ်ခြင်း"
+
+#: intro_dhis-web-event-reports
+msgid "Query for events and create aggregated, dimensional analysis of events."
+msgstr ""
+
+#: intro_dhis-web-event-capture
+msgid "Capture information about single events."
+msgstr ""
+
+#: intro_dhis-web-tracker-capture
+msgid "Capture information about trackable entities."
+msgstr ""
+
+#. #-- Intro functions -------------------------------------------------------------#
+#: intro_help_center
+msgid ""
+"Get help on a various of topics related to setting up and using the DHIS 2."
+msgstr "DHIS 2တည်ဆောက်ပုံနှင့် အသုံးပြုခြင်းတို့အတွက်အကူအညီယူခြင်း"
+
+#: intro_supportive_software
+msgid ""
+"Get an overview of useful software like report designers mobile clients."
+msgstr "အစီရင်ခံစာဒီဇိုင်းကဲ့သို့အသုံးဝင်သောဆော့ဝဲလ်များကိုရယူခြင်း"
+
+#: intro_system_overview
+msgid "Visit the system overview page to get a complete list of modules."
+msgstr ""
+"သင်ခန်းစာများနှင့်၎င်းတို့၏ရည်ရွယ်ချက်များကိုအပြည့်အစုံဖော်ပြထားသောစာမျက်နှာက"
+"ိုလေ့လာခြင်း"
+
+#: intro_web_api
+msgid ""
+"Go to the Web API entry point, which is an interface for other computer "
+"systems."
+msgstr ""
+"အခြားကွန်ပျူတာစနစ်များအတွက်ကြားခံဖြစ်သောWeb API အဝင်စာမျက်နှာကိုဝင်ရောက်ခြင်း"
+
+#: intro_about_dhis2
+msgid "Get information about the system version and runtime environment."
+msgstr ""
+"အသုံးပြုနေသောစနစ်ကိုပြန်လည်မွမ်းမံသည့်အကြိမ်နှင့်စနစ်အလုပ်လုပ်နေသည့်အချိန်တွေ"
+"့ရှိရမည့်အခြေအနေများအတွက်အချက်အလက်စုဆောင်းခြင်း"
+
+#: intro_settings
+msgid ""
+"Set your personal preferences for interface language, style and email "
+"settings."
+msgstr ""
+"ကြားခံစာမျက်နှာသုံးဘာသာစကား၊ ပုံစံနှင့် "
+"အီးမေးလ်တည်ဆောက်ပုံကိုသင့်စိတ်ကြိုက်ပြင်ဆင်ခြင်း"
+
+#: intro_profile
+msgid ""
+"Set up your personal profile with information like job title and interests."
+msgstr "သင်၏အတ္ထုပ္ပတ္တိကိုစိတ်ကြိုက်ပြင်ဆင်ခြင်း"
+
+#: intro_account
+msgid "Manage your user account including name, password, email and mobile."
+msgstr ""
+"သင်၏အသုံးပြုသူစာရင်းမှအမည်၊ လျှို့ဝှက်နံပါတ်၊ အီးမေးလ်နှင့် "
+"ဖုန်းနံပါတ်တို့ကိုပြင်ဆင်ခြင်း"
+
+#: intro_log_out
+msgid ""
+"Go here to log out of the system and deny others to access your user account."
+msgstr ""
+"ဤနေရာမှစာရင်းပြန်ထွက်လျှင်သင်မှတပါးအခြားသူတို့သင်၏စာရင်းကိုဝင်ရောက်အသုံးမပြုန"
+"ိုင်ပါ"
+
+#. #-- Common ---------------------------------------------------------------------#
+#: offline
+msgid "Offline"
+msgstr "အင်တာနက်နှင့်မချိတ်ဆက်ထားပါ"
+
+#: online
+msgid "Online"
+msgstr "အင်တာနက်နှင့်ချိတ်ဆက်ထားသည်"
+
+#: next
+msgid "Next"
+msgstr "ရှေ့သို့"
+
+#: previous
+msgid "Previous"
+msgstr "နောက်သို့"
+
+#: online_notification
+msgid "You are online"
+msgstr "သင်အင်တာနက်နှင့်ချိတ်ဆက်ထားသည်"
+
+#: offline_notification
+msgid "You are offline, data will be stored locally"
+msgstr ""
+"သင်အင်တာနက်နှင့်မချိတ်ဆက်ထားပါ။ "
+"အချက်အလက်များကိုသင့်ကွန်ပျူတာတွင်သာသိမ်းဆည်းထားမည်"
+
+#: ajax_login_failed
+msgctxt "ajax_login_failed"
+msgid "Login failed, check your username and password and try again"
+msgstr ""
+
+#: need_to_sync_notification
+msgid "There is data stored locally, please upload to server"
+msgstr ""
+"သင့်ကွန်ပျူတာတွင်သိမ်းဆည်းထားသောအချက်အလက်များရှိသည်။ "
+"ကျေးဇူးပြု၍ဆာဗာတွင်းသို့ပြောင်းရွှေ့သိမ်းဆည်းပေးပါ"
+
+#: uploading_data_notification
+msgid "Uploading locally stored data to the server"
+msgstr "သိမ်းဆည်းထားသောအချက်အလက်များကို ဆာဗာတွင်းသို့ပြောင်းရွှေ့သိမ်းဆည်းနေသည်"
+
+#: sync_now
+msgid "Upload"
+msgstr "ဖြည့်သွင်းသိမ်းဆည်းသည်"
+
+#: discard
+msgid "Discard"
+msgstr ""
+
+#: remove_local_data
+msgid "Are you sure you want to remove the locally stored data?"
+msgstr ""
+
+#: sync_success
+msgid "Upload to server was successful"
+msgstr "ဆာဗာတွင်းသို့သိမ်းဆည်းခြင်းပြီးဆုံးပါပြီ"
+
+#: sync_failed
+msgid "Upload to server failed, please try again later"
+msgstr "ဆာဗာတွင်းသို့သိမ်းဆည်းခြင်းမအောင်မြင်ပါ။ ကျေးဇူးပြု၍ ထပ်မံကြိုးစားပေးပါ"
+
+#: year
+msgid "Year"
+msgstr "ခုနှစ်"
+
+#: details
+msgctxt "details"
+msgid "Details"
+msgstr "အတိအကျ"
+
+#: show_details
+msgid "Show details"
+msgstr "အတိအကျပြသပါ"
+
+#: hide_details
+msgid "Hide details"
+msgstr "အတိအကျဖော်ပြချက်များကိုဖွက်ထားပါ"
+
+#: change_password
+msgid "Change password"
+msgstr "လျှို့ဝှက်နံပါတ်ပြောင်းခြင်း"
+
+#: expired_password
+msgid "Your password has expired, please change"
+msgstr ""
+
+#: date_selector
+msgid "Choose a date"
+msgstr "ရက်စွဲရွေးချယ်ခြင်း"
+
+#: hide_menu
+msgid "Hide menu"
+msgstr "မီနူးကိုမမြင်အောင်ဖွက်ခြင်း"
+
+#: extend_menu
+msgid "Extend menu"
+msgstr "မီနူးကိုချဲ့ခြင်း"
+
+#: show_menu
+msgid "Show menu"
+msgstr "မီနူးကိုပြသခြင်း"
+
+#: show_main_menu
+msgid "Show main menu"
+msgstr "အဓိကမီနူးကိုပြသခြင်း"
+
+#: view_home_page
+msgid "View home page"
+msgstr "အဝင်စာမျက်နှာကိုကြည့်ရှုခြင်း"
+
+#: view_intepretations
+msgid "View interpretations"
+msgstr "ဘာသာပြန်ထားသည်ကိုကြည့်ရှုခြင်း"
+
+#: organisation_unit
+msgid "Organisation unit"
+msgstr "အဖွဲ့အစည်းများ"
+
+#: dataelement
+msgid "Data element"
+msgstr "စာတိုင်များ"
+
+#: start_date
+msgid "Start date"
+msgstr "စတင်သည့်ရက်"
+
+#: end_date
+msgid "End date"
+msgstr "ပြီးဆုံးသည့်ရက်"
+
+#: entry
+msgid "Entry"
+msgstr "ဖြည့်သွင်းခြင်း"
+
+#: comment
+msgctxt "comment"
+msgid "Comment"
+msgstr "မှတ်ချက်"
+
+#: operations
+msgid "Operations"
+msgstr "လုပ်ဆောင်ချက်များ"
+
+#: add_new
+msgid "Add new"
+msgstr "အသစ်ထည့်ခြင်း"
+
+#: rename
+msgid "Rename"
+msgstr "အမည်သစ်ပေးခြင်း"
+
+#: move
+msgid "Move"
+msgstr "‌‌နေရာရွှေ့ခြင်း"
+
+#: remove
+msgid "Remove"
+msgstr "ဖယ်ရှားခြင်း"
+
+#: required
+msgid "Required"
+msgstr "ဖြည့်သွင်းရန်လိုအပ်သည်"
+
+#: all
+msgid "All"
+msgstr "အားလုံး"
+
+#: save
+msgctxt "save"
+msgid "Save"
+msgstr "သိမ်းဆည်းသည်"
+
+#: new
+msgid "New"
+msgstr "အသစ်"
+
+#: back
+msgid "Back"
+msgstr "‌နောက်သို့ပြန်သွားသည်"
+
+#: ok
+msgid "OK"
+msgstr "လက်ခံသည်"
+
+#: cancel
+msgctxt "cancel"
+msgid "Cancel"
+msgstr "ပယ်ဖျက်သည်"
+
+#: clone
+msgid "Clone"
+msgstr "ပုံတူပွားသည်"
+
+#: add
+msgctxt "add"
+msgid "Add"
+msgstr "ထပ်ထည့်သည်"
+
+#: edit
+msgid "Edit"
+msgstr "တည်းဖြတ်သည်"
+
+#: reply
+msgid "Reply"
+msgstr "အကြောင်းပြန်သည်"
+
+#: update
+msgid "Update"
+msgstr "‌နောက်ဆုံးသတင်းကိုရစေခြင်း"
+
+#: delete
+msgid "Delete"
+msgstr "ဖျက်ဆီးသည်"
+
+#: deleting
+msgid "Deleting"
+msgstr "ဖျက်ဆီးခြင်း"
+
+#: close
+msgid "Close"
+msgstr "ပိတ်သည်"
+
+#: gender_male
+msgctxt "gender_male"
+msgid "Male"
+msgstr "ကျား"
+
+#: gender_female
+msgctxt "gender_female"
+msgid "Female"
+msgstr "မ"
+
+#: gender_other
+msgctxt "gender_other"
+msgid "Other"
+msgstr "အခြား"
+
+#: password
+msgctxt "password"
+msgid "Password"
+msgstr "လျှို့ဝှက်နံပါတ်"
+
+#: confirm_password
+msgid "Confirm password"
+msgstr "လျှို့ဝှက်နံပါတ်ကိုသေချာအောင်လုပ်သည်"
+
+#: mobile_phone
+msgid "Mobile phone"
+msgstr "လက်ကိုင်ဖုန်း"
+
+#: create_new_account
+msgid "Create a new account"
+msgstr "စာရင်းသစ်ဖန်တီးခြင်း"
+
+#: prove_you_are_not_a_robot
+msgid "Prove you are not a robot"
+msgstr "သင်ကိုယ်တိုင်ဖြစ်ကြောင်းသက်သေပြပါ"
+
+#: create
+msgid "Create"
+msgstr "ဖန်တီးသည်"
+
+#: cant_read_the_words_try_another_one
+msgid "Can't read the words? Try another one"
+msgstr "စာလုံးများဖတ်မရပါ။ အခြားတစ်ခုကိုပြောင်း၍ကြိုးစားပေးပါ"
+
+#: restore
+msgid "Restore"
+msgstr "ပြန်သိမ်းပေးသည်"
+
+#: new_password
+msgctxt "new_password"
+msgid "New password"
+msgstr ""
+
+#: restore_account
+msgid "Restore account"
+msgstr "စာရင်းကိုပြန်သိမ်းပေးသည်"
+
+#: account_recovery
+msgid "Account recovery"
+msgstr "ပြန်လည်အသုံးပြုနိုင်ရန်သိမ်းဆည်းခြင်း"
+
+#: recover
+msgid "Recover"
+msgstr "ပြန်ကောင်းလာသည်"
+
+#: code_from_email
+msgid "Code from email"
+msgstr "အီးမေးလ်မှလျှို့ဝှက်သင်္ကေတ"
+
+#: password_hint
+msgid "Minimum 8 characters, 1 upper-case and 1 digit"
+msgstr "အနည်းဆုံးအက္ခရာရှစ်ခု၊ စာလုံးကြီးတစ်ခုနှင့် ဂဏန်းတစ်ခုလိုသည်"
+
+#: optional
+msgid "Optional"
+msgstr "မဖြစ်မနေလုပ်ရန်မလိုပါ။"
+
+#: object_not_deleted_associated_by_objects
+msgid "Object was not deleted because it is used by other objects:"
+msgstr "ဤအကြောင်းအရာသည်အခြားပုံစံဖြင့်အသုံးပြုနေသောကြောင့်ဖျက်ဆီး၍မရပါ။"
+
+#: id
+msgid "ID"
+msgstr ""
+
+#: name_in_use
+msgid "The name is already in use. Please choose a different name"
+msgstr ""
+
+#: code_in_use
+msgid "The code is already in use. Please choose a different code"
+msgstr ""
+
+#: short_name_in_use
+msgid "The short name is already in use. Please choose a different short name"
+msgstr ""
+
+#: unsupported_browser
+msgid ""
+"Please upgrade your browser. Internet Explorer version 8 and earlier is not "
+"supported."
+msgstr ""
+
+#: data_element_or_type_null_or_empty
+msgid "Data element or type not defined"
+msgstr ""
+
+#: value_length_greater_than_max_length
+msgid "Value is greater than max length"
+msgstr ""
+
+#: comment_length_greater_than_max_length
+msgctxt "comment_length_greater_than_max_length"
+msgid "Comment is greater than max length"
+msgstr ""
+
+#: value_not_numeric
+msgid "Value is not numeric"
+msgstr ""
+
+#: value_not_unit_interval
+msgid "Value is not a unit interval"
+msgstr ""
+
+#: value_not_percentage
+msgid "Value is not a percentage"
+msgstr ""
+
+#: value_not_integer
+msgid "Value is not an integer"
+msgstr ""
+
+#: value_not_positive_integer
+msgid "Value is not a positive integer"
+msgstr ""
+
+#: value_not_negative_integer
+msgid "Value is not a negative integer"
+msgstr ""
+
+#: value_not_bool
+msgid "Value is not a boolean"
+msgstr ""
+
+#: value_not_true_only
+msgid "Value is not true"
+msgstr ""
+
+#: value_not_valid_date
+msgid "Value is not a valid date"
+msgstr ""
+
+#: email_not_configured_for_system
+msgid "Email is not configured for the system"
+msgstr ""
+
+#: no_user_credentials
+msgid "No user credentials"
+msgstr ""
+
+#: user_does_not_have_valid_email
+msgid "User does not have a valid email"
+msgstr ""
+
+#: user_has_critical_authorities
+msgid "User has critical authorities"
+msgstr ""
+
+#: default
+msgid "Default"
+msgstr ""
+
+#: left_brackets
+msgid "Left brackets"
+msgstr ""
+
+#: right_brackets
+msgid "Right brackets"
+msgstr ""
+
+#: multiply
+msgid "Multiply"
+msgstr ""
+
+#: divide
+msgid "Divide"
+msgstr ""
+
+#: plus
+msgid "Plus"
+msgstr ""
+
+#: minus
+msgid "Minus"
+msgstr ""
+
+#: no_of_days
+msgid "No of days"
+msgstr ""
+
+#: variables
+msgid "Variables"
+msgstr ""
+
+#: open
+msgid "Open"
+msgstr ""
+
+#: normal
+msgid "Normal"
+msgstr ""
+
+#. #-- Relative periods -----------------------------------------------------------#
+#: LAST_MONTH
+msgid "Last month"
+msgstr ""
+
+#: LAST_BIMONTH
+msgid "Last bi-month"
+msgstr ""
+
+#: LAST_QUARTER
+msgid "Last quarter"
+msgstr ""
+
+#: LAST_SIX_MONTH
+msgid "Last six-month"
+msgstr ""
+
+#: MONTHS_THIS_YEAR
+msgid "Months this year"
+msgstr ""
+
+#: QUARTERS_THIS_YEAR
+msgid "Quarters this year"
+msgstr ""
+
+#: THIS_YEAR
+msgid "This year"
+msgstr ""
+
+#: MONTHS_LAST_YEAR
+msgid "Months last year"
+msgstr ""
+
+#: QUARTERS_LAST_YEAR
+msgid "Quarters last year"
+msgstr ""
+
+#: LAST_YEAR
+msgid "Last year"
+msgstr ""
+
+#: LAST_5_YEARS
+msgid "Last 5 years"
+msgstr ""
+
+#: LAST_12_MONTHS
+msgid "Last 12 months"
+msgstr ""
+
+#: LAST_6_MONTHS
+msgid "Last 6 months"
+msgstr ""
+
+#: LAST_3_MONTHS
+msgid "Last 3 months"
+msgstr ""
+
+#: LAST_6_BIMONTHS
+msgid "Last 6 bi-months"
+msgstr ""
+
+#: LAST_4_QUARTERS
+msgid "Last 4 quarters"
+msgstr ""
+
+#: LAST_2_SIXMONTHS
+msgid "Last 2 six-months"
+msgstr ""
+
+#: THIS_FINANCIAL_YEAR
+msgid "This financial year"
+msgstr ""
+
+#: LAST_FINANCIAL_YEAR
+msgid "Last financial year"
+msgstr ""
+
+#: LAST_5_FINANCIAL_YEARS
+msgid "Last 5 financial years"
+msgstr ""
+
+#: LAST_WEEK
+msgid "Last week"
+msgstr ""
+
+#: LAST_4_WEEKS
+msgid "Last 4 weeks"
+msgstr ""
+
+#: LAST_12_WEEKS
+msgid "Last 12 weeks"
+msgstr ""
+
+#: LAST_52_WEEKS
+msgid "Last 52 weeks"
+msgstr ""
+
+#. #-- PeriodTypes ----------------------------------------------------------------#
+#: Daily
+msgid "Daily"
+msgstr "နေ့စဉ်"
+
+#: Weekly
+msgid "Weekly"
+msgstr "အပတ်စဉ်"
+
+#: Monthly
+msgid "Monthly"
+msgstr "လစဉ်"
+
+#: BiMonthly
+msgid "Bimonthly"
+msgstr "နှစ်လတစ်ကြိမ်"
+
+#: Quarterly
+msgid "Quarterly"
+msgstr "သုံးလတစ်ကြိမ်"
+
+#: SixMonthly
+msgid "Six-monthly"
+msgstr "ခြောက်လတစ်ကြိမ်"
+
+#: SixMonthlyApril
+msgid "Six-monthly April"
+msgstr ""
+
+#: Yearly
+msgid "Yearly"
+msgstr "နှစ်စဉ်"
+
+#: TwoYearly
+msgid "Two-yearly"
+msgstr "နှစ်နှစ်တစ်ကြိမ်"
+
+#: OnChange
+msgid "On-change"
+msgstr "‌ပြောင်းလဲနေသည်"
+
+#: Survey
+msgid "Survey"
+msgstr "ကွင်းဆင်းလေ့လာခြင်း"
+
+#: Relative
+msgid "Relative"
+msgstr "ဆက်စပ်မှု"
+
+#: FinancialApril
+msgid "Financial-April"
+msgstr "ဧပြီဘဏ္ဍာရေးလ"
+
+#: FinancialJuly
+msgid "Financial-July"
+msgstr "ဇူလိုင်ဘဏ္ဍာရေးလ"
+
+#: FinancialOct
+msgid "Financial-Oct"
+msgstr "အောက်တိုဘာဘဏ္ဍာရေးလ"
+
+#. #-- Period formats - Should not be translated ----------------------------------#
+#: format.Daily.startDate
+msgctxt "format.Daily.startDate"
+msgid "yyyy-MM-dd"
+msgstr ""
+
+#: format.Daily.endDate
+msgctxt "format.Daily.endDate"
+msgid ""
+msgstr ""
+
+#: format.Weekly.startDate
+msgid "yyyy 'W' w"
+msgstr ""
+
+#: format.Weekly.endDate
+msgctxt "format.Weekly.endDate"
+msgid ""
+msgstr ""
+
+#: format.Monthly.startDate
+msgid "MMMM yyyy"
+msgstr ""
+
+#: format.Monthly.endDate
+msgctxt "format.Monthly.endDate"
+msgid ""
+msgstr ""
+
+#: format.BiMonthly.startDate
+msgctxt "format.BiMonthly.startDate"
+msgid "MMM 'to '"
+msgstr ""
+
+#: format.BiMonthly.endDate
+msgctxt "format.BiMonthly.endDate"
+msgid "MMM yyyy"
+msgstr ""
+
+#: format.Quarterly.startDate
+msgctxt "format.Quarterly.startDate"
+msgid "MMM 'to '"
+msgstr ""
+
+#: format.Quarterly.endDate
+msgctxt "format.Quarterly.endDate"
+msgid "MMM yyyy"
+msgstr ""
+
+#: format.SixMonthly.startDate
+msgctxt "format.SixMonthly.startDate"
+msgid "MMM 'to '"
+msgstr ""
+
+#: format.SixMonthly.endDate
+msgctxt "format.SixMonthly.endDate"
+msgid "MMM yyyy"
+msgstr ""
+
+#: format.SixMonthlyApril.startDate
+msgctxt "format.SixMonthlyApril.startDate"
+msgid "MMM 'to '"
+msgstr ""
+
+#: format.SixMonthlyApril.endDate
+msgctxt "format.SixMonthlyApril.endDate"
+msgid "MMM yyyy"
+msgstr ""
+
+#: format.Yearly.startDate
+msgctxt "format.Yearly.startDate"
+msgid "yyyy"
+msgstr ""
+
+#: format.Yearly.endDate
+msgctxt "format.Yearly.endDate"
+msgid ""
+msgstr ""
+
+#: format.TwoYearly.startDate
+msgid "yyyy 'and '"
+msgstr ""
+
+#: format.TwoYearly.endDate
+msgctxt "format.TwoYearly.endDate"
+msgid "yyyy"
+msgstr ""
+
+#: format.OnChange.startDate
+msgctxt "format.OnChange.startDate"
+msgid "yyyy-MM-dd '- '"
+msgstr ""
+
+#: format.OnChange.endDate
+msgctxt "format.OnChange.endDate"
+msgid "yyyy-MM-dd"
+msgstr ""
+
+#: format.Survey.startDate
+msgctxt "format.Survey.startDate"
+msgid "yyyy-MM-dd"
+msgstr ""
+
+#: format.Survey.endDate
+msgctxt "format.Survey.endDate"
+msgid ""
+msgstr ""
+
+#: format.Relative.startDate
+msgctxt "format.Relative.startDate"
+msgid "yyyy-MM-dd '- '"
+msgstr ""
+
+#: format.Relative.endDate
+msgctxt "format.Relative.endDate"
+msgid "yyyy-MM-dd"
+msgstr ""
+
+#: format.FinancialApril.startDate
+msgctxt "format.FinancialApril.startDate"
+msgid "MMM yyyy 'to '"
+msgstr ""
+
+#: format.FinancialApril.endDate
+msgctxt "format.FinancialApril.endDate"
+msgid "MMM yyyy"
+msgstr ""
+
+#: format.FinancialJuly.startDate
+msgctxt "format.FinancialJuly.startDate"
+msgid "MMM yyyy 'to '"
+msgstr ""
+
+#: format.FinancialJuly.endDate
+msgctxt "format.FinancialJuly.endDate"
+msgid "MMM yyyy"
+msgstr ""
+
+#: format.FinancialOct.startDate
+msgctxt "format.FinancialOct.startDate"
+msgid "MMM yyyy 'to '"
+msgstr ""
+
+#: format.FinancialOct.endDate
+msgctxt "format.FinancialOct.endDate"
+msgid "MMM yyyy"
+msgstr ""
+
+#. #-- Months and weeks -----------------------------------------------------------#
+#: month.january
+msgid "January"
+msgstr "ဇန်နဝါရီ"
+
+#: month.february
+msgid "February"
+msgstr "ဖေဖော်ဝါရီ"
+
+#: month.march
+msgid "March"
+msgstr "မတ်"
+
+#: month.april
+msgid "April"
+msgstr "ဧပြီ"
+
+#: month.may
+msgctxt "month.may"
+msgid "May"
+msgstr "မေ"
+
+#: month.june
+msgid "June"
+msgstr "ဇွန်"
+
+#: month.july
+msgid "July"
+msgstr "ဇူလိုင်"
+
+#: month.august
+msgid "August"
+msgstr "သြဂုတ်"
+
+#: month.september
+msgid "September"
+msgstr "စက်တင်ဘာ"
+
+#: month.october
+msgid "October"
+msgstr "အောက်တိုဘာ"
+
+#: month.november
+msgid "November"
+msgstr "နိုဝင်ဘာ"
+
+#: month.december
+msgid "December"
+msgstr "ဒီဇင်ဘာ"
+
+#: month.short.january
+msgid "Jan"
+msgstr "ဇန်နဝါရီ"
+
+#: month.short.february
+msgid "Feb"
+msgstr "ဖေဖော်ဝါရီ"
+
+#: month.short.march
+msgid "Mar"
+msgstr "မတ်"
+
+#: month.short.april
+msgid "Apr"
+msgstr "ဧပြီ"
+
+#: month.short.may
+msgctxt "month.short.may"
+msgid "May"
+msgstr "မေ"
+
+#: month.short.june
+msgid "Jun"
+msgstr "ဇွန်"
+
+#: month.short.july
+msgid "Jul"
+msgstr "ဇူလိုင်"
+
+#: month.short.august
+msgid "Aug"
+msgstr "သြဂုတ်"
+
+#: month.short.september
+msgid "Sep"
+msgstr "စက်တင်ဘာ"
+
+#: month.short.october
+msgid "Oct"
+msgstr "အောက်တိုဘာ"
+
+#: month.short.november
+msgid "Nov"
+msgstr "နိုဝင်ဘာ"
+
+#: month.short.december
+msgid "Dec"
+msgstr "ဒီဇင်ဘာ"
+
+#: weekday.monday
+msgctxt "weekday.monday"
+msgid "Monday"
+msgstr "တနင်္လာ"
+
+#: weekday.tuesday
+msgctxt "weekday.tuesday"
+msgid "Tuesday"
+msgstr "အင်္ဂါ"
+
+#: weekday.wednesday
+msgctxt "weekday.wednesday"
+msgid "Wednesday"
+msgstr "ဗုဒ္ဓဟူး"
+
+#: weekday.thursday
+msgctxt "weekday.thursday"
+msgid "Thursday"
+msgstr "ကြာသပတေး"
+
+#: weekday.friday
+msgctxt "weekday.friday"
+msgid "Friday"
+msgstr "သောကြာ"
+
+#: weekday.saturday
+msgctxt "weekday.saturday"
+msgid "Saturday"
+msgstr "စနေ"
+
+#: weekday.sunday
+msgctxt "weekday.sunday"
+msgid "Sunday"
+msgstr "တနင်္ဂနွေ"
+
+#: weekday.short.monday
+msgctxt "weekday.short.monday"
+msgid "Mon"
+msgstr "တနင်္လာ"
+
+#: weekday.short.tuesday
+msgctxt "weekday.short.tuesday"
+msgid "Tue"
+msgstr "အင်္ဂါ"
+
+#: weekday.short.wednesday
+msgctxt "weekday.short.wednesday"
+msgid "Wed"
+msgstr "ဗုဒ္ဓဟူး"
+
+#: weekday.short.thursday
+msgctxt "weekday.short.thursday"
+msgid "Thu"
+msgstr "ကြာသပတေး"
+
+#: weekday.short.friday
+msgctxt "weekday.short.friday"
+msgid "Fri"
+msgstr "သောကြာ"
+
+#: weekday.short.saturday
+msgctxt "weekday.short.saturday"
+msgid "Sat"
+msgstr "စနေ"
+
+#: weekday.short.sunday
+msgctxt "weekday.short.sunday"
+msgid "Sun"
+msgstr "တနင်္ဂနွေ"
+
+#. #-- Nepali Calendar Month/Day names -------------------------------------------#
+#. # The keys for months are still based on ISO 8601, the ordering is correct, but the key names are not. Jan-Dec -> 1-12. #
+#: nepali.month.january
+msgctxt "nepali.month.january"
+msgid "Baishak"
+msgstr ""
+
+#: nepali.month.february
+msgctxt "nepali.month.february"
+msgid "Jestha"
+msgstr ""
+
+#: nepali.month.march
+msgctxt "nepali.month.march"
+msgid "Asar"
+msgstr ""
+
+#: nepali.month.april
+msgctxt "nepali.month.april"
+msgid "Shrawan"
+msgstr ""
+
+#: nepali.month.may
+msgctxt "nepali.month.may"
+msgid "Bhadra"
+msgstr ""
+
+#: nepali.month.june
+msgctxt "nepali.month.june"
+msgid "Ashwin"
+msgstr ""
+
+#: nepali.month.july
+msgctxt "nepali.month.july"
+msgid "Kartik"
+msgstr ""
+
+#: nepali.month.august
+msgctxt "nepali.month.august"
+msgid "Mangsir"
+msgstr ""
+
+#: nepali.month.september
+msgctxt "nepali.month.september"
+msgid "Poush"
+msgstr ""
+
+#: nepali.month.october
+msgctxt "nepali.month.october"
+msgid "Magh"
+msgstr ""
+
+#: nepali.month.november
+msgctxt "nepali.month.november"
+msgid "Falgun"
+msgstr ""
+
+#: nepali.month.december
+msgctxt "nepali.month.december"
+msgid "Chaitra"
+msgstr ""
+
+#: nepali.month.short.january
+msgctxt "nepali.month.short.january"
+msgid "Baishak"
+msgstr ""
+
+#: nepali.month.short.february
+msgctxt "nepali.month.short.february"
+msgid "Jestha"
+msgstr ""
+
+#: nepali.month.short.march
+msgctxt "nepali.month.short.march"
+msgid "Asar"
+msgstr ""
+
+#: nepali.month.short.april
+msgctxt "nepali.month.short.april"
+msgid "Shrawan"
+msgstr ""
+
+#: nepali.month.short.may
+msgctxt "nepali.month.short.may"
+msgid "Bhadra"
+msgstr ""
+
+#: nepali.month.short.june
+msgctxt "nepali.month.short.june"
+msgid "Ashwin"
+msgstr ""
+
+#: nepali.month.short.july
+msgctxt "nepali.month.short.july"
+msgid "Kartik"
+msgstr ""
+
+#: nepali.month.short.august
+msgctxt "nepali.month.short.august"
+msgid "Mangsir"
+msgstr ""
+
+#: nepali.month.short.september
+msgctxt "nepali.month.short.september"
+msgid "Poush"
+msgstr ""
+
+#: nepali.month.short.october
+msgctxt "nepali.month.short.october"
+msgid "Magh"
+msgstr ""
+
+#: nepali.month.short.november
+msgctxt "nepali.month.short.november"
+msgid "Falgun"
+msgstr ""
+
+#: nepali.month.short.december
+msgctxt "nepali.month.short.december"
+msgid "Chaitra"
+msgstr ""
+
+#: nepali.weekday.monday
+msgctxt "nepali.weekday.monday"
+msgid "Monday"
+msgstr ""
+
+#: nepali.weekday.tuesday
+msgctxt "nepali.weekday.tuesday"
+msgid "Tuesday"
+msgstr ""
+
+#: nepali.weekday.wednesday
+msgctxt "nepali.weekday.wednesday"
+msgid "Wednesday"
+msgstr ""
+
+#: nepali.weekday.thursday
+msgctxt "nepali.weekday.thursday"
+msgid "Thursday"
+msgstr ""
+
+#: nepali.weekday.friday
+msgctxt "nepali.weekday.friday"
+msgid "Friday"
+msgstr ""
+
+#: nepali.weekday.saturday
+msgctxt "nepali.weekday.saturday"
+msgid "Saturday"
+msgstr ""
+
+#: nepali.weekday.sunday
+msgctxt "nepali.weekday.sunday"
+msgid "Sunday"
+msgstr ""
+
+#: nepali.weekday.short.monday
+msgctxt "nepali.weekday.short.monday"
+msgid "Mon"
+msgstr ""
+
+#: nepali.weekday.short.tuesday
+msgctxt "nepali.weekday.short.tuesday"
+msgid "Tue"
+msgstr ""
+
+#: nepali.weekday.short.wednesday
+msgctxt "nepali.weekday.short.wednesday"
+msgid "Wed"
+msgstr ""
+
+#: nepali.weekday.short.thursday
+msgctxt "nepali.weekday.short.thursday"
+msgid "Thu"
+msgstr ""
+
+#: nepali.weekday.short.friday
+msgctxt "nepali.weekday.short.friday"
+msgid "Fri"
+msgstr ""
+
+#: nepali.weekday.short.saturday
+msgctxt "nepali.weekday.short.saturday"
+msgid "Sat"
+msgstr ""
+
+#: nepali.weekday.short.sunday
+msgctxt "nepali.weekday.short.sunday"
+msgid "Sun"
+msgstr ""
+
+#. #-- Translation page ------------------------------------------------------#
+#: translation_translate
+msgid "Translate"
+msgstr "ဘာသာပြန်သည်။"
+
+#: translation_addlocale
+msgid "Add locale"
+msgstr "အမိဘာသာစကား ထပ်ထည့်ရန်။"
+
+#: translation_details
+msgctxt "translation_details"
+msgid "Details"
+msgstr "အသေးစိတ်များ"
+
+#: translation_select_locale
+msgid "[ Select locale ]"
+msgstr "[ အမိဘာသာစကား ရွေးချယ်ပါ။ ]"
+
+#: translation_select_ref
+msgid "[ Select reference ]"
+msgstr "[ အကိုးအကား ကို ရွေးချယ်ပါ။ ]"
+
+#: translation_save
+msgctxt "translation_save"
+msgid "Save"
+msgstr "သိမ်းသည်။"
+
+#: translation_label_id
+msgid "Id"
+msgstr "အိုင်ဒီ"
+
+#: translation_label_name
+msgctxt "translation_label_name"
+msgid "Name"
+msgstr "အမည်"
+
+#: translation_label_shortName
+msgctxt "translation_label_shortName"
+msgid "Short name"
+msgstr "အမည်အတို"
+
+#: translation_label_description
+msgctxt "translation_label_description"
+msgid "Description"
+msgstr "ဖော်ပြချက်"
+
+#: translation_label_comment
+msgctxt "translation_label_comment"
+msgid "Comment"
+msgstr "မှတ်ချက်"
+
+#: translation_label_region
+msgid "Region"
+msgstr "အရပ်ဒေသ"
+
+#: translation_label_title
+msgid "Title"
+msgstr "ခေါင်းစဉ်"
+
+#: translation_variant
+msgid "Variant"
+msgstr "ပုံစံကွဲမူကွဲ"
+
+#: translation_countrycode
+msgid "Country code"
+msgstr "နိုင်ငံကုတ်နံပါတ်"
+
+#: translation_languagecode
+msgid "Language code"
+msgstr "ဘာသာစကားကုတ်နံပါတ်"
+
+#: translation_label_numerator_description
+msgctxt "translation_label_numerator_description"
+msgid "Numerator description"
+msgstr "ပိုင်းဝေဖော်ပြချက်"
+
+#: translation_label_denominator_description
+msgctxt "translation_label_denominator_description"
+msgid "Denominator description"
+msgstr "ပိုင်းခြေဖော်ပြချက်"
+
+#: translation_locale_added
+msgid "Added locale"
+msgstr "ထည့်သွင်းထားသော အမိဘာသာစကား"
+
+#: translation_cancel
+msgctxt "translation_cancel"
+msgid "Cancel"
+msgstr "ဖျက်သည်။"
+
+#: translation_add
+msgctxt "translation_add"
+msgid "Add"
+msgstr "ပေါင်းထည့်သည်။"
+
+#: translation_locale
+msgid "Locale"
+msgstr "အမိဘာသာစကား"
+
+#: translation_reference
+msgid "Reference"
+msgstr "အကိုးအကား"
+
+#: translation_language_must_be_two_chars
+msgid "Language must be two characters"
+msgstr "ဘာသာစကားနေရာတွင် အက္ခရာနှစ်လုံးရှိရမည်။"
+
+#: translation_country_must_be_two_chars
+msgid "Country must be two characters"
+msgstr "နိုင်ငံနေရာတွင် အက္ခရာနှစ်လုံးရှိရမည်။"
+
+#: translation_variant_must_be_specified
+msgid "Variant must be specified"
+msgstr "မူကွဲများကို သတ်မှတ်ရမည်။"
+
+#: translation_locale_already_exists
+msgid "Locale already exists"
+msgstr "အမိဘာသာစကား ရှိပြီးသားဖြစ်သည်။"
+
+#: translation_shortname_wellformed
+msgid ""
+"Please verify Letters, Numbers, Underscore and Spaces for short name only"
+msgstr ""
+"အမည်တိုအတွက်သာလျှင် စာများ၊ ဂဏန်းများ၊ underscore နှင်း space များကို စစ်ပါ။"
+
+#: translation_shortname_length
+msgid "Shortname's maximum length of 25 charaters"
+msgstr "အက္ခရာ၂၅ခုကိုအမည်တိုအတွက်ခွင့်ပြုသည်"
+
+#: translation_duplicated_name_with
+msgid "Sorry! You entered a duplicated name with"
+msgstr "သင်အသုံးပြုသောအမည်မှာအမည်ပွားဖြစ်နေသည်"
+
+#: translation_duplicated_shortname_with
+msgid "Sorry! You entered a duplicated short name with"
+msgstr "သင်အသုံးပြုသောအမည်တိုမှာအမည်ပွားဖြစ်နေသည်"
+
+#: translation_label_formName
+msgid "Form name"
+msgstr "ပုံစံအမည်"
+
+#. #-- About ----------------------------------------------------------------------#
+#: name_exists
+msgid "Warning, name already exists"
+msgstr "သတိ။ အမည်တူရှိပြီးဖြစ်သည်"
+
+#: name_is_required
+msgid "Error, name is required"
+msgstr "မှားယွင်းနေသည်။ အမည်ကိုဖြည့်သွင်းရန်"
+
+#: version
+msgid "Version"
+msgstr "ထုတ်ဝေသည့်အကြိမ်"
+
+#: build_revision
+msgid "Build revision"
+msgstr "ထုတ်ဝေသည်"
+
+#: build_date
+msgid "Build date"
+msgstr "ရက်သတ်မှတ်သည်"
+
+#: user_agent
+msgid "User agent"
+msgstr "အသုံးပြုသူ"
+
+#: external_configuration_directory
+msgid "External configuration directory"
+msgstr "ပြင်ပအညွှန်းပြပုံ"
+
+#: environment_variable
+msgid "Environment variable"
+msgstr "ပတ်ဝန်းကျင်ဆိုင်ရာကွဲပြားချက်များ"
+
+#: database_type
+msgid "Database type"
+msgstr "Database ပုံစံ"
+
+#: database_name
+msgid "Database name"
+msgstr "Database အမည်"
+
+#: database_user
+msgid "Database user"
+msgstr "Database အသုံးပြုသူ"
+
+#: not_set
+msgid "Not set"
+msgstr "မရှိပါ"
+
+#: current_user
+msgid "Current user"
+msgstr "လက်ရှိအသုံးပြုနေသူ"
+
+#: dhis2_online
+msgid "DHIS 2 Online"
+msgstr "DHIS 2 အင်တာနက်နှင့်ချိတ်ဆက်နေသည်"
+
+#: home_page
+msgid "Home Page"
+msgstr "ပင်မစာမျက်နှာ"
+
+#: launchpad_site
+msgid "Launchpad Site"
+msgstr "စတင်ထုတ်လွှင့်ရာနေရာ"
+
+#: message_to_the_dhis2_development_team
+msgid "Message to the DHIS 2 development team"
+msgstr "ဖွံ့ဖြိုးမှုအဖွဲ့သို့သတင်းတိုပေးပို့ခြင်း"
+
+#: error_message_stack_trace
+msgid "Error message / Stack trace"
+msgstr "သတင်းတိုပေးပို့ခြင်းပုံစံမှားယွင်းနေပါသည်"
+
+#: enter_message
+msgid "Enter a message"
+msgstr "‌ပေးပို့လိုသောသတင်းတိုကိုရိုက်နှိပ်ပါ"
+
+#: send
+msgid "Send"
+msgstr "ပို့သည်"
+
+#: help
+msgid "Help"
+msgstr "အကူအညီတောင်းခံရန်"
+
+#: send_feedback
+msgid "Send feedback"
+msgstr "အကြောင်းပြန်သည်"
+
+#: status
+msgid "Status"
+msgstr "အခြေအနေ"
+
+#: system_status
+msgid "System status"
+msgstr "စနစ်အခြေအနေ"
+
+#: feedback
+msgid "Feedback"
+msgstr "အကြောင်းပြန်ကြားချက်"
+
+#: intro
+msgid "Intro"
+msgstr "မိတ်ဆက်"
+
+#: help_contents
+msgid "Help Contents"
+msgstr "အကူအညီတောင်းယူနိုင်သောအကြောင်းအရာများ"
+
+#: about_dhis2
+msgid "About DHIS 2"
+msgstr "DHIS 2 အကြောင်း"
+
+#: last_name
+msgid "Last name"
+msgstr "နောက်ဆုံးအမည်"
+
+#: unknown
+msgid "Unknown"
+msgstr "မသိပါ"
+
+#: java_opts
+msgid "Java opts"
+msgstr ""
+
+#: java_home
+msgid "Java home"
+msgstr ""
+
+#: java_tmp_dir
+msgid "Java temporary directory"
+msgstr ""
+
+#: java_version
+msgid "Java version"
+msgstr ""
+
+#: java_vendor
+msgid "Java vendor"
+msgstr ""
+
+#: os_name
+msgid "OS name"
+msgstr "အဓိကလုပ်ဆောင်နေသောစနစ်အမည်"
+
+#: os_architecture
+msgid "OS architecture"
+msgstr "အဓိကလုပ်ဆောင်နေသောစနစ်တည်ဆောက်ပုံ"
+
+#: os_version
+msgid "OS version"
+msgstr "အဓိကလုပ်ဆောင်နေသောစနစ်ထုတ်လုပ်သည့်အကြိမ်"
+
+#: supportive_software
+msgid "Supportive Software"
+msgstr "အထောက်အကူပြုနေသောကွန်ပျူတာဆော့ဝဲလ်"
+
+#: chrome_description
+msgid "Super fast web browser for all platforms"
+msgstr "ရှာဖွေခြင်းအားလုံးအတွက်မြန်နှုန်းမြင့်အင်တာနက်စာမျက်နှာ"
+
+#: foxit_description
+msgid "Free and simple PDF reader for Windows"
+msgstr "Window စနစ်များအတွက်ရိုးရှင်းပြီးအခမဲ့ရသော PDF reader"
+
+#: web_browser
+msgid "Web browser"
+msgstr "အင်တာနက်စာမျက်နှာ"
+
+#: pdf_reader
+msgid "PDF reader"
+msgstr ""
+
+#: ireport_description
+msgid "Report designer for standard reports"
+msgstr "စံထားရသောအစီရင်ခံစာများ၏ပုံစံထုတ်လုပ်သူ"
+
+#: report_designer
+msgid "Report designer"
+msgstr "အစီရင်ခံစာပုံစံထုတ်လုပ်သူ"
+
+#: my_datamart
+msgid "MyDatamart"
+msgstr "ကျွန်ုပ်၏အချက်အလက်ဈေးကွက်နေရာ"
+
+#: my_datamart_description
+msgid "Local data mart for off-line data analysis"
+msgstr ""
+"အင်တာနက်အသုံးပြုစရာမလိုသောအချက်အလက်များဆန်းစစ်နိုင်သည့်အချက်အလက်သိမ်းဆည်းရာဈေ"
+"းကွက်"
+
+#: mobile_client
+msgid "Mobile client"
+msgstr "မိုဘိုင်းလ်အသုံးပြုသူ"
+
+#: mobile_client_description
+msgid "Client for data capture on mobile devices"
+msgstr "မိုဘိုင်းလ်ဖုန်းဖြင့်အချက်အလက်မှတ်သားအသုံးပြုသူ"
+
+#: web_api
+msgid "Web API"
+msgstr ""
+
+#: system_overview
+msgid "System Overview"
+msgstr "စနစ်တစ်ခုလုံးကိုခြုံငုံကြည့်ရှုခြင်း"
+
+#: server_date
+msgid "Server date"
+msgstr "ဆာဗာရှိရက်စွဲ"
+
+#: last_analytics_table_generation
+msgid "Last analytics table generation"
+msgstr ""
+
+#: last_analytics_table_runtime
+msgid "Last analytics table runtime"
+msgstr ""
+
+#: time_since_last_analytics_table_generation
+msgid "Time since last analytics table generation"
+msgstr ""
+
+#: online_release_page
+msgctxt "online_release_page"
+msgid "online release page"
+msgstr "အချက်အလက်များကိုထုတ်ဖော်ပြသထားသောအင်တာနက်စာမျက်နှာ"
+
+#: edit_profile
+msgid "Edit profile"
+msgstr "အတ္ထုပ္ပတ္တိအကျဉ်းကိုပြင်ဆင်ခြင်း"
+
+#: view_profile
+msgid "View profile"
+msgstr "အတ္ထုပ္ပတ္တိအကျဉ်းကိုကြည့်ရှုခြင်း"
+
+#: profile_details
+msgid "Profile details"
+msgstr "အတ္ထုပ္ပတ္တိအသေးစိတ်"
+
+#: job_title
+msgid "Job title"
+msgstr "အလုပ်အကိုင်ခေါင်းစဉ်"
+
+#: introduction
+msgid "Introduction"
+msgstr "မိတ်ဆက်ခြင်း"
+
+#: gender
+msgid "Gender"
+msgstr "လိင်"
+
+#: male
+msgctxt "male"
+msgid "Male"
+msgstr "ကျား"
+
+#: female
+msgctxt "female"
+msgid "Female"
+msgstr "မ"
+
+#: other
+msgctxt "other"
+msgid "Other"
+msgstr "အခြား"
+
+#: birthday
+msgid "Birthday"
+msgstr "‌မွေးနေ့"
+
+#: nationality
+msgid "Nationality"
+msgstr "နိုင်ငံသား"
+
+#: employer
+msgid "Employer"
+msgstr "အလုပ်ရှင်"
+
+#: education
+msgid "Education"
+msgstr "ပညာအရည်အချင်း"
+
+#: interests
+msgid "Interests"
+msgstr "စိတ်ဝင်စားမှုများ"
+
+#: languages
+msgid "Languages"
+msgstr "ဘာသာစကားများ"
+
+#: update_user_profile_success
+msgid "Profile was updated"
+msgstr "အတ္ထုပ္ပတ္တိကိုမွမ်းမံသည်"
+
+#: settings
+msgctxt "settings"
+msgid "Settings"
+msgstr "တည်ဆောက်ထားသည့်အနေအထား"
+
+#: property_to_display_in_analysis_modules
+msgid "Property to display in analysis modules"
+msgstr "အချက်အလက်များဆန်းစစ်ရာတွင်ဖော်ပြထားချက်များ"
+
+#: user_settings
+msgid "User settings"
+msgstr "အသုံးပြုသူ၏စာရင်းတည်ဆောက်ထားသည့်အနေအထား"
+
+#: general
+msgid "General"
+msgstr "‌ယေဘုယျ"
+
+#: message
+msgid "Message"
+msgstr "သတင်း"
+
+#: db_language
+msgid "Database language"
+msgstr "Database တွင်သုံးသောဘာသာစကား"
+
+#: language
+msgid "Interface language"
+msgstr "အချက်အလက်များဖြည့်သွင်းရာတွင်သုံးသောဘာသာစကား"
+
+#: use_db_locale_no_translation
+msgid "Use database locale / no translation"
+msgstr "အချက်အလက်များဖြည့်သွင်းခြင်းကိုမူရင်းဘာသာစကားဖြင့်သာသုံးပါ"
+
+#: style
+msgid "Style"
+msgstr "ပုံစံ"
+
+#: user_general_settings
+msgid "User General Settings"
+msgstr "အသုံးပြုသူ၏ယေဘုယျစာရင်းတည်ဆောက်ထားသည့်အနေအထား"
+
+#: user_message_settings
+msgid "User Message Settings"
+msgstr "အသုံးပြုသူ၏သတင်းတိုပေးပို့ခြင်းပုံစံတည်ဆောက်ထားသည့်အနေအထား"
+
+#: enable_message_email_notifications
+msgid "Enable message email notifications"
+msgstr "အီးမေးလ်ဖြင့်သတိပေးစာပေးပို့ခြင်းကိုလက်ခံသည်"
+
+#: enable_message_sms_notifications
+msgid "Enable message SMS notifications"
+msgstr "သတင်းတိုဖြင့်သတိပေးစာပေးပို့ခြင်းကိုလက်ခံသည်"
+
+#: intro_user_general_settings
+msgid ""
+"Customize the system with user specific settings for locale, style and more."
+msgstr ""
+"အသုံးပြုသူ၏သီးသန့်စာရင်းတည်ဆောက်မှုတွင်ဘာသာစကား၊ပုံစံနှင့်အခြားတို့ကိုစိတ်ကြိ"
+"ုက်ပြန်လည်ပြင်ဆင်သည်"
+
+#: intro_user_message_settings
+msgid ""
+"Customize the system with user specific settings for message email and sms "
+"notification."
+msgstr ""
+"အသုံးပြုသူ၏သီးသန့်စာရင်းတည်ဆောက်မှုတွင်သတိပေးချက်လက်ခံခြင်းပုံစံကိုသတင်းတို၊အ"
+"ီးမေးလ်တို့ဖြင့်စိတ်ကြိုက်ပြန်လည်ပြင်ဆင်သည်"
+
+#: light_blue
+msgid "Light Blue"
+msgstr "အပြာဖျော့ရောင်"
+
+#: green
+msgid "Green"
+msgstr "အစိမ်းရောင်"
+
+#: myanmar
+msgctxt "myanmar"
+msgid "Myanmar"
+msgstr "ပြည်ထောင်စုသမ္မတမြန်မာနိုင်ငံ"
+
+#: india
+msgctxt "india"
+msgid "India"
+msgstr ""
+
+#: vietnam
+msgctxt "vietnam"
+msgid "Vietnam"
+msgstr ""
+
+#: settings_updated
+msgid "Settings were updated"
+msgstr "တည်ဆောက်ထားသည့်အနေအထားကိုမွမ်းမံသည်"
+
+#: dashboard
+msgctxt "dashboard"
+msgid "Dashboard"
+msgstr ""
+
+#: messages
+msgid "Messages"
+msgstr "သတင်းများ"
+
+#: interpretations
+msgid "Interpretations"
+msgstr "ဘာသာပြန်ခြင်းများ"
+
+#: interface_style
+msgid "Interface style"
+msgstr "အစိတ်အပိုင်းဆက်သွယ်ချက်များ၏ပုံစံ"
+
+#: server_memory
+msgid "Server memory"
+msgstr "အချက်အလက်သိုမှီးရာဌာန၏မှတ်ဉာဏ်"
+
+#: cpu_cores
+msgid "CPU cores"
+msgstr ""
+
+#: please_select
+msgid "Please select"
+msgstr ""
+
+#: browse_it_here
+msgid "Browse it here"
+msgstr ""
+
+#. #-- Change Log------------------------------------------------------------------#
+#: change_log
+msgid "Change Log"
+msgstr "မှတ်တမ်းကိုပြောင်းလဲသည်"
+
+#: release
+msgid "Release"
+msgstr "ထုတ်လွှင့်သည်"
+
+#: release_page
+msgctxt "release_page"
+msgid "online release page"
+msgstr "အင်တာနက်စာမျက်နှာမှတဆင့်ထုတ်လွှင့်သည်"
+
+#. #-- Macros ---------------------------------------------------------------------#
+#: yes
+msgctxt "yes"
+msgid "Yes"
+msgstr "မှန်"
+
+#: no
+msgctxt "no"
+msgid "No"
+msgstr "မှား"
+
+#: true
+msgctxt "true"
+msgid "Yes"
+msgstr ""
+
+#: false
+msgctxt "false"
+msgid "No"
+msgstr ""
+
+#: sum
+msgid "Sum"
+msgstr "စုစုပေါင်း"
+
+#: count
+msgid "Count"
+msgstr "အရေအတွက်"
+
+#: average
+msgid "Average"
+msgstr "ပျမ်းမျှ"
+
+#: stddev
+msgid "Standard deviation"
+msgstr ""
+
+#: variance
+msgid "Variance"
+msgstr ""
+
+#: min
+msgid "Min"
+msgstr ""
+
+#: max
+msgid "Max"
+msgstr ""
+
+#: text
+msgid "Text"
+msgstr "စာရေးသားသည်"
+
+#: long_text
+msgid "Long text"
+msgstr ""
+
+#: string
+msgid "String"
+msgstr "စာသား"
+
+#: int
+msgctxt "int"
+msgid "Number"
+msgstr "ဂဏန်း"
+
+#: number
+msgctxt "number"
+msgid "Number"
+msgstr "ဂဏန်း"
+
+#: positive_integer
+msgid "Positive Integer"
+msgstr ""
+
+#: zero_positive_int
+msgid "Positive or Zero Integer"
+msgstr ""
+
+#: negative_integer
+msgid "Negative Integer"
+msgstr ""
+
+#: unit_interval
+msgid "Unit interval"
+msgstr ""
+
+#: percentage
+msgid "Percentage"
+msgstr ""
+
+#: date
+msgid "Date"
+msgstr "ရက်စွဲ"
+
+#: date_time
+msgid "Date & Time"
+msgstr ""
+
+#: yes_no
+msgctxt "yes_no"
+msgid "Yes/No"
+msgstr "မှန်/မှား"
+
+#: bool
+msgctxt "bool"
+msgid "Yes/No"
+msgstr "မှန်/မှား"
+
+#: none
+msgctxt "none"
+msgid "None"
+msgstr "တစ်ခုမှမဟုတ်"
+
+#: yes_only
+msgid "Yes Only"
+msgstr "အမှန်သာဖြစ်သည်"
+
+#: custom
+msgid "Custom"
+msgstr ""
+
+#. #-- Validation messages -------------------------------------------------------#
+#: value_must_integer
+msgid "Value must be an integer"
+msgstr ""
+
+#: value_must_number
+msgid "Value must be a number"
+msgstr ""
+
+#: value_must_positive_integer
+msgid "Value must be a positive integer"
+msgstr ""
+
+#: value_must_negative_integer
+msgid "Value must be a negative integer"
+msgstr ""
+
+#: value_must_zero_or_positive_integer
+msgid "Value must be zero or a positive integer"
+msgstr ""
+
+#: value_must_unit_interval
+msgid "Value must be a unit interval (between 0 and 1)"
+msgstr ""
+
+#: value_must_percentage
+msgid "Value must be a percentage (between 0 and 100)"
+msgstr ""
+
+#. #-- User account --------------------------------------------------------------#
+#: profile
+msgid "Profile"
+msgstr "အတ္ထုပ္ပတ္တိအကျဉ်း"
+
+#: account
+msgid "Account"
+msgstr "စာရင်း"
+
+#: update_user
+msgid "Update user"
+msgstr "အသုံးပြုသူကိုအဆင့်မြှင့်သည်"
+
+#: user_account
+msgid "User account"
+msgstr ""
+
+#: user_name
+msgctxt "user_name"
+msgid "Username"
+msgstr "အသုံးပြုသူအမည်"
+
+#: old_password
+msgid "Old password"
+msgstr "လျှို့ဝှက်ဂဏန်းအဟောင်း"
+
+#: new_password
+msgctxt "new_password"
+msgid "New password"
+msgstr ""
+
+#: retype_new_password
+msgid "Retype new password"
+msgstr "လျှို့ဝှက်ဂဏန်းအသစ်ကိုပြန်ရေးပါ"
+
+#: surname
+msgid "Surname"
+msgstr "မျိုးရိုးအမည်"
+
+#: first_name
+msgid "First name"
+msgstr "ပထမအမည်"
+
+#: email
+msgid "E-mail"
+msgstr "အီးမေးလ်"
+
+#: openid
+msgid "OpenID"
+msgstr ""
+
+#: username
+msgctxt "username"
+msgid "Username"
+msgstr "အသုံးပြုသူအမည်"
+
+#: phone_number
+msgid "Mobile phone number"
+msgstr "မိုဘိုင်းလ်ဖုန်းနံပါတ်"
+
+#: user_roles
+msgid "User roles"
+msgstr "အသုံးပြုသူအဆင့်"
+
+#: update_user_success
+msgid "Account was updated"
+msgstr "အသုံးပြုသူစာရင်းကိုအဆင့်မြှင့်တင်ပြီးဖြစ်သည်"
+
+#: wrong_password
+msgid "Wrong password"
+msgstr "လျှို့ဝှက်ဂဏန်းမှားယွင်းနေပါသည်"
+
+#: help_center
+msgid "Help Center"
+msgstr "အကူအညီတောင်းရန်ဌာန"
+
+#: help_intro_header
+msgid "Welcome to the DHIS 2 Help Center"
+msgstr "DHIS 2 အကူအညီတောင်းရန်ဌာနမှကြိုဆိုပါသည်"
+
+#: help_intro_text
+msgid "Please select an item from the menu to the left."
+msgstr "လက်ဝဲဘက်ရှိ Menu မှအကြောင်းအရာတစ်ခုကိုရွေးချယ်ပါ"
+
+#: please_wait_while_the_system_is_processing
+msgid "Please wait while the system is processing"
+msgstr "စနစ်အလုပ်လုပ်နေစဉ်ခေတ္တစောင့်ဆိုင်းပါ"
+
+#: organisation_unit_required_for_user
+msgid "User must be assigned to at least one organisation unit"
+msgstr ""
+
+#. #-- Contact info ---------------------------------------------------------------#
+#: address
+msgid "Address"
+msgstr "လိပ်စာ"
+
+#: contact_details
+msgid "Contact information"
+msgstr "ဆက်သွယ်ရမည့်အချက်အလက်ဖြည့်သွင်းရန်"
+
+#: contact_person
+msgid "Contact person"
+msgstr "ဆက်သွယ်ရမည့်သူ၏အမည်"
+
+#. #-- Form validation messages --------------------------------------------------#
+#: this_field_is_required
+msgid "This field is required."
+msgstr "ဤနေရာတွင်မဖြစ်မနေဖြည့်သွင်းရမည်"
+
+#: please_fix_this_field
+msgid "Please fix this field."
+msgstr "ဤနေရာကိုခိုင်မာအောင်ပြုပါ"
+
+#: please_enter_a_valid_email_address
+msgid "Please enter a valid email address."
+msgstr "မှန်ကန်သောအီးမေးလ်လိပ်စာဖြည့်သွင်းပါ"
+
+#: please_enter_a_valid_url
+msgid "Please enter a valid URL."
+msgstr "မှန်ကန်သောURLဖြည့်သွင်းပါ"
+
+#: please_enter_a_valid_date
+msgid "Please enter a valid date."
+msgstr "မှန်ကန်သောရက်စွဲဖြည့်သွင်းပါ"
+
+#: please_enter_a_valid_date_iso
+msgid "Please enter a valid date (e.g. 1990-01-01)."
+msgstr "မှန်ကန်သောရက်စွဲဖြည့်သွင်းပါ (ဥပမာ-၁၉၉၀-၀၁-၀၁)"
+
+#: please_enter_a_valid_number
+msgctxt "please_enter_a_valid_number"
+msgid "Please enter a valid number."
+msgstr "မှန်ကန်သောဂဏန်းဖြည့်သွင်းပါ"
+
+#: please_enter_a_valid_digits
+msgid "Please enter only digits."
+msgstr "ဂဏန်းသာဖြည့်သွင်းရန်"
+
+#: please_enter_the_equal_values_again
+msgid "The entered values do not match. Please re-enter the values."
+msgstr "‌ဖြည့်သွင်းထားသောတန်ဖိုးကိုက်ညီမှုမရှိ၍ပြန်လည်ဖြည့်သွင်းပါ"
+
+#: please_enter_a_value_with_a_valid_expression
+msgid "Please enter a value with a valid extension."
+msgstr "မှန်ကန်သောပမာဏရှိသည့်တန်ဖိုးဖြည့်သွင်းပါ"
+
+#: first_character_must_be_alphabetical
+msgid "The first character must be a letter."
+msgstr "ပထမဆုံးဖြည့်သွင်းချက်သည်အက္ခရာသာဖြစ်ရမည်"
+
+#: please_enter_no_more_than_n_character
+msgid "Please enter no more than {0} characters."
+msgstr "{0}ထက်မပိုသောအက္ခရာအရေအတွက်သာဖြည့်သွင်းရန်"
+
+#: please_enter_at_least_than_n_character
+msgctxt "please_enter_at_least_than_n_character"
+msgid "Please enter at least {0} characters."
+msgstr "အနည်းဆုံးအက္ခရာ{0}ဖြည့်သွင်းရန်"
+
+#: please_enter_a_value_between_n_character
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr "{0}နှင့် {1}ကြားအက္ခရာအရေအတွက်ရှိသောတန်ဖိုးဖြည့်သွင်းရန်"
+
+#: please_enter_a_value_between_a_and_b
+msgid "Please enter a value between {0} and {1}."
+msgstr "{0}နှင့်{1} ကြားရှိသောတန်ဖိုးဖြည့်သွင်းရန်"
+
+#: please_enter_a_value_less_than_or_equal_to_n
+msgid "Please enter a value less than or equal to {0}."
+msgstr "{0}နှင့်တူသော(သို့) {0}အောက်ရှိသောတန်ဖိုးဖြည့်သွင်းရန်"
+
+#: please_enter_a_value_greater_than_or_equal_to_n
+msgid "Please enter a value greater than or equal to {0}."
+msgstr "{0}နှင့်တူသော(သို့) ထက်များသောတန်ဖိုးဖြည့်သွင်းရန်"
+
+#: please_enter_a_different_value_to_above
+msgid "Please enter a different value to above."
+msgstr "အထက်တွင်ဖြည့်သွင်းထားသောတန်ဖိုးနှင့်မတူအောင်ဖြည့်ပါ"
+
+#: digits_decimal_only_please
+msgid ""
+"Please enter digits only. Three digits before decimal point and two after "
+"the decimal point are allowed."
+msgstr ""
+"ကိန်းဂဏန်းသာဖြည့်ရန်၊ "
+"ဒသမမတိုင်မီဂဏန်းသုံးလုံးနှင့်ဒသမနောက်တွင်ဂဏန်းနှစ်လုံးရေးသားနိုင်သည်"
+
+#: please_letters_numbers_spaces_underscores_only
+msgid "Only letters, numbers, spaces and underscores are allowed."
+msgstr "အက္ခရာ၊ ဂဏန်း၊ နေရာလွတ်နှင့် မျဉ်းတို (underscores) သာခွင့်ပြုထားသည်"
+
+#: please_letters_numbers_spaces_or_some_special_chars_only
+msgid ""
+"Only letters, numbers, spaces and the characters \n"
+" .,-,(,) are allowed."
+msgstr ""
+"\"အက္ခရာ၊ ဂဏန်း၊ နေရာလွတ်နှင့် သင်္ကေတ \n"
+" .,-,(,) တို့ကိုခွင့်ပြုထားသည်\""
+
+#: please_enter_a_value_less_than_or_equal_to
+msgid "Please enter a value less than or equal to {1}"
+msgstr "{1}နှင့်တူသော(သို့) အောက်ရှိသောတန်ဖိုးဖြည့်သွင်းရန်"
+
+#: please_enter_a_value_greater_than_or_equal_to
+msgid "Please enter a value greater than or equal to {1}"
+msgstr "{1}နှင့်တူသော(သို့) ထက်များသောတန်ဖိုးဖြည့်သွင်းရန်"
+
+#: please_do_not_enter_same_values
+msgid "Please do not enter same values."
+msgstr "တူညီသောတန်ဖိုးမဖြည့်သွင်းရ"
+
+#: letters_or_punctuation_only_please
+msgid "Letters or punctuation only please."
+msgstr "စာသားနှင့်ပုဒ်ဖြတ်တို့ကိုသာဖြည့်ရန်"
+
+#: please_enter_n_words_or_less
+msgid "Please enter {0} words or less."
+msgstr "စာလုံးရေ {0}(သို့){0} အောက်နည်းသည်ကိုသာဖြည့်သွင်းရန်"
+
+#: please_enter_at_least_n_words
+msgid "Please enter at least {0} words."
+msgstr "အနည်းဆုံးစာလုံးရေ{0}ဖြည့်သွင်းရန်"
+
+#: please_enter_betwwen_a_and_b_words
+msgid "Please enter between {0} and {1} words."
+msgstr "စာလုံးရေ{0}နှင့်{1}ကြားဖြည့်ရန်"
+
+#: letters_only_please
+msgid "Letters only please."
+msgstr "‌ကျေးဇူးပြု၍အက္ခရာသာဖြည့်ရန်"
+
+#: no_white_space_please
+msgid "No white space please"
+msgstr "‌ကျေးဇူးပြု၍နေရာလွတ်မချန်ပါနှင့်"
+
+#: no_start_white_space_please
+msgid "This field cannot start with a space."
+msgstr "‌နေရာလွတ်ကိုဤအကွက်တွင်စမရေးပါနှင့်"
+
+#: ZIP_code_must_be_in_the_range
+msgid "Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx"
+msgstr "သင်၏ ZIP ကုဒ်သည် ၉၀၂xx-xxx နှင့် ၉၀၅xx-xxxကြားတွင်သာရှိရမည်"
+
+#: please_enter_valid_time
+msgid "Please enter a valid time, between 00:00 and 23:59."
+msgstr "00:00 နှင့် 23:59 ကြားရှိမှန်ကန်သောအချိန်ကိုဖြည့်သွင်းရန်"
+
+#: please_enter_valid_phone_number
+msgid "Please specify a valid phone number."
+msgstr "မှန်ကန်သောဖုန်းနံပါတ်ကိုဖြည့်သွင်းပါ"
+
+#: please_enter_at_least_n_character
+msgctxt "please_enter_at_least_n_character"
+msgid "Please enter at least {0} characters."
+msgstr "စာလုံးရေအနည်းဆုံး {0}ကိုဖြည့်သွင်းပါ"
+
+#: this_date_can_not_be_after_today
+msgid "This date can not be after today."
+msgstr "ယနေ့ထက်စောသောနေ့မဖြစ်ရပါ"
+
+#: please_fill_out_at_least_one_of_these_fields
+msgid "Please fill out at least one of these fields."
+msgstr "ဤအကွက်များထဲမှအနည်းဆုံးတစ်ကွက်ဖြည့်ပါ"
+
+#: please_select_at_least_one_option_for_these_fields
+msgid "Please select at least one option for these fields."
+msgstr "ဤအကွက်များအတွက်ပုံစံတစ်ခုရွေးချယ်ပေးပါ"
+
+#: password_must_contain_at_least_one_capital_letter_and_one_digit
+msgid "Password must contain at least one capital letter and one digit."
+msgstr "လျှို့ဝှက်နံပါတ်သည်အနည်းဆုံးစာလုံးကြီးတစ်လုံးနှင့်ဂဏန်းတစ်ခုပါဝင်ရမည်"
+
+#: only_digits_are_not_allowed
+msgid "Only digits are not allowed"
+msgstr "ကိန်းဂဏန်းများသာဖြည့်သွင်းခြင်းကိုခွင့်မပြုထားပါ"
+
+#: closedDate_should_be_greater_than_openDate
+msgid "The ClosedDate field should be greater than the OpenDate field."
+msgstr "ပိတ်မည့်ရက်သည်ဖွင့်ထားသည့်ရက်ထက်နောက်ကျရမည်"
+
+#: please_unicode_chars_only
+msgid "Valid unicode charaters only are allowed."
+msgstr "မှန်ကန်သောယူနီကုဒ်ကိုသာခွင့်ပြုထားသည်"
+
+#: unrecognized_coordinate_string
+msgid "Unrecognized coordinate string"
+msgstr "ဖြည့်သွင်းထားသောစာသားများကိုမမှတ်မိပါ"
+
+#: please_enter_a_letters_or_digits
+msgid "Please enter letters or digits."
+msgstr "ကျေးဇူးပြု၍စာလုံး(သို့)ဂဏန်းဖြည့်ပါ"
+
+#: please_enter_valid_number
+msgctxt "please_enter_valid_number"
+msgid "Please enter a valid number."
+msgstr "မှန်ကန်သောဂဏန်းဖြည့်သွင်းပါ"
+
+#: please_enter_valid_integer
+msgid "Please enter a valid integer."
+msgstr "မှန်ကန်သောကိန်းပြည့်ဖြည့်သွင်းပါ"
+
+#: please_enter_valid_positive_integer
+msgid "Please enter a valid positive integer."
+msgstr "မှန်ကန်သောအပေါင်းကိန်းပြည့်ဖြည့်သွင်းပါ"
+
+#: please_enter_valid_negative_integer
+msgid "Please enter a valid negative integer."
+msgstr "မှန်ကန်သောအနှုတ်ကိန်းပြည့်ဖြည့်သွင်းပါ"
+
+#: please_enter_name
+msgid "Please enter name!"
+msgstr "အမည်ဖြည့်သွင်းပါ"
+
+#: please_select_period
+msgid "Please select period!"
+msgstr "အချိန်ရွေးချယ်ပါ"
+
+#: please_select_dataset
+msgid "Please select dataset!"
+msgstr "အချက်အလက်အုပ်စု(စီမံချက်) ကိုရွေးချယ်ပါ"
+
+#: please_select_dataelement
+msgid "Please select data element!"
+msgstr "စာတိုင်ကိုရွေးချယ်ပါ"
+
+#: please_select_indicator
+msgid "Please select indicator!"
+msgstr "အညွှန်းကိန်းကိုရွေးချယ်ပါ"
+
+#: please_enter_description
+msgid "Please enter description!"
+msgstr "‌ဖော်ပြချက်ကိုဖြည့်သွင်းပါ"
+
+#: delete_confirm
+msgid "Do you want to delete?"
+msgstr "ဤအကြောင်းအရာကိုဖျက်ချင်ပါသလား"
+
+#: available
+msgid "Available"
+msgstr "ရနိုင်သည်"
+
+#: selected
+msgid "Selected"
+msgstr "‌ရွေးချယ်ထားပြီး"
+
+#: error
+msgid "Error"
+msgstr "အမှား"
+
+#: warning
+msgid "Warning"
+msgstr "သတိ"
+
+#: success
+msgid "Success"
+msgstr "အောင်မြင်သည်"
+
+#: waiting
+msgid "Please wait"
+msgstr "‌ကျေးဇူးပြု၍စောင့်ပါ"
+
+#: expression_not_well_formed
+msgid "Expression is not well formed"
+msgstr ""
+
+#: invalid_identifiers_in_expression
+msgid "Invalid identifiers in expression"
+msgstr ""
+
+#: filter_not_evaluating_to_true_or_false
+msgid "Filter is not evaluating to true or false"
+msgstr ""
+
+#: locate_by_code
+msgid "Locate by code"
+msgstr "ကုဒ်ဖြင့်နေရာညွှန်းသည်"
+
+#: select_at_level
+msgid "Select at level"
+msgstr "ဤအဆင့်တွင်ရွေးချယ်သည်"
+
+#: unselect_at_level
+msgid "Un-select at level"
+msgstr "ဤအဆင့်တွင်မရွေးချယ်ပါ"
+
+#: unselect_all
+msgid "Un-select all"
+msgstr "အားလုံးကိုမရွေးချယ်ပါ"
+
+#: select_all
+msgid "Select all"
+msgstr "အားလုံးကိုရွေးချယ်သည်"
+
+#: select_in_group
+msgid "Select in group"
+msgstr "ဤအုပ်စုတွင်ရွေးချယ်သည်"
+
+#: unselect_in_group
+msgid "Un-select in group"
+msgstr "ဤအုပ်စုတွင်မရွေးချယ်ပါ"
+
+#: select_children
+msgid "Select children"
+msgstr "တစ်ဆင့်နိမ့်အစီရင်ခံဌာနများကိုရွေးချယ်သည်"
+
+#: unselect_children
+msgid "Un-select children"
+msgstr "တစ်ဆင့်နိမ့်အစီရင်ခံဌာနများကိုမရွေးချယ်ပါ"
+
+#: organisation_unit_selection_tree
+msgid "Organisation Unit Selection"
+msgstr "တစ်ဆင့်မြင့်အစီရင်ခံဌာနများကိုရွေးချယ်ခြင်း"
+
+#: move_selected
+msgid "Move selected"
+msgstr "‌ရွေးချယ်ထားသည်များကိုရွှေ့ပြောင်းသည်"
+
+#: remove_selected
+msgid "Remove selected"
+msgstr "‌ရွေးချယ်ထားသည်များကိုဖယ်ရှားသည်"
+
+#: move_all
+msgid "Move all"
+msgstr "အားလုံးကိုရွှေ့ပြောင်းသည်"
+
+#: remove_all
+msgid "Remove all"
+msgstr "အားလုံးကိုဖယ်ရှားသည်"
+
+#: move_up
+msgid "Move up"
+msgstr "အထက်သို့ရွှေ့သည်"
+
+#: move_down
+msgid "Move down"
+msgstr "အောက်သို့ရွှေ့သည်"
+
+#: move_to_top
+msgid "Move to top"
+msgstr "ထိပ်သို့ရွှေ့သည်"
+
+#: move_to_bottom
+msgid "Move to bottom"
+msgstr "အောက်ခြေသို့ရွှေ့သည်"
+
+#. #-- Paging messages -----------------------------------------------------------#
+#: no_of_pages
+msgid "No. of pages"
+msgstr "စာမျက်နှာနံပါတ်"
+
+#: rows_in_page
+msgid "No. of rows per page"
+msgstr "စာမျက်နှာတွင်ပါဝင်သောစာကြောင်းအရေအတွက်"
+
+#: jump_to_page
+msgid "Jump to page"
+msgstr "စာမျက်နှာသို့ကျော်သွားသည်"
+
+#: go
+msgid "Go"
+msgstr "ဆက်သွားသည်"
+
+#: filter_by_name
+msgid "Filter by name"
+msgstr "အမည်ဖြင့်ရှာဖွေထုတ်သည်"
+
+#: filter
+msgid "Filter"
+msgstr "ရှာဖွေထုတ်သည်"
+
+#: clear
+msgid "Clear"
+msgstr "ရှင်းလင်းသည်"
+
+#: find
+msgid "Find"
+msgstr "ရှာသည်"
+
+#: delete_success
+msgid "Object deleted"
+msgstr "အကြောင်းအရာကိုဖျက်ဆီးသည်"
+
+#: process
+msgid "Processing..."
+msgstr "လုပ်ဆောင်နေဆဲ"
+
+#. #-- Export PDF messages -------------------------------------------------------#
+#: get_pdf
+msgid "Get PDF"
+msgstr "PDF ရယူသည်"
+
+#: no_item_to_export
+msgid "There is no item to export"
+msgstr "ထုတ်ပေးရန်အချက်အလက်မရှိပါ"
+
+#: name
+msgctxt "name"
+msgid "Name"
+msgstr "အမည်"
+
+#: short_name
+msgctxt "short_name"
+msgid "Short name"
+msgstr "အမည်တို"
+
+#: alternative_name
+msgid "Alternative name"
+msgstr "အခြားအမည်"
+
+#: code
+msgid "Code"
+msgstr "ကုဒ်"
+
+#: description
+msgctxt "description"
+msgid "Description"
+msgstr "ဖော်ပြချက်"
+
+#: opening_date
+msgid "Opening date"
+msgstr "အဖွင့်ရက်"
+
+#: closed_date
+msgid "Closed date"
+msgstr "အပိတ်ရက်"
+
+#: active
+msgid "Active"
+msgstr "လုပ်ဆောင်နိုင်သည်"
+
+#: type
+msgid "Type"
+msgstr "ပုံစံ"
+
+#: value_type
+msgid "Value Type"
+msgstr "တန်ဖိုးပုံစံ"
+
+#: actual
+msgid "Actual"
+msgstr "အမှန်ရှိသည့်အကြောင်းအရာ"
+
+#: target
+msgid "Target"
+msgstr "ပစ်မှတ်/ ဦးတည်ချက်"
+
+#: percent
+msgid "Percent"
+msgstr "ရာခိုင်နှုန်း"
+
+#: on_time
+msgid "On time"
+msgstr "အချိန်ကိုက်"
+
+#: data_dictionary
+msgid "Data Dictionary"
+msgstr "အချက်အလက်အဘိဓာန်"
+
+#: data_elements
+msgid "Data elements"
+msgstr "စာတိုင်"
+
+#: data_sets
+msgid "Data sets"
+msgstr "စီမံချက်"
+
+#: indicators
+msgid "Indicators"
+msgstr "အညွှန်းကိန်း"
+
+#: indicator_groups
+msgid "Indicator groups"
+msgstr "အညွှန်းကိန်းအုပ်စု"
+
+#: data_element_groups
+msgid "Data element groups"
+msgstr "စာတိုင်အုပ်စု"
+
+#: data_element_concepts
+msgid "Data element concepts"
+msgstr "စာတိုင်၏အယူအဆများ"
+
+#: organisation_units
+msgid "Organisation units"
+msgstr ""
+
+#: organisation_unit_groups
+msgid "Organisation unit groups"
+msgstr "အဖွဲ့အစည်းအုပ်စု"
+
+#: organisation_unit_hierarchy
+msgid "Organisation unit hierarchy"
+msgstr "အဖွဲ့အစည်းဝါစဉ်"
+
+#: validation_rules
+msgid "Validation rules"
+msgstr "မှန်ကန်ခြင်းစစ်ဆေးရန်စည်းမျဉ်းများ"
+
+#: period_type
+msgid "Period Type"
+msgstr "အချိန်ကာလအမျိုးအစား"
+
+#: users
+msgctxt "users"
+msgid "Users"
+msgstr "အသုံးပြုသူများ"
+
+#: user_groups
+msgid "User groups"
+msgstr "အသုံးပြုသူအုပ်စုများ"
+
+#: pivot_tables
+msgid "Pivot tables"
+msgstr ""
+
+#: charts
+msgid "Charts"
+msgstr ""
+
+#: maps
+msgid "Maps"
+msgstr ""
+
+#: dashboards
+msgid "Dashboards"
+msgstr ""
+
+#: programs
+msgid "Programs"
+msgstr ""
+
+#: events
+msgid "Events"
+msgstr ""
+
+#. #-- Indicator -----------------------------------------------------------------#
+#: expression
+msgid "Expression"
+msgstr "ဖော်ပြချက်"
+
+#: left_expression
+msgid "Left Expression"
+msgstr "ဝဲဘက်ရှိဖော်ပြချက်"
+
+#: right_expression
+msgid "Right Expression"
+msgstr "ယာဘက်ရှိဖော်ပြချက်"
+
+#: indicator_type
+msgid "Indicator Type"
+msgstr "‌အညွှန်းကိန်းအမျိုးအစား"
+
+#: annualized
+msgid "Annualized"
+msgstr "နှစ်စဉ်ပြုလုပ်သည်"
+
+#: aggregation_operator
+msgid "Aggregation operator"
+msgstr "အချက်အလက်စုစည်းသူ"
+
+#: numerator
+msgid "Numerator"
+msgstr "ပိုင်းဝေ"
+
+#: numerator_formula
+msgid "Numerator formula"
+msgstr "ပိုင်းဝေတွက်ချက်ပုံ"
+
+#: numerator_description
+msgctxt "numerator_description"
+msgid "Numerator description"
+msgstr "ပိုင်းဝေဖော်ပြချက်"
+
+#: numerator_aggregation_operator
+msgid "Numerator aggregation operator"
+msgstr "ပိုင်းဝေရှိအချက်အလက်စုစည်းသူ"
+
+#: denominator
+msgid "Denominator"
+msgstr "ပိုင်းခြေ"
+
+#: denominator_formula
+msgid "Denominator formula"
+msgstr "ပိုင်းခြေတွက်ချက်ပုံ"
+
+#: denominator_description
+msgctxt "denominator_description"
+msgid "Denominator description"
+msgstr "ပိုင်းခြေဖော်ပြချက်"
+
+#: denominator_aggregation_operator
+msgid "Denominator aggregation operator"
+msgstr "ပိုင်းခြေရှိအချက်အလက်စုစည်းသူ"
+
+#: expression_is_empty
+msgid "Expression is empty"
+msgstr "ဖော်ပြချက်မပါရှိပါ"
+
+#: category_option_combo_does_not_exist
+msgid "Category option combo does not exist"
+msgstr "အမျိုးအစားခွဲခြားချက်ကိုက်ညီမှုမရှိပါ"
+
+#: data_element_does_not_exist
+msgid "Data element does not exist"
+msgstr "စာတိုင်မရှိပါ"
+
+#: constant_does_not_exist
+msgid "Constant does not exist"
+msgstr ""
+
+#: org_unit_group_does_not_exist
+msgid "Organisation unit group does not exist"
+msgstr ""
+
+#: id_not_numeric
+msgid "Identifier is not numeric"
+msgstr "အမှတ်အသားသည်ကိန်းဂဏန်းမဟုတ်ပါ"
+
+#: expression_not_well_formed
+msgid "Expression is not well-formed"
+msgstr ""
+
+#: valid
+msgid "Valid"
+msgstr ""
+
+#. #-- Validation Rule -----------------------------------------------------------#
+#: absolute
+msgid "Absolute"
+msgstr "လုံးဝ"
+
+#: statistical
+msgid "Statistical"
+msgstr "စာရင်းအင်းအရ"
+
+#: left_side_description
+msgid "Left side description"
+msgstr "လက်ဝဲဘက်ရှိဖော်ပြချက်"
+
+#: right_side_description
+msgid "Right side description"
+msgstr "လက်ယာဘက်ရှိဖော်ပြချက်"
+
+#: left_side_of_expression
+msgid "Left side of Expression"
+msgstr "ဖော်ပြချက်၏လက်ဝဲဘက်"
+
+#: right_side_of_expression
+msgid "Right side of Expression"
+msgstr "ဖော်ပြချက်၏လက်ယာဘက်"
+
+#: operator
+msgid "Operator"
+msgstr "စုစည်းစီမံသူ"
+
+#: equal_to_symbol
+msgctxt "equal_to_symbol"
+msgid "=="
+msgstr "ညီမျှခြင်းသင်္ကေတ"
+
+#: not_equal_to_symbol
+msgctxt "not_equal_to_symbol"
+msgid "!="
+msgstr "မညီမျှခြင်းသင်္ကေတ"
+
+#: greater_than_symbol
+msgctxt "greater_than_symbol"
+msgid ">"
+msgstr "ထက်များသည်ကိုပြသောသင်္ကေတ"
+
+#: greater_than_or_equal_to_symbol
+msgctxt "greater_than_or_equal_to_symbol"
+msgid ">="
+msgstr "ထက်များသည်(သို့)တူညီသည်ကိုပြသောသင်္ကေတ"
+
+#: less_than_symbol
+msgctxt "less_than_symbol"
+msgid "<"
+msgstr "အောက်လျော့နည်းသည်ကိုပြသောသင်္ကေတ"
+
+#: less_than_or_equal_to_symbol
+msgctxt "less_than_or_equal_to_symbol"
+msgid "<="
+msgstr "အောက်လျော့နည်းသည်(သို့)တူညီသည်ကိုပြသောသင်္ကေတ"
+
+#: equal_to
+msgctxt "equal_to"
+msgid "=="
+msgstr "ညီမျှခြင်း"
+
+#: not_equal_to
+msgctxt "not_equal_to"
+msgid "!="
+msgstr "မညီမျှခြင်း"
+
+#: greater_than
+msgctxt "greater_than"
+msgid ">"
+msgstr "ထက်များသည်"
+
+#: greater_than_or_equal_to
+msgctxt "greater_than_or_equal_to"
+msgid ">="
+msgstr "ထက်များသည်(သို့)တူညီသည်"
+
+#: less_than
+msgctxt "less_than"
+msgid "<"
+msgstr "အောက်လျော့နည်းသည်"
+
+#: less_than_or_equal_to
+msgctxt "less_than_or_equal_to"
+msgid "<="
+msgstr "အောက်လျော့နည်းသည်(သို့)တူညီသည်"
+
+#: and_title
+msgid "And"
+msgstr ""
+
+#: or_title
+msgid "Or"
+msgstr ""
+
+#: equal_to_title
+msgid "Equal to"
+msgstr ""
+
+#: not_equal_to_title
+msgid "Not equal to"
+msgstr ""
+
+#: less_than_title
+msgid "Less than"
+msgstr ""
+
+#: less_than_or_equal_to_title
+msgid "Less than or equal to"
+msgstr ""
+
+#: greater_than_title
+msgid "Greater than"
+msgstr ""
+
+#: greater_than_or_equal_to_title
+msgid "Greater than or equal to"
+msgstr ""
+
+#. #-- Constant ------------------------------------------------------------------#
+#: constant
+msgid "Constant"
+msgstr "ကိန်းသေ"
+
+#: constants
+msgid "Constants"
+msgstr "ကိန်းသေများ"
+
+#: no_constant_to_select
+msgid "No constants to select"
+msgstr "‌ရွေးချယ်ရန်ကိန်းသေမရှိပါ"
+
+#. #-- Dynamic Attributes --------------------------------------------------------#
+#: multiple_choice
+msgid "Multiple Choice"
+msgstr "အများစုကိုရွေးချယ်နိုင်သည်"
+
+#. #-- Sharing  ------------------------------------------------------------------#
+#: public_access
+msgid "Public access (with login)"
+msgstr "စာရင်းဖွင့်၍လူအများကြည့်ရှုနိုင်သည်"
+
+#: external_access
+msgid "External access (without login)"
+msgstr "စာရင်းမဖွင့်ဘဲပြင်ပမှကြည့်ရှုနိုင်သည်"
+
+#: user_group_access
+msgid "User group access"
+msgstr "သင်၏အသုံးပြုသူအုပ်စု"
+
+#: ajax_login_failed
+msgctxt "ajax_login_failed"
+msgid "Login failed, check your username and password and try again"
+msgstr ""
+
+#: group_name
+msgid "Group name"
+msgstr "အုပ်စုအမည်"
+
+#: sharing_settings
+msgid "Sharing settings"
+msgstr "စာရင်းတည်ဆောက်ထားသည့်အနေအထားကိုမျှဝေခြင်း"
+
+#: no_access
+msgctxt "no_access"
+msgid "None"
+msgstr "တစ်ခုမှမဟုတ်"
+
+#: read_only
+msgid "Read only"
+msgstr "ဖတ်ရန်အတွက်သာ"
+
+#: read_write
+msgid "Read and write"
+msgstr "ဖတ်ရန်နှင့်ရေးရန်"
+
+#: can_edit_and_view
+msgid "Can edit and view"
+msgstr "ပြင်ဆင်၍ကြည့်ရှုနိုင်သည်"
+
+#: can_view
+msgid "Can view"
+msgstr "ကြည့်ရှုနိုင်သည်"
+
+#: search_for_user_groups
+msgid "Search for user groups"
+msgstr "အသုံးပြုသူအုပ်စုများကိုရှာသည်"
+
+#: object_will_created_public
+msgid "This object will be created with public edit and view rights"
+msgstr "ဤအကြောင်းအရာကိုလူအများမှပြင်ဆင်ခွင့်နှင့်ကြည့်ရှုခွင့်ပေး၍ဖန်တီးထားသည်"
+
+#: object_will_created_private
+msgid "This object will be private to yourself"
+msgstr "ဤအကြောင်းအရာသည်သင်အတွက်သီးသန့်ဖြစ်သည်"
+
+#: created_by
+msgid "Created by"
+msgstr ""
+
+#. #-- Countries / flags ---------------------------------------------------------#
+#: afghanistan
+msgid "Afghanistan"
+msgstr "အာဖဂန်နစ္စတန်နိုင်ငံ"
+
+#: africare
+msgid "Africare"
+msgstr ""
+
+#: akros
+msgid "Akros"
+msgstr ""
+
+#: algeria
+msgid "Algeria"
+msgstr "အယ်ဂျီးရီးယားနိုင်ငံ"
+
+#: armenia
+msgid "Armenia"
+msgstr "အာမေးနီးယားနိုင်ငံ"
+
+#: bangladesh
+msgid "Bangladesh"
+msgstr "ဘင်္ဂလားဒေ့ရှ်နိုင်ငံ"
+
+#: benin
+msgid "Benin"
+msgstr "ဘီနင်နိုင်ငံ"
+
+#: bhutan
+msgid "Bhutan"
+msgstr "ဘူတန်နိုင်ငံ"
+
+#: botswana
+msgid "Botswana"
+msgstr "‌ဘော့စ်ဝါနာနိုင်ငံ"
+
+#: burkina_faso
+msgid "Burkina Faso"
+msgstr "ဘာကီးနားဖာဆိုနိုင်ငံ"
+
+#: burkina_faso_coat_of_arms
+msgid "Burkina Faso Coat of Arms"
+msgstr "ဘာကီးနားဖာဆိုနိုင်ငံအမှတ်အသား"
+
+#: burundi
+msgid "Burundi"
+msgstr ""
+
+#: cambodia
+msgid "Cambodia"
+msgstr "ကမ္ဘောဒီးယားနိုင်ငံ"
+
+#: cameroon
+msgid "Cameroon"
+msgstr ""
+
+#: china
+msgid "China"
+msgstr "တရုတ်ပြည်သူ့သမ္မတနိုင်ငံ"
+
+#: colombia
+msgid "Colombia"
+msgstr "ကိုလံဘီယာနိုင်ငံ"
+
+#: demoland
+msgid "Demoland"
+msgstr ""
+
+#: congo_brazzaville
+msgid "Republic of the Congo"
+msgstr "ကွန်ဂိုပြည်သူ့သမ္မတနိုင်ငံ"
+
+#: congo_kinshasa
+msgid "Democratic Republic of the Congo"
+msgstr "ကွန်ဂိုပြည်သူ့ဒီမိုကရက်တစ်သမ္မတနိုင်ငံ"
+
+#: east_africa_community
+msgid "East Africa Community"
+msgstr "‌အရှေ့အာဖရိကအဖွဲ့အစည်း"
+
+#: ecowas
+msgid "ECOWAS"
+msgstr ""
+
+#: ecuador
+msgid "Ecuador"
+msgstr "အီကွေဒေါနိုင်ငံ"
+
+#: egypt
+msgid "Egypt"
+msgstr ""
+
+#: engender_health
+msgid "Engender Health"
+msgstr ""
+
+#: ethiopia
+msgid "Ethiopia"
+msgstr "အီသီယိုပီးယားနိုင်ငံ"
+
+#: fhi360
+msgid "FHI360"
+msgstr ""
+
+#: forut
+msgid "FORUT"
+msgstr ""
+
+#: gambia
+msgid "Gambia"
+msgstr "ဂမ်ဘီယာနိုင်ငံ"
+
+#: ghana
+msgid "Ghana"
+msgstr "ဂါနာနိုင်ငံ"
+
+#: global_fund
+msgid "Global Fund"
+msgstr "ကမ္ဘာ့ရန်ပုံငွေအဖွဲ့"
+
+#: guinea
+msgid "Guinea"
+msgstr "ဂီနီနိုင်ငံ"
+
+#: guinea_bissau
+msgid "Guinea Bissau"
+msgstr "ဂီနီဘစ်ဆာနိုင်ငံ"
+
+#: haiti
+msgid "Haiti"
+msgstr ""
+
+#: icap
+msgid "ICAP"
+msgstr ""
+
+#: ippf
+msgid "IPPF"
+msgstr ""
+
+#: india
+msgctxt "india"
+msgid "India"
+msgstr ""
+
+#: indonesia
+msgid "Indonesia"
+msgstr "အင်ဒိုနီးရှားနိုင်ငံ"
+
+#: iraq
+msgid "Iraq"
+msgstr ""
+
+#: irc
+msgid "International Rescue Committee"
+msgstr "နိုင်ငံတကာကယ်ဆယ်ရေးအဖွဲ့"
+
+#: ivory_coast
+msgid "Ivory Coast"
+msgstr "အိုင်ဗရီကို့စ်နိုင်ငံ"
+
+#: jhpiego
+msgid "JHPIEGO"
+msgstr ""
+
+#: kenya
+msgid "Kenya"
+msgstr "ကင်ညာနိုင်ငံ"
+
+#: laos
+msgid "Lao People's Democratic Republic"
+msgstr ""
+
+#: lesotho
+msgid "Lesotho"
+msgstr "လက်စ်ဆိုသိုနိုင်ငံ"
+
+#: liberia
+msgid "Liberia"
+msgstr "လစ်ဘီးရီးယားနိုင်ငံ"
+
+#: malawi
+msgid "Malawi"
+msgstr "မာလာဝီနိုင်ငံ"
+
+#: mali
+msgid "Mali"
+msgstr "မာလီနိုင်ငံ"
+
+#: mongolia
+msgid "Mongolia"
+msgstr ""
+
+#: mozambique
+msgid "Mozambique"
+msgstr "မိုဇမ်ဘစ်နိုင်ငံ"
+
+#: myanmar
+msgctxt "myanmar"
+msgid "Myanmar"
+msgstr "ပြည်ထောင်စုသမ္မတမြန်မာနိုင်ငံ"
+
+#: msf
+msgid "MSF"
+msgstr ""
+
+#: msi
+msgid "MSI"
+msgstr ""
+
+#: namibia
+msgid "Namibia"
+msgstr "နမ်မီဘီးယားနိုင်ငံ"
+
+#: nepal
+msgid "Nepal"
+msgstr "နီပေါနိုင်ငံ"
+
+#: nicaragua
+msgid "Nicaragua"
+msgstr "နီကာရာဂွာနိုင်ငံ"
+
+#: niger
+msgid "Niger"
+msgstr "နီဂါနိုင်ငံ"
+
+#: nigeria
+msgid "Nigeria"
+msgstr "နိုင်ဂျီးရီးယားနိုင်ငံ"
+
+#: norway
+msgid "Norway"
+msgstr "နော်ဝေးနိုင်ငံ"
+
+#: pakistan
+msgid "Pakistan"
+msgstr ""
+
+#: palestine
+msgid "Palestine"
+msgstr ""
+
+#: paraguay
+msgid "Paraguay"
+msgstr "ပါရာဂွေးနိုင်ငံ"
+
+#: pepfar
+msgid "PEPFAR"
+msgstr ""
+"PEPFAR (အေအိုင်ဒီအက်စ်ရောဂါရှင်များအတွက် အမေရိကန်သမ္မတကြီး၏အရေးပေါ်စီမံချက်)"
+
+#: peru
+msgid "Peru"
+msgstr "ပီရူးနိုင်ငံ"
+
+#: philippines
+msgid "Philippines"
+msgstr "ဖိလစ်ပိုင်နိုင်ငံ"
+
+#: psi
+msgid "PSI"
+msgstr "PSI အဖွဲ့"
+
+#: republic_of_trinidad_and_tobago
+msgid "Republic of Trinidad & Tobago"
+msgstr "ထရီနီဒက်နှင့်တိုဘက်ဂိုပြည်သူ့သမ္မတနိုင်ငံ"
+
+#: rwanda
+msgid "Rwanda"
+msgstr "ရဝမ်ဒါနိုင်ငံ"
+
+#: senegal
+msgid "Senegal"
+msgstr "ဆီနီဂေါနိုင်ငံ"
+
+#: sierra_leone
+msgid "Sierra Leone"
+msgstr "ဆီးရားလီယိုနိုင်ငံ"
+
+#: sierra_leone_coat_of_arms
+msgid "Sierra Leone Coat of Arms"
+msgstr "ဆီးရားလီယိုနိုင်ငံအမှတ်အသား"
+
+#: solomon_islands
+msgid "Solomon Islands"
+msgstr "ဆော်လမွန်ကျွန်းများ"
+
+#: south_africa
+msgid "South Africa"
+msgstr "တောင်အာဖရိက"
+
+#: south_africa_department_of_health
+msgid "South Africa Department of Health"
+msgstr "တောင်အာဖရိက ကျန်းမာရေးဦးစီးဌာန"
+
+#: south_sudan
+msgid "South Sudan"
+msgstr ""
+
+#: sri_lanka
+msgid "Sri Lanka"
+msgstr "သီရိလင်္ကာနိုင်ငံ"
+
+#: sudan
+msgid "Sudan"
+msgstr ""
+
+#: swaziland
+msgid "Swaziland"
+msgstr "ဆွာဇိလန်နိုင်ငံ"
+
+#: tajikistan
+msgid "Tajikistan"
+msgstr "တာဂျစ်ကစ်စတန်နိုင်ငံ"
+
+#: tanzania
+msgid "Tanzania"
+msgstr "တန်ဇေးနီးယားနိုင်ငံ"
+
+#: timor_leste
+msgid "Timor-Leste"
+msgstr "တီမောလက်စ်တီနိုင်ငံ"
+
+#: togo
+msgid "Togo"
+msgstr "တိုဂိုနိုင်ငံ"
+
+#: uganda
+msgid "Uganda"
+msgstr "ယူဂန်ဒါနိုင်ငံ"
+
+#: usaid
+msgid "USAID"
+msgstr ""
+
+#: vanuatu
+msgid "Vanuatu"
+msgstr "ဗန်နြူဝါတူနိုင်ငံ"
+
+#: vietnam
+msgctxt "vietnam"
+msgid "Vietnam"
+msgstr ""
+
+#: who
+msgid "WHO"
+msgstr "ကမ္ဘာ့ကျန်းမာရေးအဖွဲ့"
+
+#: zambia
+msgid "Zambia"
+msgstr "ဇမ်ဘီယာနိုင်ငံ"
+
+#: zanzibar
+msgid "Zanzibar"
+msgstr "ဇန်ဇီဘာနိုင်ငံ"
+
+#: zimbabwe
+msgid "Zimbabwe"
+msgstr "ဇင်ဘာဘွေနိုင်ငံ"
+
+#. #-- Login page ----------------------------------------------------------------#
+#: create_an_account
+msgid "Create an account"
+msgstr ""
+
+#: login_password
+msgctxt "login_password"
+msgid "Password"
+msgstr "လျှို့ဝှက်နံပါတ်"
+
+#: login_username
+msgctxt "login_username"
+msgid "Username"
+msgstr "အသုံးပြုသူအမည်"
+
+#: forgot_password
+msgid "Forgot password?"
+msgstr "လျှို့ဝှက်နံပါတ်မေ့သွားသည်"
+
+#: wrong_username_or_password
+msgid "Wrong username or password"
+msgstr "အသုံးပြုသူအမည်နှင့်လျှို့ဝှက်နံပါတ်မှားယွင်းနေပါသည်"
+
+#: powered_by
+msgid "Powered by"
+msgstr "အဆင့်မြှင့်ခြင်းကိုအောက်ပါတို့ဖြင့်ဆောင်ရွက်ထားသည်"
+
+#: sign_in
+msgid "Sign in"
+msgstr ""
+
+#. #-- New User Account page -----------------------------------------------------#
+#: new_user_account_name
+msgctxt "new_user_account_name"
+msgid "Name"
+msgstr ""
+
+#: new_user_account_first_name
+msgid "First"
+msgstr ""
+
+#: new_user_account_last_name
+msgid "Last"
+msgstr ""
+
+#. #-- Recovery page -------------------------------------------------------------#
+#: recover_success_message
+msgid ""
+"Please check the email account which you registered for this username. We "
+"have sent you instructions on how to restore your password."
+msgstr ""
+
+#: recover_error_message
+msgid ""
+"Sorry, we were not able to restore your account. The username might be "
+"invalid, your account might not permit restore or you might have entered an "
+"invalid email address for your account."
+msgstr ""
+
+#. #-- App Menu ------------------------------------------------------------------#
+#: applications
+msgctxt "applications"
+msgid "Apps"
+msgstr ""
+
+#: more_applications
+msgid "More apps"
+msgstr ""
+
+#: app_manager
+msgctxt "app_manager"
+msgid "Apps"
+msgstr ""
+
+#: app_favorite_description
+msgid ""
+"This icon indicates an app that will be displayed in your dropdown menu."
+msgstr ""
+
+#: app_draggable_description
+msgid ""
+"Items are draggable to change their order, so it's easy to customize your "
+"favorite apps."
+msgstr ""
+
+#: app_order_custom
+msgid "My own order"
+msgstr ""
+
+#: app_order_name_alpha
+msgid "Alphabetical"
+msgstr ""
+
+#: app_search_placeholder
+msgid "Search apps"
+msgstr ""
+
+#. #-- Data value error codes ----------------------------------------------------#
+#: data_element_or_type_null_or_empty
+msgid "Data element or type is null or empty"
+msgstr ""
+
+#: value_length_greater_than_max_length
+msgid "Data value is greater than max length"
+msgstr ""
+
+#: value_not_numeric
+msgid "Data value is not numeric"
+msgstr ""
+
+#: value_not_unit_interval
+msgid "Data value is not a unit interval"
+msgstr ""
+
+#: value_not_percentage
+msgid "Data value is not a percentage"
+msgstr ""
+
+#: value_not_integer
+msgid "Data value is not an integer"
+msgstr ""
+
+#: value_not_positive_integer
+msgid "Data value is not a positive integer"
+msgstr ""
+
+#: value_not_negative_integer
+msgid "Data value is not a negative integer"
+msgstr ""
+
+#: value_is_zero_and_not_zero_significant
+msgid "Data value is zero and not zero significant"
+msgstr ""
+
+#: value_not_bool
+msgid "Data value is not a boolean"
+msgstr ""
+
+#: value_not_true_only
+msgid "Data value is not true"
+msgstr ""
+
+#: value_not_valid_date
+msgid "Data value is not a valid date"
+msgstr ""
+
+#: stored_by_length_greater_than_max_length
+msgid "Stored by is greater than max length"
+msgstr ""
+
+#: comment_length_greater_than_max_length
+msgctxt "comment_length_greater_than_max_length"
+msgid "Comment is greater than max length"
+msgstr ""
+
+#. #-- calendars -----------------------------------------------------------------#
+#: islamic
+msgid "Islamic"
+msgstr ""
+
+#: nepali
+msgid "Nepali"
+msgstr ""
+
+#: julian
+msgid "Julian"
+msgstr ""
+
+#: gregorian
+msgid "Gregorian"
+msgstr ""
+
+#: ethiopian
+msgid "Ethiopian"
+msgstr ""
+
+#: thai
+msgid "Thai"
+msgstr ""
+
+#: iso8601
+msgid "ISO 8601"
+msgstr ""
+
+#: coptic
+msgid "Coptic"
+msgstr ""
+
+#. #-- Email message footer ------------------------------------------------------#
+#: respond_to_this_message
+msgid "Respond to this message"
+msgstr ""
+
+#. #-- Restore emails ------------------------------------------------------------#
+#: email_restore_subject
+msgid "User account restore confirmation at"
+msgstr ""
+
+#: email_restore_1_1st_paragraph_before_application_title
+msgctxt "email_restore_1_1st_paragraph_before_application_title"
+msgid "Someone, probably you, has asked us to restore your"
+msgstr ""
+
+#: email_restore_1_1st_paragraph_after_application_title
+msgctxt "email_restore_1_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr ""
+
+#: email_restore_1_2nd_paragraph
+msgctxt "email_restore_1_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the first one. Please follow "
+"the link below. In the next step you will be asked to enter a code which has "
+"been sent to you in the other email."
+msgstr ""
+
+#: email_restore_1_3rd_paragraph
+msgctxt "email_restore_1_3rd_paragraph"
+msgid ""
+"You must complete the restore process within 1 hour. If you take no action, "
+"your account will not be restored. If you did not request this restore, "
+"please disregard this message."
+msgstr ""
+
+#: email_restore_2_1st_paragraph_before_application_title
+msgctxt "email_restore_2_1st_paragraph_before_application_title"
+msgid "Someone, probably you, has asked us to restore your"
+msgstr ""
+
+#: email_restore_2_1st_paragraph_after_application_title
+msgctxt "email_restore_2_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr ""
+
+#: email_restore_2_2nd_paragraph
+msgctxt "email_restore_2_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the second one. Please read the "
+"first email and follow the instructions. Please use the code below to "
+"complete the new account form."
+msgstr ""
+
+#: email_restore_2_3rd_paragraph
+msgctxt "email_restore_2_3rd_paragraph"
+msgid ""
+"You must complete the restore process within 1 hour. If you take no action, "
+"your account will not be restored. If you did not request this restore, "
+"please disregard this message."
+msgstr ""
+
+#. #-- Invite emails -------------------------------------------------------------#
+#: email_invite_subject
+msgid "Invitation to create user account at"
+msgstr ""
+
+#: email_invite_1_1st_paragraph_before_application_title
+msgctxt "email_invite_1_1st_paragraph_before_application_title"
+msgid "This is an invitation to create a"
+msgstr ""
+
+#: email_invite_1_1st_paragraph_after_application_title
+msgctxt "email_invite_1_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr ""
+
+#: email_invite_1_2nd_paragraph
+msgctxt "email_invite_1_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the first one. Please follow "
+"the link below. In the next step you will be asked to enter a code which has "
+"been sent to you in the other email."
+msgstr ""
+
+#: email_invite_1_3rd_paragraph
+msgctxt "email_invite_1_3rd_paragraph"
+msgid ""
+"You must respond to this invitation within 3 months. If you take no action, "
+"the invitation will expire at that time."
+msgstr ""
+
+#: email_invite_2_1st_paragraph_before_application_title
+msgctxt "email_invite_2_1st_paragraph_before_application_title"
+msgid "This is an invitation to create a"
+msgstr ""
+
+#: email_invite_2_1st_paragraph_after_application_title
+msgctxt "email_invite_2_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr ""
+
+#: email_invite_2_2nd_paragraph
+msgctxt "email_invite_2_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the second one. Please read the "
+"first email and follow the instructions. Please use the code below to "
+"complete the new account form."
+msgstr ""
+
+#: email_invite_2_3rd_paragraph
+msgctxt "email_invite_2_3rd_paragraph"
+msgid ""
+"You must respond to this invitation within 3 months. If you take no action, "
+"the invitation will expire at that time."
+msgstr ""
+
+#. #-- Cache strategy display strings --------------------------------------------#
+#: cache_strategy
+msgid "Cache strategy"
+msgstr ""
+
+#: respect_system_setting
+msgid "Respect system setting"
+msgstr ""
+
+#: no_cache
+msgid "No cache"
+msgstr ""
+
+#: cache_until_6am_tomorrow
+msgid "Cache until 6 AM tomorrow"
+msgstr ""
+
+#: cache_for_two_weeks
+msgid "Cache for two weeks"
+msgstr ""
+
+#: cache_for_one_hour
+msgid "Cache for one hour"
+msgstr ""
+
+#. #-- Program indicators --------------------------------------------------------#
+#: execution_date
+msgid "Execution date"
+msgstr ""
+
+#: due_date
+msgid "Due date"
+msgstr ""
+
+#: incident_date
+msgid "Incident date"
+msgstr ""
+
+#: enrollment_date
+msgid "Enrollment date"
+msgstr ""
+
+#: current_date
+msgid "Current date"
+msgstr ""
+
+#: value_count
+msgid "Value count"
+msgstr ""
+
+#: zero_pos_value_count
+msgid "Zero or positive value count"
+msgstr ""
+
+#: event_count
+msgid "Event count"
+msgstr ""
+
+#: enrollment_count
+msgid "Enrollment count"
+msgstr ""
+
+#: tei_count
+msgid "Tracked entity instance count"
+msgstr ""

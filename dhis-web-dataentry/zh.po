@@ -1,0 +1,497 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-dataentry/src/main/resources/org/hisp/dhis/de/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-dataentry/src/main/resources/org/hisp/dhis/de/i18n_module_zh.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: dataelement_comment
+msgid "Comment"
+msgstr "意见"
+
+#: history_not_valid
+msgid "No history for this data element"
+msgstr "该元素历史记录不可用"
+
+#: data_element
+msgid "Data element"
+msgstr "数据元"
+
+#: min
+msgid "Min"
+msgstr "最小"
+
+#: entry
+msgid "Entry"
+msgstr "输入"
+
+#: max
+msgid "Max"
+msgstr "最大"
+
+#: timestamp
+msgid "Timestamp"
+msgstr "时间戳"
+
+#: stored_by
+msgid "Stored by"
+msgstr "存储于"
+
+#: stored_date
+msgid "Stored date"
+msgstr "存储日期"
+
+#: last_updated
+msgid "Last updated"
+msgstr ""
+
+#: update
+msgid "Update"
+msgstr ""
+
+#: delete
+msgid "Delete"
+msgstr ""
+
+#: no_value
+msgid "No value"
+msgstr "没有值"
+
+#: maximum
+msgid "Maximum"
+msgstr "最大"
+
+#: organisation_unit
+msgid "Organisation Unit"
+msgstr "组织机构"
+
+#: data_set
+msgid "Data Set"
+msgstr "数据集"
+
+#: select
+msgid "Select"
+msgstr "选择"
+
+#: period
+msgid "Period"
+msgstr "周期"
+
+#: form_field
+msgid "Form field"
+msgstr ""
+
+#: filter_on_section
+msgid "Filter on section"
+msgstr "区段过滤器"
+
+#: filter_in_section
+msgid "Filter in section"
+msgstr "分区过滤器"
+
+#: show_all_sections
+msgid "Show all sections"
+msgstr "显示所有分区"
+
+#: show_all_items
+msgid "Show all items"
+msgstr ""
+
+#: earlier_periods
+msgid "Earlier periods"
+msgstr "早些时期"
+
+#: later_periods
+msgid "Later periods"
+msgstr "稍晚的时期"
+
+#: value_of_data_element_less
+msgid ""
+"The value of the following data element is less than the specified minimum "
+"value."
+msgstr "以下数据元的值小于公认的最小值"
+
+#: value_of_data_element_greater
+msgid ""
+"The value of the following data element is greater than the specified "
+"maximum value."
+msgstr "以下数据元的值大于公认的最大值"
+
+#: saving_value_failed_status_code
+msgid "Saving value failed with status code"
+msgstr "保存值失败"
+
+#: saving_value_failed_dataset_is_locked
+msgid "Data set is locked, please contact admin"
+msgstr "数据集被锁定，请联系管理员"
+
+#: saving_comment_failed_status_code
+msgid "Saving comment failed with status code"
+msgstr "保存注释失败，代码状态"
+
+#: saving_comment_failed_error_code
+msgid "Saving comment failed with error code"
+msgstr "保存注释失败，代码错误"
+
+#: saving_minmax_failed_error_code
+msgid "Saving min/max values failed with error code"
+msgstr "保存"
+
+#: move
+msgid "Move"
+msgstr "移动"
+
+#: date
+msgid "Date"
+msgstr "日期"
+
+#: min_limit
+msgid "Min limit"
+msgstr "最小限制"
+
+#: max_limit
+msgid "Max limit"
+msgstr "最大限制"
+
+#: dataelement_history
+msgid "Data element history"
+msgstr "数据元历史"
+
+#: audit_trail
+msgid "Audit trail"
+msgstr ""
+
+#: nr
+msgid "Nr"
+msgstr "编号"
+
+#: min_max_limits
+msgid "Min-max limits"
+msgstr "最小最大限制"
+
+#: run_validation
+msgid "Run validation"
+msgstr "进行验证"
+
+#: validation_result
+msgid "Validation Result"
+msgstr "验证结果"
+
+#: expression
+msgid "Expression"
+msgstr "表达式"
+
+#: successful_validation
+msgid "The data entry screen successfully passed validation"
+msgstr "验证成功"
+
+#: data_entry_screen_has_following_errors
+msgid ""
+"The data entry screen has the following validation errors, please correct"
+msgstr ""
+
+#: the_following_values_are_outliers
+msgid ""
+"The following values are considered as outliers (min-max or std dev), please "
+"correct"
+msgstr "下列的值被考虑视为极端值(min-max 或std dev)"
+
+#: the_following_fields_require_comment
+msgid "The following input fields require a comment, please enter"
+msgstr ""
+
+#: the_following_values_violate_rules
+msgid "The following values violate validation rules"
+msgstr "下列值违反验证规则"
+
+#: value
+msgctxt "value"
+msgid "Value"
+msgstr "值"
+
+#: operator
+msgid "Operator"
+msgstr "操作员"
+
+#: no_organisationunit_selected
+msgid "No Organisation Unit Selected"
+msgstr "无组织机构被选择"
+
+#: no_period_selected
+msgid "No Period Selected"
+msgstr "没选择周期"
+
+#: no_dataelement_selected
+msgid "No Data Element Selected"
+msgstr "无数据元被选择"
+
+#: dataset_is_locked
+msgid "Data set is locked"
+msgstr "数据集已经锁定"
+
+#: complete
+msgid "Complete"
+msgstr "完成"
+
+#: incomplete
+msgid "Incomplete"
+msgstr "不完整"
+
+#: confirm_complete
+msgid "Are you sure this data set is complete?"
+msgstr "你确认这个数据集是完整的吗？"
+
+#: confirm_undo
+msgid "Are you sure you will undo the registration?"
+msgstr "你确定要取消注册吗？"
+
+#: data_entry
+msgid "Data Entry"
+msgstr "数据输入"
+
+#: followup
+msgid "Follow-up"
+msgstr "后续"
+
+#: validation_rule
+msgid "Validation rule"
+msgstr "验证规则"
+
+#: register_complete_dataset_success
+msgid "Registered complete data set"
+msgstr "注册成功"
+
+#: register_complete_dataset_failed
+msgid "Register complete data set failed"
+msgstr "注册失败"
+
+#: undo_register_complete_dataset_success
+msgid "Undo register complete data set success"
+msgstr "你确定撤销登记?"
+
+#: datavalue_history
+msgctxt "datavalue_history"
+msgid "Data value history"
+msgstr "数据值历史"
+
+#: enter_digits
+msgid "Enter digit only."
+msgstr "输入数字"
+
+#: value_is_too_long
+msgid "Value is too long"
+msgstr "值太长了"
+
+#: field_unallowed_save_zero
+msgid ""
+"This element does not permit 0 values. The original value will not be "
+"affected."
+msgstr "0值不被允许保存，原来的值将不影响"
+
+#: datavalue_history
+msgctxt "datavalue_history"
+msgid "Data value history"
+msgstr "数据值历史"
+
+#: max_must_be_greater_than_min
+msgid "Max must be greater than min"
+msgstr "最大值必须比最小值大"
+
+#: next
+msgid "Next"
+msgstr "下一年"
+
+#: prev
+msgid "Prev"
+msgstr "前一年"
+
+#: select_from_tree
+msgid "Select from tree on the left side"
+msgstr "从左侧选择"
+
+#: select_data_set
+msgid "Select data set"
+msgstr "选择数据集"
+
+#: select_period
+msgid "Select period"
+msgstr "选择周期"
+
+#: select_option
+msgid "Select option"
+msgstr ""
+
+#: change_from
+msgid "change from"
+msgstr "改变自"
+
+#: modification
+msgid "Modification"
+msgstr ""
+
+#: modified_by
+msgid "Modified by"
+msgstr ""
+
+#: to
+msgid "to"
+msgstr "到"
+
+#: on
+msgid "On"
+msgstr "在"
+
+#: value
+msgctxt "value"
+msgid "Value"
+msgstr "值"
+
+#: no_response_from_server
+msgid "No response from server, please check connectivity and try again"
+msgstr "服务器无响应"
+
+#: save
+msgid "Save"
+msgstr "保存"
+
+#: save_comment
+msgid "Save comment"
+msgstr "保存注释"
+
+#: operation_not_available_offline
+msgid "This operation is not available in off-line mode"
+msgstr "该选项在离线模式不可用"
+
+#: mark_value_for_followup
+msgid "Mark value for follow-up"
+msgstr "后续值标记"
+
+#: unmark_value_for_followup
+msgid "Un-mark value for follow-up"
+msgstr "取消后续值标记"
+
+#: completed_by
+msgid "Completed by"
+msgstr "完成自"
+
+#: at
+msgid "at"
+msgstr "在"
+
+#: prev_year
+msgid "Prev year"
+msgstr "前一年"
+
+#: next_year
+msgid "Next year"
+msgstr "下年"
+
+#: see_details
+msgid "See details"
+msgstr "查看详情"
+
+#: username
+msgid "Username"
+msgstr "用户名"
+
+#: user_roles
+msgid "User roles"
+msgstr "用户角色"
+
+#: register_complete_failed_dataset_is_locked
+msgid "Data set is locked, registration failed, please contact admin"
+msgstr "数据集被锁定，登记失败，请联系管理员"
+
+#: unregister_complete_failed_dataset_is_locked
+msgid "Data set is locked, un-registration failed, please contact admin"
+msgstr "数据集被锁定，取消登记失败，请联系管理员"
+
+#: dataelement_with_id
+msgid "Data element with identifier"
+msgstr "有id的数据元"
+
+#: category_option_combo_with_id
+msgid "Category option combination identifier"
+msgstr "分类选项标识符"
+
+#: does_not_exist
+msgid "does not exist"
+msgstr "不存在"
+
+#: does_not_exist_in_data_set
+msgid "does not exist in data set"
+msgstr ""
+
+#: insert_input_fields_into_the_form
+msgid "Insert input fields into the form"
+msgstr "表单中插入输入字段"
+
+#: select_data_element
+msgid "Select data element"
+msgstr "选择数据元"
+
+#: all_values_for_data_element_must_be_filled
+msgid ""
+"This form requires that all fields for a data element must be filled, please "
+"correct this before continuing."
+msgstr "该表单要求一个数据元的所有字段填写，继续前请改正"
+
+#: childrens_forms
+msgid "Sub Organisation Units"
+msgstr ""
+
+#: left_side
+msgid "Left side"
+msgstr ""
+
+#: right_side
+msgid "Right side"
+msgstr ""
+
+#: no_periods_click_prev_year_button
+msgid "No periods, click \"Prev year\" button"
+msgstr ""
+
+#: print
+msgid "Print"
+msgstr ""
+
+#: view_comment
+msgid "View comment"
+msgstr ""
+
+#: no_orgunits
+msgid "No organisation unit attached to current user, no data entry possible"
+msgstr ""
+
+#: validation_rules_are_being_processed_please_wait
+msgid "Validation rules are being processed, please wait"
+msgstr ""
+
+#: section
+msgid "Section"
+msgstr ""
+
+#: print_form
+msgid "Print form"
+msgstr ""
+
+#: print_blank_form
+msgid "Print blank form"
+msgstr ""
+
+#: instruction
+msgid "Instruction"
+msgstr ""
+
+#: there_is_no_audit_trail_for_this_value
+msgid "There is no audit trail for this value"
+msgstr ""

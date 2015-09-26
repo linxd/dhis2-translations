@@ -1,0 +1,4011 @@
+#. #-- Application name -----------------------------------------------------------#
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-services/dhis-service-core/src/main/resources/i18n_global.properties, /home/jason/development/dhis2/dhis-2/dhis-services/dhis-service-core/src/main/resources/i18n_global_vi.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: district_health_information_software
+msgid "District Health Information Software 2"
+msgstr "Hệ Thống Báo Cáo Trực Tuyến DHIS2.0"
+
+#: dhis2
+msgid "DHIS 2"
+msgstr "DHIS 2"
+
+#. #-- dhis-wp --------------------------------------------------------------------#
+#: no_page_specified
+msgid "No page specified"
+msgstr "Không có trang để hiển thị"
+
+#: an_exception_occured
+msgid "An exception occurred"
+msgstr "Lỗi ngoại lệ"
+
+#: exception_explanation_text
+msgid ""
+"Sorry! The system failed to execute the operation. Usually, no data is lost "
+"and you can continue working by going back to the previous page."
+msgstr ""
+"Xin lỗi! Hệ thống không thể thực hiện theo yêu cầu. Theo thường lệ, dữ liệu "
+"không bị mất và bạn có thể tiếp tục làm việc khi quay trở lại trang trước đó."
+
+#: exception
+msgid "Exception"
+msgstr "Ngoại lệ"
+
+#: caused_by
+msgid "Caused by"
+msgstr "Gây ra bởi"
+
+#: unknown_source
+msgid "Unknown source"
+msgstr "Không biết nguồn"
+
+#: logged_in
+msgid "Logged in"
+msgstr "Đã đăng nhập"
+
+#: not_logged_in
+msgid "Not logged in"
+msgstr "Chưa đăng nhập"
+
+#: log_out
+msgid "Log out"
+msgstr "Đăng xuất"
+
+#: about
+msgid "About"
+msgstr "Giới thiệu"
+
+#: access_denied
+msgid "Access denied"
+msgstr "Truy cập bị từ chối"
+
+#: access_denied_message
+msgid "You don't have sufficient authority to view this page"
+msgstr "Không có quyền truy cập vào đây"
+
+#: create_access_denied_message
+msgid "You don't have create access to object"
+msgstr "Bạn không có quyền truy cập để tạo ra đối tượng"
+
+#: read_access_denied_message
+msgid "You don't have read access to object"
+msgstr "Bạn không có quyền truy cập để đọc đối tượng"
+
+#: update_access_denied_message
+msgid "You don't have update access to object"
+msgstr "Bạn không có quyền truy cập để cập nhật đối tượng"
+
+#: delete_access_denied_message
+msgid "You don't have delete access to object"
+msgstr "Bạn không có quyền truy cập để xóa đối tượng"
+
+#: go_back
+msgid "Go back"
+msgstr "Trở lại"
+
+#: main_menu
+msgid "Main menu"
+msgstr "Danh mục chính  "
+
+#: maintenance
+msgid "Maintenance"
+msgstr "Bảo trì"
+
+#: services
+msgid "Services"
+msgstr "Dịch vụ"
+
+#. #-- dhis-ouwt ------------------------------------------------------------------#
+#: org_unit_tree
+msgid "Organisation Unit Tree"
+msgstr "Cây đơn vị     "
+
+#: specify_organisationunit
+msgid "Please specify an organisation unit"
+msgstr "Hãy xác định một đơn vị"
+
+#: cannot_clear_selected_orgunits
+msgid "Cannot clear the selected organisation units"
+msgstr "Không thể bỏ chọn các đơn vị đã chọn"
+
+#: locate_organisation_unit_by_name
+msgid "Locate organisation unit by name"
+msgstr "Định vị đơn vị theo tên"
+
+#: error_occurred
+msgid "An error has occurred."
+msgstr "Có lỗi xảy ra."
+
+#: select_organisationunit
+msgid "You must select an OrganisationUnit from the tree."
+msgstr "Bạn phải chọn một đơn vị từ cây đơn vị."
+
+#. #-- Modules --------------------------------------------------------------------#
+#: dhis-web-maintenance-datadictionary
+msgid "Data Elements / Indicators"
+msgstr "Quản trị Chỉ tiêu - Chỉ số"
+
+#: dhis-web-maintenance-dataset
+msgid "Data Sets"
+msgstr "Quản trị mẫu nhập liệu"
+
+#: dhis-web-maintenance-organisationunit
+msgid "Organisation Units"
+msgstr "Quản trị đơn vị"
+
+#: dhis-web-maintenance-user
+msgctxt "dhis-web-maintenance-user"
+msgid "Users"
+msgstr "Quản trị người dùng"
+
+#: dhis-web-maintenance-dataadmin
+msgid "Data Administration"
+msgstr "Quản trị dữ liệu"
+
+#: dhis-web-maintenance-settings
+msgctxt "dhis-web-maintenance-settings"
+msgid "Settings"
+msgstr "Các thiết lập"
+
+#: dhis-web-maintenance-program
+msgid "Programs / Attributes"
+msgstr "Chương trình/Thuộc tính"
+
+#: dhis-web-maintenance-mobile
+msgid "Mobile Configuration"
+msgstr "Thiết lập chạy với ĐT di động "
+
+#: dhis-web-maintenance-appmanager
+msgid "App Management"
+msgstr "Quản trị ứng dụng "
+
+#: dhis-web-caseentry
+msgid "Individual Records"
+msgstr "Quản lý dữ liệu cá thể "
+
+#: dhis-web-dataentry
+msgid "Data Entry"
+msgstr "Nhập dữ liệu "
+
+#: dhis-web-importexport
+msgid "Import-Export"
+msgstr "Tích hợp - Trích xuất dữ liệu "
+
+#: dhis-web-validationrule
+msgid "Data Quality"
+msgstr "Quản lý chất lượng dữ liệu "
+
+#: dhis-web-mapping
+msgid "GIS"
+msgstr "Bản đồ "
+
+#: dhis-web-event-capture
+msgid "Event Capture"
+msgstr "Ghi sự kiện"
+
+#: dhis-web-event-reports
+msgid "Event Reports"
+msgstr "Báo cáo sự kiện "
+
+#: dhis-web-event-visualizer
+msgid "Event Visualizer"
+msgstr "Biểu đồ sự kiện "
+
+#: dhis-web-tracker-capture
+msgid "Tracker Capture"
+msgstr "Ghi theo dõi "
+
+#: dhis-web-cache-cleaner
+msgid "Browser Cache Cleaner"
+msgstr "Xóa dữ liệu trên trình duyệt "
+
+#: dhis-web-reporting
+msgid "Reports"
+msgstr "Báo cáo tổng hợp "
+
+#: dhis-web-light
+msgid "Mobile (Light)"
+msgstr "DHIS2 - Thu gọn "
+
+#: dhis-web-mobile
+msgid "Mobile (Smartphone)"
+msgstr "Ứng dụng trên điện thoại thông minh "
+
+#: dhis-web-dashboard-integration
+msgctxt "dhis-web-dashboard-integration"
+msgid "Dashboard"
+msgstr "Bảng điều khiển "
+
+#: dhis-web-visualizer
+msgid "Data Visualizer"
+msgstr "Biểu đồ "
+
+#: dhis-web-pivot
+msgid "Pivot Table"
+msgstr "Bảng xoay "
+
+#: dhis-web-dashboard
+msgid "Data Analyser"
+msgstr "Phân tích dữ liệu "
+
+#: dhis-web-integration
+msgid "NHRM Integration"
+msgstr "Tổng hợp NHRM  "
+
+#: dhis-web-reports
+msgid "NRHM Reports"
+msgstr "Báo cáo NRHM "
+
+#: dhis-web-dataentry-national
+msgid "Linelisting Data Entry"
+msgstr "Nhập liệu theo dòng "
+
+#: dhis-web-validationrule-local-in
+msgid "Validation Analysis"
+msgstr "Phân tích tính hợp lệ "
+
+#: dhis-web-survey
+msgid "Survey - Target"
+msgstr "Khảo sát "
+
+#: dhis-web-spreadsheet-reporting
+msgid "Spreadsheet Reports"
+msgstr "Báo cáo bảng tính "
+
+#: dhis-web-sms
+msgid "SMS"
+msgstr "SMS "
+
+#: dhis-web-maintenance-in
+msgid "Configuration"
+msgstr "Cấu hình "
+
+#: dhis-web-linelisting-mp
+msgid "Manpower"
+msgstr "Nhân lực "
+
+#: dhis-web-maintenance-rbf
+msgid "Maintenance RBF"
+msgstr "Quản trị RBF"
+
+#. #-- Intro modules -------------------------------------------------------------#
+#: intro_dhis-web-maintenance-datadictionary
+msgid "Maintain data elements, indicators, categories and groups."
+msgstr "Quản lý phần tử dữ liệu, chỉ số, từ điển dữ liệu, phân loại và các nhóm"
+
+#: intro_dhis-web-maintenance-dataset
+msgid ""
+"Maintain data sets, custom forms, sections and compulsory data elements."
+msgstr ""
+"Quản lý tập dữ liệu, mẫu thiết kế, mẫu phân vùng và các phần tử dữ liệu bắt "
+"buộc"
+
+#: intro_dhis-web-maintenance-organisationunit
+msgid "Maintain organisation units and its hierarchy, groups and group sets."
+msgstr "Quản lý các đơn vị và nhánh đơn vị, các nhóm và các tập hợp nhóm"
+
+#: intro_dhis-web-maintenance-user
+msgid ""
+"Maintain users in terms of authorities and passwords, user roles and groups."
+msgstr ""
+"Quản lý người dùng theo các điều khoản, quyền hạn, mật khẩu và theo nhóm"
+
+#: intro_dhis-web-maintenance-dataadmin
+msgid ""
+"Maintain resource tables, check data integrity, see statistics and more."
+msgstr ""
+"Quản lý các bảng tài nguyên, kiểm tra tính ràng buộc dữ liệu, xem số liệu "
+"thống kê và còn nhiều thứ khác"
+
+#: intro_dhis-web-maintenance-settings
+msgid ""
+"Maintain user and system settings related to appearance, notifications and "
+"more."
+msgstr ""
+"Quản lý các thiết lập cho người dùng và hệ thống có liên về giao diện, thông "
+"báo và nhiều chức năng khác."
+
+#: intro_dhis-web-maintenance-program
+msgid ""
+"Maintain tracked entities and programs including attributes and identifiers."
+msgstr ""
+"Quản lý theo dõi cá thể và các chương trình bao gồm các thuộc tính và số "
+"định danh."
+
+#: intro_dhis-web-maintenance-mobile
+msgid ""
+"Maintain data sets plus settings for mobile reporting and SMS configuration."
+msgstr ""
+"Quản lý tập thiết lập dữ liệu bổ sung cho báo cáo qua thiết bị di động và "
+"cấu hình SMS"
+
+#: intro_dhis-web-maintenance-appmanager
+msgid ""
+"Access and upload apps, which are extensions to the standard user interface."
+msgstr ""
+"Truy cập và đăng tải các ứng dụng, gồm các ứng dụng mở rộng có giao diện "
+"chuẩn đối với người dùng."
+
+#: intro_dhis-web-caseentry
+msgid ""
+"Register beneficiaries, enter data for encounters and events and view "
+"reports."
+msgstr ""
+"Đăng ký các cá thể, nhập dữ liệu cho chương trình encounters, sự kiện và xem "
+"các báo cáo."
+
+#: intro_dhis-web-dataentry
+msgid ""
+"Enter data for forms either on-line or off-line, validate data and view data "
+"trends."
+msgstr ""
+"Nhập liệu cho mẫu theo chế độ có Internet hoặc không có Internet, kiểm tra "
+"dữ liệu và xem tình trạng dữ liệu."
+
+#: intro_dhis-web-importexport
+msgid ""
+"Import and export data from DHIS or third-party systems on various formats."
+msgstr ""
+"Nhập và Xuất dữ liệu từ DHIS hoặc thông qua một hệ thống tầng thứ ba theo "
+"định dạng riêng và chung."
+
+#: intro_dhis-web-validationrule
+msgid ""
+"Validate and assess data quality using validation rules or statistical "
+"methods."
+msgstr ""
+"Đánh giá và truy xuất chất lượng dữ liệu bằng các luật kiểm tra hoặc các "
+"phương pháp thống kê"
+
+#: intro_dhis-web-mapping
+msgid ""
+"Visualize data on maps using polygons, points, symbols in multiple layers."
+msgstr ""
+"Mô hình hóa dữ liệu trên bản đồ bằng các đường cong, điểm, biểu tượng và các "
+"thông số tùy biến."
+
+#: intro_dhis-web-reporting
+msgid ""
+"Analyse data and reporting rates using predefined and dynamic report tools."
+msgstr ""
+"Phân tích dữ liệu bằng việc định nghĩa sẵn, các công cụ báo cáo động và xem "
+"tần xuất báo cáo."
+
+#: intro_dhis-web-light
+msgid "Access a mobile device optimized version of data entry and analysis."
+msgstr ""
+"Truy cập vào thiết bị di động phiên bản tối ưu hóa cho nhập liệu, cấu hình, "
+"các tin nhắn và các phân tích báo cáo."
+
+#: intro_dhis-web-mobile
+msgid ""
+"Access a smartphone optimized version of data entry, settings, messages."
+msgstr ""
+"Truy cập vào phiên bản tối ưu dành cho điện thoại thông minh. Dùng để nhập "
+"dữ liệu; xem, soạn thảo tin nhắn và các cài đặt."
+
+#: intro_dhis-web-dashboard-integration
+msgid ""
+"Get an overview of favorite charts, reports and maps and view or write "
+"messages."
+msgstr ""
+"Xem tổng quan các biểu đồ thông dụng, các báo cáo, các bản đồ và xem hoặc "
+"gửi tin nhắn."
+
+#: intro_dhis-web-visualizer
+msgid "Create dynamic data visualizations for data elements and indicators."
+msgstr ""
+"Xuất dữ liệu động trực quang theo biểu đồ, bảng tính cho các phần tử dữ liệu "
+"và chỉ số"
+
+#: intro_dhis-web-pivot
+msgid "Generate flexible pivot tables with data aggregated in all dimensions."
+msgstr ""
+"Xuất ra các bảng báo cáo với dữ liệu được tổng hợp từ tất cả các chiều dữ "
+"liệu. "
+
+#: intro_dhis-web-sms
+msgid "Send SMS reminders and notifications manually or as scheduled tasks."
+msgstr ""
+"Gửi tin nhắn nhắc nhở hoặc thông báo được cài tự động hoặc gửi trực tiếp."
+
+#: intro_dhis-web-spreadsheet-reporting
+msgid "Generate and import data based on predefined Excel templates."
+msgstr "Tạo báo cáo Xuất và Nhập dữ liệu dựa trên mẫu báo cáo định nghĩa sẵn."
+
+#: intro_dhis-web-event-reports
+msgid "Query for events and create aggregated, dimensional analysis of events."
+msgstr "Truy vấn các sự kiện và tổng hợp, phân tích chiều của sự kiện."
+
+#: intro_dhis-web-event-capture
+msgid "Capture information about single events."
+msgstr "Nắm bắt thông tin về các sự kiện đơn lẻ."
+
+#: intro_dhis-web-tracker-capture
+msgid "Capture information about trackable entities."
+msgstr "Nắm bắt thông tin về các cá thể có thể theo dõi."
+
+#. #-- Intro functions -------------------------------------------------------------#
+#: intro_help_center
+msgid ""
+"Get help on a various of topics related to setting up and using the DHIS 2."
+msgstr ""
+"Nhờ giúp đỡ về nhiều chủ đề liên quan đến cài đặt và sử dụng phần mềm DHIS 2."
+
+#: intro_supportive_software
+msgid ""
+"Get an overview of useful software like report designers mobile clients."
+msgstr "Xem tổng quan về các phần mềm hữu ích như tạo báo cáo cho điện thoại."
+
+#: intro_system_overview
+msgid "Visit the system overview page to get a complete list of modules."
+msgstr ""
+"Đến trang tổng quan về hệ thống để xem danh sách đầy đủ về các ứng dụng."
+
+#: intro_web_api
+msgid ""
+"Go to the Web API entry point, which is an interface for other computer "
+"systems."
+msgstr ""
+"Đến phần Web API, nơi dành cho các chương trình máy tính khác có thể tương "
+"tác vào."
+
+#: intro_about_dhis2
+msgid "Get information about the system version and runtime environment."
+msgstr ""
+"Lấy thông tin về phiên bản phần mềm và các thông tin môi trường đang chạy."
+
+#: intro_settings
+msgid ""
+"Set your personal preferences for interface language, style and email "
+"settings."
+msgstr ""
+"Cài đặt các ưu tiên cá nhân về ngôn ngữ giao diện, kiểu dáng và tài khoản "
+"thư điện tử."
+
+#: intro_profile
+msgid ""
+"Set up your personal profile with information like job title and interests."
+msgstr "Cài đặt hồ sơ cá nhân với các thông tin như công việc và sở thích ."
+
+#: intro_account
+msgid "Manage your user account including name, password, email and mobile."
+msgstr ""
+"Quản lý tài khoản của bạn bao gồm tên, mật khẩu, thư điện tử và số điện "
+"thoại ."
+
+#: intro_log_out
+msgid ""
+"Go here to log out of the system and deny others to access your user account."
+msgstr ""
+"Bấm vào đây để đăng xuất ra khỏi hệ thống và tránh người khác dùng tài khoản "
+"của bạn"
+
+#. #-- Common ---------------------------------------------------------------------#
+#: offline
+msgid "Offline"
+msgstr "Ngoại tuyến"
+
+#: online
+msgid "Online"
+msgstr "Trực tuyến"
+
+#: next
+msgid "Next"
+msgstr "Sau"
+
+#: previous
+msgid "Previous"
+msgstr "Trước"
+
+#: online_notification
+msgid "You are online"
+msgstr "Bạn đang trực tuyến"
+
+#: offline_notification
+msgid "You are offline, data will be stored locally"
+msgstr "Bạn đang ngoại tuyến, dữ liệu sẽ được lưu cục bộ vào trình duyệt"
+
+#: ajax_login_failed
+msgctxt "ajax_login_failed"
+msgid "Login failed, check your username and password and try again"
+msgstr ""
+
+#: need_to_sync_notification
+msgid "There is data stored locally, please upload to server"
+msgstr "Có dữ liệu được lưu cục bộ, hãy tải lên máy chủ "
+
+#: uploading_data_notification
+msgid "Uploading locally stored data to the server"
+msgstr "Đang tải dữ liệu cục bộ lên máy chủ "
+
+#: sync_now
+msgid "Upload"
+msgstr "Tải lên "
+
+#: discard
+msgid "Discard"
+msgstr "Bỏ "
+
+#: remove_local_data
+msgid "Are you sure you want to remove the locally stored data?"
+msgstr "Bạn có chắc chắn muốn xóa dữ liệu đã được lưu cục bộ? "
+
+#: sync_success
+msgid "Upload to server was successful"
+msgstr "Tải lên máy chủ thành công "
+
+#: sync_failed
+msgid "Upload to server failed, please try again later"
+msgstr "Tải lên máy chủ thất bại, hãy thử lại sau "
+
+#: year
+msgid "Year"
+msgstr "Năm "
+
+#: details
+msgctxt "details"
+msgid "Details"
+msgstr "Chi tiết "
+
+#: show_details
+msgid "Show details"
+msgstr "Hiển thị chi tiết "
+
+#: hide_details
+msgid "Hide details"
+msgstr "Ẩn chi tiết "
+
+#: change_password
+msgid "Change password"
+msgstr "Thay đổi mật khẩu "
+
+#: expired_password
+msgid "Your password has expired, please change"
+msgstr "Mật khẩu đã quá hạn, cần phải thay đổi "
+
+#: date_selector
+msgid "Choose a date"
+msgstr "Chọn một ngày "
+
+#: hide_menu
+msgid "Hide menu"
+msgstr "Ẩn danh mục "
+
+#: extend_menu
+msgid "Extend menu"
+msgstr "Mở rộng danh mục "
+
+#: show_menu
+msgid "Show menu"
+msgstr "Hiển thị danh mục "
+
+#: show_main_menu
+msgid "Show main menu"
+msgstr "Hiển thị danh mục chính "
+
+#: view_home_page
+msgid "View home page"
+msgstr "Xem trang chủ "
+
+#: view_intepretations
+msgid "View interpretations"
+msgstr "Xem thuyết minh báo cáo "
+
+#: organisation_unit
+msgid "Organisation unit"
+msgstr "Đơn vị "
+
+#: dataelement
+msgid "Data element"
+msgstr "Phần tử dữ liệu "
+
+#: start_date
+msgid "Start date"
+msgstr "Ngày bắt đầu "
+
+#: end_date
+msgid "End date"
+msgstr "Ngày kết thúc "
+
+#: entry
+msgid "Entry"
+msgstr "Nhập "
+
+#: comment
+msgctxt "comment"
+msgid "Comment"
+msgstr "Bình luận "
+
+#: operations
+msgid "Operations"
+msgstr "Toán tử "
+
+#: add_new
+msgid "Add new"
+msgstr "Thêm mới "
+
+#: rename
+msgid "Rename"
+msgstr "Đổi tên "
+
+#: move
+msgid "Move"
+msgstr "Di chuyển "
+
+#: remove
+msgid "Remove"
+msgstr "Tháo ra "
+
+#: required
+msgid "Required"
+msgstr "Bắt buộc "
+
+#: all
+msgid "All"
+msgstr "Tất cả "
+
+#: save
+msgctxt "save"
+msgid "Save"
+msgstr "Lưu lại "
+
+#: new
+msgid "New"
+msgstr "Mới "
+
+#: back
+msgid "Back"
+msgstr "Trở lại "
+
+#: ok
+msgid "OK"
+msgstr "Có "
+
+#: cancel
+msgctxt "cancel"
+msgid "Cancel"
+msgstr "Hủy "
+
+#: clone
+msgid "Clone"
+msgstr "Bản sao "
+
+#: add
+msgctxt "add"
+msgid "Add"
+msgstr "Thêm "
+
+#: edit
+msgid "Edit"
+msgstr "Chỉnh sửa "
+
+#: reply
+msgid "Reply"
+msgstr "Trả lời "
+
+#: update
+msgid "Update"
+msgstr "Cập nhật "
+
+#: delete
+msgid "Delete"
+msgstr "Xóa "
+
+#: deleting
+msgid "Deleting"
+msgstr "Đang xóa "
+
+#: close
+msgid "Close"
+msgstr "Đóng lại "
+
+#: gender_male
+msgctxt "gender_male"
+msgid "Male"
+msgstr "Nam "
+
+#: gender_female
+msgctxt "gender_female"
+msgid "Female"
+msgstr "Nữ "
+
+#: gender_other
+msgctxt "gender_other"
+msgid "Other"
+msgstr "Khác "
+
+#: password
+msgctxt "password"
+msgid "Password"
+msgstr "Mật khẩu "
+
+#: confirm_password
+msgid "Confirm password"
+msgstr "Xác nhận mật khẩu "
+
+#: mobile_phone
+msgid "Mobile phone"
+msgstr "Số điện thoại "
+
+#: create_new_account
+msgid "Create a new account"
+msgstr "Tạo một tài khoản mới "
+
+#: prove_you_are_not_a_robot
+msgid "Prove you are not a robot"
+msgstr "Chứng minh bạn không phải là một robot "
+
+#: create
+msgid "Create"
+msgstr "Tạo "
+
+#: cant_read_the_words_try_another_one
+msgid "Can't read the words? Try another one"
+msgstr "Nếu không nhìn thấy, hãy tử với một từ mới "
+
+#: restore
+msgid "Restore"
+msgstr "Khôi phục "
+
+#: new_password
+msgctxt "new_password"
+msgid "New password"
+msgstr ""
+
+#: restore_account
+msgid "Restore account"
+msgstr "Khôi phục tài khoản "
+
+#: account_recovery
+msgid "Account recovery"
+msgstr "Phục hồi tài khoản "
+
+#: recover
+msgid "Recover"
+msgstr "Phục hồi "
+
+#: code_from_email
+msgid "Code from email"
+msgstr "Mã từ thư điện tử "
+
+#: password_hint
+msgid "Minimum 8 characters, 1 upper-case and 1 digit"
+msgstr "Ít nhất 8 ký tự, một chữ VIẾT HOA và một số "
+
+#: optional
+msgid "Optional"
+msgstr "Không bắt buộc "
+
+#: object_not_deleted_associated_by_objects
+msgid "Object was not deleted because it is used by other objects:"
+msgstr "Không thể xóa đối tượng, bởi vì nó đang được dùng bởi đối tượng khác: "
+
+#: id
+msgid "ID"
+msgstr "Định danh "
+
+#: name_in_use
+msgid "The name is already in use. Please choose a different name"
+msgstr "Tên này đã được dùng. Hãy chọn tên khác "
+
+#: code_in_use
+msgid "The code is already in use. Please choose a different code"
+msgstr "Mã này đã được dùng. Hãy chọn mã khác "
+
+#: short_name_in_use
+msgid "The short name is already in use. Please choose a different short name"
+msgstr "Tên rút gọn này đã được dùng. Hãy chọn tên rút gọn khác "
+
+#: unsupported_browser
+msgid ""
+"Please upgrade your browser. Internet Explorer version 8 and earlier is not "
+"supported."
+msgstr ""
+"Hãy nâng cấp trình duyệt của bạn.Internet Explore 8 và các phiên bản cũ hơn "
+"không được hỗ trợ. "
+
+#: data_element_or_type_null_or_empty
+msgid "Data element or type not defined"
+msgstr ""
+
+#: value_length_greater_than_max_length
+msgid "Value is greater than max length"
+msgstr ""
+
+#: comment_length_greater_than_max_length
+msgctxt "comment_length_greater_than_max_length"
+msgid "Comment is greater than max length"
+msgstr ""
+
+#: value_not_numeric
+msgid "Value is not numeric"
+msgstr ""
+
+#: value_not_unit_interval
+msgid "Value is not a unit interval"
+msgstr ""
+
+#: value_not_percentage
+msgid "Value is not a percentage"
+msgstr ""
+
+#: value_not_integer
+msgid "Value is not an integer"
+msgstr ""
+
+#: value_not_positive_integer
+msgid "Value is not a positive integer"
+msgstr ""
+
+#: value_not_negative_integer
+msgid "Value is not a negative integer"
+msgstr ""
+
+#: value_not_bool
+msgid "Value is not a boolean"
+msgstr ""
+
+#: value_not_true_only
+msgid "Value is not true"
+msgstr ""
+
+#: value_not_valid_date
+msgid "Value is not a valid date"
+msgstr ""
+
+#: email_not_configured_for_system
+msgid "Email is not configured for the system"
+msgstr "Thư điện tử không được cấu hình cho hệ thống "
+
+#: no_user_credentials
+msgid "No user credentials"
+msgstr "Không có thông tin về người dùng "
+
+#: user_does_not_have_valid_email
+msgid "User does not have a valid email"
+msgstr "Người dùng không có thư điện tử hợp lệ "
+
+#: user_has_critical_authorities
+msgid "User has critical authorities"
+msgstr "Người dùng có quyền đặc biệt "
+
+#: default
+msgid "Default"
+msgstr "Mặc định"
+
+#: left_brackets
+msgid "Left brackets"
+msgstr ""
+
+#: right_brackets
+msgid "Right brackets"
+msgstr ""
+
+#: multiply
+msgid "Multiply"
+msgstr ""
+
+#: divide
+msgid "Divide"
+msgstr ""
+
+#: plus
+msgid "Plus"
+msgstr ""
+
+#: minus
+msgid "Minus"
+msgstr ""
+
+#: no_of_days
+msgid "No of days"
+msgstr ""
+
+#: variables
+msgid "Variables"
+msgstr ""
+
+#: open
+msgid "Open"
+msgstr ""
+
+#: normal
+msgid "Normal"
+msgstr ""
+
+#. #-- Relative periods -----------------------------------------------------------#
+#: LAST_MONTH
+msgid "Last month"
+msgstr "Tháng trước "
+
+#: LAST_BIMONTH
+msgid "Last bi-month"
+msgstr "2 tháng trước "
+
+#: LAST_QUARTER
+msgid "Last quarter"
+msgstr "Quý trước "
+
+#: LAST_SIX_MONTH
+msgid "Last six-month"
+msgstr "6 tháng trước "
+
+#: MONTHS_THIS_YEAR
+msgid "Months this year"
+msgstr "Các tháng trong năm "
+
+#: QUARTERS_THIS_YEAR
+msgid "Quarters this year"
+msgstr "Các quý trong năm "
+
+#: THIS_YEAR
+msgid "This year"
+msgstr "Năm nay "
+
+#: MONTHS_LAST_YEAR
+msgid "Months last year"
+msgstr "Các tháng năm trước "
+
+#: QUARTERS_LAST_YEAR
+msgid "Quarters last year"
+msgstr "Các quý năm trước "
+
+#: LAST_YEAR
+msgid "Last year"
+msgstr "Năm trước "
+
+#: LAST_5_YEARS
+msgid "Last 5 years"
+msgstr "5 năm trước "
+
+#: LAST_12_MONTHS
+msgid "Last 12 months"
+msgstr "12 tháng trước "
+
+#: LAST_6_MONTHS
+msgid "Last 6 months"
+msgstr "6 tháng trước "
+
+#: LAST_3_MONTHS
+msgid "Last 3 months"
+msgstr "3 tháng trước "
+
+#: LAST_6_BIMONTHS
+msgid "Last 6 bi-months"
+msgstr "6 lần 2 tháng trước "
+
+#: LAST_4_QUARTERS
+msgid "Last 4 quarters"
+msgstr "4 quý trước "
+
+#: LAST_2_SIXMONTHS
+msgid "Last 2 six-months"
+msgstr "2 lần 6 tháng trước "
+
+#: THIS_FINANCIAL_YEAR
+msgid "This financial year"
+msgstr "Năm tài chính này "
+
+#: LAST_FINANCIAL_YEAR
+msgid "Last financial year"
+msgstr "Năm tài chính trước "
+
+#: LAST_5_FINANCIAL_YEARS
+msgid "Last 5 financial years"
+msgstr "5 năm tài chính trước "
+
+#: LAST_WEEK
+msgid "Last week"
+msgstr "Tuần trước "
+
+#: LAST_4_WEEKS
+msgid "Last 4 weeks"
+msgstr "4 tuần trước "
+
+#: LAST_12_WEEKS
+msgid "Last 12 weeks"
+msgstr "12 tuần trước "
+
+#: LAST_52_WEEKS
+msgid "Last 52 weeks"
+msgstr "52 tuần trước"
+
+#. #-- PeriodTypes ----------------------------------------------------------------#
+#: Daily
+msgid "Daily"
+msgstr "Hằng ngày "
+
+#: Weekly
+msgid "Weekly"
+msgstr "Hằng tuần "
+
+#: Monthly
+msgid "Monthly"
+msgstr "Hằng tháng "
+
+#: BiMonthly
+msgid "Bimonthly"
+msgstr "Hằng 2 tháng "
+
+#: Quarterly
+msgid "Quarterly"
+msgstr "Hằng quý "
+
+#: SixMonthly
+msgid "Six-monthly"
+msgstr "Hằng 6 tháng "
+
+#: SixMonthlyApril
+msgid "Six-monthly April"
+msgstr "Hằng 6 tháng - tháng 4 "
+
+#: Yearly
+msgid "Yearly"
+msgstr "Hằng năm "
+
+#: TwoYearly
+msgid "Two-yearly"
+msgstr "Hằng 2 năm "
+
+#: OnChange
+msgid "On-change"
+msgstr "Thay đổi "
+
+#: Survey
+msgid "Survey"
+msgstr "Khảo sát "
+
+#: Relative
+msgid "Relative"
+msgstr "Tương đối "
+
+#: FinancialApril
+msgid "Financial-April"
+msgstr "Năm tài chính - tháng 4 "
+
+#: FinancialJuly
+msgid "Financial-July"
+msgstr "Năm tài chính - tháng 7 "
+
+#: FinancialOct
+msgid "Financial-Oct"
+msgstr "Năm tài chính - tháng 10"
+
+#. #-- Period formats - Should not be translated ----------------------------------#
+#: format.Daily.startDate
+msgctxt "format.Daily.startDate"
+msgid "yyyy-MM-dd"
+msgstr "yyyy-MM-dd"
+
+#: format.Daily.endDate
+msgctxt "format.Daily.endDate"
+msgid ""
+msgstr ""
+
+#: format.Weekly.startDate
+msgid "yyyy 'W' w"
+msgstr "yyyy 'W' w"
+
+#: format.Weekly.endDate
+msgctxt "format.Weekly.endDate"
+msgid ""
+msgstr ""
+
+#: format.Monthly.startDate
+msgid "MMMM yyyy"
+msgstr "MMMM yyyy"
+
+#: format.Monthly.endDate
+msgctxt "format.Monthly.endDate"
+msgid ""
+msgstr ""
+
+#: format.BiMonthly.startDate
+msgctxt "format.BiMonthly.startDate"
+msgid "MMM 'to '"
+msgstr "MMM 'to '"
+
+#: format.BiMonthly.endDate
+msgctxt "format.BiMonthly.endDate"
+msgid "MMM yyyy"
+msgstr "MMM yyyy"
+
+#: format.Quarterly.startDate
+msgctxt "format.Quarterly.startDate"
+msgid "MMM 'to '"
+msgstr "MMM 'to '"
+
+#: format.Quarterly.endDate
+msgctxt "format.Quarterly.endDate"
+msgid "MMM yyyy"
+msgstr "MMM yyyy"
+
+#: format.SixMonthly.startDate
+msgctxt "format.SixMonthly.startDate"
+msgid "MMM 'to '"
+msgstr "MMM 'to '"
+
+#: format.SixMonthly.endDate
+msgctxt "format.SixMonthly.endDate"
+msgid "MMM yyyy"
+msgstr "MMM yyyy"
+
+#: format.SixMonthlyApril.startDate
+msgctxt "format.SixMonthlyApril.startDate"
+msgid "MMM 'to '"
+msgstr "MMM 'to '"
+
+#: format.SixMonthlyApril.endDate
+msgctxt "format.SixMonthlyApril.endDate"
+msgid "MMM yyyy"
+msgstr "MMM yyyy"
+
+#: format.Yearly.startDate
+msgctxt "format.Yearly.startDate"
+msgid "yyyy"
+msgstr "yyyy"
+
+#: format.Yearly.endDate
+msgctxt "format.Yearly.endDate"
+msgid ""
+msgstr ""
+
+#: format.TwoYearly.startDate
+msgid "yyyy 'and '"
+msgstr "yyyy 'and '"
+
+#: format.TwoYearly.endDate
+msgctxt "format.TwoYearly.endDate"
+msgid "yyyy"
+msgstr "yyyy"
+
+#: format.OnChange.startDate
+msgctxt "format.OnChange.startDate"
+msgid "yyyy-MM-dd '- '"
+msgstr "yyyy-MM-dd '- '"
+
+#: format.OnChange.endDate
+msgctxt "format.OnChange.endDate"
+msgid "yyyy-MM-dd"
+msgstr "yyyy-MM-dd"
+
+#: format.Survey.startDate
+msgctxt "format.Survey.startDate"
+msgid "yyyy-MM-dd"
+msgstr "yyyy-MM-dd"
+
+#: format.Survey.endDate
+msgctxt "format.Survey.endDate"
+msgid ""
+msgstr ""
+
+#: format.Relative.startDate
+msgctxt "format.Relative.startDate"
+msgid "yyyy-MM-dd '- '"
+msgstr "yyyy-MM-dd '- '"
+
+#: format.Relative.endDate
+msgctxt "format.Relative.endDate"
+msgid "yyyy-MM-dd"
+msgstr "yyyy-MM-dd"
+
+#: format.FinancialApril.startDate
+msgctxt "format.FinancialApril.startDate"
+msgid "MMM yyyy 'to '"
+msgstr "MMM yyyy 'to '"
+
+#: format.FinancialApril.endDate
+msgctxt "format.FinancialApril.endDate"
+msgid "MMM yyyy"
+msgstr "MMM yyyy"
+
+#: format.FinancialJuly.startDate
+msgctxt "format.FinancialJuly.startDate"
+msgid "MMM yyyy 'to '"
+msgstr "MMM yyyy 'to '"
+
+#: format.FinancialJuly.endDate
+msgctxt "format.FinancialJuly.endDate"
+msgid "MMM yyyy"
+msgstr "MMM yyyy"
+
+#: format.FinancialOct.startDate
+msgctxt "format.FinancialOct.startDate"
+msgid "MMM yyyy 'to '"
+msgstr "MMM yyyy 'to '"
+
+#: format.FinancialOct.endDate
+msgctxt "format.FinancialOct.endDate"
+msgid "MMM yyyy"
+msgstr "MMM yyyy"
+
+#. #-- Months and weeks -----------------------------------------------------------#
+#: month.january
+msgid "January"
+msgstr "Tháng một "
+
+#: month.february
+msgid "February"
+msgstr "Tháng hai "
+
+#: month.march
+msgid "March"
+msgstr "Tháng ba "
+
+#: month.april
+msgid "April"
+msgstr "Tháng tư "
+
+#: month.may
+msgctxt "month.may"
+msgid "May"
+msgstr "Tháng năm "
+
+#: month.june
+msgid "June"
+msgstr "Tháng sáu "
+
+#: month.july
+msgid "July"
+msgstr "Tháng bảy "
+
+#: month.august
+msgid "August"
+msgstr "Tháng tám "
+
+#: month.september
+msgid "September"
+msgstr "Tháng chín "
+
+#: month.october
+msgid "October"
+msgstr "Tháng mười "
+
+#: month.november
+msgid "November"
+msgstr "Tháng mười một "
+
+#: month.december
+msgid "December"
+msgstr "Tháng mười hai  "
+
+#: month.short.january
+msgid "Jan"
+msgstr "Th.1 "
+
+#: month.short.february
+msgid "Feb"
+msgstr "Th.2 "
+
+#: month.short.march
+msgid "Mar"
+msgstr "Th.3 "
+
+#: month.short.april
+msgid "Apr"
+msgstr "Th.4 "
+
+#: month.short.may
+msgctxt "month.short.may"
+msgid "May"
+msgstr "Th.5 "
+
+#: month.short.june
+msgid "Jun"
+msgstr "Th.6 "
+
+#: month.short.july
+msgid "Jul"
+msgstr "Th.7 "
+
+#: month.short.august
+msgid "Aug"
+msgstr "Th.8 "
+
+#: month.short.september
+msgid "Sep"
+msgstr "Th.9 "
+
+#: month.short.october
+msgid "Oct"
+msgstr "Th.10 "
+
+#: month.short.november
+msgid "Nov"
+msgstr "Th.11 "
+
+#: month.short.december
+msgid "Dec"
+msgstr "Th.12  "
+
+#: weekday.monday
+msgctxt "weekday.monday"
+msgid "Monday"
+msgstr "Thứ hai "
+
+#: weekday.tuesday
+msgctxt "weekday.tuesday"
+msgid "Tuesday"
+msgstr "Thứ ba "
+
+#: weekday.wednesday
+msgctxt "weekday.wednesday"
+msgid "Wednesday"
+msgstr "Thứ tư "
+
+#: weekday.thursday
+msgctxt "weekday.thursday"
+msgid "Thursday"
+msgstr "Thứ năm "
+
+#: weekday.friday
+msgctxt "weekday.friday"
+msgid "Friday"
+msgstr "Thứ sáu "
+
+#: weekday.saturday
+msgctxt "weekday.saturday"
+msgid "Saturday"
+msgstr "Thứ bảy "
+
+#: weekday.sunday
+msgctxt "weekday.sunday"
+msgid "Sunday"
+msgstr "Chủ nhật  "
+
+#: weekday.short.monday
+msgctxt "weekday.short.monday"
+msgid "Mon"
+msgstr "T.2 "
+
+#: weekday.short.tuesday
+msgctxt "weekday.short.tuesday"
+msgid "Tue"
+msgstr "T.3 "
+
+#: weekday.short.wednesday
+msgctxt "weekday.short.wednesday"
+msgid "Wed"
+msgstr "T.4 "
+
+#: weekday.short.thursday
+msgctxt "weekday.short.thursday"
+msgid "Thu"
+msgstr "T.5 "
+
+#: weekday.short.friday
+msgctxt "weekday.short.friday"
+msgid "Fri"
+msgstr "T.6 "
+
+#: weekday.short.saturday
+msgctxt "weekday.short.saturday"
+msgid "Sat"
+msgstr "T.7 "
+
+#: weekday.short.sunday
+msgctxt "weekday.short.sunday"
+msgid "Sun"
+msgstr "CN"
+
+#. #-- Nepali Calendar Month/Day names -------------------------------------------#
+#. # The keys for months are still based on ISO 8601, the ordering is correct, but the key names are not. Jan-Dec -> 1-12. #
+#: nepali.month.january
+msgctxt "nepali.month.january"
+msgid "Baishak"
+msgstr "Baishak"
+
+#: nepali.month.february
+msgctxt "nepali.month.february"
+msgid "Jestha"
+msgstr "Jestha"
+
+#: nepali.month.march
+msgctxt "nepali.month.march"
+msgid "Asar"
+msgstr "Asar"
+
+#: nepali.month.april
+msgctxt "nepali.month.april"
+msgid "Shrawan"
+msgstr "Shrawan"
+
+#: nepali.month.may
+msgctxt "nepali.month.may"
+msgid "Bhadra"
+msgstr "Bhadra"
+
+#: nepali.month.june
+msgctxt "nepali.month.june"
+msgid "Ashwin"
+msgstr "Ashwin"
+
+#: nepali.month.july
+msgctxt "nepali.month.july"
+msgid "Kartik"
+msgstr "Kartik"
+
+#: nepali.month.august
+msgctxt "nepali.month.august"
+msgid "Mangsir"
+msgstr "Mangsir"
+
+#: nepali.month.september
+msgctxt "nepali.month.september"
+msgid "Poush"
+msgstr "Poush"
+
+#: nepali.month.october
+msgctxt "nepali.month.october"
+msgid "Magh"
+msgstr "Magh"
+
+#: nepali.month.november
+msgctxt "nepali.month.november"
+msgid "Falgun"
+msgstr "Falgun"
+
+#: nepali.month.december
+msgctxt "nepali.month.december"
+msgid "Chaitra"
+msgstr "Chaitra"
+
+#: nepali.month.short.january
+msgctxt "nepali.month.short.january"
+msgid "Baishak"
+msgstr "Baishak"
+
+#: nepali.month.short.february
+msgctxt "nepali.month.short.february"
+msgid "Jestha"
+msgstr "Jestha"
+
+#: nepali.month.short.march
+msgctxt "nepali.month.short.march"
+msgid "Asar"
+msgstr "Asar"
+
+#: nepali.month.short.april
+msgctxt "nepali.month.short.april"
+msgid "Shrawan"
+msgstr "Shrawan"
+
+#: nepali.month.short.may
+msgctxt "nepali.month.short.may"
+msgid "Bhadra"
+msgstr "Bhadra"
+
+#: nepali.month.short.june
+msgctxt "nepali.month.short.june"
+msgid "Ashwin"
+msgstr "Ashwin"
+
+#: nepali.month.short.july
+msgctxt "nepali.month.short.july"
+msgid "Kartik"
+msgstr "Kartik"
+
+#: nepali.month.short.august
+msgctxt "nepali.month.short.august"
+msgid "Mangsir"
+msgstr "Mangsir"
+
+#: nepali.month.short.september
+msgctxt "nepali.month.short.september"
+msgid "Poush"
+msgstr "Poush"
+
+#: nepali.month.short.october
+msgctxt "nepali.month.short.october"
+msgid "Magh"
+msgstr "Magh"
+
+#: nepali.month.short.november
+msgctxt "nepali.month.short.november"
+msgid "Falgun"
+msgstr "Falgun"
+
+#: nepali.month.short.december
+msgctxt "nepali.month.short.december"
+msgid "Chaitra"
+msgstr "Chaitra"
+
+#: nepali.weekday.monday
+msgctxt "nepali.weekday.monday"
+msgid "Monday"
+msgstr "Monday"
+
+#: nepali.weekday.tuesday
+msgctxt "nepali.weekday.tuesday"
+msgid "Tuesday"
+msgstr "Tuesday"
+
+#: nepali.weekday.wednesday
+msgctxt "nepali.weekday.wednesday"
+msgid "Wednesday"
+msgstr "Wednesday"
+
+#: nepali.weekday.thursday
+msgctxt "nepali.weekday.thursday"
+msgid "Thursday"
+msgstr "Thursday"
+
+#: nepali.weekday.friday
+msgctxt "nepali.weekday.friday"
+msgid "Friday"
+msgstr "Friday"
+
+#: nepali.weekday.saturday
+msgctxt "nepali.weekday.saturday"
+msgid "Saturday"
+msgstr "Saturday"
+
+#: nepali.weekday.sunday
+msgctxt "nepali.weekday.sunday"
+msgid "Sunday"
+msgstr "Sunday"
+
+#: nepali.weekday.short.monday
+msgctxt "nepali.weekday.short.monday"
+msgid "Mon"
+msgstr "Mon"
+
+#: nepali.weekday.short.tuesday
+msgctxt "nepali.weekday.short.tuesday"
+msgid "Tue"
+msgstr "Tue"
+
+#: nepali.weekday.short.wednesday
+msgctxt "nepali.weekday.short.wednesday"
+msgid "Wed"
+msgstr "Wed"
+
+#: nepali.weekday.short.thursday
+msgctxt "nepali.weekday.short.thursday"
+msgid "Thu"
+msgstr "Thu"
+
+#: nepali.weekday.short.friday
+msgctxt "nepali.weekday.short.friday"
+msgid "Fri"
+msgstr "Fri"
+
+#: nepali.weekday.short.saturday
+msgctxt "nepali.weekday.short.saturday"
+msgid "Sat"
+msgstr "Sat"
+
+#: nepali.weekday.short.sunday
+msgctxt "nepali.weekday.short.sunday"
+msgid "Sun"
+msgstr "Sun"
+
+#. #-- Translation page ------------------------------------------------------#
+#: translation_translate
+msgid "Translate"
+msgstr "Dịch "
+
+#: translation_addlocale
+msgid "Add locale"
+msgstr "Thêm vùng "
+
+#: translation_details
+msgctxt "translation_details"
+msgid "Details"
+msgstr "Chi tiết "
+
+#: translation_select_locale
+msgid "[ Select locale ]"
+msgstr "[ Chọn  vùng] "
+
+#: translation_select_ref
+msgid "[ Select reference ]"
+msgstr "[ Chọn gợi ý ] "
+
+#: translation_save
+msgctxt "translation_save"
+msgid "Save"
+msgstr "Lưu lại "
+
+#: translation_label_id
+msgid "Id"
+msgstr "Mã định danh "
+
+#: translation_label_name
+msgctxt "translation_label_name"
+msgid "Name"
+msgstr "Tên "
+
+#: translation_label_shortName
+msgctxt "translation_label_shortName"
+msgid "Short name"
+msgstr "Tên ngắn "
+
+#: translation_label_description
+msgctxt "translation_label_description"
+msgid "Description"
+msgstr "Miêu tả "
+
+#: translation_label_comment
+msgctxt "translation_label_comment"
+msgid "Comment"
+msgstr "Bình luận "
+
+#: translation_label_region
+msgid "Region"
+msgstr "Vùng "
+
+#: translation_label_title
+msgid "Title"
+msgstr "Tiêu đề "
+
+#: translation_variant
+msgid "Variant"
+msgstr "Biến thể "
+
+#: translation_countrycode
+msgid "Country code"
+msgstr "Mã Quốc gia "
+
+#: translation_languagecode
+msgid "Language code"
+msgstr "Mã ngôn ngữ "
+
+#: translation_label_numerator_description
+msgctxt "translation_label_numerator_description"
+msgid "Numerator description"
+msgstr "Miêu tả tử số "
+
+#: translation_label_denominator_description
+msgctxt "translation_label_denominator_description"
+msgid "Denominator description"
+msgstr "Miêu tả mẩu số "
+
+#: translation_locale_added
+msgid "Added locale"
+msgstr "Đã thêm vùng "
+
+#: translation_cancel
+msgctxt "translation_cancel"
+msgid "Cancel"
+msgstr "Hủy bỏ "
+
+#: translation_add
+msgctxt "translation_add"
+msgid "Add"
+msgstr "Thêm "
+
+#: translation_locale
+msgid "Locale"
+msgstr "Vùng "
+
+#: translation_reference
+msgid "Reference"
+msgstr "Gợi ý "
+
+#: translation_language_must_be_two_chars
+msgid "Language must be two characters"
+msgstr "Ngôn ngữ phải là 2 kí tự "
+
+#: translation_country_must_be_two_chars
+msgid "Country must be two characters"
+msgstr "Quốc gia phải là 2 kí tự "
+
+#: translation_variant_must_be_specified
+msgid "Variant must be specified"
+msgstr "Biến thể phải được ghi rõ "
+
+#: translation_locale_already_exists
+msgid "Locale already exists"
+msgstr "Vùng này đã tồn tại "
+
+#: translation_shortname_wellformed
+msgid ""
+"Please verify Letters, Numbers, Underscore and Spaces for short name only"
+msgstr ""
+"Phải chắc rằng các chữ cái, chữ số, dấu gạch dưới và dấu cách chỉ dành cho "
+"tên rút gọn "
+
+#: translation_shortname_length
+msgid "Shortname's maximum length of 25 charaters"
+msgstr "Chiều dài tối đa của tên rút gọn là 25 kí tự "
+
+#: translation_duplicated_name_with
+msgid "Sorry! You entered a duplicated name with"
+msgstr "Xin lỗi! Bạn đã nhập tên trùng với "
+
+#: translation_duplicated_shortname_with
+msgid "Sorry! You entered a duplicated short name with"
+msgstr "Xin lỗi! Bạn đã nhập tên rút gọn trùng với "
+
+#: translation_label_formName
+msgid "Form name"
+msgstr "Tên biểu "
+
+#. #-- About ----------------------------------------------------------------------#
+#: name_exists
+msgid "Warning, name already exists"
+msgstr "Cảnh báo, tên này đã tồn tại "
+
+#: name_is_required
+msgid "Error, name is required"
+msgstr "Lỗi, bắt buộc phải có tên "
+
+#: version
+msgid "Version"
+msgstr "Phiên bản "
+
+#: build_revision
+msgid "Build revision"
+msgstr "Bản sửa đổi xây dựng "
+
+#: build_date
+msgid "Build date"
+msgstr "Ngày triển khai "
+
+#: user_agent
+msgid "User agent"
+msgstr "Người đại diện "
+
+#: external_configuration_directory
+msgid "External configuration directory"
+msgstr "Thư mục chứa cấu hình "
+
+#: environment_variable
+msgid "Environment variable"
+msgstr "Biến môi trường "
+
+#: database_type
+msgid "Database type"
+msgstr "Loại cơ sở dữ liệu "
+
+#: database_name
+msgid "Database name"
+msgstr "Tên cơ sở dữ liệu "
+
+#: database_user
+msgid "Database user"
+msgstr "Người dùng cơ sở dữ liệu "
+
+#: not_set
+msgid "Not set"
+msgstr "Không cài "
+
+#: current_user
+msgid "Current user"
+msgstr "Người dùng hiện tại "
+
+#: dhis2_online
+msgid "DHIS 2 Online"
+msgstr "DHIS 2 Trực tuyến "
+
+#: home_page
+msgid "Home Page"
+msgstr "Trang chủ "
+
+#: launchpad_site
+msgid "Launchpad Site"
+msgstr "Trang Launchpad "
+
+#: message_to_the_dhis2_development_team
+msgid "Message to the DHIS 2 development team"
+msgstr "Gửi tin nhắn đến nhóm phát triển DHIS 2 "
+
+#: error_message_stack_trace
+msgid "Error message / Stack trace"
+msgstr "Thông báo lỗi, sự cố "
+
+#: enter_message
+msgid "Enter a message"
+msgstr "Nhập tin nhắn "
+
+#: send
+msgid "Send"
+msgstr "Gửi đi "
+
+#: help
+msgid "Help"
+msgstr "Giúp đỡ "
+
+#: send_feedback
+msgid "Send feedback"
+msgstr "Gửi phản hồi "
+
+#: status
+msgid "Status"
+msgstr "Tình trạng "
+
+#: system_status
+msgid "System status"
+msgstr "Tình trạng hệ thống "
+
+#: feedback
+msgid "Feedback"
+msgstr "Phản hồi "
+
+#: intro
+msgid "Intro"
+msgstr "Giới thiệu "
+
+#: help_contents
+msgid "Help Contents"
+msgstr "Nội dung trợ giúp "
+
+#: about_dhis2
+msgid "About DHIS 2"
+msgstr "Giới thiệu về DHIS 2 "
+
+#: last_name
+msgid "Last name"
+msgstr "Tên họ "
+
+#: unknown
+msgid "Unknown"
+msgstr "Không rõ "
+
+#: java_opts
+msgid "Java opts"
+msgstr "Java opts "
+
+#: java_home
+msgid "Java home"
+msgstr "Java home "
+
+#: java_tmp_dir
+msgid "Java temporary directory"
+msgstr "Java temporary directory "
+
+#: java_version
+msgid "Java version"
+msgstr "Java version "
+
+#: java_vendor
+msgid "Java vendor"
+msgstr "Java vendor "
+
+#: os_name
+msgid "OS name"
+msgstr "Tên hệ điều hành "
+
+#: os_architecture
+msgid "OS architecture"
+msgstr "Cấu trúc hệ điều hành "
+
+#: os_version
+msgid "OS version"
+msgstr "Phiên bản hệ điều hành "
+
+#: supportive_software
+msgid "Supportive Software"
+msgstr "Phần mềm hỗ trợ "
+
+#: chrome_description
+msgid "Super fast web browser for all platforms"
+msgstr "Trình duyệt nhanh dành cho mọi nền tảng "
+
+#: foxit_description
+msgid "Free and simple PDF reader for Windows"
+msgstr "Chương trình đọc tệp định dạng PDF đơn giản dành cho Windows "
+
+#: web_browser
+msgid "Web browser"
+msgstr "Trình duyệt web "
+
+#: pdf_reader
+msgid "PDF reader"
+msgstr "Phần mềm đọc PDF "
+
+#: ireport_description
+msgid "Report designer for standard reports"
+msgstr "Chương trình thiết kế báo cáo chuẩn "
+
+#: report_designer
+msgid "Report designer"
+msgstr "Chương trình thiết kế báo cáo "
+
+#: my_datamart
+msgid "MyDatamart"
+msgstr "Trích xuất dữ liệu "
+
+#: my_datamart_description
+msgid "Local data mart for off-line data analysis"
+msgstr "Dữ liệu trích xuất dùng để sử dụng trong phân tích cục bộ "
+
+#: mobile_client
+msgid "Mobile client"
+msgstr "Phiên bản dành cho điện thoại "
+
+#: mobile_client_description
+msgid "Client for data capture on mobile devices"
+msgstr "Trình nhập liệu dành cho các thiết bị di động. "
+
+#: web_api
+msgid "Web API"
+msgstr "Web API "
+
+#: system_overview
+msgid "System Overview"
+msgstr "Tổng quan về hệ thống "
+
+#: server_date
+msgid "Server date"
+msgstr "Ngày trên máy chủ "
+
+#: last_analytics_table_generation
+msgid "Last analytics table generation"
+msgstr "Bảng phân tích mới nhất được xuất ra "
+
+#: last_analytics_table_runtime
+msgid "Last analytics table runtime"
+msgstr ""
+
+#: time_since_last_analytics_table_generation
+msgid "Time since last analytics table generation"
+msgstr "Thời gian bảng phân tích mới nhất được xuất ra "
+
+#: online_release_page
+msgctxt "online_release_page"
+msgid "online release page"
+msgstr "Xem các phiên bản DHIS 2 "
+
+#: edit_profile
+msgid "Edit profile"
+msgstr "Chỉnh sửa hồ sơ "
+
+#: view_profile
+msgid "View profile"
+msgstr "Xem hồ sơ "
+
+#: profile_details
+msgid "Profile details"
+msgstr "Hồ sơ chi tiết "
+
+#: job_title
+msgid "Job title"
+msgstr "Nghề nghiệp "
+
+#: introduction
+msgid "Introduction"
+msgstr "Giới thiệu "
+
+#: gender
+msgid "Gender"
+msgstr "Giới tính "
+
+#: male
+msgctxt "male"
+msgid "Male"
+msgstr "Nam "
+
+#: female
+msgctxt "female"
+msgid "Female"
+msgstr "Nữ "
+
+#: other
+msgctxt "other"
+msgid "Other"
+msgstr "Khác "
+
+#: birthday
+msgid "Birthday"
+msgstr "Ngày sinh "
+
+#: nationality
+msgid "Nationality"
+msgstr "Quốc gia "
+
+#: employer
+msgid "Employer"
+msgstr "Công ty "
+
+#: education
+msgid "Education"
+msgstr "Trình độ văn hóa "
+
+#: interests
+msgid "Interests"
+msgstr "Sở thích "
+
+#: languages
+msgid "Languages"
+msgstr "Ngôn ngữ "
+
+#: update_user_profile_success
+msgid "Profile was updated"
+msgstr "Hồ sơ đã được cập nhật "
+
+#: settings
+msgctxt "settings"
+msgid "Settings"
+msgstr "Các cài đặt "
+
+#: property_to_display_in_analysis_modules
+msgid "Property to display in analysis modules"
+msgstr "Đặc tính để hiển thị trong các ứng dụng báo cáo "
+
+#: user_settings
+msgid "User settings"
+msgstr "Cài đặt người dùng "
+
+#: general
+msgid "General"
+msgstr "Thiết lập tổng quát "
+
+#: message
+msgid "Message"
+msgstr "Tin nhắn "
+
+#: db_language
+msgid "Database language"
+msgstr "Ngôn ngữ cơ sở dữ liệu "
+
+#: language
+msgid "Interface language"
+msgstr "Ngôn ngữ giao diện "
+
+#: use_db_locale_no_translation
+msgid "Use database locale / no translation"
+msgstr "Dùng cơ sở dữ liệu địa phương/Không biên dịch "
+
+#: style
+msgid "Style"
+msgstr "Kiểu dáng "
+
+#: user_general_settings
+msgid "User General Settings"
+msgstr "Các thiết lập chung cho người dùng "
+
+#: user_message_settings
+msgid "User Message Settings"
+msgstr "Các thiết lập tin nhắn cho người dùng "
+
+#: enable_message_email_notifications
+msgid "Enable message email notifications"
+msgstr "Cho phép hiện thông báo tin nhắn email "
+
+#: enable_message_sms_notifications
+msgid "Enable message SMS notifications"
+msgstr "Cho phép hiện thông báo tin nhắn SMS "
+
+#: intro_user_general_settings
+msgid ""
+"Customize the system with user specific settings for locale, style and more."
+msgstr ""
+"Tùy biến hệ thống với các thiết lập người dùng cho định vị, thứ tự sắp xếp, "
+"thuộc tính hiển thị cách thức và hơn nữa. "
+
+#: intro_user_message_settings
+msgid ""
+"Customize the system with user specific settings for message email and sms "
+"notification."
+msgstr ""
+"Tùy biến hệ thống với các thiết lập cho người dùng đối với tin nhắn thư điện "
+"tử và SMS. "
+
+#: light_blue
+msgid "Light Blue"
+msgstr "Màu xanh nhạt "
+
+#: green
+msgid "Green"
+msgstr "Màu xanh lá cây "
+
+#: myanmar
+msgctxt "myanmar"
+msgid "Myanmar"
+msgstr ""
+
+#: india
+msgctxt "india"
+msgid "India"
+msgstr ""
+
+#: vietnam
+msgctxt "vietnam"
+msgid "Vietnam"
+msgstr ""
+
+#: settings_updated
+msgid "Settings were updated"
+msgstr "Các cài đặt đã được cập nhật "
+
+#: dashboard
+msgctxt "dashboard"
+msgid "Dashboard"
+msgstr "Bảng điều khiển "
+
+#: messages
+msgid "Messages"
+msgstr "Tin nhắn "
+
+#: interpretations
+msgid "Interpretations"
+msgstr "Thuyết minh báo cáo "
+
+#: interface_style
+msgid "Interface style"
+msgstr "Kiểu giao diện "
+
+#: server_memory
+msgid "Server memory"
+msgstr "Bộ nhớ máy chủ "
+
+#: cpu_cores
+msgid "CPU cores"
+msgstr "CPU cores "
+
+#: please_select
+msgid "Please select"
+msgstr "Hãy chọn "
+
+#: browse_it_here
+msgid "Browse it here"
+msgstr "Mở ở đây"
+
+#. #-- Change Log------------------------------------------------------------------#
+#: change_log
+msgid "Change Log"
+msgstr "Thông tin phần mềm"
+
+#: release
+msgid "Release"
+msgstr "Phát hành"
+
+#: release_page
+msgctxt "release_page"
+msgid "online release page"
+msgstr "Xem các phiên bản DHIS2"
+
+#. #-- Macros ---------------------------------------------------------------------#
+#: yes
+msgctxt "yes"
+msgid "Yes"
+msgstr "Có "
+
+#: no
+msgctxt "no"
+msgid "No"
+msgstr "Không "
+
+#: true
+msgctxt "true"
+msgid "Yes"
+msgstr "Đúng "
+
+#: false
+msgctxt "false"
+msgid "No"
+msgstr "Sai "
+
+#: sum
+msgid "Sum"
+msgstr "Tổng "
+
+#: count
+msgid "Count"
+msgstr "Đếm "
+
+#: average
+msgid "Average"
+msgstr "Trung bình "
+
+#: stddev
+msgid "Standard deviation"
+msgstr "Độ lệch chuẩn "
+
+#: variance
+msgid "Variance"
+msgstr "Sự khác nhau "
+
+#: min
+msgid "Min"
+msgstr "Nhỏ nhất "
+
+#: max
+msgid "Max"
+msgstr "Lớn nhất "
+
+#: text
+msgid "Text"
+msgstr "Văn bản "
+
+#: long_text
+msgid "Long text"
+msgstr "Văn bản dài "
+
+#: string
+msgid "String"
+msgstr "Chuỗi "
+
+#: int
+msgctxt "int"
+msgid "Number"
+msgstr "Số nguyên "
+
+#: number
+msgctxt "number"
+msgid "Number"
+msgstr "Số "
+
+#: positive_integer
+msgid "Positive Integer"
+msgstr ""
+
+#: zero_positive_int
+msgid "Positive or Zero Integer"
+msgstr ""
+
+#: negative_integer
+msgid "Negative Integer"
+msgstr ""
+
+#: unit_interval
+msgid "Unit interval"
+msgstr ""
+
+#: percentage
+msgid "Percentage"
+msgstr ""
+
+#: date
+msgid "Date"
+msgstr "Ngày "
+
+#: date_time
+msgid "Date & Time"
+msgstr ""
+
+#: yes_no
+msgctxt "yes_no"
+msgid "Yes/No"
+msgstr "Có/Không "
+
+#: bool
+msgctxt "bool"
+msgid "Yes/No"
+msgstr "Đúng/Sai "
+
+#: none
+msgctxt "none"
+msgid "None"
+msgstr "Không "
+
+#: yes_only
+msgid "Yes Only"
+msgstr "Chỉ đúng"
+
+#: custom
+msgid "Custom"
+msgstr ""
+
+#. #-- Validation messages -------------------------------------------------------#
+#: value_must_integer
+msgid "Value must be an integer"
+msgstr ""
+
+#: value_must_number
+msgid "Value must be a number"
+msgstr ""
+
+#: value_must_positive_integer
+msgid "Value must be a positive integer"
+msgstr ""
+
+#: value_must_negative_integer
+msgid "Value must be a negative integer"
+msgstr ""
+
+#: value_must_zero_or_positive_integer
+msgid "Value must be zero or a positive integer"
+msgstr ""
+
+#: value_must_unit_interval
+msgid "Value must be a unit interval (between 0 and 1)"
+msgstr ""
+
+#: value_must_percentage
+msgid "Value must be a percentage (between 0 and 100)"
+msgstr ""
+
+#. #-- User account --------------------------------------------------------------#
+#: profile
+msgid "Profile"
+msgstr "Hồ sơ "
+
+#: account
+msgid "Account"
+msgstr "Tài khoản "
+
+#: update_user
+msgid "Update user"
+msgstr "Cập nhật người dùng "
+
+#: user_account
+msgid "User account"
+msgstr ""
+
+#: user_name
+msgctxt "user_name"
+"user_name"
+msgid "Username"
+msgstr "Tên truy cập "
+
+#: old_password
+msgid "Old password"
+msgstr "Mật khẩu cũ "
+
+#: new_password
+msgctxt "new_password"
+msgid "New password"
+msgstr ""
+
+#: retype_new_password
+msgid "Retype new password"
+msgstr "Nhập lại mật khẩu mới "
+
+#: surname
+msgid "Surname"
+msgstr "Tên đệm "
+
+#: first_name
+msgid "First name"
+msgstr "Tên "
+
+#: email
+msgid "E-mail"
+msgstr "Thư điện tử "
+
+#: openid
+msgid "OpenID"
+msgstr "Mã định danh mở "
+
+#: username
+msgctxt "username"
+msgid "Username"
+msgstr "Tên đăng nhập "
+
+#: phone_number
+msgid "Mobile phone number"
+msgstr "Số điện thoại "
+
+#: user_roles
+msgid "User roles"
+msgstr "Quyền người dùng "
+
+#: update_user_success
+msgid "Account was updated"
+msgstr "Tài khoản đã được cập nhật "
+
+#: wrong_password
+msgid "Wrong password"
+msgstr "Sai mật khẩu "
+
+#: help_center
+msgid "Help Center"
+msgstr "Trung tâm trợ giúp "
+
+#: help_intro_header
+msgid "Welcome to the DHIS 2 Help Center"
+msgstr "Chào mừng đến với trung tâm trợ giúp của DHIS 2 "
+
+#: help_intro_text
+msgid "Please select an item from the menu to the left."
+msgstr "Hãy chọn một mục từ danh mục bên trái. "
+
+#: please_wait_while_the_system_is_processing
+msgid "Please wait while the system is processing"
+msgstr "Hãy đợi khi hệ thống đang thực thi "
+
+#: organisation_unit_required_for_user
+msgid "User must be assigned to at least one organisation unit"
+msgstr "Người dùng phải được gán cho ít nhất một đơn vị"
+
+#. #-- Contact info ---------------------------------------------------------------#
+#: address
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: contact_details
+msgid "Contact information"
+msgstr "Thông tin liên hệ"
+
+#: contact_person
+msgid "Contact person"
+msgstr "Người liên hệ"
+
+#. #-- Form validation messages --------------------------------------------------#
+#: this_field_is_required
+msgid "This field is required."
+msgstr "Trường này phải nhập"
+
+#: please_fix_this_field
+msgid "Please fix this field."
+msgstr "Vui lòng sửa lỗi trường này"
+
+#: please_enter_a_valid_email_address
+msgid "Please enter a valid email address."
+msgstr "Vui lòng nhập địa chỉ email hợp lệ"
+
+#: please_enter_a_valid_url
+msgid "Please enter a valid URL."
+msgstr "Vui lòng nhập địa chỉ trang web hợp lệ"
+
+#: please_enter_a_valid_date
+msgid "Please enter a valid date."
+msgstr "Vui lòng nhập ngày hợp lệ"
+
+#: please_enter_a_valid_date_iso
+msgid "Please enter a valid date (e.g. 1990-01-01)."
+msgstr "Vui lòng nhập ngày hợp lệ theo chuẩn (VD 1990-01-01)."
+
+#: please_enter_a_valid_number
+msgctxt "please_enter_a_valid_number"
+msgid "Please enter a valid number."
+msgstr "Vui lòng nhập số hợp lệ"
+
+#: please_enter_a_valid_digits
+msgid "Please enter only digits."
+msgstr "Chỉ chấp nhận nhập số"
+
+#: please_enter_the_equal_values_again
+msgid "The entered values do not match. Please re-enter the values."
+msgstr "Không khớp: Vui lòng nhập lại"
+
+#: please_enter_a_value_with_a_valid_expression
+msgid "Please enter a value with a valid extension."
+msgstr "Vui lòng nhập giá trị với biểu thức hợp lệ"
+
+#: first_character_must_be_alphabetical
+msgid "The first character must be a letter."
+msgstr "Ký tự đầu tiên phải là chữ cái"
+
+#: please_enter_no_more_than_n_character
+msgid "Please enter no more than {0} characters."
+msgstr "Không nhập hơn {0} ký tự."
+
+#: please_enter_at_least_than_n_character
+msgctxt "please_enter_at_least_than_n_character"
+msgid "Please enter at least {0} characters."
+msgstr "Nhập ít nhất {0} ký tự."
+
+#: please_enter_a_value_between_n_character
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr "Vui lòng nhập giá trị có chiều dài từ {0} đến {1} ký tự."
+
+#: please_enter_a_value_between_a_and_b
+msgid "Please enter a value between {0} and {1}."
+msgstr "Vui lòng nhập giá trị từ {0} đến {1}."
+
+#: please_enter_a_value_less_than_or_equal_to_n
+msgid "Please enter a value less than or equal to {0}."
+msgstr "Vui lòng nhập con số nhỏ hơn hoặc bằng {0}."
+
+#: please_enter_a_value_greater_than_or_equal_to_n
+msgid "Please enter a value greater than or equal to {0}."
+msgstr "Vui lòng nhập con số lớn hơn hoặc bằng {0}."
+
+#: please_enter_a_different_value_to_above
+msgid "Please enter a different value to above."
+msgstr "Vui lòng nhập một giá trị khác giá trị trên."
+
+#: digits_decimal_only_please
+msgid ""
+"Please enter digits only. Three digits before decimal point and two after "
+"the decimal point are allowed."
+msgstr "Vui lòng nhập số."
+
+#: please_letters_numbers_spaces_underscores_only
+msgid "Only letters, numbers, spaces and underscores are allowed."
+msgstr "Vui lòng chỉ nhập chữ, số, khoản trắng và ký tự gạch dưới (_)\t"
+
+#: please_letters_numbers_spaces_or_some_special_chars_only
+msgid ""
+"Only letters, numbers, spaces and the characters \n"
+" .,-,(,) are allowed."
+msgstr ""
+"Vui lòng nhập chữ, số, khoản trắng hoặc ký tự đặc biệt \n"
+" như .,-,(,), Kiểm tra giá trị."
+
+#: please_enter_a_value_less_than_or_equal_to
+msgid "Please enter a value less than or equal to {1}"
+msgstr "Vui lòng nhập giá trị nhỏ hơn hoặc bằng {1}"
+
+#: please_enter_a_value_greater_than_or_equal_to
+msgid "Please enter a value greater than or equal to {1}"
+msgstr "Vui lòng nhập giá trị lớn hơn hoặc bằng {1}"
+
+#: please_do_not_enter_same_values
+msgid "Please do not enter same values."
+msgstr "Không được nhập giá trị trùng nhau"
+
+#: letters_or_punctuation_only_please
+msgid "Letters or punctuation only please."
+msgstr "Chỉ nhập chữ hoặc dấu chấm"
+
+#: please_enter_n_words_or_less
+msgid "Please enter {0} words or less."
+msgstr "Vui lòng nhập {0} từ hoặc ít hơn."
+
+#: please_enter_at_least_n_words
+msgid "Please enter at least {0} words."
+msgstr "Vui lòng nhập ít nhất {0} từ."
+
+#: please_enter_betwwen_a_and_b_words
+msgid "Please enter between {0} and {1} words."
+msgstr "Vui lòng nhập từ {0} dến {1} từ."
+
+#: letters_only_please
+msgid "Letters only please."
+msgstr "Chỉ chấp nhận chữ."
+
+#: no_white_space_please
+msgid "No white space please"
+msgstr "Không nhập khoản trắng"
+
+#: no_start_white_space_please
+msgid "This field cannot start with a space."
+msgstr "Không bắt đầu với khoảng trắng"
+
+#: ZIP_code_must_be_in_the_range
+msgid "Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx"
+msgstr "ZIP-code phải nằm trong khoản từ 902xx-xxxx đế 905-xx-xxxx"
+
+#: please_enter_valid_time
+msgid "Please enter a valid time, between 00:00 and 23:59."
+msgstr "Vui lòng nhập thời gian hợp lệ, từ 00:00 đến 23:59"
+
+#: please_enter_valid_phone_number
+msgid "Please specify a valid phone number."
+msgstr "Vui lòng nhập số điện thoại hợp lệ"
+
+#: please_enter_at_least_n_character
+msgctxt "please_enter_at_least_n_character"
+msgid "Please enter at least {0} characters."
+msgstr "Vui lòng nhập ít nhất {0} ký tự"
+
+#: this_date_can_not_be_after_today
+msgid "This date can not be after today."
+msgstr "Ngày được chọn không được sau hôm nay"
+
+#: please_fill_out_at_least_one_of_these_fields
+msgid "Please fill out at least one of these fields."
+msgstr "Vui lòng điền ít nhất một trong số các trường sau."
+
+#: please_select_at_least_one_option_for_these_fields
+msgid "Please select at least one option for these fields."
+msgstr "Vui lòng chọn tối thiểu một mục cho các ô nhập này"
+
+#: password_must_contain_at_least_one_capital_letter_and_one_digit
+msgid "Password must contain at least one capital letter and one digit."
+msgstr "Mật khẩu phải chứa ít nhất 1 ký tự IN HOA và một số."
+
+#: only_digits_are_not_allowed
+msgid "Only digits are not allowed"
+msgstr "Chỉ chữ số được phép"
+
+#: closedDate_should_be_greater_than_openDate
+msgid "The ClosedDate field should be greater than the OpenDate field."
+msgstr "Ngày kết thúc nên sau ngày mở đầu"
+
+#: please_unicode_chars_only
+msgid "Valid unicode charaters only are allowed."
+msgstr "Chỉ ký tự unicode hợp lệ."
+
+#: unrecognized_coordinate_string
+msgid "Unrecognized coordinate string"
+msgstr "Chuỗi định vị không nhận biết"
+
+#: please_enter_a_letters_or_digits
+msgid "Please enter letters or digits."
+msgstr "Hãy nhập chữ hoặc số"
+
+#: please_enter_valid_number
+msgctxt "please_enter_valid_number"
+msgid "Please enter a valid number."
+msgstr "Hãy nhập một số hợp lệ"
+
+#: please_enter_valid_integer
+msgid "Please enter a valid integer."
+msgstr "Hãy nhập một số nguyên hợp lệ"
+
+#: please_enter_valid_positive_integer
+msgid "Please enter a valid positive integer."
+msgstr "Hãy nhập một số nguyên dương hợp lệ"
+
+#: please_enter_valid_negative_integer
+msgid "Please enter a valid negative integer."
+msgstr "Hãy nhập một số nguyên âm hợp lệ"
+
+#: please_enter_name
+msgid "Please enter name!"
+msgstr "Hãy nhập tên! "
+
+#: please_select_period
+msgid "Please select period!"
+msgstr "Hãy chọn thời điểm! "
+
+#: please_select_dataset
+msgid "Please select dataset!"
+msgstr "Hãy chọn biểu nhập! "
+
+#: please_select_dataelement
+msgid "Please select data element!"
+msgstr "Hãy chọn phần tử dữ liệu! "
+
+#: please_select_indicator
+msgid "Please select indicator!"
+msgstr "Hãy chọn chỉ số! "
+
+#: please_enter_description
+msgid "Please enter description!"
+msgstr "Hãy nhập miêu tả! "
+
+#: delete_confirm
+msgid "Do you want to delete?"
+msgstr "Bạn có muốn xóa?"
+
+#: available
+msgid "Available"
+msgstr "Hiện có "
+
+#: selected
+msgid "Selected"
+msgstr "Đã chọn "
+
+#: error
+msgid "Error"
+msgstr "Lỗi "
+
+#: warning
+msgid "Warning"
+msgstr "Cảnh báo "
+
+#: success
+msgid "Success"
+msgstr "Thành công "
+
+#: waiting
+msgid "Please wait"
+msgstr "Hãy đợi "
+
+#: expression_not_well_formed
+msgid "Expression is not well formed"
+msgstr ""
+
+#: invalid_identifiers_in_expression
+msgid "Invalid identifiers in expression"
+msgstr ""
+
+#: filter_not_evaluating_to_true_or_false
+msgid "Filter is not evaluating to true or false"
+msgstr ""
+
+#: locate_by_code
+msgid "Locate by code"
+msgstr "Định vị bằng mã"
+
+#: select_at_level
+msgid "Select at level"
+msgstr "Chọn tại cấp độ "
+
+#: unselect_at_level
+msgid "Un-select at level"
+msgstr "Bỏ chọn tại cấp độ "
+
+#: unselect_all
+msgid "Un-select all"
+msgstr "Bỏ chọn tất cả "
+
+#: select_all
+msgid "Select all"
+msgstr "Chọn tất cả "
+
+#: select_in_group
+msgid "Select in group"
+msgstr "Chọn trong nhóm "
+
+#: unselect_in_group
+msgid "Un-select in group"
+msgstr "Bỏ chọn trong nhóm "
+
+#: select_children
+msgid "Select children"
+msgstr "Chọn đơn vị con "
+
+#: unselect_children
+msgid "Un-select children"
+msgstr "Bỏ chọn đơn vị con "
+
+#: organisation_unit_selection_tree
+msgid "Organisation Unit Selection"
+msgstr "Chọn đơn vị"
+
+#: move_selected
+msgid "Move selected"
+msgstr "Chuyển chọn "
+
+#: remove_selected
+msgid "Remove selected"
+msgstr "Bỏ chuyển chọn "
+
+#: move_all
+msgid "Move all"
+msgstr "Chuyển tất cả "
+
+#: remove_all
+msgid "Remove all"
+msgstr "Bỏ tất cả  "
+
+#: move_up
+msgid "Move up"
+msgstr "Chuyển lên "
+
+#: move_down
+msgid "Move down"
+msgstr "Chuyển xuống "
+
+#: move_to_top
+msgid "Move to top"
+msgstr "Chuyển lên trên cùng "
+
+#: move_to_bottom
+msgid "Move to bottom"
+msgstr "Chuyển xuống dưới cùng"
+
+#. #-- Paging messages -----------------------------------------------------------#
+#: no_of_pages
+msgid "No. of pages"
+msgstr "Tổng số trang "
+
+#: rows_in_page
+msgid "No. of rows per page"
+msgstr "Số dòng trên trang "
+
+#: jump_to_page
+msgid "Jump to page"
+msgstr "Chuyển đến trang "
+
+#: go
+msgid "Go"
+msgstr "Chuyển "
+
+#: filter_by_name
+msgid "Filter by name"
+msgstr "Lọc bằng tên "
+
+#: filter
+msgid "Filter"
+msgstr "Bộ lọc "
+
+#: clear
+msgid "Clear"
+msgstr "Xóa "
+
+#: find
+msgid "Find"
+msgstr "Tìm kiếm "
+
+#: delete_success
+msgid "Object deleted"
+msgstr "Đối tượng đã bị xóa "
+
+#: process
+msgid "Processing..."
+msgstr "Đang thực hiện..."
+
+#. #-- Export PDF messages -------------------------------------------------------#
+#: get_pdf
+msgid "Get PDF"
+msgstr "Lấy tệp PDF "
+
+#: no_item_to_export
+msgid "There is no item to export"
+msgstr "Không có mục nào để xuất ra "
+
+#: name
+msgctxt "name"
+msgid "Name"
+msgstr "Tên "
+
+#: short_name
+msgctxt "short_name"
+msgid "Short name"
+msgstr "Tên rút gọn "
+
+#: alternative_name
+msgid "Alternative name"
+msgstr "Tên phụ "
+
+#: code
+msgid "Code"
+msgstr "Mã "
+
+#: description
+msgctxt "description"
+msgid "Description"
+msgstr "Miêu tả "
+
+#: opening_date
+msgid "Opening date"
+msgstr "Ngày mở "
+
+#: closed_date
+msgid "Closed date"
+msgstr "Ngày đóng "
+
+#: active
+msgid "Active"
+msgstr "Hoạt động "
+
+#: type
+msgid "Type"
+msgstr "Loại "
+
+#: value_type
+msgid "Value Type"
+msgstr "Loại giá trị "
+
+#: actual
+msgid "Actual"
+msgstr "Thực "
+
+#: target
+msgid "Target"
+msgstr "Mục tiêu "
+
+#: percent
+msgid "Percent"
+msgstr "Phần trăm "
+
+#: on_time
+msgid "On time"
+msgstr "Đúng hạn "
+
+#: data_dictionary
+msgid "Data Dictionary"
+msgstr "Từ điển dữ liệu "
+
+#: data_elements
+msgid "Data elements"
+msgstr "Phần tử dữ liệu "
+
+#: data_sets
+msgid "Data sets"
+msgstr "Biểu nhập "
+
+#: indicators
+msgid "Indicators"
+msgstr "Chỉ số "
+
+#: indicator_groups
+msgid "Indicator groups"
+msgstr "Nhóm chỉ số "
+
+#: data_element_groups
+msgid "Data element groups"
+msgstr "Nhóm phần tử dữ liệu "
+
+#: data_element_concepts
+msgid "Data element concepts"
+msgstr "Các khái niệm của phần tử dữ liệu "
+
+#: organisation_units
+msgid "Organisation units"
+msgstr "Đơn vị "
+
+#: organisation_unit_groups
+msgid "Organisation unit groups"
+msgstr "Nhóm đơn vị "
+
+#: organisation_unit_hierarchy
+msgid "Organisation unit hierarchy"
+msgstr "Cây đơn vị "
+
+#: validation_rules
+msgid "Validation rules"
+msgstr "Quy tắc hợp lệ "
+
+#: period_type
+msgid "Period Type"
+msgstr "Loại thời điểm "
+
+#: users
+msgctxt "users"
+msgid "Users"
+msgstr "Người dùng "
+
+#: user_groups
+msgid "User groups"
+msgstr ""
+
+#: pivot_tables
+msgid "Pivot tables"
+msgstr "Bảng xoay "
+
+#: charts
+msgid "Charts"
+msgstr "Biểu đồ "
+
+#: maps
+msgid "Maps"
+msgstr "Bản đồ "
+
+#: dashboards
+msgid "Dashboards"
+msgstr "Bảng điều khiển "
+
+#: programs
+msgid "Programs"
+msgstr "Chương trình "
+
+#: events
+msgid "Events"
+msgstr "Sự kiện"
+
+#. #-- Indicator -----------------------------------------------------------------#
+#: expression
+msgid "Expression"
+msgstr "Biểu thức "
+
+#: left_expression
+msgid "Left Expression"
+msgstr "Biểu thức bên trái "
+
+#: right_expression
+msgid "Right Expression"
+msgstr "Biểu thức bên phải "
+
+#: indicator_type
+msgid "Indicator Type"
+msgstr "Loại chỉ số "
+
+#: annualized
+msgid "Annualized"
+msgstr "Hằng năm "
+
+#: aggregation_operator
+msgid "Aggregation operator"
+msgstr "Toán tử tập hợp "
+
+#: numerator
+msgid "Numerator"
+msgstr "Tử số "
+
+#: numerator_formula
+msgid "Numerator formula"
+msgstr "Công thức tử số "
+
+#: numerator_description
+msgctxt "numerator_description"
+msgid "Numerator description"
+msgstr "Miêu tả tử số "
+
+#: numerator_aggregation_operator
+msgid "Numerator aggregation operator"
+msgstr "Kiểu số liệu tổng hợp cho tử số "
+
+#: denominator
+msgid "Denominator"
+msgstr "Mẫu số "
+
+#: denominator_formula
+msgid "Denominator formula"
+msgstr "Công thức mẫu số "
+
+#: denominator_description
+msgctxt "denominator_description"
+msgid "Denominator description"
+msgstr "Miêu tả mẫu số "
+
+#: denominator_aggregation_operator
+msgid "Denominator aggregation operator"
+msgstr "Kiểu số liệu tổng hợp cho mẫu số "
+
+#: expression_is_empty
+msgid "Expression is empty"
+msgstr "Biểu thức rỗng "
+
+#: category_option_combo_does_not_exist
+msgid "Category option combo does not exist"
+msgstr "Tập tùy chọn phân loại không tồn tại "
+
+#: data_element_does_not_exist
+msgid "Data element does not exist"
+msgstr "Phần tử dữ liệu không tồn tại "
+
+#: constant_does_not_exist
+msgid "Constant does not exist"
+msgstr ""
+
+#: org_unit_group_does_not_exist
+msgid "Organisation unit group does not exist"
+msgstr ""
+
+#: id_not_numeric
+msgid "Identifier is not numeric"
+msgstr "Mã định danh không phải con số "
+
+#: expression_not_well_formed
+msgid "Expression is not well-formed"
+msgstr ""
+
+#: valid
+msgid "Valid"
+msgstr ""
+
+#. #-- Validation Rule -----------------------------------------------------------#
+#: absolute
+msgid "Absolute"
+msgstr "Tuyệt đối "
+
+#: statistical
+msgid "Statistical"
+msgstr "Thống kê "
+
+#: left_side_description
+msgid "Left side description"
+msgstr "Miêu tả vế bên trái "
+
+#: right_side_description
+msgid "Right side description"
+msgstr "Miêu tả vế bên phải "
+
+#: left_side_of_expression
+msgid "Left side of Expression"
+msgstr "Biểu thức bên trái "
+
+#: right_side_of_expression
+msgid "Right side of Expression"
+msgstr "Biểu thức bên phải "
+
+#: operator
+msgid "Operator"
+msgstr "Toán tử"
+
+#: equal_to_symbol
+msgctxt "equal_to_symbol"
+msgid "=="
+msgstr "=="
+
+#: not_equal_to_symbol
+msgctxt "not_equal_to_symbol"
+msgid "!="
+msgstr "!="
+
+#: greater_than_symbol
+msgctxt "greater_than_symbol"
+msgid ">"
+msgstr ">"
+
+#: greater_than_or_equal_to_symbol
+msgctxt "greater_than_or_equal_to_symbol"
+msgid ">="
+msgstr ">="
+
+#: less_than_symbol
+msgctxt "less_than_symbol"
+msgid "<"
+msgstr "<"
+
+#: less_than_or_equal_to_symbol
+msgctxt "less_than_or_equal_to_symbol"
+msgid "<="
+msgstr "<="
+
+#: equal_to
+msgctxt "equal_to"
+msgid "=="
+msgstr "=="
+
+#: not_equal_to
+msgctxt "not_equal_to"
+msgid "!="
+msgstr "!="
+
+#: greater_than
+msgctxt "greater_than"
+msgid ">"
+msgstr ">"
+
+#: greater_than_or_equal_to
+msgctxt "greater_than_or_equal_to"
+msgid ">="
+msgstr ">="
+
+#: less_than
+msgctxt "less_than"
+msgid "<"
+msgstr "<"
+
+#: less_than_or_equal_to
+msgctxt "less_than_or_equal_to"
+msgid "<="
+msgstr "<="
+
+#: and_title
+msgid "And"
+msgstr ""
+
+#: or_title
+msgid "Or"
+msgstr ""
+
+#: equal_to_title
+msgid "Equal to"
+msgstr ""
+
+#: not_equal_to_title
+msgid "Not equal to"
+msgstr ""
+
+#: less_than_title
+msgid "Less than"
+msgstr ""
+
+#: less_than_or_equal_to_title
+msgid "Less than or equal to"
+msgstr ""
+
+#: greater_than_title
+msgid "Greater than"
+msgstr ""
+
+#: greater_than_or_equal_to_title
+msgid "Greater than or equal to"
+msgstr ""
+
+#. #-- Constant ------------------------------------------------------------------#
+#: constant
+msgid "Constant"
+msgstr "Hằng số"
+
+#: constants
+msgid "Constants"
+msgstr "Các hằng số"
+
+#: no_constant_to_select
+msgid "No constants to select"
+msgstr "Không có hằng số nào được chọn"
+
+#. #-- Dynamic Attributes --------------------------------------------------------#
+#: multiple_choice
+msgid "Multiple Choice"
+msgstr "Nhiều lựa chọn"
+
+#. #-- Sharing  ------------------------------------------------------------------#
+#: public_access
+msgid "Public access (with login)"
+msgstr "Truy cập công cộng (có đăng nhập) "
+
+#: external_access
+msgid "External access (without login)"
+msgstr "Truy cập từ bên ngoài (không cần đăng nhập) "
+
+#: user_group_access
+msgid "User group access"
+msgstr "Nhóm người dùng truy cập "
+
+#: ajax_login_failed
+msgctxt "ajax_login_failed"
+msgid "Login failed, check your username and password and try again"
+msgstr ""
+
+#: group_name
+msgid "Group name"
+msgstr "Tên nhóm "
+
+#: sharing_settings
+msgid "Sharing settings"
+msgstr "Cài đặt chia sẻ "
+
+#: no_access
+msgctxt "no_access"
+msgid "None"
+msgstr "Không "
+
+#: read_only
+msgid "Read only"
+msgstr "Chỉ đọc "
+
+#: read_write
+msgid "Read and write"
+msgstr "Đọc và ghi "
+
+#: can_edit_and_view
+msgid "Can edit and view"
+msgstr "Có thể xem và chỉnh sửa "
+
+#: can_view
+msgid "Can view"
+msgstr "Có thể xem "
+
+#: search_for_user_groups
+msgid "Search for user groups"
+msgstr "Tìm kiếm nhóm người dùng "
+
+#: object_will_created_public
+msgid "This object will be created with public edit and view rights"
+msgstr "Đối tượng này sẽ được tạo với quyền xem và sửa công cộng "
+
+#: object_will_created_private
+msgid "This object will be private to yourself"
+msgstr "Đối tượng này sẽ thuộc riêng bạn "
+
+#: created_by
+msgid "Created by"
+msgstr "Được tạo bởi"
+
+#. #-- Countries / flags ---------------------------------------------------------#
+#: afghanistan
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+#: africare
+msgid "Africare"
+msgstr "Africare"
+
+#: akros
+msgid "Akros"
+msgstr "Akros"
+
+#: algeria
+msgid "Algeria"
+msgstr "Algeria"
+
+#: armenia
+msgid "Armenia"
+msgstr "Armenia"
+
+#: bangladesh
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+#: benin
+msgid "Benin"
+msgstr "Benin"
+
+#: bhutan
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: botswana
+msgid "Botswana"
+msgstr "Botswana"
+
+#: burkina_faso
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: burkina_faso_coat_of_arms
+msgid "Burkina Faso Coat of Arms"
+msgstr "Burkina Faso Coat of Arms"
+
+#: burundi
+msgid "Burundi"
+msgstr "Burundi"
+
+#: cambodia
+msgid "Cambodia"
+msgstr "Cambodia"
+
+#: cameroon
+msgid "Cameroon"
+msgstr "Cameroon"
+
+#: china
+msgid "China"
+msgstr "China"
+
+#: colombia
+msgid "Colombia"
+msgstr "Colombia"
+
+#: demoland
+msgid "Demoland"
+msgstr "Demoland"
+
+#: congo_brazzaville
+msgid "Republic of the Congo"
+msgstr "Republic of the Congo"
+
+#: congo_kinshasa
+msgid "Democratic Republic of the Congo"
+msgstr "Democratic Republic of the Congo"
+
+#: east_africa_community
+msgid "East Africa Community"
+msgstr "East Africa Community"
+
+#: ecowas
+msgid "ECOWAS"
+msgstr "ECOWAS"
+
+#: ecuador
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: egypt
+msgid "Egypt"
+msgstr ""
+
+#: engender_health
+msgid "Engender Health"
+msgstr ""
+
+#: ethiopia
+msgid "Ethiopia"
+msgstr "Ethiopia"
+
+#: fhi360
+msgid "FHI360"
+msgstr "FHI360"
+
+#: forut
+msgid "FORUT"
+msgstr "FORUT"
+
+#: gambia
+msgid "Gambia"
+msgstr "Gambia"
+
+#: ghana
+msgid "Ghana"
+msgstr "Ghana"
+
+#: global_fund
+msgid "Global Fund"
+msgstr "Global Fund"
+
+#: guinea
+msgid "Guinea"
+msgstr "Guinea"
+
+#: guinea_bissau
+msgid "Guinea Bissau"
+msgstr "Guinea Bissau"
+
+#: haiti
+msgid "Haiti"
+msgstr "Haiti"
+
+#: icap
+msgid "ICAP"
+msgstr "ICAP"
+
+#: ippf
+msgid "IPPF"
+msgstr ""
+
+#: india
+msgctxt "india"
+msgid "India"
+msgstr ""
+
+#: indonesia
+msgid "Indonesia"
+msgstr "Indonesia"
+
+#: iraq
+msgid "Iraq"
+msgstr ""
+
+#: irc
+msgid "International Rescue Committee"
+msgstr "International Rescue Committee"
+
+#: ivory_coast
+msgid "Ivory Coast"
+msgstr "Ivory Coast"
+
+#: jhpiego
+msgid "JHPIEGO"
+msgstr "JHPIEGO"
+
+#: kenya
+msgid "Kenya"
+msgstr "Kenya"
+
+#: laos
+msgid "Lao People's Democratic Republic"
+msgstr "Lao People's Democratic Republic"
+
+#: lesotho
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: liberia
+msgid "Liberia"
+msgstr "Liberia"
+
+#: malawi
+msgid "Malawi"
+msgstr "Malawi"
+
+#: mali
+msgid "Mali"
+msgstr "Mali"
+
+#: mongolia
+msgid "Mongolia"
+msgstr ""
+
+#: mozambique
+msgid "Mozambique"
+msgstr "Mozambique"
+
+#: myanmar
+msgctxt "myanmar"
+msgid "Myanmar"
+msgstr ""
+
+#: msf
+msgid "MSF"
+msgstr "MSF"
+
+#: msi
+msgid "MSI"
+msgstr ""
+
+#: namibia
+msgid "Namibia"
+msgstr "Namibia"
+
+#: nepal
+msgid "Nepal"
+msgstr "Nepal"
+
+#: nicaragua
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: niger
+msgid "Niger"
+msgstr "Niger"
+
+#: nigeria
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: norway
+msgid "Norway"
+msgstr "Norway"
+
+#: pakistan
+msgid "Pakistan"
+msgstr ""
+
+#: palestine
+msgid "Palestine"
+msgstr ""
+
+#: paraguay
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: pepfar
+msgid "PEPFAR"
+msgstr "PEPFAR"
+
+#: peru
+msgid "Peru"
+msgstr "Peru"
+
+#: philippines
+msgid "Philippines"
+msgstr "Philippines"
+
+#: psi
+msgid "PSI"
+msgstr "PSI"
+
+#: republic_of_trinidad_and_tobago
+msgid "Republic of Trinidad & Tobago"
+msgstr "Republic of Trinidad & Tobago"
+
+#: rwanda
+msgid "Rwanda"
+msgstr "Rwanda"
+
+#: senegal
+msgid "Senegal"
+msgstr "Senegal"
+
+#: sierra_leone
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: sierra_leone_coat_of_arms
+msgid "Sierra Leone Coat of Arms"
+msgstr "Sierra Leone Coat of Arms"
+
+#: solomon_islands
+msgid "Solomon Islands"
+msgstr "Solomon Islands"
+
+#: south_africa
+msgid "South Africa"
+msgstr "South Africa"
+
+#: south_africa_department_of_health
+msgid "South Africa Department of Health"
+msgstr "South Africa Department of Health"
+
+#: south_sudan
+msgid "South Sudan"
+msgstr ""
+
+#: sri_lanka
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: sudan
+msgid "Sudan"
+msgstr "Sudan"
+
+#: swaziland
+msgid "Swaziland"
+msgstr "Swaziland"
+
+#: tajikistan
+msgid "Tajikistan"
+msgstr "Tajikistan"
+
+#: tanzania
+msgid "Tanzania"
+msgstr "Tanzania"
+
+#: timor_leste
+msgid "Timor-Leste"
+msgstr "Timor-Leste"
+
+#: togo
+msgid "Togo"
+msgstr "Togo"
+
+#: uganda
+msgid "Uganda"
+msgstr "Uganda"
+
+#: usaid
+msgid "USAID"
+msgstr "USAID"
+
+#: vanuatu
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: vietnam
+msgctxt "vietnam"
+msgid "Vietnam"
+msgstr ""
+
+#: who
+msgid "WHO"
+msgstr "Tổ chức Y Tế thế giới"
+
+#: zambia
+msgid "Zambia"
+msgstr "Zambia"
+
+#: zanzibar
+msgid "Zanzibar"
+msgstr "Zanzibar"
+
+#: zimbabwe
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+#. #-- Login page ----------------------------------------------------------------#
+#: create_an_account
+msgid "Create an account"
+msgstr "Tạo tài khoản mới"
+
+#: login_password
+msgctxt "login_password"
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: login_username
+msgctxt "login_username"
+msgid "Username"
+msgstr "Tên truy cập"
+
+#: forgot_password
+msgid "Forgot password?"
+msgstr "Quên mật khẩu?"
+
+#: wrong_username_or_password
+msgid "Wrong username or password"
+msgstr "Sai tên truy cập hoặc mật khẩu"
+
+#: powered_by
+msgid "Powered by"
+msgstr "Được cung cấp bởi"
+
+#: sign_in
+msgid "Sign in"
+msgstr "Đăng nhập"
+
+#. #-- New User Account page -----------------------------------------------------#
+#: new_user_account_name
+msgctxt "new_user_account_name"
+msgid "Name"
+msgstr "Tên tài khoản"
+
+#: new_user_account_first_name
+msgid "First"
+msgstr "Tên gọi"
+
+#: new_user_account_last_name
+msgid "Last"
+msgstr "Tên họ"
+
+#. #-- Recovery page -------------------------------------------------------------#
+#: recover_success_message
+msgid ""
+"Please check the email account which you registered for this username. We "
+"have sent you instructions on how to restore your password."
+msgstr ""
+"Hãy kiểm tra thư điện tử mà bạn đã đăng kí cho tài khoản này. Hệ thống đã "
+"gửi thư hương dẫn cho bạn lấy lại mật khẩu."
+
+#: recover_error_message
+msgid ""
+"Sorry, we were not able to restore your account. The username might be "
+"invalid, your account might not permit restore or you might have entered an "
+"invalid email address for your account."
+msgstr ""
+"Xin lỗi, hệ thống không thể khôi phục tài khoản của bạn. Có thể bạn cung cấp "
+"sai tên tài khoản, hoặc tài khoản của bạn không được phép khôi phục hoặc bạn "
+"đã nhập sai địa chỉ thư điện tử cho tài khoản của mình."
+
+#. #-- App Menu ------------------------------------------------------------------#
+#: applications
+msgctxt "applications"
+msgid "Apps"
+msgstr "Ứng dụng"
+
+#: more_applications
+msgid "More apps"
+msgstr "Hiển thị thêm"
+
+#: app_manager
+msgctxt "app_manager"
+msgid "Apps"
+msgstr "Ứng dụng"
+
+#: app_favorite_description
+msgid ""
+"This icon indicates an app that will be displayed in your dropdown menu."
+msgstr ""
+"Biểu tượng này cho biết một ứng dụng sẽ hiển thị trong danh mục của bạn."
+
+#: app_draggable_description
+msgid ""
+"Items are draggable to change their order, so it's easy to customize your "
+"favorite apps."
+msgstr ""
+"Có thể thay đổi thứ tự của ứng dụng, bạn có thể dễ dàng tùy chỉnh vị trí các "
+"ứng dụng ưa thích của mình."
+
+#: app_order_custom
+msgid "My own order"
+msgstr "Cách sắp xếp của tôi"
+
+#: app_order_name_alpha
+msgid "Alphabetical"
+msgstr "Theo bảng chữ cái"
+
+#: app_search_placeholder
+msgid "Search apps"
+msgstr "Tìm kiếm ứng dụng"
+
+#. #-- Data value error codes ----------------------------------------------------#
+#: data_element_or_type_null_or_empty
+msgid "Data element or type is null or empty"
+msgstr ""
+
+#: value_length_greater_than_max_length
+msgid "Data value is greater than max length"
+msgstr ""
+
+#: value_not_numeric
+msgid "Data value is not numeric"
+msgstr ""
+
+#: value_not_unit_interval
+msgid "Data value is not a unit interval"
+msgstr ""
+
+#: value_not_percentage
+msgid "Data value is not a percentage"
+msgstr ""
+
+#: value_not_integer
+msgid "Data value is not an integer"
+msgstr ""
+
+#: value_not_positive_integer
+msgid "Data value is not a positive integer"
+msgstr ""
+
+#: value_not_negative_integer
+msgid "Data value is not a negative integer"
+msgstr ""
+
+#: value_is_zero_and_not_zero_significant
+msgid "Data value is zero and not zero significant"
+msgstr "Giá trị dữ liệu là số không và số không đáng kể"
+
+#: value_not_bool
+msgid "Data value is not a boolean"
+msgstr ""
+
+#: value_not_true_only
+msgid "Data value is not true"
+msgstr ""
+
+#: value_not_valid_date
+msgid "Data value is not a valid date"
+msgstr ""
+
+#: stored_by_length_greater_than_max_length
+msgid "Stored by is greater than max length"
+msgstr "Độ dài được lưu lớn hơn độ dài tối đa cho phép"
+
+#: comment_length_greater_than_max_length
+msgctxt "comment_length_greater_than_max_length"
+msgid "Comment is greater than max length"
+msgstr ""
+
+#. #-- calendars -----------------------------------------------------------------#
+#: islamic
+msgid "Islamic"
+msgstr "Islamic"
+
+#: nepali
+msgid "Nepali"
+msgstr "Nepali"
+
+#: julian
+msgid "Julian"
+msgstr "Julian"
+
+#: gregorian
+msgid "Gregorian"
+msgstr "Gregorian"
+
+#: ethiopian
+msgid "Ethiopian"
+msgstr "Ethiopian"
+
+#: thai
+msgid "Thai"
+msgstr "Thai"
+
+#: iso8601
+msgid "ISO 8601"
+msgstr "ISO 8601"
+
+#: coptic
+msgid "Coptic"
+msgstr "Coptic"
+
+#. #-- Email message footer ------------------------------------------------------#
+#: respond_to_this_message
+msgid "Respond to this message"
+msgstr ""
+
+#. #-- Restore emails ------------------------------------------------------------#
+#: email_restore_subject
+msgid "User account restore confirmation at"
+msgstr "Khôi phục lại tài khoản người dùng được xác nhận tại "
+
+#: email_restore_1_1st_paragraph_before_application_title
+msgctxt "email_restore_1_1st_paragraph_before_application_title"
+msgid "Someone, probably you, has asked us to restore your"
+msgstr "Một ai đó, có thể là bạn, đã yêu cầu khôi phục lại tài khoản của bạn "
+
+#: email_restore_1_1st_paragraph_after_application_title
+msgctxt "email_restore_1_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr "Tài khoản người dùng. "
+
+#: email_restore_1_2nd_paragraph
+msgctxt "email_restore_1_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the first one. Please follow "
+"the link below. In the next step you will be asked to enter a code which has "
+"been sent to you in the other email."
+msgstr ""
+"Hệ thống đã gửi 2 thư điện tử cho bạn, đây là thư thứ nhất. Hãy làm theo "
+"đường dẫn sau. Bước tiếp thep bạn sẽ được yêu cầu nhập một mã mà chúng tôi "
+"đã gửi cho bạn ở một thư khác. "
+
+#: email_restore_1_3rd_paragraph
+msgctxt "email_restore_1_3rd_paragraph"
+msgid ""
+"You must complete the restore process within 1 hour. If you take no action, "
+"your account will not be restored. If you did not request this restore, "
+"please disregard this message."
+msgstr ""
+"Bạn phải hoàn thành việc khôi phục trong vòng 1 giờ. Nếu bạn không làm gì, "
+"tài khoản sẽ không được khôi phục. Nếu bạn không có yêu cầu khôi phục tài "
+"khoản, hãy bỏ qua tin nhắn này. "
+
+#: email_restore_2_1st_paragraph_before_application_title
+msgctxt "email_restore_2_1st_paragraph_before_application_title"
+msgid "Someone, probably you, has asked us to restore your"
+msgstr ""
+"Một ai đó, có thể là bạn, đã yêu cầu hệ thống khôi phục tài khoản của bạn "
+
+#: email_restore_2_1st_paragraph_after_application_title
+msgctxt "email_restore_2_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr "Tài khoản người dùng. "
+
+#: email_restore_2_2nd_paragraph
+msgctxt "email_restore_2_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the second one. Please read the "
+"first email and follow the instructions. Please use the code below to "
+"complete the new account form."
+msgstr ""
+"Hệ thống đã gửi 2 thư cho bạn, đây là thư thứ hai. Hãy đọc thư thứ nhất và "
+"làm theo hướng dẫn. Hãy dùng mã phía dưới để hoàn thành khôi phục tài khoản. "
+
+#: email_restore_2_3rd_paragraph
+msgctxt "email_restore_2_3rd_paragraph"
+msgid ""
+"You must complete the restore process within 1 hour. If you take no action, "
+"your account will not be restored. If you did not request this restore, "
+"please disregard this message."
+msgstr ""
+"Bạn phải hoàn thành việc khôi phục trong vòng 1 giờ. Nếu bạn không làm gì, "
+"tài khoản sẽ không được khôi phục. Nếu bạn không có yêu cầu khôi phục tài "
+"khoản, hãy bỏ qua tin nhắn này."
+
+#. #-- Invite emails -------------------------------------------------------------#
+#: email_invite_subject
+msgid "Invitation to create user account at"
+msgstr "Mời tạo tài khoản tại"
+
+#: email_invite_1_1st_paragraph_before_application_title
+msgctxt "email_invite_1_1st_paragraph_before_application_title"
+msgid "This is an invitation to create a"
+msgstr "Đây là lời mời để tạo"
+
+#: email_invite_1_1st_paragraph_after_application_title
+msgctxt "email_invite_1_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr "Tài khoản người dùng."
+
+#: email_invite_1_2nd_paragraph
+msgctxt "email_invite_1_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the first one. Please follow "
+"the link below. In the next step you will be asked to enter a code which has "
+"been sent to you in the other email."
+msgstr ""
+"Hệ thống đã gửi cho bạn hai thư điện tử, đây là thư thứ nhất. Hãy bấm vào "
+"đường dẫn sau. Bước tiếp thep bạn sẽ được yêu cầu nhập một mã mà bạn nhận "
+"được trong thư thứ hai. "
+
+#: email_invite_1_3rd_paragraph
+msgctxt "email_invite_1_3rd_paragraph"
+msgid ""
+"You must respond to this invitation within 3 months. If you take no action, "
+"the invitation will expire at that time."
+msgstr ""
+"Bạn phải trả lời thư mời này trong vòng 3 tháng. Nếu bạn không làm gì, thư "
+"mời sẽ tự hủy ngay khi hết hạn. "
+
+#: email_invite_2_1st_paragraph_before_application_title
+msgctxt "email_invite_2_1st_paragraph_before_application_title"
+msgid "This is an invitation to create a"
+msgstr "Đây là thư mời để tạo "
+
+#: email_invite_2_1st_paragraph_after_application_title
+msgctxt "email_invite_2_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr "Tài khoản người dùng. "
+
+#: email_invite_2_2nd_paragraph
+msgctxt "email_invite_2_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the second one. Please read the "
+"first email and follow the instructions. Please use the code below to "
+"complete the new account form."
+msgstr ""
+"Hệ thống đã gửi cho bạn hai thư điện tử, đây là thư thứ hai. Hãy đọc thư thứ "
+"nhất và làm theo hướng dẫn. Hãy dùng mã phía dưới để hoàn thành việc tạo tài "
+"khoản mới. "
+
+#: email_invite_2_3rd_paragraph
+msgctxt "email_invite_2_3rd_paragraph"
+msgid ""
+"You must respond to this invitation within 3 months. If you take no action, "
+"the invitation will expire at that time."
+msgstr ""
+"Bạn phải trả lời thư mời này trong vòng 3 tháng. Nếu bạn không làm gì, thư "
+"mời sẽ tự hủy ngay khi hết hạn."
+
+#. #-- Cache strategy display strings --------------------------------------------#
+#: cache_strategy
+msgid "Cache strategy"
+msgstr ""
+
+#: respect_system_setting
+msgid "Respect system setting"
+msgstr ""
+
+#: no_cache
+msgid "No cache"
+msgstr ""
+
+#: cache_until_6am_tomorrow
+msgid "Cache until 6 AM tomorrow"
+msgstr ""
+
+#: cache_for_two_weeks
+msgid "Cache for two weeks"
+msgstr ""
+
+#: cache_for_one_hour
+msgid "Cache for one hour"
+msgstr ""
+
+#. #-- Program indicators --------------------------------------------------------#
+#: execution_date
+msgid "Execution date"
+msgstr ""
+
+#: due_date
+msgid "Due date"
+msgstr ""
+
+#: incident_date
+msgid "Incident date"
+msgstr ""
+
+#: enrollment_date
+msgid "Enrollment date"
+msgstr ""
+
+#: current_date
+msgid "Current date"
+msgstr ""
+
+#: value_count
+msgid "Value count"
+msgstr ""
+
+#: zero_pos_value_count
+msgid "Zero or positive value count"
+msgstr ""
+
+#: event_count
+msgid "Event count"
+msgstr ""
+
+#: enrollment_count
+msgid "Enrollment count"
+msgstr ""
+
+#: tei_count
+msgid "Tracked entity instance count"
+msgstr ""

@@ -1,0 +1,626 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-light/src/main/resources/org/hisp/dhis/light/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-light/src/main/resources/org/hisp/dhis/light/i18n_module_pt.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: DHIS_2
+msgid "DHIS2"
+msgstr "DHIS 2"
+
+#: menu
+msgid "Menu"
+msgstr "Menú"
+
+#: home
+msgid "Home"
+msgstr "Página Principal"
+
+#: navigate_to
+msgid "Navigate to"
+msgstr "Navegar para"
+
+#: reports
+msgid "Reports"
+msgstr "Relatórios"
+
+#: charts
+msgid "Charts"
+msgstr "Gráficos"
+
+#: documents
+msgid "Documents"
+msgstr "Documentos"
+
+#: dashboard
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: dashboard_reports
+msgid "Dashboard reports"
+msgstr "Relatórios do Painel de Instrumentos"
+
+#: dashboard_charts
+msgid "Dashboard charts"
+msgstr "Gráficos do Painel de Instrumentos"
+
+#: dashboard_documents
+msgid "Dashboard documents"
+msgstr "Documentos do Painel de Instrumentos"
+
+#: data_entry
+msgid "Data Entry"
+msgstr "Entrada de Dados"
+
+#: namebased_data_entry
+msgid "Namebased Data Entry"
+msgstr "Entrada de Dados com base no nome"
+
+#: data_entry_overview
+msgid "Data Entry Overview"
+msgstr "Visão geral de entrada de dados"
+
+#: logout
+msgid "Logout"
+msgstr "Sair"
+
+#: desktop_version
+msgid "Desktop version"
+msgstr "Versão para Desktop"
+
+#: report_table_parameters
+msgid "Report parameters"
+msgstr "Parâmetros de relatório"
+
+#: get_report
+msgid "Get report"
+msgstr "Obter relatório"
+
+#: reporting_period
+msgid "Report period"
+msgstr "Período de relatório"
+
+#: select_organisation_unit
+msgid "Please select organisation unit"
+msgstr "Por favor seleccione unidade organizacional"
+
+#: available_datasets
+msgid "Available data sets"
+msgstr "Fichas disponíveis"
+
+#: available_organisation_units
+msgid "Available organisation units"
+msgstr "Unidades organizacionais disponíveis"
+
+#: available_periods
+msgid "Available periods"
+msgstr "Períodos disponíveis"
+
+#: settings
+msgid "Settings"
+msgstr "Configurações"
+
+#: language
+msgid "Interface Language"
+msgstr "Língua da interface"
+
+#: is_invalid_boolean
+msgid "is not a valid boolean"
+msgstr "não é um booleano válido"
+
+#: is_invalid_date
+msgid "is not a valid date (yyyy-MM-dd)"
+msgstr "não é uma data válida (yyyy-MM-dd)"
+
+#: is_invalid_number
+msgid "is not a valid number"
+msgstr "não é um número válido"
+
+#: is_invalid_integer
+msgid "is not a valid integer"
+msgstr "não é um número inteiro válido"
+
+#: is_invalid_positive_integer
+msgid "is not a valid positive integer"
+msgstr "não é um inteiro positivo válido"
+
+#: is_invalid_zero_or_positive_integer
+msgid "is not a valid zero or positive integer"
+msgstr "não é um inteiro positivo válido ou zero"
+
+#: is_invalid_negative_integer
+msgid "is not a valid negative integer"
+msgstr "não é um número inteiro negativo válido"
+
+#: is_invalid_name
+msgid "is not a valid name"
+msgstr "Não é um nome válido"
+
+#: is_invalid_name_length
+msgid "needs to be 7 or more characters"
+msgstr "Deve conter 7 ou mais caracteres"
+
+#: is_mandatory
+msgid "is a mandatory field"
+msgstr "é um campo  obrigatório"
+
+#: is_duplicate
+msgid "person identifier number is duplicated"
+msgstr "Número de identificação do beneficiário  duplicado"
+
+#: warnings_and_errors
+msgid "Warnings and errors"
+msgstr "Avisos e erros"
+
+#: validation_rule_violation_warnings
+msgid "Validation Rule Violation Warnings"
+msgstr "Avisos sobre violação da regra de validação"
+
+#: minmax_violation_warnings
+msgid "Min/Max Violation Warnings"
+msgstr "Avisos sobre violação de valores Min/Max"
+
+#: type_violation_errors
+msgid "Type Violation Errors"
+msgstr "Tipos de erros de violação"
+
+#: messages
+msgid "Messages"
+msgstr "Mensagens"
+
+#: conversations
+msgid "Conversations"
+msgstr "Conversas"
+
+#: subject
+msgid "Subject"
+msgstr "Assunto"
+
+#: reply
+msgid "Reply"
+msgstr "Responder"
+
+#: form_complete
+msgid "Form complete"
+msgstr "Formulário concluido"
+
+#: completed
+msgid "Completed"
+msgstr "Concluído"
+
+#: complete_programs
+msgid "Completed Programs"
+msgstr "Programas terminados"
+
+#: saved_section
+msgid "Saved Section"
+msgstr "Secção gravada"
+
+#: sections
+msgid "Sections"
+msgstr "Secções"
+
+#: current_activityplan
+msgid "Current Activity Plan"
+msgstr "Plano de actividades corrente"
+
+#: all_activityplan
+msgid "All Activity Plan"
+msgstr "Todo Plano de Actividades"
+
+#: activity_type
+msgid "Activity Type"
+msgstr "Tipo de Actividades"
+
+#: beneficiary_list
+msgid "Person List"
+msgstr "Lista de Beneficiário"
+
+#: activity_list
+msgid "Activity List"
+msgstr "Lista de actividades"
+
+#: successfully_saved
+msgid "Successfully Saved"
+msgstr "Guardado com sucesso"
+
+#: select_option
+msgid "Select Option"
+msgstr "~Escolha opção"
+
+#: option_set_searching_result
+msgid "Option Set Searching Result"
+msgstr "Resultado da opção de pesquisa"
+
+#: search_for
+msgid "Searching for"
+msgstr "Pesuisando por"
+
+#: id
+msgid "ID"
+msgstr "ID"
+
+#: gender
+msgid "Gender"
+msgstr "Género"
+
+#: date_of_birth
+msgid "Date of Birth"
+msgstr "Data de Nascimento"
+
+#: blood_group
+msgid "Blood Group"
+msgstr "Grupo Sanguíneo"
+
+#: details_for
+msgid "Detail For"
+msgstr "Detalhe para"
+
+#: organisation_unit
+msgctxt "organisation_unit"
+msgid "Organisation Unit"
+msgstr "Unidade Organizacional"
+
+#: beneficiary_registration
+msgid "Person Registration"
+msgstr "Registo do Beneficiário"
+
+#: full_name
+msgid "Full Name"
+msgstr "Nome Completo"
+
+#: male
+msgid "Male"
+msgstr "Masculino"
+
+#: female
+msgid "Female"
+msgstr "Feminino"
+
+#: transgender
+msgid "Transgender"
+msgstr "Transgênero"
+
+#: is_empty
+msgid "Empty Field"
+msgstr "Campo vazio"
+
+#: beneficiary_enrollment
+msgid "Person Enrollment"
+msgstr "Inscri"
+
+#: beneficiary_search
+msgid "Person Search"
+msgstr "Pesquisar beneficiário"
+
+#: beneficiary_name
+msgid "Person Name"
+msgstr "Nome do Beneficiário"
+
+#: search_result_for
+msgid "Search Result for"
+msgstr "Resultado de pesquisa para"
+
+#: search
+msgid "Search"
+msgstr "Pesquisar"
+
+#: enrolled_programs
+msgid "Enrolled Program(s)"
+msgstr "Programas inscritos"
+
+#: other_programs
+msgid "Other Programs"
+msgstr "Outros programas"
+
+#: available_programs
+msgid "Available Programs"
+msgstr "Programas Disponíveis"
+
+#: no_enrolled_programs
+msgid "No Enrolled Programs"
+msgstr "nenhuma inscrição noprograma"
+
+#: no_completed_programs
+msgid "No Completed Programs"
+msgstr "Nenhum programa completo"
+
+#: enroll
+msgid "Enroll"
+msgstr "Inscrição"
+
+#: enrollment_date
+msgid "Enrollment Date"
+msgstr "Data de inscrição"
+
+#: incident_date
+msgid "Incident Date"
+msgstr "Data do Incidente"
+
+#: program_list
+msgid "Program List"
+msgstr "Lista de programas"
+
+#: single_event
+msgid "Single Event"
+msgstr "Evento simples"
+
+#: single_event_list
+msgid "Single Event List"
+msgstr "Lista de eventos simples"
+
+#: back_single_event_form
+msgid "Back To Single Event Form"
+msgstr "Retornar para Evento Simples"
+
+#: tracking
+msgid "Tracking"
+msgstr "Rastreamento"
+
+#: find_beneficiary
+msgid "Find Person"
+msgstr "Procurar Beneficiário"
+
+#: activity_plan
+msgid "Activity Plan"
+msgstr "Plano de Actividades"
+
+#: search_by_name_or_id
+msgid "Search By Name or ID or Phone Number"
+msgstr "Pesquisae por nome ou ID ou telefone"
+
+#: select_orgunit
+msgid "Select Organisation Unit"
+msgstr "Seleccione Unidade Organizacional"
+
+#: all_orgunit
+msgid "All Organisation Unit"
+msgstr "Todas Unidades Organizacionais"
+
+#: tracking_menu
+msgid "Tracking Menu"
+msgstr "Menu de rastreamento"
+
+#: due_date
+msgid "Due Date"
+msgstr "Data de fim"
+
+#: register_due_date_for
+msgid "Register Due Date For"
+msgstr "Data final de registo"
+
+#: schedule
+msgid "Schedule"
+msgstr "Agenda"
+
+#: schedule_visit
+msgid "Schedule Visit"
+msgstr "Agenda de visitas"
+
+#: do_not_schedule_visit
+msgid "Do Not Schedule Visit"
+msgstr "Não agendar visita"
+
+#: register
+msgid "Register"
+msgstr "Registra"
+
+#: please_select
+msgid "Please Select"
+msgstr "Seleccione por favor"
+
+#: enroll_in_program
+msgid "Enroll In Program"
+msgstr "Inscrever no programa"
+
+#: relationships
+msgid "Relationships"
+msgstr "Relacionamentos"
+
+#: no_relationships
+msgid "No Relationships"
+msgstr "Nenhum relacionamento"
+
+#: phone_number
+msgid "Phone Number"
+msgstr "Telefone"
+
+#: add_relationships
+msgid "Add Relationships"
+msgstr "Adicionar relacionamentos"
+
+#: related_person_search
+msgid "Related Person Search"
+msgstr "Pesquisa de beneficiários relacionados"
+
+#: related_person_list
+msgid "Related Person List"
+msgstr "LIsta relacional de beneficiário"
+
+#: add_relationship
+msgid "Add Relationship"
+msgstr "Adicionar relacinamento"
+
+#: anonymous_menu
+msgid "Anonymous Menu"
+msgstr "Anónimo Menu"
+
+#: date_of_birth_type
+msgid "Date of Birth Type"
+msgstr "Tipo de Data de Nascimento"
+
+#: approximated
+msgid "Approximated"
+msgstr "Aproximado"
+
+#: declared
+msgid "Declared"
+msgstr "Declarado"
+
+#: verified
+msgid "Verified"
+msgstr "Verificado"
+
+#: anomynous_program_list
+msgid "Anonymous Program List"
+msgstr "Lista Anónima de Programas"
+
+#: orgunit
+msgctxt "orgunit"
+msgid "Organisation Unit"
+msgstr "Unidade Organizacional"
+
+#: change
+msgid "Change"
+msgstr "Alterar"
+
+#: register_location_for
+msgid "Register Location For"
+msgstr "Registar Localização para "
+
+#: agregate_reporting
+msgid "Aggregate Reporting"
+msgstr "Agragar Repórtes"
+
+#: find_or_add_person
+msgid "Find/Add Person"
+msgstr "Pesquisar/Adicionar beneficiário"
+
+#: search_by_phone_number
+msgid "Search By Phone Number"
+msgstr "Pesquisar por telefone"
+
+#: age_or_dob
+msgid "Age/Date of Birth"
+msgstr "Idade/Data de NAscimento"
+
+#: dead
+msgid "Dead"
+msgstr "Morto"
+
+#: status
+msgid "Status"
+msgstr "Estado"
+
+#: visit_schedule
+msgid "Visit Schedule"
+msgstr "Agenda de visitas"
+
+#: visit_schedule_type
+msgid "Visit Schedule Type"
+msgstr "Tipo de agendas de visias"
+
+#: or_register_new_person
+msgid "or register new person"
+msgstr "ou registra novo beneficiário"
+
+#: invalid_phone_number
+msgid "invalid phone number"
+msgstr "Número de telemóvel inválido"
+
+#: save_any_way
+msgid "Save anyway"
+msgstr "Guardar de qualquer modo"
+
+#: form_in_complete
+msgid "Form InComplete"
+msgstr "Formulário Incompleto"
+
+#: allow_provided_elsewhere
+msgid "Provided elsewhere"
+msgstr "Prover em qualquer lugar"
+
+#: search_user
+msgid "Search user by name"
+msgstr "Pesquisar utilizador por nome"
+
+#: last_recipients
+msgid "Last recipients"
+msgstr "Últimos  recipientes"
+
+#: search_orgunit
+msgid "Search Organisation Unit"
+msgstr "Pesquisar por unidade organizacional"
+
+#: date_of_birth_hint
+msgid ""
+"*Approximated: enter age. Declared or Verified: enter date in format [yyyy-"
+"mm-dd]"
+msgstr ""
+
+#: select_attribute
+msgid "Select attribute"
+msgstr ""
+
+#: tracked_entity
+msgid "Tracked entity"
+msgstr ""
+
+#: write
+msgid "Write"
+msgstr ""
+
+#: write_message
+msgid "Write Message"
+msgstr ""
+
+#: write_feedback
+msgid "Write Feedback"
+msgstr ""
+
+#: write_new_message
+msgid "Write new message"
+msgstr ""
+
+#: write_to_users
+msgid "To User(s):"
+msgstr ""
+
+#: write_add_to_recipients
+msgid "Add to Recipient(s)"
+msgstr ""
+
+#: interpretations
+msgid "Interpretations"
+msgstr ""
+
+#: interpretation
+msgid "Interpretation"
+msgstr ""
+
+#: interpretations_support
+msgid "Only charts are currently supported for interpretations."
+msgstr ""
+
+#: interpretation_comment
+msgid "Comment(s):"
+msgstr ""
+
+#: interpretation_add_comment
+msgid "Add a comment"
+msgstr ""
+
+#: interpretation_post_comment
+msgid "Post comment"
+msgstr ""
+
+#: interpretation_share
+msgid "Share interpretation"
+msgstr ""
+
+#: share
+msgid "Share"
+msgstr ""
+
+#: chart
+msgid "Chart"
+msgstr ""

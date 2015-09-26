@@ -1,0 +1,509 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-dataentry/src/main/resources/org/hisp/dhis/de/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-dataentry/src/main/resources/org/hisp/dhis/de/i18n_module_ru.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: dataelement_comment
+msgid "Comment"
+msgstr ""
+
+#: history_not_valid
+msgid "No history for this data element"
+msgstr "Нет истории для этого элемента данных"
+
+#: data_element
+msgid "Data element"
+msgstr "Элемент данных"
+
+#: min
+msgid "Min"
+msgstr "Мин"
+
+#: entry
+msgid "Entry"
+msgstr "Ввод"
+
+#: max
+msgid "Max"
+msgstr "Макс"
+
+#: timestamp
+msgid "Timestamp"
+msgstr "Временная метка"
+
+#: stored_by
+msgid "Stored by"
+msgstr "Хранимый (кем)"
+
+#: stored_date
+msgid "Stored date"
+msgstr "Дата хранения"
+
+#: last_updated
+msgid "Last updated"
+msgstr ""
+
+#: update
+msgid "Update"
+msgstr ""
+
+#: delete
+msgid "Delete"
+msgstr ""
+
+#: no_value
+msgid "No value"
+msgstr "Пожалуйста, выберите"
+
+#: maximum
+msgid "Maximum"
+msgstr "Максимум"
+
+#: organisation_unit
+msgid "Organisation Unit"
+msgstr "Организация"
+
+#: data_set
+msgid "Data Set"
+msgstr "Набор данных"
+
+#: select
+msgid "Select"
+msgstr "Выбор"
+
+#: period
+msgid "Period"
+msgstr "Период"
+
+#: form_field
+msgid "Form field"
+msgstr ""
+
+#: filter_on_section
+msgid "Filter on section"
+msgstr "Фильтр на участке"
+
+#: filter_in_section
+msgid "Filter in section"
+msgstr "Фильтр на участке"
+
+#: show_all_sections
+msgid "Show all sections"
+msgstr "Показать все участки"
+
+#: show_all_items
+msgid "Show all items"
+msgstr "Показать все"
+
+#: earlier_periods
+msgid "Earlier periods"
+msgstr "Более ранние периоды"
+
+#: later_periods
+msgid "Later periods"
+msgstr "Более поздние периоды"
+
+#: value_of_data_element_less
+msgid ""
+"The value of the following data element is less than the specified minimum "
+"value."
+msgstr ""
+"Значение следующего элемента данных меньше минимального принятого значения"
+
+#: value_of_data_element_greater
+msgid ""
+"The value of the following data element is greater than the specified "
+"maximum value."
+msgstr ""
+"Значение следующего элемента данных больше ммаксимально принятого значения"
+
+#: saving_value_failed_status_code
+msgid "Saving value failed with status code"
+msgstr "Не удалось сохранить значение, код состояния"
+
+#: saving_value_failed_dataset_is_locked
+msgid "Data set is locked, please contact admin"
+msgstr "Набор данных заблокирован, пожалуйста, свяжитесь с администратором"
+
+#: saving_comment_failed_status_code
+msgid "Saving comment failed with status code"
+msgstr "Не удалось сохранить комментарий с кодом состояния"
+
+#: saving_comment_failed_error_code
+msgid "Saving comment failed with error code"
+msgstr "Не удалось сохранить комментарий с кодом ошибки"
+
+#: saving_minmax_failed_error_code
+msgid "Saving min/max values failed with error code"
+msgstr "Не удалось сохранение мин/макс значений с кодом ошибки"
+
+#: move
+msgid "Move"
+msgstr "Передвинуть"
+
+#: date
+msgid "Date"
+msgstr "Дата"
+
+#: min_limit
+msgid "Min limit"
+msgstr "Мин порог"
+
+#: max_limit
+msgid "Max limit"
+msgstr "Макс порог"
+
+#: dataelement_history
+msgid "Data element history"
+msgstr "История элемента данных"
+
+#: audit_trail
+msgid "Audit trail"
+msgstr ""
+
+#: nr
+msgid "Nr"
+msgstr "Номер"
+
+#: min_max_limits
+msgid "Min-max limits"
+msgstr "Мин-макс пороги"
+
+#: run_validation
+msgid "Run validation"
+msgstr "Запустить проверку"
+
+#: validation_result
+msgid "Validation Result"
+msgstr "Результат проверки"
+
+#: expression
+msgid "Expression"
+msgstr "Выражение"
+
+#: successful_validation
+msgid "The data entry screen successfully passed validation"
+msgstr "Дисплей ввода данных успешно прошел проверку"
+
+#: data_entry_screen_has_following_errors
+msgid ""
+"The data entry screen has the following validation errors, please correct"
+msgstr ""
+"Дисплей ввода данных имеет следующие ошибки проверки, пожалуйста, исправьте "
+"их перед тем, как продолжить"
+
+#: the_following_values_are_outliers
+msgid ""
+"The following values are considered as outliers (min-max or std dev), please "
+"correct"
+msgstr ""
+
+#: the_following_fields_require_comment
+msgid "The following input fields require a comment, please enter"
+msgstr ""
+
+#: the_following_values_violate_rules
+msgid "The following values violate validation rules"
+msgstr "Следующие значения нарушают правила проверки"
+
+#: value
+msgctxt "value"
+msgid "Value"
+msgstr ""
+
+#: operator
+msgid "Operator"
+msgstr "Операция"
+
+#: no_organisationunit_selected
+msgid "No Organisation Unit Selected"
+msgstr "Не выбрано организации"
+
+#: no_period_selected
+msgid "No Period Selected"
+msgstr "Не выбрано периода"
+
+#: no_dataelement_selected
+msgid "No Data Element Selected"
+msgstr "Не выбран элемент данных"
+
+#: dataset_is_locked
+msgid "Data set is locked"
+msgstr "Набор данных заблокирован"
+
+#: complete
+msgid "Complete"
+msgstr "Завершить"
+
+#: incomplete
+msgid "Incomplete"
+msgstr "Незавершен"
+
+#: confirm_complete
+msgid "Are you sure this data set is complete?"
+msgstr "Вы уверены, что этот набор данных завершен?"
+
+#: confirm_undo
+msgid "Are you sure you will undo the registration?"
+msgstr "Вы уверены, что хотите отменить регистрацию?"
+
+#: data_entry
+msgid "Data Entry"
+msgstr "Ввод данных"
+
+#: followup
+msgid "Follow-up"
+msgstr "Дальнейшие действия"
+
+#: validation_rule
+msgid "Validation rule"
+msgstr "Правило проверки"
+
+#: register_complete_dataset_success
+msgid "Registered complete data set"
+msgstr "Зарегистрирован завершенный набор данных"
+
+#: register_complete_dataset_failed
+msgid "Register complete data set failed"
+msgstr "Не удалось зарегистрировать завершенный набор данных"
+
+#: undo_register_complete_dataset_success
+msgid "Undo register complete data set success"
+msgstr "Отменить регистрацию завершенного набора данных"
+
+#: datavalue_history
+msgctxt "datavalue_history"
+msgid "Data value history"
+msgstr ""
+
+#: enter_digits
+msgid "Enter digit only."
+msgstr "Введите только цифру."
+
+#: value_is_too_long
+msgid "Value is too long"
+msgstr "Значение слишком длинное"
+
+#: field_unallowed_save_zero
+msgid ""
+"This element does not permit 0 values. The original value will not be "
+"affected."
+msgstr ""
+"Элемент не позволяет 0 значения. Изначальное значение не будет затронуто."
+
+#: datavalue_history
+msgctxt "datavalue_history"
+msgid "Data value history"
+msgstr ""
+
+#: max_must_be_greater_than_min
+msgid "Max must be greater than min"
+msgstr "Макс должен быть больше, чем мин"
+
+#: next
+msgid "Next"
+msgstr "След"
+
+#: prev
+msgid "Prev"
+msgstr "Пред"
+
+#: select_from_tree
+msgid "Select from tree on the left side"
+msgstr "Выбрать из дерева с левой стороны"
+
+#: select_data_set
+msgid "Select data set"
+msgstr "Выбрать набор данных"
+
+#: select_period
+msgid "Select period"
+msgstr "Пожалуйста выберите период"
+
+#: select_option
+msgid "Select option"
+msgstr ""
+
+#: change_from
+msgid "change from"
+msgstr "изменить с"
+
+#: modification
+msgid "Modification"
+msgstr ""
+
+#: modified_by
+msgid "Modified by"
+msgstr ""
+
+#: to
+msgid "to"
+msgstr "По"
+
+#: on
+msgid "On"
+msgstr "На"
+
+#: value
+msgctxt "value"
+msgid "Value"
+msgstr ""
+
+#: no_response_from_server
+msgid "No response from server, please check connectivity and try again"
+msgstr ""
+"Сервер не отвечает, пожалуйста, проверьте подклюючение и попытайтесь снова"
+
+#: save
+msgid "Save"
+msgstr "Сохранить"
+
+#: save_comment
+msgid "Save comment"
+msgstr "Сохранить комментарий"
+
+#: operation_not_available_offline
+msgid "This operation is not available in off-line mode"
+msgstr "Данная операция не доступна в автономном режиме"
+
+#: mark_value_for_followup
+msgid "Mark value for follow-up"
+msgstr "Отметить значение для дальнейших действий"
+
+#: unmark_value_for_followup
+msgid "Un-mark value for follow-up"
+msgstr "Отменить отметить значение для дальнейших действий"
+
+#: completed_by
+msgid "Completed by"
+msgstr "Завершено (кем)"
+
+#: at
+msgid "at"
+msgstr "в"
+
+#: prev_year
+msgid "Prev year"
+msgstr "Пред. Год"
+
+#: next_year
+msgid "Next year"
+msgstr "След. Год"
+
+#: see_details
+msgid "See details"
+msgstr "Смотреть детали"
+
+#: username
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: user_roles
+msgid "User roles"
+msgstr "Уровень доступа"
+
+#: register_complete_failed_dataset_is_locked
+msgid "Data set is locked, registration failed, please contact admin"
+msgstr ""
+"Данные заблокированы, не удалось зарегистрироваться, пожалуйста, свяжитесь с "
+"администратором"
+
+#: unregister_complete_failed_dataset_is_locked
+msgid "Data set is locked, un-registration failed, please contact admin"
+msgstr ""
+"Данные заблокированы, не удалось отменить регистрацию, пожалуйста, свяжитесь "
+"с администратором"
+
+#: dataelement_with_id
+msgid "Data element with identifier"
+msgstr "Элемент данных с идентификатором"
+
+#: category_option_combo_with_id
+msgid "Category option combination identifier"
+msgstr "Идентификатор опции комбинированной опции"
+
+#: does_not_exist
+msgid "does not exist"
+msgstr "не существует"
+
+#: does_not_exist_in_data_set
+msgid "does not exist in data set"
+msgstr ""
+
+#: insert_input_fields_into_the_form
+msgid "Insert input fields into the form"
+msgstr "Вставьте область ввода в форму"
+
+#: select_data_element
+msgid "Select data element"
+msgstr "Выбрать элемент данных"
+
+#: all_values_for_data_element_must_be_filled
+msgid ""
+"This form requires that all fields for a data element must be filled, please "
+"correct this before continuing."
+msgstr ""
+"Данная форма требует, чтобы все поля для элемента данных были заполнены, "
+"пожалуйста, исправьте это, прежде, чем продолжить."
+
+#: childrens_forms
+msgid "Sub Organisation Units"
+msgstr "Формы для детей"
+
+#: left_side
+msgid "Left side"
+msgstr "Левая сторона"
+
+#: right_side
+msgid "Right side"
+msgstr "Правая сторона"
+
+#: no_periods_click_prev_year_button
+msgid "No periods, click \"Prev year\" button"
+msgstr "Нет периодов, нажать кнопку \"Пред год\""
+
+#: print
+msgid "Print"
+msgstr "Печать"
+
+#: view_comment
+msgid "View comment"
+msgstr "Просмотреть комментарий"
+
+#: no_orgunits
+msgid "No organisation unit attached to current user, no data entry possible"
+msgstr ""
+
+#: validation_rules_are_being_processed_please_wait
+msgid "Validation rules are being processed, please wait"
+msgstr "Обрабатываются правила проверки, пожалуйста, подождитеâ¦"
+
+#: section
+msgid "Section"
+msgstr "Раздел"
+
+#: print_form
+msgid "Print form"
+msgstr ""
+
+#: print_blank_form
+msgid "Print blank form"
+msgstr ""
+
+#: instruction
+msgid "Instruction"
+msgstr ""
+
+#: there_is_no_audit_trail_for_this_value
+msgid "There is no audit trail for this value"
+msgstr ""

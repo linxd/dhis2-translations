@@ -1,0 +1,498 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-dataentry/src/main/resources/org/hisp/dhis/de/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-dataentry/src/main/resources/org/hisp/dhis/de/i18n_module_km.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: dataelement_comment
+msgid "Comment"
+msgstr "មតិយោបល់"
+
+#: history_not_valid
+msgid "No history for this data element"
+msgstr "មិនមានប្រវត្តិនៃទិន្នន័យធាតុដើមទេ"
+
+#: data_element
+msgid "Data element"
+msgstr "ទិន្នន័យធាតុដើម"
+
+#: min
+msgid "Min"
+msgstr "អប្បបរមា"
+
+#: entry
+msgid "Entry"
+msgstr "បញ្ជូល"
+
+#: max
+msgid "Max"
+msgstr "អតិបរមា"
+
+#: timestamp
+msgid "Timestamp"
+msgstr "​ពេលវេលា​"
+
+#: stored_by
+msgid "Stored by"
+msgstr "បានរក្សាទុកដោយ"
+
+#: stored_date
+msgid "Stored date"
+msgstr "បានរក្សាទុកកាលបរិច្ចេទ"
+
+#: last_updated
+msgid "Last updated"
+msgstr "បាន​ធ្វើ​បច្ចុប្បន្នភាព​ចុងក្រោយ"
+
+#: update
+msgid "Update"
+msgstr "ធ្វើ​បច្ចុប្បន្នភាព"
+
+#: delete
+msgid "Delete"
+msgstr "​លុប​"
+
+#: no_value
+msgid "No value"
+msgstr "មិនមានតម្លៃ"
+
+#: maximum
+msgid "Maximum"
+msgstr "អតិបរមា"
+
+#: organisation_unit
+msgid "Organisation Unit"
+msgstr "ផ្នែក​នៃ​អង្គការ"
+
+#: data_set
+msgid "Data Set"
+msgstr "ទិន្នន័យឈុត"
+
+#: select
+msgid "Select"
+msgstr "ជ្រើស​រើស"
+
+#: period
+msgid "Period"
+msgstr "កំឡុងពេល"
+
+#: form_field
+msgid "Form field"
+msgstr "ធាតុក្នុងសំណុំបែបបទ"
+
+#: filter_on_section
+msgid "Filter on section"
+msgstr "តម្រងលើផ្នែក"
+
+#: filter_in_section
+msgid "Filter in section"
+msgstr "តម្រងក្នុងផ្នែក"
+
+#: show_all_sections
+msgid "Show all sections"
+msgstr "បង្ហាញ​គ្រប់ផ្នែក"
+
+#: show_all_items
+msgid "Show all items"
+msgstr "បង្ហាញ​ធាតុ​ទាំងអស់"
+
+#: earlier_periods
+msgid "Earlier periods"
+msgstr "កំឡុងពេលមុន"
+
+#: later_periods
+msgid "Later periods"
+msgstr "កំឡុងពេលក្រោយ"
+
+#: value_of_data_element_less
+msgid ""
+"The value of the following data element is less than the specified minimum "
+"value."
+msgstr ""
+
+#: value_of_data_element_greater
+msgid ""
+"The value of the following data element is greater than the specified "
+"maximum value."
+msgstr ""
+
+#: saving_value_failed_status_code
+msgid "Saving value failed with status code"
+msgstr "ការរក្សាទុកតម្លៃមិនជោគជ័យឡើយដោយបង្ហាញលេខកូដ"
+
+#: saving_value_failed_dataset_is_locked
+msgid "Data set is locked, please contact admin"
+msgstr "ទិន្នន័យឈុតមិនអាចបង្ហាញបានឡើយ សូមទាក់ទងម្ចាស់គេហទំព័រ"
+
+#: saving_comment_failed_status_code
+msgid "Saving comment failed with status code"
+msgstr "ការរក្សាទុកមតិយោបល់មិនជោគជ័យឡើយដោយបង្ហាញលេខកូដ"
+
+#: saving_comment_failed_error_code
+msgid "Saving comment failed with error code"
+msgstr "ការរក្សាទុកមតិយោបល់មិនជោគជ័យឡើយដោយបង្ហាញលេខកូដ"
+
+#: saving_minmax_failed_error_code
+msgid "Saving min/max values failed with error code"
+msgstr "ការរក្សាទុកតម្លៃអប្បបរមា/អតិប្បរមាមិនជោគជ័យឡើយដោយបង្ហាញលេខកូដ"
+
+#: move
+msgid "Move"
+msgstr "​​ផ្លាស់ទី"
+
+#: date
+msgid "Date"
+msgstr "កាលបរិច្ឆេទ"
+
+#: min_limit
+msgid "Min limit"
+msgstr "ដែនកំណត់អប្បបរមា"
+
+#: max_limit
+msgid "Max limit"
+msgstr "កំណត់ដែនអតិប្បរមា"
+
+#: dataelement_history
+msgid "Data element history"
+msgstr ""
+
+#: audit_trail
+msgid "Audit trail"
+msgstr ""
+
+#: nr
+msgid "Nr"
+msgstr ""
+
+#: min_max_limits
+msgid "Min-max limits"
+msgstr "កំណត់ដែនអប្បបរមា-អតិប្បរមា"
+
+#: run_validation
+msgid "Run validation"
+msgstr "ដំណើរការផ្ទៀងផ្ទាត់ឲបានត្រឹមត្រូវ"
+
+#: validation_result
+msgid "Validation Result"
+msgstr "លទ្ធផលពីការផ្ទៀងផ្ទាត់"
+
+#: expression
+msgid "Expression"
+msgstr "កន្សោមប្រមាណវិធី"
+
+#: successful_validation
+msgid "The data entry screen successfully passed validation"
+msgstr "ធ្វើការផ្ទៀងផ្ទាត់នៃផ្ទាំងបញ្ជូលទិន្នន័យរួចរាល់"
+
+#: data_entry_screen_has_following_errors
+msgid ""
+"The data entry screen has the following validation errors, please correct"
+msgstr "ផ្ទាំងបញ្ជូលទិន្នន័យធ្វើការផ្ទៀងផ្ទាត់មានកំហុស សូមធ្វើការកែសំរួល"
+
+#: the_following_values_are_outliers
+msgid ""
+"The following values are considered as outliers (min-max or std dev), please "
+"correct"
+msgstr ""
+"តម្លៃទិន្នន័យហាក់មិនដូចការកំណត់ក្នុងដែនអប្បបរមានិងអតិបរមា សូមធ្វើការកែសម្រួល"
+
+#: the_following_fields_require_comment
+msgid "The following input fields require a comment, please enter"
+msgstr "កន្លែងបញ្ជូលទិន្នន័យតម្រូវឲបញ្ជូលមតិយោបល"
+
+#: the_following_values_violate_rules
+msgid "The following values violate validation rules"
+msgstr "តម្លៃទិន្នន័យដែលបានបញ្ជូលមិនត្រឹមត្រូវក្នុងការកំណត់"
+
+#: value
+msgctxt "value"
+msgid "Value"
+msgstr "តម្លៃ"
+
+#: operator
+msgid "Operator"
+msgstr "សញ្ញា​​​ប្រមាណ​វិធី"
+
+#: no_organisationunit_selected
+msgid "No Organisation Unit Selected"
+msgstr "មិនមានអង្គការណាមួយត្រូវបានជ្រើសរើស"
+
+#: no_period_selected
+msgid "No Period Selected"
+msgstr "មិនមានកាលបរិច្ចេទណាត្រូវបានជ្រើសរើស"
+
+#: no_dataelement_selected
+msgid "No Data Element Selected"
+msgstr "មិនមានទិន្នន័យធាតុដើមណាត្រូវបានជ្រើសរើស"
+
+#: dataset_is_locked
+msgid "Data set is locked"
+msgstr "ទិន្នន័យជាឈុតត្រូវបានបិទមិនឲកែ"
+
+#: complete
+msgid "Complete"
+msgstr "បញ្ចប់"
+
+#: incomplete
+msgid "Incomplete"
+msgstr "មិនទាន់​បញ្ចប់"
+
+#: confirm_complete
+msgid "Are you sure this data set is complete?"
+msgstr "តើអ្នកពិតជាបានបញ្ជូលទិន្នន័យចប់សព្វគ្រប់?"
+
+#: confirm_undo
+msgid "Are you sure you will undo the registration?"
+msgstr "តើអ្នកពិតជាចង់ត្រលប់ក្រោយកន្លែងចុះឈ្មោះម្តងទៀត?"
+
+#: data_entry
+msgid "Data Entry"
+msgstr "ផ្ទាំងបញ្ជូលទិន្នន័យ"
+
+#: followup
+msgid "Follow-up"
+msgstr "តាមដាន"
+
+#: validation_rule
+msgid "Validation rule"
+msgstr "ចងក្បួនផ្ទៀងផ្ទាត់ទិន្នន័យ"
+
+#: register_complete_dataset_success
+msgid "Registered complete data set"
+msgstr ""
+
+#: register_complete_dataset_failed
+msgid "Register complete data set failed"
+msgstr ""
+
+#: undo_register_complete_dataset_success
+msgid "Undo register complete data set success"
+msgstr ""
+
+#: datavalue_history
+msgctxt "datavalue_history"
+msgid "Data value history"
+msgstr "តម្លៃទិន្នន័យពីមុន"
+
+#: enter_digits
+msgid "Enter digit only."
+msgstr "បញ្ចូលបានតែតួរលេខប៉ុណ្ណោះ"
+
+#: value_is_too_long
+msgid "Value is too long"
+msgstr "តម្លៃវែងពេក"
+
+#: field_unallowed_save_zero
+msgid ""
+"This element does not permit 0 values. The original value will not be "
+"affected."
+msgstr ""
+
+#: datavalue_history
+msgctxt "datavalue_history"
+msgid "Data value history"
+msgstr "តម្លៃទិន្នន័យពីមុន"
+
+#: max_must_be_greater_than_min
+msgid "Max must be greater than min"
+msgstr "តម្លៃអតិប្បរមាត្រូវតែធំជាងតម្លៃអប្បបរមា"
+
+#: next
+msgid "Next"
+msgstr "បន្ទាប់"
+
+#: prev
+msgid "Prev"
+msgstr "ពីមុន"
+
+#: select_from_tree
+msgid "Select from tree on the left side"
+msgstr "ជ្រើសរើសរចនាសម្ពន្ធដែលនៅខាងធ្វេង"
+
+#: select_data_set
+msgid "Select data set"
+msgstr "ជ្រើស​រើសទិន្នន័យជាឈុត"
+
+#: select_period
+msgid "Select period"
+msgstr "ជ្រើសរើសកំឡុងពេល"
+
+#: select_option
+msgid "Select option"
+msgstr "កំណត់​ជម្រើស"
+
+#: change_from
+msgid "change from"
+msgstr "ផ្លាស់ពី"
+
+#: modification
+msgid "Modification"
+msgstr "កំណែប្រែ"
+
+#: modified_by
+msgid "Modified by"
+msgstr "កែប្រែ​ដោយ"
+
+#: to
+msgid "to"
+msgstr "ដល់"
+
+#: on
+msgid "On"
+msgstr "បង្ហាញ"
+
+#: value
+msgctxt "value"
+msgid "Value"
+msgstr "តម្លៃ"
+
+#: no_response_from_server
+msgid "No response from server, please check connectivity and try again"
+msgstr ""
+
+#: save
+msgid "Save"
+msgstr "រក្សាទុក​"
+
+#: save_comment
+msgid "Save comment"
+msgstr "រក្សាទុកមតិយោបល់"
+
+#: operation_not_available_offline
+msgid "This operation is not available in off-line mode"
+msgstr ""
+
+#: mark_value_for_followup
+msgid "Mark value for follow-up"
+msgstr ""
+
+#: unmark_value_for_followup
+msgid "Un-mark value for follow-up"
+msgstr ""
+
+#: completed_by
+msgid "Completed by"
+msgstr "បាន​បញ្ចប់ដោយ"
+
+#: at
+msgid "at"
+msgstr "ឯ"
+
+#: prev_year
+msgid "Prev year"
+msgstr "ឆ្នាំមុន"
+
+#: next_year
+msgid "Next year"
+msgstr "ឆ្នាំ​ក្រោយ"
+
+#: see_details
+msgid "See details"
+msgstr "មើលលម្អិត"
+
+#: username
+msgid "Username"
+msgstr "ឈ្មោះគណនី"
+
+#: user_roles
+msgid "User roles"
+msgstr "សិទ្ធិអ្នកប្រើប្រាស់"
+
+#: register_complete_failed_dataset_is_locked
+msgid "Data set is locked, registration failed, please contact admin"
+msgstr ""
+
+#: unregister_complete_failed_dataset_is_locked
+msgid "Data set is locked, un-registration failed, please contact admin"
+msgstr ""
+
+#: dataelement_with_id
+msgid "Data element with identifier"
+msgstr ""
+
+#: category_option_combo_with_id
+msgid "Category option combination identifier"
+msgstr ""
+
+#: does_not_exist
+msgid "does not exist"
+msgstr "មិនមាន​ទេ"
+
+#: does_not_exist_in_data_set
+msgid "does not exist in data set"
+msgstr ""
+
+#: insert_input_fields_into_the_form
+msgid "Insert input fields into the form"
+msgstr ""
+
+#: select_data_element
+msgid "Select data element"
+msgstr ""
+
+#: all_values_for_data_element_must_be_filled
+msgid ""
+"This form requires that all fields for a data element must be filled, please "
+"correct this before continuing."
+msgstr ""
+
+#: childrens_forms
+msgid "Sub Organisation Units"
+msgstr ""
+
+#: left_side
+msgid "Left side"
+msgstr "ផ្នែកខាងឆ្វេង​"
+
+#: right_side
+msgid "Right side"
+msgstr "ផ្នែកខាង​ស្កាំ​​"
+
+#: no_periods_click_prev_year_button
+msgid "No periods, click \"Prev year\" button"
+msgstr "មិនមានកំឡុងពេលសម្រាប់ជ្រើសរើស សូមចុចទៅកំឡុងពេលមុន"
+
+#: print
+msgid "Print"
+msgstr "បោះពុម្ព"
+
+#: view_comment
+msgid "View comment"
+msgstr "មើល​មតិយោបល់"
+
+#: no_orgunits
+msgid "No organisation unit attached to current user, no data entry possible"
+msgstr ""
+
+#: validation_rules_are_being_processed_please_wait
+msgid "Validation rules are being processed, please wait"
+msgstr ""
+
+#: section
+msgid "Section"
+msgstr ""
+
+#: print_form
+msgid "Print form"
+msgstr "បោះពុម្ភសំណុំបែបបទ"
+
+#: print_blank_form
+msgid "Print blank form"
+msgstr "បោះពុម្ភសំណុំបែបបទទទេ"
+
+#: instruction
+msgid "Instruction"
+msgstr "របៀបណែនាំ"
+
+#: there_is_no_audit_trail_for_this_value
+msgid "There is no audit trail for this value"
+msgstr ""

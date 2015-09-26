@@ -1,0 +1,507 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-dataentry/src/main/resources/org/hisp/dhis/de/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-dataentry/src/main/resources/org/hisp/dhis/de/i18n_module_my.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: dataelement_comment
+msgid "Comment"
+msgstr "မှတ်ချက်"
+
+#: history_not_valid
+msgid "No history for this data element"
+msgstr "History is not applied for this dataelement!"
+
+#: data_element
+msgid "Data element"
+msgstr "Data အစိတ်အပိုင်း"
+
+#: min
+msgid "Min"
+msgstr "အနည်းဆုံး"
+
+#: entry
+msgid "Entry"
+msgstr "ရိုက်သွင်းပါ။"
+
+#: max
+msgid "Max"
+msgstr "အများဆုံး"
+
+#: timestamp
+msgid "Timestamp"
+msgstr "လုပ်ဆောင်သည့်အချိန်ပါသည့်တံဆိပ်တုံး/ timestamp"
+
+#: stored_by
+msgid "Stored by"
+msgstr "ဖြင့်သိမ်းဆည်းသည်။"
+
+#: stored_date
+msgid "Stored date"
+msgstr "သိမ်းထားသောနေ့စွဲ"
+
+#: last_updated
+msgid "Last updated"
+msgstr ""
+
+#: update
+msgid "Update"
+msgstr ""
+
+#: delete
+msgid "Delete"
+msgstr ""
+
+#: no_value
+msgid "No value"
+msgstr "တန်ဖိုးမရှိပါ။"
+
+#: maximum
+msgid "Maximum"
+msgstr "အများဆုံး"
+
+#: organisation_unit
+msgid "Organisation Unit"
+msgstr "အဖွဲ့အစည်းယူနစ်"
+
+#: data_set
+msgid "Data Set"
+msgstr "Data အစု"
+
+#: select
+msgid "Select"
+msgstr "ရွေးချယ်ပါ။"
+
+#: period
+msgid "Period"
+msgstr "အချိန်ကာလ"
+
+#: form_field
+msgid "Form field"
+msgstr ""
+
+#: filter_on_section
+msgid "Filter on section"
+msgstr "အခန်းများမှရှာထုတ်သည်"
+
+#: filter_in_section
+msgid "Filter in section"
+msgstr "ဤအခန်းအတွင်းရှာထုတ်သည်"
+
+#: show_all_sections
+msgid "Show all sections"
+msgstr "ပါဝင်သည့် အခန်းများအားလုံးကိုပြသပါ။"
+
+#: show_all_items
+msgid "Show all items"
+msgstr "ပါဝင်သည့် item များအားလုံးကိုပြသပါ။"
+
+#: earlier_periods
+msgid "Earlier periods"
+msgstr "ယခင်က အချိန်များ"
+
+#: later_periods
+msgid "Later periods"
+msgstr "ယခုနောက်ပိုင်းအချိန်များ"
+
+#: value_of_data_element_less
+msgid ""
+"The value of the following data element is less than the specified minimum "
+"value."
+msgstr "အောက်ပါ data အစုတန်ဖိုးမှာ လက်ခံနိုင်သော အနည်းဆုံးတန်ဖိုးထက် နည်းနေသည်။"
+
+#: value_of_data_element_greater
+msgid ""
+"The value of the following data element is greater than the specified "
+"maximum value."
+msgstr "အောက်ပါ data အစုတန်ဖိုးမှာ လက်ခံနိုင်သော အများဆုံးတန်ဖိုးထက် များနေသည်။"
+
+#: saving_value_failed_status_code
+msgid "Saving value failed with status code"
+msgstr "status code ဖြင့် ပြုလုပ်ထားသောတန်ဖိုးမှာ သိမ်း၍မရပါ။"
+
+#: saving_value_failed_dataset_is_locked
+msgid "Data set is locked, please contact admin"
+msgstr "data အစု lock ကျသွားသဖြင့် admin နှင့်ဆက်သွယ်ပါ။"
+
+#: saving_comment_failed_status_code
+msgid "Saving comment failed with status code"
+msgstr "status code ဖြင့် ပြုလုပ်ထားသောမှတ်ချက်မှာ သိမ်း၍မရပါ။"
+
+#: saving_comment_failed_error_code
+msgid "Saving comment failed with error code"
+msgstr "error code ဖြင့် ပြုလုပ်ထားသောမှတ်ချက်မှာ သိမ်း၍မရပါ။"
+
+#: saving_minmax_failed_error_code
+msgid "Saving min/max values failed with error code"
+msgstr ""
+"status code ဖြင့် ပြုလုပ်ထားသော အနည်းဆုံး/အများဆုံး တန်ဖိုးများမှာ "
+"သိမ်း၍မရပါ။"
+
+#: move
+msgid "Move"
+msgstr "ရွှေ့ပါ။"
+
+#: date
+msgid "Date"
+msgstr "ရက်စွဲ"
+
+#: min_limit
+msgid "Min limit"
+msgstr "အနည်းဆုံးကန့်သတ်ချက်"
+
+#: max_limit
+msgid "Max limit"
+msgstr "အများဆုံးကန့်သတ်ချက်"
+
+#: dataelement_history
+msgid "Data element history"
+msgstr "ယခင် data အစိတ်အပိုင်း"
+
+#: audit_trail
+msgid "Audit trail"
+msgstr ""
+
+#: nr
+msgid "Nr"
+msgstr ""
+
+#: min_max_limits
+msgid "Min-max limits"
+msgstr "အနည်းဆုံး−အများဆုံး ကန့်သတ်ချက်များ"
+
+#: run_validation
+msgid "Run validation"
+msgstr "ဆန်းစစ်မှုပြုလုပ်ပါ။"
+
+#: validation_result
+msgid "Validation Result"
+msgstr "ဆန်းစစ်မှုရလဒ်"
+
+#: expression
+msgid "Expression"
+msgstr "ဖော်ပြချက်"
+
+#: successful_validation
+msgid "The data entry screen successfully passed validation"
+msgstr ""
+"ထည့်သွင်းလိုက်သောအချက်အလက်များမှန်ကန်မှုကို အောင်မြင်စွာစစ်ဆေးပြီးစီးသည်။"
+
+#: data_entry_screen_has_following_errors
+msgid ""
+"The data entry screen has the following validation errors, please correct"
+msgstr ""
+"အချက်အလက်ဖြည့်သွင်းခြင်းပဏာမစစ်ဆေးချက်အရ အောက်ပါအမှားများရှိနေ၍ "
+"ရှေ့မဆက်မီသေချာစေရန်ပြန်လည်စစ်ဆေးပေးပါ။"
+
+#: the_following_values_are_outliers
+msgid ""
+"The following values are considered as outliers (min-max or std dev), please "
+"correct"
+msgstr ""
+
+#: the_following_fields_require_comment
+msgid "The following input fields require a comment, please enter"
+msgstr ""
+
+#: the_following_values_violate_rules
+msgid "The following values violate validation rules"
+msgstr ""
+"အောက်ပါတန်ဖိုးတို့သည်မှန်ကန်မှုစစ်ဆေးခြင်းစည်းမျဉ်းများကိုပျက်ပြားစေသည်။"
+
+#: value
+msgctxt "value"
+msgid "Value"
+msgstr ""
+
+#: operator
+msgid "Operator"
+msgstr "ကိုင်တွယ်သူ"
+
+#: no_organisationunit_selected
+msgid "No Organisation Unit Selected"
+msgstr "အဖွဲ့အစည်းယူနစ်ကို မရွေးချယ်ထားပါ။"
+
+#: no_period_selected
+msgid "No Period Selected"
+msgstr "အချိန်ကာလ မရွေးချယ်ထားပါ။"
+
+#: no_dataelement_selected
+msgid "No Data Element Selected"
+msgstr "data အစိတ်အပိုင်း မရွေးချယ်ထားပါ။"
+
+#: dataset_is_locked
+msgid "Data set is locked"
+msgstr "data အစုမှာ lock ကျနေပါသည်။"
+
+#: complete
+msgid "Complete"
+msgstr "ပြည့်စုံသည်။"
+
+#: incomplete
+msgid "Incomplete"
+msgstr "မပြည့်စုံပါ။"
+
+#: confirm_complete
+msgid "Are you sure this data set is complete?"
+msgstr "dataအစု ပြည့်စုံပြီဆိုတာ သေချာပါသလား?"
+
+#: confirm_undo
+msgid "Are you sure you will undo the registration?"
+msgstr "စာရင်းမသွင်းချင်တော့တာ သေချာပါသလား။"
+
+#: data_entry
+msgid "Data Entry"
+msgstr "Data ရိုက်သွင်းပါ။"
+
+#: followup
+msgid "Follow-up"
+msgstr "စောင့်ကြပ်ကြည့်ရှုခြင်း"
+
+#: validation_rule
+msgid "Validation rule"
+msgstr "ဆန်းစစ်မှုစည်းမျဉ်းဥပဒေ"
+
+#: register_complete_dataset_success
+msgid "Registered complete data set"
+msgstr "ပြည့်စုံသော data အစု စာရင်းသွင်းသည်။"
+
+#: register_complete_dataset_failed
+msgid "Register complete data set failed"
+msgstr "ပြည့်စုံသော data အစု စာရင်းသွင်း၍မရပါ။"
+
+#: undo_register_complete_dataset_success
+msgid "Undo register complete data set success"
+msgstr "ပြီးသွားသော data အစု စာရင်းသွင်းခြင်းကို မလုပ်တော့ပါ။"
+
+#: datavalue_history
+msgctxt "datavalue_history"
+msgid "Data value history"
+msgstr ""
+
+#: enter_digits
+msgid "Enter digit only."
+msgstr "ကိန်းဂဏန်းများသာရိုက်ထည့်ပါ။"
+
+#: value_is_too_long
+msgid "Value is too long"
+msgstr "တန်ဖိုးမှာ အလွန်ရှည်လျားနေပါသည်။"
+
+#: field_unallowed_save_zero
+msgid ""
+"This element does not permit 0 values. The original value will not be "
+"affected."
+msgstr ""
+"သုညကိန်းဂဏန်းကို ယခုအမျိုးအစားတွင် ခွင့်မပြုပါ။ မူရင်းတန်ဖိုးကို "
+"အကျိုးသက်ရောက်မည်မဟုတ်ပါ။"
+
+#: datavalue_history
+msgctxt "datavalue_history"
+msgid "Data value history"
+msgstr ""
+
+#: max_must_be_greater_than_min
+msgid "Max must be greater than min"
+msgstr "အများဆုံးတန်ဖိုးသည် အနည်းဆုံးတန်ဖိုးထက်ကြီးနေရမည်။"
+
+#: next
+msgid "Next"
+msgstr "ရှေ့သို့"
+
+#: prev
+msgid "Prev"
+msgstr "နောက်သို့"
+
+#: select_from_tree
+msgid "Select from tree on the left side"
+msgstr "ဘယ်ဖက်တွင်ရှိသော ဝါစဉ်မှရွေးချယ်ပါ။"
+
+#: select_data_set
+msgid "Select data set"
+msgstr "Data အစုမှ ရွေးချယ်ပါ။"
+
+#: select_period
+msgid "Select period"
+msgstr "အချိန်ကာလရွေးချယ်ပါ။"
+
+#: select_option
+msgid "Select option"
+msgstr ""
+
+#: change_from
+msgid "change from"
+msgstr "မှ ပြောင်းလဲပါ။"
+
+#: modification
+msgid "Modification"
+msgstr ""
+
+#: modified_by
+msgid "Modified by"
+msgstr ""
+
+#: to
+msgid "to"
+msgstr "သို့"
+
+#: on
+msgid "On"
+msgstr "တွင်"
+
+#: value
+msgctxt "value"
+msgid "Value"
+msgstr ""
+
+#: no_response_from_server
+msgid "No response from server, please check connectivity and try again"
+msgstr "Serverမှ ပြန်ကြားခြင်းမရှိပါ။ Connection ကိုပြန်လည်စစ်ဆေးပေးပါ။"
+
+#: save
+msgid "Save"
+msgstr "သိမ်းပါ။"
+
+#: save_comment
+msgid "Save comment"
+msgstr "မှတ်ချက်ကိုသိမ်းပါ။"
+
+#: operation_not_available_offline
+msgid "This operation is not available in off-line mode"
+msgstr "Off-line ဖြစ်နေချိန်တွင် ဒီလုပ်ဆောင်မှ အလုပ်မလုပ်ပါ။"
+
+#: mark_value_for_followup
+msgid "Mark value for follow-up"
+msgstr "စောင့်ကြပ်ကြည့်ရှုရန် တန်ဖိုးကို မှတ်သားထားပါ။"
+
+#: unmark_value_for_followup
+msgid "Un-mark value for follow-up"
+msgstr "စောင့်ကြပ်ကြည့်ရှုရန် တန်ဖိုးကို မမှတ်ထားပါ။"
+
+#: completed_by
+msgid "Completed by"
+msgstr "ဖြင့်ပြည့်စုံစေသည်။"
+
+#: at
+msgid "at"
+msgstr "မှာ"
+
+#: prev_year
+msgid "Prev year"
+msgstr "ယခင်နှစ်"
+
+#: next_year
+msgid "Next year"
+msgstr "နောက်နှစ်"
+
+#: see_details
+msgid "See details"
+msgstr "အသေးစိတ် ကြည့်ရှုပါ။"
+
+#: username
+msgid "Username"
+msgstr "အသုံးပြုသူအမည်"
+
+#: user_roles
+msgid "User roles"
+msgstr "အသုံးပြုသူ၏အဆင့်"
+
+#: register_complete_failed_dataset_is_locked
+msgid "Data set is locked, registration failed, please contact admin"
+msgstr "data အစု lock ကျနေပြီး စာရင်းသွင်း၍မရပါသဖြင့် admin နှင့်ဆက်သွယ်ပါ။"
+
+#: unregister_complete_failed_dataset_is_locked
+msgid "Data set is locked, un-registration failed, please contact admin"
+msgstr ""
+"data အစု lock ကျနေပြီး စာရင်းမသွင်းခြင်းမှာ ပြုလုပ်၍မရပါသဖြင့် admin "
+"နှင့်ဆက်သွယ်ပါ။"
+
+#: dataelement_with_id
+msgid "Data element with identifier"
+msgstr "အညွှန်းပါစာတိုင်အမည်"
+
+#: category_option_combo_with_id
+msgid "Category option combination identifier"
+msgstr "အမျိုးအစားကွဲများကို ပေါင်းစပ်ခြင်းအညွှန်း"
+
+#: does_not_exist
+msgid "does not exist"
+msgstr "သင်ရှာနေသောအချက်အလက်မရှိပါ။"
+
+#: does_not_exist_in_data_set
+msgid "does not exist in data set"
+msgstr ""
+
+#: insert_input_fields_into_the_form
+msgid "Insert input fields into the form"
+msgstr "ပုံစံတွင်ဖြည့်သွင်းနိုင်ရန်အကွက်များထည့်ပေးပါ။"
+
+#: select_data_element
+msgid "Select data element"
+msgstr "စာတိုင်အမည်ရွေးချယ်ပါ။"
+
+#: all_values_for_data_element_must_be_filled
+msgid ""
+"This form requires that all fields for a data element must be filled, please "
+"correct this before continuing."
+msgstr ""
+
+#: childrens_forms
+msgid "Sub Organisation Units"
+msgstr "တစ်ဆင့်နိမ့်အစီရင်ခံဌာနသတ်မှတ်ခြင်း"
+
+#: left_side
+msgid "Left side"
+msgstr "ဘယ်ဘက်"
+
+#: right_side
+msgid "Right side"
+msgstr "ယာဘက်"
+
+#: no_periods_click_prev_year_button
+msgid "No periods, click \"Prev year\" button"
+msgstr "အချိန်ကာလမပါပါ။ ယခင်နှစ်သို့ခလုတ်ကို နှိပ်ပါ။"
+
+#: print
+msgid "Print"
+msgstr "Print ထုတ်သည်"
+
+#: view_comment
+msgid "View comment"
+msgstr "မှတ်ချက်များကို ပြန်လည်ကြည့်ရှုသည်"
+
+#: no_orgunits
+msgid "No organisation unit attached to current user, no data entry possible"
+msgstr ""
+
+#: validation_rules_are_being_processed_please_wait
+msgid "Validation rules are being processed, please wait"
+msgstr "ဆန်းစစ်မှုစည်းမျဉ်းဥပဒေ၏လုပ်ဆောင်ချက်ပြုလုပ်နေ၍ခေတ္တစောင့်ပါ။"
+
+#: section
+msgid "Section"
+msgstr "အခန်း/ ကဏ္ဍ"
+
+#: print_form
+msgid "Print form"
+msgstr ""
+
+#: print_blank_form
+msgid "Print blank form"
+msgstr ""
+
+#: instruction
+msgid "Instruction"
+msgstr ""
+
+#: there_is_no_audit_trail_for_this_value
+msgid "There is no audit trail for this value"
+msgstr ""

@@ -1,0 +1,532 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-dashboard-integration/src/main/resources/org/hisp/dhis/dashboard/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-dashboard-integration/src/main/resources/org/hisp/dhis/dashboard/i18n_module_zh.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: dashboard
+msgid "Dashboard"
+msgstr "状态面板"
+
+#: insert
+msgid "Insert"
+msgstr "插入"
+
+#: close
+msgid "Close"
+msgstr "关闭"
+
+#: clear
+msgid "Clear"
+msgstr "清除"
+
+#: rss_health
+msgid "RSS Health"
+msgstr "健康网摘"
+
+#: rss_diseases
+msgid "RSS Diseases"
+msgstr "疾病网摘"
+
+#: report
+msgid "Reports"
+msgstr "报表"
+
+#: document
+msgid "Resources"
+msgstr "文档"
+
+#: report_table
+msgid "Report tables"
+msgstr "报表表"
+
+#: map_view
+msgctxt "map_view"
+msgid "Maps"
+msgstr "地图视图"
+
+#: map
+msgctxt "map"
+msgid "Maps"
+msgstr ""
+
+#: this_is_a_link_area
+msgid "This is a link area"
+msgstr "这是链接区"
+
+#: click_insert_and_select_link
+msgid "Click insert and select links"
+msgstr ""
+
+#: this_is_a_chart_area
+msgid "This is a chart area"
+msgstr "这是图表区，点击“插入”来选择一个图表"
+
+#: click_insert_and_select_chart
+msgid "Click Insert and select a chart"
+msgstr ""
+
+#: insert_links_by_going_to
+msgid "Insert links by going to"
+msgstr "插入链接进入"
+
+#: messages
+msgid "Messages"
+msgstr "消息"
+
+#: sender
+msgid "Sender"
+msgstr "发送人"
+
+#: date
+msgid "Date"
+msgstr "日期"
+
+#: subject
+msgid "Subject"
+msgstr "主题"
+
+#: remove
+msgid "Remove"
+msgstr "移除"
+
+#: write_message
+msgid "Write message"
+msgstr "书写消息"
+
+#: write_feedback
+msgid "Write feedback"
+msgstr "书写反馈"
+
+#: write_new_message
+msgid "Write new message"
+msgstr "新建消息"
+
+#: write_new_feedback
+msgid "Write new feedback"
+msgstr "书写新的反馈"
+
+#: recipients
+msgid "Recipients"
+msgstr "收件人"
+
+#: mark_unread
+msgid "Mark as unread"
+msgstr "标记未读"
+
+#: mark_read
+msgid "Mark as read"
+msgstr ""
+
+#: mark_followup
+msgid "Mark for followup"
+msgstr ""
+
+#: clear_followup
+msgid "Clear followup"
+msgstr ""
+
+#: read
+msgid "Read"
+msgstr "读"
+
+#: delete
+msgid "Delete"
+msgstr ""
+
+#: confirm_delete_message
+msgid "Are you sure you want to delete the message?"
+msgstr "你确信要删除消息？"
+
+#: confirm_delete_all_selected_messages
+msgid "Are you sure you want to delete all selected messages?"
+msgstr ""
+
+#: no_messages_selected
+msgid "No messages selected"
+msgstr ""
+
+#: unread_messages
+msgid "unread messages"
+msgstr "未读消息"
+
+#: unread_message
+msgid "unread message"
+msgstr "未读消息"
+
+#: messages_were_deleted
+msgid "Messages were deleted"
+msgstr ""
+
+#: discard
+msgid "Discard"
+msgstr "放弃"
+
+#: enter_subject
+msgid "Please enter a subject"
+msgstr "输入主题"
+
+#: enter_text
+msgid "Please enter text"
+msgstr "输入文本"
+
+#: reply
+msgid "Reply"
+msgstr "回复"
+
+#: username
+msgid "Username"
+msgstr "用户名"
+
+#: user_roles
+msgid "User roles"
+msgstr "用户角色"
+
+#: user_usergroups
+msgid "User/User Groups"
+msgstr ""
+
+#: select_one_or_more_recipients
+msgid "Select one or more recipients"
+msgstr ""
+
+#: meta_data
+msgid "Meta data"
+msgstr "元数据"
+
+#: sending_message
+msgid "Sending message"
+msgstr "发送消息"
+
+#: explore
+msgid "Explore"
+msgstr "导航"
+
+#: interpretations
+msgid "Interpretations"
+msgstr "注释"
+
+#: share_your_own_interpretations_from
+msgid "Share your own interpretations from"
+msgstr "分享你的注释自"
+
+#: gis
+msgid "GIS"
+msgstr "GIS专题图"
+
+#: pivot_table
+msgid "Pivot table"
+msgstr ""
+
+#: add_a_comment
+msgid "Add a comment"
+msgstr "添加备注"
+
+#: new_interpretations
+msgid "new interpretations"
+msgstr "新建注释"
+
+#: new_interpretation
+msgid "new interpretation"
+msgstr "新注释"
+
+#: click_to_view_report_table
+msgid "Click to view report table"
+msgstr "点击查看报表表"
+
+#: click_to_view_in_data_visualizer
+msgid "Click to view in Data Visualizer"
+msgstr "点击查看可视化数据"
+
+#: click_to_view_in_gis
+msgid "Click to view in GIS"
+msgstr "点击查看GIS专题图"
+
+#: click_to_view_data_set_report
+msgid "Click to view data set report"
+msgstr "点击查看数据集报表"
+
+#: share
+msgid "Share"
+msgstr "分享"
+
+#: write_your_interpretation
+msgid "Write a comment, question or interpretation"
+msgstr "编写你的注释"
+
+#: share_your_interpretation_of
+msgid "Share your interpretation of"
+msgstr "分享你的注释"
+
+#: interpretation_was_shared
+msgid "Interpretation was shared"
+msgstr "注视已经分享"
+
+#: viewing
+msgid "Viewing"
+msgstr "查看"
+
+#: from
+msgid "From"
+msgstr "自"
+
+#: load_favorite_click_share
+msgid "load a favorite and click 'Share' on the top menu"
+msgstr "载入喜好，点击顶部菜单的“分享”"
+
+#: generate_pivot_table_click_share
+msgid "generate a pivot table and click 'Share' on the top menu"
+msgstr ""
+
+#: share_interpretation
+msgid "Share interpretation"
+msgstr "分享注释"
+
+#: select_users_and_user_groups
+msgid "Select users and user groups"
+msgstr ""
+
+#: selected_more_than_200_user
+msgid "You have {userCount} recipients, please reduce to 200 or less"
+msgstr ""
+
+#: generate_data_set_report_click_share
+msgid "generate a data set report and click 'Share' on the top menu"
+msgstr ""
+
+#: data_visualizer
+msgid "Data visualizer"
+msgstr "数据可视化工具"
+
+#: data_set_report
+msgid "Data set report"
+msgstr ""
+
+#: search_for_users_charts_maps_reports
+msgid "Search for users, charts, maps, reports and resources"
+msgstr ""
+
+#: no_hits
+msgid "No hits, try again"
+msgstr ""
+
+#: profile
+msgid "Profile"
+msgstr ""
+
+#: works_as
+msgid "Works as"
+msgstr ""
+
+#: employed_at
+msgid "Employed at"
+msgstr ""
+
+#: interested_in
+msgid "Interested in"
+msgstr ""
+
+#: speaks
+msgid "Speaks"
+msgstr ""
+
+#: email
+msgid "Email"
+msgstr ""
+
+#: phone_number
+msgid "Phone number"
+msgstr ""
+
+#: org_units
+msgid "Org units"
+msgstr ""
+
+#: edit_profile
+msgid "Edit profile"
+msgstr ""
+
+#: inbox
+msgid "Inbox"
+msgstr ""
+
+#: follow_up
+msgid "Follow up"
+msgstr ""
+
+#: unread
+msgid "Unread"
+msgstr ""
+
+#: send_message
+msgid "Send message"
+msgstr ""
+
+#: to
+msgid "To"
+msgstr ""
+
+#: scroll_down
+msgid "Scroll down"
+msgstr ""
+
+#: scroll_up
+msgid "Scroll up"
+msgstr ""
+
+#: latest_interpretations
+msgid "Latest interpretations"
+msgstr ""
+
+#: view_full_profile
+msgid "View full profile"
+msgstr ""
+
+#: view_full_size
+msgid "View full size"
+msgstr ""
+
+#: click_to_explore
+msgid "Click to explore"
+msgstr ""
+
+#: to_org_unit
+msgid "To org unit"
+msgstr ""
+
+#: to_user
+msgid "To user"
+msgstr ""
+
+#: update_profile
+msgid "update profile!"
+msgstr ""
+
+#: or
+msgid "or"
+msgstr ""
+
+#: groups
+msgid "Groups"
+msgstr ""
+
+#: search
+msgid "Search"
+msgstr ""
+
+#: rename_current_dashboard
+msgid "Rename current dashboard"
+msgstr ""
+
+#: delete_current_dashboard
+msgid "Delete current dashboard"
+msgstr ""
+
+#: add_new
+msgid "Add new"
+msgstr ""
+
+#: manage
+msgid "Manage"
+msgstr ""
+
+#: sharing
+msgid "Sharing"
+msgstr ""
+
+#: click_add_new_to_get_started
+msgid "Click 'Add new' to get started"
+msgstr ""
+
+#: add_stuff_by_searching
+msgid "Add stuff by searching from the search field above"
+msgstr ""
+
+#: arrange_dashboard_by_dragging_and_dropping
+msgid "Then arrange dashboard by dragging and dropping items"
+msgstr ""
+
+#: click_to_explore_drag_to_new_position
+msgid "Click to explore or drag to new position"
+msgstr ""
+
+#: click_and_drag_to_new_position
+msgid "Click and drag to new position"
+msgstr ""
+
+#: drag_to_new_position
+msgid "Drag to new position"
+msgstr ""
+
+#: system_notification
+msgid "System notification"
+msgstr ""
+
+#: and
+msgid "and"
+msgstr ""
+
+#: more
+msgid "more"
+msgstr ""
+
+#: see_more_hits
+msgid "See more hits"
+msgstr ""
+
+#: see_fewer_hits
+msgid "See fewer hits"
+msgstr ""
+
+#: add
+msgid "Add"
+msgstr ""
+
+#: resize
+msgid "Resize"
+msgstr ""
+
+#: add_items_to_current_dashboard
+msgid "Add items to current dashboard"
+msgstr ""
+
+#: could_not_delete_interpretation
+msgid "Could not delete interpretation, please try again later"
+msgstr ""
+
+#: could_not_delete_interpretation_comment
+msgid "Could not delete interpretation comment, please try again later"
+msgstr ""
+
+#: could_not_save_interpretation
+msgid "Could not save interpretation, please try again later"
+msgstr ""
+
+#: applies_to_favorites_with_user_org_units_only
+msgid "Applies to favorites with \"user org units\" only"
+msgstr ""
+
+#: user_org_unit_filter
+msgid "User organisation unit filter"
+msgstr ""
+
+#: download
+msgid "Download"
+msgstr ""
+
+#: api_link
+msgid "API link"
+msgstr ""
+
+#: get_as_image
+msgid "Get as image"
+msgstr ""

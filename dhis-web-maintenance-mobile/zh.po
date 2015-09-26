@@ -1,0 +1,628 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-mobile/src/main/resources/org/hisp/dhis/mobile/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-mobile/src/main/resources/org/hisp/dhis/mobile/i18n_module_zh.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: intro_sms_service_configuration
+msgid "Configure SMS service"
+msgstr ""
+
+#: intro_view_sent_sms
+msgid "List and delete SMS which were sent or scheduled in the system."
+msgstr ""
+
+#: intro_show_receive_sms_form
+msgid "List and delete SMS which the system received from other system."
+msgstr ""
+
+#: intro_sms_command_form
+msgid "Create, ppdate, view and delete command of SMS received."
+msgstr ""
+
+#: intro_j2me_client_update
+msgid "J2ME Client Update Configuration "
+msgstr ""
+
+#: patient_mobile_setting
+msgid "Person Mobile Settings"
+msgstr "受益人或病人移动版设置"
+
+#: gender
+msgid "Gender"
+msgstr "性别"
+
+#: dob_type
+msgid "DoB Type"
+msgstr "出生日期类型"
+
+#: date_of_birth
+msgid "Date of Birth"
+msgstr "出生日期"
+
+#: blood_group
+msgid "Blood Group"
+msgstr "血型"
+
+#: registration_date
+msgid "Registration Date"
+msgstr "登记日期"
+
+#: activity_grouping_attribute
+msgid "Activity Grouping Attribute"
+msgstr "活动属性组"
+
+#: available_patient_attributes
+msgid "Available Patient Attributes"
+msgstr "可用病人属性"
+
+#: filter
+msgid "Filter"
+msgstr "过滤器"
+
+#: selected_patient_attributes
+msgid "Selected Patient Attributes"
+msgstr "选择病人属性"
+
+#: available_datasets
+msgid "Available DataSets"
+msgstr "可用数据集"
+
+#: mobile_configuration
+msgid "Mobile Configuration"
+msgstr "移动配置"
+
+#: sms_service_configuration
+msgid "SMS Service Configuration"
+msgstr "短信服务配置"
+
+#: service_status
+msgid "Service Status"
+msgstr "服务状态"
+
+#: status
+msgid "Status"
+msgstr "状态"
+
+#: no.
+msgid "No."
+msgstr "No."
+
+#: delete
+msgid "Delete"
+msgstr "删除"
+
+#: check_all
+msgid "Click Here To Check All"
+msgstr "点击全选"
+
+#: error_delete
+msgid "Please check before delete"
+msgstr "删除前请检查"
+
+#: required_data_error
+msgid "Please fill in required fields (*)"
+msgstr "请填写必须的字段"
+
+#: new_message
+msgid "You have new messages, press F5 to view them"
+msgstr "你有新消息，按F5查看"
+
+#: sms_service_is_runnning
+msgid "SMS Service is running"
+msgstr "短信服务在运行"
+
+#: sms_service_is_stopped
+msgctxt "sms_service_is_stopped"
+msgid "SMS Service is stopped"
+msgstr "短信服务已经停止"
+
+#: reload_configuration
+msgid "Reload Configuration"
+msgstr "重新载入配置"
+
+#: stop_sms_service
+msgid "Stop SMS Service"
+msgstr "停止短信服务"
+
+#: configuration
+msgid "Configuration"
+msgstr "配置"
+
+#: polling_interval_in_seconds
+msgid "Polling interval in seconds"
+msgstr "监听周期秒数"
+
+#: server_phone_number
+msgid "Server Phone Number"
+msgstr "服务器电话号码"
+
+#: gateways
+msgid "Gateways"
+msgstr "网关"
+
+#: operation
+msgid "Operation"
+msgstr "操作"
+
+#: gateway_type
+msgid "Gateway Type"
+msgstr "网关类型"
+
+#: list_sent_SMS
+msgid "List of Sent SMS"
+msgstr "已发送列表"
+
+#: sent
+msgid "Sent"
+msgstr ""
+
+#: all
+msgid "All"
+msgstr ""
+
+#: filter_by_status
+msgid "Filter by Status"
+msgstr ""
+
+#: add_gateway
+msgid "Add Gateway"
+msgstr "添加网关"
+
+#: type
+msgid "Type"
+msgstr "类型"
+
+#: gateway_configuration
+msgid "Gateway Configuration"
+msgstr "网关配置"
+
+#: gateway_name
+msgid "Gateway Name"
+msgstr "网关名称"
+
+#: username
+msgid "User name"
+msgstr "用户名"
+
+#: password
+msgid "Password"
+msgstr "口令"
+
+#: port
+msgid "Port"
+msgstr "端口"
+
+#: baudrate
+msgid "BaudRate"
+msgstr "波特率"
+
+#: manufacturer
+msgid "Manufacturer"
+msgstr "制造商"
+
+#: model
+msgid "Model"
+msgstr "模型"
+
+#: pin
+msgid "PIN"
+msgstr "PIN"
+
+#: inbound
+msgid "Inbound"
+msgstr "入站"
+
+#: outbound
+msgid "Outbound"
+msgstr "出站"
+
+#: api_id
+msgid "API ID"
+msgstr "API ID"
+
+#: outboundsms_saved
+msgid "The gateway details have been saved, but no message was sent."
+msgstr "网关明细已经保存但没有发送消息"
+
+#: save_settings
+msgid "Save Settings"
+msgstr "保存设置"
+
+#: add_gw
+msgid "Add gateway"
+msgstr "添加网关"
+
+#: start_sms_service
+msgid "Start SMS Service"
+msgstr "开始短信服务"
+
+#: show_send_sms_form
+msgid "Send SMS"
+msgstr "显示发送短信表单"
+
+#: bulk_gw
+msgid "BulkSMS Gateway"
+msgstr "批量短信网关"
+
+#: clickatell_gw
+msgid "Clickatell Gateway"
+msgstr "Clicktell网关"
+
+#: generic_http_gw
+msgid "Generic HTTP Gateway"
+msgstr "通用HTTP网关"
+
+#: url_template
+msgid "URL Template"
+msgstr "URL模版"
+
+#: modem_gw
+msgid "Modem Gateway"
+msgstr "Modem网关"
+
+#: add_update_gateway_success
+msgid "The gateway was added/updated successfully."
+msgstr "添加或更新网关成功"
+
+#: add_update_gateway_management
+msgid "Gateway Configuration Management"
+msgstr "添加或更新网关配置管理"
+
+#: confirm_delete_gateway
+msgid "Do you want to delete this gateway configuration?"
+msgstr "你要删除该网关配置？"
+
+#: confirm_delete_sms
+msgid "Do you want to delete this SMS?"
+msgstr "你要删除该短消息？"
+
+#: confirm_delete_items
+msgid "Do you want to delete those items?"
+msgstr "你想删除这些条目？"
+
+#: smsconfiguration_not_available
+msgid "SMS Configuration is not available"
+msgstr "短信服务配置不可用"
+
+#: outboundsmsservice_is_null_or_unable
+msgid "SMS Service is not available or unable to be started."
+msgstr "SMS服务不可用或不能使用"
+
+#: service_started
+msgid "SMS Service is started"
+msgstr "短信服务已经启动"
+
+#: service_starting
+msgid "SMS Service is starting"
+msgstr "正在启动短信服务"
+
+#: service_stopped
+msgctxt "service_stopped"
+msgid "SMS Service is stopped"
+msgstr "短信服务已经停止"
+
+#: service_stopping
+msgid "SMS Service is stopping"
+msgstr "短信服务已经停止"
+
+#: message
+msgid "Message"
+msgstr "消息"
+
+#: show_receive_sms_form
+msgid "View Received SMS"
+msgstr "接收短消息"
+
+#: update_success
+msgid "Update Successfully"
+msgstr "更新成功"
+
+#: config_my_gateway
+msgid "Configure My Gateway"
+msgstr "配置我的网关"
+
+#: delete_checked_option
+msgid "Delete Checked Options"
+msgstr "删除选中的选项"
+
+#: import
+msgid "Import"
+msgstr "导入"
+
+#: unable_load_gateway
+msgid "Unable to load gateway"
+msgstr "不能载入网关"
+
+#: unable_start_smslib_service
+msgid "Unable to start smsLib service"
+msgstr "不能开始smsLib服务"
+
+#: unable_stop_smslib_service
+msgid "Unable to stop smsLib service"
+msgstr "不能停止SmsLib服务"
+
+#: sms_unable_or_there_is_no_gateway_service_not_started
+msgid ""
+"SMS Service is not enabled or no gateway has been specified.\n"
+"SMS Service will not be started."
+msgstr "短信服务不能用或没有任何短信网关，不能开始服务"
+
+#: unable_load_configuration_cause_of_there_is_no_gateway
+msgid "Unable to load the configuration because there is no gateway."
+msgstr "不能载入配置，没有任何网关"
+
+#: sms_configuration_not_initialized
+msgid ""
+"SMS Service is not initialized.\n"
+"Please fill in two fields as below then click \"Save Settings\"."
+msgstr "短信服务没有初始化，请填充下列字段后点击保存设置。"
+
+#: sms_command_form
+msgid "SMS Commands"
+msgstr "SMS命令"
+
+#: add_command
+msgid "Add command"
+msgstr "添加命令"
+
+#: command_details
+msgid "Command Details"
+msgstr "命令详情"
+
+#: region
+msgid "Region"
+msgstr "地区"
+
+#: international
+msgid "International"
+msgstr "国际"
+
+#: uk
+msgid "United Kingdom"
+msgstr "英联邦"
+
+#: south_africa
+msgid "South Africa"
+msgstr "南非"
+
+#: spain
+msgid "Spain"
+msgstr "西班牙"
+
+#: usa
+msgid "USA"
+msgstr "美国"
+
+#: germany
+msgid "Germany"
+msgstr "德国"
+
+#: j2me_client_update
+msgid "J2ME Client Update"
+msgstr "J2ME客户端更新"
+
+#: j2me_client_update_config
+msgid "J2ME Client Update Configuration"
+msgstr "J2ME客户端更新配置"
+
+#: auto_update_client
+msgid "Automatic update for J2ME clients"
+msgstr "自动更新J2ME客户"
+
+#: client_older_than
+msgid "Update to clients older than version"
+msgstr "更新客户端版本早于"
+
+#: smpp_gw
+msgid "SMPP gateway"
+msgstr "SMPP网关"
+
+#: processing
+msgid "Processing"
+msgstr ""
+
+#: mark_as_default
+msgid "Mark as default"
+msgstr ""
+
+#: view_sent_sms
+msgid "View Sent SMS"
+msgstr ""
+
+#: receipient
+msgid "Recipient"
+msgstr ""
+
+#: action
+msgid "Action"
+msgstr ""
+
+#: incoming
+msgid "Incoming"
+msgstr ""
+
+#: processed
+msgid "Processed"
+msgstr ""
+
+#: failed
+msgid "Failed"
+msgstr ""
+
+#: unhandled
+msgid "Unhandled"
+msgstr ""
+
+#: reimport_confirm
+msgid "Are you sure you want to re-import this SMS?"
+msgstr ""
+
+#: edit_command
+msgid "Edit SMS command"
+msgstr "编辑短信命令"
+
+#: data_element_category_combination
+msgid "Data Element Category Combination"
+msgstr "数据元分类组合"
+
+#: sms_command_validation_alert
+msgid "Fix validation problems before you save"
+msgstr "保存前解决有效性问题"
+
+#: command_management
+msgid "Command management"
+msgstr "命令管理"
+
+#: dataset
+msgid "Data set"
+msgstr "数据集"
+
+#: parser
+msgid "Parser"
+msgstr ""
+
+#: userGroup
+msgid "User Group"
+msgstr ""
+
+#: selected_dataset
+msgid "Selected data set"
+msgstr "选择的数据集"
+
+#: code_value_separator
+msgid "Code and value Separator"
+msgstr "代码和值分隔符"
+
+#: no_codes_message
+msgid "Reply message if no codes are sent (only the command)"
+msgstr "没有代码发送时的应答消息"
+
+#: validation_error_space
+msgid "*White space not allowed"
+msgstr "*空格不允许"
+
+#: key_value_parser
+msgctxt "key_value_parser"
+msgid "Key Value Parser"
+msgstr ""
+
+#: j2me_parser
+msgctxt "j2me_parser"
+msgid "J2ME Parser"
+msgstr ""
+
+#: mobile_phones_pattern
+msgid "Mobile Phones Pattern"
+msgstr ""
+
+#: phone_number
+msgid "Phone Number"
+msgstr "电话号码"
+
+#: filter_by_phone_number
+msgid "Filter by Phone Number"
+msgstr ""
+
+#: total_number_of_result
+msgid "Total Number of Result"
+msgstr ""
+
+#: special_characters
+msgid "Special Characters"
+msgstr ""
+
+#: value
+msgid "Value"
+msgstr ""
+
+#: add_more
+msgid "Add More"
+msgstr ""
+
+#: program
+msgid "Program"
+msgstr ""
+
+#: KEY_VALUE_PARSER
+msgctxt "KEY_VALUE_PARSER"
+msgid "Key Value Parser"
+msgstr ""
+
+#: J2ME_PARSER
+msgctxt "J2ME_PARSER"
+msgid "J2ME Parser"
+msgstr ""
+
+#: ALERT_PARSER
+msgid "Alert Parser"
+msgstr ""
+
+#: UNREGISTERED_PARSER
+msgid "Unregistered Parser"
+msgstr ""
+
+#: ANONYMOUS_PROGRAM_PARSER
+msgid "Anonymous Program Parser"
+msgstr ""
+
+#: wrong_format_message
+msgid "Wrong format message"
+msgstr ""
+
+#: no_user_message
+msgid "No user message"
+msgstr ""
+
+#: more_than_one_orgunit_message
+msgid "User belong to more than one OrgUnit message"
+msgstr ""
+
+#: completeness_method
+msgid "Completeness method"
+msgstr ""
+
+#: receive_at_least_one_datavalue
+msgid "Receive at least one data value"
+msgstr ""
+
+#: do_not_mark_complete
+msgid "Do not mark as complete"
+msgstr ""
+
+#: receive_all_datavalue
+msgid "Receive all data value"
+msgstr ""
+
+#: success_message
+msgid "Success Message"
+msgstr ""
+
+#: confirm_delete_command
+msgid "Are you sure you want to delete this command?"
+msgstr ""
+
+#: confirm_message
+msgid "Confirm Message"
+msgstr ""
+
+#: TRACKED_ENTITY_REGISTRATION_PARSER
+msgid "Tracked entity registration parser"
+msgstr ""
+
+#: tracked_entity_attribute
+msgid "Tracked entity attribute"
+msgstr ""
+
+#: name_in_used
+msgid "Name is in use"
+msgstr ""

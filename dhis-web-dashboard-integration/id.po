@@ -1,0 +1,532 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-dashboard-integration/src/main/resources/org/hisp/dhis/dashboard/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-dashboard-integration/src/main/resources/org/hisp/dhis/dashboard/i18n_module_id.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: dashboard
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: insert
+msgid "Insert"
+msgstr "Sisipkan"
+
+#: close
+msgid "Close"
+msgstr "Menutup"
+
+#: clear
+msgid "Clear"
+msgstr "Hapus"
+
+#: rss_health
+msgid "RSS Health"
+msgstr "RSS Kesehatan"
+
+#: rss_diseases
+msgid "RSS Diseases"
+msgstr "RSS Penyakit"
+
+#: report
+msgid "Reports"
+msgstr "Laporan"
+
+#: document
+msgid "Resources"
+msgstr "Sumber Data"
+
+#: report_table
+msgid "Report tables"
+msgstr ""
+
+#: map_view
+msgctxt "map_view"
+msgid "Maps"
+msgstr "Peta"
+
+#: map
+msgctxt "map"
+msgid "Maps"
+msgstr "Peta"
+
+#: this_is_a_link_area
+msgid "This is a link area"
+msgstr "Link Area"
+
+#: click_insert_and_select_link
+msgid "Click insert and select links"
+msgstr "Klik sisipkan dan pilih link yang akan dituju"
+
+#: this_is_a_chart_area
+msgid "This is a chart area"
+msgstr "Area untuk menampilkan grafik"
+
+#: click_insert_and_select_chart
+msgid "Click Insert and select a chart"
+msgstr "Klik insert dan pilih grafik"
+
+#: insert_links_by_going_to
+msgid "Insert links by going to"
+msgstr "Sisipkan link yang akan dituju"
+
+#: messages
+msgid "Messages"
+msgstr "Pesan"
+
+#: sender
+msgid "Sender"
+msgstr "Pengirim"
+
+#: date
+msgid "Date"
+msgstr "Tanggal"
+
+#: subject
+msgid "Subject"
+msgstr "Subyek"
+
+#: remove
+msgid "Remove"
+msgstr "Pindahkan"
+
+#: write_message
+msgid "Write message"
+msgstr "Tulis pesan"
+
+#: write_feedback
+msgid "Write feedback"
+msgstr "Tuliskan tanggapan"
+
+#: write_new_message
+msgid "Write new message"
+msgstr "Tulis pesan baru"
+
+#: write_new_feedback
+msgid "Write new feedback"
+msgstr "Tuliskan tanggapan baru"
+
+#: recipients
+msgid "Recipients"
+msgstr "Penerima"
+
+#: mark_unread
+msgid "Mark as unread"
+msgstr "Menandai yang belum terbaca"
+
+#: mark_read
+msgid "Mark as read"
+msgstr ""
+
+#: mark_followup
+msgid "Mark for followup"
+msgstr ""
+
+#: clear_followup
+msgid "Clear followup"
+msgstr ""
+
+#: read
+msgid "Read"
+msgstr "Baca"
+
+#: delete
+msgid "Delete"
+msgstr ""
+
+#: confirm_delete_message
+msgid "Are you sure you want to delete the message?"
+msgstr "Apakah Anda yakin akan menghapus pesan ini?"
+
+#: confirm_delete_all_selected_messages
+msgid "Are you sure you want to delete all selected messages?"
+msgstr ""
+
+#: no_messages_selected
+msgid "No messages selected"
+msgstr ""
+
+#: unread_messages
+msgid "unread messages"
+msgstr "Pesan yang belum terbaca"
+
+#: unread_message
+msgid "unread message"
+msgstr "Pesan yang belum terbaca"
+
+#: messages_were_deleted
+msgid "Messages were deleted"
+msgstr ""
+
+#: discard
+msgid "Discard"
+msgstr "Buang"
+
+#: enter_subject
+msgid "Please enter a subject"
+msgstr "Silakan memasukkan subyek"
+
+#: enter_text
+msgid "Please enter text"
+msgstr "Masukkan tulisan"
+
+#: reply
+msgid "Reply"
+msgstr "Balas"
+
+#: username
+msgid "Username"
+msgstr "Username"
+
+#: user_roles
+msgid "User roles"
+msgstr "Peran pengguna"
+
+#: user_usergroups
+msgid "User/User Groups"
+msgstr "Kelompok/Grup pengguna"
+
+#: select_one_or_more_recipients
+msgid "Select one or more recipients"
+msgstr "Pilih satu atau lebih penerima"
+
+#: meta_data
+msgid "Meta data"
+msgstr "Meta data"
+
+#: sending_message
+msgid "Sending message"
+msgstr "Kirim pesan"
+
+#: explore
+msgid "Explore"
+msgstr "Jelajah"
+
+#: interpretations
+msgid "Interpretations"
+msgstr "Penafsiran"
+
+#: share_your_own_interpretations_from
+msgid "Share your own interpretations from"
+msgstr "Bagikan penafsiran anda"
+
+#: gis
+msgid "GIS"
+msgstr "SIG"
+
+#: pivot_table
+msgid "Pivot table"
+msgstr ""
+
+#: add_a_comment
+msgid "Add a comment"
+msgstr "Tambahkan komentar"
+
+#: new_interpretations
+msgid "new interpretations"
+msgstr "Penafsiran baru"
+
+#: new_interpretation
+msgid "new interpretation"
+msgstr "Penafsiran baru"
+
+#: click_to_view_report_table
+msgid "Click to view report table"
+msgstr "Klik disini untuk melihat tampilan tabel laporan"
+
+#: click_to_view_in_data_visualizer
+msgid "Click to view in Data Visualizer"
+msgstr "Klik disini untuk melihat tampilan data"
+
+#: click_to_view_in_gis
+msgid "Click to view in GIS"
+msgstr "Klik disini untuk melihat tampilan dalam SIG"
+
+#: click_to_view_data_set_report
+msgid "Click to view data set report"
+msgstr "Klik disini untuk melihat laporan data set"
+
+#: share
+msgid "Share"
+msgstr "Bagikan"
+
+#: write_your_interpretation
+msgid "Write a comment, question or interpretation"
+msgstr "Tulis komentar, pertanyaan, atau penafsiran"
+
+#: share_your_interpretation_of
+msgid "Share your interpretation of"
+msgstr "Bagikan penafsiran Anda"
+
+#: interpretation_was_shared
+msgid "Interpretation was shared"
+msgstr "Penafsiran telah dibagikan "
+
+#: viewing
+msgid "Viewing"
+msgstr "Menampilkan"
+
+#: from
+msgid "From"
+msgstr "Dari"
+
+#: load_favorite_click_share
+msgid "load a favorite and click 'Share' on the top menu"
+msgstr "Tampilkan favorit dan klik 'bagikan' pada tampilan atas menu"
+
+#: generate_pivot_table_click_share
+msgid "generate a pivot table and click 'Share' on the top menu"
+msgstr ""
+
+#: share_interpretation
+msgid "Share interpretation"
+msgstr "Bagikan penafsiran"
+
+#: select_users_and_user_groups
+msgid "Select users and user groups"
+msgstr "Pilih pengguna dan grup pengguna"
+
+#: selected_more_than_200_user
+msgid "You have {userCount} recipients, please reduce to 200 or less"
+msgstr ""
+
+#: generate_data_set_report_click_share
+msgid "generate a data set report and click 'Share' on the top menu"
+msgstr "Buat laporan data set dan klik 'bagikan pada tampilan atas menu"
+
+#: data_visualizer
+msgid "Data visualizer"
+msgstr ""
+
+#: data_set_report
+msgid "Data set report"
+msgstr "Laporan set data"
+
+#: search_for_users_charts_maps_reports
+msgid "Search for users, charts, maps, reports and resources"
+msgstr "Pencarian pengguna, grafik, peta, dan laporan"
+
+#: no_hits
+msgid "No hits, try again"
+msgstr "Tidak ada temuan, coba lagi"
+
+#: profile
+msgid "Profile"
+msgstr "Profil"
+
+#: works_as
+msgid "Works as"
+msgstr "Jabatan"
+
+#: employed_at
+msgid "Employed at"
+msgstr "Asal institusi"
+
+#: interested_in
+msgid "Interested in"
+msgstr "Minat"
+
+#: speaks
+msgid "Speaks"
+msgstr "Bahasa"
+
+#: email
+msgid "Email"
+msgstr "Email"
+
+#: phone_number
+msgid "Phone number"
+msgstr "No.Telp"
+
+#: org_units
+msgid "Org units"
+msgstr "Unit Organisasi"
+
+#: edit_profile
+msgid "Edit profile"
+msgstr "Ubah Profil"
+
+#: inbox
+msgid "Inbox"
+msgstr "Kotak Masuk"
+
+#: follow_up
+msgid "Follow up"
+msgstr "Tindak lanjut"
+
+#: unread
+msgid "Unread"
+msgstr "Belum dibaca"
+
+#: send_message
+msgid "Send message"
+msgstr "Kirim pesan"
+
+#: to
+msgid "To"
+msgstr "Untuk"
+
+#: scroll_down
+msgid "Scroll down"
+msgstr "Tarik ke bawah"
+
+#: scroll_up
+msgid "Scroll up"
+msgstr "Tarik ke atas"
+
+#: latest_interpretations
+msgid "Latest interpretations"
+msgstr "Penafsiran terbaru"
+
+#: view_full_profile
+msgid "View full profile"
+msgstr "Lihat profil lengkap"
+
+#: view_full_size
+msgid "View full size"
+msgstr "Tampilkan ukuran penuh"
+
+#: click_to_explore
+msgid "Click to explore"
+msgstr "Klik untuk menjelajah"
+
+#: to_org_unit
+msgid "To org unit"
+msgstr "ke unit kerja"
+
+#: to_user
+msgid "To user"
+msgstr "ke pengguna"
+
+#: update_profile
+msgid "update profile!"
+msgstr "Perbarui profil!"
+
+#: or
+msgid "or"
+msgstr "atau"
+
+#: groups
+msgid "Groups"
+msgstr "Grup"
+
+#: search
+msgid "Search"
+msgstr ""
+
+#: rename_current_dashboard
+msgid "Rename current dashboard"
+msgstr ""
+
+#: delete_current_dashboard
+msgid "Delete current dashboard"
+msgstr ""
+
+#: add_new
+msgid "Add new"
+msgstr ""
+
+#: manage
+msgid "Manage"
+msgstr ""
+
+#: sharing
+msgid "Sharing"
+msgstr ""
+
+#: click_add_new_to_get_started
+msgid "Click 'Add new' to get started"
+msgstr ""
+
+#: add_stuff_by_searching
+msgid "Add stuff by searching from the search field above"
+msgstr ""
+
+#: arrange_dashboard_by_dragging_and_dropping
+msgid "Then arrange dashboard by dragging and dropping items"
+msgstr ""
+
+#: click_to_explore_drag_to_new_position
+msgid "Click to explore or drag to new position"
+msgstr ""
+
+#: click_and_drag_to_new_position
+msgid "Click and drag to new position"
+msgstr ""
+
+#: drag_to_new_position
+msgid "Drag to new position"
+msgstr ""
+
+#: system_notification
+msgid "System notification"
+msgstr ""
+
+#: and
+msgid "and"
+msgstr ""
+
+#: more
+msgid "more"
+msgstr ""
+
+#: see_more_hits
+msgid "See more hits"
+msgstr ""
+
+#: see_fewer_hits
+msgid "See fewer hits"
+msgstr ""
+
+#: add
+msgid "Add"
+msgstr ""
+
+#: resize
+msgid "Resize"
+msgstr ""
+
+#: add_items_to_current_dashboard
+msgid "Add items to current dashboard"
+msgstr ""
+
+#: could_not_delete_interpretation
+msgid "Could not delete interpretation, please try again later"
+msgstr ""
+
+#: could_not_delete_interpretation_comment
+msgid "Could not delete interpretation comment, please try again later"
+msgstr ""
+
+#: could_not_save_interpretation
+msgid "Could not save interpretation, please try again later"
+msgstr ""
+
+#: applies_to_favorites_with_user_org_units_only
+msgid "Applies to favorites with \"user org units\" only"
+msgstr ""
+
+#: user_org_unit_filter
+msgid "User organisation unit filter"
+msgstr ""
+
+#: download
+msgid "Download"
+msgstr ""
+
+#: api_link
+msgid "API link"
+msgstr ""
+
+#: get_as_image
+msgid "Get as image"
+msgstr ""

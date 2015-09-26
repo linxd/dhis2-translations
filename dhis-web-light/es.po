@@ -1,0 +1,626 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-light/src/main/resources/org/hisp/dhis/light/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-light/src/main/resources/org/hisp/dhis/light/i18n_module_es.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: DHIS_2
+msgid "DHIS2"
+msgstr ""
+
+#: menu
+msgid "Menu"
+msgstr "Menú"
+
+#: home
+msgid "Home"
+msgstr "Inicio"
+
+#: navigate_to
+msgid "Navigate to"
+msgstr "Navegar"
+
+#: reports
+msgid "Reports"
+msgstr "Reportes"
+
+#: charts
+msgid "Charts"
+msgstr "Gráficas"
+
+#: documents
+msgid "Documents"
+msgstr "Documentos"
+
+#: dashboard
+msgid "Dashboard"
+msgstr "Cuadro de Mandos"
+
+#: dashboard_reports
+msgid "Dashboard reports"
+msgstr "Reportes del panel de control"
+
+#: dashboard_charts
+msgid "Dashboard charts"
+msgstr "Gráficas del panel de control"
+
+#: dashboard_documents
+msgid "Dashboard documents"
+msgstr "Documentos del panel de control"
+
+#: data_entry
+msgid "Data Entry"
+msgstr "Introducir datos"
+
+#: namebased_data_entry
+msgid "Namebased Data Entry"
+msgstr "Entrada de datos basada en nombre"
+
+#: data_entry_overview
+msgid "Data Entry Overview"
+msgstr "Visión general de entrada de datos"
+
+#: logout
+msgid "Logout"
+msgstr "Cerrar sesión"
+
+#: desktop_version
+msgid "Desktop version"
+msgstr "Version escritorio"
+
+#: report_table_parameters
+msgid "Report parameters"
+msgstr "Parámetros de Reporte"
+
+#: get_report
+msgid "Get report"
+msgstr "Generar reporte"
+
+#: reporting_period
+msgid "Report period"
+msgstr "Periodo del reporte"
+
+#: select_organisation_unit
+msgid "Please select organisation unit"
+msgstr "Por favor, selecione una unidad organizativa"
+
+#: available_datasets
+msgid "Available data sets"
+msgstr "Sets de datos disponibles"
+
+#: available_organisation_units
+msgid "Available organisation units"
+msgstr "Unidades organizativas disponibles"
+
+#: available_periods
+msgid "Available periods"
+msgstr "Periodos disponibles"
+
+#: settings
+msgid "Settings"
+msgstr "Ajustes"
+
+#: language
+msgid "Interface Language"
+msgstr "Idioma de la interfaz"
+
+#: is_invalid_boolean
+msgid "is not a valid boolean"
+msgstr "booleano invalido"
+
+#: is_invalid_date
+msgid "is not a valid date (yyyy-MM-dd)"
+msgstr "fecha inválida (yyyy-MM-dd)"
+
+#: is_invalid_number
+msgid "is not a valid number"
+msgstr "número inválido"
+
+#: is_invalid_integer
+msgid "is not a valid integer"
+msgstr "entero inválido"
+
+#: is_invalid_positive_integer
+msgid "is not a valid positive integer"
+msgstr "entero positivo inválido"
+
+#: is_invalid_zero_or_positive_integer
+msgid "is not a valid zero or positive integer"
+msgstr ""
+
+#: is_invalid_negative_integer
+msgid "is not a valid negative integer"
+msgstr "entero negativo inválido"
+
+#: is_invalid_name
+msgid "is not a valid name"
+msgstr "el nombre no es válido"
+
+#: is_invalid_name_length
+msgid "needs to be 7 or more characters"
+msgstr "se necesitan 7 caracteres o mas"
+
+#: is_mandatory
+msgid "is a mandatory field"
+msgstr "es un campo obligatorio"
+
+#: is_duplicate
+msgid "person identifier number is duplicated"
+msgstr "el número de identificador está duplicado"
+
+#: warnings_and_errors
+msgid "Warnings and errors"
+msgstr "Avisos y errores"
+
+#: validation_rule_violation_warnings
+msgid "Validation Rule Violation Warnings"
+msgstr "Avisos de violación de regla de validación"
+
+#: minmax_violation_warnings
+msgid "Min/Max Violation Warnings"
+msgstr "Min/Max aviso de violación"
+
+#: type_violation_errors
+msgid "Type Violation Errors"
+msgstr "Errores de tipo de violación"
+
+#: messages
+msgid "Messages"
+msgstr "Mensajes"
+
+#: conversations
+msgid "Conversations"
+msgstr "Conversaciones"
+
+#: subject
+msgid "Subject"
+msgstr "Asunto"
+
+#: reply
+msgid "Reply"
+msgstr "Responder"
+
+#: form_complete
+msgid "Form complete"
+msgstr "Formulario completo"
+
+#: completed
+msgid "Completed"
+msgstr "Completado"
+
+#: complete_programs
+msgid "Completed Programs"
+msgstr "Programas Completos"
+
+#: saved_section
+msgid "Saved Section"
+msgstr "Sección guardada"
+
+#: sections
+msgid "Sections"
+msgstr "Secciones"
+
+#: current_activityplan
+msgid "Current Activity Plan"
+msgstr "Plan actual de actividad"
+
+#: all_activityplan
+msgid "All Activity Plan"
+msgstr "Todo el plan de actividad"
+
+#: activity_type
+msgid "Activity Type"
+msgstr "Tipo de activid"
+
+#: beneficiary_list
+msgid "Person List"
+msgstr "Lista de personas"
+
+#: activity_list
+msgid "Activity List"
+msgstr "Lista de actividades"
+
+#: successfully_saved
+msgid "Successfully Saved"
+msgstr "Guardado correctamente"
+
+#: select_option
+msgid "Select Option"
+msgstr "Seleccionar opción"
+
+#: option_set_searching_result
+msgid "Option Set Searching Result"
+msgstr "Resultado de Búsqueda de Set de Opciones"
+
+#: search_for
+msgid "Searching for"
+msgstr "Buscando"
+
+#: id
+msgid "ID"
+msgstr "Identificador"
+
+#: gender
+msgid "Gender"
+msgstr "Género"
+
+#: date_of_birth
+msgid "Date of Birth"
+msgstr "Fecha de nacimiento"
+
+#: blood_group
+msgid "Blood Group"
+msgstr "Grupo sanguíneo"
+
+#: details_for
+msgid "Detail For"
+msgstr "Detalles de"
+
+#: organisation_unit
+msgctxt "organisation_unit"
+msgid "Organisation Unit"
+msgstr "Unidad Organizativa"
+
+#: beneficiary_registration
+msgid "Person Registration"
+msgstr "Registro de Personas"
+
+#: full_name
+msgid "Full Name"
+msgstr "Nombre completo"
+
+#: male
+msgid "Male"
+msgstr "Masculino"
+
+#: female
+msgid "Female"
+msgstr "Femenino"
+
+#: transgender
+msgid "Transgender"
+msgstr "Transexual"
+
+#: is_empty
+msgid "Empty Field"
+msgstr "Campo vacío"
+
+#: beneficiary_enrollment
+msgid "Person Enrollment"
+msgstr "Inscripción de personas"
+
+#: beneficiary_search
+msgid "Person Search"
+msgstr "Búsqueda de personas"
+
+#: beneficiary_name
+msgid "Person Name"
+msgstr "Nombre"
+
+#: search_result_for
+msgid "Search Result for"
+msgstr "Resultado de la búsqueda para"
+
+#: search
+msgid "Search"
+msgstr "Buscar"
+
+#: enrolled_programs
+msgid "Enrolled Program(s)"
+msgstr "Programa(s) en que está registrado"
+
+#: other_programs
+msgid "Other Programs"
+msgstr "Otros Programas"
+
+#: available_programs
+msgid "Available Programs"
+msgstr "Programas disponibles"
+
+#: no_enrolled_programs
+msgid "No Enrolled Programs"
+msgstr "Programas en los que no está registrado"
+
+#: no_completed_programs
+msgid "No Completed Programs"
+msgstr "Programas no completados"
+
+#: enroll
+msgid "Enroll"
+msgstr "Dar de alta"
+
+#: enrollment_date
+msgid "Enrollment Date"
+msgstr "Fecha de alta"
+
+#: incident_date
+msgid "Incident Date"
+msgstr "Fecha del Incidente"
+
+#: program_list
+msgid "Program List"
+msgstr "Lista de Programas"
+
+#: single_event
+msgid "Single Event"
+msgstr "Evento aislado"
+
+#: single_event_list
+msgid "Single Event List"
+msgstr "Listado de Eventos aislados"
+
+#: back_single_event_form
+msgid "Back To Single Event Form"
+msgstr "Volver al Formulario de Evento Simple"
+
+#: tracking
+msgid "Tracking"
+msgstr "Seguimiento"
+
+#: find_beneficiary
+msgid "Find Person"
+msgstr "Buscar persona"
+
+#: activity_plan
+msgid "Activity Plan"
+msgstr "Plan de Actividad"
+
+#: search_by_name_or_id
+msgid "Search By Name or ID or Phone Number"
+msgstr "Buscar por Nombre, ID o número de teléfono"
+
+#: select_orgunit
+msgid "Select Organisation Unit"
+msgstr "Seleccionar Unidad Organizativa"
+
+#: all_orgunit
+msgid "All Organisation Unit"
+msgstr "Todas las Unidades Organizativas"
+
+#: tracking_menu
+msgid "Tracking Menu"
+msgstr "Menú de Seguimiento"
+
+#: due_date
+msgid "Due Date"
+msgstr "Fecha de Vencimiento"
+
+#: register_due_date_for
+msgid "Register Due Date For"
+msgstr "Registrar Fecha de Vencimiento Para"
+
+#: schedule
+msgid "Schedule"
+msgstr "Programar"
+
+#: schedule_visit
+msgid "Schedule Visit"
+msgstr "Programar Visita"
+
+#: do_not_schedule_visit
+msgid "Do Not Schedule Visit"
+msgstr "No programar Visita"
+
+#: register
+msgid "Register"
+msgstr "Registrar"
+
+#: please_select
+msgid "Please Select"
+msgstr "Por favor, Seleccione"
+
+#: enroll_in_program
+msgid "Enroll In Program"
+msgstr "Registrar en programa"
+
+#: relationships
+msgid "Relationships"
+msgstr "Relaciones"
+
+#: no_relationships
+msgid "No Relationships"
+msgstr "Sin relaciones"
+
+#: phone_number
+msgid "Phone Number"
+msgstr "Número de teléfono"
+
+#: add_relationships
+msgid "Add Relationships"
+msgstr "Añadir relaciones"
+
+#: related_person_search
+msgid "Related Person Search"
+msgstr "Buscar personas relacionadas"
+
+#: related_person_list
+msgid "Related Person List"
+msgstr "Listado de Personas relacionadas"
+
+#: add_relationship
+msgid "Add Relationship"
+msgstr "Añadir relación"
+
+#: anonymous_menu
+msgid "Anonymous Menu"
+msgstr "Menú anónimo"
+
+#: date_of_birth_type
+msgid "Date of Birth Type"
+msgstr "Tipo de fecha de nacimiento"
+
+#: approximated
+msgid "Approximated"
+msgstr "Aproximado"
+
+#: declared
+msgid "Declared"
+msgstr "Declarada"
+
+#: verified
+msgid "Verified"
+msgstr "Verificado"
+
+#: anomynous_program_list
+msgid "Anonymous Program List"
+msgstr "Listado de programas anónimos"
+
+#: orgunit
+msgctxt "orgunit"
+msgid "Organisation Unit"
+msgstr "Unidad Organizativa"
+
+#: change
+msgid "Change"
+msgstr "Cambio"
+
+#: register_location_for
+msgid "Register Location For"
+msgstr "Registrar localización para"
+
+#: agregate_reporting
+msgid "Aggregate Reporting"
+msgstr "Reporte de agregados"
+
+#: find_or_add_person
+msgid "Find/Add Person"
+msgstr "Buscar/Añadir Persona"
+
+#: search_by_phone_number
+msgid "Search By Phone Number"
+msgstr "Buscar por número de teléfono"
+
+#: age_or_dob
+msgid "Age/Date of Birth"
+msgstr "Edad/Fecha de Nacimiento"
+
+#: dead
+msgid "Dead"
+msgstr "Fallecido"
+
+#: status
+msgid "Status"
+msgstr "Estado"
+
+#: visit_schedule
+msgid "Visit Schedule"
+msgstr "Programar visita"
+
+#: visit_schedule_type
+msgid "Visit Schedule Type"
+msgstr "Tipo de programación de visita"
+
+#: or_register_new_person
+msgid "or register new person"
+msgstr "o registrar nueva persona"
+
+#: invalid_phone_number
+msgid "invalid phone number"
+msgstr "número de teléfono no válido"
+
+#: save_any_way
+msgid "Save anyway"
+msgstr "Guardar de todas formas"
+
+#: form_in_complete
+msgid "Form InComplete"
+msgstr "Formulario incompleto"
+
+#: allow_provided_elsewhere
+msgid "Provided elsewhere"
+msgstr "Proporcionado en otra unidad"
+
+#: search_user
+msgid "Search user by name"
+msgstr "Buscar usuario por nombre"
+
+#: last_recipients
+msgid "Last recipients"
+msgstr "Últimos destinatarios"
+
+#: search_orgunit
+msgid "Search Organisation Unit"
+msgstr "Buscar Unidad Organizativa"
+
+#: date_of_birth_hint
+msgid ""
+"*Approximated: enter age. Declared or Verified: enter date in format [yyyy-"
+"mm-dd]"
+msgstr ""
+
+#: select_attribute
+msgid "Select attribute"
+msgstr ""
+
+#: tracked_entity
+msgid "Tracked entity"
+msgstr ""
+
+#: write
+msgid "Write"
+msgstr ""
+
+#: write_message
+msgid "Write Message"
+msgstr ""
+
+#: write_feedback
+msgid "Write Feedback"
+msgstr ""
+
+#: write_new_message
+msgid "Write new message"
+msgstr ""
+
+#: write_to_users
+msgid "To User(s):"
+msgstr ""
+
+#: write_add_to_recipients
+msgid "Add to Recipient(s)"
+msgstr ""
+
+#: interpretations
+msgid "Interpretations"
+msgstr ""
+
+#: interpretation
+msgid "Interpretation"
+msgstr ""
+
+#: interpretations_support
+msgid "Only charts are currently supported for interpretations."
+msgstr ""
+
+#: interpretation_comment
+msgid "Comment(s):"
+msgstr ""
+
+#: interpretation_add_comment
+msgid "Add a comment"
+msgstr ""
+
+#: interpretation_post_comment
+msgid "Post comment"
+msgstr ""
+
+#: interpretation_share
+msgid "Share interpretation"
+msgstr ""
+
+#: share
+msgid "Share"
+msgstr ""
+
+#: chart
+msgid "Chart"
+msgstr ""

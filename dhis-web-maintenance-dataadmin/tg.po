@@ -1,0 +1,1699 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-dataadmin/src/main/resources/org/hisp/dhis/dataadmin/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-dataadmin/src/main/resources/org/hisp/dhis/dataadmin/i18n_module_tg.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: remove_all
+msgid "Remove All Locks"
+msgstr ""
+
+#: done
+msgctxt "done"
+msgid "Done"
+msgstr ""
+
+#: loading
+msgid "Loading, please wait"
+msgstr ""
+
+#: optional
+msgid "Optional"
+msgstr ""
+
+#: data_administration
+msgid "Data Administration"
+msgstr "Маъмурияти иттилоот"
+
+#: period_type
+msgid "Period Type"
+msgstr "Навъи давара"
+
+#: select_options
+msgid "Please select at least one option"
+msgstr "Лутфан ақаллан як имконро интихоб кунед"
+
+#: performing_maintenance
+msgid "Performing maintenance"
+msgstr "Таъмир гузаронида мешавад"
+
+#: maintenance_performed
+msgid "Maintenance performed"
+msgstr "Таъмир гузаронида шуд"
+
+#: generating_resource_tables
+msgid "Generating resource tables"
+msgstr "Таҳиякунии ҷадвали захиравӣ"
+
+#: resource_tables_generated
+msgid "Resource tables generated"
+msgstr "Ҷадвалҳои захиравӣ таҳия шуданд"
+
+#: clear_analytics_tables
+msgid "Clear analytics tables"
+msgstr "Ҷадвалҳои таҳлилии тоза"
+
+#: maintenance
+msgid "Maintenance"
+msgstr "Таъмир"
+
+#: resource_table
+msgid "Resource Table"
+msgstr "Ҷадвали захиравӣ"
+
+#: clear_dataset_completeness
+msgid "Clear data set completeness"
+msgstr "Мукаммалии маҷмӯи иттилоотро тоза кунед"
+
+#: clear_zero_values
+msgid "Clear zero values"
+msgstr "Қиматҳои сифрро тоза кунед"
+
+#: group_set_structure
+msgid "Organisation unit group set structure normalized"
+msgstr "Сохтори маҷмӯи гурҳҳои воҳидҳои сохторӣ муътадил гардонида шуд"
+
+#: organisation_unit_structure
+msgid "Organisation unit structure"
+msgstr "Сохтори воҳиди сохторӣ"
+
+#: data_element_category_option_combo_name
+msgid "Data element category option combo name"
+msgstr "Номи комбои имкони категорияи унсури иттилоот"
+
+#: generate_resource_tables
+msgid "Generate tables"
+msgstr "Ҷадвалҳои умумӣ"
+
+#: perform_maintenance
+msgid "Perform maintenance"
+msgstr "Гузаронидани таъмир"
+
+#: prune_periods
+msgid "Prune periods"
+msgstr "Давраҳои буриш"
+
+#: cache_statistics
+msgid "Cache Statistics"
+msgstr "Омори кэш"
+
+#: second_level_cache_statistics
+msgid "Second Level Cache Statistics"
+msgstr "Омори кэши сатҳи дуввум"
+
+#: region_name
+msgid "Region name"
+msgstr "Номи минтақа"
+
+#: put_count
+msgctxt "put_count"
+msgid "Put count"
+msgstr ""
+
+#: hit_count
+msgctxt "hit_count"
+msgid "Hit count"
+msgstr ""
+
+#: miss_count
+msgctxt "miss_count"
+msgid "Miss count"
+msgstr ""
+
+#: mem_count
+msgid "Mem count"
+msgstr "Шумораи хотира"
+
+#: disk_count
+msgid "Disk count"
+msgstr "Шумораи диск"
+
+#: mem_size
+msgid "Mem size"
+msgstr "Андозаи хотира"
+
+#: total_second_level_cache
+msgid "Total Second Level Cache"
+msgstr "Ҳамагӣ кэши сатҳи дуввум"
+
+#: total_query_cache
+msgid "Total Query Cache"
+msgstr "Ҳамаги кэши пурсиш"
+
+#: query_cache_statistics
+msgid "Query Cache Statistics"
+msgstr "Омори кэши пурсиш"
+
+#: query_name
+msgid "Query name"
+msgstr "Номи пурсиш"
+
+#: put_count
+msgctxt "put_count"
+msgid "Put count"
+msgstr ""
+
+#: hit_count
+msgctxt "hit_count"
+msgid "Hit count"
+msgstr ""
+
+#: miss_count
+msgctxt "miss_count"
+msgid "Miss count"
+msgstr ""
+
+#: exec_count
+msgid "Exec count"
+msgstr "Шумораи иҷроиш"
+
+#: exec_avg_time
+msgid "Exec avg time"
+msgstr "Вақти миёнаи иҷроиш"
+
+#: exec_max_time
+msgid "Exec max time"
+msgstr "Вақти максималии иҷроиш"
+
+#: exec_min_time
+msgid "Exec min time"
+msgstr "Вақти минималии иҷроиш"
+
+#: exec_row_count
+msgid "Exec row count"
+msgstr "Шумораи сатрҳои иҷроиш"
+
+#: clear_cache
+msgid "Clear cache"
+msgstr "Пок кардани кэш"
+
+#: data_statistics
+msgid "Data Statistics"
+msgstr "Омори иттилоот"
+
+#: indicator_types
+msgid "Indicator types"
+msgstr "Навъҳои индикатор"
+
+#: data_dictionaries
+msgid "Data dictionaries"
+msgstr "Луғатҳои иттилоот"
+
+#: periods
+msgid "Periods"
+msgstr "Давраҳо"
+
+#: data_values
+msgid "Data values"
+msgstr "Қиматҳои иттлоот"
+
+#: number_of_objects
+msgid "Number of objects"
+msgstr "Шумораи объектҳо"
+
+#: data_browser
+msgid "Data Browser"
+msgstr "Браузери иттилоот"
+
+#: from_date
+msgid "From date"
+msgstr "Аз санаи"
+
+#: to_date
+msgid "To date"
+msgstr "То санаи"
+
+#: browse_by
+msgid "Browse by"
+msgstr "Паймоиш аз рӯи"
+
+#: select_mode
+msgid "Select mode"
+msgstr "Интихоби реҷа"
+
+#: select_parent_organisation_unit
+msgid "Select parent organisation unit"
+msgstr "Интихоби воҳиди сохтории болоӣ"
+
+#: no_data_found
+msgid "No data found"
+msgstr "Ягон иттилоот ёфт нашуд"
+
+#: browse
+msgid "Browse"
+msgstr "Паймоиш"
+
+#: select_period_type
+msgid "Select Period Type"
+msgstr "Интихоби навъи давра"
+
+#: data_integrity
+msgid "Data Integrity"
+msgstr "Якпорчагии иттилоот"
+
+#: data_elements_without_data_set
+msgid "Data elements without a data set"
+msgstr "Унсурҳои иттилооти бе маҷмӯи иттилоот"
+
+#: data_elements_without_groups
+msgid "Data elements without groups"
+msgstr "Унсурҳои иттилооти бе гурӯҳҳо"
+
+#: data_sets_not_assigned_to_organisation_units
+msgid "Data sets not assigned to organisation units"
+msgstr "Маҷмӯъҳои иттилооти ба воҳидҳои сохторӣ таъиннашуда"
+
+#: indicators_with_identical_formulas
+msgid "Indicators with identical formulas"
+msgstr "Индикаторҳо бо формулаҳои якхела"
+
+#: indicators_without_groups
+msgid "Indicators without groups"
+msgstr "Индикаторҳои бе гурӯҳ"
+
+#: organisation_units_with_cyclic_references
+msgid "Organisation units with cyclic references"
+msgstr "Воҳидҳои сохторӣ бо истинодҳои мудаввар"
+
+#: orphaned_organisation_units
+msgid "Orphaned organisation units"
+msgstr "Воҳидҳои сохтории \"ятим\""
+
+#: organisation_units_without_groups
+msgid "Organisation units without groups"
+msgstr "Воҳидҳои сохторӣ бе гурӯҳҳо"
+
+#: organisation_units_violating_compulsory_group_sets
+msgid "Organisation units violating compulsory group sets"
+msgstr "Воҳидҳои сохторие, ки маҷмӯи гурӯҳҳои ҳатмиро вайрон мекунанд"
+
+#: organisation_units_violation_exclusive_group_sets
+msgid "Organisation units violating exclusive group sets"
+msgstr "Воҳидҳои сохторие, ки маҷмӯи гурӯҳҳои истисноиро вайрон мекунанд"
+
+#: organisation_unit_groups_without_group_sets
+msgid "Organisation unit groups without group sets"
+msgstr "Воҳидҳои сохторӣ бе маҷмӯи гурӯҳҳо"
+
+#: category_option_combos_not_in_data_element_category_combo
+msgid ""
+"Category option combos not in data element category combo in data entry form"
+msgstr ""
+
+#: data_integrity_checks_performed
+msgid "Data integrity checks performed"
+msgstr "Санҷишҳои якпорчагии иттилоот гузаронида шуданд"
+
+#: data_elements_assigned_to_period_types_with_different_period_types
+msgid "Data elements assigned to data sets with different period types"
+msgstr ""
+"Унсурҳои иттилооте, ки бо давраҳои гуногун ба маҷмӯъҳои иттилоот таъин карда "
+"шудаанд"
+
+#: category_option_group_set_structure
+msgid "Category option group set structure"
+msgstr ""
+
+#: data_element_group_set_structure
+msgid "Data element group set structure"
+msgstr "Сохтори маҷмӯи гурӯҳи унсурҳои иттилоот"
+
+#: indicator_group_set_structure
+msgid "Indicator group set structure"
+msgstr "Сохтори маҷмӯи гурӯҳи индикатор"
+
+#: organisation_unit_group_set_structure
+msgid "Organisation unit group set structure"
+msgstr "Сохтори маҷмӯи гурӯҳи воҳидҳои сохторӣ"
+
+#: period
+msgid "Period"
+msgstr "Давра"
+
+#: value
+msgid "Value"
+msgstr "Қимат"
+
+#: found
+msgid "Found"
+msgstr "Ёфт шуд"
+
+#: values
+msgid "values"
+msgstr "қиматҳо"
+
+#: data_element
+msgctxt "data_element"
+msgid "Data element"
+msgstr "Унсури иттилоот"
+
+#: data_element_group
+msgid "Data element Group"
+msgstr "Гурӯҳи унсурҳои иттилоот"
+
+#: validation_rules_without_groups
+msgid "Validation rules without groups"
+msgstr "Қоидаҳои санҷиши эътибор бе гурӯҳҳо"
+
+#: aggregated_data_values
+msgid "Aggregated data values"
+msgstr "Қиматҳои ҳамҷояшудаи иттилоот"
+
+#: aggregated_indicator_values
+msgid "Aggregated indicator values"
+msgstr "Қиматҳои ҳамҷояшудаи индикаторҳо"
+
+#: organisation_unit_pruning
+msgid "Organisation Unit Pruning"
+msgstr "Буриши воҳиди сохторӣ"
+
+#: min_max_value_generation
+msgid "Min-Max Value Generation"
+msgstr "Таҳияи қиматҳои мин-макс"
+
+#: intro_lock_exception
+msgid ""
+"Add or remove exceptions to the the standard rules for locking of data entry "
+"forms."
+msgstr ""
+"Истисноҳо ба қоидаҳои стандартии санҷиши эътиборро барои бастани шаклҳои "
+"вуруди иттиллот илова ва тоза кунед."
+
+#: intro_data_browser
+msgid ""
+"Browse the database and get an overview of where data exists. View and "
+"export counts of data elements as well as raw data."
+msgstr ""
+"Пойгоҳи иттиллотиро паймоиш кунед ва тасаввурот ҳосил кунед, ки иттилоот дар "
+"куҷо вуҷуд дорад. Шумораи унсурҳои иттилоот ва иттилооти ибтидоиро бубинед "
+"ва содирот кунед."
+
+#: intro_data_integrity
+msgid ""
+"Run data integrity checks and unveil anomalies and problems in the meta data "
+"setup."
+msgstr ""
+"Санҷишҳои якпорчагии иттилоотро иҷро кунед ва аномалияҳо ва мушкилоти "
+"танзими метададтаро ошкор намоед."
+
+#: intro_data_archive
+msgid ""
+"Archive data which is not currently relevant to your system in order to "
+"improve performance. Data can also be unarchived."
+msgstr ""
+"Иттилоотеро, ки дар айни замон ба системаи шумо марбут нест, бойгонӣ кунед, "
+"то ки самаранокии кор беҳтар шавад. Иттилоотро аз бойгонӣ баровардан низ "
+"мумкин аст."
+
+#: intro_patient_data_archive
+msgid ""
+"Archive person data which is not currently relevant to your system. Data can "
+"also be unarchived."
+msgstr ""
+"Иттилоотеро, ки дар айни замон ба системаи шумо марбут нест, бойгонӣ кунед. "
+"Иттилоотро аз бойгонӣ баровардан низ мумкин аст."
+
+#: intro_maintenance
+msgid ""
+"Perform maintenance tasks such as pruning of data values and periods and "
+"clearing of database resource tables."
+msgstr ""
+"Вазифаҳои нигоҳубинро аз қабили бурриши қиматҳои иттилоот ва давраҳо ва тоза "
+"кардани ҷадвалҳои захиравии пойгоҳи иттилоотӣ иҷро кунед."
+
+#: intro_resource_table
+msgid ""
+"Generate resource database tables for the organisation unit hierarchy and "
+"group set structure among others."
+msgstr ""
+"Ҷадвалҳои захиравии пойгоҳи иттилоотиро барои воҳиди сохторӣ ва сохтори "
+"маҷмӯи гурӯҳҳо ва ғайра таҳия кунед."
+
+#: intro_locale
+msgid ""
+"Create and manage locales for database content. A locale is a combination of "
+"language and country."
+msgstr ""
+
+#: intro_organisation_unit_merge
+msgid ""
+"Merge two organisation units and their data values. Data is merged depending "
+"on existence and date of last modification."
+msgstr ""
+"Ду воҳиди сохторӣ ва қиматҳои иттилоти онҳоро якҷоя кунед. Иттилоот вобаста "
+"аз вуҷуд доштани он ва санаи тағйироти охирин якҷоя карда мешавад."
+
+#: intro_data_statistics
+msgid ""
+"Browse the number of objects in the database, like data elements, "
+"indicators, data sets and data values."
+msgstr ""
+"Шумораи объектҳои дар пойгоҳи иттилоотӣ бударо, аз қабили унсурҳои иттилоот, "
+"индикаторҳо, маҷмӯъҳои иттилоот ва қиматҳои иттилоот, паймоиш кунед."
+
+#: intro_cache_statistics
+msgid ""
+"Monitor and clear the system database cache status. Provides information on "
+"object and query caches."
+msgstr ""
+"Ҳолати кэши системаи пойгоҳи иттилоотиро назорат ва пок кунед. Дар бораи "
+"объект ва кэши пурсиш маълумот пешниҳод мекунад."
+
+#: intro_min_max_value_generation
+msgid ""
+"Generate min-max values which can be used for data validation during data "
+"entry and validation processes."
+msgstr ""
+"Қиматҳои мин-макс-ро, ки метавонанд барои санҷиши эътибори иттилоот ҳангоми "
+"вуруди иттилоот ва раванди санҷиши эътибор истифода шаванд, таҳия кунед."
+
+#: intro_organisation_unit_pruning
+msgid ""
+"Remove sub-trees from the organisation unit tree. Useful when creating and "
+"deploying local databases."
+msgstr ""
+"Зердарахтҳоро аз дарахти воҳидҳои сохторӣ тоза кунед. Ин ҳангоми сохтан ва "
+"ба истифода додани пойгоҳҳои иттилоотии маҳаллӣ муфид аст."
+
+#: intro_zero_storage_management
+msgid ""
+"Define which data elements for which zero values should be stored or "
+"ignored. Useful for reducing database size."
+msgstr ""
+"Муайян намоед, ки барои кадом унсурҳои иттилоот қиматҳои сифрӣ бояд ҳифз "
+"карда шванд ё сарфи назар карда шаванд. Ин барои коҳиш додан андозаи пойгоҳи "
+"иттилоотӣ муфид аст."
+
+#: intro_duplicate_data_elimination
+msgid ""
+"Eliminate data registered for duplicate data elements. Useful when data has "
+"been entered for identical data elements."
+msgstr ""
+"Иттилоотеро, ки барои унсурҳои иттилооти такроршуда ба қайд гирифта шудааст, "
+"нест кунед. Ин дар ҳолати иттилооте, ки барои унсурҳои иттилооти якхела "
+"ворид карда шудааст, муфид аст."
+
+#: intro_sql_view
+msgid ""
+"Create SQL database views. These views will typically use the resource "
+"tables to provide convenient views for third-party tools."
+msgstr ""
+"Намудҳои пойгоҳи иттилоотии SQL-ро созед. Ин намудҳо одатан ҷадвалҳои "
+"захиравиро истифода мебаранд, ки барои абзорҳои тарафҳои сеюм намудҳои "
+"қулайро муҳайё менамоянд."
+
+#: intro_constant
+msgid ""
+"Create constants which can be included in expressions of indicator and "
+"validation rules."
+msgstr ""
+"Доимиҳое созед, ки метавонанд ба ифодаи индикатор ва қоидаҳои санҷиши "
+"эътибор шомил карда шаванд."
+
+#: intro_attribute
+msgid ""
+"Create and update dynamic attributes. Attributes can be used for data "
+"elements, indicators, organisation units and users."
+msgstr ""
+"Нишонҳои динамикиро созед ва навсозӣ кунед. Нишонҳо метавонанд барои "
+"унсурҳои иттилоот, индикаторҳо, воҳидҳои сохторӣ ва корбарон истифода шаванд."
+
+#: intro_option_set
+msgid ""
+"Create option sets which can be included in data elements and produce drop-"
+"down lists in data entry forms."
+msgstr ""
+"Маҷмӯъҳои имконотеро созед, ки метавонанд ба унсурҳои иттилоот шомил карда "
+"шаванд ва дар шаклҳои вуруди иттилоот рӯйхатҳои афтанда ҳосил кунанд."
+
+#: intro_scheduling
+msgid ""
+"Manage scheduled tasks such as data mart exports, where you can set period "
+"types, aggregation level and frequency."
+msgstr ""
+"Вазифаҳои нақшавиро, аз қабили содироти киоски иттилоот, идора кунед, ки дар "
+"он ҷо шумо метавонед навъҳои давраҳо, сатҳи ва зудии ҳамҷояшавиро таъин "
+"кунед."
+
+#: expression_is_empty
+msgid "Expression is empty"
+msgstr "Ифода холӣ аст"
+
+#: dataelement_id_not_numeric
+msgid "Data element identifier must be a number"
+msgstr "Идентификатори унсури иттилоот бояд адад бошад"
+
+#: category_option_combo_id_not_numeric
+msgid "Category option combo identifier must be a number"
+msgstr "Комбои имкони категория identifier must be a number"
+
+#: data_element_does_not_exist
+msgid "Identifier does not reference a data element"
+msgstr ""
+
+#: category_option_combo_does_not_exist
+msgid "Identifier does not reference a category option combo"
+msgstr ""
+
+#: org_unit_group_does_not_exist
+msgid "Organisation unit group does not exist"
+msgstr ""
+
+#: expression_not_well_formed
+msgid "Expression is not well formed"
+msgstr "Ифода хуб ташаккул дода нашудааст"
+
+#: invalid_indicator_denominators
+msgid "Invalid indicator denominators"
+msgstr "Махраҷҳои нодурусти индикатор"
+
+#: invalid_indicator_numerators
+msgid "Invalid indicator numerators"
+msgstr "Суратҳои нодурусти индикатор"
+
+#: invalid_validation_rule_left_side_expressions
+msgid "Invalid validation rule left side expressions"
+msgstr "Ифодаҳои тарафи чапи қоидаи санҷиши эътибор"
+
+#: invalid_validation_rule_right_side_expressions
+msgid "Invalid validation rule right side expressions"
+msgstr "Ифодаҳои тарафи рости қоидаи санҷиши эътибор"
+
+#: category_structure
+msgid "Category structure"
+msgstr "Сохтори категория"
+
+#: zero_storage_management
+msgid "Zero Value Storage"
+msgstr "Захирагоҳи қиматҳои сифрӣ"
+
+#: ignore_zero_data_values
+msgid "Ignore zero data values"
+msgstr "Ба назар нагирифтани қиматҳои сифри иттилоот"
+
+#: store_zero_data_values
+msgid "Store zero data values"
+msgstr "Ҳифз кардани қиматҳои сифрӣ"
+
+#: all
+msgid "Select/ALL"
+msgstr "Ҳама"
+
+#: organisation_unit_merge
+msgid "Organisation Unit Merge"
+msgstr "Ҳамроҳшавии воҳиди сохторӣ"
+
+#: select_the_org_unit_to_eliminate
+msgid "Select the organisation unit to eliminate"
+msgstr "Воҳиди сохториро барои нест кардан интихоб кунед"
+
+#: not_selected
+msgid "Not selected"
+msgstr "Интихоб нашудааст"
+
+#: select_the_org_unit_to_keep
+msgid "Select the organisation unit to keep"
+msgstr "Воҳиди сохториро барои нигоҳ доштан интихоб кунед"
+
+#: create_sql_views
+msgid "Create SQL views"
+msgstr ""
+
+#: merge
+msgid "Merge"
+msgstr "Ҳамроҳшавӣ"
+
+#: reset
+msgid "Reset"
+msgstr "Танзими дубора"
+
+#: confirm
+msgid "Confirm"
+msgstr "Тасдиқ"
+
+#: merging
+msgid "Merging"
+msgstr "Ҳамроҳкунӣ"
+
+#: merging_done
+msgid "Merging done"
+msgstr "Ҳамроҳкунӣ иҷро шуд"
+
+#: eliminating
+msgid "Eliminating"
+msgstr "Несткунӣ"
+
+#: elimination_done
+msgid "Elimination done"
+msgstr "Несткунии рамз"
+
+#: select_the_data_element_to_eliminate
+msgid "Select the data element to eliminate"
+msgstr "Унсури иттилоотро барои нест кардан интихоб кунед"
+
+#: select_the_data_element_to_keep
+msgid "Select the data element to keep"
+msgstr "Унсури иттилоотро барои нест кардан интихоб кунед"
+
+#: eliminate
+msgid "Eliminate"
+msgstr "Нест кардан"
+
+#: move_all
+msgid "Move All"
+msgstr "Интиқоли ҳама"
+
+#: drop_sql_views
+msgid "Drop SQL views"
+msgstr ""
+
+#: move_selected
+msgid "Move Selected"
+msgstr "Интиқоли интихобшудаҳо"
+
+#: duplicate_data_elimination
+msgid "Duplicate Data Elimination"
+msgstr "Такрори несткунии иттилоот"
+
+#: select_different_org_units
+msgid "Please select two different organisation units"
+msgstr "Лутфан ду воҳиди сохтории гуногунро интихоб кунед"
+
+#: select_different_data_elements
+msgid "Please select two different data elements"
+msgstr "Лутфан ду унсурҳои иттилооти гуногунро интихоб кунед"
+
+#: filter
+msgid "Filter"
+msgstr "Филтр"
+
+#: data_archive
+msgid "Data Archive"
+msgstr "Бойгонии иттилоот"
+
+#: there_are
+msgid "There are"
+msgstr "Ҳастанд"
+
+#: overlapping_values
+msgid "overlapping data values in the archive."
+msgstr "қиматҳои пӯшишдори иттилоот дар бойгонӣ."
+
+#: there_are_no_overlapping_values
+msgid "There are no overlapping data in the archive."
+msgstr "Қиматҳои пӯшишдори иттилоот дар бойгонӣ нестанд"
+
+#: eliminate_oldest
+msgid "Eliminate the oldest duplicates"
+msgstr "Ҳамтоҳои кӯҳнатаринро нест кунед"
+
+#: eliminate_from_archive
+msgid "Eliminate duplicates from archive source"
+msgstr "Ҳамтоҳоро аз нест кумаъхаз дар бойгонӣ нест кунед"
+
+#: eliminate_from_regular
+msgid "Eliminate duplicates from regular source"
+msgstr "Ҳамтоҳоро аз маъхази муқаррарӣ нест кунед"
+
+#: start_date
+msgid "Start date"
+msgstr "Санаи оғоз"
+
+#: end_date
+msgid "End date"
+msgstr "Санаи анҷом"
+
+#: archive
+msgid "Archive"
+msgstr "Бойгонӣ кардан"
+
+#: unarchive
+msgid "Unarchive"
+msgstr "Аз бойгонӣ баровардан"
+
+#: archiving
+msgid "Archiving"
+msgstr "Бойгоникунӣ"
+
+#: unarchiving
+msgid "Unarchiving"
+msgstr "Баровардан аз бойгонӣ"
+
+#: done_number_of_values
+msgid "done. Number of archived values is now"
+msgstr "иҷро шуд. Миқдори қиматҳои бойгонишуда дар айни ҳол"
+
+#: prune
+msgid "Prune"
+msgstr "Буриши воҳиди сохторӣ"
+
+#: pruning
+msgid "Pruning"
+msgstr "Буриш"
+
+#: pruning_done
+msgid "Pruning done"
+msgstr "Буриш иҷро шуд"
+
+#: browser
+msgid "Data browser"
+msgstr "Браузери иттилоот"
+
+#: drilldown_choose_period_type
+msgid "Please choose a period type"
+msgstr "Лутфан навъи давраро интихоб кунед"
+
+#: drilldown_enddate_invalid
+msgid "Please enter a valid End date"
+msgstr "Лутфан санаи анҷоми дурустеро интихоб кунед"
+
+#: drilldown_select_browse_mode
+msgid "Please select a browser mode"
+msgstr "Лутфан реҷаи браузерро интихоб кунед"
+
+#: drilldown_select_org_unit
+msgid "Please select an organization unit"
+msgstr "Лутфан воҳиди сохториеро интихоб кунед"
+
+#: drilldown_orgunit
+msgid "Organisation unit"
+msgstr "Воҳиди сохторӣ"
+
+#: drilldown_orgunit_group
+msgid "Organisation unit group"
+msgstr "Гурӯҳи воҳидҳои сохторӣ"
+
+#: drilldown_data_element
+msgctxt "drilldown_data_element"
+msgid "Data element"
+msgstr "Унсури иттилоот"
+
+#: drilldown_data_element_group
+msgid "Data element group"
+msgstr "Гурӯҳи унсурҳои иттилоот"
+
+#: drilldown_data_set
+msgid "Data set"
+msgstr "Маҷмӯи иттилоот"
+
+#: counts_of_aggregated_values
+msgid "Number of recorded values"
+msgstr "Шумораи recorded values"
+
+#: browse_data_at_this_level
+msgid "Browse data at this level only"
+msgstr "Иттиллоотро танҳо дар ин сатҳ паймоиш кунед"
+
+#: view_data_at_descendant_levels
+msgid "Summary drill down"
+msgstr "Фишурдаи фурӯравӣ"
+
+#: view_data_at_this_level
+msgid "View raw data at this level"
+msgstr "Иттилооти ибтидоиро дар ин сатҳ намоиш диҳед"
+
+#: click_on_this_orgunit
+msgid "Click on this organisation unit"
+msgstr "Ин воҳиди сохториро тафтиш кунед"
+
+#: earliest
+msgid "earliest"
+msgstr "барвақттарин"
+
+#: latest
+msgid "latest"
+msgstr "дертарин"
+
+#: available_dataset
+msgid "Available data sets"
+msgstr "Маҷмӯъҳои иттилооти мавҷуда"
+
+#: loading
+msgid "Loading"
+msgstr ""
+
+#: level_must_be_int
+msgid "Level must be a number"
+msgstr "Сатҳ бояд адад бошад"
+
+#: not_choose_dataset
+msgctxt "not_choose_dataset"
+msgid "Please select a data set"
+msgstr "Лутфан маҷмӯи иттилоотро интихоб кунед"
+
+#: not_choose_organisation
+msgctxt "not_choose_organisation"
+msgid "Please select an organisation unit"
+msgstr "Лутфан маҷмӯи воҳиди сохториро интихоб кунед"
+
+#: generate
+msgid "Generate"
+msgstr "Таҳия"
+
+#: sql_view_management
+msgid "SQL View Management"
+msgstr "Идоракунии намуди SQL"
+
+#: sql_view
+msgid "SQL View"
+msgstr "Намуди SQL"
+
+#: sql_type
+msgid "SQL type"
+msgstr ""
+
+#: sql_view_type
+msgid "SQL view"
+msgstr ""
+
+#: materialized_sql_view_type
+msgid "Materialized SQL view"
+msgstr ""
+
+#: sql_query_type
+msgid "SQL query"
+msgstr ""
+
+#: created_in_database
+msgid "created in database"
+msgstr ""
+
+#: materialized_in_database
+msgid "materialized in database"
+msgstr ""
+
+#: allows_for_variables
+msgid "allows for variables"
+msgstr ""
+
+#: sql_statement
+msgid "SQL Statement"
+msgstr "Гузориши намуди SQL"
+
+#: run
+msgid "Execute query"
+msgstr "Иҷрои дархост"
+
+#: hide_warning
+msgid "Hide warning"
+msgstr "Пинҳон кардани огоҳӣ"
+
+#: add_new_sql_view
+msgid "Add new SQL view"
+msgstr "Иловаи намуди нави SQL"
+
+#: update_sql_view
+msgid "Update SQL view"
+msgstr "Навсозии намуди SQL"
+
+#: name_is_null
+msgid "Name is not allowed to be null"
+msgstr "Ном сифр буда наметавонад"
+
+#: name_in_use
+msgid "Name is in use"
+msgstr ""
+
+#: code_in_use
+msgid "Code is in use"
+msgstr ""
+
+#: language_country_in_use
+msgid "The language and country set is already in use"
+msgstr ""
+
+#: sqlquery_is_empty
+msgid "SQL statement cannot be null"
+msgstr "Гузориши SQL сифр буда наметавонад"
+
+#: sqlquery_is_invalid
+msgid "This SQL statement is invalid"
+msgstr "Гузориши SQL нодуруст аст"
+
+#: sqlquery_invalid_note
+msgid "Note: Only SELECT query is allowed (without INTO keyword)"
+msgstr ""
+
+#: sql_view_instance_invalid
+msgid "This resource viewer is invalid or does not exist"
+msgstr "Ин намоишгари захира нодуруст аст ё вуҷуд надорад."
+
+#: sql_view_table_name
+msgid "SQL view table with name"
+msgstr "Ҷадвали намуди SQL бо ном"
+
+#: is_created
+msgid "is created"
+msgstr "сохта мешавад"
+
+#: sql_view_table_is_not_created_yet
+msgid "Please execute query to create View table before viewing"
+msgstr ""
+"Лутфан дархостро иҷро кунед, то ки ҷадвали Намоишро пеш аз намоиш додан созед"
+
+#: data_elements_violating_exclusive_group_sets
+msgid "Data elements violating exclusive group sets"
+msgstr "Унсурҳои иттилоот, ки маҷмӯъҳои гурӯҳии истисноиро вайрон мекунанд"
+
+#: indicators_violating_exclusive_group_sets
+msgid "Indicators violating exclusive group sets"
+msgstr "Индикаторҳое, ки маҷмӯъҳои гурӯҳии истисноиро вайрон мекунанд"
+
+#: view_data_for
+msgid "View data for"
+msgstr "Намоиши иттилоот барои"
+
+#: failed_to_create_view_table_for
+msgid "Failed to create view table for"
+msgstr "Сохтани ҷадвали намоиш барои ... иҷро нашуд"
+
+#: show
+msgid "Show"
+msgstr "Нишон додан"
+
+#: sort
+msgid "Sort"
+msgstr "Ҷудокунӣ"
+
+#: lock
+msgid "Lock"
+msgstr "Бастан"
+
+#: locked
+msgid "Locked"
+msgstr "Басташуда"
+
+#: unlock
+msgid "Unlock"
+msgstr "Кушодан"
+
+#: append
+msgid "Append"
+msgstr "Замима кардан"
+
+#: organisation_unit_groups
+msgid "Organisation unit groups"
+msgstr "Гурӯҳҳои воҳидҳои сохторӣ"
+
+#: users
+msgid "Users"
+msgstr "Корбарон"
+
+#: remove_values_success
+msgid "Removed values successfully"
+msgstr "Қиматҳо бомуваффақият тоза карда шуданд"
+
+#: no_hits
+msgid "Recorded values"
+msgstr "Ягон мувофиқат нестб аз нав кӯшиш кунед"
+
+#: earliest_date_used_if_no_date_selected
+msgid "Earliest date will be used if no date is selected"
+msgstr ""
+"Агар ягон сана нишон интихоб карда нашавад, санаи барвақтттарин истифода "
+"бурда мешавад"
+
+#: latest_date_used_if_no_date_selected
+msgid "Latest date will be used if no date is selected"
+msgstr ""
+"Агар ягон сана нишон интихоб карда нашавад, санаи дертарин истифода бурда "
+"мешавад"
+
+#: generate_values_success
+msgid "Generated values successfully"
+msgstr "Қиматҳо бомуваффақият таҳия карда шуданд"
+
+#: start
+msgid "Start"
+msgstr "Оғоз"
+
+#: data_set_list
+msgid "Data Set list"
+msgstr "Рӯйхати маҷмуъҳои иттилоот"
+
+#: data_element_group_list
+msgid "Data Element Group list"
+msgstr "Рӯйхати гурӯҳҳои унсурҳои иттилоот"
+
+#: orgunit_group_list
+msgid "Organisation Unit Group list"
+msgstr "Рӯйхати гурӯҳҳои воҳидҳои сохторӣ"
+
+#: patient_data_archive
+msgid "Person Data Archive"
+msgstr "Бойгонии иттилооти шахс"
+
+#: intro__patient_data_archive
+msgid ""
+"Archive person data which is not currently relevant to your system in order "
+"to improve performance. Data can also be unarchived."
+msgstr ""
+"Иттилоотеро, ки дар айни замон ба системаи шумо марбут нест, бойгонӣ кунед, "
+"то ки самаранокии кор беҳтар шавад. Иттилоотро аз бойгонӣ баровардан низ "
+"мумкин аст."
+
+#: pruning_interrupted
+msgid ""
+"You must choose the organisation unit has parent to prune. Please try again!"
+msgstr ""
+"Шумо бояд воҳиди сохториеро интихоб кунед, воҳиди болои барои ихтисор дошта "
+"бошад. Лутфан аз сар кӯшиши кунед!"
+
+#: sqlquery_is_not_allowed
+msgid "Restricted user tables cannot be referenced in query"
+msgstr "Дархост дар ҷадвалҳои махсус иҷозат нест!"
+
+#: sections_with_invalid_category_combinations
+msgid "Sections with invalid category combinations"
+msgstr "Қисмҳои дорои ҷуфтҳои нодурусти категорияҳо"
+
+#: confirm_delete_sqlview
+msgid "Do you want to delete this SQL view object ?"
+msgstr "Оё мехоҳед, ки ин объекти намуди sql-ро нест кунед?"
+
+#: clear_data_mart
+msgid "Clear data mart"
+msgstr "Пок кардани киоски иттилоот"
+
+#: rebuild_data_mart_index
+msgid "Rebuild data mart index"
+msgstr "Такроран сохтани индекси киоски иттилоот"
+
+#: allow_show_zero
+msgid "Display zeros"
+msgstr "Нишон додани сифрҳо"
+
+#: raw_data
+msgid "Raw data"
+msgstr "Иттилооти ибтидоӣ"
+
+#: get_report_as_xls
+msgid "Download as Excel"
+msgstr "Боргирӣ ҳамчун файли Excel"
+
+#: get_report_as_csv
+msgid "Download as CSV"
+msgstr "Боргирӣ ҳамчун файли CSV"
+
+#: get_report_as_pdf
+msgid "Download as PDF"
+msgstr "Боргирӣ ҳамчун файли PDF"
+
+#: get_report_as_html
+msgid "Download as HTML"
+msgstr ""
+
+#: get_report_as_xml
+msgid "Download as XML"
+msgstr ""
+
+#: get_report_as_json
+msgid "Download as JSON"
+msgstr ""
+
+#: data_element_structure
+msgid "Data element structure"
+msgstr "Сохтори унсури иттилоот"
+
+#: constant
+msgid "Constant"
+msgstr "Доимӣ"
+
+#: constant_management
+msgid "Constant Management"
+msgstr "Идоракунии доимӣ"
+
+#: create_new_constant
+msgid "Add Constant"
+msgstr "Иловаи доимӣ"
+
+#: edit_constant
+msgid "Edit Constant"
+msgstr "Таҳрири доимӣ"
+
+#: value_must_be_double
+msgid "Value must be an number"
+msgstr "Қимат бояд адад бошад"
+
+#: confirm_delete_constant
+msgid "Do you want to delete this constant?"
+msgstr "Оё мехоҳед ин доимиро нест кунед?"
+
+#: object_type
+msgid "Object type"
+msgstr "Навъи объект"
+
+#: users_logged_in
+msgid "Users logged in"
+msgstr "Корбар ворид шудааст"
+
+#: today
+msgid "Today"
+msgstr "Имрӯз"
+
+#: yesterday
+msgid "Yesterday"
+msgstr "Дирӯз"
+
+#: last_2_days
+msgid "Last 2 days"
+msgstr ""
+
+#: last_7_days
+msgid "Last 7 days"
+msgstr "7 рӯзи охир"
+
+#: last_30_days
+msgid "Last 30 days"
+msgstr "30 рӯзи охир"
+
+#: dynamic_attributes
+msgid "Dynamic Attributes"
+msgstr "Нишонаҳои тағйирёбанда"
+
+#: attribute
+msgid "Attribute"
+msgstr "Нишона"
+
+#: attribute_management
+msgid "Attribute Management"
+msgstr "Идоракунии нишона"
+
+#: value_type
+msgid "Value Type"
+msgstr "Навъи қимат"
+
+#: mandatory
+msgid "Mandatory"
+msgstr "Ҳатмӣ"
+
+#: indicator
+msgid "Indicator"
+msgstr "Индикатор"
+
+#: indicator_group
+msgid "Indicator Group"
+msgstr "Гурӯҳи индикаторҳо"
+
+#: organisation_unit
+msgid "Organisation Unit"
+msgstr "Воҳиди сохторӣ"
+
+#: organisation_unit_group
+msgid "Organisation Unit Group"
+msgstr "Гурӯҳи воҳидҳои сохторӣ"
+
+#: organisation_unit_group_set
+msgid "Organisation Unit Group Set"
+msgstr ""
+
+#: user
+msgid "User"
+msgstr "Корбар"
+
+#: user_group
+msgid "User Group"
+msgstr "Гурӯҳи корбарон"
+
+#: program
+msgid "Program"
+msgstr ""
+
+#: program_stage
+msgid "Program Stage"
+msgstr ""
+
+#: tracked_entity
+msgid "Tracked Entity"
+msgstr ""
+
+#: tracked_entity_attribute
+msgid "Tracked Entity Attribute"
+msgstr ""
+
+#: integer
+msgid "Integer"
+msgstr "Адади бутун"
+
+#: positive_integer
+msgid "Positive Integer"
+msgstr "Адади бутуни мусбӣ"
+
+#: negative_integer
+msgid "Negative Integer"
+msgstr "Адади бутуни манфӣ"
+
+#: create_new_attribute
+msgid "Add Attribute"
+msgstr "Иловаи нишона"
+
+#: edit_attribute
+msgid "Edit Attribute"
+msgstr "Таҳрири нишона"
+
+#: assigned_to
+msgid "Assigned to"
+msgstr "таъиншуда ба"
+
+#: attribute_sort_order
+msgid "Attribute sort order"
+msgstr "Тартиби ҷудокунии нишонаҳо"
+
+#: data_element_does_not_exist
+msgid "Data element does not exist"
+msgstr ""
+
+#: category_option_combo_does_not_exist
+msgid "Category option combo does not exist"
+msgstr ""
+
+#: scheduling_is
+msgid "Scheduling is"
+msgstr "Банақшагирӣ"
+
+#: scheduling
+msgid "Scheduling"
+msgstr "Банақшагирӣ"
+
+#: scheduling_management
+msgid "Scheduling management"
+msgstr "Идоракунии банақшагирӣ"
+
+#: stop
+msgid "Stop"
+msgstr "Қатъ"
+
+#: refresh
+msgid "Refresh"
+msgstr "Таҷдид"
+
+#: aggregation_period_types
+msgid "Aggregation period types"
+msgstr "Навъҳои давраи ҳамҷоякунӣ"
+
+#: running
+msgid "active"
+msgstr "фаъол"
+
+#: done
+msgid "done"
+msgstr ""
+
+#: resource_tables
+msgid "Resource tables"
+msgstr "Ҷадвалҳои захиравӣ"
+
+#: data_mart
+msgid "Data mart"
+msgstr "Киоски иттилоот"
+
+#: analytics_tables
+msgid "Analytics tables"
+msgstr "Ҷадвалҳои таҳлилӣ"
+
+#: analytics_tables_task_strategy
+msgid "Analytics tables task strategy"
+msgstr "Стратегияи вазифаҳои ҷадвалҳои таҳлилӣ"
+
+#: last_2_years_daily
+msgid "Last 2 years daily"
+msgstr ""
+
+#: last_3_years_daily
+msgid "Last 3 years daily"
+msgstr "Ҳар рӯзи 3 соли охир"
+
+#: all_daily
+msgid "All daily"
+msgstr "Ҳамаи рӯзҳо"
+
+#: all_every_15_min
+msgid "All every 15 minutes"
+msgstr ""
+
+#: resource_table_task_strategy
+msgid "Resource tables task strategy"
+msgstr "Стратегияи вазифаҳои ҷадвалҳои захиравӣ"
+
+#: data_mart_task_strategy
+msgid "Data mart task strategy"
+msgstr "Стратегияи вазифаҳои киоски иттилоот"
+
+#: never
+msgid "Never"
+msgstr "Ҳеҷ гоҳ"
+
+#: last_12_months_daily
+msgid "Last 12 months daily"
+msgstr "Ҳар рӯзи 12 моҳи охир"
+
+#: last_6_months_daily_6_to_12_months_weekly
+msgid "Last 6 months daily + 6 to 12 months weekly"
+msgstr "Ҳар рӯзи 6 моҳи охир + ҳар ҳафтаи аз 6 то 12 моҳ"
+
+#: daily
+msgid "Daily"
+msgstr "Ҳаррӯза"
+
+#: organisation_unit_group_set_aggregation_level
+msgid "Organisation unit group set aggregation level"
+msgstr "Сатҳи ҳамҷоякунии маҷмӯи гурӯҳи воҳиди сохторӣ"
+
+#: aggregated_org_unit_data_values
+msgid "Aggregated org unit data values"
+msgstr "Қиматҳои ҳамҷояшудаи иттилооти воҳидҳои сохторӣ"
+
+#: aggregated_org_unit_indicator_values
+msgid "Aggregated org unit indicator values"
+msgstr "Қиматҳои ҳамҷояшудаи индикаторҳои воҳидҳои сохторӣ"
+
+#: execute_now
+msgid "Execute now"
+msgstr "Ҳозир иҷро кунед"
+
+#: execute_tasks_confirmation
+msgid ""
+"Are you sure you want to execute all tasks now? Task processing might fully "
+"utilize your system resources and slow down other operations."
+msgstr ""
+"Оё боварӣ доред, ки ҳамаи вазифаҳоро ҳозир иҷро кардан мехоҳед? Коркарди "
+"вазифа метавонад захираҳои системаи шуморо пурра истифода барад ва "
+"амалиётҳои дигарро суст кунад."
+
+#: no_aggregation
+msgid "No aggregation"
+msgstr "Бе ҳамҷоякунӣ"
+
+#: data_elements_in_data_set_not_in_form
+msgid "Data elements in data set but not in form or sections"
+msgstr "Унсурҳои иттилоот дар маҷмӯи иттилот ҳастанд, на дар шакл ё қисмҳо"
+
+#: option_set
+msgid "Option set"
+msgstr "Маҷмӯи имконот"
+
+#: option_set_management
+msgid "Option set management"
+msgstr "Идоракунии маҷмӯи имконот"
+
+#: add_option_set
+msgid "Add option set"
+msgstr "Иловаи маҷмӯи миконот"
+
+#: options
+msgid "Options"
+msgstr "Имконот"
+
+#: option
+msgid "Option "
+msgstr "Имкон"
+
+#: add_option
+msgctxt "add_option"
+msgid "Add option"
+msgstr "Иловаи имкон"
+
+#: edit_option_set
+msgid "Edit option set"
+msgstr "Таҳрири маҷмӯи имконот"
+
+#: number_of_members
+msgid "The number of members"
+msgstr "Шумораи аъзоён"
+
+#: object_not_deleted_associated_by_objects
+msgid "Object not deleted because it is associated by objects of type"
+msgstr "Объект нест карда нашуд, зеро онро объектҳои дигар истифода мебаранд:"
+
+#: lock_exception_management
+msgid "Lock Exception Management"
+msgstr "Идоракунии истиснои банд"
+
+#: lock_exception
+msgid "Lock Exception"
+msgstr "Истинои банд"
+
+#: confirm_delete_lock_exception
+msgid "Do you want to delete this lock exception?"
+msgstr "Оё мехоҳед ин истиснои бандро нест кунед?"
+
+#: confirm_delete_lock_exceptions
+msgid "Do you want to delete lock exceptions with this configuration?"
+msgstr "Оё мехоҳед истисноҳои банди дорои ингуна конфигуратсияро нест кунед?"
+
+#: create_new_lock_exception
+msgid "Create new lock exception"
+msgstr "Сохтани истиснои банди нав"
+
+#: edit_lock_exception
+msgid "Edit lock exception"
+msgstr "Таҳрири истиснои банди нав"
+
+#: lock_exception_batch_removal
+msgid "Lock exception batch removal"
+msgstr "Тоза кардани бастаи истиснои банд"
+
+#: back_to_lock_exceptions
+msgid "Back to lock exception"
+msgstr "Бозпас ба истиснои банд"
+
+#: batch_delete
+msgid "Batch deletion"
+msgstr "Несткунии баста"
+
+#: deleting_lock_exceptions
+msgid "Deleting lock exceptions"
+msgstr "Нест кардани истисноҳои банд"
+
+#: error_at
+msgid "Error at"
+msgstr "Хатогӣ дар"
+
+#: not_started
+msgid "not started"
+msgstr "оғоз нашуд"
+
+#: aggregated_data_set_completeness
+msgid "Aggregated data set completeness"
+msgstr "Пуррагии маҷмӯи иттилооти ҳамҷояшуда"
+
+#: show_sql_view
+msgid "Show SQL view"
+msgstr "Нишон додани намуди SQL"
+
+#: financial_yearly
+msgid "Financial Yearly"
+msgstr "Аз рӯи солҳои молиявӣ"
+
+#: update_option
+msgid "Update option"
+msgstr "Имкони навсозӣ"
+
+#: removing_min_max_values
+msgid "Removing min-max values"
+msgstr "Тоза кардани қиматҳои мин/макс"
+
+#: generating_min_max_values
+msgid "Generating min-max values"
+msgstr "Таҳияи қиматҳои мин/макс"
+
+#: done
+msgctxt "done"
+msgid "Done"
+msgstr ""
+
+#: period_structure
+msgid "Period structure"
+msgstr "Сохтори давра"
+
+#: data_element_category_option_combo
+msgid "Data element category option combinations"
+msgstr "Ҷуфтҳои имконти категорияҳои унсури иттилоот"
+
+#: update_category_option_combos
+msgid "Update category option combinations"
+msgstr "Навсозии ҷуфтҳои имкони категория"
+
+#: update_organisation_unit_paths
+msgid "Update organisation unit paths"
+msgstr ""
+
+#: date_period_structure
+msgid "Date period structure"
+msgstr ""
+
+#: locale
+msgid "Locale"
+msgstr ""
+
+#: locale_management
+msgid "Locale Management"
+msgstr ""
+
+#: create_new_locale
+msgid "Create New Locale"
+msgstr ""
+
+#: locale_details
+msgid "Locale Details"
+msgstr ""
+
+#: edit_locale
+msgid "Edit Locale"
+msgstr ""
+
+#: confirm_delete_locale
+msgid "Are you sure you want to delete this locale?"
+msgstr ""
+
+#: language
+msgid "Language"
+msgstr ""
+
+#: country
+msgid "Country"
+msgstr ""
+
+#: locale_language_no_translation
+msgid "Please select a language"
+msgstr ""
+
+#: locale_country_no_translation
+msgid "Please select a country"
+msgstr ""
+
+#: data_monitoring
+msgid "Data monitoring"
+msgstr ""
+
+#: data_monitoring_strategy
+msgid "Data monitoring strategy"
+msgstr ""
+
+#: last_hour
+msgid "Last hour"
+msgstr ""
+
+#: data_set
+msgid "Data Set"
+msgstr ""
+
+#: last_year_daily
+msgid "Last year daily"
+msgstr ""
+
+#: show_fewer_options
+msgid "Show fewer options"
+msgstr ""
+
+#: show_more_options
+msgid "Show more options"
+msgstr ""
+
+#: disabled
+msgid "Disabled"
+msgstr ""
+
+#: data_synchronization
+msgid "Data synchronization"
+msgstr ""
+
+#: data_synchronization_strategy
+msgid "Data synchronization strategy"
+msgstr ""
+
+#: enabled
+msgid "Enabled"
+msgstr ""
+
+#: last_success
+msgid "Last success"
+msgstr ""
+
+#: option_management
+msgid "Option management"
+msgstr ""
+
+#: add_option
+msgctxt "add_option"
+msgid "Add option"
+msgstr "Иловаи имкон"
+
+#: edit_option
+msgid "Edit option"
+msgstr ""
+
+#: sort_options
+msgid "Sort options"
+msgstr ""
+
+#: available_options
+msgid "Available options"
+msgstr ""
+
+#: please_select_a_dataset
+msgctxt "please_select_a_dataset"
+msgid "Please select a data set"
+msgstr ""
+
+#: please_select_an_organisation_unit
+msgctxt "please_select_an_organisation_unit"
+msgid "Please select an organisation unit"
+msgstr ""
+
+#: prev_year
+msgid "Prev year"
+msgstr ""
+
+#: next_year
+msgid "Next year"
+msgstr ""
+
+#: update_the_data_elements_and_option_combos_in_expression
+msgid "Update the data elements and option combos in expression"
+msgstr ""
+
+#: org_unit_group_does_not_exist
+msgid "Org unit group does not exist"
+msgstr ""
+
+#: duplicate_periods
+msgid "Duplicate periods"
+msgstr ""
+
+#: remove_expired_invitations
+msgid "Remove expired invitations"
+msgstr ""
+
+#: view_name
+msgid "View name"
+msgstr ""
+
+#: user_account_invitations
+msgid "User account invitations"
+msgstr ""
+
+#: pending_invitations
+msgid "Pending invitations"
+msgstr ""
+
+#: expired_invitations
+msgid "Expired invitations"
+msgstr ""
+
+#: category_option
+msgid "Category Option"
+msgstr ""
+
+#: category_option_group
+msgid "Category Option Group"
+msgstr ""

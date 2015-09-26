@@ -1,0 +1,1893 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-importexport/src/main/resources/org/hisp/dhis/importexport/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-importexport/src/main/resources/org/hisp/dhis/importexport/i18n_module_tg.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: datavalue
+msgctxt "datavalue"
+msgid "Data Value"
+msgstr ""
+
+#: import
+msgctxt "import"
+msgid "Import"
+msgstr ""
+
+#: select
+msgid "Select"
+msgstr "Интихоб кунед"
+
+#: period_type
+msgid "Period Type"
+msgstr "Навъи давара"
+
+#: export
+msgid "Export"
+msgstr "Воридот"
+
+#: action
+msgid "Action"
+msgstr "Амал"
+
+#: import
+msgctxt "import"
+msgid "Import"
+msgstr ""
+
+#: preview
+msgctxt "preview"
+msgid "Preview"
+msgstr ""
+
+#: from
+msgid "From"
+msgstr "Аз"
+
+#: to
+msgid "To"
+msgstr "Ба"
+
+#: period
+msgid "Period"
+msgstr "Давра"
+
+#: selected_data_elements
+msgid "Selected data elements"
+msgstr "Унсурҳои иттилооти интихобшуда"
+
+#: available_data_elements
+msgid "Available data elements"
+msgstr "Унсурҳои иттилооти мавҷуда"
+
+#: move_selected
+msgctxt "move_selected"
+msgid "Move selected"
+msgstr ""
+
+#: move_all
+msgctxt "move_all"
+msgid "Move all"
+msgstr ""
+
+#: remove_selected
+msgctxt "remove_selected"
+msgid "Remove selected"
+msgstr ""
+
+#: remove_all
+msgctxt "remove_all"
+msgid "Remove all"
+msgstr ""
+
+#: indicators
+msgid "Indicators"
+msgstr "Индикаторҳо"
+
+#: datavalues
+msgid "Data values"
+msgstr "Қиматҳои иттлоот"
+
+#: available_datasets
+msgid "Available data sets"
+msgstr "Маҷмӯъҳои иттилооти мавҷуда"
+
+#: selected_datasets
+msgid "Selected data sets"
+msgstr "Маҷмӯъҳои иттилооти интихобшуда"
+
+#: available_indicators
+msgid "Available indicators"
+msgstr "Индикаторҳои мавҷуда"
+
+#: selected_indicators
+msgid "Selected indicators"
+msgstr "Индикаторҳои интихобшуда"
+
+#: level
+msgid "Level"
+msgstr "Сатҳ"
+
+#: clear
+msgid "Clear"
+msgstr "Пок кардан"
+
+#: dhis14_import
+msgid "DHIS 1.4 Import"
+msgstr "Содироти DHIS 1.4"
+
+#: organisation_units
+msgid "Organisation units"
+msgstr "воҳидҳои сохторӣ"
+
+#: periods
+msgid "Periods"
+msgstr "Давраҳо"
+
+#: import
+msgctxt "import"
+msgid "Import"
+msgstr ""
+
+#: importing
+msgid "Importing..."
+msgstr "Содирот мешавад..."
+
+#: done
+msgid "Done"
+msgstr "Иҷро шуд"
+
+#: compare
+msgid "Compare"
+msgstr "Муқоиса"
+
+#: configuration
+msgctxt "configuration"
+msgid "Configuration"
+msgstr ""
+
+#: source
+msgid "Source"
+msgstr "Маъхаз"
+
+#: object_type
+msgid "Object type"
+msgstr ""
+
+#: del
+msgid "Del"
+msgstr "Нест кардан"
+
+#: up
+msgid "Up"
+msgstr "Ба боло"
+
+#: specify_file
+msgid "Please specify a file"
+msgstr "Файлро нишон диҳед"
+
+#: data_sets
+msgid "Data sets"
+msgstr "Маҷмӯъҳои иттилоот"
+
+#: include_datavalues
+msgid "Include Data Values"
+msgstr ""
+
+#: file
+msgid "File"
+msgstr "Файл"
+
+#: elements
+msgid "Elements"
+msgstr "Унсурҳо"
+
+#: data
+msgid "Data"
+msgstr ""
+
+#: import_preview
+msgid "Import Preview"
+msgstr "Пешнамоиши содирот"
+
+#: select_none
+msgid "Select none"
+msgstr "Ягонтоаш интихоб нашудааст"
+
+#: element
+msgctxt "element"
+msgid "Element"
+msgstr ""
+
+#: unique
+msgid "Unique"
+msgstr "Беназир"
+
+#: matching
+msgid "Matching"
+msgstr "Мувофиқ"
+
+#: preview
+msgctxt "preview"
+msgid "Preview"
+msgstr ""
+
+#: skip
+msgid "Skip"
+msgstr "Партофта гузаштан"
+
+#: dataelement
+msgctxt "dataelement"
+msgid "Data element"
+msgstr "Унсури иттилоот"
+
+#: indicator
+msgid "Indicator"
+msgstr "Индикатор"
+
+#: indicator_group
+msgid "Indicator group"
+msgstr "Гурӯҳи индикаторҳо"
+
+#: dataset
+msgid "Data set"
+msgstr "Маҷмӯи иттилоот"
+
+#: organisationunit
+msgctxt "organisationunit"
+msgid "Organisation unit"
+msgstr "Воҳиди сохторӣ"
+
+#: data_export
+msgid "DXF Data Value Export"
+msgstr ""
+
+#: datavalue_export
+msgctxt "datavalue_export"
+msgid "Data Export"
+msgstr ""
+
+#: metadata_export
+msgid "DXF Metadata Export"
+msgstr ""
+
+#: data_export
+msgctxt "data_export"
+msgid "Data Export"
+msgstr ""
+
+#: metadata_export
+msgid "Metadata Export"
+msgstr ""
+
+#: data_element_groups
+msgid "Data element groups"
+msgstr "Гурӯҳҳои унсурҳои иттилоот"
+
+#: indicator_groups
+msgid "Indicator groups"
+msgstr "Гурӯҳҳои индикаторҳо"
+
+#: organisation_unit
+msgctxt "organisation_unit"
+msgid "Organisation unit"
+msgstr "Воҳиди сохторӣ"
+
+#: organisation_unit_groups
+msgid "Organisation unit groups"
+msgstr "Гурӯҳҳои воҳидҳои сохторӣ"
+
+#: organisation_unit_group_sets
+msgid "Organisation unit group sets"
+msgstr "Маҷмӯи гурӯҳҳои воҳидҳои сохторӣ"
+
+#: export_to_other_systems
+msgid "Export to other systems"
+msgstr "Воридот ба системаҳои дигар"
+
+#: import_from_other_systems
+msgid "Import from other systems"
+msgstr ""
+
+#: DHIS14_metadata_export
+msgid "DHIS 1.4 Metadata Export"
+msgstr "Воридоти метадатаи DHIS 1.4"
+
+#: DHIS14_data_export
+msgid "DHIS 1.4 Data Export"
+msgstr "Воридоти иттилооти DHIS 1.4"
+
+#: accept_incoming_records
+msgid "Accept incoming records"
+msgstr "Қабул кардани сабтҳои даромад"
+
+#: include_datavalues
+msgid "Include data values"
+msgstr ""
+
+#: new_and_updates
+msgid "New and Updates"
+msgstr "Нав ва навсозиҳо"
+
+#: new_no_updates
+msgid "New ( No Updates )"
+msgstr "Нав (бе ягон навсозӣ)"
+
+#: data_element
+msgctxt "data_element"
+msgid "Data element"
+msgstr "Унсури иттилоот"
+
+#: data_element_group
+msgid "Data element group"
+msgstr "Гурӯҳи унсурҳои иттилоот"
+
+#: organisation_unit_group
+msgid "Organisation unit group"
+msgstr "Гурӯҳи воҳидҳои сохторӣ"
+
+#: organisation_unit_group_set
+msgid "Organisation unit group set"
+msgstr "Маҷмӯи гурӯҳҳои воҳидҳои сохторӣ"
+
+#: category_option
+msgid "Category option"
+msgstr ""
+
+#: category_option_group
+msgid "Category option group"
+msgstr ""
+
+#: option_set
+msgid "Option set"
+msgstr ""
+
+#: element
+msgctxt "element"
+msgid "Element"
+msgstr ""
+
+#: objects
+msgid "Objects"
+msgstr "Объектҳо"
+
+#: discard_selected
+msgid "Discard selected"
+msgstr "Лағви интихобшудаҳо"
+
+#: discard_all
+msgid "Discard all"
+msgstr "Лағви ҳама"
+
+#: match_to_existing
+msgid "Match to existing"
+msgstr "Мувофиқ кардан бо мавҷудбуда"
+
+#: compare_to_existing
+msgid "Compare to existing"
+msgstr "Муқоиса бо мавҷудбуда"
+
+#: property
+msgid "Property"
+msgstr "Сифат"
+
+#: existing_objects
+msgid "Existing objects"
+msgstr "Объектҳои мавҷуда"
+
+#: discard
+msgid "Discard"
+msgstr "Соқит кардан"
+
+#: new_object
+msgid "New object"
+msgstr "Объекти нав"
+
+#: existing_object
+msgid "Existing object"
+msgstr "Объекти мавҷуда"
+
+#: file_type_not_allowed
+msgid "File type not allowed"
+msgstr "Навъи файл иҷозат нест"
+
+#: import_all
+msgid "Import all"
+msgstr "Содироти ҳама"
+
+#: factor
+msgid "Factor"
+msgstr "Коэффисиент"
+
+#: match
+msgid "Match"
+msgstr "Мувофиқсозӣ"
+
+#: discard_update
+msgid "Discard update"
+msgstr "Лағви навсозӣ"
+
+#: show_advanced_options
+msgid "Show advanced options"
+msgstr "Нишон додани имконоти васеъ"
+
+#: hide_advanced_options
+msgid "Hide advanced options"
+msgstr "Пинҳон кардани имконоти васеъ"
+
+#: move_selected
+msgctxt "move_selected"
+msgid "Move selected"
+msgstr ""
+
+#: move_all
+msgctxt "move_all"
+msgid "Move all"
+msgstr ""
+
+#: remove_selected
+msgctxt "remove_selected"
+msgid "Remove selected"
+msgstr ""
+
+#: remove_all
+msgctxt "remove_all"
+msgid "Remove all"
+msgstr ""
+
+#: pdf_metadata_export
+msgid "PDF Metadata Export"
+msgstr "Воридоти метадатаи PDF"
+
+#: xls_metadata_export
+msgid "XLS Metadata Export"
+msgstr "Воридоти метадатаи XLS"
+
+#: version
+msgid "Version"
+msgstr "Версия"
+
+#: status
+msgid "Status"
+msgstr "Ҳолат"
+
+#: data_type
+msgid "Data type"
+msgstr "Навъи иттилооти асосӣ"
+
+#: validation_rules
+msgid "Validation rules"
+msgstr "Қоидаҳои санҷиши эътибор"
+
+#: saved
+msgctxt "saved"
+msgid "Saved"
+msgstr ""
+
+#: last_updated
+msgid "Last updated"
+msgstr "Навсозии охирин"
+
+#: validation_rule
+msgid "Validation rule"
+msgstr "Қоидаи санҷиши эътибор"
+
+#: operator
+msgid "Operator"
+msgstr "Оператор"
+
+#: data_elements
+msgid "Data elements"
+msgstr "Унсурҳои иттилоот"
+
+#: data_dictionary
+msgctxt "data_dictionary"
+msgid "Data dictionary"
+msgstr ""
+
+#: data_value
+msgctxt "data_value"
+msgid "Data Value"
+msgstr ""
+
+#: data_value_daily
+msgid "Daily Data Value"
+msgstr ""
+
+#: dhis14_file_configuration
+msgid "DHIS 1.4 File Configuration"
+msgstr "Конфигуратсияи файли DHIS 1.4"
+
+#: data_file
+msgid "Data file"
+msgstr "Файли иттилоот"
+
+#: user_name
+msgid "Username"
+msgstr "Номи корбар"
+
+#: password
+msgid "Password"
+msgstr "Парол"
+
+#: levels
+msgid "Levels"
+msgstr "Сатҳҳо"
+
+#: preload_cache
+msgid "Preload cache"
+msgstr ""
+
+#: import_process_done
+msgid "Import successful"
+msgstr "Содироти бомуваффақият"
+
+#: import_process_failed
+msgid "Import process failed - See log for details"
+msgstr "Раванди содирот иҷро нашуд - Тафсилотро дар китоби қайд бинед"
+
+#: importing_constants
+msgid "Importing constants"
+msgstr "Воридоти доимиҳо"
+
+#: importing_data_element_category_options
+msgid "Importing data element category options"
+msgstr "Воридоти имконоти категорияҳои унсурҳои иттилоот"
+
+#: importing_data_element_categories
+msgid "Importing data element categories"
+msgstr "Воридоти категорияҳои унсурҳои иттилоот"
+
+#: importing_data_element_category_combos
+msgid "Importing data element category combos"
+msgstr "Воридоти комбоҳои категорияҳои унсурҳои иттилоот"
+
+#: importing_data_element_category_option_combos
+msgid "Importing data element category option combos"
+msgstr "Воридоти комбоҳои имкони категорияи унсурҳои иттилоот"
+
+#: importing_data_element_category_members
+msgid "Importing data element category members"
+msgstr "Воридоти аъзоёни категорияҳои унсурҳои иттилоот"
+
+#: importing_data_element_category_combo_members
+msgid "Importing data element category combo members"
+msgstr "Воридоти аъзоёни комбоҳои категорияҳои унсурҳои иттилоот"
+
+#: importing_data_elements
+msgid "Importing data elements"
+msgstr "Воридоти унсурҳои иттилоот"
+
+#: importing_calculated_data_elements
+msgid "Importing calculated data elements"
+msgstr "Воридоти унсурҳои иттилооти ҳисобшуда"
+
+#: importing_indicator_types
+msgid "Importing indicator types"
+msgstr "Воридоти навъҳои индикатор"
+
+#: importing_indicators
+msgid "Importing indicators"
+msgstr "Воридоти индикаторҳо"
+
+#: importing_data_element_groups
+msgid "Importing data element groups"
+msgstr "Воридоти гурӯҳҳои унсурҳои иттилоот"
+
+#: importing_indicator_groups
+msgid "Importing indicator groups"
+msgstr "Воридоти гурӯҳҳои индикаторҳо"
+
+#: importing_data_element_group_members
+msgid "Importing data element group members"
+msgstr "Воридоти аъзоёни гурӯҳи унсурҳои иттилоот"
+
+#: importing_indicator_group_members
+msgid "Importing indicator group members"
+msgstr "Воридоти аъзоёни гурӯҳи индикаторҳо"
+
+#: importing_data_dictionaries
+msgid "Importing data dictionaries"
+msgstr "Воридоти луғатҳои иттилоот"
+
+#: importing_data_dictionary_data_elements
+msgid "Importing data dictionary data elements"
+msgstr "Воридоти унсурҳои иттилооти луғатҳои иттилоот"
+
+#: importing_data_dictionary_indicators
+msgid "Importing data dictionary indicators"
+msgstr "Воридоти индикаторҳои луғатҳои иттилоот"
+
+#: importing_data_sets
+msgid "Importing data sets"
+msgstr "Воридоти маҷмӯъҳои иттилоот"
+
+#: importing_data_sets_daily_capture
+msgid "Importing data sets daily capture"
+msgstr ""
+
+#: importing_data_set_members
+msgid "Importing data set members"
+msgstr "Воридоти аъзоёни маҷмӯи иттилоот"
+
+#: importing_data_set_source_associations
+msgid "Importing data set source associations"
+msgstr "Воридоти иттиҳодҳои маъхазҳои маҷмӯи иттилоот"
+
+#: importing_dataset_data_entry_form_association
+msgid "Importing data set data entry form associations"
+msgstr "Воридоти иттиҳодҳои шакли вуруди иттилооти маҷмӯи иттилоот"
+
+#: importing_organisation_units
+msgid "Importing organisation units"
+msgstr "Воридоти воҳидҳои сохторӣ"
+
+#: importing_organisation_unit_relationships
+msgctxt "importing_organisation_unit_relationships"
+msgid "Importing organisation unit relationships"
+msgstr ""
+
+#: importing_organisation_unit_groups
+msgid "Importing organisation unit groups"
+msgstr "Воридоти гурӯҳҳои воҳидҳои сохторӣ"
+
+#: importing_organisation_unit_group_members
+msgid "Importing organisation unit group members"
+msgstr "Воридоти аъзоёни гурӯҳҳои воҳидҳои сохторӣ"
+
+#: importing_organisation_unit_group_sets
+msgid "Importing organisation unit group sets"
+msgstr "Воридоти  маҷмӯъҳои гурӯҳҳои воҳидҳои сохторӣ"
+
+#: importing_organisation_unit_group_set_members
+msgid "Importing organisation unit group set members"
+msgstr "Воридоти аъзоёни маҷмӯъҳои гурӯҳҳои воҳидҳои сохторӣ"
+
+#: importing_organisation_unit_structures
+msgid "Importing organisation unit structures"
+msgstr "Воридоти сохторҳои воҳидҳои сохторӣ"
+
+#: importing_organisation_unit_relationships
+msgctxt "importing_organisation_unit_relationships"
+msgid "Importing organisation unit relationships"
+msgstr ""
+
+#: importing_organisation_unit_hierarchy
+msgid "Importing organisation unit hierarchy"
+msgstr "Воридоти иерархияи воҳидҳои сохторӣ"
+
+#: importing_organisation_unit_levels
+msgid "Importing organisation unit levels"
+msgstr "Воридоти сатҳҳои воҳидҳои сохторӣ"
+
+#: importing_periods
+msgid "Importing periods"
+msgstr "Воридоти давраҳо"
+
+#: importing_routine_data_values
+msgid "Importing routine data values"
+msgstr "Воридоти қиматҳои иттилооти рӯзмарра"
+
+#: importing_on_change_periods
+msgid "Importing on-change periods"
+msgstr "Воридоти давраҳои тағйирёбанда"
+
+#: importing_semi_permanent_data_values
+msgid "Importing semi-permanent data values"
+msgstr "Воридоти қиматҳои иттилооти нимдоимӣ"
+
+#: importing_aggregated_data_values
+msgid "Importing aggregated data values"
+msgstr "Воридоти қиматҳои иттилооти ҳамҷояшуда"
+
+#: importing_aggregated_indicator_values
+msgid "Importing aggregated indicator values"
+msgstr "Воридоти қиматҳои индикаторҳои ҳамҷояшуда"
+
+#: importing_validation_rules
+msgid "Importing validation rules"
+msgstr "Воридоти қоидаҳои санҷиши эътибор"
+
+#: importing_data_values
+msgid "Importing data values"
+msgstr "Воридоти қиматҳои иттилоот"
+
+#: importing_previewed_meta_data
+msgid "Importing previewed meta data"
+msgstr "Воридоти метадатаи пешнамоишшуда"
+
+#: importing_previewed_data
+msgid "Importing previewed data"
+msgstr "Воридоти иттилооти пешнамоишшуда"
+
+#: importing_complete_data_set_registrations
+msgid "Importing complete data set registrations"
+msgstr "Воридоти бақайдгирии маҷмӯъҳои иттилооти мукаммал"
+
+#: importing_report_tables
+msgid "Importing report tables"
+msgstr "Воридоти ҷадвалҳои ҳисобот"
+
+#: importing_olap_urls
+msgid "Importing OLAP URLs"
+msgstr "Воридоти OLAP URL"
+
+#: importing_data_set_organisation_unit_associations
+msgid "Importing data set organisation unit associations"
+msgstr "Воридоти алоқамандии воҳиди сохтории маҷмӯи иттилоот"
+
+#: importing_routine_data_daily_capture_periods
+msgid "Importing routine data daily capture periods"
+msgstr ""
+
+#: importing_routine_data_daily_capture
+msgid "Importing routine data daily capture"
+msgstr ""
+
+#: no_import_process_running
+msgid "No import process running"
+msgstr "Ягон раванди воридот иҷро нашуда истодааст"
+
+#: skip_check_matching
+msgid "Skip check for matching data values"
+msgstr "Тафтишро барои қиматҳои мувофиқомадаи иттилоот партофта гузаред"
+
+#: yes_empty_database
+msgid "Yes (empty database)"
+msgstr "Ҳа (пойгоҳи иттилооти холӣ)"
+
+#: report_tables
+msgid "Report tables"
+msgstr "Ҷадвалҳои ҳисобот"
+
+#: reports
+msgid "Reports"
+msgstr "Ҳисоботҳо"
+
+#: charts
+msgid "Charts"
+msgstr "Диаграммаҳо"
+
+#: set_configuration
+msgid "Please set the configuration in order for the import to work properly"
+msgstr "Барои дуруст кор кардани воридот конфигуратсияиро танзим кунед"
+
+#: last_updated_leave_blank_for_all
+msgid "Last updated (Leave blank for all)"
+msgstr "Навсозии охирин (Барои ҳамааш холӣ гузоред)"
+
+#: organisation_unit_with_children
+msgid "Organisation unit with children"
+msgstr "Воҳиди сохторӣ бо воҳидҳои фаръӣ"
+
+#: organisation_unit_only
+msgid "Organisation unit only"
+msgstr "Танҳо воҳиди сохторӣ"
+
+#: current_import_file
+msgid "Current import file"
+msgstr "Файли воридоти ҷорӣ"
+
+#: no_current_file
+msgid "No current file"
+msgstr "Файли воридоти ҷорӣ нест"
+
+#: select_organisation_unit
+msgid "Please select at least one organisation unit"
+msgstr "Лутфан на камтар аз як воҳиди сохториро интихоб кунед"
+
+#: select_startdate
+msgid "Please select a start date"
+msgstr "Лутфан ягон санаи оғозро интихоб кунед"
+
+#: select_enddate
+msgid "Please select an end date"
+msgstr "Лутфан ягон санаи анҷомро интихоб кунед"
+
+#: select_datasets
+msgid "Please select at least one data set"
+msgstr "Лутфан на камтар аз як маҷмӯи иттилоотро интихоб кунед"
+
+#: select_one_or_more_object_types
+msgid "Please select one or more object types"
+msgstr "Лутфан боз як ё зиёда навъи объектро интихоб кунед"
+
+#: geo_code
+msgid "Geo code"
+msgstr "Рамзи ҷуғрофӣ"
+
+#: view_all
+msgid "View all"
+msgstr "Намоиш додани ҳама"
+
+#: data_dictionaries
+msgid "Data dictionaries"
+msgstr "Луғатҳои иттилоот"
+
+#: report_table
+msgid "Report table"
+msgstr "Ҷадвалҳои ҳисобот"
+
+#: data_dictionary
+msgctxt "data_dictionary"
+msgid "Data dictionary"
+msgstr ""
+
+#: region
+msgid "Region"
+msgstr "Минтақа"
+
+#: import_process_not_initialized
+msgid "Import process not initialized"
+msgstr "Раванди воридот шурӯъ нашуд"
+
+#: aggregated_data
+msgid "Aggregated data"
+msgstr "Иттилооти ҳамҷояшуда"
+
+#: regular_data
+msgid "Regular data"
+msgstr "Иттилооти муқаррарӣ"
+
+#: data_source
+msgid "Data source"
+msgstr "Маъхази иттилоот"
+
+#: use_existing_data
+msgid "Use existing data"
+msgstr "Истифодаи иттилооти мавҷуда"
+
+#: generate_data
+msgid "Generate data"
+msgstr "Таҳияи иттилоот"
+
+#: exporting_data_for_data_elements
+msgid "Exporting data for data elements"
+msgstr "Содироти иттилоот барои унсурҳои иттилоот"
+
+#: exporting_data_for_indicators
+msgid "Exporting data for indicators"
+msgstr "Содироти иттилоот барои индикаторҳо"
+
+#: export_process_done
+msgid "Export process done"
+msgstr "Раванди содирот иҷро шуд"
+
+#: data_file_is_not_valid
+msgid "Data file is not valid"
+msgstr "Файли иттилоот беэътибор аст"
+
+#: analysis
+msgid "Analysis"
+msgstr "Таҳлил"
+
+#: import_analysis
+msgid "Import analysis"
+msgstr "Таҳлили воридот"
+
+#: unique_constraint_violations
+msgid "Unique constraint violations"
+msgstr "Вайронкунии доимии беназир"
+
+#: entity
+msgid "Entity"
+msgstr "Муассиса"
+
+#: value
+msgid "Value"
+msgstr "Қимат"
+
+#: DHIS14_file_import
+msgid "DHIS 1.4 File Import"
+msgstr "Воридоти файли DHIS 1.4"
+
+#: DHIS14_xml_import
+msgid "DHIS 1.4 XML Import"
+msgstr "Воридоти DHIS 1.4 XML"
+
+#: DHIS14_detailed_metadata_export
+msgid "DHIS 1.4 Detailed Metadata Export"
+msgstr "Воридоти метадатаи муфассали DHIS 1.4"
+
+#: detailed_metadata_export
+msgid "Detailed Metadata Export"
+msgstr "Воридоти метадатаи муфассал"
+
+#: import_process_started
+msgid "Import process started"
+msgstr "Раванди воридот оғоз шуд"
+
+#: imported_meta_data
+msgid "Imported meta data"
+msgstr "Метадата воридот шуд"
+
+#: saved
+msgctxt "saved"
+msgid "Saved"
+msgstr ""
+
+#: calculated_data_element
+msgid "Calculated data element"
+msgstr "Унсури иттилооти ҳисобшуда"
+
+#: DHIS14XML
+msgid "DHIS 1.4 XML"
+msgstr "DHIS 1.4 XML"
+
+#: DHIS14FILE
+msgid "DHIS 1.4 File"
+msgstr "Файли DHIS 1.4"
+
+#: DXF
+msgid "DXF"
+msgstr "DXF"
+
+#: PDF
+msgctxt "PDF"
+msgid "PDF"
+msgstr "PDF"
+
+#: XLS
+msgid "XLS"
+msgstr "XLS"
+
+#: url
+msgid "Url"
+msgstr "Url"
+
+#: table_name
+msgid "Table name"
+msgstr "Номи ҷадвал"
+
+#: mode
+msgid "Mode"
+msgstr "Реҷа"
+
+#: regression
+msgctxt "regression"
+msgid "Regression"
+msgstr ""
+
+#: reporting_month
+msgid "Reporting month"
+msgstr "Моҳи ҳисоботӣ"
+
+#: last_3_months
+msgid "Last 3 months"
+msgstr "3 моҳи охир"
+
+#: last_6_months
+msgid "Last 6 months"
+msgstr "6 моҳи охир"
+
+#: last_12_months
+msgid "Last 12 months"
+msgstr "12 моҳи охир"
+
+#: so_far_this_year
+msgid "So far this year"
+msgstr "Соли равон то ба имрӯз"
+
+#: last_3_to_6_months
+msgid "Last 3 to 6 months"
+msgstr "Аз 3 то 6 моҳи охир"
+
+#: last_6_to_9_months
+msgid "Last 6 to 9 months"
+msgstr "Аз 6 то 9 моҳи охир"
+
+#: last_9_to_12_months
+msgid "Last 9 to 12 months"
+msgstr "Аз 9 то 12 моҳи охир"
+
+#: last_12_individual_months
+msgid "Last 12 individual months"
+msgstr "Ҳар яке аз 12 моҳҳои охир"
+
+#: individual_months_this_year
+msgid "Individual months this year"
+msgstr "Ҳар яке аз моҳҳои соли равон"
+
+#: individual_quarters_this_year
+msgid "Individual quarters this year"
+msgstr "Ҳар яке аз семоҳаҳи соли равон"
+
+#: organisation_unit_levels
+msgid "Organisation unit levels"
+msgstr "Саттҳҳои воҳидҳои сохторӣ"
+
+#: organisation_unit_level
+msgid "Organisation unit level"
+msgstr "Саттҳи воҳиди сохторӣ"
+
+#: importing_meta_data
+msgid "Importing meta data"
+msgstr "Воридоти метадата"
+
+#: non_existing_data_element_identifiers
+msgid "Non-existing data element identifiers"
+msgstr "Идентификаторҳои вуҷуднадоштаи унсурҳои иттилоот"
+
+#: formula
+msgid "Formula"
+msgstr "Формула"
+
+#: identifier
+msgid "Identifier"
+msgstr "Идентификатор"
+
+#: error_data_elements_with_different_period_types
+msgid ""
+"There are data elements registered for data sets with different period "
+"types, please go to data integrity checks for more information and then "
+"correct this before exporting"
+msgstr ""
+"Унсурҳои иттилооте ҳастанд, ки барои навъҳои гуногуни давраҳо қайд шудаанд, "
+"барои маълумоти иловагӣ лутфан ба санҷишҳои мукаммалии иттилоот гузаред ва "
+"пеш аз содирот кардан ислоҳ намоед"
+
+#: data_element_group_sets
+msgid "Data element group sets"
+msgstr "Маҷмӯъҳои гурӯҳҳои унсурҳои иттилоот"
+
+#: indicator_group_sets
+msgid "Indicator group sets"
+msgstr "Маҷмӯъҳои гурӯҳҳои индикаторҳо"
+
+#: data_element_group_set
+msgid "Data element group set"
+msgstr "Маҷмӯъи гурӯҳҳои унсурҳои иттилоот"
+
+#: indicator_group_set
+msgid "Indicator group set"
+msgstr "Маҷмӯъҳои гурӯҳи индикаторҳо"
+
+#: routine_data_contains_values_out_of_range
+msgid "Routine data values out of range (2^31) exist"
+msgstr "Қиматҳои иттилооти рӯзмарраи аз ҳудуд берун (2^31) вуҷуд доранд"
+
+#: semi_permanent_data_contains_values_out_of_range
+msgid "Semi-permanent data value out of range (2^31) exist"
+msgstr "Қиматҳои иттилооти нимдоимии аз ҳудуд берун (2^31) вуҷуд доранд"
+
+#: process_completed
+msgid "Process completed"
+msgstr "Раванд анҷом ёфт"
+
+#: process_started
+msgid "Process started"
+msgstr "Раванд оғоз шуд"
+
+#: process_failed
+msgid "Process failed - See log for details"
+msgstr "Раванд иҷро нашуд - Барои маълумоти муфассал ба сабтҳо нигаред"
+
+#: configuration
+msgctxt "configuration"
+msgid "Configuration"
+msgstr ""
+
+#: size
+msgid "Size"
+msgstr "Андоза"
+
+#: dimension
+msgid "Dimension"
+msgstr "Андоза"
+
+#: hide_legend
+msgid "Hide legend"
+msgstr "Пинҳон кардани аломатҳои шартӣ"
+
+#: vertical_labels
+msgid "Vertical labels"
+msgstr "Барчаспҳои амудӣ"
+
+#: horizontal_plot_orientation
+msgid "Horizontal plot orientation"
+msgstr "Ҷойгиршавии уфуқии нақша"
+
+#: regression
+msgctxt "regression"
+msgid "Regression"
+msgstr ""
+
+#: design
+msgid "Design"
+msgstr "Тарҳ"
+
+#: report
+msgid "Report"
+msgstr "Ҳисобот"
+
+#: chart
+msgid "Chart"
+msgstr "Диаграммаҳо"
+
+#: intro_DHIS14_xml_import
+msgid ""
+"Do an import from an XML based format. DHIS 1.4 is the predecessor of DHIS 2."
+msgstr "Содирот кардан аз формати  XML. DHIS 1.4 пешгузаштаи DHIS 2 мебошад."
+
+#: intro_DHIS14_file_import
+msgid ""
+"Do an import from an Access data file. DHIS 1.4 is the predecessor of DHIS 2."
+msgstr ""
+"Содирот кардан аз файли иттилоотии Access. DHIS 1.4 пешгузаштаи DHIS 2 "
+"мебошад."
+
+#: intro_DHIS14_metadata_export
+msgid ""
+"Do an export of meta-data or dimensional data describing the facts. DHIS 1.4 "
+"is the predecessor of DHIS 2."
+msgstr ""
+"Содирот кардани метадата ё иттилооти андозадор бо тавсифи далелҳо. DHIS 1.4 "
+"пешгузаштаи DHIS 2 мебошад."
+
+#: intro_DHIS14_detailed_metadata_export
+msgid ""
+"Do an export of an detailed selection of meta-data. DHIS 1.4 is the "
+"predecessor of DHIS 2."
+msgstr ""
+"Содирот кардани ягон мунтахаби муфассали метадата. DHIS 1.4 пешгузаштаи DHIS "
+"2 мебошад."
+
+#: intro_DHIS14_data_export
+msgid ""
+"Do an export of data values or facts. DHIS 1.4 is the predecessor of DHIS 2."
+msgstr ""
+"Содирот кардани қматҳои иттилоот ё далелҳо. DHIS 1.4 пешгузаштаи DHIS 2 "
+"мебошад."
+
+#: intro_pdf_metadata_export
+msgid ""
+"Portable Document Format (PDF) is a commonly used file format for document "
+"exchange."
+msgstr ""
+"Формати сайёри ҳуҷҷат (PDF) формати маъмулан истифодашаванда барои мубодилаи "
+"ҳуҷҷатҳо мебошад."
+
+#: intro_xls_metadata_export
+msgid ""
+"Excel Spreadsheet (XLS) is a commonly used spreadsheet file format from "
+"Microsoft."
+msgstr ""
+"Ҷадвали электронии Excel (XLS) ормати маъмулан истифодашавандаи ҷадвали "
+"электронӣ аз  Microsoft мебошад."
+
+#: intro_data_import
+msgid ""
+"Import data values on the DXF 2 XML, JSON, CSV and PDF formats. DXF 2 is the "
+"standard exchange format for DHIS 2."
+msgstr ""
+
+#: intro_csv_data_import
+msgid ""
+"Import data values on the CSV format which is used for data exchange by DHIS "
+"2 and other third-party software."
+msgstr ""
+"Воридот кардани қиматҳои иттилоот бо формати CSV, ки   ки барои мубодилаи "
+"иттилоот байни DHIS 2 ва нармафзори дигар тарафҳои сеюм истифода мешавад.."
+
+#: intro_pdf_data_import
+msgid ""
+"Import data from a PDF data entry form. PDF forms can be generated from the "
+"data set module."
+msgstr "Воридот кардани қиматҳои иттилоот бо Шакли вуруди иттилооти PDF."
+
+#: intro_event_import
+msgid "Import events for programs, stages and persons on the DXF 2 format."
+msgstr ""
+
+#: intro_dhis14_import
+msgid ""
+"Import data from DHIS 1.4 installations. DHIS 1.4 is the predecessor of DHIS "
+"2."
+msgstr ""
+"Воридот кардани қиматҳои иттилоот аз DHIS 1.4. DHIS 1.4 пешгузаштаи DHIS 2 "
+"мебошад."
+
+#: intro_data_export
+msgid ""
+"Export data values. This is the regular export function which exports data "
+"to the DHIS 2 exchange format called DXF 2."
+msgstr ""
+"Содирот кардани қиматҳои иттилоот. Ин функсияи муқаррарии содирот буда, "
+"иттилоотро ба формати мубодилаи DHIS 2, ки DXF 2 ном дорад, содирот мекунад."
+
+#: intro_metadata_export
+msgid ""
+"Export meta data like data elements and organisation units to the standard "
+"DHIS 2 exchange format."
+msgstr ""
+"Содирот кардани метадата аз қабили унсурҳои иттилоот ва воҳидҳои сохторӣ ба "
+"формати мубодилаи стандартии DHIS 2."
+
+#: intro_export_to_other_systems
+msgid ""
+"Export data and meta data to formats such as PDF, Excel and the DHIS 1.4 "
+"exchange format."
+msgstr ""
+"Содирот кардани иттилоот ва метадата ба форматҳои мисли PDF, Excel  ва "
+"формати мубодилаи DHIS 1.4."
+
+#: intro_dhis14_file_configuration
+msgid ""
+"Set the configuration for the DHIS 1.4 file import process, such as the "
+"location of the data file."
+msgstr ""
+"Конфигуратсияи раванди воридоти  DHIS 1.4-ро, аз қабили ҷойгиршавии файли "
+"иттилоот, танзим кунед."
+
+#: intro_metadata_import
+msgctxt "intro_metadata_import"
+msgid ""
+"Import meta-data like data elements and organisation units using the "
+"standard DHIS 2 exchange format called DXF 2."
+msgstr ""
+"Воридот кардани метадата аз қабили унсурҳои иттилоот ва воҳидҳои сохторӣ бо "
+"формати мубодилаи стандартии DHIS 2, ки DXF 2 ном дорад."
+
+#: intro_event_export
+msgid "Export event data for programs, stages and persons on the DXF 2 format."
+msgstr ""
+
+#: intro_xml_metadata_import
+msgctxt "intro_xml_metadata_import"
+msgid ""
+"Import meta-data like data elements and organisation units using the "
+"standard DHIS 2 exchange format called DXF 2."
+msgstr ""
+
+#: intro_csv_metadata_import
+msgid ""
+"Import meta-data using CSV format. Currently only import of data elements is "
+"supported."
+msgstr ""
+
+#: intro_gml_import
+msgid ""
+"Import geographic data for organisation units using GML format. GML is an "
+"XML grammar for expressing geographical features."
+msgstr ""
+
+#: gml_import_info_text
+msgid ""
+"Note: Only import of GML data for existing organisation units is supported."
+msgstr ""
+
+#: no_item_to_match
+msgid "There is no selected item to match"
+msgstr "Ягон ҷузъи интихобшуда барои мувофиқа нест"
+
+#: dry_run
+msgid "Dry run"
+msgstr "Иҷрои хушк"
+
+#: strategy
+msgid "Strategy"
+msgstr "Стратегия"
+
+#: new_only
+msgid "New only"
+msgstr "Танҳо нав"
+
+#: updates_only
+msgid "Updates only"
+msgstr "Танҳо навсозиҳо"
+
+#: data_import
+msgid "Data Import"
+msgstr "Воридоти иттилоот"
+
+#: import_summary
+msgid "Import summary"
+msgstr "Фишурдаи воридот"
+
+#: data_set_completed_on
+msgid "Data set completed on"
+msgstr "Маҷмӯи иттилоот дар ин сана анҷом ёфтааст"
+
+#: import_count
+msgid "Import count"
+msgstr "Шумори воридот"
+
+#: import_total_count
+msgid "Import total count"
+msgstr "Шумораи умумии воридот"
+
+#: imported
+msgid "Imported"
+msgstr "Воридот шуд"
+
+#: updated
+msgid "Updated"
+msgstr "Навсозишуда"
+
+#: ignored
+msgid "Ignored"
+msgstr "Сарфи назар карда шуд"
+
+#: conflicts
+msgid "Conflicts"
+msgstr "Ихтилофҳо"
+
+#: no_conflicts_found
+msgid "No conflicts found"
+msgstr "Ягон ихтилоф ёфт нашуд"
+
+#: no_import_summary_available
+msgid "No summary available"
+msgstr ""
+
+#: type
+msgid "Type"
+msgstr "Навъ"
+
+#: count
+msgid "Count"
+msgstr "Шумора"
+
+#: export_as_xml
+msgid "Export as XML"
+msgstr "Содирот ҳамчун XML"
+
+#: export_as_json
+msgid "Export as JSON"
+msgstr ""
+
+#: export_as_csv
+msgid "Export as CSV"
+msgstr "Содирот ҳамчун CSV"
+
+#: csv
+msgid "CSV"
+msgstr "CSV"
+
+#: xml
+msgid "XML"
+msgstr "XML"
+
+#: json
+msgid "JSON"
+msgstr ""
+
+#: pdf
+msgctxt "pdf"
+msgid "PDF"
+msgstr "PDF"
+
+#: xml_data_import
+msgid "XML Data Import"
+msgstr "Воридоти иттилооти XML"
+
+#: csv_data_import
+msgid "CSV Data Import"
+msgstr "Воридоти иттилооти CSV"
+
+#: pdf_data_import
+msgid "PDF Data Import"
+msgstr "Воридоти иттилооти PDF"
+
+#: event_import
+msgid "Event Import"
+msgstr ""
+
+#: event_export
+msgid "Event Export"
+msgstr ""
+
+#: programs
+msgid "Programs"
+msgstr "Барномаҳо"
+
+#: program_stages
+msgid "Program Stages"
+msgstr "Марҳилаҳои барнома"
+
+#: format
+msgid "Format"
+msgstr "Формат"
+
+#: skip_first
+msgid "Skip First Row"
+msgstr ""
+
+#: compression
+msgid "Compression"
+msgstr "Таъзиқ"
+
+#: compression_gzip
+msgid "Gzip"
+msgstr "Gzip"
+
+#: compression_zip
+msgid "Zip"
+msgstr "Zip"
+
+#: uncompressed
+msgid "Uncompressed"
+msgstr "Таъзиқ нашуда"
+
+#: no_programs_available
+msgid "No programs available"
+msgstr "Ягон барнома мавҷуд нест"
+
+#: no_program_stages_available
+msgid "No program stages available"
+msgstr "Ягон марҳилаи барнома мавҷуд нест"
+
+#: no_data_values_found
+msgid "No data values found"
+msgstr "Ягон қимати иттилоот ёфт нашуд"
+
+#: all_program_stages
+msgid "All program stages"
+msgstr "Ҳамаи марҳилаҳои барнома"
+
+#: id_scheme
+msgid "ID scheme"
+msgstr ""
+
+#: data_element_id_scheme
+msgid "Data element ID scheme"
+msgstr "Нақшаи идентификатори унсури итилоот"
+
+#: enable
+msgid "Enable"
+msgstr "Фаъол кардан"
+
+#: disable
+msgid "Disable"
+msgstr "Ғайри фаъол кардан"
+
+#: org_unit_id_scheme
+msgid "Org unit ID scheme"
+msgstr "Нақшаи идентификатори воҳиди сохторӣ"
+
+#: category_id_scheme
+msgid "Category ID scheme"
+msgstr ""
+
+#: all_objects
+msgid "all objects"
+msgstr ""
+
+#: uid
+msgid "UID"
+msgstr "UID"
+
+#: name
+msgid "Name"
+msgstr "Ном"
+
+#: code
+msgid "Code"
+msgstr "Рамз"
+
+#: uuid
+msgid "UUID"
+msgstr ""
+
+#: more_options
+msgid "More options"
+msgstr "Имконоти бештар"
+
+#: existing_record_check
+msgid "Existing record check"
+msgstr "Тафтиши сабти мавҷудбуда"
+
+#: check_safe_recommended
+msgid "Check (safe, recommended)"
+msgstr "Тафтиш (бехатар, тавсишуда)"
+
+#: skip_check_fast
+msgid "Skip check (fast)"
+msgstr "Партофта гузаштани тафтиш (зуд)"
+
+#: dxf2
+msgid "DXF2"
+msgstr "DXF2"
+
+#: xml_metadata_import
+msgid "XML Meta-Data Import"
+msgstr ""
+
+#: csv_metadata_import
+msgid "CSV Meta-Data Import"
+msgstr ""
+
+#: metadata_import
+msgid "Meta-Data Import"
+msgstr "Воридоти метадата"
+
+#: metadata_export
+msgid "Meta-Data Export"
+msgstr ""
+
+#: gml_import
+msgid "GML Import"
+msgstr "Воридоти GML"
+
+#: faster_for_small_imports
+msgid "Faster for small imports"
+msgstr ""
+
+#: data_element_or_type_null_or_empty
+msgid "Data element or type is null or empty"
+msgstr "Унсур ё навъи иттилоот сифр ё холӣ аст"
+
+#: value_length_greater_than_max_length
+msgid "Value is greater than max length"
+msgstr "Қимат аз дарозии максималӣ калонтар аст"
+
+#: value_not_numeric
+msgid "Value is not numeric"
+msgstr "Қимат ададӣ нест"
+
+#: value_not_integer
+msgid "Value is not a valid integer"
+msgstr "Қимат адади бутуни муътабар нест"
+
+#: value_not_positive_integer
+msgid "Value is not a valid positive integer"
+msgstr "Қимат адади бутуни мусбии муътабар нест"
+
+#: value_not_negative_integer
+msgid "Value is not a valid negative integer"
+msgstr "Қимат адади бутуни манфии муътабар нест"
+
+#: value_is_zero_and_not_zero_significant
+msgid "Value is zero and not zero-significant"
+msgstr "Қимат сифр аст ва сифр-муҳим нест"
+
+#: value_not_zero_or_positive_integer
+msgid "Value is not a valid zero or positive integer"
+msgstr ""
+
+#: comment_too_long
+msgid "Comment is too long"
+msgstr "Шарҳ аз ҳад дароз аст"
+
+#: intro_filtered_metadata_export
+msgid ""
+"Export filtered meta-data like data elements and organisation units to the "
+"standard DHIS 2 exchange format."
+msgstr ""
+
+#: filtered_metadata_export
+msgid "Meta-Data Detailed Export"
+msgstr ""
+
+#: apply
+msgid "Apply"
+msgstr ""
+
+#: sort
+msgid "Sort"
+msgstr ""
+
+#: options
+msgid "Options"
+msgstr ""
+
+#: add_new_filter
+msgid "Add new Filter"
+msgstr ""
+
+#: ad_hoc_export
+msgid "Ad-hoc export"
+msgstr ""
+
+#: create_new_filter
+msgid "Create new Filter"
+msgstr ""
+
+#: filter_sort_order
+msgid "Filter sort order"
+msgstr ""
+
+#: edit_filter
+msgid "Edit Filter"
+msgstr ""
+
+#: filter_details
+msgid "Filter Details"
+msgstr ""
+
+#: validate_filter
+msgid "Filter name cannot be empty."
+msgstr ""
+
+#: export_with_dependencies
+msgid "Export with dependencies"
+msgstr ""
+
+#: attribute_types
+msgid "Attribute Types"
+msgstr ""
+
+#: available_attribute_types
+msgid "Available Attribute Types"
+msgstr ""
+
+#: selected_attribute_types
+msgid "Selected Attribute Types"
+msgstr ""
+
+#: categories
+msgid "Categories"
+msgstr ""
+
+#: available_categories
+msgid "Available Categories"
+msgstr ""
+
+#: selected_categories
+msgid "Selected Categories"
+msgstr ""
+
+#: category_combos
+msgid "Category Combinations"
+msgstr ""
+
+#: available_category_combos
+msgid "Available Category Combinations"
+msgstr ""
+
+#: selected_category_combos
+msgid "Selected Category Combinations"
+msgstr ""
+
+#: available_charts
+msgid "Available Charts"
+msgstr ""
+
+#: selected_charts
+msgid "Selected Charts"
+msgstr ""
+
+#: available_constants
+msgid "Available Constants"
+msgstr ""
+
+#: selected_constants
+msgid "Selected Constants"
+msgstr ""
+
+#: available_dataDictionaries
+msgid "Available Data Dictionaries"
+msgstr ""
+
+#: selected_dataDictionaries
+msgid "Selected Data Dictionaries"
+msgstr ""
+
+#: available_dataElementGroupSets
+msgid "Available Data Element Group Sets"
+msgstr ""
+
+#: selected_dataElementGroupSets
+msgid "Selected Data Element Group Sets"
+msgstr ""
+
+#: available_dataElementGroups
+msgid "Available Data Element Groups"
+msgstr ""
+
+#: selected_dataElementGroups
+msgid "Selected Data Element Groups"
+msgstr ""
+
+#: documents
+msgid "Documents"
+msgstr ""
+
+#: available_documents
+msgid "Available Documents"
+msgstr ""
+
+#: selected_documents
+msgid "Selected Documents"
+msgstr ""
+
+#: available_indicatorGroupSets
+msgid "Available Indicator Group Sets"
+msgstr ""
+
+#: selected_indicatorGroupSets
+msgid "Selected Indicator Group Sets"
+msgstr ""
+
+#: available_indicatorGroups
+msgid "Available Indicator Groups"
+msgstr ""
+
+#: selected_indicatorGroups
+msgid "Selected Indicator Groups"
+msgstr ""
+
+#: indicator_types
+msgid "Indicator types"
+msgstr ""
+
+#: available_indicatorTypes
+msgid "Available Indicator Types"
+msgstr ""
+
+#: selected_indicatorTypes
+msgid "Selected Indicator Types"
+msgstr ""
+
+#: map_legend_sets
+msgid "Map legend sets"
+msgstr ""
+
+#: available_mapLegendSets
+msgid "Available Map Legend Sets"
+msgstr ""
+
+#: selected_mapLegendSets
+msgid "Selected Map Legend Sets"
+msgstr ""
+
+#: maps
+msgid "Maps"
+msgstr ""
+
+#: available_maps
+msgid "Available Maps"
+msgstr ""
+
+#: selected_maps
+msgid "Selected Maps"
+msgstr ""
+
+#: option_sets
+msgid "Option sets"
+msgstr ""
+
+#: available_optionSets
+msgid "Available Option Sets"
+msgstr ""
+
+#: selected_optionSets
+msgid "Selected Option Sets"
+msgstr ""
+
+#: available_organisationUnitGroupSets
+msgid "Available Organisation Unit Group Sets"
+msgstr ""
+
+#: selected_organisationUnitGroupSets
+msgid "Selected Organisation Unit Group Sets"
+msgstr ""
+
+#: available_organisationUnitGroups
+msgid "Available Organisation Unit Groups"
+msgstr ""
+
+#: selected_organisationUnitGroups
+msgid "Selected Organisation Unit Groups"
+msgstr ""
+
+#: available_organisationUnitLevels
+msgid "Available Organisation Unit Levels"
+msgstr ""
+
+#: selected_organisationUnitLevels
+msgid "Selected Organisation Unit Levels"
+msgstr ""
+
+#: available_organisationUnits
+msgid "Available Organisation Units"
+msgstr ""
+
+#: selected_organisationUnits
+msgid "Selected Organisation Units"
+msgstr ""
+
+#: available_reportTables
+msgid "Available Report Tables"
+msgstr ""
+
+#: selected_reportTables
+msgid "Selected Report Tables"
+msgstr ""
+
+#: available_reports
+msgid "Available Reports"
+msgstr ""
+
+#: selected_reports
+msgid "Selected Reports"
+msgstr ""
+
+#: sql_views
+msgid "SQL views"
+msgstr ""
+
+#: available_sqlViews
+msgid "Available SQL Views"
+msgstr ""
+
+#: selected_sqlViews
+msgid "Selected SQL Views"
+msgstr ""
+
+#: available_userGroups
+msgid "Available User Groups"
+msgstr ""
+
+#: selected_userGroups
+msgid "Selected User Groups"
+msgstr ""
+
+#: available_userRoles
+msgid "Available User Roles"
+msgstr ""
+
+#: selected_userRoles
+msgid "Selected User Roles"
+msgstr ""
+
+#: available_users
+msgid "Available Users"
+msgstr ""
+
+#: selected_users
+msgid "Selected Users"
+msgstr ""
+
+#: validation_rule_groups
+msgid "Validation rule groups"
+msgstr ""
+
+#: available_validationRuleGroups
+msgid "Available Validation Rule Groups"
+msgstr ""
+
+#: selected_validationRuleGroups
+msgid "Selected Validation Rule Groups"
+msgstr ""
+
+#: available_validationRules
+msgid "Available Validation Rules"
+msgstr ""
+
+#: selected_validationRules
+msgid "Selected Validation Rules"
+msgstr ""
+
+#: select_all_values
+msgid "Select All Values"
+msgstr ""
+
+#: deselect_all_values
+msgid "Deselect All Values"
+msgstr ""
+
+#: inclusion
+msgid "Inclusion"
+msgstr ""
+
+#: include_selected
+msgid "Selected organisation unit"
+msgstr ""
+
+#: include_children
+msgid "Include children of organisation unit"
+msgstr ""
+
+#: include_descendants
+msgid "Include descendants of organisation unit"
+msgstr ""

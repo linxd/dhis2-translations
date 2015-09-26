@@ -1,0 +1,515 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-dataentry/src/main/resources/org/hisp/dhis/de/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-dataentry/src/main/resources/org/hisp/dhis/de/i18n_module_fr.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: dataelement_comment
+msgid "Comment"
+msgstr "Commentaire"
+
+#: history_not_valid
+msgid "No history for this data element"
+msgstr "Historique non applicable pour cet élément de donnée"
+
+#: data_element
+msgid "Data element"
+msgstr "Element de donnée"
+
+#: min
+msgid "Min"
+msgstr "Min"
+
+#: entry
+msgid "Entry"
+msgstr "Saisie"
+
+#: max
+msgid "Max"
+msgstr "Max"
+
+#: timestamp
+msgid "Timestamp"
+msgstr "Horodatage"
+
+#: stored_by
+msgid "Stored by"
+msgstr "enregistré par"
+
+#: stored_date
+msgid "Stored date"
+msgstr "Date d'enregistrement"
+
+#: last_updated
+msgid "Last updated"
+msgstr ""
+
+#: update
+msgid "Update"
+msgstr ""
+
+#: delete
+msgid "Delete"
+msgstr ""
+
+#: no_value
+msgid "No value"
+msgstr "Pas de valeur"
+
+#: maximum
+msgid "Maximum"
+msgstr "Maximum"
+
+#: organisation_unit
+msgid "Organisation Unit"
+msgstr "Unité d'organisation"
+
+#: data_set
+msgid "Data Set"
+msgstr "Ensemble de données"
+
+#: select
+msgid "Select"
+msgstr "Sélectionner"
+
+#: period
+msgid "Period"
+msgstr "Période"
+
+#: form_field
+msgid "Form field"
+msgstr "Champ de formulaire"
+
+#: filter_on_section
+msgid "Filter on section"
+msgstr "Filter les sections"
+
+#: filter_in_section
+msgid "Filter in section"
+msgstr "FIltrer dans section"
+
+#: show_all_sections
+msgid "Show all sections"
+msgstr "Afficher toutes les sections"
+
+#: show_all_items
+msgid "Show all items"
+msgstr "Montrer tous les éléments"
+
+#: earlier_periods
+msgid "Earlier periods"
+msgstr "Périodes précédentes"
+
+#: later_periods
+msgid "Later periods"
+msgstr "Periodes suivantes"
+
+#: value_of_data_element_less
+msgid ""
+"The value of the following data element is less than the specified minimum "
+"value."
+msgstr ""
+"La valeur de l'élément de donnée suivant est inférieure au minimum admis"
+
+#: value_of_data_element_greater
+msgid ""
+"The value of the following data element is greater than the specified "
+"maximum value."
+msgstr "La valeur de la donnée suivante est supérieure au maximum admis"
+
+#: saving_value_failed_status_code
+msgid "Saving value failed with status code"
+msgstr "Enregistrement de la valeur a échoué avec le code de statut"
+
+#: saving_value_failed_dataset_is_locked
+msgid "Data set is locked, please contact admin"
+msgstr ""
+"L'ensemble de données est verrouillé, veuillez contactez-administrateur."
+
+#: saving_comment_failed_status_code
+msgid "Saving comment failed with status code"
+msgstr "L'enregistrement du commentaire a échoué avec le code de statut"
+
+#: saving_comment_failed_error_code
+msgid "Saving comment failed with error code"
+msgstr "L'enregistrement du commentaire a échoué avec le code d'erreur"
+
+#: saving_minmax_failed_error_code
+msgid "Saving min/max values failed with error code"
+msgstr "Enregistrement de la valeur min/max a échoué avec le code d'erreur"
+
+#: move
+msgid "Move"
+msgstr "Déplacer"
+
+#: date
+msgid "Date"
+msgstr "Date"
+
+#: min_limit
+msgid "Min limit"
+msgstr "Limite inférieure"
+
+#: max_limit
+msgid "Max limit"
+msgstr "Limite supérieure"
+
+#: dataelement_history
+msgid "Data element history"
+msgstr "Historique des éléments de données"
+
+#: audit_trail
+msgid "Audit trail"
+msgstr ""
+
+#: nr
+msgid "Nr"
+msgstr "Nr"
+
+#: min_max_limits
+msgid "Min-max limits"
+msgstr "Limites Min-max"
+
+#: run_validation
+msgid "Run validation"
+msgstr "Exécuter la validation"
+
+#: validation_result
+msgid "Validation Result"
+msgstr "Resultat de validation"
+
+#: expression
+msgid "Expression"
+msgstr "Expression"
+
+#: successful_validation
+msgid "The data entry screen successfully passed validation"
+msgstr "La validation de ce formulaire a réussi"
+
+#: data_entry_screen_has_following_errors
+msgid ""
+"The data entry screen has the following validation errors, please correct"
+msgstr ""
+"Veuillez corriger les erreurs de validation suivantes dans les données "
+"saisies avant de continuer."
+
+#: the_following_values_are_outliers
+msgid ""
+"The following values are considered as outliers (min-max or std dev), please "
+"correct"
+msgstr ""
+"Les valeurs suivantes sont considérées comme abérantes (min-max ou dev std)."
+
+#: the_following_fields_require_comment
+msgid "The following input fields require a comment, please enter"
+msgstr "Les champs suivantes exiger un commentaire, s'il vous plaît entrer"
+
+#: the_following_values_violate_rules
+msgid "The following values violate validation rules"
+msgstr "Les valeurs suivantes violent les règles de validation"
+
+#: value
+msgctxt "value"
+msgid "Value"
+msgstr ""
+
+#: operator
+msgid "Operator"
+msgstr "Opérateur"
+
+#: no_organisationunit_selected
+msgid "No Organisation Unit Selected"
+msgstr "Aucune unité d'organisation sélectionnée"
+
+#: no_period_selected
+msgid "No Period Selected"
+msgstr "Aucune période sélectionnée"
+
+#: no_dataelement_selected
+msgid "No Data Element Selected"
+msgstr "Aucun élément de donnée sélectionné"
+
+#: dataset_is_locked
+msgid "Data set is locked"
+msgstr "L'ensemble de données est verrouillé"
+
+#: complete
+msgid "Complete"
+msgstr "Terminer"
+
+#: incomplete
+msgid "Incomplete"
+msgstr "Incomplet"
+
+#: confirm_complete
+msgid "Are you sure this data set is complete?"
+msgstr "Etes-vous que ce formulaire est complement rempli?"
+
+#: confirm_undo
+msgid "Are you sure you will undo the registration?"
+msgstr "Etes-vous sûr d'annuler l'enregistrement du formulaire comme terminé?"
+
+#: data_entry
+msgid "Data Entry"
+msgstr "Saisie de données"
+
+#: followup
+msgid "Follow-up"
+msgstr "Suivi"
+
+#: validation_rule
+msgid "Validation rule"
+msgstr "Règle de validation"
+
+#: register_complete_dataset_success
+msgid "Registered complete data set"
+msgstr "Ensemble de données enregitré comme terminé"
+
+#: register_complete_dataset_failed
+msgid "Register complete data set failed"
+msgstr "Echec d'enregistrement du formulaire comme terminé "
+
+#: undo_register_complete_dataset_success
+msgid "Undo register complete data set success"
+msgstr ""
+"Succès de l'annullation de l'enregistrement de l'ensemble de données comme "
+"terminé"
+
+#: datavalue_history
+msgctxt "datavalue_history"
+msgid "Data value history"
+msgstr ""
+
+#: enter_digits
+msgid "Enter digit only."
+msgstr "Saisir que des chiffres"
+
+#: value_is_too_long
+msgid "Value is too long"
+msgstr "La valeur est trop longue"
+
+#: field_unallowed_save_zero
+msgid ""
+"This element does not permit 0 values. The original value will not be "
+"affected."
+msgstr ""
+"Cet élément ne permet pas de valeur 0. La valeur d'origine ne sera pas "
+"affectée."
+
+#: datavalue_history
+msgctxt "datavalue_history"
+msgid "Data value history"
+msgstr ""
+
+#: max_must_be_greater_than_min
+msgid "Max must be greater than min"
+msgstr "Le max doit être superieur au min"
+
+#: next
+msgid "Next"
+msgstr "Suivant"
+
+#: prev
+msgid "Prev"
+msgstr "Préc"
+
+#: select_from_tree
+msgid "Select from tree on the left side"
+msgstr "Sélectionner a partir de l'arborescence à gauche"
+
+#: select_data_set
+msgid "Select data set"
+msgstr "Sélectionner l'ensemble de données "
+
+#: select_period
+msgid "Select period"
+msgstr "Sélectionner une période "
+
+#: select_option
+msgid "Select option"
+msgstr "Sélectionnez une option"
+
+#: change_from
+msgid "change from"
+msgstr "Changer à partir de"
+
+#: modification
+msgid "Modification"
+msgstr ""
+
+#: modified_by
+msgid "Modified by"
+msgstr ""
+
+#: to
+msgid "to"
+msgstr "à"
+
+#: on
+msgid "On"
+msgstr "Allumé"
+
+#: value
+msgctxt "value"
+msgid "Value"
+msgstr ""
+
+#: no_response_from_server
+msgid "No response from server, please check connectivity and try again"
+msgstr ""
+"Pas de réponse du serveur, veuillez vérifier la connexion et essayer à "
+"nouveau"
+
+#: save
+msgid "Save"
+msgstr "Enregistrer"
+
+#: save_comment
+msgid "Save comment"
+msgstr "Enregistrer commentaires "
+
+#: operation_not_available_offline
+msgid "This operation is not available in off-line mode"
+msgstr "Cette opération n'est pas disponible en mode hors-ligne"
+
+#: mark_value_for_followup
+msgid "Mark value for follow-up"
+msgstr "Marquer la valeur pour suivi"
+
+#: unmark_value_for_followup
+msgid "Un-mark value for follow-up"
+msgstr "Décocher la valeur pour le suivi"
+
+#: completed_by
+msgid "Completed by"
+msgstr "Terminé par"
+
+#: at
+msgid "at"
+msgstr "à"
+
+#: prev_year
+msgid "Prev year"
+msgstr "Année préc"
+
+#: next_year
+msgid "Next year"
+msgstr "Année suiv."
+
+#: see_details
+msgid "See details"
+msgstr "Voir les détails"
+
+#: username
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: user_roles
+msgid "User roles"
+msgstr "Rôles d'utilisateur"
+
+#: register_complete_failed_dataset_is_locked
+msgid "Data set is locked, registration failed, please contact admin"
+msgstr ""
+"L'ensemble de données est verrouillé, l'enregistrement a échoué, veuillez "
+"contactez-administrateur"
+
+#: unregister_complete_failed_dataset_is_locked
+msgid "Data set is locked, un-registration failed, please contact admin"
+msgstr ""
+"L'ensemble de données est verrouillé, le des-enregistrement a échoué, "
+"veuiller contacter l'administrateur"
+
+#: dataelement_with_id
+msgid "Data element with identifier"
+msgstr "Elément de donnée avec identifiant"
+
+#: category_option_combo_with_id
+msgid "Category option combination identifier"
+msgstr "Identifiant de combinaison d'options de catégorie"
+
+#: does_not_exist
+msgid "does not exist"
+msgstr "n'existe pas"
+
+#: does_not_exist_in_data_set
+msgid "does not exist in data set"
+msgstr ""
+
+#: insert_input_fields_into_the_form
+msgid "Insert input fields into the form"
+msgstr "Inserer champs dans le formulaire"
+
+#: select_data_element
+msgid "Select data element"
+msgstr "Choisir élément de donnée"
+
+#: all_values_for_data_element_must_be_filled
+msgid ""
+"This form requires that all fields for a data element must be filled, please "
+"correct this before continuing."
+msgstr ""
+"Le formulaire exige que tous les champs d'un élément de donnée soient "
+"remplis. Veuillez satisfaire cette condition avant de continuer"
+
+#: childrens_forms
+msgid "Sub Organisation Units"
+msgstr "Formulaires enfants"
+
+#: left_side
+msgid "Left side"
+msgstr "Côté gauche"
+
+#: right_side
+msgid "Right side"
+msgstr "Côté droit"
+
+#: no_periods_click_prev_year_button
+msgid "No periods, click \"Prev year\" button"
+msgstr "Aucune période, cliquer sur le bouton \"Année préc\""
+
+#: print
+msgid "Print"
+msgstr "Imprimer"
+
+#: view_comment
+msgid "View comment"
+msgstr "Voir commentaire"
+
+#: no_orgunits
+msgid "No organisation unit attached to current user, no data entry possible"
+msgstr "Aucune unité d'organisation"
+
+#: validation_rules_are_being_processed_please_wait
+msgid "Validation rules are being processed, please wait"
+msgstr ""
+"Les règles de validation sont en cours d'exécution, veuillez patienter ..."
+
+#: section
+msgid "Section"
+msgstr "Section"
+
+#: print_form
+msgid "Print form"
+msgstr "Imprimer le formulaire"
+
+#: print_blank_form
+msgid "Print blank form"
+msgstr "Imprimer le formulaire vierge"
+
+#: instruction
+msgid "Instruction"
+msgstr "Instruction"
+
+#: there_is_no_audit_trail_for_this_value
+msgid "There is no audit trail for this value"
+msgstr ""

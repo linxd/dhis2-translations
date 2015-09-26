@@ -1,0 +1,3985 @@
+#. #-- Application name -----------------------------------------------------------#
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-services/dhis-service-core/src/main/resources/i18n_global.properties, /home/jason/development/dhis2/dhis-2/dhis-services/dhis-service-core/src/main/resources/i18n_global_ru.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: district_health_information_software
+msgid "District Health Information Software 2"
+msgstr "District Health Information Software 2"
+
+#: dhis2
+msgid "DHIS 2"
+msgstr "DHIS 2"
+
+#. #-- dhis-wp --------------------------------------------------------------------#
+#: no_page_specified
+msgid "No page specified"
+msgstr "Не указано страницы"
+
+#: an_exception_occured
+msgid "An exception occurred"
+msgstr "Произошло исключение"
+
+#: exception_explanation_text
+msgid ""
+"Sorry! The system failed to execute the operation. Usually, no data is lost "
+"and you can continue working by going back to the previous page."
+msgstr ""
+"Извините!Системе не удалось выполнить операцию. Обычно не происходит потери "
+"данных и  вы можете продолжить работу вернувшись к предыдущей странице"
+
+#: exception
+msgid "Exception"
+msgstr "Исключение"
+
+#: caused_by
+msgid "Caused by"
+msgstr "По причине"
+
+#: unknown_source
+msgid "Unknown source"
+msgstr "Неизвестный источник"
+
+#: logged_in
+msgid "Logged in"
+msgstr "Вход в систему"
+
+#: not_logged_in
+msgid "Not logged in"
+msgstr "Не входить в систему"
+
+#: log_out
+msgid "Log out"
+msgstr "Выйти из системы"
+
+#: about
+msgid "About"
+msgstr "Об"
+
+#: access_denied
+msgid "Access denied"
+msgstr "Доступ запрещен"
+
+#: access_denied_message
+msgid "You don't have sufficient authority to view this page"
+msgstr "У вас недостаточно привилегий для доступ данной страницы"
+
+#: create_access_denied_message
+msgid "You don't have create access to object"
+msgstr "У вас нет доступа к созданию объекта"
+
+#: read_access_denied_message
+msgid "You don't have read access to object"
+msgstr "У вас нет доступа к чтению объекта"
+
+#: update_access_denied_message
+msgid "You don't have update access to object"
+msgstr "У вас нет доступа к обновлению объекта"
+
+#: delete_access_denied_message
+msgid "You don't have delete access to object"
+msgstr "У вас нет доступа к удалению объекта"
+
+#: go_back
+msgid "Go back"
+msgstr "Вернуться назад"
+
+#: main_menu
+msgid "Main menu"
+msgstr "Основное меню"
+
+#: maintenance
+msgid "Maintenance"
+msgstr "Содержание"
+
+#: services
+msgid "Services"
+msgstr "Услуги"
+
+#. #-- dhis-ouwt ------------------------------------------------------------------#
+#: org_unit_tree
+msgid "Organisation Unit Tree"
+msgstr "Организационное дерево"
+
+#: specify_organisationunit
+msgid "Please specify an organisation unit"
+msgstr "Пожалуйста, уточните организацию"
+
+#: cannot_clear_selected_orgunits
+msgid "Cannot clear the selected organisation units"
+msgstr "Невозможно очистить выбранные организации"
+
+#: locate_organisation_unit_by_name
+msgid "Locate organisation unit by name"
+msgstr "Разместить организации по имени"
+
+#: error_occurred
+msgid "An error has occurred."
+msgstr "Произошла ошибка"
+
+#: select_organisationunit
+msgid "You must select an OrganisationUnit from the tree."
+msgstr "Вы должны выбрать организацию из дерева"
+
+#. #-- Modules --------------------------------------------------------------------#
+#: dhis-web-maintenance-datadictionary
+msgid "Data Elements / Indicators"
+msgstr "Элементы данных и индикаторы"
+
+#: dhis-web-maintenance-dataset
+msgid "Data Sets"
+msgstr "Наборы данных"
+
+#: dhis-web-maintenance-organisationunit
+msgid "Organisation Units"
+msgstr "Организации"
+
+#: dhis-web-maintenance-user
+msgctxt "dhis-web-maintenance-user"
+msgid "Users"
+msgstr "Пользователи"
+
+#: dhis-web-maintenance-dataadmin
+msgid "Data Administration"
+msgstr "Администрирование данными"
+
+#: dhis-web-maintenance-settings
+msgctxt "dhis-web-maintenance-settings"
+msgid "Settings"
+msgstr "Настройки"
+
+#: dhis-web-maintenance-program
+msgid "Programs / Attributes"
+msgstr ""
+
+#: dhis-web-maintenance-mobile
+msgid "Mobile Configuration"
+msgstr "Мобильная конфигурация"
+
+#: dhis-web-maintenance-appmanager
+msgid "App Management"
+msgstr ""
+
+#: dhis-web-caseentry
+msgid "Individual Records"
+msgstr "Индивидуальные записи"
+
+#: dhis-web-dataentry
+msgid "Data Entry"
+msgstr "Ввод данных"
+
+#: dhis-web-importexport
+msgid "Import-Export"
+msgstr "Импорт-Экспорт"
+
+#: dhis-web-validationrule
+msgid "Data Quality"
+msgstr "Качество данных"
+
+#: dhis-web-mapping
+msgid "GIS"
+msgstr "GIS"
+
+#: dhis-web-event-capture
+msgid "Event Capture"
+msgstr ""
+
+#: dhis-web-event-reports
+msgid "Event Reports"
+msgstr ""
+
+#: dhis-web-event-visualizer
+msgid "Event Visualizer"
+msgstr ""
+
+#: dhis-web-tracker-capture
+msgid "Tracker Capture"
+msgstr ""
+
+#: dhis-web-cache-cleaner
+msgid "Browser Cache Cleaner"
+msgstr ""
+
+#: dhis-web-reporting
+msgid "Reports"
+msgstr "Отчеты"
+
+#: dhis-web-light
+msgid "Mobile (Light)"
+msgstr "Мобильный (легкий)"
+
+#: dhis-web-mobile
+msgid "Mobile (Smartphone)"
+msgstr "Мобильный (Смартфон)"
+
+#: dhis-web-dashboard-integration
+msgctxt "dhis-web-dashboard-integration"
+msgid "Dashboard"
+msgstr "Панель информации"
+
+#: dhis-web-visualizer
+msgid "Data Visualizer"
+msgstr "Визуализатор данных"
+
+#: dhis-web-pivot
+msgid "Pivot Table"
+msgstr "Сводная таблица"
+
+#: dhis-web-dashboard
+msgid "Data Analyser"
+msgstr "Анализатор данных"
+
+#: dhis-web-integration
+msgid "NHRM Integration"
+msgstr "NHRM интегрирование"
+
+#: dhis-web-reports
+msgid "NRHM Reports"
+msgstr "NRHM отчеты"
+
+#: dhis-web-dataentry-national
+msgid "Linelisting Data Entry"
+msgstr "Перечневый ввод данных"
+
+#: dhis-web-validationrule-local-in
+msgid "Validation Analysis"
+msgstr "Анализ проверки правильности данных"
+
+#: dhis-web-survey
+msgid "Survey - Target"
+msgstr "Исследование-Цель"
+
+#: dhis-web-spreadsheet-reporting
+msgid "Spreadsheet Reports"
+msgstr "Табличные отчеты"
+
+#: dhis-web-sms
+msgid "SMS"
+msgstr "СМС"
+
+#: dhis-web-maintenance-in
+msgid "Configuration"
+msgstr "Конфигурация"
+
+#: dhis-web-linelisting-mp
+msgid "Manpower"
+msgstr "Человеческие ресурсы"
+
+#: dhis-web-maintenance-rbf
+msgid "Maintenance RBF"
+msgstr ""
+
+#. #-- Intro modules -------------------------------------------------------------#
+#: intro_dhis-web-maintenance-datadictionary
+msgid "Maintain data elements, indicators, categories and groups."
+msgstr ""
+"Поддержание элементов данных, индикаторов, словарей данных, категорий и групп"
+
+#: intro_dhis-web-maintenance-dataset
+msgid ""
+"Maintain data sets, custom forms, sections and compulsory data elements."
+msgstr ""
+"Поддержание наборов данных, пользовательских форм, участков и обязательных "
+"элементов данных"
+
+#: intro_dhis-web-maintenance-organisationunit
+msgid "Maintain organisation units and its hierarchy, groups and group sets."
+msgstr "Поддержание организаций и их иерархии, групп и наборов групп"
+
+#: intro_dhis-web-maintenance-user
+msgid ""
+"Maintain users in terms of authorities and passwords, user roles and groups."
+msgstr ""
+"Поддержание пользователей в части полномочий и паролей, уровней доступа и "
+"групп пользователей."
+
+#: intro_dhis-web-maintenance-dataadmin
+msgid ""
+"Maintain resource tables, check data integrity, see statistics and more."
+msgstr ""
+"Поддержание ресурсных таблиц, проверка целостности данных, просмотр "
+"статистики и так далее."
+
+#: intro_dhis-web-maintenance-settings
+msgid ""
+"Maintain user and system settings related to appearance, notifications and "
+"more."
+msgstr ""
+"Поддержание настройки пользователей и системы, связанные с внешним видом, "
+"уведомлениями и так далее."
+
+#: intro_dhis-web-maintenance-program
+msgid ""
+"Maintain tracked entities and programs including attributes and identifiers."
+msgstr ""
+
+#: intro_dhis-web-maintenance-mobile
+msgid ""
+"Maintain data sets plus settings for mobile reporting and SMS configuration."
+msgstr ""
+"Поддержание наборов данных плюс настройки для мобильнной отчетности и СМС "
+"конфигурации"
+
+#: intro_dhis-web-maintenance-appmanager
+msgid ""
+"Access and upload apps, which are extensions to the standard user interface."
+msgstr ""
+
+#: intro_dhis-web-caseentry
+msgid ""
+"Register beneficiaries, enter data for encounters and events and view "
+"reports."
+msgstr ""
+"Регистрация бенефициариев, ввод данных по контактам и событиям, просмотр "
+"отчетов."
+
+#: intro_dhis-web-dataentry
+msgid ""
+"Enter data for forms either on-line or off-line, validate data and view data "
+"trends."
+msgstr ""
+"Ввод данных для форм онлайн или оффлайн, подтверждение данных и просмотр "
+"направления развития данных"
+
+#: intro_dhis-web-importexport
+msgid ""
+"Import and export data from DHIS or third-party systems on various formats."
+msgstr ""
+"Импортирование и экспортирование данных из DHIS или систем третьих сторон в "
+"различных форматах."
+
+#: intro_dhis-web-validationrule
+msgid ""
+"Validate and assess data quality using validation rules or statistical "
+"methods."
+msgstr ""
+"Подтверждение и оценка качества данных с использованием правил подтверждения "
+"или статистических методов."
+
+#: intro_dhis-web-mapping
+msgid ""
+"Visualize data on maps using polygons, points, symbols in multiple layers."
+msgstr ""
+"Визуализация данных на картах с использованием полигонов, точек, символов с "
+"настраиваемыми комментариями к графикам"
+
+#: intro_dhis-web-reporting
+msgid ""
+"Analyse data and reporting rates using predefined and dynamic report tools."
+msgstr ""
+"Анализ темпа данных и отчетности с использованием предопределенных и "
+"динамических инструментов отчетности."
+
+#: intro_dhis-web-light
+msgid "Access a mobile device optimized version of data entry and analysis."
+msgstr ""
+"Доступ к оптимизированной версии ввода данных, сообщений и анализа  в "
+"мобильном устройстве"
+
+#: intro_dhis-web-mobile
+msgid ""
+"Access a smartphone optimized version of data entry, settings, messages."
+msgstr ""
+"Доступ к оптимизированной версии ввода данных, сообщений и настроек  в "
+"смартфоне."
+
+#: intro_dhis-web-dashboard-integration
+msgid ""
+"Get an overview of favorite charts, reports and maps and view or write "
+"messages."
+msgstr ""
+"Получать обзор избранных графиков, отчетов, карт и просмотр или написание "
+"сообщений."
+
+#: intro_dhis-web-visualizer
+msgid "Create dynamic data visualizations for data elements and indicators."
+msgstr ""
+"Создание динамичной визуализации данных для элементов данных и индикаторов."
+
+#: intro_dhis-web-pivot
+msgid "Generate flexible pivot tables with data aggregated in all dimensions."
+msgstr ""
+"Генерировать гибкие сводные таблицы с данными, аггрегируемыми во всех "
+"измерениях."
+
+#: intro_dhis-web-sms
+msgid "Send SMS reminders and notifications manually or as scheduled tasks."
+msgstr ""
+"Посылать напоминания и уведомления такие как СМС на телефоны, вручную либо "
+"как запланированное задание."
+
+#: intro_dhis-web-spreadsheet-reporting
+msgid "Generate and import data based on predefined Excel templates."
+msgstr ""
+"Генерировать и импортировать данные из отчетов на основе предопределенных  "
+"шаблонов EXCEL"
+
+#: intro_dhis-web-event-reports
+msgid "Query for events and create aggregated, dimensional analysis of events."
+msgstr ""
+
+#: intro_dhis-web-event-capture
+msgid "Capture information about single events."
+msgstr ""
+
+#: intro_dhis-web-tracker-capture
+msgid "Capture information about trackable entities."
+msgstr ""
+
+#. #-- Intro functions -------------------------------------------------------------#
+#: intro_help_center
+msgid ""
+"Get help on a various of topics related to setting up and using the DHIS 2."
+msgstr ""
+"Получать помощь по различной тематике, связанной с настройкой и "
+"использованием DHIS 2"
+
+#: intro_supportive_software
+msgid ""
+"Get an overview of useful software like report designers mobile clients."
+msgstr ""
+"Получать обзор полезного программного обеспечения, таких как дизайнер "
+"отчетов для клиентов мобильных телефонов."
+
+#: intro_system_overview
+msgid "Visit the system overview page to get a complete list of modules."
+msgstr ""
+"Посещать страницу обзор системы для получения полного списка модулей и их "
+"предназначения"
+
+#: intro_web_api
+msgid ""
+"Go to the Web API entry point, which is an interface for other computer "
+"systems."
+msgstr ""
+"Перейти к пункту входа в сетевые приложения, который является интерфейсом "
+"для прочих компьютерных систем."
+
+#: intro_about_dhis2
+msgid "Get information about the system version and runtime environment."
+msgstr "Получать информацию о версии системы и среде выполнения"
+
+#: intro_settings
+msgid ""
+"Set your personal preferences for interface language, style and email "
+"settings."
+msgstr ""
+"Настроить персональные предпочтения для языка и стиля интерфейса и настроек "
+"электронной почты."
+
+#: intro_profile
+msgid ""
+"Set up your personal profile with information like job title and interests."
+msgstr ""
+"Настроить персональный профиль с информацией типа название должности и "
+"интересы."
+
+#: intro_account
+msgid "Manage your user account including name, password, email and mobile."
+msgstr ""
+"Управлять собственной учетной записью пользователя, включая имя, пароль , "
+"адрес эл.почты и номер мобильного телефона."
+
+#: intro_log_out
+msgid ""
+"Go here to log out of the system and deny others to access your user account."
+msgstr ""
+"Перейти сюда для выхода из системы и отказать другим в доступе к вашей "
+"учетной записи."
+
+#. #-- Common ---------------------------------------------------------------------#
+#: offline
+msgid "Offline"
+msgstr "Оффлайн"
+
+#: online
+msgid "Online"
+msgstr "Онлайн"
+
+#: next
+msgid "Next"
+msgstr "След"
+
+#: previous
+msgid "Previous"
+msgstr "Предыдущий"
+
+#: online_notification
+msgid "You are online"
+msgstr "Вы онлайн"
+
+#: offline_notification
+msgid "You are offline, data will be stored locally"
+msgstr "Вы оффлайн, данные будут сохранятся местно"
+
+#: ajax_login_failed
+msgctxt "ajax_login_failed"
+msgid "Login failed, check your username and password and try again"
+msgstr ""
+
+#: need_to_sync_notification
+msgid "There is data stored locally, please upload to server"
+msgstr "Имеются данные, сохраненные местно, пожалуйста, загрузите их в сервер"
+
+#: uploading_data_notification
+msgid "Uploading locally stored data to the server"
+msgstr "Заргузка в сервер данных, сохраненных местно"
+
+#: sync_now
+msgid "Upload"
+msgstr "Загрузить"
+
+#: discard
+msgid "Discard"
+msgstr ""
+
+#: remove_local_data
+msgid "Are you sure you want to remove the locally stored data?"
+msgstr ""
+
+#: sync_success
+msgid "Upload to server was successful"
+msgstr "Загрузка в сервер прошла успешно"
+
+#: sync_failed
+msgid "Upload to server failed, please try again later"
+msgstr "Загрузка в сервер не удалась, пожалуйста, попытайтесь еще раз, позже"
+
+#: year
+msgid "Year"
+msgstr "Год"
+
+#: details
+msgctxt "details"
+msgid "Details"
+msgstr "Детали"
+
+#: show_details
+msgid "Show details"
+msgstr "Показать детали"
+
+#: hide_details
+msgid "Hide details"
+msgstr "Скрыть детали"
+
+#: change_password
+msgid "Change password"
+msgstr "Изменить пароль"
+
+#: expired_password
+msgid "Your password has expired, please change"
+msgstr ""
+
+#: date_selector
+msgid "Choose a date"
+msgstr "Выбрать дату"
+
+#: hide_menu
+msgid "Hide menu"
+msgstr "Скрыть меню"
+
+#: extend_menu
+msgid "Extend menu"
+msgstr "Расширить меню"
+
+#: show_menu
+msgid "Show menu"
+msgstr "Показать меню"
+
+#: show_main_menu
+msgid "Show main menu"
+msgstr "Показать основное меню"
+
+#: view_home_page
+msgid "View home page"
+msgstr "Просмотреть домашнюю страницу"
+
+#: view_intepretations
+msgid "View interpretations"
+msgstr "Просмотреть интерпретации"
+
+#: organisation_unit
+msgid "Organisation unit"
+msgstr "Организация"
+
+#: dataelement
+msgid "Data element"
+msgstr "Элемент данных"
+
+#: start_date
+msgid "Start date"
+msgstr "Дата начала"
+
+#: end_date
+msgid "End date"
+msgstr "Дата конца"
+
+#: entry
+msgid "Entry"
+msgstr "Ввод"
+
+#: comment
+msgctxt "comment"
+msgid "Comment"
+msgstr "Комментарий"
+
+#: operations
+msgid "Operations"
+msgstr "Операции"
+
+#: add_new
+msgid "Add new"
+msgstr "Добавить новый"
+
+#: rename
+msgid "Rename"
+msgstr "Переименовать"
+
+#: move
+msgid "Move"
+msgstr "Передвинуть"
+
+#: remove
+msgid "Remove"
+msgstr "Извлечь"
+
+#: required
+msgid "Required"
+msgstr "Требуется"
+
+#: all
+msgid "All"
+msgstr "Все"
+
+#: save
+msgctxt "save"
+msgid "Save"
+msgstr "Сохранить"
+
+#: new
+msgid "New"
+msgstr "Новый"
+
+#: back
+msgid "Back"
+msgstr "Назад"
+
+#: ok
+msgid "OK"
+msgstr "ОК"
+
+#: cancel
+msgctxt "cancel"
+msgid "Cancel"
+msgstr "Отменить"
+
+#: clone
+msgid "Clone"
+msgstr "Клонировать"
+
+#: add
+msgctxt "add"
+msgid "Add"
+msgstr "Добавить"
+
+#: edit
+msgid "Edit"
+msgstr "Редактировать"
+
+#: reply
+msgid "Reply"
+msgstr "Ответить"
+
+#: update
+msgid "Update"
+msgstr "Обновить"
+
+#: delete
+msgid "Delete"
+msgstr "Удалить"
+
+#: deleting
+msgid "Deleting"
+msgstr "Удаление"
+
+#: close
+msgid "Close"
+msgstr "Закрыть"
+
+#: gender_male
+msgctxt "gender_male"
+msgid "Male"
+msgstr "Мужчина"
+
+#: gender_female
+msgctxt "gender_female"
+msgid "Female"
+msgstr "Женщина"
+
+#: gender_other
+msgctxt "gender_other"
+msgid "Other"
+msgstr "Прочее"
+
+#: password
+msgctxt "password"
+msgid "Password"
+msgstr "Пароль"
+
+#: confirm_password
+msgid "Confirm password"
+msgstr "Подтвердить пароль"
+
+#: mobile_phone
+msgid "Mobile phone"
+msgstr "Мобильный телефон"
+
+#: create_new_account
+msgid "Create a new account"
+msgstr "Создать новую учетную запись"
+
+#: prove_you_are_not_a_robot
+msgid "Prove you are not a robot"
+msgstr "Докажите, что вы не робот"
+
+#: create
+msgid "Create"
+msgstr "Создать"
+
+#: cant_read_the_words_try_another_one
+msgid "Can't read the words? Try another one"
+msgstr "Не можете прочитать слова? Попробуйте другое"
+
+#: restore
+msgid "Restore"
+msgstr "Восстановить"
+
+#: new_password
+msgctxt "new_password"
+msgid "New password"
+msgstr ""
+
+#: restore_account
+msgid "Restore account"
+msgstr "Восстановить пароль"
+
+#: account_recovery
+msgid "Account recovery"
+msgstr "Восстановить учетную запись"
+
+#: recover
+msgid "Recover"
+msgstr "Восстановить"
+
+#: code_from_email
+msgid "Code from email"
+msgstr "Код электронной почты"
+
+#: password_hint
+msgid "Minimum 8 characters, 1 upper-case and 1 digit"
+msgstr "Минимум 8 символов, 1 заглавная буква и 1 цифра"
+
+#: optional
+msgid "Optional"
+msgstr "Опционно"
+
+#: object_not_deleted_associated_by_objects
+msgid "Object was not deleted because it is used by other objects:"
+msgstr "Объект не был удален, потому что используется другими объектами:"
+
+#: id
+msgid "ID"
+msgstr ""
+
+#: name_in_use
+msgid "The name is already in use. Please choose a different name"
+msgstr ""
+
+#: code_in_use
+msgid "The code is already in use. Please choose a different code"
+msgstr ""
+
+#: short_name_in_use
+msgid "The short name is already in use. Please choose a different short name"
+msgstr ""
+
+#: unsupported_browser
+msgid ""
+"Please upgrade your browser. Internet Explorer version 8 and earlier is not "
+"supported."
+msgstr ""
+
+#: data_element_or_type_null_or_empty
+msgid "Data element or type not defined"
+msgstr ""
+
+#: value_length_greater_than_max_length
+msgid "Value is greater than max length"
+msgstr ""
+
+#: comment_length_greater_than_max_length
+msgctxt "comment_length_greater_than_max_length"
+msgid "Comment is greater than max length"
+msgstr ""
+
+#: value_not_numeric
+msgid "Value is not numeric"
+msgstr ""
+
+#: value_not_unit_interval
+msgid "Value is not a unit interval"
+msgstr ""
+
+#: value_not_percentage
+msgid "Value is not a percentage"
+msgstr ""
+
+#: value_not_integer
+msgid "Value is not an integer"
+msgstr ""
+
+#: value_not_positive_integer
+msgid "Value is not a positive integer"
+msgstr ""
+
+#: value_not_negative_integer
+msgid "Value is not a negative integer"
+msgstr ""
+
+#: value_not_bool
+msgid "Value is not a boolean"
+msgstr ""
+
+#: value_not_true_only
+msgid "Value is not true"
+msgstr ""
+
+#: value_not_valid_date
+msgid "Value is not a valid date"
+msgstr ""
+
+#: email_not_configured_for_system
+msgid "Email is not configured for the system"
+msgstr ""
+
+#: no_user_credentials
+msgid "No user credentials"
+msgstr ""
+
+#: user_does_not_have_valid_email
+msgid "User does not have a valid email"
+msgstr ""
+
+#: user_has_critical_authorities
+msgid "User has critical authorities"
+msgstr ""
+
+#: default
+msgid "Default"
+msgstr ""
+
+#: left_brackets
+msgid "Left brackets"
+msgstr ""
+
+#: right_brackets
+msgid "Right brackets"
+msgstr ""
+
+#: multiply
+msgid "Multiply"
+msgstr ""
+
+#: divide
+msgid "Divide"
+msgstr ""
+
+#: plus
+msgid "Plus"
+msgstr ""
+
+#: minus
+msgid "Minus"
+msgstr ""
+
+#: no_of_days
+msgid "No of days"
+msgstr ""
+
+#: variables
+msgid "Variables"
+msgstr ""
+
+#: open
+msgid "Open"
+msgstr ""
+
+#: normal
+msgid "Normal"
+msgstr ""
+
+#. #-- Relative periods -----------------------------------------------------------#
+#: LAST_MONTH
+msgid "Last month"
+msgstr ""
+
+#: LAST_BIMONTH
+msgid "Last bi-month"
+msgstr ""
+
+#: LAST_QUARTER
+msgid "Last quarter"
+msgstr ""
+
+#: LAST_SIX_MONTH
+msgid "Last six-month"
+msgstr ""
+
+#: MONTHS_THIS_YEAR
+msgid "Months this year"
+msgstr ""
+
+#: QUARTERS_THIS_YEAR
+msgid "Quarters this year"
+msgstr ""
+
+#: THIS_YEAR
+msgid "This year"
+msgstr ""
+
+#: MONTHS_LAST_YEAR
+msgid "Months last year"
+msgstr ""
+
+#: QUARTERS_LAST_YEAR
+msgid "Quarters last year"
+msgstr ""
+
+#: LAST_YEAR
+msgid "Last year"
+msgstr ""
+
+#: LAST_5_YEARS
+msgid "Last 5 years"
+msgstr ""
+
+#: LAST_12_MONTHS
+msgid "Last 12 months"
+msgstr ""
+
+#: LAST_6_MONTHS
+msgid "Last 6 months"
+msgstr ""
+
+#: LAST_3_MONTHS
+msgid "Last 3 months"
+msgstr ""
+
+#: LAST_6_BIMONTHS
+msgid "Last 6 bi-months"
+msgstr ""
+
+#: LAST_4_QUARTERS
+msgid "Last 4 quarters"
+msgstr ""
+
+#: LAST_2_SIXMONTHS
+msgid "Last 2 six-months"
+msgstr ""
+
+#: THIS_FINANCIAL_YEAR
+msgid "This financial year"
+msgstr ""
+
+#: LAST_FINANCIAL_YEAR
+msgid "Last financial year"
+msgstr ""
+
+#: LAST_5_FINANCIAL_YEARS
+msgid "Last 5 financial years"
+msgstr ""
+
+#: LAST_WEEK
+msgid "Last week"
+msgstr ""
+
+#: LAST_4_WEEKS
+msgid "Last 4 weeks"
+msgstr ""
+
+#: LAST_12_WEEKS
+msgid "Last 12 weeks"
+msgstr ""
+
+#: LAST_52_WEEKS
+msgid "Last 52 weeks"
+msgstr ""
+
+#. #-- PeriodTypes ----------------------------------------------------------------#
+#: Daily
+msgid "Daily"
+msgstr "Ежедневно"
+
+#: Weekly
+msgid "Weekly"
+msgstr "Еженедельно"
+
+#: Monthly
+msgid "Monthly"
+msgstr "Ежемесячно"
+
+#: BiMonthly
+msgid "Bimonthly"
+msgstr "Раз в два месяца"
+
+#: Quarterly
+msgid "Quarterly"
+msgstr "Ежеквартально"
+
+#: SixMonthly
+msgid "Six-monthly"
+msgstr "Раз в полугодие"
+
+#: SixMonthlyApril
+msgid "Six-monthly April"
+msgstr ""
+
+#: Yearly
+msgid "Yearly"
+msgstr "Ежегодно"
+
+#: TwoYearly
+msgid "Two-yearly"
+msgstr "Раз в два года"
+
+#: OnChange
+msgid "On-change"
+msgstr "При изменениях"
+
+#: Survey
+msgid "Survey"
+msgstr "Исследование"
+
+#: Relative
+msgid "Relative"
+msgstr "Родственник"
+
+#: FinancialApril
+msgid "Financial-April"
+msgstr "Финансовый-апрель"
+
+#: FinancialJuly
+msgid "Financial-July"
+msgstr "Финансовый-июль"
+
+#: FinancialOct
+msgid "Financial-Oct"
+msgstr "Финансовый - октябрь"
+
+#. #-- Period formats - Should not be translated ----------------------------------#
+#: format.Daily.startDate
+msgctxt "format.Daily.startDate"
+msgid "yyyy-MM-dd"
+msgstr ""
+
+#: format.Daily.endDate
+msgctxt "format.Daily.endDate"
+msgid ""
+msgstr ""
+
+#: format.Weekly.startDate
+msgid "yyyy 'W' w"
+msgstr ""
+
+#: format.Weekly.endDate
+msgctxt "format.Weekly.endDate"
+msgid ""
+msgstr ""
+
+#: format.Monthly.startDate
+msgid "MMMM yyyy"
+msgstr ""
+
+#: format.Monthly.endDate
+msgctxt "format.Monthly.endDate"
+msgid ""
+msgstr ""
+
+#: format.BiMonthly.startDate
+msgctxt "format.BiMonthly.startDate"
+msgid "MMM 'to '"
+msgstr ""
+
+#: format.BiMonthly.endDate
+msgctxt "format.BiMonthly.endDate"
+msgid "MMM yyyy"
+msgstr ""
+
+#: format.Quarterly.startDate
+msgctxt "format.Quarterly.startDate"
+msgid "MMM 'to '"
+msgstr ""
+
+#: format.Quarterly.endDate
+msgctxt "format.Quarterly.endDate"
+msgid "MMM yyyy"
+msgstr ""
+
+#: format.SixMonthly.startDate
+msgctxt "format.SixMonthly.startDate"
+msgid "MMM 'to '"
+msgstr ""
+
+#: format.SixMonthly.endDate
+msgctxt "format.SixMonthly.endDate"
+msgid "MMM yyyy"
+msgstr ""
+
+#: format.SixMonthlyApril.startDate
+msgctxt "format.SixMonthlyApril.startDate"
+msgid "MMM 'to '"
+msgstr ""
+
+#: format.SixMonthlyApril.endDate
+msgctxt "format.SixMonthlyApril.endDate"
+msgid "MMM yyyy"
+msgstr ""
+
+#: format.Yearly.startDate
+msgctxt "format.Yearly.startDate"
+msgid "yyyy"
+msgstr ""
+
+#: format.Yearly.endDate
+msgctxt "format.Yearly.endDate"
+msgid ""
+msgstr ""
+
+#: format.TwoYearly.startDate
+msgid "yyyy 'and '"
+msgstr ""
+
+#: format.TwoYearly.endDate
+msgctxt "format.TwoYearly.endDate"
+msgid "yyyy"
+msgstr ""
+
+#: format.OnChange.startDate
+msgctxt "format.OnChange.startDate"
+msgid "yyyy-MM-dd '- '"
+msgstr ""
+
+#: format.OnChange.endDate
+msgctxt "format.OnChange.endDate"
+msgid "yyyy-MM-dd"
+msgstr ""
+
+#: format.Survey.startDate
+msgctxt "format.Survey.startDate"
+msgid "yyyy-MM-dd"
+msgstr ""
+
+#: format.Survey.endDate
+msgctxt "format.Survey.endDate"
+msgid ""
+msgstr ""
+
+#: format.Relative.startDate
+msgctxt "format.Relative.startDate"
+msgid "yyyy-MM-dd '- '"
+msgstr ""
+
+#: format.Relative.endDate
+msgctxt "format.Relative.endDate"
+msgid "yyyy-MM-dd"
+msgstr ""
+
+#: format.FinancialApril.startDate
+msgctxt "format.FinancialApril.startDate"
+msgid "MMM yyyy 'to '"
+msgstr ""
+
+#: format.FinancialApril.endDate
+msgctxt "format.FinancialApril.endDate"
+msgid "MMM yyyy"
+msgstr ""
+
+#: format.FinancialJuly.startDate
+msgctxt "format.FinancialJuly.startDate"
+msgid "MMM yyyy 'to '"
+msgstr ""
+
+#: format.FinancialJuly.endDate
+msgctxt "format.FinancialJuly.endDate"
+msgid "MMM yyyy"
+msgstr ""
+
+#: format.FinancialOct.startDate
+msgctxt "format.FinancialOct.startDate"
+msgid "MMM yyyy 'to '"
+msgstr ""
+
+#: format.FinancialOct.endDate
+msgctxt "format.FinancialOct.endDate"
+msgid "MMM yyyy"
+msgstr ""
+
+#. #-- Months and weeks -----------------------------------------------------------#
+#: month.january
+msgid "January"
+msgstr "Январь"
+
+#: month.february
+msgid "February"
+msgstr "Февраль"
+
+#: month.march
+msgid "March"
+msgstr "Март"
+
+#: month.april
+msgid "April"
+msgstr "Апрель"
+
+#: month.may
+msgctxt "month.may"
+msgid "May"
+msgstr "Май"
+
+#: month.june
+msgid "June"
+msgstr "Июнь"
+
+#: month.july
+msgid "July"
+msgstr "Июль"
+
+#: month.august
+msgid "August"
+msgstr "Август"
+
+#: month.september
+msgid "September"
+msgstr "Сентябрь"
+
+#: month.october
+msgid "October"
+msgstr "Октябрь"
+
+#: month.november
+msgid "November"
+msgstr "Ноябрь"
+
+#: month.december
+msgid "December"
+msgstr "Декабрь"
+
+#: month.short.january
+msgid "Jan"
+msgstr "Янв"
+
+#: month.short.february
+msgid "Feb"
+msgstr "Фев"
+
+#: month.short.march
+msgid "Mar"
+msgstr "Мар"
+
+#: month.short.april
+msgid "Apr"
+msgstr "Апр"
+
+#: month.short.may
+msgctxt "month.short.may"
+msgid "May"
+msgstr "Май"
+
+#: month.short.june
+msgid "Jun"
+msgstr "Июн"
+
+#: month.short.july
+msgid "Jul"
+msgstr "Июл"
+
+#: month.short.august
+msgid "Aug"
+msgstr "Авг"
+
+#: month.short.september
+msgid "Sep"
+msgstr "Сен"
+
+#: month.short.october
+msgid "Oct"
+msgstr "Окт"
+
+#: month.short.november
+msgid "Nov"
+msgstr "Ноя"
+
+#: month.short.december
+msgid "Dec"
+msgstr "Дек"
+
+#: weekday.monday
+msgctxt "weekday.monday"
+msgid "Monday"
+msgstr "Понедельник"
+
+#: weekday.tuesday
+msgctxt "weekday.tuesday"
+msgid "Tuesday"
+msgstr "Вторник"
+
+#: weekday.wednesday
+msgctxt "weekday.wednesday"
+msgid "Wednesday"
+msgstr "Среда"
+
+#: weekday.thursday
+msgctxt "weekday.thursday"
+msgid "Thursday"
+msgstr "Четверг"
+
+#: weekday.friday
+msgctxt "weekday.friday"
+msgid "Friday"
+msgstr "Пятница"
+
+#: weekday.saturday
+msgctxt "weekday.saturday"
+msgid "Saturday"
+msgstr "Суббота"
+
+#: weekday.sunday
+msgctxt "weekday.sunday"
+msgid "Sunday"
+msgstr "Восресенье"
+
+#: weekday.short.monday
+msgctxt "weekday.short.monday"
+msgid "Mon"
+msgstr "Пн"
+
+#: weekday.short.tuesday
+msgctxt "weekday.short.tuesday"
+msgid "Tue"
+msgstr "Вт"
+
+#: weekday.short.wednesday
+msgctxt "weekday.short.wednesday"
+msgid "Wed"
+msgstr "Ср"
+
+#: weekday.short.thursday
+msgctxt "weekday.short.thursday"
+msgid "Thu"
+msgstr "Чт"
+
+#: weekday.short.friday
+msgctxt "weekday.short.friday"
+msgid "Fri"
+msgstr "Пт"
+
+#: weekday.short.saturday
+msgctxt "weekday.short.saturday"
+msgid "Sat"
+msgstr "Сб"
+
+#: weekday.short.sunday
+msgctxt "weekday.short.sunday"
+msgid "Sun"
+msgstr "Вс"
+
+#. #-- Nepali Calendar Month/Day names -------------------------------------------#
+#. # The keys for months are still based on ISO 8601, the ordering is correct, but the key names are not. Jan-Dec -> 1-12. #
+#: nepali.month.january
+msgctxt "nepali.month.january"
+msgid "Baishak"
+msgstr ""
+
+#: nepali.month.february
+msgctxt "nepali.month.february"
+msgid "Jestha"
+msgstr ""
+
+#: nepali.month.march
+msgctxt "nepali.month.march"
+msgid "Asar"
+msgstr ""
+
+#: nepali.month.april
+msgctxt "nepali.month.april"
+msgid "Shrawan"
+msgstr ""
+
+#: nepali.month.may
+msgctxt "nepali.month.may"
+msgid "Bhadra"
+msgstr ""
+
+#: nepali.month.june
+msgctxt "nepali.month.june"
+msgid "Ashwin"
+msgstr ""
+
+#: nepali.month.july
+msgctxt "nepali.month.july"
+msgid "Kartik"
+msgstr ""
+
+#: nepali.month.august
+msgctxt "nepali.month.august"
+msgid "Mangsir"
+msgstr ""
+
+#: nepali.month.september
+msgctxt "nepali.month.september"
+msgid "Poush"
+msgstr ""
+
+#: nepali.month.october
+msgctxt "nepali.month.october"
+msgid "Magh"
+msgstr ""
+
+#: nepali.month.november
+msgctxt "nepali.month.november"
+msgid "Falgun"
+msgstr ""
+
+#: nepali.month.december
+msgctxt "nepali.month.december"
+msgid "Chaitra"
+msgstr ""
+
+#: nepali.month.short.january
+msgctxt "nepali.month.short.january"
+msgid "Baishak"
+msgstr ""
+
+#: nepali.month.short.february
+msgctxt "nepali.month.short.february"
+msgid "Jestha"
+msgstr ""
+
+#: nepali.month.short.march
+msgctxt "nepali.month.short.march"
+msgid "Asar"
+msgstr ""
+
+#: nepali.month.short.april
+msgctxt "nepali.month.short.april"
+msgid "Shrawan"
+msgstr ""
+
+#: nepali.month.short.may
+msgctxt "nepali.month.short.may"
+msgid "Bhadra"
+msgstr ""
+
+#: nepali.month.short.june
+msgctxt "nepali.month.short.june"
+msgid "Ashwin"
+msgstr ""
+
+#: nepali.month.short.july
+msgctxt "nepali.month.short.july"
+msgid "Kartik"
+msgstr ""
+
+#: nepali.month.short.august
+msgctxt "nepali.month.short.august"
+msgid "Mangsir"
+msgstr ""
+
+#: nepali.month.short.september
+msgctxt "nepali.month.short.september"
+msgid "Poush"
+msgstr ""
+
+#: nepali.month.short.october
+msgctxt "nepali.month.short.october"
+msgid "Magh"
+msgstr ""
+
+#: nepali.month.short.november
+msgctxt "nepali.month.short.november"
+msgid "Falgun"
+msgstr ""
+
+#: nepali.month.short.december
+msgctxt "nepali.month.short.december"
+msgid "Chaitra"
+msgstr ""
+
+#: nepali.weekday.monday
+msgctxt "nepali.weekday.monday"
+msgid "Monday"
+msgstr ""
+
+#: nepali.weekday.tuesday
+msgctxt "nepali.weekday.tuesday"
+msgid "Tuesday"
+msgstr ""
+
+#: nepali.weekday.wednesday
+msgctxt "nepali.weekday.wednesday"
+msgid "Wednesday"
+msgstr ""
+
+#: nepali.weekday.thursday
+msgctxt "nepali.weekday.thursday"
+msgid "Thursday"
+msgstr ""
+
+#: nepali.weekday.friday
+msgctxt "nepali.weekday.friday"
+msgid "Friday"
+msgstr ""
+
+#: nepali.weekday.saturday
+msgctxt "nepali.weekday.saturday"
+msgid "Saturday"
+msgstr ""
+
+#: nepali.weekday.sunday
+msgctxt "nepali.weekday.sunday"
+msgid "Sunday"
+msgstr ""
+
+#: nepali.weekday.short.monday
+msgctxt "nepali.weekday.short.monday"
+msgid "Mon"
+msgstr ""
+
+#: nepali.weekday.short.tuesday
+msgctxt "nepali.weekday.short.tuesday"
+msgid "Tue"
+msgstr ""
+
+#: nepali.weekday.short.wednesday
+msgctxt "nepali.weekday.short.wednesday"
+msgid "Wed"
+msgstr ""
+
+#: nepali.weekday.short.thursday
+msgctxt "nepali.weekday.short.thursday"
+msgid "Thu"
+msgstr ""
+
+#: nepali.weekday.short.friday
+msgctxt "nepali.weekday.short.friday"
+msgid "Fri"
+msgstr ""
+
+#: nepali.weekday.short.saturday
+msgctxt "nepali.weekday.short.saturday"
+msgid "Sat"
+msgstr ""
+
+#: nepali.weekday.short.sunday
+msgctxt "nepali.weekday.short.sunday"
+msgid "Sun"
+msgstr ""
+
+#. #-- Translation page ------------------------------------------------------#
+#: translation_translate
+msgid "Translate"
+msgstr "Перевести"
+
+#: translation_addlocale
+msgid "Add locale"
+msgstr "Добавить местный"
+
+#: translation_details
+msgctxt "translation_details"
+msgid "Details"
+msgstr "Детали"
+
+#: translation_select_locale
+msgid "[ Select locale ]"
+msgstr "[ Выбрать узел ]"
+
+#: translation_select_ref
+msgid "[ Select reference ]"
+msgstr "[ Выбрать ссылку ]"
+
+#: translation_save
+msgctxt "translation_save"
+msgid "Save"
+msgstr "Сохранить"
+
+#: translation_label_id
+msgid "Id"
+msgstr "Ид"
+
+#: translation_label_name
+msgctxt "translation_label_name"
+msgid "Name"
+msgstr "Имя"
+
+#: translation_label_shortName
+msgctxt "translation_label_shortName"
+msgid "Short name"
+msgstr "Короткое имя"
+
+#: translation_label_description
+msgctxt "translation_label_description"
+msgid "Description"
+msgstr "Описание"
+
+#: translation_label_comment
+msgctxt "translation_label_comment"
+msgid "Comment"
+msgstr "Комментарий"
+
+#: translation_label_region
+msgid "Region"
+msgstr "Регион"
+
+#: translation_label_title
+msgid "Title"
+msgstr "Название"
+
+#: translation_variant
+msgid "Variant"
+msgstr "Вариант"
+
+#: translation_countrycode
+msgid "Country code"
+msgstr "Страновой код"
+
+#: translation_languagecode
+msgid "Language code"
+msgstr "Языковой код"
+
+#: translation_label_numerator_description
+msgctxt "translation_label_numerator_description"
+msgid "Numerator description"
+msgstr "Описание числителя"
+
+#: translation_label_denominator_description
+msgctxt "translation_label_denominator_description"
+msgid "Denominator description"
+msgstr "Описание знаменателя"
+
+#: translation_locale_added
+msgid "Added locale"
+msgstr "Добавленный узел/местный"
+
+#: translation_cancel
+msgctxt "translation_cancel"
+msgid "Cancel"
+msgstr "Отменить"
+
+#: translation_add
+msgctxt "translation_add"
+msgid "Add"
+msgstr "Добавить"
+
+#: translation_locale
+msgid "Locale"
+msgstr "Узел"
+
+#: translation_reference
+msgid "Reference"
+msgstr "Ссылка"
+
+#: translation_language_must_be_two_chars
+msgid "Language must be two characters"
+msgstr "Язык должен состоять из двух символов"
+
+#: translation_country_must_be_two_chars
+msgid "Country must be two characters"
+msgstr "Страна должна состоять из двух символов"
+
+#: translation_variant_must_be_specified
+msgid "Variant must be specified"
+msgstr "Вариант должен быть точно указан"
+
+#: translation_locale_already_exists
+msgid "Locale already exists"
+msgstr "Узел уже существует"
+
+#: translation_shortname_wellformed
+msgid ""
+"Please verify Letters, Numbers, Underscore and Spaces for short name only"
+msgstr ""
+"Пожалуйста,подтвердите буквы, цифры, нижние регистры и пробелы только для "
+"короткого имени"
+
+#: translation_shortname_length
+msgid "Shortname's maximum length of 25 charaters"
+msgstr "Максимальная длина короткого имени 25 символов"
+
+#: translation_duplicated_name_with
+msgid "Sorry! You entered a duplicated name with"
+msgstr "Ивзините! Вы ввели дубликат имени с"
+
+#: translation_duplicated_shortname_with
+msgid "Sorry! You entered a duplicated short name with"
+msgstr "Извините! Вы ввели дубликат короткого имени с"
+
+#: translation_label_formName
+msgid "Form name"
+msgstr "Название формы"
+
+#. #-- About ----------------------------------------------------------------------#
+#: name_exists
+msgid "Warning, name already exists"
+msgstr "Внимание, имя уже существует"
+
+#: name_is_required
+msgid "Error, name is required"
+msgstr "Ошибка, требуется имя"
+
+#: version
+msgid "Version"
+msgstr "Версия"
+
+#: build_revision
+msgid "Build revision"
+msgstr "Пересмотр конфигурации"
+
+#: build_date
+msgid "Build date"
+msgstr "Дата конфигурации"
+
+#: user_agent
+msgid "User agent"
+msgstr "Агент пользователь"
+
+#: external_configuration_directory
+msgid "External configuration directory"
+msgstr "Внешняя директория конфигурации"
+
+#: environment_variable
+msgid "Environment variable"
+msgstr "Переменная среды"
+
+#: database_type
+msgid "Database type"
+msgstr "Тип базы данных"
+
+#: database_name
+msgid "Database name"
+msgstr "Название базы данных"
+
+#: database_user
+msgid "Database user"
+msgstr "Пользователь базы данных"
+
+#: not_set
+msgid "Not set"
+msgstr "Не устнановлен"
+
+#: current_user
+msgid "Current user"
+msgstr "Текущий пользователь"
+
+#: dhis2_online
+msgid "DHIS 2 Online"
+msgstr "DHIS 2 онлайн"
+
+#: home_page
+msgid "Home Page"
+msgstr "Домашняя страница"
+
+#: launchpad_site
+msgid "Launchpad Site"
+msgstr "Панель запуска"
+
+#: message_to_the_dhis2_development_team
+msgid "Message to the DHIS 2 development team"
+msgstr "Сообщение для команды разработчиков DHIS"
+
+#: error_message_stack_trace
+msgid "Error message / Stack trace"
+msgstr "Сообщение об ошибке/Трассировка стека"
+
+#: enter_message
+msgid "Enter a message"
+msgstr "Введите сообщение"
+
+#: send
+msgid "Send"
+msgstr "Отправить"
+
+#: help
+msgid "Help"
+msgstr "Помощь"
+
+#: send_feedback
+msgid "Send feedback"
+msgstr "Отправить отзыв"
+
+#: status
+msgid "Status"
+msgstr "Состояние"
+
+#: system_status
+msgid "System status"
+msgstr "Статус системы"
+
+#: feedback
+msgid "Feedback"
+msgstr "Отзыв"
+
+#: intro
+msgid "Intro"
+msgstr "Введение"
+
+#: help_contents
+msgid "Help Contents"
+msgstr "Содержание справки"
+
+#: about_dhis2
+msgid "About DHIS 2"
+msgstr "Об DHIS 2"
+
+#: last_name
+msgid "Last name"
+msgstr "Фамилия"
+
+#: unknown
+msgid "Unknown"
+msgstr "Неизвестный"
+
+#: java_opts
+msgid "Java opts"
+msgstr "Опции Java"
+
+#: java_home
+msgid "Java home"
+msgstr ""
+
+#: java_tmp_dir
+msgid "Java temporary directory"
+msgstr "Временная директория Java"
+
+#: java_version
+msgid "Java version"
+msgstr "Версия Java"
+
+#: java_vendor
+msgid "Java vendor"
+msgstr "Производитель Java"
+
+#: os_name
+msgid "OS name"
+msgstr "Название ОС"
+
+#: os_architecture
+msgid "OS architecture"
+msgstr "Архитектура ОС"
+
+#: os_version
+msgid "OS version"
+msgstr "Версия ОС"
+
+#: supportive_software
+msgid "Supportive Software"
+msgstr "Поддерживающее/подходящее программное обеспечение"
+
+#: chrome_description
+msgid "Super fast web browser for all platforms"
+msgstr "Сверхскоростной Web-браузер для всех платформ"
+
+#: foxit_description
+msgid "Free and simple PDF reader for Windows"
+msgstr "Бесплатное и простое PDF считывающее устройство для Windows"
+
+#: web_browser
+msgid "Web browser"
+msgstr "Web браузер"
+
+#: pdf_reader
+msgid "PDF reader"
+msgstr "PDF считывающее устройство"
+
+#: ireport_description
+msgid "Report designer for standard reports"
+msgstr "Конструктор отчетов для стандартных отчетов"
+
+#: report_designer
+msgid "Report designer"
+msgstr "Еонструктор отчетов"
+
+#: my_datamart
+msgid "MyDatamart"
+msgstr "Моя витрина данных"
+
+#: my_datamart_description
+msgid "Local data mart for off-line data analysis"
+msgstr "Витрина местных данных для оффлайн анализа данных"
+
+#: mobile_client
+msgid "Mobile client"
+msgstr "Мобильный клиент"
+
+#: mobile_client_description
+msgid "Client for data capture on mobile devices"
+msgstr "Клиент для извлечения данных с мобильных устройств"
+
+#: web_api
+msgid "Web API"
+msgstr "Сетевой ИПП (интерфейс программирования приложений)"
+
+#: system_overview
+msgid "System Overview"
+msgstr "Обзор системы"
+
+#: server_date
+msgid "Server date"
+msgstr "Дата сервера"
+
+#: last_analytics_table_generation
+msgid "Last analytics table generation"
+msgstr ""
+
+#: last_analytics_table_runtime
+msgid "Last analytics table runtime"
+msgstr ""
+
+#: time_since_last_analytics_table_generation
+msgid "Time since last analytics table generation"
+msgstr ""
+
+#: online_release_page
+msgctxt "online_release_page"
+msgid "online release page"
+msgstr "Страница онлайн выпуска"
+
+#: edit_profile
+msgid "Edit profile"
+msgstr "Редактировать профиль"
+
+#: view_profile
+msgid "View profile"
+msgstr "Просмотреть профиль"
+
+#: profile_details
+msgid "Profile details"
+msgstr "Детали профиля"
+
+#: job_title
+msgid "Job title"
+msgstr "Должность"
+
+#: introduction
+msgid "Introduction"
+msgstr "Введение"
+
+#: gender
+msgid "Gender"
+msgstr "Пол"
+
+#: male
+msgctxt "male"
+msgid "Male"
+msgstr "Мужчина"
+
+#: female
+msgctxt "female"
+msgid "Female"
+msgstr "Женщина"
+
+#: other
+msgctxt "other"
+msgid "Other"
+msgstr "Другое"
+
+#: birthday
+msgid "Birthday"
+msgstr "День рождения"
+
+#: nationality
+msgid "Nationality"
+msgstr "Национальность"
+
+#: employer
+msgid "Employer"
+msgstr "Работодатель"
+
+#: education
+msgid "Education"
+msgstr "Образование"
+
+#: interests
+msgid "Interests"
+msgstr "Интересы"
+
+#: languages
+msgid "Languages"
+msgstr "Языки"
+
+#: update_user_profile_success
+msgid "Profile was updated"
+msgstr "Профиль был обновлен"
+
+#: settings
+msgctxt "settings"
+msgid "Settings"
+msgstr "Настройки"
+
+#: property_to_display_in_analysis_modules
+msgid "Property to display in analysis modules"
+msgstr "Свойство для отображения в модулях анализа"
+
+#: user_settings
+msgid "User settings"
+msgstr "Настройки пользователя"
+
+#: general
+msgid "General"
+msgstr "Общее"
+
+#: message
+msgid "Message"
+msgstr "Сообщение"
+
+#: db_language
+msgid "Database language"
+msgstr "Язык базы данных"
+
+#: language
+msgid "Interface language"
+msgstr "Язык интерфейса"
+
+#: use_db_locale_no_translation
+msgid "Use database locale / no translation"
+msgstr "Использовать язык базы данных/без перевода"
+
+#: style
+msgid "Style"
+msgstr "Стиль"
+
+#: user_general_settings
+msgid "User General Settings"
+msgstr "Использовать общие настройки"
+
+#: user_message_settings
+msgid "User Message Settings"
+msgstr "Использовать настройки сообщений"
+
+#: enable_message_email_notifications
+msgid "Enable message email notifications"
+msgstr "Разрешить отправлять сообщения об уведомлениях по электронной почте"
+
+#: enable_message_sms_notifications
+msgid "Enable message SMS notifications"
+msgstr "Разрешить отправлять СМС уведомления"
+
+#: intro_user_general_settings
+msgid ""
+"Customize the system with user specific settings for locale, style and more."
+msgstr ""
+"Персональные настройки системы с индивидуальными настройками языка, стиля и "
+"прочего."
+
+#: intro_user_message_settings
+msgid ""
+"Customize the system with user specific settings for message email and sms "
+"notification."
+msgstr ""
+"Персональные настройки системы с индивидуальными настройками сообщений "
+"эдектронной почтой и СМС уведомлений."
+
+#: light_blue
+msgid "Light Blue"
+msgstr "Голубой"
+
+#: green
+msgid "Green"
+msgstr "Зеленый"
+
+#: myanmar
+msgctxt "myanmar"
+msgid "Myanmar"
+msgstr "Мьянма"
+
+#: india
+msgctxt "india"
+msgid "India"
+msgstr ""
+
+#: vietnam
+msgctxt "vietnam"
+msgid "Vietnam"
+msgstr ""
+
+#: settings_updated
+msgid "Settings were updated"
+msgstr "Настройки были обновлены"
+
+#: dashboard
+msgctxt "dashboard"
+msgid "Dashboard"
+msgstr "Информационная панель"
+
+#: messages
+msgid "Messages"
+msgstr "Сообщения"
+
+#: interpretations
+msgid "Interpretations"
+msgstr "Интерпретации"
+
+#: interface_style
+msgid "Interface style"
+msgstr "Стиль интерфейса"
+
+#: server_memory
+msgid "Server memory"
+msgstr "Память сервера"
+
+#: cpu_cores
+msgid "CPU cores"
+msgstr "память CPU/микропроцессора"
+
+#: please_select
+msgid "Please select"
+msgstr ""
+
+#: browse_it_here
+msgid "Browse it here"
+msgstr ""
+
+#. #-- Change Log------------------------------------------------------------------#
+#: change_log
+msgid "Change Log"
+msgstr "Изменить журнал"
+
+#: release
+msgid "Release"
+msgstr "Выпуск"
+
+#: release_page
+msgctxt "release_page"
+msgid "online release page"
+msgstr "Страница онлайн выпуска"
+
+#. #-- Macros ---------------------------------------------------------------------#
+#: yes
+msgctxt "yes"
+msgid "Yes"
+msgstr "Да"
+
+#: no
+msgctxt "no"
+msgid "No"
+msgstr "Нет"
+
+#: true
+msgctxt "true"
+msgid "Yes"
+msgstr ""
+
+#: false
+msgctxt "false"
+msgid "No"
+msgstr ""
+
+#: sum
+msgid "Sum"
+msgstr "Сум"
+
+#: count
+msgid "Count"
+msgstr "Счет"
+
+#: average
+msgid "Average"
+msgstr "Среднее"
+
+#: stddev
+msgid "Standard deviation"
+msgstr ""
+
+#: variance
+msgid "Variance"
+msgstr ""
+
+#: min
+msgid "Min"
+msgstr ""
+
+#: max
+msgid "Max"
+msgstr ""
+
+#: text
+msgid "Text"
+msgstr "Текст"
+
+#: long_text
+msgid "Long text"
+msgstr ""
+
+#: string
+msgid "String"
+msgstr "Строка"
+
+#: int
+msgctxt "int"
+msgid "Number"
+msgstr "Число"
+
+#: number
+msgctxt "number"
+msgid "Number"
+msgstr "Число"
+
+#: positive_integer
+msgid "Positive Integer"
+msgstr ""
+
+#: zero_positive_int
+msgid "Positive or Zero Integer"
+msgstr ""
+
+#: negative_integer
+msgid "Negative Integer"
+msgstr ""
+
+#: unit_interval
+msgid "Unit interval"
+msgstr ""
+
+#: percentage
+msgid "Percentage"
+msgstr ""
+
+#: date
+msgid "Date"
+msgstr "Дата"
+
+#: date_time
+msgid "Date & Time"
+msgstr ""
+
+#: yes_no
+msgctxt "yes_no"
+msgid "Yes/No"
+msgstr "Да/Нет"
+
+#: bool
+msgctxt "bool"
+msgid "Yes/No"
+msgstr "Да/Нет"
+
+#: none
+msgctxt "none"
+msgid "None"
+msgstr "Отсутствует"
+
+#: yes_only
+msgid "Yes Only"
+msgstr "Только Да"
+
+#: custom
+msgid "Custom"
+msgstr ""
+
+#. #-- Validation messages -------------------------------------------------------#
+#: value_must_integer
+msgid "Value must be an integer"
+msgstr ""
+
+#: value_must_number
+msgid "Value must be a number"
+msgstr ""
+
+#: value_must_positive_integer
+msgid "Value must be a positive integer"
+msgstr ""
+
+#: value_must_negative_integer
+msgid "Value must be a negative integer"
+msgstr ""
+
+#: value_must_zero_or_positive_integer
+msgid "Value must be zero or a positive integer"
+msgstr ""
+
+#: value_must_unit_interval
+msgid "Value must be a unit interval (between 0 and 1)"
+msgstr ""
+
+#: value_must_percentage
+msgid "Value must be a percentage (between 0 and 100)"
+msgstr ""
+
+#. #-- User account --------------------------------------------------------------#
+#: profile
+msgid "Profile"
+msgstr "Профиль"
+
+#: account
+msgid "Account"
+msgstr "Учетная запись"
+
+#: update_user
+msgid "Update user"
+msgstr "Обновить пользователя"
+
+#: user_account
+msgid "User account"
+msgstr ""
+
+#: user_name
+msgctxt "user_name"
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: old_password
+msgid "Old password"
+msgstr "Старый пароль"
+
+#: new_password
+msgctxt "new_password"
+msgid "New password"
+msgstr ""
+
+#: retype_new_password
+msgid "Retype new password"
+msgstr "Повторно наберите новый пароль"
+
+#: surname
+msgid "Surname"
+msgstr "Фамилия"
+
+#: first_name
+msgid "First name"
+msgstr "Имя"
+
+#: email
+msgid "E-mail"
+msgstr "адрес электронной почты"
+
+#: openid
+msgid "OpenID"
+msgstr ""
+
+#: username
+msgctxt "username"
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: phone_number
+msgid "Mobile phone number"
+msgstr "Номер мобильного телефона"
+
+#: user_roles
+msgid "User roles"
+msgstr "Уровень доступа"
+
+#: update_user_success
+msgid "Account was updated"
+msgstr "Учетная запись была обновлена"
+
+#: wrong_password
+msgid "Wrong password"
+msgstr "Неверный пароль"
+
+#: help_center
+msgid "Help Center"
+msgstr "Справочный центр"
+
+#: help_intro_header
+msgid "Welcome to the DHIS 2 Help Center"
+msgstr "Добро пожаловать в Справочный центр DHIS 2"
+
+#: help_intro_text
+msgid "Please select an item from the menu to the left."
+msgstr "Пожалуйста, выберите пункт из меню слева"
+
+#: please_wait_while_the_system_is_processing
+msgid "Please wait while the system is processing"
+msgstr "Пожалуйста, подождите, система обрабатывает ваш запрос"
+
+#: organisation_unit_required_for_user
+msgid "User must be assigned to at least one organisation unit"
+msgstr ""
+
+#. #-- Contact info ---------------------------------------------------------------#
+#: address
+msgid "Address"
+msgstr "Адрес"
+
+#: contact_details
+msgid "Contact information"
+msgstr "Контактная информация"
+
+#: contact_person
+msgid "Contact person"
+msgstr "Контактное лицо"
+
+#. #-- Form validation messages --------------------------------------------------#
+#: this_field_is_required
+msgid "This field is required."
+msgstr "Данное поле обязательно."
+
+#: please_fix_this_field
+msgid "Please fix this field."
+msgstr "Пожалуйста, закрепите данное поле."
+
+#: please_enter_a_valid_email_address
+msgid "Please enter a valid email address."
+msgstr "Пожалуйста, введите действительный адрес электронной почты."
+
+#: please_enter_a_valid_url
+msgid "Please enter a valid URL."
+msgstr "Пожалуйста, введите действительный URL."
+
+#: please_enter_a_valid_date
+msgid "Please enter a valid date."
+msgstr "Пожалуйста, введите действительную дату."
+
+#: please_enter_a_valid_date_iso
+msgid "Please enter a valid date (e.g. 1990-01-01)."
+msgstr "Пожалуйста, введите действительную дату (напр. 1990-01-01)."
+
+#: please_enter_a_valid_number
+msgctxt "please_enter_a_valid_number"
+msgid "Please enter a valid number."
+msgstr "Пожалуйста, введите действительное число."
+
+#: please_enter_a_valid_digits
+msgid "Please enter only digits."
+msgstr "Пожалуйста, введите только однозначные числа."
+
+#: please_enter_the_equal_values_again
+msgid "The entered values do not match. Please re-enter the values."
+msgstr "Введенные значения не совпадают. Пожалуйста, повторно введите значения."
+
+#: please_enter_a_value_with_a_valid_expression
+msgid "Please enter a value with a valid extension."
+msgstr "Пожалуйста, введите значение с действительным расширением."
+
+#: first_character_must_be_alphabetical
+msgid "The first character must be a letter."
+msgstr "Первым символом должна быть буква."
+
+#: please_enter_no_more_than_n_character
+msgid "Please enter no more than {0} characters."
+msgstr "Пожалуйста, введите не более {0} символов."
+
+#: please_enter_at_least_than_n_character
+msgctxt "please_enter_at_least_than_n_character"
+msgid "Please enter at least {0} characters."
+msgstr "Пожалуйста, введите не менее {0} символов."
+
+#: please_enter_a_value_between_n_character
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr "Пожалуйста, введите значение длиною от {0} до {1} символов."
+
+#: please_enter_a_value_between_a_and_b
+msgid "Please enter a value between {0} and {1}."
+msgstr "Пожалуйста, введите значение от {0} до {1}."
+
+#: please_enter_a_value_less_than_or_equal_to_n
+msgid "Please enter a value less than or equal to {0}."
+msgstr "Пожалуйста, введите значение не менее или равно {0}."
+
+#: please_enter_a_value_greater_than_or_equal_to_n
+msgid "Please enter a value greater than or equal to {0}."
+msgstr "Пожалуйста, введите значение больше или равно {0}."
+
+#: please_enter_a_different_value_to_above
+msgid "Please enter a different value to above."
+msgstr "Пожалуйста, введите значение отличное от приведенного выше."
+
+#: digits_decimal_only_please
+msgid ""
+"Please enter digits only. Three digits before decimal point and two after "
+"the decimal point are allowed."
+msgstr ""
+"Пожалуйста, введите только однозначные числа.Разрешаются три однозначных "
+"числа до точки в десятичной дроби и два после нее."
+
+#: please_letters_numbers_spaces_underscores_only
+msgid "Only letters, numbers, spaces and underscores are allowed."
+msgstr "Разрешаются только буквы, цифры, пробелы и подчекивание."
+
+#: please_letters_numbers_spaces_or_some_special_chars_only
+msgid ""
+"Only letters, numbers, spaces and the characters \n"
+" .,-,(,) are allowed."
+msgstr ""
+"Разрешаются только буквы, цифры, пробелы и символы\n"
+" .,-,(,)."
+
+#: please_enter_a_value_less_than_or_equal_to
+msgid "Please enter a value less than or equal to {1}"
+msgstr "Пожалуйста, введите значение менее или равно {1}."
+
+#: please_enter_a_value_greater_than_or_equal_to
+msgid "Please enter a value greater than or equal to {1}"
+msgstr "Пожалуйста, введите значение больше или равно {1}."
+
+#: please_do_not_enter_same_values
+msgid "Please do not enter same values."
+msgstr "Пожалуйста, не вводите прежние значения."
+
+#: letters_or_punctuation_only_please
+msgid "Letters or punctuation only please."
+msgstr "Пожалуйста, только буквы или пунктуация."
+
+#: please_enter_n_words_or_less
+msgid "Please enter {0} words or less."
+msgstr "Пожалйста, введите {0} или менее слов."
+
+#: please_enter_at_least_n_words
+msgid "Please enter at least {0} words."
+msgstr "Пожалйста, введите не менее {0} слов."
+
+#: please_enter_betwwen_a_and_b_words
+msgid "Please enter between {0} and {1} words."
+msgstr "Пожалйста, введите от {0} до {1} слов."
+
+#: letters_only_please
+msgid "Letters only please."
+msgstr "Только буквы, пожалуйста."
+
+#: no_white_space_please
+msgid "No white space please"
+msgstr "Не оставляйте пробельных символов, пожалуйста."
+
+#: no_start_white_space_please
+msgid "This field cannot start with a space."
+msgstr "Поле не может начинаться с пробела."
+
+#: ZIP_code_must_be_in_the_range
+msgid "Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx"
+msgstr "Ваш почтовый индекс должен быть 73хxxx"
+
+#: please_enter_valid_time
+msgid "Please enter a valid time, between 00:00 and 23:59."
+msgstr "Пожалуйста, введите действительное время от 00:00 до 23:59."
+
+#: please_enter_valid_phone_number
+msgid "Please specify a valid phone number."
+msgstr "Пожалуйста, уточните действительный номер телефона."
+
+#: please_enter_at_least_n_character
+msgctxt "please_enter_at_least_n_character"
+msgid "Please enter at least {0} characters."
+msgstr "Пожалуйста, введите не менее {0} символов."
+
+#: this_date_can_not_be_after_today
+msgid "This date can not be after today."
+msgstr "Данная дата не может быть после сегодня."
+
+#: please_fill_out_at_least_one_of_these_fields
+msgid "Please fill out at least one of these fields."
+msgstr "Пожалуйста, заполните, хотя бы одно из данных полей."
+
+#: please_select_at_least_one_option_for_these_fields
+msgid "Please select at least one option for these fields."
+msgstr "Пожалуйста, выберите не менее одной опции для данных полей."
+
+#: password_must_contain_at_least_one_capital_letter_and_one_digit
+msgid "Password must contain at least one capital letter and one digit."
+msgstr "Пароль должен содержать не менее одной заглавной буквы и одной цифры."
+
+#: only_digits_are_not_allowed
+msgid "Only digits are not allowed"
+msgstr "Не разрешены только цифры"
+
+#: closedDate_should_be_greater_than_openDate
+msgid "The ClosedDate field should be greater than the OpenDate field."
+msgstr "Поле Датазакрытия должно быть больше, чем поле Датаоткрытия."
+
+#: please_unicode_chars_only
+msgid "Valid unicode charaters only are allowed."
+msgstr "Разрешены только действительные символы Юникода"
+
+#: unrecognized_coordinate_string
+msgid "Unrecognized coordinate string"
+msgstr "Неопознанная строка координат"
+
+#: please_enter_a_letters_or_digits
+msgid "Please enter letters or digits."
+msgstr "Пожалуйста, введите буквы или цифры."
+
+#: please_enter_valid_number
+msgctxt "please_enter_valid_number"
+msgid "Please enter a valid number."
+msgstr "Пожалуйста, введите действительное число."
+
+#: please_enter_valid_integer
+msgid "Please enter a valid integer."
+msgstr "Пожалуйста, введите действительное целое число."
+
+#: please_enter_valid_positive_integer
+msgid "Please enter a valid positive integer."
+msgstr "Пожалуйста, введите действительное положительное целое число."
+
+#: please_enter_valid_negative_integer
+msgid "Please enter a valid negative integer."
+msgstr "Пожалуйста, введите действительное отрицательное целое число."
+
+#: please_enter_name
+msgid "Please enter name!"
+msgstr "Пожалуйста, введите имя!"
+
+#: please_select_period
+msgid "Please select period!"
+msgstr "Пожалуйста выберите период"
+
+#: please_select_dataset
+msgid "Please select dataset!"
+msgstr "Пожалуйста, введите набор данных!"
+
+#: please_select_dataelement
+msgid "Please select data element!"
+msgstr "Пожалуйста, выберите элемент данных!"
+
+#: please_select_indicator
+msgid "Please select indicator!"
+msgstr "Пожалуйста, выберите индикатор!"
+
+#: please_enter_description
+msgid "Please enter description!"
+msgstr "Пожалуйста, введите описание!"
+
+#: delete_confirm
+msgid "Do you want to delete?"
+msgstr "Вы хотите удалить?"
+
+#: available
+msgid "Available"
+msgstr "Доступно"
+
+#: selected
+msgid "Selected"
+msgstr "Выбрано"
+
+#: error
+msgid "Error"
+msgstr "Ошибка"
+
+#: warning
+msgid "Warning"
+msgstr "Внимание"
+
+#: success
+msgid "Success"
+msgstr "Успех"
+
+#: waiting
+msgid "Please wait"
+msgstr "Пожалуйста, подождите"
+
+#: expression_not_well_formed
+msgid "Expression is not well formed"
+msgstr ""
+
+#: invalid_identifiers_in_expression
+msgid "Invalid identifiers in expression"
+msgstr ""
+
+#: filter_not_evaluating_to_true_or_false
+msgid "Filter is not evaluating to true or false"
+msgstr ""
+
+#: locate_by_code
+msgid "Locate by code"
+msgstr "Определить месторасположение по коду"
+
+#: select_at_level
+msgid "Select at level"
+msgstr "Выбрать на уровне"
+
+#: unselect_at_level
+msgid "Un-select at level"
+msgstr "Отменить выбор на уровне"
+
+#: unselect_all
+msgid "Un-select all"
+msgstr "Отменить выбор для всех"
+
+#: select_all
+msgid "Select all"
+msgstr "Выбрать все"
+
+#: select_in_group
+msgid "Select in group"
+msgstr "Выбрать в группе"
+
+#: unselect_in_group
+msgid "Un-select in group"
+msgstr "Отменить выбор в группе"
+
+#: select_children
+msgid "Select children"
+msgstr "Выбрать детей"
+
+#: unselect_children
+msgid "Un-select children"
+msgstr "Отменить выбор детей"
+
+#: organisation_unit_selection_tree
+msgid "Organisation Unit Selection"
+msgstr "Выбор организации"
+
+#: move_selected
+msgid "Move selected"
+msgstr "Переместить выбранное"
+
+#: remove_selected
+msgid "Remove selected"
+msgstr "Удалить выбранное"
+
+#: move_all
+msgid "Move all"
+msgstr "Переместить все"
+
+#: remove_all
+msgid "Remove all"
+msgstr "Удалить все"
+
+#: move_up
+msgid "Move up"
+msgstr "Переместить наверх"
+
+#: move_down
+msgid "Move down"
+msgstr "Переместить вниз"
+
+#: move_to_top
+msgid "Move to top"
+msgstr "Переместить в начало"
+
+#: move_to_bottom
+msgid "Move to bottom"
+msgstr "Переместить в конец"
+
+#. #-- Paging messages -----------------------------------------------------------#
+#: no_of_pages
+msgid "No. of pages"
+msgstr "Количество страниц"
+
+#: rows_in_page
+msgid "No. of rows per page"
+msgstr "Количество строк в странице"
+
+#: jump_to_page
+msgid "Jump to page"
+msgstr "Переход к странице"
+
+#: go
+msgid "Go"
+msgstr "Перейти"
+
+#: filter_by_name
+msgid "Filter by name"
+msgstr "Фильтр по имени"
+
+#: filter
+msgid "Filter"
+msgstr "Фильтр"
+
+#: clear
+msgid "Clear"
+msgstr "Очистить"
+
+#: find
+msgid "Find"
+msgstr "Найти"
+
+#: delete_success
+msgid "Object deleted"
+msgstr "Объект удален"
+
+#: process
+msgid "Processing..."
+msgstr "Обработкаâ¦"
+
+#. #-- Export PDF messages -------------------------------------------------------#
+#: get_pdf
+msgid "Get PDF"
+msgstr "Получить PDF"
+
+#: no_item_to_export
+msgid "There is no item to export"
+msgstr "Нет элементов для экспорта"
+
+#: name
+msgctxt "name"
+msgid "Name"
+msgstr "Имя"
+
+#: short_name
+msgctxt "short_name"
+msgid "Short name"
+msgstr "Короткое имя"
+
+#: alternative_name
+msgid "Alternative name"
+msgstr "Альтернативное имя"
+
+#: code
+msgid "Code"
+msgstr "Код"
+
+#: description
+msgctxt "description"
+msgid "Description"
+msgstr "Описание"
+
+#: opening_date
+msgid "Opening date"
+msgstr "Дата открытия"
+
+#: closed_date
+msgid "Closed date"
+msgstr "Дата закрытия"
+
+#: active
+msgid "Active"
+msgstr "Активный"
+
+#: type
+msgid "Type"
+msgstr "Тип"
+
+#: value_type
+msgid "Value Type"
+msgstr "Тип значения"
+
+#: actual
+msgid "Actual"
+msgstr "Фактический"
+
+#: target
+msgid "Target"
+msgstr "Цель"
+
+#: percent
+msgid "Percent"
+msgstr "Процент"
+
+#: on_time
+msgid "On time"
+msgstr "Время пребывания во включенном состоянии"
+
+#: data_dictionary
+msgid "Data Dictionary"
+msgstr "Словарь данных"
+
+#: data_elements
+msgid "Data elements"
+msgstr "Элементы данных"
+
+#: data_sets
+msgid "Data sets"
+msgstr "Наборы данных"
+
+#: indicators
+msgid "Indicators"
+msgstr "Индикаторы"
+
+#: indicator_groups
+msgid "Indicator groups"
+msgstr "Группы индикаторов"
+
+#: data_element_groups
+msgid "Data element groups"
+msgstr "Группы элементов данных"
+
+#: data_element_concepts
+msgid "Data element concepts"
+msgstr "Концепции элементов данных"
+
+#: organisation_units
+msgid "Organisation units"
+msgstr ""
+
+#: organisation_unit_groups
+msgid "Organisation unit groups"
+msgstr "Группы организаций"
+
+#: organisation_unit_hierarchy
+msgid "Organisation unit hierarchy"
+msgstr "Иерархия организаций"
+
+#: validation_rules
+msgid "Validation rules"
+msgstr "Правила проверки"
+
+#: period_type
+msgid "Period Type"
+msgstr "Виды периода"
+
+#: users
+msgctxt "users"
+msgid "Users"
+msgstr "Пользователи"
+
+#: user_groups
+msgid "User groups"
+msgstr "Группы пользователей"
+
+#: pivot_tables
+msgid "Pivot tables"
+msgstr ""
+
+#: charts
+msgid "Charts"
+msgstr ""
+
+#: maps
+msgid "Maps"
+msgstr ""
+
+#: dashboards
+msgid "Dashboards"
+msgstr ""
+
+#: programs
+msgid "Programs"
+msgstr ""
+
+#: events
+msgid "Events"
+msgstr ""
+
+#. #-- Indicator -----------------------------------------------------------------#
+#: expression
+msgid "Expression"
+msgstr "Выражение"
+
+#: left_expression
+msgid "Left Expression"
+msgstr "Левое выражение"
+
+#: right_expression
+msgid "Right Expression"
+msgstr "Правое выражение"
+
+#: indicator_type
+msgid "Indicator Type"
+msgstr "Тип индикатора"
+
+#: annualized
+msgid "Annualized"
+msgstr "Среднегодовой"
+
+#: aggregation_operator
+msgid "Aggregation operator"
+msgstr "Аггрегирование"
+
+#: numerator
+msgid "Numerator"
+msgstr "Числитель"
+
+#: numerator_formula
+msgid "Numerator formula"
+msgstr "Формула числителя"
+
+#: numerator_description
+msgctxt "numerator_description"
+msgid "Numerator description"
+msgstr "Описание числителя"
+
+#: numerator_aggregation_operator
+msgid "Numerator aggregation operator"
+msgstr "Аггрегирование числителя"
+
+#: denominator
+msgid "Denominator"
+msgstr "Знаменатель"
+
+#: denominator_formula
+msgid "Denominator formula"
+msgstr "Формула знаменателя"
+
+#: denominator_description
+msgctxt "denominator_description"
+msgid "Denominator description"
+msgstr "Описание знаменателя"
+
+#: denominator_aggregation_operator
+msgid "Denominator aggregation operator"
+msgstr "Аггрегирование знаменателя"
+
+#: expression_is_empty
+msgid "Expression is empty"
+msgstr "Выражение пустое"
+
+#: category_option_combo_does_not_exist
+msgid "Category option combo does not exist"
+msgstr "Категория комбинированной опции не существует"
+
+#: data_element_does_not_exist
+msgid "Data element does not exist"
+msgstr "Элемент данных не существует"
+
+#: constant_does_not_exist
+msgid "Constant does not exist"
+msgstr ""
+
+#: org_unit_group_does_not_exist
+msgid "Organisation unit group does not exist"
+msgstr ""
+
+#: id_not_numeric
+msgid "Identifier is not numeric"
+msgstr "Идентификатор не является числовым"
+
+#: expression_not_well_formed
+msgid "Expression is not well-formed"
+msgstr ""
+
+#: valid
+msgid "Valid"
+msgstr ""
+
+#. #-- Validation Rule -----------------------------------------------------------#
+#: absolute
+msgid "Absolute"
+msgstr "Абсолютный"
+
+#: statistical
+msgid "Statistical"
+msgstr "Статистический"
+
+#: left_side_description
+msgid "Left side description"
+msgstr "Левостороннее описание"
+
+#: right_side_description
+msgid "Right side description"
+msgstr "Правостороннее описание"
+
+#: left_side_of_expression
+msgid "Left side of Expression"
+msgstr "Левая сторона выражения"
+
+#: right_side_of_expression
+msgid "Right side of Expression"
+msgstr "Правая сторона выражения"
+
+#: operator
+msgid "Operator"
+msgstr "Операция"
+
+#: equal_to_symbol
+msgctxt "equal_to_symbol"
+msgid "=="
+msgstr "== "
+
+#: not_equal_to_symbol
+msgctxt "not_equal_to_symbol"
+msgid "!="
+msgstr "!"
+
+#: greater_than_symbol
+msgctxt "greater_than_symbol"
+msgid ">"
+msgstr ">"
+
+#: greater_than_or_equal_to_symbol
+msgctxt "greater_than_or_equal_to_symbol"
+msgid ">="
+msgstr ">"
+
+#: less_than_symbol
+msgctxt "less_than_symbol"
+msgid "<"
+msgstr "<"
+
+#: less_than_or_equal_to_symbol
+msgctxt "less_than_or_equal_to_symbol"
+msgid "<="
+msgstr "<"
+
+#: equal_to
+msgctxt "equal_to"
+msgid "=="
+msgstr "== "
+
+#: not_equal_to
+msgctxt "not_equal_to"
+msgid "!="
+msgstr "!"
+
+#: greater_than
+msgctxt "greater_than"
+msgid ">"
+msgstr ">"
+
+#: greater_than_or_equal_to
+msgctxt "greater_than_or_equal_to"
+msgid ">="
+msgstr ">"
+
+#: less_than
+msgctxt "less_than"
+msgid "<"
+msgstr "<"
+
+#: less_than_or_equal_to
+msgctxt "less_than_or_equal_to"
+msgid "<="
+msgstr "<"
+
+#: and_title
+msgid "And"
+msgstr ""
+
+#: or_title
+msgid "Or"
+msgstr ""
+
+#: equal_to_title
+msgid "Equal to"
+msgstr ""
+
+#: not_equal_to_title
+msgid "Not equal to"
+msgstr ""
+
+#: less_than_title
+msgid "Less than"
+msgstr ""
+
+#: less_than_or_equal_to_title
+msgid "Less than or equal to"
+msgstr ""
+
+#: greater_than_title
+msgid "Greater than"
+msgstr ""
+
+#: greater_than_or_equal_to_title
+msgid "Greater than or equal to"
+msgstr ""
+
+#. #-- Constant ------------------------------------------------------------------#
+#: constant
+msgid "Constant"
+msgstr "Постоянная"
+
+#: constants
+msgid "Constants"
+msgstr "Постоянные"
+
+#: no_constant_to_select
+msgid "No constants to select"
+msgstr "Нет постоянных для выбора"
+
+#. #-- Dynamic Attributes --------------------------------------------------------#
+#: multiple_choice
+msgid "Multiple Choice"
+msgstr "Множественный выбор"
+
+#. #-- Sharing  ------------------------------------------------------------------#
+#: public_access
+msgid "Public access (with login)"
+msgstr "Общий доступ"
+
+#: external_access
+msgid "External access (without login)"
+msgstr "Внешний доступ (без входа в систему)"
+
+#: user_group_access
+msgid "User group access"
+msgstr "Доступ группы пользователей"
+
+#: ajax_login_failed
+msgctxt "ajax_login_failed"
+msgid "Login failed, check your username and password and try again"
+msgstr ""
+
+#: group_name
+msgid "Group name"
+msgstr "Названиеп группы"
+
+#: sharing_settings
+msgid "Sharing settings"
+msgstr "Настройки совместного пользования"
+
+#: no_access
+msgctxt "no_access"
+msgid "None"
+msgstr "Нет"
+
+#: read_only
+msgid "Read only"
+msgstr "Только читать"
+
+#: read_write
+msgid "Read and write"
+msgstr "Читать и писать"
+
+#: can_edit_and_view
+msgid "Can edit and view"
+msgstr "Можно редактировать и просматривать"
+
+#: can_view
+msgid "Can view"
+msgstr "Можно просматривать"
+
+#: search_for_user_groups
+msgid "Search for user groups"
+msgstr "Поиск групп пользователей"
+
+#: object_will_created_public
+msgid "This object will be created with public edit and view rights"
+msgstr "Объект будет создан с общим правом редактирования и просмотра"
+
+#: object_will_created_private
+msgid "This object will be private to yourself"
+msgstr "Объект будет лично для вас"
+
+#: created_by
+msgid "Created by"
+msgstr ""
+
+#. #-- Countries / flags ---------------------------------------------------------#
+#: afghanistan
+msgid "Afghanistan"
+msgstr "Афганистан"
+
+#: africare
+msgid "Africare"
+msgstr ""
+
+#: akros
+msgid "Akros"
+msgstr ""
+
+#: algeria
+msgid "Algeria"
+msgstr "Алжир"
+
+#: armenia
+msgid "Armenia"
+msgstr "Армения"
+
+#: bangladesh
+msgid "Bangladesh"
+msgstr "Бангладеш"
+
+#: benin
+msgid "Benin"
+msgstr "Бенин"
+
+#: bhutan
+msgid "Bhutan"
+msgstr "Бутан"
+
+#: botswana
+msgid "Botswana"
+msgstr "Ботсвана"
+
+#: burkina_faso
+msgid "Burkina Faso"
+msgstr "Буркина Фасо"
+
+#: burkina_faso_coat_of_arms
+msgid "Burkina Faso Coat of Arms"
+msgstr "Герб Буркина Фасо"
+
+#: burundi
+msgid "Burundi"
+msgstr ""
+
+#: cambodia
+msgid "Cambodia"
+msgstr "Камбоджа"
+
+#: cameroon
+msgid "Cameroon"
+msgstr ""
+
+#: china
+msgid "China"
+msgstr "Китай"
+
+#: colombia
+msgid "Colombia"
+msgstr "Коломбия"
+
+#: demoland
+msgid "Demoland"
+msgstr ""
+
+#: congo_brazzaville
+msgid "Republic of the Congo"
+msgstr "Республика Конго"
+
+#: congo_kinshasa
+msgid "Democratic Republic of the Congo"
+msgstr "Демократическая Республика Конго"
+
+#: east_africa_community
+msgid "East Africa Community"
+msgstr "Сообщество Восточной Африки"
+
+#: ecowas
+msgid "ECOWAS"
+msgstr ""
+
+#: ecuador
+msgid "Ecuador"
+msgstr "Эквадор"
+
+#: egypt
+msgid "Egypt"
+msgstr ""
+
+#: engender_health
+msgid "Engender Health"
+msgstr ""
+
+#: ethiopia
+msgid "Ethiopia"
+msgstr "Эфиопия"
+
+#: fhi360
+msgid "FHI360"
+msgstr ""
+
+#: forut
+msgid "FORUT"
+msgstr ""
+
+#: gambia
+msgid "Gambia"
+msgstr "Гамбия"
+
+#: ghana
+msgid "Ghana"
+msgstr "Гана"
+
+#: global_fund
+msgid "Global Fund"
+msgstr "Глобальный фонд"
+
+#: guinea
+msgid "Guinea"
+msgstr "Гвинея"
+
+#: guinea_bissau
+msgid "Guinea Bissau"
+msgstr "Гвинея Биссау"
+
+#: haiti
+msgid "Haiti"
+msgstr "Гаити"
+
+#: icap
+msgid "ICAP"
+msgstr ""
+
+#: ippf
+msgid "IPPF"
+msgstr ""
+
+#: india
+msgctxt "india"
+msgid "India"
+msgstr ""
+
+#: indonesia
+msgid "Indonesia"
+msgstr "Индонезия"
+
+#: iraq
+msgid "Iraq"
+msgstr ""
+
+#: irc
+msgid "International Rescue Committee"
+msgstr "Международный комитет спасения"
+
+#: ivory_coast
+msgid "Ivory Coast"
+msgstr "Кот-Д'Ивуар"
+
+#: jhpiego
+msgid "JHPIEGO"
+msgstr ""
+
+#: kenya
+msgid "Kenya"
+msgstr "Кения"
+
+#: laos
+msgid "Lao People's Democratic Republic"
+msgstr "Лаосская Народно-Демократическая Республика"
+
+#: lesotho
+msgid "Lesotho"
+msgstr "Лесото"
+
+#: liberia
+msgid "Liberia"
+msgstr "Либерия"
+
+#: malawi
+msgid "Malawi"
+msgstr "Малави"
+
+#: mali
+msgid "Mali"
+msgstr "Мали"
+
+#: mongolia
+msgid "Mongolia"
+msgstr ""
+
+#: mozambique
+msgid "Mozambique"
+msgstr "Мозамбик"
+
+#: myanmar
+msgctxt "myanmar"
+msgid "Myanmar"
+msgstr "Мьянма"
+
+#: msf
+msgid "MSF"
+msgstr ""
+
+#: msi
+msgid "MSI"
+msgstr ""
+
+#: namibia
+msgid "Namibia"
+msgstr "Намибия"
+
+#: nepal
+msgid "Nepal"
+msgstr "Непал"
+
+#: nicaragua
+msgid "Nicaragua"
+msgstr "Никарагуа"
+
+#: niger
+msgid "Niger"
+msgstr "Нигер"
+
+#: nigeria
+msgid "Nigeria"
+msgstr "Нигерия"
+
+#: norway
+msgid "Norway"
+msgstr "Норвегия"
+
+#: pakistan
+msgid "Pakistan"
+msgstr ""
+
+#: palestine
+msgid "Palestine"
+msgstr ""
+
+#: paraguay
+msgid "Paraguay"
+msgstr "Парагвай"
+
+#: pepfar
+msgid "PEPFAR"
+msgstr "PEPFAR"
+
+#: peru
+msgid "Peru"
+msgstr "Перу"
+
+#: philippines
+msgid "Philippines"
+msgstr "Филиппины"
+
+#: psi
+msgid "PSI"
+msgstr "PSI"
+
+#: republic_of_trinidad_and_tobago
+msgid "Republic of Trinidad & Tobago"
+msgstr "Республика Тринидад и Тобаго"
+
+#: rwanda
+msgid "Rwanda"
+msgstr "Руанда"
+
+#: senegal
+msgid "Senegal"
+msgstr "Сенегал"
+
+#: sierra_leone
+msgid "Sierra Leone"
+msgstr "Сьерра Леоне"
+
+#: sierra_leone_coat_of_arms
+msgid "Sierra Leone Coat of Arms"
+msgstr "Герб Сьерра Леоне"
+
+#: solomon_islands
+msgid "Solomon Islands"
+msgstr "Соломоновы острова"
+
+#: south_africa
+msgid "South Africa"
+msgstr "Южная Африка"
+
+#: south_africa_department_of_health
+msgid "South Africa Department of Health"
+msgstr "Департамент здравоохранения Южной Африки"
+
+#: south_sudan
+msgid "South Sudan"
+msgstr ""
+
+#: sri_lanka
+msgid "Sri Lanka"
+msgstr "Шри-Ланка"
+
+#: sudan
+msgid "Sudan"
+msgstr ""
+
+#: swaziland
+msgid "Swaziland"
+msgstr "Свазиленд"
+
+#: tajikistan
+msgid "Tajikistan"
+msgstr "Таджикистан"
+
+#: tanzania
+msgid "Tanzania"
+msgstr "Танзания"
+
+#: timor_leste
+msgid "Timor-Leste"
+msgstr "Восточный Тимор"
+
+#: togo
+msgid "Togo"
+msgstr "Того"
+
+#: uganda
+msgid "Uganda"
+msgstr "Уганда"
+
+#: usaid
+msgid "USAID"
+msgstr ""
+
+#: vanuatu
+msgid "Vanuatu"
+msgstr "Вануату"
+
+#: vietnam
+msgctxt "vietnam"
+msgid "Vietnam"
+msgstr ""
+
+#: who
+msgid "WHO"
+msgstr "ВОЗ"
+
+#: zambia
+msgid "Zambia"
+msgstr "Замбия"
+
+#: zanzibar
+msgid "Zanzibar"
+msgstr "Занзибар"
+
+#: zimbabwe
+msgid "Zimbabwe"
+msgstr "Зимбабве"
+
+#. #-- Login page ----------------------------------------------------------------#
+#: create_an_account
+msgid "Create an account"
+msgstr ""
+
+#: login_password
+msgctxt "login_password"
+msgid "Password"
+msgstr "Пароль"
+
+#: login_username
+msgctxt "login_username"
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: forgot_password
+msgid "Forgot password?"
+msgstr "Забыли пароль?"
+
+#: wrong_username_or_password
+msgid "Wrong username or password"
+msgstr "Неверное имя пользователя или пароль"
+
+#: powered_by
+msgid "Powered by"
+msgstr "На платформе"
+
+#: sign_in
+msgid "Sign in"
+msgstr ""
+
+#. #-- New User Account page -----------------------------------------------------#
+#: new_user_account_name
+msgctxt "new_user_account_name"
+msgid "Name"
+msgstr ""
+
+#: new_user_account_first_name
+msgid "First"
+msgstr ""
+
+#: new_user_account_last_name
+msgid "Last"
+msgstr ""
+
+#. #-- Recovery page -------------------------------------------------------------#
+#: recover_success_message
+msgid ""
+"Please check the email account which you registered for this username. We "
+"have sent you instructions on how to restore your password."
+msgstr ""
+
+#: recover_error_message
+msgid ""
+"Sorry, we were not able to restore your account. The username might be "
+"invalid, your account might not permit restore or you might have entered an "
+"invalid email address for your account."
+msgstr ""
+
+#. #-- App Menu ------------------------------------------------------------------#
+#: applications
+msgctxt "applications"
+msgid "Apps"
+msgstr ""
+
+#: more_applications
+msgid "More apps"
+msgstr ""
+
+#: app_manager
+msgctxt "app_manager"
+msgid "Apps"
+msgstr ""
+
+#: app_favorite_description
+msgid ""
+"This icon indicates an app that will be displayed in your dropdown menu."
+msgstr ""
+
+#: app_draggable_description
+msgid ""
+"Items are draggable to change their order, so it's easy to customize your "
+"favorite apps."
+msgstr ""
+
+#: app_order_custom
+msgid "My own order"
+msgstr ""
+
+#: app_order_name_alpha
+msgid "Alphabetical"
+msgstr ""
+
+#: app_search_placeholder
+msgid "Search apps"
+msgstr ""
+
+#. #-- Data value error codes ----------------------------------------------------#
+#: data_element_or_type_null_or_empty
+msgid "Data element or type is null or empty"
+msgstr ""
+
+#: value_length_greater_than_max_length
+msgid "Data value is greater than max length"
+msgstr ""
+
+#: value_not_numeric
+msgid "Data value is not numeric"
+msgstr ""
+
+#: value_not_unit_interval
+msgid "Data value is not a unit interval"
+msgstr ""
+
+#: value_not_percentage
+msgid "Data value is not a percentage"
+msgstr ""
+
+#: value_not_integer
+msgid "Data value is not an integer"
+msgstr ""
+
+#: value_not_positive_integer
+msgid "Data value is not a positive integer"
+msgstr ""
+
+#: value_not_negative_integer
+msgid "Data value is not a negative integer"
+msgstr ""
+
+#: value_is_zero_and_not_zero_significant
+msgid "Data value is zero and not zero significant"
+msgstr ""
+
+#: value_not_bool
+msgid "Data value is not a boolean"
+msgstr ""
+
+#: value_not_true_only
+msgid "Data value is not true"
+msgstr ""
+
+#: value_not_valid_date
+msgid "Data value is not a valid date"
+msgstr ""
+
+#: stored_by_length_greater_than_max_length
+msgid "Stored by is greater than max length"
+msgstr ""
+
+#: comment_length_greater_than_max_length
+msgctxt "comment_length_greater_than_max_length"
+msgid "Comment is greater than max length"
+msgstr ""
+
+#. #-- calendars -----------------------------------------------------------------#
+#: islamic
+msgid "Islamic"
+msgstr ""
+
+#: nepali
+msgid "Nepali"
+msgstr ""
+
+#: julian
+msgid "Julian"
+msgstr ""
+
+#: gregorian
+msgid "Gregorian"
+msgstr ""
+
+#: ethiopian
+msgid "Ethiopian"
+msgstr ""
+
+#: thai
+msgid "Thai"
+msgstr ""
+
+#: iso8601
+msgid "ISO 8601"
+msgstr ""
+
+#: coptic
+msgid "Coptic"
+msgstr ""
+
+#. #-- Email message footer ------------------------------------------------------#
+#: respond_to_this_message
+msgid "Respond to this message"
+msgstr ""
+
+#. #-- Restore emails ------------------------------------------------------------#
+#: email_restore_subject
+msgid "User account restore confirmation at"
+msgstr ""
+
+#: email_restore_1_1st_paragraph_before_application_title
+msgctxt "email_restore_1_1st_paragraph_before_application_title"
+msgid "Someone, probably you, has asked us to restore your"
+msgstr ""
+
+#: email_restore_1_1st_paragraph_after_application_title
+msgctxt "email_restore_1_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr ""
+
+#: email_restore_1_2nd_paragraph
+msgctxt "email_restore_1_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the first one. Please follow "
+"the link below. In the next step you will be asked to enter a code which has "
+"been sent to you in the other email."
+msgstr ""
+
+#: email_restore_1_3rd_paragraph
+msgctxt "email_restore_1_3rd_paragraph"
+msgid ""
+"You must complete the restore process within 1 hour. If you take no action, "
+"your account will not be restored. If you did not request this restore, "
+"please disregard this message."
+msgstr ""
+
+#: email_restore_2_1st_paragraph_before_application_title
+msgctxt "email_restore_2_1st_paragraph_before_application_title"
+msgid "Someone, probably you, has asked us to restore your"
+msgstr ""
+
+#: email_restore_2_1st_paragraph_after_application_title
+msgctxt "email_restore_2_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr ""
+
+#: email_restore_2_2nd_paragraph
+msgctxt "email_restore_2_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the second one. Please read the "
+"first email and follow the instructions. Please use the code below to "
+"complete the new account form."
+msgstr ""
+
+#: email_restore_2_3rd_paragraph
+msgctxt "email_restore_2_3rd_paragraph"
+msgid ""
+"You must complete the restore process within 1 hour. If you take no action, "
+"your account will not be restored. If you did not request this restore, "
+"please disregard this message."
+msgstr ""
+
+#. #-- Invite emails -------------------------------------------------------------#
+#: email_invite_subject
+msgid "Invitation to create user account at"
+msgstr ""
+
+#: email_invite_1_1st_paragraph_before_application_title
+msgctxt "email_invite_1_1st_paragraph_before_application_title"
+msgid "This is an invitation to create a"
+msgstr ""
+
+#: email_invite_1_1st_paragraph_after_application_title
+msgctxt "email_invite_1_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr ""
+
+#: email_invite_1_2nd_paragraph
+msgctxt "email_invite_1_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the first one. Please follow "
+"the link below. In the next step you will be asked to enter a code which has "
+"been sent to you in the other email."
+msgstr ""
+
+#: email_invite_1_3rd_paragraph
+msgctxt "email_invite_1_3rd_paragraph"
+msgid ""
+"You must respond to this invitation within 3 months. If you take no action, "
+"the invitation will expire at that time."
+msgstr ""
+
+#: email_invite_2_1st_paragraph_before_application_title
+msgctxt "email_invite_2_1st_paragraph_before_application_title"
+msgid "This is an invitation to create a"
+msgstr ""
+
+#: email_invite_2_1st_paragraph_after_application_title
+msgctxt "email_invite_2_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr ""
+
+#: email_invite_2_2nd_paragraph
+msgctxt "email_invite_2_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the second one. Please read the "
+"first email and follow the instructions. Please use the code below to "
+"complete the new account form."
+msgstr ""
+
+#: email_invite_2_3rd_paragraph
+msgctxt "email_invite_2_3rd_paragraph"
+msgid ""
+"You must respond to this invitation within 3 months. If you take no action, "
+"the invitation will expire at that time."
+msgstr ""
+
+#. #-- Cache strategy display strings --------------------------------------------#
+#: cache_strategy
+msgid "Cache strategy"
+msgstr ""
+
+#: respect_system_setting
+msgid "Respect system setting"
+msgstr ""
+
+#: no_cache
+msgid "No cache"
+msgstr ""
+
+#: cache_until_6am_tomorrow
+msgid "Cache until 6 AM tomorrow"
+msgstr ""
+
+#: cache_for_two_weeks
+msgid "Cache for two weeks"
+msgstr ""
+
+#: cache_for_one_hour
+msgid "Cache for one hour"
+msgstr ""
+
+#. #-- Program indicators --------------------------------------------------------#
+#: execution_date
+msgid "Execution date"
+msgstr ""
+
+#: due_date
+msgid "Due date"
+msgstr ""
+
+#: incident_date
+msgid "Incident date"
+msgstr ""
+
+#: enrollment_date
+msgid "Enrollment date"
+msgstr ""
+
+#: current_date
+msgid "Current date"
+msgstr ""
+
+#: value_count
+msgid "Value count"
+msgstr ""
+
+#: zero_pos_value_count
+msgid "Zero or positive value count"
+msgstr ""
+
+#: event_count
+msgid "Event count"
+msgstr ""
+
+#: enrollment_count
+msgid "Enrollment count"
+msgstr ""
+
+#: tei_count
+msgid "Tracked entity instance count"
+msgstr ""

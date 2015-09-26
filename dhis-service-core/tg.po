@@ -1,0 +1,3992 @@
+#. #-- Application name -----------------------------------------------------------#
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-services/dhis-service-core/src/main/resources/i18n_global.properties, /home/jason/development/dhis2/dhis-2/dhis-services/dhis-service-core/src/main/resources/i18n_global_tg.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: district_health_information_software
+msgid "District Health Information Software 2"
+msgstr "Нармафзори системаи маълумоти тандурустии ноҳия 2"
+
+#: dhis2
+msgid "DHIS 2"
+msgstr "DHIS 2"
+
+#. #-- dhis-wp --------------------------------------------------------------------#
+#: no_page_specified
+msgid "No page specified"
+msgstr "Ягон саҳифа нишон дода нашудааст"
+
+#: an_exception_occured
+msgid "An exception occurred"
+msgstr "Истисное рӯй дод"
+
+#: exception_explanation_text
+msgid ""
+"Sorry! The system failed to execute the operation. Usually, no data is lost "
+"and you can continue working by going back to the previous page."
+msgstr ""
+"Бубахшед! Система амалиётро иҷро накард. Одатан, ягон иттилоот гум намешавд "
+"ва шумо ба саҳифаи қаблӣ баргашта коратонро идома дода метавонед."
+
+#: exception
+msgid "Exception"
+msgstr "Истисно"
+
+#: caused_by
+msgid "Caused by"
+msgstr "Бо айби"
+
+#: unknown_source
+msgid "Unknown source"
+msgstr "Маъхази номаълум"
+
+#: logged_in
+msgid "Logged in"
+msgstr "Ворид шудааст"
+
+#: not_logged_in
+msgid "Not logged in"
+msgstr "Ворид нашудааст"
+
+#: log_out
+msgid "Log out"
+msgstr "Хориҷ шудан"
+
+#: about
+msgid "About"
+msgstr "Дар бораи"
+
+#: access_denied
+msgid "Access denied"
+msgstr "Дастрасӣ рад шуд"
+
+#: access_denied_message
+msgid "You don't have sufficient authority to view this page"
+msgstr "Шумо барои дидани ин саҳифа салоҳияти кофӣ надоред"
+
+#: create_access_denied_message
+msgid "You don't have create access to object"
+msgstr "Шумо ҳуқуқи сохтани объектро надоред"
+
+#: read_access_denied_message
+msgid "You don't have read access to object"
+msgstr "Шумо ҳуқуқи хондани объектро надоред"
+
+#: update_access_denied_message
+msgid "You don't have update access to object"
+msgstr "Шумо ҳуқуқи навсозии объектро надоред"
+
+#: delete_access_denied_message
+msgid "You don't have delete access to object"
+msgstr "Шумо ҳуқуқи нест кардани объектро надоред"
+
+#: go_back
+msgid "Go back"
+msgstr "Ба ҷафо равед"
+
+#: main_menu
+msgid "Main menu"
+msgstr "Менюи асосӣ"
+
+#: maintenance
+msgid "Maintenance"
+msgstr "Таъмир"
+
+#: services
+msgid "Services"
+msgstr "Хидматҳо"
+
+#. #-- dhis-ouwt ------------------------------------------------------------------#
+#: org_unit_tree
+msgid "Organisation Unit Tree"
+msgstr "Дарахти воҳидҳои сохторӣ"
+
+#: specify_organisationunit
+msgid "Please specify an organisation unit"
+msgstr "Лутфан ягон воҳиди сохториро нишон диҳед"
+
+#: cannot_clear_selected_orgunits
+msgid "Cannot clear the selected organisation units"
+msgstr "Воҳидҳои сохтории интихобшударо пок крда натавонист"
+
+#: locate_organisation_unit_by_name
+msgid "Locate organisation unit by name"
+msgstr "Воҳиди сохториро аз рӯи ном пайдо кунед"
+
+#: error_occurred
+msgid "An error has occurred."
+msgstr "Хатогие ба амал омад."
+
+#: select_organisationunit
+msgid "You must select an OrganisationUnit from the tree."
+msgstr "Шумо бояд ягон воҳиди сохториро аз дарахт интихоб кунед."
+
+#. #-- Modules --------------------------------------------------------------------#
+#: dhis-web-maintenance-datadictionary
+msgid "Data Elements / Indicators"
+msgstr "Унсурҳои иттилоот ва индикаторҳо"
+
+#: dhis-web-maintenance-dataset
+msgid "Data Sets"
+msgstr "Маҷмӯъҳои иттилоот"
+
+#: dhis-web-maintenance-organisationunit
+msgid "Organisation Units"
+msgstr "воҳидҳои сохторӣ"
+
+#: dhis-web-maintenance-user
+msgctxt "dhis-web-maintenance-user"
+msgid "Users"
+msgstr "Корбарон"
+
+#: dhis-web-maintenance-dataadmin
+msgid "Data Administration"
+msgstr "Маъмурияти иттилоот"
+
+#: dhis-web-maintenance-settings
+msgctxt "dhis-web-maintenance-settings"
+msgid "Settings"
+msgstr "Танзимот"
+
+#: dhis-web-maintenance-program
+msgid "Programs / Attributes"
+msgstr ""
+
+#: dhis-web-maintenance-mobile
+msgid "Mobile Configuration"
+msgstr "Конфигуратсияи мобилӣ"
+
+#: dhis-web-maintenance-appmanager
+msgid "App Management"
+msgstr ""
+
+#: dhis-web-caseentry
+msgid "Individual Records"
+msgstr "Сабтҳои инфиродӣ"
+
+#: dhis-web-dataentry
+msgid "Data Entry"
+msgstr "Вуруди иттилоот"
+
+#: dhis-web-importexport
+msgid "Import-Export"
+msgstr "Воридот-Содирот"
+
+#: dhis-web-validationrule
+msgid "Data Quality"
+msgstr "Сифати иттилоот"
+
+#: dhis-web-mapping
+msgid "GIS"
+msgstr "ГИС"
+
+#: dhis-web-event-capture
+msgid "Event Capture"
+msgstr ""
+
+#: dhis-web-event-reports
+msgid "Event Reports"
+msgstr ""
+
+#: dhis-web-event-visualizer
+msgid "Event Visualizer"
+msgstr ""
+
+#: dhis-web-tracker-capture
+msgid "Tracker Capture"
+msgstr ""
+
+#: dhis-web-cache-cleaner
+msgid "Browser Cache Cleaner"
+msgstr ""
+
+#: dhis-web-reporting
+msgid "Reports"
+msgstr "Ҳисоботҳо"
+
+#: dhis-web-light
+msgid "Mobile (Light)"
+msgstr "Теелфони мобилӣ (Сабук)"
+
+#: dhis-web-mobile
+msgid "Mobile (Smartphone)"
+msgstr "Теелфони мобилӣ (Смартфон)"
+
+#: dhis-web-dashboard-integration
+msgctxt "dhis-web-dashboard-integration"
+msgid "Dashboard"
+msgstr "Лавҳаи маълумот"
+
+#: dhis-web-visualizer
+msgid "Data Visualizer"
+msgstr "Намоишгари иттилоот"
+
+#: dhis-web-pivot
+msgid "Pivot Table"
+msgstr "Ҷадвали ҷамъбастӣ"
+
+#: dhis-web-dashboard
+msgid "Data Analyser"
+msgstr "Таҳлилгари иттилоот"
+
+#: dhis-web-integration
+msgid "NHRM Integration"
+msgstr "Ҳамроҳкунии NHRM"
+
+#: dhis-web-reports
+msgid "NRHM Reports"
+msgstr "Ҳисоботҳои NRHM"
+
+#: dhis-web-dataentry-national
+msgid "Linelisting Data Entry"
+msgstr "Вуруди иттилооти рӯйхатгирии хаттӣ"
+
+#: dhis-web-validationrule-local-in
+msgid "Validation Analysis"
+msgstr "Таҳлили санҷиши эътибор"
+
+#: dhis-web-survey
+msgid "Survey - Target"
+msgstr "Тадқиқот - Ҳадаф"
+
+#: dhis-web-spreadsheet-reporting
+msgid "Spreadsheet Reports"
+msgstr "Ҳисоботҳои ҷадвали электронӣ"
+
+#: dhis-web-sms
+msgid "SMS"
+msgstr "СМС"
+
+#: dhis-web-maintenance-in
+msgid "Configuration"
+msgstr "Конфигуратсия"
+
+#: dhis-web-linelisting-mp
+msgid "Manpower"
+msgstr "Қувваи корӣ"
+
+#: dhis-web-maintenance-rbf
+msgid "Maintenance RBF"
+msgstr ""
+
+#. #-- Intro modules -------------------------------------------------------------#
+#: intro_dhis-web-maintenance-datadictionary
+msgid "Maintain data elements, indicators, categories and groups."
+msgstr ""
+"Нигоҳдории унсурҳои иттилоот, индикаторҳо, луғатҳои иттилоот, категорияҳо ва "
+"гурӯҳҳо."
+
+#: intro_dhis-web-maintenance-dataset
+msgid ""
+"Maintain data sets, custom forms, sections and compulsory data elements."
+msgstr ""
+"Нигоҳдории маҷмӯъҳои иттилоот, шаклҳои фармоишӣ, қисмҳо ва унсурҳои "
+"иттилооти ҳатмӣ."
+
+#: intro_dhis-web-maintenance-organisationunit
+msgid "Maintain organisation units and its hierarchy, groups and group sets."
+msgstr ""
+"Нигоҳдории воҳидҳои сохторӣ ва иерархияи онҳо, гурӯҳҳо ва маҷмӯи гурӯҳҳо."
+
+#: intro_dhis-web-maintenance-user
+msgid ""
+"Maintain users in terms of authorities and passwords, user roles and groups."
+msgstr ""
+"Нигоҳдории корбарон дар мавриди ваколатҳо, паролҳо, вазифаҳои корбарон ва "
+"гурӯҳҳо."
+
+#: intro_dhis-web-maintenance-dataadmin
+msgid ""
+"Maintain resource tables, check data integrity, see statistics and more."
+msgstr ""
+"Нигоҳдорииҷадвалҳои захиравӣ, тафтиши якпорчагии иттилоот, дидани омор ва "
+"ғайра."
+
+#: intro_dhis-web-maintenance-settings
+msgid ""
+"Maintain user and system settings related to appearance, notifications and "
+"more."
+msgstr ""
+"Нигоҳдории танзимоти корбар ва система, ки ба намуди зоҳирӣ, огоҳиҳо ва "
+"ғайра марбутанд."
+
+#: intro_dhis-web-maintenance-program
+msgid ""
+"Maintain tracked entities and programs including attributes and identifiers."
+msgstr ""
+
+#: intro_dhis-web-maintenance-mobile
+msgid ""
+"Maintain data sets plus settings for mobile reporting and SMS configuration."
+msgstr ""
+"Нигоҳдории маҷмӯъҳои иттилоот бо иловаи танзимот барои ҳисоботдиҳии мобилӣ "
+"ва конфигуратсияи СМС."
+
+#: intro_dhis-web-maintenance-appmanager
+msgid ""
+"Access and upload apps, which are extensions to the standard user interface."
+msgstr ""
+
+#: intro_dhis-web-caseentry
+msgid ""
+"Register beneficiaries, enter data for encounters and events and view "
+"reports."
+msgstr ""
+"Бақайдгирии манфиатгирандагон, ворид кардани иттилоот дар бораи воқеаҳо ва "
+"рӯйдодҳо ва намоиш додани ҳисоботҳо."
+
+#: intro_dhis-web-dataentry
+msgid ""
+"Enter data for forms either on-line or off-line, validate data and view data "
+"trends."
+msgstr ""
+"Ворид кардани иттилоот ба шаклҳо, дар реҷаҳои онлайн ва офлайн, санҷиши "
+"эътибори иттилоот ва дидани майлонҳои иттилоот."
+
+#: intro_dhis-web-importexport
+msgid ""
+"Import and export data from DHIS or third-party systems on various formats."
+msgstr ""
+"Воридот ва содироти иттилоот аз  DHIS ё системаҳои шахсони сеюм бо форматҳои "
+"гуногун."
+
+#: intro_dhis-web-validationrule
+msgid ""
+"Validate and assess data quality using validation rules or statistical "
+"methods."
+msgstr ""
+"Санҷиши эътибор вабаҳодиҳии сифати  иттилоот бо истифодаи қоидаҳои санҷиши "
+"эътибор ё усулҳои оморӣ."
+
+#: intro_dhis-web-mapping
+msgid ""
+"Visualize data on maps using polygons, points, symbols in multiple layers."
+msgstr ""
+"Аёнӣ сохтани иттилоот дар харитаҳо бо истифодаи бисёркунҷаҳо, нуқтаҳо, "
+"аломатҳо ва аломатҳои шартии тағйирпазир."
+
+#: intro_dhis-web-reporting
+msgid ""
+"Analyse data and reporting rates using predefined and dynamic report tools."
+msgstr ""
+"Таҳлил кардани иттилоот ва зудии ҳисоботдиҳӣ бо истифодаи абзори ҳисоботии "
+"пешакӣ муайяншуда ва тағйирпазир."
+
+#: intro_dhis-web-light
+msgid "Access a mobile device optimized version of data entry and analysis."
+msgstr ""
+"Дастрасӣ ба версияи барои дастгоҳи мобилӣ мувофиқкардашудаи вуруди иттилоот, "
+"паёмнависӣ ва таҳлил."
+
+#: intro_dhis-web-mobile
+msgid ""
+"Access a smartphone optimized version of data entry, settings, messages."
+msgstr ""
+"Дастрасӣ ба версияи барои смартфон мувофиқкардашудаи вуруди иттилоот, "
+"танзимот ва паёмнависӣ."
+
+#: intro_dhis-web-dashboard-integration
+msgid ""
+"Get an overview of favorite charts, reports and maps and view or write "
+"messages."
+msgstr ""
+"Дарёфт кардани шарҳи мухтасари диаграммаҳо, ҳисоботҳо ва харитаҳо ва дидан "
+"ва навиштани паёмҳо"
+
+#: intro_dhis-web-visualizer
+msgid "Create dynamic data visualizations for data elements and indicators."
+msgstr ""
+"Сохтани аёнисозии динамикии иттилоот барои унсурҳои иттилоот ва индикаторҳо."
+
+#: intro_dhis-web-pivot
+msgid "Generate flexible pivot tables with data aggregated in all dimensions."
+msgstr ""
+"Таҳияи ҷадвалҳои ҷамъбастии таҳриршаванда бо ҳамҷоякунии иттилоот дар ҳама "
+"андозаҳо."
+
+#: intro_dhis-web-sms
+msgid "Send SMS reminders and notifications manually or as scheduled tasks."
+msgstr ""
+"Фиристодани ёдрасҳо ва огоҳиҳо дар шакли СМС ба телефонҳо, ба тариқи дастӣ ё "
+"ҳамчун вазифаҳои нақшавӣ."
+
+#: intro_dhis-web-spreadsheet-reporting
+msgid "Generate and import data based on predefined Excel templates."
+msgstr ""
+"Таҳия ва воридот кардани иттилоот аз ҳисоботҳо  тавассути қолибҳои пешаки "
+"додашудаи Excel."
+
+#: intro_dhis-web-event-reports
+msgid "Query for events and create aggregated, dimensional analysis of events."
+msgstr ""
+
+#: intro_dhis-web-event-capture
+msgid "Capture information about single events."
+msgstr ""
+
+#: intro_dhis-web-tracker-capture
+msgid "Capture information about trackable entities."
+msgstr ""
+
+#. #-- Intro functions -------------------------------------------------------------#
+#: intro_help_center
+msgid ""
+"Get help on a various of topics related to setting up and using the DHIS 2."
+msgstr ""
+"Гирифтани кӯмак оид ба мавзӯъҳои гуногуни марбут ба танзим ва истифодаи DHIS "
+"2."
+
+#: intro_supportive_software
+msgid ""
+"Get an overview of useful software like report designers mobile clients."
+msgstr ""
+"Дарёфт кардани шарҳи мухтасар оид ба нармафзори муфид аз қабили тарроҳони "
+"ҳисобот ва мизоҷоҳои мобилӣ"
+
+#: intro_system_overview
+msgid "Visit the system overview page to get a complete list of modules."
+msgstr ""
+"Боздид кардан аз саҳифаи шарҳи мухтасари система барои дарёфт кардани "
+"рӯйхати пурраи модулҳо ва таъиноти онҳо."
+
+#: intro_web_api
+msgid ""
+"Go to the Web API entry point, which is an interface for other computer "
+"systems."
+msgstr ""
+"Гузариш ба нуқтаи вуруди Web API , ки ҳамчун интерфейси системаҳои "
+"компютерии дигар хидмат мекунад."
+
+#: intro_about_dhis2
+msgid "Get information about the system version and runtime environment."
+msgstr "Дарёфт кардани маълумот дар бораи версияи система ва муҳити кори он."
+
+#: intro_settings
+msgid ""
+"Set your personal preferences for interface language, style and email "
+"settings."
+msgstr ""
+"Таъин кардани афзалиятҳои инфиродӣ дар мавриди забони интерфейс, сабк ва "
+"танзимоти почтаи электронӣ."
+
+#: intro_profile
+msgid ""
+"Set up your personal profile with information like job title and interests."
+msgstr ""
+"Эҷоди профили шахсии шумо, ки дорои маълумот аз қабили вазифаи хидматӣ ва "
+"манфиатҳои шумо мебошад."
+
+#: intro_account
+msgid "Manage your user account including name, password, email and mobile."
+msgstr ""
+"Идора карданиҳисоби корбари шумо, аз ҷумла ном, парол, почтаи электронӣ ва "
+"рақами телефони мобилӣ."
+
+#: intro_log_out
+msgid ""
+"Go here to log out of the system and deny others to access your user account."
+msgstr ""
+"Барои хориҷ шудан аз система ва манъ кардани дастрасии дигарон ба ҳисоби "
+"шумо ба инҷо гузаред."
+
+#. #-- Common ---------------------------------------------------------------------#
+#: offline
+msgid "Offline"
+msgstr "Офлайн"
+
+#: online
+msgid "Online"
+msgstr "Онлайн"
+
+#: next
+msgid "Next"
+msgstr "Навбатӣ"
+
+#: previous
+msgid "Previous"
+msgstr "Қаблӣ"
+
+#: online_notification
+msgid "You are online"
+msgstr "Шумо онлайн ҳастед"
+
+#: offline_notification
+msgid "You are offline, data will be stored locally"
+msgstr "Шумо офлайн ҳастед, иттилоот дар ҳамин ҷо ҳифз мешавад."
+
+#: ajax_login_failed
+msgctxt "ajax_login_failed"
+msgid "Login failed, check your username and password and try again"
+msgstr ""
+
+#: need_to_sync_notification
+msgid "There is data stored locally, please upload to server"
+msgstr "Дар инҷо иттилооти ҳифзшуда ҳаст, лутфан онро ба сервер бор кунед"
+
+#: uploading_data_notification
+msgid "Uploading locally stored data to the server"
+msgstr "Боркунии иттилооти маҳаллӣ ба сервер"
+
+#: sync_now
+msgid "Upload"
+msgstr "Бор кардан"
+
+#: discard
+msgid "Discard"
+msgstr ""
+
+#: remove_local_data
+msgid "Are you sure you want to remove the locally stored data?"
+msgstr ""
+
+#: sync_success
+msgid "Upload to server was successful"
+msgstr "Боркунӣ ба сервер бомуваффақият буд"
+
+#: sync_failed
+msgid "Upload to server failed, please try again later"
+msgstr "Боркунӣ ба сервер  иҷро нашуд, баъдтар аз нав кӯшиш кунед"
+
+#: year
+msgid "Year"
+msgstr "Сол"
+
+#: details
+msgctxt "details"
+msgid "Details"
+msgstr "Маълумоти муфассал"
+
+#: show_details
+msgid "Show details"
+msgstr "Нишон додани маълумоти муфассал"
+
+#: hide_details
+msgid "Hide details"
+msgstr "Пинҳон кардани маълумоти муфассал"
+
+#: change_password
+msgid "Change password"
+msgstr "Иваз кардани парол"
+
+#: expired_password
+msgid "Your password has expired, please change"
+msgstr ""
+
+#: date_selector
+msgid "Choose a date"
+msgstr "Интихоби сана"
+
+#: hide_menu
+msgid "Hide menu"
+msgstr "Пинҳон кардани меню"
+
+#: extend_menu
+msgid "Extend menu"
+msgstr "Тавсеаи меню"
+
+#: show_menu
+msgid "Show menu"
+msgstr "Нишон додани меню"
+
+#: show_main_menu
+msgid "Show main menu"
+msgstr "Нишон додани менюи асосӣ"
+
+#: view_home_page
+msgid "View home page"
+msgstr "Намоиши саҳифаи асосӣ"
+
+#: view_intepretations
+msgid "View interpretations"
+msgstr "Намоиши тафсирҳо"
+
+#: organisation_unit
+msgid "Organisation unit"
+msgstr "Воҳиди сохторӣ"
+
+#: dataelement
+msgid "Data element"
+msgstr "Унсури иттилоот"
+
+#: start_date
+msgid "Start date"
+msgstr "Санаи оғоз"
+
+#: end_date
+msgid "End date"
+msgstr "Санаи анҷом"
+
+#: entry
+msgid "Entry"
+msgstr "Вуруд"
+
+#: comment
+msgctxt "comment"
+msgid "Comment"
+msgstr "Шарҳ"
+
+#: operations
+msgid "Operations"
+msgstr "Амалиётҳо"
+
+#: add_new
+msgid "Add new"
+msgstr "Иловаи нав"
+
+#: rename
+msgid "Rename"
+msgstr "Ивази ном"
+
+#: move
+msgid "Move"
+msgstr "Интиқол додан"
+
+#: remove
+msgid "Remove"
+msgstr "Тоза кардан"
+
+#: required
+msgid "Required"
+msgstr "Ҳатмӣ"
+
+#: all
+msgid "All"
+msgstr "Ҳама"
+
+#: save
+msgctxt "save"
+msgid "Save"
+msgstr "Захира"
+
+#: new
+msgid "New"
+msgstr "Нав"
+
+#: back
+msgid "Back"
+msgstr "Ба қафо"
+
+#: ok
+msgid "OK"
+msgstr "OK"
+
+#: cancel
+msgctxt "cancel"
+msgid "Cancel"
+msgstr "Бекор кардан"
+
+#: clone
+msgid "Clone"
+msgstr "Клон"
+
+#: add
+msgctxt "add"
+msgid "Add"
+msgstr "Илова кардан"
+
+#: edit
+msgid "Edit"
+msgstr "Таҳрир"
+
+#: reply
+msgid "Reply"
+msgstr "Ҷавоб додан"
+
+#: update
+msgid "Update"
+msgstr "Навсозӣ"
+
+#: delete
+msgid "Delete"
+msgstr "Нест кардан"
+
+#: deleting
+msgid "Deleting"
+msgstr "Несткунӣ"
+
+#: close
+msgid "Close"
+msgstr "Пӯшидан"
+
+#: gender_male
+msgctxt "gender_male"
+msgid "Male"
+msgstr "Мард"
+
+#: gender_female
+msgctxt "gender_female"
+msgid "Female"
+msgstr "Зан"
+
+#: gender_other
+msgctxt "gender_other"
+msgid "Other"
+msgstr "Дигар"
+
+#: password
+msgctxt "password"
+msgid "Password"
+msgstr "Парол"
+
+#: confirm_password
+msgid "Confirm password"
+msgstr "Тасдиқи парол"
+
+#: mobile_phone
+msgid "Mobile phone"
+msgstr "Телефони мобилӣ"
+
+#: create_new_account
+msgid "Create a new account"
+msgstr "Сохтани ҳисоби нав"
+
+#: prove_you_are_not_a_robot
+msgid "Prove you are not a robot"
+msgstr "Исбот кунед, ки шумо робот нестед"
+
+#: create
+msgid "Create"
+msgstr "Сохтан"
+
+#: cant_read_the_words_try_another_one
+msgid "Can't read the words? Try another one"
+msgstr "Калимаҳоро хонда натавонистед? Дигарашро санҷида бинед"
+
+#: restore
+msgid "Restore"
+msgstr "Барқарор кардан"
+
+#: new_password
+msgctxt "new_password"
+msgid "New password"
+msgstr ""
+
+#: restore_account
+msgid "Restore account"
+msgstr "Барқарор кардани ҳисоб"
+
+#: account_recovery
+msgid "Account recovery"
+msgstr "Барқароркунии ҳисоб"
+
+#: recover
+msgid "Recover"
+msgstr "Барқарор кардан"
+
+#: code_from_email
+msgid "Code from email"
+msgstr "Рамз аз паёми электронӣ"
+
+#: password_hint
+msgid "Minimum 8 characters, 1 upper-case and 1 digit"
+msgstr "На камтар аз 8 аломат, 1 ҳарфи калон ва 1 рақам"
+
+#: optional
+msgid "Optional"
+msgstr "Ихтиёрӣ"
+
+#: object_not_deleted_associated_by_objects
+msgid "Object was not deleted because it is used by other objects:"
+msgstr "Объект нест карда нашуд, зеро онро объектҳои дигар истифода мебаранд:"
+
+#: id
+msgid "ID"
+msgstr ""
+
+#: name_in_use
+msgid "The name is already in use. Please choose a different name"
+msgstr ""
+
+#: code_in_use
+msgid "The code is already in use. Please choose a different code"
+msgstr ""
+
+#: short_name_in_use
+msgid "The short name is already in use. Please choose a different short name"
+msgstr ""
+
+#: unsupported_browser
+msgid ""
+"Please upgrade your browser. Internet Explorer version 8 and earlier is not "
+"supported."
+msgstr ""
+
+#: data_element_or_type_null_or_empty
+msgid "Data element or type not defined"
+msgstr ""
+
+#: value_length_greater_than_max_length
+msgid "Value is greater than max length"
+msgstr ""
+
+#: comment_length_greater_than_max_length
+msgctxt "comment_length_greater_than_max_length"
+msgid "Comment is greater than max length"
+msgstr ""
+
+#: value_not_numeric
+msgid "Value is not numeric"
+msgstr ""
+
+#: value_not_unit_interval
+msgid "Value is not a unit interval"
+msgstr ""
+
+#: value_not_percentage
+msgid "Value is not a percentage"
+msgstr ""
+
+#: value_not_integer
+msgid "Value is not an integer"
+msgstr ""
+
+#: value_not_positive_integer
+msgid "Value is not a positive integer"
+msgstr ""
+
+#: value_not_negative_integer
+msgid "Value is not a negative integer"
+msgstr ""
+
+#: value_not_bool
+msgid "Value is not a boolean"
+msgstr ""
+
+#: value_not_true_only
+msgid "Value is not true"
+msgstr ""
+
+#: value_not_valid_date
+msgid "Value is not a valid date"
+msgstr ""
+
+#: email_not_configured_for_system
+msgid "Email is not configured for the system"
+msgstr ""
+
+#: no_user_credentials
+msgid "No user credentials"
+msgstr ""
+
+#: user_does_not_have_valid_email
+msgid "User does not have a valid email"
+msgstr ""
+
+#: user_has_critical_authorities
+msgid "User has critical authorities"
+msgstr ""
+
+#: default
+msgid "Default"
+msgstr ""
+
+#: left_brackets
+msgid "Left brackets"
+msgstr ""
+
+#: right_brackets
+msgid "Right brackets"
+msgstr ""
+
+#: multiply
+msgid "Multiply"
+msgstr ""
+
+#: divide
+msgid "Divide"
+msgstr ""
+
+#: plus
+msgid "Plus"
+msgstr ""
+
+#: minus
+msgid "Minus"
+msgstr ""
+
+#: no_of_days
+msgid "No of days"
+msgstr ""
+
+#: variables
+msgid "Variables"
+msgstr ""
+
+#: open
+msgid "Open"
+msgstr ""
+
+#: normal
+msgid "Normal"
+msgstr ""
+
+#. #-- Relative periods -----------------------------------------------------------#
+#: LAST_MONTH
+msgid "Last month"
+msgstr ""
+
+#: LAST_BIMONTH
+msgid "Last bi-month"
+msgstr ""
+
+#: LAST_QUARTER
+msgid "Last quarter"
+msgstr ""
+
+#: LAST_SIX_MONTH
+msgid "Last six-month"
+msgstr ""
+
+#: MONTHS_THIS_YEAR
+msgid "Months this year"
+msgstr ""
+
+#: QUARTERS_THIS_YEAR
+msgid "Quarters this year"
+msgstr ""
+
+#: THIS_YEAR
+msgid "This year"
+msgstr ""
+
+#: MONTHS_LAST_YEAR
+msgid "Months last year"
+msgstr ""
+
+#: QUARTERS_LAST_YEAR
+msgid "Quarters last year"
+msgstr ""
+
+#: LAST_YEAR
+msgid "Last year"
+msgstr ""
+
+#: LAST_5_YEARS
+msgid "Last 5 years"
+msgstr ""
+
+#: LAST_12_MONTHS
+msgid "Last 12 months"
+msgstr ""
+
+#: LAST_6_MONTHS
+msgid "Last 6 months"
+msgstr ""
+
+#: LAST_3_MONTHS
+msgid "Last 3 months"
+msgstr ""
+
+#: LAST_6_BIMONTHS
+msgid "Last 6 bi-months"
+msgstr ""
+
+#: LAST_4_QUARTERS
+msgid "Last 4 quarters"
+msgstr ""
+
+#: LAST_2_SIXMONTHS
+msgid "Last 2 six-months"
+msgstr ""
+
+#: THIS_FINANCIAL_YEAR
+msgid "This financial year"
+msgstr ""
+
+#: LAST_FINANCIAL_YEAR
+msgid "Last financial year"
+msgstr ""
+
+#: LAST_5_FINANCIAL_YEARS
+msgid "Last 5 financial years"
+msgstr ""
+
+#: LAST_WEEK
+msgid "Last week"
+msgstr ""
+
+#: LAST_4_WEEKS
+msgid "Last 4 weeks"
+msgstr ""
+
+#: LAST_12_WEEKS
+msgid "Last 12 weeks"
+msgstr ""
+
+#: LAST_52_WEEKS
+msgid "Last 52 weeks"
+msgstr ""
+
+#. #-- PeriodTypes ----------------------------------------------------------------#
+#: Daily
+msgid "Daily"
+msgstr "Ҳаррӯза"
+
+#: Weekly
+msgid "Weekly"
+msgstr "Ҳафтаина"
+
+#: Monthly
+msgid "Monthly"
+msgstr "Моҳона"
+
+#: BiMonthly
+msgid "Bimonthly"
+msgstr "Ду маротиба дар як моҳ"
+
+#: Quarterly
+msgid "Quarterly"
+msgstr "Семоҳа"
+
+#: SixMonthly
+msgid "Six-monthly"
+msgstr "Шашмоҳа"
+
+#: SixMonthlyApril
+msgid "Six-monthly April"
+msgstr ""
+
+#: Yearly
+msgid "Yearly"
+msgstr "Солона"
+
+#: TwoYearly
+msgid "Two-yearly"
+msgstr "Дусола"
+
+#: OnChange
+msgid "On-change"
+msgstr "Тағйирёбанда"
+
+#: Survey
+msgid "Survey"
+msgstr "Тадқиқот"
+
+#: Relative
+msgid "Relative"
+msgstr "Нисбӣ"
+
+#: FinancialApril
+msgid "Financial-April"
+msgstr "Молиявӣ - апрел"
+
+#: FinancialJuly
+msgid "Financial-July"
+msgstr "Молиявӣ - июл"
+
+#: FinancialOct
+msgid "Financial-Oct"
+msgstr "Молиявӣ - окт"
+
+#. #-- Period formats - Should not be translated ----------------------------------#
+#: format.Daily.startDate
+msgctxt "format.Daily.startDate"
+msgid "yyyy-MM-dd"
+msgstr ""
+
+#: format.Daily.endDate
+msgctxt "format.Daily.endDate"
+msgid ""
+msgstr ""
+
+#: format.Weekly.startDate
+msgid "yyyy 'W' w"
+msgstr ""
+
+#: format.Weekly.endDate
+msgctxt "format.Weekly.endDate"
+msgid ""
+msgstr ""
+
+#: format.Monthly.startDate
+msgid "MMMM yyyy"
+msgstr ""
+
+#: format.Monthly.endDate
+msgctxt "format.Monthly.endDate"
+msgid ""
+msgstr ""
+
+#: format.BiMonthly.startDate
+msgctxt "format.BiMonthly.startDate"
+msgid "MMM 'to '"
+msgstr ""
+
+#: format.BiMonthly.endDate
+msgctxt "format.BiMonthly.endDate"
+msgid "MMM yyyy"
+msgstr ""
+
+#: format.Quarterly.startDate
+msgctxt "format.Quarterly.startDate"
+msgid "MMM 'to '"
+msgstr ""
+
+#: format.Quarterly.endDate
+msgctxt "format.Quarterly.endDate"
+msgid "MMM yyyy"
+msgstr ""
+
+#: format.SixMonthly.startDate
+msgctxt "format.SixMonthly.startDate"
+msgid "MMM 'to '"
+msgstr ""
+
+#: format.SixMonthly.endDate
+msgctxt "format.SixMonthly.endDate"
+msgid "MMM yyyy"
+msgstr ""
+
+#: format.SixMonthlyApril.startDate
+msgctxt "format.SixMonthlyApril.startDate"
+msgid "MMM 'to '"
+msgstr ""
+
+#: format.SixMonthlyApril.endDate
+msgctxt "format.SixMonthlyApril.endDate"
+msgid "MMM yyyy"
+msgstr ""
+
+#: format.Yearly.startDate
+msgctxt "format.Yearly.startDate"
+msgid "yyyy"
+msgstr ""
+
+#: format.Yearly.endDate
+msgctxt "format.Yearly.endDate"
+msgid ""
+msgstr ""
+
+#: format.TwoYearly.startDate
+msgid "yyyy 'and '"
+msgstr ""
+
+#: format.TwoYearly.endDate
+msgctxt "format.TwoYearly.endDate"
+msgid "yyyy"
+msgstr ""
+
+#: format.OnChange.startDate
+msgctxt "format.OnChange.startDate"
+msgid "yyyy-MM-dd '- '"
+msgstr ""
+
+#: format.OnChange.endDate
+msgctxt "format.OnChange.endDate"
+msgid "yyyy-MM-dd"
+msgstr ""
+
+#: format.Survey.startDate
+msgctxt "format.Survey.startDate"
+msgid "yyyy-MM-dd"
+msgstr ""
+
+#: format.Survey.endDate
+msgctxt "format.Survey.endDate"
+msgid ""
+msgstr ""
+
+#: format.Relative.startDate
+msgctxt "format.Relative.startDate"
+msgid "yyyy-MM-dd '- '"
+msgstr ""
+
+#: format.Relative.endDate
+msgctxt "format.Relative.endDate"
+msgid "yyyy-MM-dd"
+msgstr ""
+
+#: format.FinancialApril.startDate
+msgctxt "format.FinancialApril.startDate"
+msgid "MMM yyyy 'to '"
+msgstr ""
+
+#: format.FinancialApril.endDate
+msgctxt "format.FinancialApril.endDate"
+msgid "MMM yyyy"
+msgstr ""
+
+#: format.FinancialJuly.startDate
+msgctxt "format.FinancialJuly.startDate"
+msgid "MMM yyyy 'to '"
+msgstr ""
+
+#: format.FinancialJuly.endDate
+msgctxt "format.FinancialJuly.endDate"
+msgid "MMM yyyy"
+msgstr ""
+
+#: format.FinancialOct.startDate
+msgctxt "format.FinancialOct.startDate"
+msgid "MMM yyyy 'to '"
+msgstr ""
+
+#: format.FinancialOct.endDate
+msgctxt "format.FinancialOct.endDate"
+msgid "MMM yyyy"
+msgstr ""
+
+#. #-- Months and weeks -----------------------------------------------------------#
+#: month.january
+msgid "January"
+msgstr "Январ"
+
+#: month.february
+msgid "February"
+msgstr "Феврал"
+
+#: month.march
+msgid "March"
+msgstr "Март"
+
+#: month.april
+msgid "April"
+msgstr "Апрел"
+
+#: month.may
+msgctxt "month.may"
+msgid "May"
+msgstr "Май"
+
+#: month.june
+msgid "June"
+msgstr "Июн"
+
+#: month.july
+msgid "July"
+msgstr "Июл"
+
+#: month.august
+msgid "August"
+msgstr "Август"
+
+#: month.september
+msgid "September"
+msgstr "Сентябр"
+
+#: month.october
+msgid "October"
+msgstr "Октябр"
+
+#: month.november
+msgid "November"
+msgstr "Ноябр"
+
+#: month.december
+msgid "December"
+msgstr "Декабр"
+
+#: month.short.january
+msgid "Jan"
+msgstr "Янв"
+
+#: month.short.february
+msgid "Feb"
+msgstr "Фев"
+
+#: month.short.march
+msgid "Mar"
+msgstr "Мар"
+
+#: month.short.april
+msgid "Apr"
+msgstr "Апр"
+
+#: month.short.may
+msgctxt "month.short.may"
+msgid "May"
+msgstr "Май"
+
+#: month.short.june
+msgid "Jun"
+msgstr "Июн"
+
+#: month.short.july
+msgid "Jul"
+msgstr "Июл"
+
+#: month.short.august
+msgid "Aug"
+msgstr "Авг"
+
+#: month.short.september
+msgid "Sep"
+msgstr "Сен"
+
+#: month.short.october
+msgid "Oct"
+msgstr "Окт"
+
+#: month.short.november
+msgid "Nov"
+msgstr "Ноя"
+
+#: month.short.december
+msgid "Dec"
+msgstr "Дек"
+
+#: weekday.monday
+msgctxt "weekday.monday"
+msgid "Monday"
+msgstr "Душанбе"
+
+#: weekday.tuesday
+msgctxt "weekday.tuesday"
+msgid "Tuesday"
+msgstr "Сешанбе"
+
+#: weekday.wednesday
+msgctxt "weekday.wednesday"
+msgid "Wednesday"
+msgstr "Чоршанбе"
+
+#: weekday.thursday
+msgctxt "weekday.thursday"
+msgid "Thursday"
+msgstr "Панҷшанбе"
+
+#: weekday.friday
+msgctxt "weekday.friday"
+msgid "Friday"
+msgstr "Ҷумъа"
+
+#: weekday.saturday
+msgctxt "weekday.saturday"
+msgid "Saturday"
+msgstr "Шанбе"
+
+#: weekday.sunday
+msgctxt "weekday.sunday"
+msgid "Sunday"
+msgstr "Якшанбе"
+
+#: weekday.short.monday
+msgctxt "weekday.short.monday"
+msgid "Mon"
+msgstr "Душ"
+
+#: weekday.short.tuesday
+msgctxt "weekday.short.tuesday"
+msgid "Tue"
+msgstr "Сеш"
+
+#: weekday.short.wednesday
+msgctxt "weekday.short.wednesday"
+msgid "Wed"
+msgstr "Чорш"
+
+#: weekday.short.thursday
+msgctxt "weekday.short.thursday"
+msgid "Thu"
+msgstr "Панҷш"
+
+#: weekday.short.friday
+msgctxt "weekday.short.friday"
+msgid "Fri"
+msgstr "Ҷум"
+
+#: weekday.short.saturday
+msgctxt "weekday.short.saturday"
+msgid "Sat"
+msgstr "Шан"
+
+#: weekday.short.sunday
+msgctxt "weekday.short.sunday"
+msgid "Sun"
+msgstr "Якш"
+
+#. #-- Nepali Calendar Month/Day names -------------------------------------------#
+#. # The keys for months are still based on ISO 8601, the ordering is correct, but the key names are not. Jan-Dec -> 1-12. #
+#: nepali.month.january
+msgctxt "nepali.month.january"
+msgid "Baishak"
+msgstr ""
+
+#: nepali.month.february
+msgctxt "nepali.month.february"
+msgid "Jestha"
+msgstr ""
+
+#: nepali.month.march
+msgctxt "nepali.month.march"
+msgid "Asar"
+msgstr ""
+
+#: nepali.month.april
+msgctxt "nepali.month.april"
+msgid "Shrawan"
+msgstr ""
+
+#: nepali.month.may
+msgctxt "nepali.month.may"
+msgid "Bhadra"
+msgstr ""
+
+#: nepali.month.june
+msgctxt "nepali.month.june"
+msgid "Ashwin"
+msgstr ""
+
+#: nepali.month.july
+msgctxt "nepali.month.july"
+msgid "Kartik"
+msgstr ""
+
+#: nepali.month.august
+msgctxt "nepali.month.august"
+msgid "Mangsir"
+msgstr ""
+
+#: nepali.month.september
+msgctxt "nepali.month.september"
+msgid "Poush"
+msgstr ""
+
+#: nepali.month.october
+msgctxt "nepali.month.october"
+msgid "Magh"
+msgstr ""
+
+#: nepali.month.november
+msgctxt "nepali.month.november"
+msgid "Falgun"
+msgstr ""
+
+#: nepali.month.december
+msgctxt "nepali.month.december"
+msgid "Chaitra"
+msgstr ""
+
+#: nepali.month.short.january
+msgctxt "nepali.month.short.january"
+msgid "Baishak"
+msgstr ""
+
+#: nepali.month.short.february
+msgctxt "nepali.month.short.february"
+msgid "Jestha"
+msgstr ""
+
+#: nepali.month.short.march
+msgctxt "nepali.month.short.march"
+msgid "Asar"
+msgstr ""
+
+#: nepali.month.short.april
+msgctxt "nepali.month.short.april"
+msgid "Shrawan"
+msgstr ""
+
+#: nepali.month.short.may
+msgctxt "nepali.month.short.may"
+msgid "Bhadra"
+msgstr ""
+
+#: nepali.month.short.june
+msgctxt "nepali.month.short.june"
+msgid "Ashwin"
+msgstr ""
+
+#: nepali.month.short.july
+msgctxt "nepali.month.short.july"
+msgid "Kartik"
+msgstr ""
+
+#: nepali.month.short.august
+msgctxt "nepali.month.short.august"
+msgid "Mangsir"
+msgstr ""
+
+#: nepali.month.short.september
+msgctxt "nepali.month.short.september"
+msgid "Poush"
+msgstr ""
+
+#: nepali.month.short.october
+msgctxt "nepali.month.short.october"
+msgid "Magh"
+msgstr ""
+
+#: nepali.month.short.november
+msgctxt "nepali.month.short.november"
+msgid "Falgun"
+msgstr ""
+
+#: nepali.month.short.december
+msgctxt "nepali.month.short.december"
+msgid "Chaitra"
+msgstr ""
+
+#: nepali.weekday.monday
+msgctxt "nepali.weekday.monday"
+msgid "Monday"
+msgstr ""
+
+#: nepali.weekday.tuesday
+msgctxt "nepali.weekday.tuesday"
+msgid "Tuesday"
+msgstr ""
+
+#: nepali.weekday.wednesday
+msgctxt "nepali.weekday.wednesday"
+msgid "Wednesday"
+msgstr ""
+
+#: nepali.weekday.thursday
+msgctxt "nepali.weekday.thursday"
+msgid "Thursday"
+msgstr ""
+
+#: nepali.weekday.friday
+msgctxt "nepali.weekday.friday"
+msgid "Friday"
+msgstr ""
+
+#: nepali.weekday.saturday
+msgctxt "nepali.weekday.saturday"
+msgid "Saturday"
+msgstr ""
+
+#: nepali.weekday.sunday
+msgctxt "nepali.weekday.sunday"
+msgid "Sunday"
+msgstr ""
+
+#: nepali.weekday.short.monday
+msgctxt "nepali.weekday.short.monday"
+msgid "Mon"
+msgstr ""
+
+#: nepali.weekday.short.tuesday
+msgctxt "nepali.weekday.short.tuesday"
+msgid "Tue"
+msgstr ""
+
+#: nepali.weekday.short.wednesday
+msgctxt "nepali.weekday.short.wednesday"
+msgid "Wed"
+msgstr ""
+
+#: nepali.weekday.short.thursday
+msgctxt "nepali.weekday.short.thursday"
+msgid "Thu"
+msgstr ""
+
+#: nepali.weekday.short.friday
+msgctxt "nepali.weekday.short.friday"
+msgid "Fri"
+msgstr ""
+
+#: nepali.weekday.short.saturday
+msgctxt "nepali.weekday.short.saturday"
+msgid "Sat"
+msgstr ""
+
+#: nepali.weekday.short.sunday
+msgctxt "nepali.weekday.short.sunday"
+msgid "Sun"
+msgstr ""
+
+#. #-- Translation page ------------------------------------------------------#
+#: translation_translate
+msgid "Translate"
+msgstr "Тарҷума"
+
+#: translation_addlocale
+msgid "Add locale"
+msgstr "Иловаи маҳал"
+
+#: translation_details
+msgctxt "translation_details"
+msgid "Details"
+msgstr "Маълумоти муфассал"
+
+#: translation_select_locale
+msgid "[ Select locale ]"
+msgstr "[ Интихоби маҳал ]"
+
+#: translation_select_ref
+msgid "[ Select reference ]"
+msgstr "[ Интихоби истинод ]"
+
+#: translation_save
+msgctxt "translation_save"
+msgid "Save"
+msgstr "Захира кардан"
+
+#: translation_label_id
+msgid "Id"
+msgstr "Идентификатор"
+
+#: translation_label_name
+msgctxt "translation_label_name"
+msgid "Name"
+msgstr "Ном"
+
+#: translation_label_shortName
+msgctxt "translation_label_shortName"
+msgid "Short name"
+msgstr "Номи мухтасар"
+
+#: translation_label_description
+msgctxt "translation_label_description"
+msgid "Description"
+msgstr "Тавсиф"
+
+#: translation_label_comment
+msgctxt "translation_label_comment"
+msgid "Comment"
+msgstr "Шарҳ"
+
+#: translation_label_region
+msgid "Region"
+msgstr "Минтақа"
+
+#: translation_label_title
+msgid "Title"
+msgstr "Унвон"
+
+#: translation_variant
+msgid "Variant"
+msgstr "Вариант"
+
+#: translation_countrycode
+msgid "Country code"
+msgstr "Рамзи кишвар"
+
+#: translation_languagecode
+msgid "Language code"
+msgstr "Рамзи забон"
+
+#: translation_label_numerator_description
+msgctxt "translation_label_numerator_description"
+msgid "Numerator description"
+msgstr "Тавсифи сурат"
+
+#: translation_label_denominator_description
+msgctxt "translation_label_denominator_description"
+msgid "Denominator description"
+msgstr "Тавсифи махраҷ"
+
+#: translation_locale_added
+msgid "Added locale"
+msgstr "Маҳал илова шуд"
+
+#: translation_cancel
+msgctxt "translation_cancel"
+msgid "Cancel"
+msgstr "Бекор кардан"
+
+#: translation_add
+msgctxt "translation_add"
+msgid "Add"
+msgstr "Илова"
+
+#: translation_locale
+msgid "Locale"
+msgstr "Маҳал"
+
+#: translation_reference
+msgid "Reference"
+msgstr "Истинод"
+
+#: translation_language_must_be_two_chars
+msgid "Language must be two characters"
+msgstr "Забон бояд ду аломат дошта бошад"
+
+#: translation_country_must_be_two_chars
+msgid "Country must be two characters"
+msgstr "Кишвар бояд ду аломат дошта бошад"
+
+#: translation_variant_must_be_specified
+msgid "Variant must be specified"
+msgstr "Вариант бояд нишон дода шавад"
+
+#: translation_locale_already_exists
+msgid "Locale already exists"
+msgstr "Маҳал алакай вуҷуд дорад"
+
+#: translation_shortname_wellformed
+msgid ""
+"Please verify Letters, Numbers, Underscore and Spaces for short name only"
+msgstr ""
+"Лутфан ҳарфҳо, рақамҳо, тиреи поён ва фосилаҳоро танҳо барои номи мухтасар "
+"санҷед"
+
+#: translation_shortname_length
+msgid "Shortname's maximum length of 25 charaters"
+msgstr "Дарозии ниҳоии номи мухтасар 25 аломат аст"
+
+#: translation_duplicated_name_with
+msgid "Sorry! You entered a duplicated name with"
+msgstr "Бубахшед! Шумо номи ҳамторо барои ... ворид кардед"
+
+#: translation_duplicated_shortname_with
+msgid "Sorry! You entered a duplicated short name with"
+msgstr "Бубахшед! Шумо номи мухтасари ҳамторо барои ... ворид кардед"
+
+#: translation_label_formName
+msgid "Form name"
+msgstr "Ташаккули ном"
+
+#. #-- About ----------------------------------------------------------------------#
+#: name_exists
+msgid "Warning, name already exists"
+msgstr "Огоҳӣ, ном аллакай вуҷуд дорад"
+
+#: name_is_required
+msgid "Error, name is required"
+msgstr "Хатогӣ, ном ҳатмист"
+
+#: version
+msgid "Version"
+msgstr "Версия"
+
+#: build_revision
+msgid "Build revision"
+msgstr "Версияи сохт"
+
+#: build_date
+msgid "Build date"
+msgstr "Санаи сохт"
+
+#: user_agent
+msgid "User agent"
+msgstr "Намояндаи корбар"
+
+#: external_configuration_directory
+msgid "External configuration directory"
+msgstr "Директорияи конфигуратсияи беруна"
+
+#: environment_variable
+msgid "Environment variable"
+msgstr "тағйирёбандаи муҳит"
+
+#: database_type
+msgid "Database type"
+msgstr "Навъи пойгоҳи иттилоотӣ"
+
+#: database_name
+msgid "Database name"
+msgstr "Номи пойгоҳи иттилоотӣ"
+
+#: database_user
+msgid "Database user"
+msgstr "Корбари пойгоҳи иттилоотӣ"
+
+#: not_set
+msgid "Not set"
+msgstr "Таъин нашудааст"
+
+#: current_user
+msgid "Current user"
+msgstr "Корбари ҷорӣ"
+
+#: dhis2_online
+msgid "DHIS 2 Online"
+msgstr "DHIS 2 дар реҷаи онлайн"
+
+#: home_page
+msgid "Home Page"
+msgstr "Саҳифаи асосӣ"
+
+#: launchpad_site
+msgid "Launchpad Site"
+msgstr "Сайти ҷои парвоз"
+
+#: message_to_the_dhis2_development_team
+msgid "Message to the DHIS 2 development team"
+msgstr "Паём барои гурӯҳи таҳиягарони DHIS 2"
+
+#: error_message_stack_trace
+msgid "Error message / Stack trace"
+msgstr "Паёми хатогӣ / Изи стек"
+
+#: enter_message
+msgid "Enter a message"
+msgstr "Ворид кардани паём"
+
+#: send
+msgid "Send"
+msgstr "Фиристодан"
+
+#: help
+msgid "Help"
+msgstr "Кӯмак"
+
+#: send_feedback
+msgid "Send feedback"
+msgstr "Фиристодани изҳори назар"
+
+#: status
+msgid "Status"
+msgstr "Ҳолат"
+
+#: system_status
+msgid "System status"
+msgstr "Ҳолати система"
+
+#: feedback
+msgid "Feedback"
+msgstr "Изҳори назар"
+
+#: intro
+msgid "Intro"
+msgstr "Муқаддима"
+
+#: help_contents
+msgid "Help Contents"
+msgstr "Мундариҷаи кӯмак"
+
+#: about_dhis2
+msgid "About DHIS 2"
+msgstr "Дар бораи DHIS 2"
+
+#: last_name
+msgid "Last name"
+msgstr "Насаб"
+
+#: unknown
+msgid "Unknown"
+msgstr "Номаълум"
+
+#: java_opts
+msgid "Java opts"
+msgstr "Имконоти Java"
+
+#: java_home
+msgid "Java home"
+msgstr ""
+
+#: java_tmp_dir
+msgid "Java temporary directory"
+msgstr "Директорияи муваққатии Java"
+
+#: java_version
+msgid "Java version"
+msgstr "Версияи Java"
+
+#: java_vendor
+msgid "Java vendor"
+msgstr "Таъминкунандаи Java"
+
+#: os_name
+msgid "OS name"
+msgstr "Номи СИ"
+
+#: os_architecture
+msgid "OS architecture"
+msgstr "Меъмории СИ"
+
+#: os_version
+msgid "OS version"
+msgstr "Версияи СИ"
+
+#: supportive_software
+msgid "Supportive Software"
+msgstr "Нармафзори дастгирикунанда"
+
+#: chrome_description
+msgid "Super fast web browser for all platforms"
+msgstr "Веб-браузери баландсуръат барои ҳамаи платформаҳо"
+
+#: foxit_description
+msgid "Free and simple PDF reader for Windows"
+msgstr "Василаи хониши  PDF-и ройгон ва оддӣ барои Windows"
+
+#: web_browser
+msgid "Web browser"
+msgstr "Браузери веб"
+
+#: pdf_reader
+msgid "PDF reader"
+msgstr "Василаи хониши PDF"
+
+#: ireport_description
+msgid "Report designer for standard reports"
+msgstr "Тарроҳи ҳисобот барои ҳисоботи стандартӣ"
+
+#: report_designer
+msgid "Report designer"
+msgstr "Тарроҳи ҳисобот"
+
+#: my_datamart
+msgid "MyDatamart"
+msgstr "Киоски иттилооти ман"
+
+#: my_datamart_description
+msgid "Local data mart for off-line data analysis"
+msgstr "Киоски иттилооти маҳаллӣ барои таҳлили офлайни иттилоот"
+
+#: mobile_client
+msgid "Mobile client"
+msgstr "Муштарии мобилӣ"
+
+#: mobile_client_description
+msgid "Client for data capture on mobile devices"
+msgstr "Муштарӣ барои ҷамъоварии иттилоот дар дастгоҳҳои мобилӣ"
+
+#: web_api
+msgid "Web API"
+msgstr "Web API"
+
+#: system_overview
+msgid "System Overview"
+msgstr "Шарҳи мухтасари система"
+
+#: server_date
+msgid "Server date"
+msgstr "Санаи сервер"
+
+#: last_analytics_table_generation
+msgid "Last analytics table generation"
+msgstr ""
+
+#: last_analytics_table_runtime
+msgid "Last analytics table runtime"
+msgstr ""
+
+#: time_since_last_analytics_table_generation
+msgid "Time since last analytics table generation"
+msgstr ""
+
+#: online_release_page
+msgctxt "online_release_page"
+msgid "online release page"
+msgstr "саҳифаи нашри онлайн"
+
+#: edit_profile
+msgid "Edit profile"
+msgstr "Таҳрири профил"
+
+#: view_profile
+msgid "View profile"
+msgstr "Намоиши профил"
+
+#: profile_details
+msgid "Profile details"
+msgstr "Маълумоти муфассали профил"
+
+#: job_title
+msgid "Job title"
+msgstr "Унвони вазифа"
+
+#: introduction
+msgid "Introduction"
+msgstr "Муқаддима"
+
+#: gender
+msgid "Gender"
+msgstr "Ҷинс"
+
+#: male
+msgctxt "male"
+msgid "Male"
+msgstr "Мард"
+
+#: female
+msgctxt "female"
+msgid "Female"
+msgstr "Зан"
+
+#: other
+msgctxt "other"
+msgid "Other"
+msgstr "Дигар"
+
+#: birthday
+msgid "Birthday"
+msgstr "Рӯзи таваллуд"
+
+#: nationality
+msgid "Nationality"
+msgstr "Миллат"
+
+#: employer
+msgid "Employer"
+msgstr "Корфармо"
+
+#: education
+msgid "Education"
+msgstr "Маълумот"
+
+#: interests
+msgid "Interests"
+msgstr "Манфиатҳо"
+
+#: languages
+msgid "Languages"
+msgstr "Забонҳо"
+
+#: update_user_profile_success
+msgid "Profile was updated"
+msgstr "Профил навсозӣ шуд"
+
+#: settings
+msgctxt "settings"
+msgid "Settings"
+msgstr "Танзимот"
+
+#: property_to_display_in_analysis_modules
+msgid "Property to display in analysis modules"
+msgstr "Хусусият барои нишон додан дар модулҳои таҳлилӣ"
+
+#: user_settings
+msgid "User settings"
+msgstr "Танзимоти корбар"
+
+#: general
+msgid "General"
+msgstr "Умумуӣ"
+
+#: message
+msgid "Message"
+msgstr "Паём"
+
+#: db_language
+msgid "Database language"
+msgstr "Забони пойгоҳи иттилоотӣ"
+
+#: language
+msgid "Interface language"
+msgstr "Забони интерфейс"
+
+#: use_db_locale_no_translation
+msgid "Use database locale / no translation"
+msgstr "Истифодаи маҳали пойгоҳи иттилоотӣ / бе тарҷума"
+
+#: style
+msgid "Style"
+msgstr "Услуб"
+
+#: user_general_settings
+msgid "User General Settings"
+msgstr "Истифодаи танзимоти умумӣ"
+
+#: user_message_settings
+msgid "User Message Settings"
+msgstr "Танзимоти паёми корбар"
+
+#: enable_message_email_notifications
+msgid "Enable message email notifications"
+msgstr "Фаъол кардани огоҳиҳо тавассути почтаи электронӣ"
+
+#: enable_message_sms_notifications
+msgid "Enable message SMS notifications"
+msgstr "Фаъоли кардани огоҳиҳо тавассути паёмҳои СМС"
+
+#: intro_user_general_settings
+msgid ""
+"Customize the system with user specific settings for locale, style and more."
+msgstr ""
+"Системаро бо танзимоти ба корбар хоси маҳал, услуб ва ғайра фармоишӣ кунед."
+
+#: intro_user_message_settings
+msgid ""
+"Customize the system with user specific settings for message email and sms "
+"notification."
+msgstr ""
+"Системаро бо танзимоти ба корбар хоси огоҳӣ тавассути почтаи электронӣ ва "
+"паёмҳи СМС фармоишӣ кунед."
+
+#: light_blue
+msgid "Light Blue"
+msgstr "Кабуди кушод"
+
+#: green
+msgid "Green"
+msgstr "Сабз"
+
+#: myanmar
+msgctxt "myanmar"
+msgid "Myanmar"
+msgstr "Мянмар"
+
+#: india
+msgctxt "india"
+msgid "India"
+msgstr ""
+
+#: vietnam
+msgctxt "vietnam"
+msgid "Vietnam"
+msgstr ""
+
+#: settings_updated
+msgid "Settings were updated"
+msgstr "Танзимот навсозӣ шуданд"
+
+#: dashboard
+msgctxt "dashboard"
+msgid "Dashboard"
+msgstr "Лавҳаи маълумот"
+
+#: messages
+msgid "Messages"
+msgstr "Паёмҳо"
+
+#: interpretations
+msgid "Interpretations"
+msgstr "Тафсирҳо"
+
+#: interface_style
+msgid "Interface style"
+msgstr "Услуби интерфейс"
+
+#: server_memory
+msgid "Server memory"
+msgstr "Хотираи сервер"
+
+#: cpu_cores
+msgid "CPU cores"
+msgstr "Маӯзҳои CPU"
+
+#: please_select
+msgid "Please select"
+msgstr ""
+
+#: browse_it_here
+msgid "Browse it here"
+msgstr ""
+
+#. #-- Change Log------------------------------------------------------------------#
+#: change_log
+msgid "Change Log"
+msgstr "Таърихи тағйиротҳо"
+
+#: release
+msgid "Release"
+msgstr "Нашр"
+
+#: release_page
+msgctxt "release_page"
+msgid "online release page"
+msgstr "саҳифаи нашри онлайн"
+
+#. #-- Macros ---------------------------------------------------------------------#
+#: yes
+msgctxt "yes"
+msgid "Yes"
+msgstr "Ҳа"
+
+#: no
+msgctxt "no"
+msgid "No"
+msgstr "Не"
+
+#: true
+msgctxt "true"
+msgid "Yes"
+msgstr ""
+
+#: false
+msgctxt "false"
+msgid "No"
+msgstr ""
+
+#: sum
+msgid "Sum"
+msgstr "Ҷамъ"
+
+#: count
+msgid "Count"
+msgstr "Шумора"
+
+#: average
+msgid "Average"
+msgstr "Миёна"
+
+#: stddev
+msgid "Standard deviation"
+msgstr ""
+
+#: variance
+msgid "Variance"
+msgstr ""
+
+#: min
+msgid "Min"
+msgstr ""
+
+#: max
+msgid "Max"
+msgstr ""
+
+#: text
+msgid "Text"
+msgstr "Матн"
+
+#: long_text
+msgid "Long text"
+msgstr ""
+
+#: string
+msgid "String"
+msgstr "Ришта"
+
+#: int
+msgctxt "int"
+msgid "Number"
+msgstr "Рақам"
+
+#: number
+msgctxt "number"
+msgid "Number"
+msgstr "Рақам"
+
+#: positive_integer
+msgid "Positive Integer"
+msgstr ""
+
+#: zero_positive_int
+msgid "Positive or Zero Integer"
+msgstr ""
+
+#: negative_integer
+msgid "Negative Integer"
+msgstr ""
+
+#: unit_interval
+msgid "Unit interval"
+msgstr ""
+
+#: percentage
+msgid "Percentage"
+msgstr ""
+
+#: date
+msgid "Date"
+msgstr "Сана"
+
+#: date_time
+msgid "Date & Time"
+msgstr ""
+
+#: yes_no
+msgctxt "yes_no"
+msgid "Yes/No"
+msgstr "Ҳа/Не"
+
+#: bool
+msgctxt "bool"
+msgid "Yes/No"
+msgstr "Ҳа/Не"
+
+#: none
+msgctxt "none"
+msgid "None"
+msgstr "Ягонто"
+
+#: yes_only
+msgid "Yes Only"
+msgstr "Танҳо Ҳа"
+
+#: custom
+msgid "Custom"
+msgstr ""
+
+#. #-- Validation messages -------------------------------------------------------#
+#: value_must_integer
+msgid "Value must be an integer"
+msgstr ""
+
+#: value_must_number
+msgid "Value must be a number"
+msgstr ""
+
+#: value_must_positive_integer
+msgid "Value must be a positive integer"
+msgstr ""
+
+#: value_must_negative_integer
+msgid "Value must be a negative integer"
+msgstr ""
+
+#: value_must_zero_or_positive_integer
+msgid "Value must be zero or a positive integer"
+msgstr ""
+
+#: value_must_unit_interval
+msgid "Value must be a unit interval (between 0 and 1)"
+msgstr ""
+
+#: value_must_percentage
+msgid "Value must be a percentage (between 0 and 100)"
+msgstr ""
+
+#. #-- User account --------------------------------------------------------------#
+#: profile
+msgid "Profile"
+msgstr "Профил"
+
+#: account
+msgid "Account"
+msgstr "Ҳисоб"
+
+#: update_user
+msgid "Update user"
+msgstr "Навсозии корбар"
+
+#: user_account
+msgid "User account"
+msgstr ""
+
+#: user_name
+msgctxt "user_name"
+msgid "Username"
+msgstr "Номи корбар"
+
+#: old_password
+msgid "Old password"
+msgstr "Пароли кӯҳна"
+
+#: new_password
+msgctxt "new_password"
+msgid "New password"
+msgstr ""
+
+#: retype_new_password
+msgid "Retype new password"
+msgstr "Вуруди такрории пароли нав"
+
+#: surname
+msgid "Surname"
+msgstr "Насаб"
+
+#: first_name
+msgid "First name"
+msgstr "Ном"
+
+#: email
+msgid "E-mail"
+msgstr "Почтаи электронӣ"
+
+#: openid
+msgid "OpenID"
+msgstr ""
+
+#: username
+msgctxt "username"
+msgid "Username"
+msgstr "Номи корбар"
+
+#: phone_number
+msgid "Mobile phone number"
+msgstr "Рақами телефони мобилӣ"
+
+#: user_roles
+msgid "User roles"
+msgstr "Вазифаҳои корбар"
+
+#: update_user_success
+msgid "Account was updated"
+msgstr "Ҳисоб навсозӣ шуд"
+
+#: wrong_password
+msgid "Wrong password"
+msgstr "Пароли хато"
+
+#: help_center
+msgid "Help Center"
+msgstr "Маркази кӯмак"
+
+#: help_intro_header
+msgid "Welcome to the DHIS 2 Help Center"
+msgstr "Марҳабо ба Маркази кӯмаки DHIS 2"
+
+#: help_intro_text
+msgid "Please select an item from the menu to the left."
+msgstr "Лутфан аз менюи тарафи чап ҷузъеро интихоб кунед."
+
+#: please_wait_while_the_system_is_processing
+msgid "Please wait while the system is processing"
+msgstr "Лутфан то коркард кардани система мунтазир шавед"
+
+#: organisation_unit_required_for_user
+msgid "User must be assigned to at least one organisation unit"
+msgstr ""
+
+#. #-- Contact info ---------------------------------------------------------------#
+#: address
+msgid "Address"
+msgstr "Суроға"
+
+#: contact_details
+msgid "Contact information"
+msgstr "Маълумот барои тамос"
+
+#: contact_person
+msgid "Contact person"
+msgstr "Шахси мутасаддӣ"
+
+#. #-- Form validation messages --------------------------------------------------#
+#: this_field_is_required
+msgid "This field is required."
+msgstr "Ин майдон ҳатмист."
+
+#: please_fix_this_field
+msgid "Please fix this field."
+msgstr "Лутфан ин майдонро дуруст кунед."
+
+#: please_enter_a_valid_email_address
+msgid "Please enter a valid email address."
+msgstr "Лутфан суроғаи почтаи электронии дурустеро ворид кунед."
+
+#: please_enter_a_valid_url
+msgid "Please enter a valid URL."
+msgstr "Лутфан URL-и дурустеро ворид кунед."
+
+#: please_enter_a_valid_date
+msgid "Please enter a valid date."
+msgstr "Лутфан санаи дурустеро ворид кунед."
+
+#: please_enter_a_valid_date_iso
+msgid "Please enter a valid date (e.g. 1990-01-01)."
+msgstr "Лутфан санаи дурустеро ворид кунед (мас. 1990-01-01)."
+
+#: please_enter_a_valid_number
+msgctxt "please_enter_a_valid_number"
+msgid "Please enter a valid number."
+msgstr "Лутфан адади дурустеро ворид кунед."
+
+#: please_enter_a_valid_digits
+msgid "Please enter only digits."
+msgstr "Лутфан фақат рақамҳоро ворид кунед."
+
+#: please_enter_the_equal_values_again
+msgid "The entered values do not match. Please re-enter the values."
+msgstr ""
+"Қиматҳои воридкардашуда мувофиқат намекунанд. Лутфан қиматҳоро такроран "
+"ворид кунед."
+
+#: please_enter_a_value_with_a_valid_expression
+msgid "Please enter a value with a valid extension."
+msgstr "Лутфан интиҳои дурустеро ворид кунед."
+
+#: first_character_must_be_alphabetical
+msgid "The first character must be a letter."
+msgstr "Аломати якум бояд ҳарф бошад."
+
+#: please_enter_no_more_than_n_character
+msgid "Please enter no more than {0} characters."
+msgstr "Лутфан на бештар аз  {0} аломат ворид кунед ."
+
+#: please_enter_at_least_than_n_character
+msgctxt "please_enter_at_least_than_n_character"
+msgid "Please enter at least {0} characters."
+msgstr "Лутфан н камтар аз {0} аломат ворид кунед."
+
+#: please_enter_a_value_between_n_character
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr "Лутфан қимати дарозиаш аз {0} то {1} аломатро ворид кунед."
+
+#: please_enter_a_value_between_a_and_b
+msgid "Please enter a value between {0} and {1}."
+msgstr "Лутфан қимати дарозиаш аз {0} то {1} -ро ворид кунед."
+
+#: please_enter_a_value_less_than_or_equal_to_n
+msgid "Please enter a value less than or equal to {0}."
+msgstr "Лутфан қимати аз {0} хурдтар ё баробари онро ворид кунед."
+
+#: please_enter_a_value_greater_than_or_equal_to_n
+msgid "Please enter a value greater than or equal to {0}."
+msgstr "Лутфан қимати аз {0} калонтар ё баробари онро ворид кунед."
+
+#: please_enter_a_different_value_to_above
+msgid "Please enter a different value to above."
+msgstr "Лутфан ворид кунед a different value to above."
+
+#: digits_decimal_only_please
+msgid ""
+"Please enter digits only. Three digits before decimal point and two after "
+"the decimal point are allowed."
+msgstr ""
+"Лутфан фақат рақамҳо ворид кунед. Се рақам пеш аз вергули даҳӣ ва ду рақам "
+"пас аз вергули даҳӣ иҷозат аст."
+
+#: please_letters_numbers_spaces_underscores_only
+msgid "Only letters, numbers, spaces and underscores are allowed."
+msgstr "Танҳо ҳарфҳо, ададҳо, фосилаҳо ва тиреи поён иҷозатанд."
+
+#: please_letters_numbers_spaces_or_some_special_chars_only
+msgid ""
+"Only letters, numbers, spaces and the characters \n"
+" .,-,(,) are allowed."
+msgstr ""
+"Танҳо ҳарфҳо, ададҳо, фосилаҳо ва аломатҳои \n"
+" .,-,(,) иҷозатанд."
+
+#: please_enter_a_value_less_than_or_equal_to
+msgid "Please enter a value less than or equal to {1}"
+msgstr "Лутфан қимати аз {1} хурдтар ё баробари онро ворид кунед."
+
+#: please_enter_a_value_greater_than_or_equal_to
+msgid "Please enter a value greater than or equal to {1}"
+msgstr "Лутфан қимати аз {1} калонтар ё баробари онро ворид кунед."
+
+#: please_do_not_enter_same_values
+msgid "Please do not enter same values."
+msgstr "Лутфан қиматҳои якхеларо ворид накунед."
+
+#: letters_or_punctuation_only_please
+msgid "Letters or punctuation only please."
+msgstr "Танҳо ҳарфҳо ва аломатҳои китобат."
+
+#: please_enter_n_words_or_less
+msgid "Please enter {0} words or less."
+msgstr "Лутфан {0} калима ё камтар ворид кунед."
+
+#: please_enter_at_least_n_words
+msgid "Please enter at least {0} words."
+msgstr "Лутфан на камтар аз {0} калима ворид кунед."
+
+#: please_enter_betwwen_a_and_b_words
+msgid "Please enter between {0} and {1} words."
+msgstr "Лутфан аз {0} то {1} калима ворид кунед."
+
+#: letters_only_please
+msgid "Letters only please."
+msgstr "Танҳо ҳарфҳо"
+
+#: no_white_space_please
+msgid "No white space please"
+msgstr "Бе фосила"
+
+#: no_start_white_space_please
+msgid "This field cannot start with a space."
+msgstr "Ин майдон аз фосила сар шуда наметавонад."
+
+#: ZIP_code_must_be_in_the_range
+msgid "Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx"
+msgstr ""
+"Рамзи ZIP (индекси почта)-и шумо бояд дар фосилаи 902xx-xxxx то 905-xx-xxxx "
+"бошад"
+
+#: please_enter_valid_time
+msgid "Please enter a valid time, between 00:00 and 23:59."
+msgstr "Лутфан вақти дурустеро аз 00:00 то 23:59 ворид кунед."
+
+#: please_enter_valid_phone_number
+msgid "Please specify a valid phone number."
+msgstr "Лутфан рақами телефони дурустеро нишон диҳед."
+
+#: please_enter_at_least_n_character
+msgctxt "please_enter_at_least_n_character"
+msgid "Please enter at least {0} characters."
+msgstr "Лутфан на камтар аз {0} ворид кунед."
+
+#: this_date_can_not_be_after_today
+msgid "This date can not be after today."
+msgstr "Ин сана дертар аз имрӯз буда наметавонад."
+
+#: please_fill_out_at_least_one_of_these_fields
+msgid "Please fill out at least one of these fields."
+msgstr "Лутфан ақаллан яке аз ин майдонҳоро пур кунед."
+
+#: please_select_at_least_one_option_for_these_fields
+msgid "Please select at least one option for these fields."
+msgstr "Лутфан барои ин майдонҳо ақаллан як имконро интихоб кунед."
+
+#: password_must_contain_at_least_one_capital_letter_and_one_digit
+msgid "Password must contain at least one capital letter and one digit."
+msgstr "Парол бояд ақаллан як ҳарфи калон ва як рақам дошта бошад."
+
+#: only_digits_are_not_allowed
+msgid "Only digits are not allowed"
+msgstr "Танҳо рақамҳо иҷозатанд"
+
+#: closedDate_should_be_greater_than_openDate
+msgid "The ClosedDate field should be greater than the OpenDate field."
+msgstr ""
+"Қимати майдони СанаиПӯшидан бояд аз қимати майдони СанаиКушодан калонтар "
+"бошад."
+
+#: please_unicode_chars_only
+msgid "Valid unicode charaters only are allowed."
+msgstr "Танҳо аломатҳои дурусти юникод иҷозатанд."
+
+#: unrecognized_coordinate_string
+msgid "Unrecognized coordinate string"
+msgstr "Риштаи шинохтанашудаи координатаҳо"
+
+#: please_enter_a_letters_or_digits
+msgid "Please enter letters or digits."
+msgstr "Лутфан ҳарфҳо ё рақамҳо ворид кунед."
+
+#: please_enter_valid_number
+msgctxt "please_enter_valid_number"
+msgid "Please enter a valid number."
+msgstr "Лутфан рақами дурустеро ворид кунед."
+
+#: please_enter_valid_integer
+msgid "Please enter a valid integer."
+msgstr "Лутфан адади бутуни  дурустеро ворид кунед."
+
+#: please_enter_valid_positive_integer
+msgid "Please enter a valid positive integer."
+msgstr "Лутфан адади бутуни  мусбии дурустеро ворид кунед."
+
+#: please_enter_valid_negative_integer
+msgid "Please enter a valid negative integer."
+msgstr "Лутфан адади бутуни  манфии дурустеро ворид кунед."
+
+#: please_enter_name
+msgid "Please enter name!"
+msgstr "Лутфан номро ворид кунед!"
+
+#: please_select_period
+msgid "Please select period!"
+msgstr "Лутфан давраро интихоб кунед!"
+
+#: please_select_dataset
+msgid "Please select dataset!"
+msgstr "Лутфан маҷмӯи иттилоотро интихоб кунед!"
+
+#: please_select_dataelement
+msgid "Please select data element!"
+msgstr "Лутфан унсури иттилоотро интихоб кунед!"
+
+#: please_select_indicator
+msgid "Please select indicator!"
+msgstr "Лутфан индикаторро интихоб кунед!"
+
+#: please_enter_description
+msgid "Please enter description!"
+msgstr "Лутфан тавсифро ворид кунед!"
+
+#: delete_confirm
+msgid "Do you want to delete?"
+msgstr "Нест кардан мехоҳед?"
+
+#: available
+msgid "Available"
+msgstr "Мавҷуда"
+
+#: selected
+msgid "Selected"
+msgstr "Интихобшуда"
+
+#: error
+msgid "Error"
+msgstr "Хатогӣ"
+
+#: warning
+msgid "Warning"
+msgstr "Огоҳӣ"
+
+#: success
+msgid "Success"
+msgstr "Муваффақият"
+
+#: waiting
+msgid "Please wait"
+msgstr "Лутфан мунтазир шавед"
+
+#: expression_not_well_formed
+msgid "Expression is not well formed"
+msgstr ""
+
+#: invalid_identifiers_in_expression
+msgid "Invalid identifiers in expression"
+msgstr ""
+
+#: filter_not_evaluating_to_true_or_false
+msgid "Filter is not evaluating to true or false"
+msgstr ""
+
+#: locate_by_code
+msgid "Locate by code"
+msgstr "Пайдо кардан аз рӯи рамз"
+
+#: select_at_level
+msgid "Select at level"
+msgstr "Интихоб кардани сатҳ"
+
+#: unselect_at_level
+msgid "Un-select at level"
+msgstr "Лағви интихоби сатҳ"
+
+#: unselect_all
+msgid "Un-select all"
+msgstr "Лағви интихоби ҳама"
+
+#: select_all
+msgid "Select all"
+msgstr "Интихоб кардани ҳама"
+
+#: select_in_group
+msgid "Select in group"
+msgstr "Интихоб кардан дар гурӯҳ"
+
+#: unselect_in_group
+msgid "Un-select in group"
+msgstr "Лағви интихоб дар гурӯҳ"
+
+#: select_children
+msgid "Select children"
+msgstr "Интихоби воҳидҳои фаръӣ"
+
+#: unselect_children
+msgid "Un-select children"
+msgstr "Лағви интихоби воҳидҳои фаръӣ"
+
+#: organisation_unit_selection_tree
+msgid "Organisation Unit Selection"
+msgstr "Интихоби воҳиди сохторӣ"
+
+#: move_selected
+msgid "Move selected"
+msgstr "Интиқоли интихобшудаҳо"
+
+#: remove_selected
+msgid "Remove selected"
+msgstr "Тоза кардани интихобшудаҳо"
+
+#: move_all
+msgid "Move all"
+msgstr "Интиқоли ҳама"
+
+#: remove_all
+msgid "Remove all"
+msgstr "Тоза кардани ҳама"
+
+#: move_up
+msgid "Move up"
+msgstr "Интиқол ба боло"
+
+#: move_down
+msgid "Move down"
+msgstr "Интиқол ба поён"
+
+#: move_to_top
+msgid "Move to top"
+msgstr "Интиқол ба аввал"
+
+#: move_to_bottom
+msgid "Move to bottom"
+msgstr "Интиқол ба охир"
+
+#. #-- Paging messages -----------------------------------------------------------#
+#: no_of_pages
+msgid "No. of pages"
+msgstr "Шумораи саҳифаҳо"
+
+#: rows_in_page
+msgid "No. of rows per page"
+msgstr "Шумораи сатрҳо дар як саҳифа"
+
+#: jump_to_page
+msgid "Jump to page"
+msgstr "Гузариш ба саҳифа"
+
+#: go
+msgid "Go"
+msgstr "Ба пеш"
+
+#: filter_by_name
+msgid "Filter by name"
+msgstr "Филтркунӣ аз рӯи ном"
+
+#: filter
+msgid "Filter"
+msgstr "Филтр"
+
+#: clear
+msgid "Clear"
+msgstr "Пок кардан"
+
+#: find
+msgid "Find"
+msgstr "Ёфтан"
+
+#: delete_success
+msgid "Object deleted"
+msgstr "Объект нест карда шуд"
+
+#: process
+msgid "Processing..."
+msgstr "Коркард..."
+
+#. #-- Export PDF messages -------------------------------------------------------#
+#: get_pdf
+msgid "Get PDF"
+msgstr "PDF-ро дарёфт кунед"
+
+#: no_item_to_export
+msgid "There is no item to export"
+msgstr "Ягон ҷузъ барои воридот нест"
+
+#: name
+msgctxt "name"
+msgid "Name"
+msgstr "Ном"
+
+#: short_name
+msgctxt "short_name"
+msgid "Short name"
+msgstr "Номи мухтасар"
+
+#: alternative_name
+msgid "Alternative name"
+msgstr "Номи эҳтиётӣ"
+
+#: code
+msgid "Code"
+msgstr "Рамз"
+
+#: description
+msgctxt "description"
+msgid "Description"
+msgstr "Тавсиф"
+
+#: opening_date
+msgid "Opening date"
+msgstr "Санаи кушодан"
+
+#: closed_date
+msgid "Closed date"
+msgstr "Санаи пӯшидан"
+
+#: active
+msgid "Active"
+msgstr "Фаъол"
+
+#: type
+msgid "Type"
+msgstr "Навъ"
+
+#: value_type
+msgid "Value Type"
+msgstr "Навъи қимат"
+
+#: actual
+msgid "Actual"
+msgstr "Воқеан"
+
+#: target
+msgid "Target"
+msgstr "Нақша"
+
+#: percent
+msgid "Percent"
+msgstr "Фоиз"
+
+#: on_time
+msgid "On time"
+msgstr "Дар вақташ"
+
+#: data_dictionary
+msgid "Data Dictionary"
+msgstr "Луғати иттилоот"
+
+#: data_elements
+msgid "Data elements"
+msgstr "Унсурҳои иттилоот"
+
+#: data_sets
+msgid "Data sets"
+msgstr "Маҷмӯъҳои иттилоот"
+
+#: indicators
+msgid "Indicators"
+msgstr "Индикаторҳо"
+
+#: indicator_groups
+msgid "Indicator groups"
+msgstr "Гурӯҳҳои индикаторҳо"
+
+#: data_element_groups
+msgid "Data element groups"
+msgstr "Гурӯҳҳои унсурҳои иттилоот"
+
+#: data_element_concepts
+msgid "Data element concepts"
+msgstr "Консепсияҳои унсурҳои иттилоот"
+
+#: organisation_units
+msgid "Organisation units"
+msgstr ""
+
+#: organisation_unit_groups
+msgid "Organisation unit groups"
+msgstr "Гурӯҳҳои воҳидҳои сохторӣ"
+
+#: organisation_unit_hierarchy
+msgid "Organisation unit hierarchy"
+msgstr "Иерархияи воҳидҳои сохторӣ"
+
+#: validation_rules
+msgid "Validation rules"
+msgstr "Қоидаҳои санҷиши эътибор"
+
+#: period_type
+msgid "Period Type"
+msgstr "Навъи давара"
+
+#: users
+msgctxt "users"
+msgid "Users"
+msgstr "Корбарон"
+
+#: user_groups
+msgid "User groups"
+msgstr "Гурӯҳҳои корбарон"
+
+#: pivot_tables
+msgid "Pivot tables"
+msgstr ""
+
+#: charts
+msgid "Charts"
+msgstr ""
+
+#: maps
+msgid "Maps"
+msgstr ""
+
+#: dashboards
+msgid "Dashboards"
+msgstr ""
+
+#: programs
+msgid "Programs"
+msgstr ""
+
+#: events
+msgid "Events"
+msgstr ""
+
+#. #-- Indicator -----------------------------------------------------------------#
+#: expression
+msgid "Expression"
+msgstr "Ифода"
+
+#: left_expression
+msgid "Left Expression"
+msgstr "Ифодаи чап"
+
+#: right_expression
+msgid "Right Expression"
+msgstr "Ифодаи рост"
+
+#: indicator_type
+msgid "Indicator Type"
+msgstr "Навъи индикатор"
+
+#: annualized
+msgid "Annualized"
+msgstr "Солона"
+
+#: aggregation_operator
+msgid "Aggregation operator"
+msgstr "Оператори ҳамҷоякунӣ"
+
+#: numerator
+msgid "Numerator"
+msgstr "Сурат"
+
+#: numerator_formula
+msgid "Numerator formula"
+msgstr "Формулаи сурат"
+
+#: numerator_description
+msgctxt "numerator_description"
+msgid "Numerator description"
+msgstr "Тавсифи сурат"
+
+#: numerator_aggregation_operator
+msgid "Numerator aggregation operator"
+msgstr "Оператори ҳамҷоякунии сурат"
+
+#: denominator
+msgid "Denominator"
+msgstr "Махраҷ"
+
+#: denominator_formula
+msgid "Denominator formula"
+msgstr "Формулаи махраҷ"
+
+#: denominator_description
+msgctxt "denominator_description"
+msgid "Denominator description"
+msgstr "Тавсифи  махраҷ"
+
+#: denominator_aggregation_operator
+msgid "Denominator aggregation operator"
+msgstr "Оператори ҳамҷоякунии  махраҷ"
+
+#: expression_is_empty
+msgid "Expression is empty"
+msgstr "Ифода холӣ аст"
+
+#: category_option_combo_does_not_exist
+msgid "Category option combo does not exist"
+msgstr "Имкони комбои категория вуҷуд надорад"
+
+#: data_element_does_not_exist
+msgid "Data element does not exist"
+msgstr "Унсурҳои иттилоот вуҷуд надорад"
+
+#: constant_does_not_exist
+msgid "Constant does not exist"
+msgstr ""
+
+#: org_unit_group_does_not_exist
+msgid "Organisation unit group does not exist"
+msgstr ""
+
+#: id_not_numeric
+msgid "Identifier is not numeric"
+msgstr "Идентификатор ададӣ нест"
+
+#: expression_not_well_formed
+msgid "Expression is not well-formed"
+msgstr ""
+
+#: valid
+msgid "Valid"
+msgstr ""
+
+#. #-- Validation Rule -----------------------------------------------------------#
+#: absolute
+msgid "Absolute"
+msgstr "Мутлақ"
+
+#: statistical
+msgid "Statistical"
+msgstr "Оморӣ"
+
+#: left_side_description
+msgid "Left side description"
+msgstr "Тавсифи тарафи чап"
+
+#: right_side_description
+msgid "Right side description"
+msgstr "Тавсифи тарафи рост"
+
+#: left_side_of_expression
+msgid "Left side of Expression"
+msgstr "Тарафи чапи ифода"
+
+#: right_side_of_expression
+msgid "Right side of Expression"
+msgstr "Тарафи рости ифода"
+
+#: operator
+msgid "Operator"
+msgstr "Оператор"
+
+#: equal_to_symbol
+msgctxt "equal_to_symbol"
+msgid "=="
+msgstr "== "
+
+#: not_equal_to_symbol
+msgctxt "not_equal_to_symbol"
+msgid "!="
+msgstr "!"
+
+#: greater_than_symbol
+msgctxt "greater_than_symbol"
+msgid ">"
+msgstr ">"
+
+#: greater_than_or_equal_to_symbol
+msgctxt "greater_than_or_equal_to_symbol"
+msgid ">="
+msgstr ">"
+
+#: less_than_symbol
+msgctxt "less_than_symbol"
+msgid "<"
+msgstr "<"
+
+#: less_than_or_equal_to_symbol
+msgctxt "less_than_or_equal_to_symbol"
+msgid "<="
+msgstr "<"
+
+#: equal_to
+msgctxt "equal_to"
+msgid "=="
+msgstr "== "
+
+#: not_equal_to
+msgctxt "not_equal_to"
+msgid "!="
+msgstr "!"
+
+#: greater_than
+msgctxt "greater_than"
+msgid ">"
+msgstr ">"
+
+#: greater_than_or_equal_to
+msgctxt "greater_than_or_equal_to"
+msgid ">="
+msgstr ">"
+
+#: less_than
+msgctxt "less_than"
+msgid "<"
+msgstr "<"
+
+#: less_than_or_equal_to
+msgctxt "less_than_or_equal_to"
+msgid "<="
+msgstr "<"
+
+#: and_title
+msgid "And"
+msgstr ""
+
+#: or_title
+msgid "Or"
+msgstr ""
+
+#: equal_to_title
+msgid "Equal to"
+msgstr ""
+
+#: not_equal_to_title
+msgid "Not equal to"
+msgstr ""
+
+#: less_than_title
+msgid "Less than"
+msgstr ""
+
+#: less_than_or_equal_to_title
+msgid "Less than or equal to"
+msgstr ""
+
+#: greater_than_title
+msgid "Greater than"
+msgstr ""
+
+#: greater_than_or_equal_to_title
+msgid "Greater than or equal to"
+msgstr ""
+
+#. #-- Constant ------------------------------------------------------------------#
+#: constant
+msgid "Constant"
+msgstr "Доимӣ"
+
+#: constants
+msgid "Constants"
+msgstr "Доимиҳо"
+
+#: no_constant_to_select
+msgid "No constants to select"
+msgstr "Барои интихоб ягон доимӣ нест"
+
+#. #-- Dynamic Attributes --------------------------------------------------------#
+#: multiple_choice
+msgid "Multiple Choice"
+msgstr "Интихоби чандгона"
+
+#. #-- Sharing  ------------------------------------------------------------------#
+#: public_access
+msgid "Public access (with login)"
+msgstr "Дастрасии оммавӣ"
+
+#: external_access
+msgid "External access (without login)"
+msgstr "Дастрасии беруна (бе вуруд)"
+
+#: user_group_access
+msgid "User group access"
+msgstr "Дастрасӣ барои гурӯҳи корбарон"
+
+#: ajax_login_failed
+msgctxt "ajax_login_failed"
+msgid "Login failed, check your username and password and try again"
+msgstr ""
+
+#: group_name
+msgid "Group name"
+msgstr "Номи гурӯҳ"
+
+#: sharing_settings
+msgid "Sharing settings"
+msgstr "Танзимоти датсрасии муштарак"
+
+#: no_access
+msgctxt "no_access"
+msgid "None"
+msgstr "Ягонто"
+
+#: read_only
+msgid "Read only"
+msgstr "Танҳо барои хондан"
+
+#: read_write
+msgid "Read and write"
+msgstr "Хондан ва навиштан"
+
+#: can_edit_and_view
+msgid "Can edit and view"
+msgstr "Таҳрир кардан ва намоиш додан метавонед"
+
+#: can_view
+msgid "Can view"
+msgstr "Намоиш додан метавонед"
+
+#: search_for_user_groups
+msgid "Search for user groups"
+msgstr "Ҷустуҷӯи гурӯҳҳои корбарон"
+
+#: object_will_created_public
+msgid "This object will be created with public edit and view rights"
+msgstr "Ин объект бо ҳуқуқҳои оммавии таҳрир ва намоиш додан сохта мешавад"
+
+#: object_will_created_private
+msgid "This object will be private to yourself"
+msgstr "Ин объект барои худатон хусусӣ мешавад"
+
+#: created_by
+msgid "Created by"
+msgstr ""
+
+#. #-- Countries / flags ---------------------------------------------------------#
+#: afghanistan
+msgid "Afghanistan"
+msgstr "Афғонистон"
+
+#: africare
+msgid "Africare"
+msgstr ""
+
+#: akros
+msgid "Akros"
+msgstr ""
+
+#: algeria
+msgid "Algeria"
+msgstr "Алҷазоир"
+
+#: armenia
+msgid "Armenia"
+msgstr "Арманистон"
+
+#: bangladesh
+msgid "Bangladesh"
+msgstr "Бангладеш"
+
+#: benin
+msgid "Benin"
+msgstr "Бенин"
+
+#: bhutan
+msgid "Bhutan"
+msgstr "Бутан"
+
+#: botswana
+msgid "Botswana"
+msgstr "Ботсвана"
+
+#: burkina_faso
+msgid "Burkina Faso"
+msgstr "Буркина-Фасо"
+
+#: burkina_faso_coat_of_arms
+msgid "Burkina Faso Coat of Arms"
+msgstr "Герби Буркина-Фасо"
+
+#: burundi
+msgid "Burundi"
+msgstr ""
+
+#: cambodia
+msgid "Cambodia"
+msgstr "Камбоҷа"
+
+#: cameroon
+msgid "Cameroon"
+msgstr ""
+
+#: china
+msgid "China"
+msgstr "Хитой"
+
+#: colombia
+msgid "Colombia"
+msgstr "Колумбия"
+
+#: demoland
+msgid "Demoland"
+msgstr ""
+
+#: congo_brazzaville
+msgid "Republic of the Congo"
+msgstr "Ҷумҳурии Конго"
+
+#: congo_kinshasa
+msgid "Democratic Republic of the Congo"
+msgstr "Ҷумҳурии Демократии Конго"
+
+#: east_africa_community
+msgid "East Africa Community"
+msgstr "Ҷомеаи Африкаи Шарқӣ"
+
+#: ecowas
+msgid "ECOWAS"
+msgstr ""
+
+#: ecuador
+msgid "Ecuador"
+msgstr "Эквадор"
+
+#: egypt
+msgid "Egypt"
+msgstr ""
+
+#: engender_health
+msgid "Engender Health"
+msgstr ""
+
+#: ethiopia
+msgid "Ethiopia"
+msgstr "Эфиопия"
+
+#: fhi360
+msgid "FHI360"
+msgstr ""
+
+#: forut
+msgid "FORUT"
+msgstr ""
+
+#: gambia
+msgid "Gambia"
+msgstr "Гамбия"
+
+#: ghana
+msgid "Ghana"
+msgstr "Гана"
+
+#: global_fund
+msgid "Global Fund"
+msgstr "Глобал Фанд"
+
+#: guinea
+msgid "Guinea"
+msgstr "Гвинея"
+
+#: guinea_bissau
+msgid "Guinea Bissau"
+msgstr "Гвинея-Бисау"
+
+#: haiti
+msgid "Haiti"
+msgstr "Гаити"
+
+#: icap
+msgid "ICAP"
+msgstr ""
+
+#: ippf
+msgid "IPPF"
+msgstr ""
+
+#: india
+msgctxt "india"
+msgid "India"
+msgstr ""
+
+#: indonesia
+msgid "Indonesia"
+msgstr "Индонезия"
+
+#: iraq
+msgid "Iraq"
+msgstr ""
+
+#: irc
+msgid "International Rescue Committee"
+msgstr "Созмони байналмилалии наҷот"
+
+#: ivory_coast
+msgid "Ivory Coast"
+msgstr "Соҳили Оҷ"
+
+#: jhpiego
+msgid "JHPIEGO"
+msgstr ""
+
+#: kenya
+msgid "Kenya"
+msgstr "Кения"
+
+#: laos
+msgid "Lao People's Democratic Republic"
+msgstr "Ҷумҳурии Халқӣ-Демократии Лаос"
+
+#: lesotho
+msgid "Lesotho"
+msgstr "Лесото"
+
+#: liberia
+msgid "Liberia"
+msgstr "Либерия"
+
+#: malawi
+msgid "Malawi"
+msgstr "Малави"
+
+#: mali
+msgid "Mali"
+msgstr "Мали"
+
+#: mongolia
+msgid "Mongolia"
+msgstr ""
+
+#: mozambique
+msgid "Mozambique"
+msgstr "Мозамбик"
+
+#: myanmar
+msgctxt "myanmar"
+msgid "Myanmar"
+msgstr "Мянмар"
+
+#: msf
+msgid "MSF"
+msgstr ""
+
+#: msi
+msgid "MSI"
+msgstr ""
+
+#: namibia
+msgid "Namibia"
+msgstr "Намибия"
+
+#: nepal
+msgid "Nepal"
+msgstr "Непал"
+
+#: nicaragua
+msgid "Nicaragua"
+msgstr "Никарагуа"
+
+#: niger
+msgid "Niger"
+msgstr "Нигер"
+
+#: nigeria
+msgid "Nigeria"
+msgstr "Нигерия"
+
+#: norway
+msgid "Norway"
+msgstr "Норвегия"
+
+#: pakistan
+msgid "Pakistan"
+msgstr ""
+
+#: palestine
+msgid "Palestine"
+msgstr ""
+
+#: paraguay
+msgid "Paraguay"
+msgstr "Парагвай"
+
+#: pepfar
+msgid "PEPFAR"
+msgstr "PEPFAR"
+
+#: peru
+msgid "Peru"
+msgstr "Перу"
+
+#: philippines
+msgid "Philippines"
+msgstr "Филиппин"
+
+#: psi
+msgid "PSI"
+msgstr "PSI"
+
+#: republic_of_trinidad_and_tobago
+msgid "Republic of Trinidad & Tobago"
+msgstr "Ҷумҳурии Тринидад ва Тобаго"
+
+#: rwanda
+msgid "Rwanda"
+msgstr "Руанда"
+
+#: senegal
+msgid "Senegal"
+msgstr "Сенегал"
+
+#: sierra_leone
+msgid "Sierra Leone"
+msgstr "Серра-Леоне"
+
+#: sierra_leone_coat_of_arms
+msgid "Sierra Leone Coat of Arms"
+msgstr "Герби Серра-Леоне"
+
+#: solomon_islands
+msgid "Solomon Islands"
+msgstr "Ҷазираҳои Соломон"
+
+#: south_africa
+msgid "South Africa"
+msgstr "Африкаи Ҷанубӣ"
+
+#: south_africa_department_of_health
+msgid "South Africa Department of Health"
+msgstr "Вазорати тандурустии Африкаи Ҷанубӣ"
+
+#: south_sudan
+msgid "South Sudan"
+msgstr ""
+
+#: sri_lanka
+msgid "Sri Lanka"
+msgstr "Шри-Ланка"
+
+#: sudan
+msgid "Sudan"
+msgstr ""
+
+#: swaziland
+msgid "Swaziland"
+msgstr "Свазиленд"
+
+#: tajikistan
+msgid "Tajikistan"
+msgstr "Тоҷикистон"
+
+#: tanzania
+msgid "Tanzania"
+msgstr "Танзания"
+
+#: timor_leste
+msgid "Timor-Leste"
+msgstr "Тимор-Лесте"
+
+#: togo
+msgid "Togo"
+msgstr "Того"
+
+#: uganda
+msgid "Uganda"
+msgstr "Уганда"
+
+#: usaid
+msgid "USAID"
+msgstr ""
+
+#: vanuatu
+msgid "Vanuatu"
+msgstr "Вануату"
+
+#: vietnam
+msgctxt "vietnam"
+msgid "Vietnam"
+msgstr ""
+
+#: who
+msgid "WHO"
+msgstr "СБТ"
+
+#: zambia
+msgid "Zambia"
+msgstr "Замбия"
+
+#: zanzibar
+msgid "Zanzibar"
+msgstr "Занзибар"
+
+#: zimbabwe
+msgid "Zimbabwe"
+msgstr "Зимбабве"
+
+#. #-- Login page ----------------------------------------------------------------#
+#: create_an_account
+msgid "Create an account"
+msgstr ""
+
+#: login_password
+msgctxt "login_password"
+msgid "Password"
+msgstr "Парол"
+
+#: login_username
+msgctxt "login_username"
+msgid "Username"
+msgstr "Номи корбар"
+
+#: forgot_password
+msgid "Forgot password?"
+msgstr "Паролро фаромӯш кардед?"
+
+#: wrong_username_or_password
+msgid "Wrong username or password"
+msgstr "Парол ё номи корбари хато"
+
+#: powered_by
+msgid "Powered by"
+msgstr "Пешниҳод аз"
+
+#: sign_in
+msgid "Sign in"
+msgstr ""
+
+#. #-- New User Account page -----------------------------------------------------#
+#: new_user_account_name
+msgctxt "new_user_account_name"
+msgid "Name"
+msgstr ""
+
+#: new_user_account_first_name
+msgid "First"
+msgstr ""
+
+#: new_user_account_last_name
+msgid "Last"
+msgstr ""
+
+#. #-- Recovery page -------------------------------------------------------------#
+#: recover_success_message
+msgid ""
+"Please check the email account which you registered for this username. We "
+"have sent you instructions on how to restore your password."
+msgstr ""
+
+#: recover_error_message
+msgid ""
+"Sorry, we were not able to restore your account. The username might be "
+"invalid, your account might not permit restore or you might have entered an "
+"invalid email address for your account."
+msgstr ""
+
+#. #-- App Menu ------------------------------------------------------------------#
+#: applications
+msgctxt "applications"
+msgid "Apps"
+msgstr ""
+
+#: more_applications
+msgid "More apps"
+msgstr ""
+
+#: app_manager
+msgctxt "app_manager"
+msgid "Apps"
+msgstr ""
+
+#: app_favorite_description
+msgid ""
+"This icon indicates an app that will be displayed in your dropdown menu."
+msgstr ""
+
+#: app_draggable_description
+msgid ""
+"Items are draggable to change their order, so it's easy to customize your "
+"favorite apps."
+msgstr ""
+
+#: app_order_custom
+msgid "My own order"
+msgstr ""
+
+#: app_order_name_alpha
+msgid "Alphabetical"
+msgstr ""
+
+#: app_search_placeholder
+msgid "Search apps"
+msgstr ""
+
+#. #-- Data value error codes ----------------------------------------------------#
+#: data_element_or_type_null_or_empty
+msgid "Data element or type is null or empty"
+msgstr ""
+
+#: value_length_greater_than_max_length
+msgid "Data value is greater than max length"
+msgstr ""
+
+#: value_not_numeric
+msgid "Data value is not numeric"
+msgstr ""
+
+#: value_not_unit_interval
+msgid "Data value is not a unit interval"
+msgstr ""
+
+#: value_not_percentage
+msgid "Data value is not a percentage"
+msgstr ""
+
+#: value_not_integer
+msgid "Data value is not an integer"
+msgstr ""
+
+#: value_not_positive_integer
+msgid "Data value is not a positive integer"
+msgstr ""
+
+#: value_not_negative_integer
+msgid "Data value is not a negative integer"
+msgstr ""
+
+#: value_is_zero_and_not_zero_significant
+msgid "Data value is zero and not zero significant"
+msgstr ""
+
+#: value_not_bool
+msgid "Data value is not a boolean"
+msgstr ""
+
+#: value_not_true_only
+msgid "Data value is not true"
+msgstr ""
+
+#: value_not_valid_date
+msgid "Data value is not a valid date"
+msgstr ""
+
+#: stored_by_length_greater_than_max_length
+msgid "Stored by is greater than max length"
+msgstr ""
+
+#: comment_length_greater_than_max_length
+msgctxt "comment_length_greater_than_max_length"
+msgid "Comment is greater than max length"
+msgstr ""
+
+#. #-- calendars -----------------------------------------------------------------#
+#: islamic
+msgid "Islamic"
+msgstr ""
+
+#: nepali
+msgid "Nepali"
+msgstr ""
+
+#: julian
+msgid "Julian"
+msgstr ""
+
+#: gregorian
+msgid "Gregorian"
+msgstr ""
+
+#: ethiopian
+msgid "Ethiopian"
+msgstr ""
+
+#: thai
+msgid "Thai"
+msgstr ""
+
+#: iso8601
+msgid "ISO 8601"
+msgstr ""
+
+#: coptic
+msgid "Coptic"
+msgstr ""
+
+#. #-- Email message footer ------------------------------------------------------#
+#: respond_to_this_message
+msgid "Respond to this message"
+msgstr ""
+
+#. #-- Restore emails ------------------------------------------------------------#
+#: email_restore_subject
+msgid "User account restore confirmation at"
+msgstr ""
+
+#: email_restore_1_1st_paragraph_before_application_title
+msgctxt "email_restore_1_1st_paragraph_before_application_title"
+msgid "Someone, probably you, has asked us to restore your"
+msgstr ""
+
+#: email_restore_1_1st_paragraph_after_application_title
+msgctxt "email_restore_1_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr ""
+
+#: email_restore_1_2nd_paragraph
+msgctxt "email_restore_1_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the first one. Please follow "
+"the link below. In the next step you will be asked to enter a code which has "
+"been sent to you in the other email."
+msgstr ""
+
+#: email_restore_1_3rd_paragraph
+msgctxt "email_restore_1_3rd_paragraph"
+msgid ""
+"You must complete the restore process within 1 hour. If you take no action, "
+"your account will not be restored. If you did not request this restore, "
+"please disregard this message."
+msgstr ""
+
+#: email_restore_2_1st_paragraph_before_application_title
+msgctxt "email_restore_2_1st_paragraph_before_application_title"
+msgid "Someone, probably you, has asked us to restore your"
+msgstr ""
+
+#: email_restore_2_1st_paragraph_after_application_title
+msgctxt "email_restore_2_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr ""
+
+#: email_restore_2_2nd_paragraph
+msgctxt "email_restore_2_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the second one. Please read the "
+"first email and follow the instructions. Please use the code below to "
+"complete the new account form."
+msgstr ""
+
+#: email_restore_2_3rd_paragraph
+msgctxt "email_restore_2_3rd_paragraph"
+msgid ""
+"You must complete the restore process within 1 hour. If you take no action, "
+"your account will not be restored. If you did not request this restore, "
+"please disregard this message."
+msgstr ""
+
+#. #-- Invite emails -------------------------------------------------------------#
+#: email_invite_subject
+msgid "Invitation to create user account at"
+msgstr ""
+
+#: email_invite_1_1st_paragraph_before_application_title
+msgctxt "email_invite_1_1st_paragraph_before_application_title"
+msgid "This is an invitation to create a"
+msgstr ""
+
+#: email_invite_1_1st_paragraph_after_application_title
+msgctxt "email_invite_1_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr ""
+
+#: email_invite_1_2nd_paragraph
+msgctxt "email_invite_1_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the first one. Please follow "
+"the link below. In the next step you will be asked to enter a code which has "
+"been sent to you in the other email."
+msgstr ""
+
+#: email_invite_1_3rd_paragraph
+msgctxt "email_invite_1_3rd_paragraph"
+msgid ""
+"You must respond to this invitation within 3 months. If you take no action, "
+"the invitation will expire at that time."
+msgstr ""
+
+#: email_invite_2_1st_paragraph_before_application_title
+msgctxt "email_invite_2_1st_paragraph_before_application_title"
+msgid "This is an invitation to create a"
+msgstr ""
+
+#: email_invite_2_1st_paragraph_after_application_title
+msgctxt "email_invite_2_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr ""
+
+#: email_invite_2_2nd_paragraph
+msgctxt "email_invite_2_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the second one. Please read the "
+"first email and follow the instructions. Please use the code below to "
+"complete the new account form."
+msgstr ""
+
+#: email_invite_2_3rd_paragraph
+msgctxt "email_invite_2_3rd_paragraph"
+msgid ""
+"You must respond to this invitation within 3 months. If you take no action, "
+"the invitation will expire at that time."
+msgstr ""
+
+#. #-- Cache strategy display strings --------------------------------------------#
+#: cache_strategy
+msgid "Cache strategy"
+msgstr ""
+
+#: respect_system_setting
+msgid "Respect system setting"
+msgstr ""
+
+#: no_cache
+msgid "No cache"
+msgstr ""
+
+#: cache_until_6am_tomorrow
+msgid "Cache until 6 AM tomorrow"
+msgstr ""
+
+#: cache_for_two_weeks
+msgid "Cache for two weeks"
+msgstr ""
+
+#: cache_for_one_hour
+msgid "Cache for one hour"
+msgstr ""
+
+#. #-- Program indicators --------------------------------------------------------#
+#: execution_date
+msgid "Execution date"
+msgstr ""
+
+#: due_date
+msgid "Due date"
+msgstr ""
+
+#: incident_date
+msgid "Incident date"
+msgstr ""
+
+#: enrollment_date
+msgid "Enrollment date"
+msgstr ""
+
+#: current_date
+msgid "Current date"
+msgstr ""
+
+#: value_count
+msgid "Value count"
+msgstr ""
+
+#: zero_pos_value_count
+msgid "Zero or positive value count"
+msgstr ""
+
+#: event_count
+msgid "Event count"
+msgstr ""
+
+#: enrollment_count
+msgid "Enrollment count"
+msgstr ""
+
+#: tei_count
+msgid "Tracked entity instance count"
+msgstr ""

@@ -1,0 +1,850 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-apps/src/main/webapp/dhis-web-pivot/i18n/i18n_app.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-apps/src/main/webapp/dhis-web-pivot/i18n/i18n_app_vi.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: dimensions
+msgid "Dimensions"
+msgstr "Các chiều"
+
+#: row
+msgid "Row"
+msgstr "Dòng"
+
+#: column
+msgid "Column"
+msgstr "Cột"
+
+#: filter
+msgid "Filter"
+msgstr "Lọc"
+
+#: table_layout
+msgid "Table layout"
+msgstr "Bố trí chiều dữ liệu"
+
+#: show_subtotals
+msgid "Show subtotals"
+msgstr "Hiển thị các tổng phụ"
+
+#: hide_empty_rows
+msgid "Hide empty rows"
+msgstr "Ẩn các dòng rỗng"
+
+#: display_density
+msgid "Display density"
+msgstr "Mật độ hiển thị"
+
+#: font_size
+msgid "Font size"
+msgstr "Cỡ chữ"
+
+#: digit_group_separator
+msgid "Digit group separator"
+msgstr "Nhóm chữ số phân cách"
+
+#: comfortable
+msgid "Comfortable"
+msgstr "Thoải mái"
+
+#: compact
+msgid "Compact"
+msgstr "Chắc"
+
+#: large
+msgid "Large"
+msgstr "Lớn"
+
+#: small_
+msgid "Small"
+msgstr "Nhỏ"
+
+#: normal
+msgid "Normal"
+msgstr "Bình thường"
+
+#: reporting_period
+msgid "Reporting period"
+msgstr "Thời điểm báo cáo"
+
+#: organisation_unit
+msgid "Organisation unit"
+msgstr "Đơn vị"
+
+#: organisation_units
+msgid "Organisation units"
+msgstr "Các đơn vị"
+
+#: parent_organisation_unit
+msgid "Parent organisation unit"
+msgstr "Đơn vị cha"
+
+#: user_organisation_unit
+msgid "User org unit"
+msgstr "Đơn vị người đang dùng"
+
+#: table_options
+msgid "Table options"
+msgstr "Tùy chọn bảng"
+
+#: create
+msgid "Create"
+msgstr "Tạo"
+
+#: update
+msgid "Update"
+msgstr "Cập nhật"
+
+#: cancel
+msgid "Cancel"
+msgstr "Hủy"
+
+#: delete_
+msgid "Delete"
+msgstr "Xóa"
+
+#: save
+msgid "Save"
+msgstr "Lưu lại"
+
+#: hide
+msgid "Hide"
+msgstr "Ẩn đi"
+
+#: add_new
+msgid "Add new"
+msgstr "Thêm mới"
+
+#: manage_favorites
+msgid "Manage favorites"
+msgstr "Quản lý mục đánh dấu (ưa thích)"
+
+#: search_for_favorites
+msgid "Search for favorites"
+msgstr "Tìm mục đánh dấu"
+
+#: overwrite_favorite
+msgid "Overwrite favorite"
+msgstr "Ghi đè mục đã đánh dấu"
+
+#: delete_favorite
+msgid "Delete favorite"
+msgstr "Xóa đánh dấu"
+
+#: prev
+msgid "Prev"
+msgstr "Trước"
+
+#: next
+msgid "Next"
+msgstr "Sau"
+
+#: rename
+msgid "Rename"
+msgstr "Đổi tên"
+
+#: overwrite
+msgid "Overwrite"
+msgstr "Ghi đè"
+
+#: share_with_other_people
+msgid "Share with other people"
+msgstr "Chia sẻ với người khác"
+
+#: sharing_settings
+msgid "Sharing settings"
+msgstr "Cài đặt chia sẻ"
+
+#: can_view
+msgid "Can view"
+msgstr "Có thể xem"
+
+#: can_edit_and_view
+msgid "Can edit and view"
+msgstr "Có thể xem và chỉnh sửa"
+
+#: none
+msgid "None"
+msgstr "Không"
+
+#: public_access
+msgid "Public access"
+msgstr "Truy cập tự do"
+
+#: search_for_user_groups
+msgid "Search for user groups"
+msgstr "Tìm nhóm người dùng"
+
+#: available
+msgid "Available"
+msgstr "Có sẵn"
+
+#: selected
+msgid "Selected"
+msgstr "Đã chọn"
+
+#: indicators
+msgid "Indicators"
+msgstr "Các chỉ số"
+
+#: all_indicator_groups
+msgid "All indicator groups"
+msgstr "Tất cả nhóm chỉ số"
+
+#: select_indicator_group
+msgid "Select indicator group"
+msgstr "Chọn nhóm chỉ số"
+
+#: data_elements
+msgid "Data elements"
+msgstr "Phần tử dữ liệu"
+
+#: all_data_element_groups
+msgid "All data element groups"
+msgstr "Tất cả nhóm phần tử dữ liệu"
+
+#: select_data_element_group
+msgid "Select data element group"
+msgstr "Chọn nhóm phần tử dữ liệu"
+
+#: data_sets
+msgid "Data sets"
+msgstr "Tập phần tử dữ liệu"
+
+#: reporting_rates
+msgid "Reporting rates"
+msgstr "Tỷ lệ báo cáo"
+
+#: periods
+msgid "Periods"
+msgstr "Thời điểm"
+
+#: select_period_type
+msgid "Select period type"
+msgstr "Chọn loại thời điểm"
+
+#: weeks
+msgid "Weeks"
+msgstr "Tuần"
+
+#: last_week
+msgid "Last week"
+msgstr "Tuần trước"
+
+#: last_4_weeks
+msgid "Last 4 weeks"
+msgstr "4 tuần trước"
+
+#: last_12_weeks
+msgid "Last 12 weeks"
+msgstr "12 tuần trước"
+
+#: months
+msgid "Months"
+msgstr "Tháng"
+
+#: last_month
+msgid "Last month"
+msgstr "Tháng trước"
+
+#: last_3_months
+msgid "Last 3 months"
+msgstr "3 tháng trước"
+
+#: last_12_months
+msgid "Last 12 months"
+msgstr "12 tháng trước"
+
+#: bimonths
+msgid "Bi-months"
+msgstr "Hai tháng"
+
+#: last_bimonth
+msgid "Last bi-month"
+msgstr "Hai tháng trước"
+
+#: last_6_bimonths
+msgid "Last 6 bi-months"
+msgstr "6 đợt 2 tháng trước"
+
+#: quarters
+msgid "Quarters"
+msgstr "Quý"
+
+#: last_quarter
+msgid "Last quarter"
+msgstr "Quý trước"
+
+#: last_4_quarters
+msgid "Last 4 quarters"
+msgstr "4 quý trước"
+
+#: sixmonths
+msgid "Six-months"
+msgstr "6 tháng"
+
+#: last_sixmonth
+msgid "Last six-month"
+msgstr "6 tháng trước"
+
+#: last_2_sixmonths
+msgid "Last 2 six-months"
+msgstr "2 đợt 6 tháng trước"
+
+#: years
+msgid "Years"
+msgstr "Năm"
+
+#: this_year
+msgid "This year"
+msgstr "Năm này"
+
+#: last_year
+msgid "Last year"
+msgstr "Năm trước"
+
+#: last_5_years
+msgid "Last 5 years"
+msgstr "5 Năm trước"
+
+#: financial_years
+msgid "Financial years"
+msgstr "Năm tài chính"
+
+#: last_financial_year
+msgid "Last financial year"
+msgstr "Năm tài chính trước"
+
+#: last_5_financial_years
+msgid "Last 5 financial years"
+msgstr "5 Năm tài chính trước"
+
+#: prev_year
+msgid "Prev year"
+msgstr "Năm trước"
+
+#: next_year
+msgid "Next year"
+msgstr "Năm sau"
+
+#: select_all_children
+msgid "Select all children"
+msgstr "Chọn tất cả đơn vị con"
+
+#: table
+msgid "Table"
+msgstr "Bảng"
+
+#: chart
+msgid "Chart"
+msgstr "Biểu đồ"
+
+#: map
+msgid "Map"
+msgstr "Bản đồ"
+
+#: home
+msgid "Home"
+msgstr "Trang chủ"
+
+#: data
+msgid "Data"
+msgstr "Dữ liệu"
+
+#: categories
+msgid "Categories"
+msgstr "Thể loại"
+
+#: style
+msgid "Style"
+msgstr "Kiểu dáng"
+
+#: parameters
+msgid "Parameters"
+msgstr "Thông số"
+
+#: for_standard_reports_only
+msgid "for standard reports only"
+msgstr "Chỉ dành cho báo cáo cơ bản"
+
+#: please_create_a_table_first
+msgid "Please create a table first"
+msgstr "Hãy tạo một bảng trước"
+
+#: indicators_cannot_be_specified_as_filter
+msgid "Indicators cannot be specified as report filter"
+msgstr "Các chỉ số không được dùng làm bộ lọc trong báo cáo"
+
+#: categories_cannot_be_specified_as_filter
+msgid "Categories cannot be specified as report filter"
+msgstr "Các thể loại không được dùng trong bộ lọc của báo cáo"
+
+#: data_element_group_sets_cannot_be_specified_together_with_data_sets
+msgid "Data element group sets cannot be specified together with data sets"
+msgstr "Tập hợp nhóm phần tử không được đặt chung với tập phần tử dữ liệu"
+
+#: at_least_one_dimension_must_be_specified_as_row_or_column
+msgid "At least one dimension must be specified as row or column"
+msgstr "Phải có ít nhất một chiều dữ liệu được chọn trong hàng hoặc cột"
+
+#: at_least_one_period_must_be_specified_as_column_row_or_filter
+msgid "At least one period must be specified as column, row or filter"
+msgstr "Phải có ít nhất một thời điểm được chọn vào dòng, cột hoặc bộ lọc"
+
+#: example1
+msgid "Creating a pivot table"
+msgstr "Tạo một bảng số liệu"
+
+#: example2
+msgid "Select items from any of the dimensions in the left menu"
+msgstr "Chọn bất kỳ phần tử của các chiều dữ liệu ở bên mục trái"
+
+#: example3
+msgid "Click Layout to arrange your dimensions on table rows and columns"
+msgstr ""
+"Bấm vào 'Sắp đặt' để sắp xếp các chiều dữ liệu trên dòng hoặc cột của bảng"
+
+#: example4
+msgid "Click Update to create your table"
+msgstr "Bấm vào 'Cập nhật' để tạo bảng số liệu"
+
+#: example5
+msgid "Working with a pivot table"
+msgstr "Làm việc với bảng số liệu"
+
+#: example6
+msgid ""
+"Click Options to hide sub-totals or empty rows, adjust font size and more"
+msgstr ""
+"Bấm vào 'Tùy chọn' để ẩn các tổng phụ hoặc dòng rỗng, điều chỉnh cỡ chữ và "
+"các phần khác"
+
+#: example7
+msgid "Click Favorites to save your table for later use"
+msgstr "Bấm vào mục 'Đánh dấu' để lưu bảng số liệu của bạn lại để sử dụng sau"
+
+#: example8
+msgid "Click Download to save table data to your computer"
+msgstr "Bấm vào 'Tải về' để lưu bảng số liệu vào máy tính của bạn"
+
+#: layout
+msgid "Layout"
+msgstr "Sắp đặt"
+
+#: options
+msgid "Options"
+msgstr "Tùy chọn"
+
+#: download
+msgid "Download"
+msgstr "Tải về"
+
+#: favorites
+msgid "Favorites"
+msgstr "Lưu báo cáo"
+
+#: include_regression
+msgid "Include regression"
+msgstr "Bao gồm hồi quy"
+
+#: include_cumulative
+msgid "Include cumulative"
+msgstr "Bao gồm tích lũy"
+
+#: sort_order
+msgid "Sort order"
+msgstr "Thứ tự sắp xếp"
+
+#: low_to_high
+msgid "Low to high"
+msgstr "Thấp lên cao"
+
+#: high_to_low
+msgid "High to low"
+msgstr "Cao xuống thấp"
+
+#: top_limit
+msgid "Top limit"
+msgstr "Giới hạn trên"
+
+#: plain_data_sources
+msgid "Plain data source"
+msgstr "Tài nguyên dữ liệu phẳng"
+
+#: graphics
+msgid "Graphics"
+msgstr "Hình ảnh"
+
+#: data_sets_cannot_be_specified_as_filter
+msgid "Data sets cannot be specified as filter"
+msgstr "Tập phần tử dữ liệu không được dùng làm bộ lọc"
+
+#: share
+msgid "Share"
+msgstr "Chia sẻ"
+
+#: interpretation
+msgid "interpretation"
+msgstr "Bảng diễn giải"
+
+#: write_your_interpretation
+msgid "Write a comment, question or interpretation"
+msgstr "Viết một bình luận, câu hỏi hoặc lời diễn giải"
+
+#: legend_set
+msgid "Legend set"
+msgstr "Nhóm số liệu"
+
+#: select_organisation_units
+msgid "Select organisation units"
+msgstr "Chọn đơn vị"
+
+#: select_boundaries_and_levels
+msgid "Select boundaries and levels"
+msgstr "Chọn ranh giới và cấp độ"
+
+#: select_organisation_unit_levels
+msgid "Select organisation unit levels"
+msgstr "Chọn cấp độ đơn vị"
+
+#: totals
+msgid "Totals"
+msgstr "Tổng"
+
+#: details
+msgid "Details"
+msgstr "Chi tiết"
+
+#: select_boundaries_and_groups
+msgid "Select boundaries and groups"
+msgstr "Chọn ranh giới và nhóm"
+
+#: select_organisation_unit_groups
+msgid "Select organisation unit groups"
+msgstr "Chọn nhóm đơn vị"
+
+#: allow_external_access
+msgid "Allow external access"
+msgstr "Cho phép truy cập từ bên ngoài"
+
+#: show_hierarchy
+msgid "Show hierarchy"
+msgstr "Hiển thị cây đơn vị"
+
+#: all_indicators
+msgid "All indicators"
+msgstr "Tất cả các chỉ số"
+
+#: all_data_elements
+msgid "All data elements"
+msgstr "Tất cả phần tử dữ liệu"
+
+#: daily
+msgid "Daily"
+msgstr "Hằng ngày"
+
+#: weekly
+msgid "Weekly"
+msgstr "Hằng tuần"
+
+#: monthly
+msgid "Monthly"
+msgstr "Hằng tháng"
+
+#: bimonthly
+msgid "Bi-monthly"
+msgstr "Hằng hai tháng"
+
+#: quarterly
+msgid "Quarterly"
+msgstr "Hằng quý"
+
+#: sixmonthly
+msgid "Six-monthly"
+msgstr "Hằng 6 tháng"
+
+#: sixmonthly_april
+msgid "Six-monthly April"
+msgstr "Hằng 6 tháng Tháng 4"
+
+#: yearly
+msgid "Yearly"
+msgstr "Hằng năm"
+
+#: financial_oct
+msgid "Financial October"
+msgstr "Năm tài chính Tháng 10"
+
+#: financial_july
+msgid "Financial July"
+msgstr "Năm tài chính Tháng 7"
+
+#: financial_april
+msgid "Financial April"
+msgstr "Năm tài chính Tháng 4"
+
+#: plugin_config
+msgid "Plugin config"
+msgstr "Cấu hình phần thêm vào"
+
+#: default_
+msgid "Default"
+msgstr "Mặc định"
+
+#: aggregation_type
+msgid "Aggregation type"
+msgstr "Loại tổng hợp"
+
+#: count
+msgid "Count"
+msgstr "Đếm"
+
+#: sum
+msgid "Sum"
+msgstr "Tính tổng"
+
+#: by_data_element
+msgid "By data element"
+msgstr "Bởi phần tử dữ liệu"
+
+#: stddev
+msgid "Standard deviation"
+msgstr "Độ lệch chuẩn"
+
+#: variance
+msgid "Variance"
+msgstr "Phương sai"
+
+#: go_to_charts
+msgid "Go to charts"
+msgstr "Đến biểu đồ"
+
+#: open_this_table_as_chart
+msgid "Open this table as chart"
+msgstr "Mở bảng này thành biểu đồ"
+
+#: open_last_chart
+msgid "Open last chart"
+msgstr "Mở biểu đồ mới nhất"
+
+#: go_to_maps
+msgid "Go to maps"
+msgstr "Đến bản đồ"
+
+#: open_this_table_as_map
+msgid "Open this table as map"
+msgstr "Mở bảng này theo dạng bản đồ"
+
+#: open_last_map
+msgid "Open last map"
+msgstr "Mở bản đồ mới nhất"
+
+#: show_row_totals
+msgid "Show row totals"
+msgstr "Hiển thị dòng tổng số"
+
+#: show_col_totals
+msgid "Show column totals"
+msgstr "Hiển thị cột tổng số"
+
+#: assigned_categories
+msgid "Assigned categories"
+msgstr "Các phân loại được chỉ định"
+
+#: show_dimension_labels
+msgid "Show dimension labels"
+msgstr "Hiển thị tên các chiều"
+
+#: min
+msgid "Min"
+msgstr "Nhỏ nhất"
+
+#: max
+msgid "Max"
+msgstr "Lớn nhất"
+
+#: select_sub_units
+msgid "Select sub-units"
+msgstr "Chọn đơn vị phụ"
+
+#: you_do_not_have_access_to_all_items_in_this_favorite
+msgid "You do not have access to all items in this favorite"
+msgstr "Bạn không thể truy cập vào tất cả các mục trong mục đánh dấu"
+
+#: show
+msgid "Show"
+msgstr "Hiển thị"
+
+#: show_col_subtotals
+msgid "Show column sub-totals"
+msgstr "Hiển thị cột tổng phụ"
+
+#: show_row_subtotals
+msgid "Show row sub-totals"
+msgstr "Hiển thị dòng tổng phụ"
+
+#: last_52_weeks
+msgid "Last 52 weeks"
+msgstr "52 tuần trước"
+
+#: last_6_months
+msgid "Last 6 months"
+msgstr "6 tháng trước"
+
+#: created_by
+msgid "Created by"
+msgstr "Được tạo bởi"
+
+#: initializing
+msgid "Initializing"
+msgstr "Khởi tạo"
+
+#: clear_pivot_table
+msgid "Clear pivot table"
+msgstr "Xóa bảng số liệu"
+
+#: this_financial_year
+msgid "This financial year"
+msgstr "Năm tài chính này"
+
+#: user_sub_units
+msgid "User sub-units"
+msgstr "Đơn vị con của người dùng"
+
+#: user_sub_x2_units
+msgid "User sub-x2-units"
+msgstr "Đơn vị con x2 của người dùng"
+
+#: metadata_id_scheme
+msgid "Meta-data ID scheme"
+msgstr "ID kế hoạch của trường dữ liệu"
+
+#: this_week
+msgid "This week"
+msgstr "Tuần này"
+
+#: this_quarter
+msgid "This quarter"
+msgstr "Quý này"
+
+#: this_month
+msgid "This month"
+msgstr "Tháng này"
+
+#: this_sixmonth
+msgid "This six-month"
+msgstr "6 tháng này"
+
+#: this_bimonth
+msgid "This bi-month"
+msgstr "2 tháng này"
+
+#: excluded_dimensions
+msgid "Excluded dimensions"
+msgstr "Chiều dữ liệu loại trừ"
+
+#: column_dimensions
+msgid "Column dimensions"
+msgstr "Cột chiều dữ liệu"
+
+#: row_dimensions
+msgid "Row dimensions"
+msgstr "Dòng chiều dữ liệu"
+
+#: report_filter
+msgid "Report filter"
+msgstr "Bộ lọc báo cáo"
+
+#: about
+msgid "About"
+msgstr "Giới thiệu"
+
+#: time_since_last_data_update
+msgid "Time since last data update"
+msgstr "Thời gian dữ liệu cập nhật lần cuối"
+
+#: version
+msgid "Version"
+msgstr "Phiên bản"
+
+#: revision
+msgid "Revision"
+msgstr "Sửa đổi"
+
+#: build_time
+msgid "Build time"
+msgstr "Thời gian xây dựng"
+
+#: username
+msgid "Username"
+msgstr "Tên truy cập"
+
+#: error
+msgid "Error"
+msgstr "Lỗi"
+
+#: warning
+msgid "Warning"
+msgstr "Cảnh báo"
+
+#: data_approved_at_level
+msgid "Data approved at level"
+msgstr ""
+
+#: show_all_data
+msgid "Show all data"
+msgstr ""
+
+#: event_data_items
+msgid "Event data items"
+msgstr ""
+
+#: program_indicators
+msgid "Program indicators"
+msgstr ""
+
+#: program
+msgid "Program"
+msgstr ""
+
+#: select_program
+msgid "Select program"
+msgstr ""
+
+#: completed_only
+msgid "Completed only"
+msgstr ""
+
+#: events
+msgid "Events"
+msgstr ""
+
+#: include_only_completed_events_only
+msgid "Include only completed events"
+msgstr ""
+
+#: comma
+msgid "Comma"
+msgstr ""
+
+#: space
+msgid "Space"
+msgstr ""
+
+#: download_data
+msgid "Download data"
+msgstr ""
+
+#: skip_rounding
+msgid "Skip rounding"
+msgstr ""

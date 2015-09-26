@@ -1,0 +1,493 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-dataset/src/main/resources/org/hisp/dhis/dataset/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-dataset/src/main/resources/org/hisp/dhis/dataset/i18n_module_vi.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: available_for_mobile_reporting
+msgid "Available for mobile reporting"
+msgstr "Sẵn sàng cho báo cáo trên ĐTDĐ"
+
+#: please_select_dataset
+msgid "Please select a data set"
+msgstr "Hãy chọn một tập dữ liệu"
+
+#: greying_area
+msgid "Greying area"
+msgstr "Vùng màu xám"
+
+#: section_grey_field_managment
+msgid "Section grey field management"
+msgstr "Quản lý các cột màu xám"
+
+#: disable
+msgid "Disable"
+msgstr "Mất hiệu lực"
+
+#: enable
+msgid "Enable"
+msgstr "Hiệu lực"
+
+#: nr
+msgid "No"
+msgstr "Số thứ tự"
+
+#: data_element
+msgid "Data element"
+msgstr "Phần tử dữ liệu"
+
+#: data_elements
+msgid "Data elements"
+msgstr "Dữ liệu"
+
+#: indicators
+msgid "Indicators"
+msgstr "Chỉ số"
+
+#: select_categorycombo
+msgid "Select category combo"
+msgstr "Chọn kết hợp phân loại"
+
+#: title
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: category_combo
+msgid "Combination of categories"
+msgstr "Category combinations"
+
+#: add_dataset
+msgid "Add data set"
+msgstr "Thêm tập hợp dữ liệu"
+
+#: dataset_details
+msgid "Data set details"
+msgstr "Chi tiết tập hợp dữ liệu"
+
+#: multiorg_dataset_details
+msgid "Multi-organisation unit entry details"
+msgstr ""
+
+#: frequency
+msgid "Frequency"
+msgstr "Tần xuất"
+
+#: selected_data_elements
+msgid "Selected data elements"
+msgstr "Những phần tử dữ liệu được chọn"
+
+#: available_data_elements
+msgid "Available data elements"
+msgstr "Phần tử dữ liệu có sẵn"
+
+#: selected_indicators
+msgid "Selected indicators"
+msgstr "Chọn chỉ số"
+
+#: available_indicators
+msgid "Available indicators"
+msgstr "Chỉ số hiện có"
+
+#: define_associations
+msgid "Assign to organisation units"
+msgstr "Gán tập hợp dữ liệu cho đơn vị"
+
+#: number_of_data_elements
+msgid "Number of data elements"
+msgstr "Số phần tử dữ liệu"
+
+#: define_dataset_associations
+msgid "Assign data set to organisation units"
+msgstr "Gán tập hợp dữ liệu cho đơn vị"
+
+#: assign
+msgid "Assign"
+msgstr "Gán"
+
+#: edit_dataset
+msgid "Edit data set"
+msgstr "Sửa tập hợp dữ liệu"
+
+#: confirm_delete
+msgid "Are you sure you want to delete this data set?"
+msgstr "Bạn có chắc là muốn xóa tập hợp dữ liệu này không?"
+
+#: duplicate_names
+msgid "This name is already registered"
+msgstr "Tên này đã được dùng"
+
+#: duplicate_short_names
+msgid "This short name is already registered"
+msgstr "Tên rút gọn này đã tồn tại"
+
+#: duplicate_codes
+msgid "This code is already registered"
+msgstr "Mã số này đã tồn tại"
+
+#: level
+msgid "Level"
+msgstr "Cấp"
+
+#: dataentryform
+msgid "Data entry form"
+msgstr "Biểu nhập dữ liệu"
+
+#: dataentryform_management
+msgid "Data entry form management"
+msgstr "Quản lý biểu nhập dữ liệu"
+
+#: dataentryform_details
+msgid "Data entry form details"
+msgstr "Chi tiết biểu nhập dữ liệu"
+
+#: dataentryform_design
+msgctxt "dataentryform_design"
+msgid "Design data entry form"
+msgstr "Thiết kế mẫu nhập dữ liệu"
+
+#: delete
+msgid "Delete this form"
+msgstr "Xóa tập dữ liệu"
+
+#: dataset
+msgid "Data Set"
+msgstr "Tập hợp dữ liệu"
+
+#: dataentryform_confirm_delete
+msgid "Are you sure you want to delete this data entry form?"
+msgstr "Bạn có chắc chắn là muốn xóa biểu nhập dữ liệu này?"
+
+#: insert
+msgid "Insert"
+msgstr "Bổ sung"
+
+#: select_dataset
+msgid "Select data set"
+msgstr "Chọn tập dữ liệu"
+
+#: sort_section
+msgid "Sort section"
+msgstr "Sắp xếp section"
+
+#: dataset_section
+msgid "Data Set Section"
+msgstr "Phần của tập dữ liệu"
+
+#: label
+msgid "Label"
+msgstr "Nhãn"
+
+#: group
+msgid "Group"
+msgstr "Nhóm"
+
+#: add_section
+msgid "Add section"
+msgstr "Thêm section"
+
+#: section_details
+msgid "Section Details"
+msgstr "Chi tiết Section"
+
+#: edit_section
+msgid "Edit section"
+msgstr "Chỉnh sửa Section"
+
+#: sort
+msgid "Sort"
+msgstr "Sắp xếp"
+
+#: data_set_sort_order
+msgid "Data set sort order"
+msgstr "Thứ tự sắp xếp tập dữ liệu"
+
+#: design_data_entry_form
+msgctxt "design_data_entry_form"
+msgid "Design data entry form"
+msgstr "Thiết kế mẫu nhập dữ liệu"
+
+#: dataset_management
+msgid "Data set management"
+msgstr "Quản lý tập hợp dữ liệu"
+
+#: section_management
+msgid "Data set section management"
+msgstr "Quản lý thành phần tập dữ liệu"
+
+#: intro_dataset
+msgid ""
+"Create, update, view and delete data sets and custom forms. A data set is a "
+"collection of data elements for which data is entered."
+msgstr ""
+"Tạo mới, cập nhật, xem và xóa các tập dữ liệu. Tập dữ liệu là một tập hợp "
+"chứa các phần tử dữ liệu có giá trị. Trang này cũng cho phép bạn tự thiết kế "
+"giao diện nhập liệu cùng với các danh sách tùy chọn."
+
+#: intro_dataset_assignment_editor
+msgid ""
+"Assign data sets to organisation units in a grid based layout for faster "
+"operations when working with a high number of items."
+msgstr ""
+"Gán đa tập hợp dữ liệu cho các đơn vị. Đa tập hợp dữ liệu là gồm nhiều tập "
+"hợp dữ liệu theo dạng lưới."
+
+#: edit_compulsory_data_elements
+msgid "Edit compulsory data elements"
+msgstr "Chỉnh sửa các phần tử dữ liệu bắt buộc"
+
+#: dataset_assignment_editor
+msgid "Data Set Assignment Editor"
+msgstr "Hiệu chỉnh gắn kết tập hợp dữ liệu"
+
+#: new
+msgid "Add new"
+msgstr "Thêm mới"
+
+#: delete_success
+msgid "Delete successfully"
+msgstr "Xóa thành công"
+
+#: select
+msgid "[Select]"
+msgstr "[Chọn]"
+
+#: save_success
+msgid "Saved successfully"
+msgstr "Lưu thành công"
+
+#: save_close
+msgid "Save and close"
+msgstr "Lưu và Đóng"
+
+#: period_type
+msgid "Period type"
+msgstr "Loại thời điểm"
+
+#: datasets
+msgid "DataSets"
+msgstr "Các tập dữ liệu"
+
+#: data
+msgid "Data"
+msgstr "Dữ liệu"
+
+#: pivot
+msgid "Pivot"
+msgstr "Bảng xoay"
+
+#: please_select_dataset_or_categorycombo
+msgid "Please select data set and category combination"
+msgstr "Hãy chọn tập dữ liệu và category combo tương ứng"
+
+#: indicator_already_inserted
+msgid "Indicator already inserted"
+msgstr "Chỉ số đã được bổ sung"
+
+#: no_indicator_was_selected
+msgid "No indicator was selected"
+msgstr "Không chỉ số được chọn"
+
+#: dataelement_already_inserted
+msgid "Data element already inserted"
+msgstr "Dữ liệu đã thêm vào"
+
+#: no_dataelement_was_selected
+msgid "No data element was selected"
+msgstr "Không có dữ liệu được chọn"
+
+#: done
+msgid "Done"
+msgstr "Hoàn tất"
+
+#: section_sort_order
+msgid "Section sort order"
+msgstr "Thứ tự sắp xếp"
+
+#: confirm_delete_section
+msgid "Are you sure you want to delete this section?"
+msgstr "Bạn có chắc muốn xóa mục này?"
+
+#: specify_name
+msgid "Please specify a name"
+msgstr "Vui lòng chỉ định tên"
+
+#: select_org_unit
+msgid "Select organisation unit"
+msgstr "Chọn đơn vị"
+
+#: assigned
+msgid "Assigned"
+msgstr "Đã gán"
+
+#: unassigned
+msgid "Unassigned"
+msgstr "Chưa gán"
+
+#: show_selection_box
+msgid "Show selection box"
+msgstr "Hiển thị hộp tùy chọn"
+
+#: grey_field
+msgid "Grey field"
+msgstr "Vùng xám"
+
+#: totals
+msgid "Totals"
+msgstr "Tổng số"
+
+#: expiry_days
+msgid "Expiry days"
+msgstr "Ngày hết hạn"
+
+#: timely_days
+msgid "Days after period to qualify for timely submission"
+msgstr ""
+
+#: insert_data_elements_totals_indicators
+msgid "Insert data elements, totals and indicators"
+msgstr ""
+
+#: style
+msgid "Style"
+msgstr ""
+
+#: comfortable
+msgid "Comfortable"
+msgstr ""
+
+#: regular
+msgid "Regular"
+msgstr ""
+
+#: compact
+msgid "Compact"
+msgstr ""
+
+#: none
+msgid "None"
+msgstr "Hoàn tất"
+
+#: allow_future_periods
+msgid "Allow future periods"
+msgstr ""
+
+#: skip_aggregation
+msgid "Skip data mart aggregation"
+msgstr ""
+
+#: insert_data_elements
+msgid "Insert data elements"
+msgstr ""
+
+#: insert_input_fields_into_the_form
+msgid "Insert input fields into the form"
+msgstr ""
+
+#: cat_option_combo_not_exist
+msgid "Category option combo does not exist"
+msgstr ""
+
+#: data_element_not_exist
+msgid "Data element does not exist"
+msgstr ""
+
+#: indicator_not_exist
+msgid "Indicator does not exist"
+msgstr ""
+
+#: cat_combo_not_exist
+msgid "Category combo does not exist"
+msgstr ""
+
+#: all_fields_for_data_element_required
+msgid "All fields for data elements required"
+msgstr ""
+
+#: form_details
+msgid "Form details"
+msgstr ""
+
+#: complete_allowed_only_if_validation_passes
+msgid "Complete allowed only if validation passes"
+msgstr ""
+
+#: notification_recipients
+msgid "Complete notification recipients"
+msgstr ""
+
+#: no_value_requires_comment
+msgid "Missing value requires comment on complete"
+msgstr ""
+
+#: skip_offline
+msgid "Skip offline"
+msgstr ""
+
+#: render_as_tabs
+msgid "Render sections as tabs"
+msgstr ""
+
+#: render_horizontally
+msgid "Render Vertically"
+msgstr ""
+
+#: object_not_deleted_associated_by_objects
+msgid "Object not deleted because it is associated by objects of type"
+msgstr ""
+
+#: auto_save_data_entry_forms
+msgid "Auto-save data entry forms"
+msgstr ""
+
+#: notify_completing_user
+msgid "Send notification to completing user"
+msgstr ""
+
+#: approve_data
+msgid "Approve data"
+msgstr ""
+
+#: insert_images
+msgid "Insert images"
+msgstr ""
+
+#: dataelementdecoration
+msgid "Data element decoration"
+msgstr ""
+
+#: pdf_data_entry_form
+msgid "Get PDF for Data Entry"
+msgstr ""
+
+#: select_symbol
+msgid "Select symbol"
+msgstr ""
+
+#: symbol
+msgid "Symbol"
+msgstr ""
+
+#: legend_set
+msgid "Legend set"
+msgstr ""
+
+#: enable_for_java_mobile_client
+msgid "Enable for Java mobile client"
+msgstr ""
+
+#: view_sections
+msgid "View sections"
+msgstr ""
+
+#: open_future_periods_for_data_entry
+msgid "Open future periods for data entry"
+msgstr ""

@@ -1,0 +1,1640 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-dataadmin/src/main/resources/org/hisp/dhis/dataadmin/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-dataadmin/src/main/resources/org/hisp/dhis/dataadmin/i18n_module_zh.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: remove_all
+msgid "Remove All Locks"
+msgstr "删除全部锁"
+
+#: done
+msgctxt "done"
+msgid "Done"
+msgstr "完成"
+
+#: loading
+msgid "Loading, please wait"
+msgstr "加载中"
+
+#: optional
+msgid "Optional"
+msgstr ""
+
+#: data_administration
+msgid "Data Administration"
+msgstr "数据管理"
+
+#: period_type
+msgid "Period Type"
+msgstr "周期类型"
+
+#: select_options
+msgid "Please select at least one option"
+msgstr "请选择至少一个选项"
+
+#: performing_maintenance
+msgid "Performing maintenance"
+msgstr "执行维护中"
+
+#: maintenance_performed
+msgid "Maintenance performed"
+msgstr "维护完成"
+
+#: generating_resource_tables
+msgid "Generating resource tables"
+msgstr "生成资源表"
+
+#: resource_tables_generated
+msgid "Resource tables generated"
+msgstr "已生产资源表"
+
+#: clear_analytics_tables
+msgid "Clear analytics tables"
+msgstr ""
+
+#: maintenance
+msgid "Maintenance"
+msgstr "系统维护"
+
+#: resource_table
+msgid "Resource Table"
+msgstr "资源表"
+
+#: clear_dataset_completeness
+msgid "Clear data set completeness"
+msgstr "清除完成的数据集"
+
+#: clear_zero_values
+msgid "Clear zero values"
+msgstr "清除零值"
+
+#: group_set_structure
+msgid "Organisation unit group set structure normalized"
+msgstr "组织机构组集结构正规化"
+
+#: organisation_unit_structure
+msgid "Organisation unit structure"
+msgstr "组织机构结构"
+
+#: data_element_category_option_combo_name
+msgid "Data element category option combo name"
+msgstr "数据元分类选项组合的名称"
+
+#: generate_resource_tables
+msgid "Generate tables"
+msgstr "生成资源表"
+
+#: perform_maintenance
+msgid "Perform maintenance"
+msgstr "执行维护 "
+
+#: prune_periods
+msgid "Prune periods"
+msgstr "裁剪周期"
+
+#: cache_statistics
+msgid "Cache Statistics"
+msgstr "缓存数据"
+
+#: second_level_cache_statistics
+msgid "Second Level Cache Statistics"
+msgstr "二级缓存统计"
+
+#: region_name
+msgid "Region name"
+msgstr "区域名称"
+
+#: put_count
+msgctxt "put_count"
+msgid "Put count"
+msgstr "移动数"
+
+#: hit_count
+msgctxt "hit_count"
+msgid "Hit count"
+msgstr "点击次数"
+
+#: miss_count
+msgctxt "miss_count"
+msgid "Miss count"
+msgstr "丢失记数"
+
+#: mem_count
+msgid "Mem count"
+msgstr "分配信息计数"
+
+#: disk_count
+msgid "Disk count"
+msgstr "磁盘数"
+
+#: mem_size
+msgid "Mem size"
+msgstr "分配信息大小"
+
+#: total_second_level_cache
+msgid "Total Second Level Cache"
+msgstr "总二级缓存"
+
+#: total_query_cache
+msgid "Total Query Cache"
+msgstr "查询缓存总数"
+
+#: query_cache_statistics
+msgid "Query Cache Statistics"
+msgstr "查询缓存统计"
+
+#: query_name
+msgid "Query name"
+msgstr "查询名称"
+
+#: put_count
+msgctxt "put_count"
+msgid "Put count"
+msgstr "移动数"
+
+#: hit_count
+msgctxt "hit_count"
+msgid "Hit count"
+msgstr "点击次数"
+
+#: miss_count
+msgctxt "miss_count"
+msgid "Miss count"
+msgstr "丢失记数"
+
+#: exec_count
+msgid "Exec count"
+msgstr "执行数"
+
+#: exec_avg_time
+msgid "Exec avg time"
+msgstr "执行平均时间"
+
+#: exec_max_time
+msgid "Exec max time"
+msgstr "执行最大时间"
+
+#: exec_min_time
+msgid "Exec min time"
+msgstr "执行最小时间"
+
+#: exec_row_count
+msgid "Exec row count"
+msgstr "执行行数"
+
+#: clear_cache
+msgid "Clear cache"
+msgstr "清空缓存"
+
+#: data_statistics
+msgid "Data Statistics"
+msgstr "数据统计"
+
+#: indicator_types
+msgid "Indicator types"
+msgstr "指标类型"
+
+#: data_dictionaries
+msgid "Data dictionaries"
+msgstr "数据词典"
+
+#: periods
+msgid "Periods"
+msgstr "周期"
+
+#: data_values
+msgid "Data values"
+msgstr "数据值"
+
+#: number_of_objects
+msgid "Number of objects"
+msgstr "对象数"
+
+#: data_browser
+msgid "Data Browser"
+msgstr "数据浏览器"
+
+#: from_date
+msgid "From date"
+msgstr "起始日期"
+
+#: to_date
+msgid "To date"
+msgstr "到目前为止"
+
+#: browse_by
+msgid "Browse by"
+msgstr "查看"
+
+#: select_mode
+msgid "Select mode"
+msgstr "选择模式"
+
+#: select_parent_organisation_unit
+msgid "Select parent organisation unit"
+msgstr "选择上级组织机构"
+
+#: no_data_found
+msgid "No data found"
+msgstr "没有数据被找到"
+
+#: browse
+msgid "Browse"
+msgstr "浏览"
+
+#: select_period_type
+msgid "Select Period Type"
+msgstr "选择周期类型"
+
+#: data_integrity
+msgid "Data Integrity"
+msgstr "数据完整性"
+
+#: data_elements_without_data_set
+msgid "Data elements without a data set"
+msgstr "没有一个数据集的数据元"
+
+#: data_elements_without_groups
+msgid "Data elements without groups"
+msgstr "没有组的数据元"
+
+#: data_sets_not_assigned_to_organisation_units
+msgid "Data sets not assigned to organisation units"
+msgstr "指定组织机构的数据集"
+
+#: indicators_with_identical_formulas
+msgid "Indicators with identical formulas"
+msgstr "指标以相同的公式"
+
+#: indicators_without_groups
+msgid "Indicators without groups"
+msgstr "无组的指标"
+
+#: organisation_units_with_cyclic_references
+msgid "Organisation units with cyclic references"
+msgstr "组织机构违反强制的组集规则"
+
+#: orphaned_organisation_units
+msgid "Orphaned organisation units"
+msgstr "孤立的组织机构"
+
+#: organisation_units_without_groups
+msgid "Organisation units without groups"
+msgstr "无组的组织机构"
+
+#: organisation_units_violating_compulsory_group_sets
+msgid "Organisation units violating compulsory group sets"
+msgstr "组织机构违反强制的组集"
+
+#: organisation_units_violation_exclusive_group_sets
+msgid "Organisation units violating exclusive group sets"
+msgstr "组织机构违反组集互斥性"
+
+#: organisation_unit_groups_without_group_sets
+msgid "Organisation unit groups without group sets"
+msgstr "没有组集的组织机构组"
+
+#: category_option_combos_not_in_data_element_category_combo
+msgid ""
+"Category option combos not in data element category combo in data entry form"
+msgstr ""
+
+#: data_integrity_checks_performed
+msgid "Data integrity checks performed"
+msgstr "执行数据完整性检查"
+
+#: data_elements_assigned_to_period_types_with_different_period_types
+msgid "Data elements assigned to data sets with different period types"
+msgstr "数据元以不同周期的类型分配到数据集"
+
+#: category_option_group_set_structure
+msgid "Category option group set structure"
+msgstr ""
+
+#: data_element_group_set_structure
+msgid "Data element group set structure"
+msgstr "数据元组集结构"
+
+#: indicator_group_set_structure
+msgid "Indicator group set structure"
+msgstr "指标组集合结构"
+
+#: organisation_unit_group_set_structure
+msgid "Organisation unit group set structure"
+msgstr "若干组织机构组集结构"
+
+#: period
+msgid "Period"
+msgstr "周期"
+
+#: value
+msgid "Value"
+msgstr "值"
+
+#: found
+msgid "Found"
+msgstr "找到"
+
+#: values
+msgid "values"
+msgstr "值"
+
+#: data_element
+msgctxt "data_element"
+msgid "Data element"
+msgstr "数据元"
+
+#: data_element_group
+msgid "Data element Group"
+msgstr "数据元组"
+
+#: validation_rules_without_groups
+msgid "Validation rules without groups"
+msgstr "无分组的验证规则"
+
+#: aggregated_data_values
+msgid "Aggregated data values"
+msgstr "数据值汇总"
+
+#: aggregated_indicator_values
+msgid "Aggregated indicator values"
+msgstr "指标值汇总"
+
+#: organisation_unit_pruning
+msgid "Organisation Unit Pruning"
+msgstr "裁剪组织机构"
+
+#: min_max_value_generation
+msgid "Min-Max Value Generation"
+msgstr "生成最小-最大值"
+
+#: intro_lock_exception
+msgid ""
+"Add or remove exceptions to the the standard rules for locking of data entry "
+"forms."
+msgstr "添加或删除数据录入表单锁标准规则异常"
+
+#: intro_data_browser
+msgid ""
+"Browse the database and get an overview of where data exists. View and "
+"export counts of data elements as well as raw data."
+msgstr "浏览数据库并且概览数据位置，浏览并且导出数据元数量以及原始数据。"
+
+#: intro_data_integrity
+msgid ""
+"Run data integrity checks and unveil anomalies and problems in the meta data "
+"setup."
+msgstr "运行数据完整性检查并在元数据设置中发现异常和问题。"
+
+#: intro_data_archive
+msgid ""
+"Archive data which is not currently relevant to your system in order to "
+"improve performance. Data can also be unarchived."
+msgstr "为了提高性能，归档当前与系统不相关的数据。数据也可以取消归档。"
+
+#: intro_patient_data_archive
+msgid ""
+"Archive person data which is not currently relevant to your system. Data can "
+"also be unarchived."
+msgstr "归档当前与系统无关的受益人数据，数据也可以取消归档。"
+
+#: intro_maintenance
+msgid ""
+"Perform maintenance tasks such as pruning of data values and periods and "
+"clearing of database resource tables."
+msgstr "维护工作，如数据值和周期的裁剪，数据库资源表的清理。"
+
+#: intro_resource_table
+msgid ""
+"Generate resource database tables for the organisation unit hierarchy and "
+"group set structure among others."
+msgstr "为组织机构体系和组集结构在数据库中生成的其它相关的数据库资源表。\n"
+
+#: intro_locale
+msgid ""
+"Create and manage locales for database content. A locale is a combination of "
+"language and country."
+msgstr ""
+
+#: intro_organisation_unit_merge
+msgid ""
+"Merge two organisation units and their data values. Data is merged depending "
+"on existence and date of last modification."
+msgstr "合并两个组织机构及其数据值。根据已经存在的和最后修改的日期来合并数据。"
+
+#: intro_data_statistics
+msgid ""
+"Browse the number of objects in the database, like data elements, "
+"indicators, data sets and data values."
+msgstr "浏览在数据库中的对象数量，如数据元，指标、数据和数据值。"
+
+#: intro_cache_statistics
+msgid ""
+"Monitor and clear the system database cache status. Provides information on "
+"object and query caches."
+msgstr "监控和清除系统数据库缓存的状况，提供对象资料和查询缓存对象。"
+
+#: intro_min_max_value_generation
+msgid ""
+"Generate min-max values which can be used for data validation during data "
+"entry and validation processes."
+msgstr "产生最小-最大值，在数据的输入和验证过程中用于数据的验证。"
+
+#: intro_organisation_unit_pruning
+msgid ""
+"Remove sub-trees from the organisation unit tree. Useful when creating and "
+"deploying local databases."
+msgstr "从组织机构树形结构中移除子树，有利于创建和部署本地数据库。"
+
+#: intro_zero_storage_management
+msgid ""
+"Define which data elements for which zero values should be stored or "
+"ignored. Useful for reducing database size."
+msgstr "定义哪些数据元的零值应该存储或忽略。有利于降低数据库大小。"
+
+#: intro_duplicate_data_elimination
+msgid ""
+"Eliminate data registered for duplicate data elements. Useful when data has "
+"been entered for identical data elements."
+msgstr "消除重复登记的数据元。有利于检查已经输入的要求唯一值的数据元。"
+
+#: intro_sql_view
+msgid ""
+"Create SQL database views. These views will typically use the resource "
+"tables to provide convenient views for third-party tools."
+msgstr "创建数据库SQL视图，这些视图常常利用资源表为第三方工具提供便利的视图。\n"
+
+#: intro_constant
+msgid ""
+"Create constants which can be included in expressions of indicator and "
+"validation rules."
+msgstr "创建可用于指标和验证表达式的常数"
+
+#: intro_attribute
+msgid ""
+"Create and update dynamic attributes. Attributes can be used for data "
+"elements, indicators, organisation units and users."
+msgstr "创建和更新动态属性。属性可以用于数据元、指标、机构和用户。"
+
+#: intro_option_set
+msgid ""
+"Create option sets which can be included in data elements and produce drop-"
+"down lists in data entry forms."
+msgstr "创建可以被数据元包括的值域选项集，并可用在数据录入表单中生成下拉选项"
+
+#: intro_scheduling
+msgid ""
+"Manage scheduled tasks such as data mart exports, where you can set period "
+"types, aggregation level and frequency."
+msgstr "管理调度任务诸如数据集市导出任务，你可以指定周期类型，汇聚等级和频率"
+
+#: expression_is_empty
+msgid "Expression is empty"
+msgstr "表达式为空"
+
+#: dataelement_id_not_numeric
+msgid "Data element identifier must be a number"
+msgstr "数据元标识符必须是一数字\n"
+
+#: category_option_combo_id_not_numeric
+msgid "Category option combo identifier must be a number"
+msgstr "种类选项类别标识符必须是一组数值"
+
+#: data_element_does_not_exist
+msgid "Identifier does not reference a data element"
+msgstr "数据元不存在"
+
+#: category_option_combo_does_not_exist
+msgid "Identifier does not reference a category option combo"
+msgstr "分类选项bi"
+
+#: org_unit_group_does_not_exist
+msgid "Organisation unit group does not exist"
+msgstr ""
+
+#: expression_not_well_formed
+msgid "Expression is not well formed"
+msgstr "表达式不完全"
+
+#: invalid_indicator_denominators
+msgid "Invalid indicator denominators"
+msgstr "无效指标分母"
+
+#: invalid_indicator_numerators
+msgid "Invalid indicator numerators"
+msgstr "无效指标分子"
+
+#: invalid_validation_rule_left_side_expressions
+msgid "Invalid validation rule left side expressions"
+msgstr "左侧的验证规则表达式无效"
+
+#: invalid_validation_rule_right_side_expressions
+msgid "Invalid validation rule right side expressions"
+msgstr "右侧的验证规则表达式无效"
+
+#: category_structure
+msgid "Category structure"
+msgstr "分类结构"
+
+#: zero_storage_management
+msgid "Zero Value Storage"
+msgstr "零值存储"
+
+#: ignore_zero_data_values
+msgid "Ignore zero data values"
+msgstr "忽略零值"
+
+#: store_zero_data_values
+msgid "Store zero data values"
+msgstr "存储零数据值"
+
+#: all
+msgid "Select/ALL"
+msgstr "选择/全部"
+
+#: organisation_unit_merge
+msgid "Organisation Unit Merge"
+msgstr "组织机构合并"
+
+#: select_the_org_unit_to_eliminate
+msgid "Select the organisation unit to eliminate"
+msgstr "选择要排除的组织机构"
+
+#: not_selected
+msgid "Not selected"
+msgstr "不选"
+
+#: select_the_org_unit_to_keep
+msgid "Select the organisation unit to keep"
+msgstr "选择要保留的组织机构"
+
+#: create_sql_views
+msgid "Create SQL views"
+msgstr ""
+
+#: merge
+msgid "Merge"
+msgstr "合并"
+
+#: reset
+msgid "Reset"
+msgstr "重置"
+
+#: confirm
+msgid "Confirm"
+msgstr "确认"
+
+#: merging
+msgid "Merging"
+msgstr "正在合并"
+
+#: merging_done
+msgid "Merging done"
+msgstr "合并完成"
+
+#: eliminating
+msgid "Eliminating"
+msgstr "正在消除"
+
+#: elimination_done
+msgid "Elimination done"
+msgstr "消除完成"
+
+#: select_the_data_element_to_eliminate
+msgid "Select the data element to eliminate"
+msgstr "选择要排除的数据元"
+
+#: select_the_data_element_to_keep
+msgid "Select the data element to keep"
+msgstr "选择要保留的数据元"
+
+#: eliminate
+msgid "Eliminate"
+msgstr "消除"
+
+#: move_all
+msgid "Move All"
+msgstr "全部移动"
+
+#: drop_sql_views
+msgid "Drop SQL views"
+msgstr ""
+
+#: move_selected
+msgid "Move Selected"
+msgstr " 移动被选内容"
+
+#: duplicate_data_elimination
+msgid "Duplicate Data Elimination"
+msgstr "消除重复数据"
+
+#: select_different_org_units
+msgid "Please select two different organisation units"
+msgstr "请选择两个不同的组织机构"
+
+#: select_different_data_elements
+msgid "Please select two different data elements"
+msgstr "请选择两个不同的数据元"
+
+#: filter
+msgid "Filter"
+msgstr "筛选"
+
+#: data_archive
+msgid "Data Archive"
+msgstr "数据档案"
+
+#: there_are
+msgid "There are"
+msgstr "有"
+
+#: overlapping_values
+msgid "overlapping data values in the archive."
+msgstr "在归档中有重叠值"
+
+#: there_are_no_overlapping_values
+msgid "There are no overlapping data in the archive."
+msgstr "在归档中没有重叠的数据。"
+
+#: eliminate_oldest
+msgid "Eliminate the oldest duplicates"
+msgstr "消除最早的重复"
+
+#: eliminate_from_archive
+msgid "Eliminate duplicates from archive source"
+msgstr "从档案源消除重复数据"
+
+#: eliminate_from_regular
+msgid "Eliminate duplicates from regular source"
+msgstr "从定期源消除重复数据"
+
+#: start_date
+msgid "Start date"
+msgstr "开始日期"
+
+#: end_date
+msgid "End date"
+msgstr "截止日期"
+
+#: archive
+msgid "Archive"
+msgstr "存档"
+
+#: unarchive
+msgid "Unarchive"
+msgstr "不存档"
+
+#: archiving
+msgid "Archiving"
+msgstr "存档中"
+
+#: unarchiving
+msgid "Unarchiving"
+msgstr "取消归档执行中"
+
+#: done_number_of_values
+msgid "done. Number of archived values is now"
+msgstr "完成，存档的值数"
+
+#: prune
+msgid "Prune"
+msgstr "裁剪"
+
+#: pruning
+msgid "Pruning"
+msgstr "裁剪"
+
+#: pruning_done
+msgid "Pruning done"
+msgstr "裁剪完成"
+
+#: browser
+msgid "Data browser"
+msgstr "数据浏览器"
+
+#: drilldown_choose_period_type
+msgid "Please choose a period type"
+msgstr "请选择一个周期"
+
+#: drilldown_enddate_invalid
+msgid "Please enter a valid End date"
+msgstr "请输入一个有效的截止日期"
+
+#: drilldown_select_browse_mode
+msgid "Please select a browser mode"
+msgstr "请选择一个浏览器模式"
+
+#: drilldown_select_org_unit
+msgid "Please select an organization unit"
+msgstr "请选择一个组织机构"
+
+#: drilldown_orgunit
+msgid "Organisation unit"
+msgstr "组织机构"
+
+#: drilldown_orgunit_group
+msgid "Organisation unit group"
+msgstr "组织机构组"
+
+#: drilldown_data_element
+msgctxt "drilldown_data_element"
+msgid "Data element"
+msgstr "数据元"
+
+#: drilldown_data_element_group
+msgid "Data element group"
+msgstr "数据元组"
+
+#: drilldown_data_set
+msgid "Data set"
+msgstr "数据集"
+
+#: counts_of_aggregated_values
+msgid "Number of recorded values"
+msgstr "记录值统计"
+
+#: browse_data_at_this_level
+msgid "Browse data at this level only"
+msgstr "仅在这个等级浏览数据"
+
+#: view_data_at_descendant_levels
+msgid "Summary drill down"
+msgstr "摘要钻取"
+
+#: view_data_at_this_level
+msgid "View raw data at this level"
+msgstr "查看这一等级的原始数据"
+
+#: click_on_this_orgunit
+msgid "Click on this organisation unit"
+msgstr "点击这个组织机构"
+
+#: earliest
+msgid "earliest"
+msgstr "最早的"
+
+#: latest
+msgid "latest"
+msgstr "最新"
+
+#: available_dataset
+msgid "Available data sets"
+msgstr "可用的数据集"
+
+#: loading
+msgid "Loading"
+msgstr "加载中"
+
+#: level_must_be_int
+msgid "Level must be a number"
+msgstr "等级必须是一个整数"
+
+#: not_choose_dataset
+msgctxt "not_choose_dataset"
+msgid "Please select a data set"
+msgstr "请选择一个数据集"
+
+#: not_choose_organisation
+msgctxt "not_choose_organisation"
+msgid "Please select an organisation unit"
+msgstr "请选择一个组织机构"
+
+#: generate
+msgid "Generate"
+msgstr "生成"
+
+#: sql_view_management
+msgid "SQL View Management"
+msgstr "SQL视图管理"
+
+#: sql_view
+msgid "SQL View"
+msgstr "SQL视图"
+
+#: sql_type
+msgid "SQL type"
+msgstr ""
+
+#: sql_view_type
+msgid "SQL view"
+msgstr ""
+
+#: materialized_sql_view_type
+msgid "Materialized SQL view"
+msgstr ""
+
+#: sql_query_type
+msgid "SQL query"
+msgstr ""
+
+#: created_in_database
+msgid "created in database"
+msgstr ""
+
+#: materialized_in_database
+msgid "materialized in database"
+msgstr ""
+
+#: allows_for_variables
+msgid "allows for variables"
+msgstr ""
+
+#: sql_statement
+msgid "SQL Statement"
+msgstr "SQL语句"
+
+#: run
+msgid "Execute query"
+msgstr "执行查询"
+
+#: hide_warning
+msgid "Hide warning"
+msgstr "隐藏警告"
+
+#: add_new_sql_view
+msgid "Add new SQL view"
+msgstr "增加新的sql视图"
+
+#: update_sql_view
+msgid "Update SQL view"
+msgstr "更新SQL视图"
+
+#: name_is_null
+msgid "Name is not allowed to be null"
+msgstr "名称不允许为空"
+
+#: name_in_use
+msgid "Name is in use"
+msgstr "名称在使用"
+
+#: code_in_use
+msgid "Code is in use"
+msgstr ""
+
+#: language_country_in_use
+msgid "The language and country set is already in use"
+msgstr ""
+
+#: sqlquery_is_empty
+msgid "SQL statement cannot be null"
+msgstr "SQL语句不能为空"
+
+#: sqlquery_is_invalid
+msgid "This SQL statement is invalid"
+msgstr "这条SQL语句无效"
+
+#: sqlquery_invalid_note
+msgid "Note: Only SELECT query is allowed (without INTO keyword)"
+msgstr ""
+
+#: sql_view_instance_invalid
+msgid "This resource viewer is invalid or does not exist"
+msgstr "该资源查看器是无效的或者不存在。"
+
+#: sql_view_table_name
+msgid "SQL view table with name"
+msgstr "SQL视图表的名称"
+
+#: is_created
+msgid "is created"
+msgstr "已被创建"
+
+#: sql_view_table_is_not_created_yet
+msgid "Please execute query to create View table before viewing"
+msgstr "请在浏览之前执行查询操作创建视图表"
+
+#: data_elements_violating_exclusive_group_sets
+msgid "Data elements violating exclusive group sets"
+msgstr "数据元违反互斥的组集规则"
+
+#: indicators_violating_exclusive_group_sets
+msgid "Indicators violating exclusive group sets"
+msgstr "指标违反互斥性的组集"
+
+#: view_data_for
+msgid "View data for"
+msgstr "查看数据"
+
+#: failed_to_create_view_table_for
+msgid "Failed to create view table for"
+msgstr "未能创建视图表"
+
+#: show
+msgid "Show"
+msgstr "显示"
+
+#: sort
+msgid "Sort"
+msgstr "排序"
+
+#: lock
+msgid "Lock"
+msgstr "锁定"
+
+#: locked
+msgid "Locked"
+msgstr "已锁"
+
+#: unlock
+msgid "Unlock"
+msgstr "解锁"
+
+#: append
+msgid "Append"
+msgstr "附加"
+
+#: organisation_unit_groups
+msgid "Organisation unit groups"
+msgstr "组织机构组"
+
+#: users
+msgid "Users"
+msgstr "用户"
+
+#: remove_values_success
+msgid "Removed values successfully"
+msgstr "值删除成功"
+
+#: no_hits
+msgid "Recorded values"
+msgstr "记录的值"
+
+#: earliest_date_used_if_no_date_selected
+msgid "Earliest date will be used if no date is selected"
+msgstr "如果没有日期被选择，将使用最初的日期"
+
+#: latest_date_used_if_no_date_selected
+msgid "Latest date will be used if no date is selected"
+msgstr "如果没有日期被选择将选择最近的日期"
+
+#: generate_values_success
+msgid "Generated values successfully"
+msgstr "生成值成功"
+
+#: start
+msgid "Start"
+msgstr "开始"
+
+#: data_set_list
+msgid "Data Set list"
+msgstr "数据集列表"
+
+#: data_element_group_list
+msgid "Data Element Group list"
+msgstr "数据元组列表"
+
+#: orgunit_group_list
+msgid "Organisation Unit Group list"
+msgstr "组织机构组列表"
+
+#: patient_data_archive
+msgid "Person Data Archive"
+msgstr "受益人数据归档"
+
+#: intro__patient_data_archive
+msgid ""
+"Archive person data which is not currently relevant to your system in order "
+"to improve performance. Data can also be unarchived."
+msgstr "为了提高性能，归档目前与系统不相关联的受益人数据资料，数据也可以取消归档"
+
+#: pruning_interrupted
+msgid ""
+"You must choose the organisation unit has parent to prune. Please try again!"
+msgstr "你必须选择一个有上级的组织机构去修剪。请再试一次!"
+
+#: sqlquery_is_not_allowed
+msgid "Restricted user tables cannot be referenced in query"
+msgstr "在特殊表中不允许查询"
+
+#: sections_with_invalid_category_combinations
+msgid "Sections with invalid category combinations"
+msgstr "有无效的分类组合的段"
+
+#: confirm_delete_sqlview
+msgid "Do you want to delete this SQL view object ?"
+msgstr "你想要删除此sql的视图对象吗?"
+
+#: clear_data_mart
+msgid "Clear data mart"
+msgstr "清除数据集市"
+
+#: rebuild_data_mart_index
+msgid "Rebuild data mart index"
+msgstr "重建数据集市索引"
+
+#: allow_show_zero
+msgid "Display zeros"
+msgstr "显示零值"
+
+#: raw_data
+msgid "Raw data"
+msgstr "原始数据"
+
+#: get_report_as_xls
+msgid "Download as Excel"
+msgstr "下载XLS"
+
+#: get_report_as_csv
+msgid "Download as CSV"
+msgstr "下载CSV"
+
+#: get_report_as_pdf
+msgid "Download as PDF"
+msgstr "下载PDF"
+
+#: get_report_as_html
+msgid "Download as HTML"
+msgstr ""
+
+#: get_report_as_xml
+msgid "Download as XML"
+msgstr ""
+
+#: get_report_as_json
+msgid "Download as JSON"
+msgstr ""
+
+#: data_element_structure
+msgid "Data element structure"
+msgstr "数据元结构"
+
+#: constant
+msgid "Constant"
+msgstr "常数"
+
+#: constant_management
+msgid "Constant Management"
+msgstr "常数管理"
+
+#: create_new_constant
+msgid "Add Constant"
+msgstr "添加常数"
+
+#: edit_constant
+msgid "Edit Constant"
+msgstr "编辑常数"
+
+#: value_must_be_double
+msgid "Value must be an number"
+msgstr "值需数字"
+
+#: confirm_delete_constant
+msgid "Do you want to delete this constant?"
+msgstr "要删除常数？"
+
+#: object_type
+msgid "Object type"
+msgstr "对象类型"
+
+#: users_logged_in
+msgid "Users logged in"
+msgstr "已经登入的用户"
+
+#: today
+msgid "Today"
+msgstr "今天"
+
+#: yesterday
+msgid "Yesterday"
+msgstr "昨天"
+
+#: last_2_days
+msgid "Last 2 days"
+msgstr ""
+
+#: last_7_days
+msgid "Last 7 days"
+msgstr "最近7天"
+
+#: last_30_days
+msgid "Last 30 days"
+msgstr "最近30天"
+
+#: dynamic_attributes
+msgid "Dynamic Attributes"
+msgstr "动态属性"
+
+#: attribute
+msgid "Attribute"
+msgstr "属性"
+
+#: attribute_management
+msgid "Attribute Management"
+msgstr "属性管理"
+
+#: value_type
+msgid "Value Type"
+msgstr "值类型"
+
+#: mandatory
+msgid "Mandatory"
+msgstr "强制"
+
+#: indicator
+msgid "Indicator"
+msgstr "指标"
+
+#: indicator_group
+msgid "Indicator Group"
+msgstr "指标组"
+
+#: organisation_unit
+msgid "Organisation Unit"
+msgstr "组织机构"
+
+#: organisation_unit_group
+msgid "Organisation Unit Group"
+msgstr "组织机构组"
+
+#: organisation_unit_group_set
+msgid "Organisation Unit Group Set"
+msgstr ""
+
+#: user
+msgid "User"
+msgstr "用户"
+
+#: user_group
+msgid "User Group"
+msgstr "用户组"
+
+#: program
+msgid "Program"
+msgstr ""
+
+#: program_stage
+msgid "Program Stage"
+msgstr ""
+
+#: tracked_entity
+msgid "Tracked Entity"
+msgstr ""
+
+#: tracked_entity_attribute
+msgid "Tracked Entity Attribute"
+msgstr ""
+
+#: integer
+msgid "Integer"
+msgstr "整数"
+
+#: positive_integer
+msgid "Positive Integer"
+msgstr "正整数"
+
+#: negative_integer
+msgid "Negative Integer"
+msgstr "负整数"
+
+#: create_new_attribute
+msgid "Add Attribute"
+msgstr "添加新属性"
+
+#: edit_attribute
+msgid "Edit Attribute"
+msgstr "编辑属性"
+
+#: assigned_to
+msgid "Assigned to"
+msgstr "指派到"
+
+#: attribute_sort_order
+msgid "Attribute sort order"
+msgstr "属性排序"
+
+#: data_element_does_not_exist
+msgid "Data element does not exist"
+msgstr "数据元不存在"
+
+#: category_option_combo_does_not_exist
+msgid "Category option combo does not exist"
+msgstr "分类选项bi"
+
+#: scheduling_is
+msgid "Scheduling is"
+msgstr "调度是"
+
+#: scheduling
+msgid "Scheduling"
+msgstr "调度"
+
+#: scheduling_management
+msgid "Scheduling management"
+msgstr "调度管理"
+
+#: stop
+msgid "Stop"
+msgstr "停止"
+
+#: refresh
+msgid "Refresh"
+msgstr "刷新"
+
+#: aggregation_period_types
+msgid "Aggregation period types"
+msgstr "汇总周期类型"
+
+#: running
+msgid "active"
+msgstr "在用的"
+
+#: done
+msgid "done"
+msgstr "完成"
+
+#: resource_tables
+msgid "Resource tables"
+msgstr ""
+
+#: data_mart
+msgid "Data mart"
+msgstr ""
+
+#: analytics_tables
+msgid "Analytics tables"
+msgstr ""
+
+#: analytics_tables_task_strategy
+msgid "Analytics tables task strategy"
+msgstr ""
+
+#: last_2_years_daily
+msgid "Last 2 years daily"
+msgstr ""
+
+#: last_3_years_daily
+msgid "Last 3 years daily"
+msgstr ""
+
+#: all_daily
+msgid "All daily"
+msgstr ""
+
+#: all_every_15_min
+msgid "All every 15 minutes"
+msgstr ""
+
+#: resource_table_task_strategy
+msgid "Resource tables task strategy"
+msgstr ""
+
+#: data_mart_task_strategy
+msgid "Data mart task strategy"
+msgstr ""
+
+#: never
+msgid "Never"
+msgstr "从不"
+
+#: last_12_months_daily
+msgid "Last 12 months daily"
+msgstr "最近12个月日报"
+
+#: last_6_months_daily_6_to_12_months_weekly
+msgid "Last 6 months daily + 6 to 12 months weekly"
+msgstr "最近六个月每天+6到12个月每周"
+
+#: daily
+msgid "Daily"
+msgstr ""
+
+#: organisation_unit_group_set_aggregation_level
+msgid "Organisation unit group set aggregation level"
+msgstr "组织机构组集汇总级"
+
+#: aggregated_org_unit_data_values
+msgid "Aggregated org unit data values"
+msgstr "汇总的机构数据值"
+
+#: aggregated_org_unit_indicator_values
+msgid "Aggregated org unit indicator values"
+msgstr "汇总的机构指标值"
+
+#: execute_now
+msgid "Execute now"
+msgstr "现在执行"
+
+#: execute_tasks_confirmation
+msgid ""
+"Are you sure you want to execute all tasks now? Task processing might fully "
+"utilize your system resources and slow down other operations."
+msgstr "你确信要现在执行所有任务？任务处理可能使用你所有的系统资源并降低系统其它操作。"
+
+#: no_aggregation
+msgid "No aggregation"
+msgstr "无汇总"
+
+#: data_elements_in_data_set_not_in_form
+msgid "Data elements in data set but not in form or sections"
+msgstr "数据元在数据集，但不在表单或分段"
+
+#: option_set
+msgid "Option set"
+msgstr "选项集"
+
+#: option_set_management
+msgid "Option set management"
+msgstr "选项集管理"
+
+#: add_option_set
+msgid "Add option set"
+msgstr "添加选项集"
+
+#: options
+msgid "Options"
+msgstr "选项"
+
+#: option
+msgid "Option "
+msgstr "选项"
+
+#: add_option
+msgctxt "add_option"
+msgid "Add option"
+msgstr "添加选项"
+
+#: edit_option_set
+msgid "Edit option set"
+msgstr "编辑选项集"
+
+#: number_of_members
+msgid "The number of members"
+msgstr "成员数量"
+
+#: object_not_deleted_associated_by_objects
+msgid "Object not deleted because it is associated by objects of type"
+msgstr "对象不能删除，因为被关联到对象类型"
+
+#: lock_exception_management
+msgid "Lock Exception Management"
+msgstr "锁异常管理"
+
+#: lock_exception
+msgid "Lock Exception"
+msgstr "锁异常"
+
+#: confirm_delete_lock_exception
+msgid "Do you want to delete this lock exception?"
+msgstr "你确定要删除该锁异常？"
+
+#: confirm_delete_lock_exceptions
+msgid "Do you want to delete lock exceptions with this configuration?"
+msgstr "你要删除该配置的锁异常？"
+
+#: create_new_lock_exception
+msgid "Create new lock exception"
+msgstr "创建新锁异常"
+
+#: edit_lock_exception
+msgid "Edit lock exception"
+msgstr "编辑锁异常"
+
+#: lock_exception_batch_removal
+msgid "Lock exception batch removal"
+msgstr "锁异常批量删除"
+
+#: back_to_lock_exceptions
+msgid "Back to lock exception"
+msgstr "回到锁异常"
+
+#: batch_delete
+msgid "Batch deletion"
+msgstr "批量删除"
+
+#: deleting_lock_exceptions
+msgid "Deleting lock exceptions"
+msgstr "删除锁异常"
+
+#: error_at
+msgid "Error at"
+msgstr "错误在"
+
+#: not_started
+msgid "not started"
+msgstr "没有开始"
+
+#: aggregated_data_set_completeness
+msgid "Aggregated data set completeness"
+msgstr "汇总数据集完成"
+
+#: show_sql_view
+msgid "Show SQL view"
+msgstr "显示SQL视图"
+
+#: financial_yearly
+msgid "Financial Yearly"
+msgstr "财政年"
+
+#: update_option
+msgid "Update option"
+msgstr "更新选项"
+
+#: removing_min_max_values
+msgid "Removing min-max values"
+msgstr "移除最大最小值"
+
+#: generating_min_max_values
+msgid "Generating min-max values"
+msgstr "生成最大最小值"
+
+#: done
+msgctxt "done"
+msgid "Done"
+msgstr "完成"
+
+#: period_structure
+msgid "Period structure"
+msgstr ""
+
+#: data_element_category_option_combo
+msgid "Data element category option combinations"
+msgstr ""
+
+#: update_category_option_combos
+msgid "Update category option combinations"
+msgstr ""
+
+#: update_organisation_unit_paths
+msgid "Update organisation unit paths"
+msgstr ""
+
+#: date_period_structure
+msgid "Date period structure"
+msgstr ""
+
+#: locale
+msgid "Locale"
+msgstr ""
+
+#: locale_management
+msgid "Locale Management"
+msgstr ""
+
+#: create_new_locale
+msgid "Create New Locale"
+msgstr ""
+
+#: locale_details
+msgid "Locale Details"
+msgstr ""
+
+#: edit_locale
+msgid "Edit Locale"
+msgstr ""
+
+#: confirm_delete_locale
+msgid "Are you sure you want to delete this locale?"
+msgstr ""
+
+#: language
+msgid "Language"
+msgstr ""
+
+#: country
+msgid "Country"
+msgstr ""
+
+#: locale_language_no_translation
+msgid "Please select a language"
+msgstr ""
+
+#: locale_country_no_translation
+msgid "Please select a country"
+msgstr ""
+
+#: data_monitoring
+msgid "Data monitoring"
+msgstr ""
+
+#: data_monitoring_strategy
+msgid "Data monitoring strategy"
+msgstr ""
+
+#: last_hour
+msgid "Last hour"
+msgstr ""
+
+#: data_set
+msgid "Data Set"
+msgstr ""
+
+#: last_year_daily
+msgid "Last year daily"
+msgstr ""
+
+#: show_fewer_options
+msgid "Show fewer options"
+msgstr ""
+
+#: show_more_options
+msgid "Show more options"
+msgstr ""
+
+#: disabled
+msgid "Disabled"
+msgstr ""
+
+#: data_synchronization
+msgid "Data synchronization"
+msgstr ""
+
+#: data_synchronization_strategy
+msgid "Data synchronization strategy"
+msgstr ""
+
+#: enabled
+msgid "Enabled"
+msgstr ""
+
+#: last_success
+msgid "Last success"
+msgstr ""
+
+#: option_management
+msgid "Option management"
+msgstr ""
+
+#: add_option
+msgctxt "add_option"
+msgid "Add option"
+msgstr "添加选项"
+
+#: edit_option
+msgid "Edit option"
+msgstr ""
+
+#: sort_options
+msgid "Sort options"
+msgstr ""
+
+#: available_options
+msgid "Available options"
+msgstr ""
+
+#: please_select_a_dataset
+msgctxt "please_select_a_dataset"
+msgid "Please select a data set"
+msgstr ""
+
+#: please_select_an_organisation_unit
+msgctxt "please_select_an_organisation_unit"
+msgid "Please select an organisation unit"
+msgstr ""
+
+#: prev_year
+msgid "Prev year"
+msgstr ""
+
+#: next_year
+msgid "Next year"
+msgstr ""
+
+#: update_the_data_elements_and_option_combos_in_expression
+msgid "Update the data elements and option combos in expression"
+msgstr ""
+
+#: org_unit_group_does_not_exist
+msgid "Org unit group does not exist"
+msgstr ""
+
+#: duplicate_periods
+msgid "Duplicate periods"
+msgstr ""
+
+#: remove_expired_invitations
+msgid "Remove expired invitations"
+msgstr ""
+
+#: view_name
+msgid "View name"
+msgstr ""
+
+#: user_account_invitations
+msgid "User account invitations"
+msgstr ""
+
+#: pending_invitations
+msgid "Pending invitations"
+msgstr ""
+
+#: expired_invitations
+msgid "Expired invitations"
+msgstr ""
+
+#: category_option
+msgid "Category Option"
+msgstr ""
+
+#: category_option_group
+msgid "Category Option Group"
+msgstr ""

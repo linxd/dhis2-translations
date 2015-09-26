@@ -1,0 +1,626 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-light/src/main/resources/org/hisp/dhis/light/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-light/src/main/resources/org/hisp/dhis/light/i18n_module_zh.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: DHIS_2
+msgid "DHIS2"
+msgstr "区域卫生信息平台"
+
+#: menu
+msgid "Menu"
+msgstr "菜单"
+
+#: home
+msgid "Home"
+msgstr "主页"
+
+#: navigate_to
+msgid "Navigate to"
+msgstr "导航到"
+
+#: reports
+msgid "Reports"
+msgstr "报表"
+
+#: charts
+msgid "Charts"
+msgstr "图表"
+
+#: documents
+msgid "Documents"
+msgstr "文档"
+
+#: dashboard
+msgid "Dashboard"
+msgstr "状态面板"
+
+#: dashboard_reports
+msgid "Dashboard reports"
+msgstr "状态面板报表"
+
+#: dashboard_charts
+msgid "Dashboard charts"
+msgstr "图表面板"
+
+#: dashboard_documents
+msgid "Dashboard documents"
+msgstr "状态面板文档"
+
+#: data_entry
+msgid "Data Entry"
+msgstr "数据输入"
+
+#: namebased_data_entry
+msgid "Namebased Data Entry"
+msgstr "个人数据录入"
+
+#: data_entry_overview
+msgid "Data Entry Overview"
+msgstr "数据输入概览"
+
+#: logout
+msgid "Logout"
+msgstr "退出"
+
+#: desktop_version
+msgid "Desktop version"
+msgstr "桌面版"
+
+#: report_table_parameters
+msgid "Report parameters"
+msgstr "报表表参数"
+
+#: get_report
+msgid "Get report"
+msgstr "获取报表"
+
+#: reporting_period
+msgid "Report period"
+msgstr "报表周期"
+
+#: select_organisation_unit
+msgid "Please select organisation unit"
+msgstr "请选择一个组织机构"
+
+#: available_datasets
+msgid "Available data sets"
+msgstr "可用数据集"
+
+#: available_organisation_units
+msgid "Available organisation units"
+msgstr "可用组织机构"
+
+#: available_periods
+msgid "Available periods"
+msgstr "可用周期"
+
+#: settings
+msgid "Settings"
+msgstr "设置"
+
+#: language
+msgid "Interface Language"
+msgstr "界面语言"
+
+#: is_invalid_boolean
+msgid "is not a valid boolean"
+msgstr "不是有效的贝尔值"
+
+#: is_invalid_date
+msgid "is not a valid date (yyyy-MM-dd)"
+msgstr "不是有效的日期(yyyy-MM-dd)"
+
+#: is_invalid_number
+msgid "is not a valid number"
+msgstr "不是有效的数字"
+
+#: is_invalid_integer
+msgid "is not a valid integer"
+msgstr "不是有效的整数"
+
+#: is_invalid_positive_integer
+msgid "is not a valid positive integer"
+msgstr "不是有效的正整数"
+
+#: is_invalid_zero_or_positive_integer
+msgid "is not a valid zero or positive integer"
+msgstr ""
+
+#: is_invalid_negative_integer
+msgid "is not a valid negative integer"
+msgstr "不是有效的负整数"
+
+#: is_invalid_name
+msgid "is not a valid name"
+msgstr "无效的名称"
+
+#: is_invalid_name_length
+msgid "needs to be 7 or more characters"
+msgstr "需要7个或更多字符"
+
+#: is_mandatory
+msgid "is a mandatory field"
+msgstr "强制字段"
+
+#: is_duplicate
+msgid "person identifier number is duplicated"
+msgstr "病人标识号重复"
+
+#: warnings_and_errors
+msgid "Warnings and errors"
+msgstr "警告和错误"
+
+#: validation_rule_violation_warnings
+msgid "Validation Rule Violation Warnings"
+msgstr "违反验证规则警告"
+
+#: minmax_violation_warnings
+msgid "Min/Max Violation Warnings"
+msgstr "最大/最小无效警告"
+
+#: type_violation_errors
+msgid "Type Violation Errors"
+msgstr "类型错误"
+
+#: messages
+msgid "Messages"
+msgstr "消息"
+
+#: conversations
+msgid "Conversations"
+msgstr "对话"
+
+#: subject
+msgid "Subject"
+msgstr "主题"
+
+#: reply
+msgid "Reply"
+msgstr "回复"
+
+#: form_complete
+msgid "Form complete"
+msgstr "表单完成"
+
+#: completed
+msgid "Completed"
+msgstr "已完成"
+
+#: complete_programs
+msgid "Completed Programs"
+msgstr ""
+
+#: saved_section
+msgid "Saved Section"
+msgstr "保存的分区"
+
+#: sections
+msgid "Sections"
+msgstr "分区"
+
+#: current_activityplan
+msgid "Current Activity Plan"
+msgstr "当前活动计划"
+
+#: all_activityplan
+msgid "All Activity Plan"
+msgstr "所有活动计划"
+
+#: activity_type
+msgid "Activity Type"
+msgstr "活动类型"
+
+#: beneficiary_list
+msgid "Person List"
+msgstr "受益人列表"
+
+#: activity_list
+msgid "Activity List"
+msgstr "活动列表"
+
+#: successfully_saved
+msgid "Successfully Saved"
+msgstr "保存成功"
+
+#: select_option
+msgid "Select Option"
+msgstr "选择选项"
+
+#: option_set_searching_result
+msgid "Option Set Searching Result"
+msgstr ""
+
+#: search_for
+msgid "Searching for"
+msgstr ""
+
+#: id
+msgid "ID"
+msgstr "ID"
+
+#: gender
+msgid "Gender"
+msgstr "性别"
+
+#: date_of_birth
+msgid "Date of Birth"
+msgstr "生日（年-月-日）"
+
+#: blood_group
+msgid "Blood Group"
+msgstr "血型组"
+
+#: details_for
+msgid "Detail For"
+msgstr "细节"
+
+#: organisation_unit
+msgctxt "organisation_unit"
+msgid "Organisation Unit"
+msgstr "组织机构"
+
+#: beneficiary_registration
+msgid "Person Registration"
+msgstr "受益人登记"
+
+#: full_name
+msgid "Full Name"
+msgstr "全名"
+
+#: male
+msgid "Male"
+msgstr "男"
+
+#: female
+msgid "Female"
+msgstr "女性"
+
+#: transgender
+msgid "Transgender"
+msgstr "变性人"
+
+#: is_empty
+msgid "Empty Field"
+msgstr "空字段"
+
+#: beneficiary_enrollment
+msgid "Person Enrollment"
+msgstr "受益人登记"
+
+#: beneficiary_search
+msgid "Person Search"
+msgstr "受益人搜索"
+
+#: beneficiary_name
+msgid "Person Name"
+msgstr "受益人姓名"
+
+#: search_result_for
+msgid "Search Result for"
+msgstr "搜索结果"
+
+#: search
+msgid "Search"
+msgstr "搜索"
+
+#: enrolled_programs
+msgid "Enrolled Program(s)"
+msgstr "注册项目"
+
+#: other_programs
+msgid "Other Programs"
+msgstr "其它项目"
+
+#: available_programs
+msgid "Available Programs"
+msgstr "可用项目"
+
+#: no_enrolled_programs
+msgid "No Enrolled Programs"
+msgstr "没有注册的项目"
+
+#: no_completed_programs
+msgid "No Completed Programs"
+msgstr ""
+
+#: enroll
+msgid "Enroll"
+msgstr "注册"
+
+#: enrollment_date
+msgid "Enrollment Date"
+msgstr "注册日期"
+
+#: incident_date
+msgid "Incident Date"
+msgstr "事故日期"
+
+#: program_list
+msgid "Program List"
+msgstr "项目列表"
+
+#: single_event
+msgid "Single Event"
+msgstr "单个事件"
+
+#: single_event_list
+msgid "Single Event List"
+msgstr "单事件列表"
+
+#: back_single_event_form
+msgid "Back To Single Event Form"
+msgstr ""
+
+#: tracking
+msgid "Tracking"
+msgstr "跟踪"
+
+#: find_beneficiary
+msgid "Find Person"
+msgstr "查找受益人"
+
+#: activity_plan
+msgid "Activity Plan"
+msgstr "活动计划"
+
+#: search_by_name_or_id
+msgid "Search By Name or ID or Phone Number"
+msgstr "按名称和ID搜索"
+
+#: select_orgunit
+msgid "Select Organisation Unit"
+msgstr "选择组织机构"
+
+#: all_orgunit
+msgid "All Organisation Unit"
+msgstr "所有机构"
+
+#: tracking_menu
+msgid "Tracking Menu"
+msgstr "跟踪菜单"
+
+#: due_date
+msgid "Due Date"
+msgstr "到期日期"
+
+#: register_due_date_for
+msgid "Register Due Date For"
+msgstr "登记到期日期"
+
+#: schedule
+msgid "Schedule"
+msgstr "安排"
+
+#: schedule_visit
+msgid "Schedule Visit"
+msgstr "安排随访"
+
+#: do_not_schedule_visit
+msgid "Do Not Schedule Visit"
+msgstr "不安排随访"
+
+#: register
+msgid "Register"
+msgstr "登记"
+
+#: please_select
+msgid "Please Select"
+msgstr "请选择"
+
+#: enroll_in_program
+msgid "Enroll In Program"
+msgstr "注册进项目"
+
+#: relationships
+msgid "Relationships"
+msgstr "关系"
+
+#: no_relationships
+msgid "No Relationships"
+msgstr "无关系人"
+
+#: phone_number
+msgid "Phone Number"
+msgstr "电话号码"
+
+#: add_relationships
+msgid "Add Relationships"
+msgstr "添加关系"
+
+#: related_person_search
+msgid "Related Person Search"
+msgstr "相关人搜索"
+
+#: related_person_list
+msgid "Related Person List"
+msgstr "相关人列表"
+
+#: add_relationship
+msgid "Add Relationship"
+msgstr "添加关系"
+
+#: anonymous_menu
+msgid "Anonymous Menu"
+msgstr "匿名菜单"
+
+#: date_of_birth_type
+msgid "Date of Birth Type"
+msgstr "生日类型"
+
+#: approximated
+msgid "Approximated"
+msgstr "估计"
+
+#: declared
+msgid "Declared"
+msgstr "公开的"
+
+#: verified
+msgid "Verified"
+msgstr "已确认"
+
+#: anomynous_program_list
+msgid "Anonymous Program List"
+msgstr "匿名项目列表"
+
+#: orgunit
+msgctxt "orgunit"
+msgid "Organisation Unit"
+msgstr "机构"
+
+#: change
+msgid "Change"
+msgstr "改变"
+
+#: register_location_for
+msgid "Register Location For"
+msgstr "登记位置"
+
+#: agregate_reporting
+msgid "Aggregate Reporting"
+msgstr "汇总报表"
+
+#: find_or_add_person
+msgid "Find/Add Person"
+msgstr "查找或添加人员"
+
+#: search_by_phone_number
+msgid "Search By Phone Number"
+msgstr "按电话号码搜索"
+
+#: age_or_dob
+msgid "Age/Date of Birth"
+msgstr ""
+
+#: dead
+msgid "Dead"
+msgstr "死亡"
+
+#: status
+msgid "Status"
+msgstr "状态"
+
+#: visit_schedule
+msgid "Visit Schedule"
+msgstr "访问调度"
+
+#: visit_schedule_type
+msgid "Visit Schedule Type"
+msgstr "访问调度类型"
+
+#: or_register_new_person
+msgid "or register new person"
+msgstr ""
+
+#: invalid_phone_number
+msgid "invalid phone number"
+msgstr ""
+
+#: save_any_way
+msgid "Save anyway"
+msgstr ""
+
+#: form_in_complete
+msgid "Form InComplete"
+msgstr ""
+
+#: allow_provided_elsewhere
+msgid "Provided elsewhere"
+msgstr ""
+
+#: search_user
+msgid "Search user by name"
+msgstr ""
+
+#: last_recipients
+msgid "Last recipients"
+msgstr ""
+
+#: search_orgunit
+msgid "Search Organisation Unit"
+msgstr ""
+
+#: date_of_birth_hint
+msgid ""
+"*Approximated: enter age. Declared or Verified: enter date in format [yyyy-"
+"mm-dd]"
+msgstr ""
+
+#: select_attribute
+msgid "Select attribute"
+msgstr ""
+
+#: tracked_entity
+msgid "Tracked entity"
+msgstr ""
+
+#: write
+msgid "Write"
+msgstr ""
+
+#: write_message
+msgid "Write Message"
+msgstr ""
+
+#: write_feedback
+msgid "Write Feedback"
+msgstr "写反馈"
+
+#: write_new_message
+msgid "Write new message"
+msgstr ""
+
+#: write_to_users
+msgid "To User(s):"
+msgstr ""
+
+#: write_add_to_recipients
+msgid "Add to Recipient(s)"
+msgstr ""
+
+#: interpretations
+msgid "Interpretations"
+msgstr ""
+
+#: interpretation
+msgid "Interpretation"
+msgstr ""
+
+#: interpretations_support
+msgid "Only charts are currently supported for interpretations."
+msgstr ""
+
+#: interpretation_comment
+msgid "Comment(s):"
+msgstr ""
+
+#: interpretation_add_comment
+msgid "Add a comment"
+msgstr ""
+
+#: interpretation_post_comment
+msgid "Post comment"
+msgstr ""
+
+#: interpretation_share
+msgid "Share interpretation"
+msgstr ""
+
+#: share
+msgid "Share"
+msgstr ""
+
+#: chart
+msgid "Chart"
+msgstr ""

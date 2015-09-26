@@ -1,0 +1,3997 @@
+#. #-- Application name -----------------------------------------------------------#
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-services/dhis-service-core/src/main/resources/i18n_global.properties, /home/jason/development/dhis2/dhis-2/dhis-services/dhis-service-core/src/main/resources/i18n_global_id.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: district_health_information_software
+msgid "District Health Information Software 2"
+msgstr "District Health Information Software 2"
+
+#: dhis2
+msgid "DHIS 2"
+msgstr "DHIS 2"
+
+#. #-- dhis-wp --------------------------------------------------------------------#
+#: no_page_specified
+msgid "No page specified"
+msgstr "Halaman tidak ditemukan"
+
+#: an_exception_occured
+msgid "An exception occurred"
+msgstr "Pengecualian terjadi"
+
+#: exception_explanation_text
+msgid ""
+"Sorry! The system failed to execute the operation. Usually, no data is lost "
+"and you can continue working by going back to the previous page."
+msgstr ""
+"Maaf! Sistem gagal mengeksekusi operasi. Biasanya, tidak ada data yang "
+"hilang sehingga Anda dapat melanjutkan pekerjaan dengan cara kembali ke "
+"halaman sebelumnya."
+
+#: exception
+msgid "Exception"
+msgstr "Pengecualian"
+
+#: caused_by
+msgid "Caused by"
+msgstr "Disebabkan oleh"
+
+#: unknown_source
+msgid "Unknown source"
+msgstr "Sumber tidak kenal"
+
+#: logged_in
+msgid "Logged in"
+msgstr "Logged in"
+
+#: not_logged_in
+msgid "Not logged in"
+msgstr "Tidak dapat log in"
+
+#: log_out
+msgid "Log out"
+msgstr "Log out"
+
+#: about
+msgid "About"
+msgstr "Tentang"
+
+#: access_denied
+msgid "Access denied"
+msgstr "Akses ditolak"
+
+#: access_denied_message
+msgid "You don't have sufficient authority to view this page"
+msgstr "Anda tidak diizinkan untuk melihat halaman ini"
+
+#: create_access_denied_message
+msgid "You don't have create access to object"
+msgstr "Anda belum membuatkan akses untuk obyek ini"
+
+#: read_access_denied_message
+msgid "You don't have read access to object"
+msgstr "Anda tidak memiliki akses untuk membaca obyek ini"
+
+#: update_access_denied_message
+msgid "You don't have update access to object"
+msgstr "Anda tidak memiliki akses untuk mengupdate obyek ini"
+
+#: delete_access_denied_message
+msgid "You don't have delete access to object"
+msgstr "Anda tidak memiliki akses untuk menghapus obyek ini"
+
+#: go_back
+msgid "Go back"
+msgstr "Kembali"
+
+#: main_menu
+msgid "Main menu"
+msgstr "Menu utama"
+
+#: maintenance
+msgid "Maintenance"
+msgstr "Maintenance"
+
+#: services
+msgid "Services"
+msgstr "Services"
+
+#. #-- dhis-ouwt ------------------------------------------------------------------#
+#: org_unit_tree
+msgid "Organisation Unit Tree"
+msgstr "Tingkatan Unit Organisasi"
+
+#: specify_organisationunit
+msgid "Please specify an organisation unit"
+msgstr "Silakan tentukan unit organisasi"
+
+#: cannot_clear_selected_orgunits
+msgid "Cannot clear the selected organisation units"
+msgstr "Tidak dapat menghapus unit organisasi yang dipilih"
+
+#: locate_organisation_unit_by_name
+msgid "Locate organisation unit by name"
+msgstr "Tempatkan unit organisasi berdasarkan nama"
+
+#: error_occurred
+msgid "An error has occurred."
+msgstr "Terjadi kesalahan"
+
+#: select_organisationunit
+msgid "You must select an OrganisationUnit from the tree."
+msgstr "Anda harus memilih Organisasi Unit dari pohon"
+
+#. #-- Modules --------------------------------------------------------------------#
+#: dhis-web-maintenance-datadictionary
+msgid "Data Elements / Indicators"
+msgstr "elemen data dan indikator"
+
+#: dhis-web-maintenance-dataset
+msgid "Data Sets"
+msgstr "data set"
+
+#: dhis-web-maintenance-organisationunit
+msgid "Organisation Units"
+msgstr "unit unit organisasi"
+
+#: dhis-web-maintenance-user
+msgctxt "dhis-web-maintenance-user"
+msgid "Users"
+msgstr "pengguna"
+
+#: dhis-web-maintenance-dataadmin
+msgid "Data Administration"
+msgstr "administrasi data"
+
+#: dhis-web-maintenance-settings
+msgctxt "dhis-web-maintenance-settings"
+msgid "Settings"
+msgstr "pengaturan"
+
+#: dhis-web-maintenance-program
+msgid "Programs / Attributes"
+msgstr ""
+
+#: dhis-web-maintenance-mobile
+msgid "Mobile Configuration"
+msgstr "konfigurasi mobil"
+
+#: dhis-web-maintenance-appmanager
+msgid "App Management"
+msgstr ""
+
+#: dhis-web-caseentry
+msgid "Individual Records"
+msgstr "catatan individual"
+
+#: dhis-web-dataentry
+msgid "Data Entry"
+msgstr "entri data"
+
+#: dhis-web-importexport
+msgid "Import-Export"
+msgstr "impor-ekspor"
+
+#: dhis-web-validationrule
+msgid "Data Quality"
+msgstr "kualitas data"
+
+#: dhis-web-mapping
+msgid "GIS"
+msgstr "SIG"
+
+#: dhis-web-event-capture
+msgid "Event Capture"
+msgstr ""
+
+#: dhis-web-event-reports
+msgid "Event Reports"
+msgstr ""
+
+#: dhis-web-event-visualizer
+msgid "Event Visualizer"
+msgstr ""
+
+#: dhis-web-tracker-capture
+msgid "Tracker Capture"
+msgstr ""
+
+#: dhis-web-cache-cleaner
+msgid "Browser Cache Cleaner"
+msgstr ""
+
+#: dhis-web-reporting
+msgid "Reports"
+msgstr "Laporan-laporan"
+
+#: dhis-web-light
+msgid "Mobile (Light)"
+msgstr "Mobil (ringan)"
+
+#: dhis-web-mobile
+msgid "Mobile (Smartphone)"
+msgstr "mobil (telepon pintar)"
+
+#: dhis-web-dashboard-integration
+msgctxt "dhis-web-dashboard-integration"
+msgid "Dashboard"
+msgstr "dashboard"
+
+#: dhis-web-visualizer
+msgid "Data Visualizer"
+msgstr "data visualizer"
+
+#: dhis-web-pivot
+msgid "Pivot Table"
+msgstr "tabel pivot"
+
+#: dhis-web-dashboard
+msgid "Data Analyser"
+msgstr "analisa data"
+
+#: dhis-web-integration
+msgid "NHRM Integration"
+msgstr "Integrasi NHRM"
+
+#: dhis-web-reports
+msgid "NRHM Reports"
+msgstr "Laporan-laporan NRHM"
+
+#: dhis-web-dataentry-national
+msgid "Linelisting Data Entry"
+msgstr "entri data daftar baris "
+
+#: dhis-web-validationrule-local-in
+msgid "Validation Analysis"
+msgstr "analisis validasi"
+
+#: dhis-web-survey
+msgid "Survey - Target"
+msgstr "survei - target"
+
+#: dhis-web-spreadsheet-reporting
+msgid "Spreadsheet Reports"
+msgstr "laporan spreadsheet"
+
+#: dhis-web-sms
+msgid "SMS"
+msgstr "SMS"
+
+#: dhis-web-maintenance-in
+msgid "Configuration"
+msgstr "Konfigurasi"
+
+#: dhis-web-linelisting-mp
+msgid "Manpower"
+msgstr "Tenaga manusia"
+
+#: dhis-web-maintenance-rbf
+msgid "Maintenance RBF"
+msgstr ""
+
+#. #-- Intro modules -------------------------------------------------------------#
+#: intro_dhis-web-maintenance-datadictionary
+msgid "Maintain data elements, indicators, categories and groups."
+msgstr ""
+"mempertahankan elemen elemen data, indikator-indikator, kamus-kamus data, "
+"kategori-kategori dan grup-grup"
+
+#: intro_dhis-web-maintenance-dataset
+msgid ""
+"Maintain data sets, custom forms, sections and compulsory data elements."
+msgstr ""
+"mempertahankan set-set data, format-format kustom, bagian-bagian dan data-"
+"data elemen yang wajib"
+
+#: intro_dhis-web-maintenance-organisationunit
+msgid "Maintain organisation units and its hierarchy, groups and group sets."
+msgstr ""
+"mempertahankan unit-unit organisasi dan hirarkinya, grup-grup dan grup set-"
+"grup set"
+
+#: intro_dhis-web-maintenance-user
+msgid ""
+"Maintain users in terms of authorities and passwords, user roles and groups."
+msgstr ""
+"mempertahankan pengguna-pengguna dan rangka kewenangan-kewenangan dan "
+"password-password, peran pengguna dan grup-grup"
+
+#: intro_dhis-web-maintenance-dataadmin
+msgid ""
+"Maintain resource tables, check data integrity, see statistics and more."
+msgstr ""
+"mempertahankan tabel sumber, cek integritas data, melihat statistik dan yang "
+"lainnya"
+
+#: intro_dhis-web-maintenance-settings
+msgid ""
+"Maintain user and system settings related to appearance, notifications and "
+"more."
+msgstr ""
+"mempertahankan pengguna dan seting sistem berhubungan dengan tampilan, "
+"pemberitahuan dan yang lainnya"
+
+#: intro_dhis-web-maintenance-program
+msgid ""
+"Maintain tracked entities and programs including attributes and identifiers."
+msgstr ""
+
+#: intro_dhis-web-maintenance-mobile
+msgid ""
+"Maintain data sets plus settings for mobile reporting and SMS configuration."
+msgstr ""
+"mempertahankan set data-set data tambah seting untuk laporan mobil dan "
+"konfigurasi sms"
+
+#: intro_dhis-web-maintenance-appmanager
+msgid ""
+"Access and upload apps, which are extensions to the standard user interface."
+msgstr ""
+
+#: intro_dhis-web-caseentry
+msgid ""
+"Register beneficiaries, enter data for encounters and events and view "
+"reports."
+msgstr ""
+"register penerima keuntungan-penerima keuntungan, memasukkan data untuk  "
+"menghadapi dan even-even dan melihat laporan"
+
+#: intro_dhis-web-dataentry
+msgid ""
+"Enter data for forms either on-line or off-line, validate data and view data "
+"trends."
+msgstr ""
+"memasukkan data untuk format-format baik itu online ataupun ofline, validasi "
+"data dan melihat tren data"
+
+#: intro_dhis-web-importexport
+msgid ""
+"Import and export data from DHIS or third-party systems on various formats."
+msgstr ""
+"impor dan ekspor data dari DHIS atau sistem pihak ketiga menggunakan "
+"internal dan format-format yang umum"
+
+#: intro_dhis-web-validationrule
+msgid ""
+"Validate and assess data quality using validation rules or statistical "
+"methods."
+msgstr ""
+"memvalidasi dan mengakses kualitas data menggunakan aturan-aturan validasi "
+"atau metode-metode statistik"
+
+#: intro_dhis-web-mapping
+msgid ""
+"Visualize data on maps using polygons, points, symbols in multiple layers."
+msgstr ""
+"visualisasi data dalam peta-peta menggunakan polygon-polygon, poin-poin, "
+"simbol-simbol dengan legenda yang dapat dikustomisasi"
+
+#: intro_dhis-web-reporting
+msgid ""
+"Analyse data and reporting rates using predefined and dynamic report tools."
+msgstr ""
+"analisa data menggunakan peralatan laporan standar dan dinamis dan melihat "
+"rata-rata laporan"
+
+#: intro_dhis-web-light
+msgid "Access a mobile device optimized version of data entry and analysis."
+msgstr ""
+"mengakses sebuah versi data entri, pengaturan-pengaturan, pesan-pesan dan "
+"analisa dari peralatan mobile yang dioptimisasi,"
+
+#: intro_dhis-web-mobile
+msgid ""
+"Access a smartphone optimized version of data entry, settings, messages."
+msgstr ""
+"mengakses versi yang sudah dioptimisasi dari data entri, pengaturan-"
+"pengaturan, pesan-pesan dari sebuah ponsel pintar"
+
+#: intro_dhis-web-dashboard-integration
+msgid ""
+"Get an overview of favorite charts, reports and maps and view or write "
+"messages."
+msgstr ""
+"mendapatkan ikhtisar dari grafik favorit, laporan-laporan dan peta-peta dan "
+"melihat atau menulis pesan"
+
+#: intro_dhis-web-visualizer
+msgid "Create dynamic data visualizations for data elements and indicators."
+msgstr ""
+"Menghasilkan visualisasi data dinamis sebagai grafik-grafik atau tabel-tabel "
+"untuk elemen-elemen data dan indikator-indikator"
+
+#: intro_dhis-web-pivot
+msgid "Generate flexible pivot tables with data aggregated in all dimensions."
+msgstr ""
+"menghasilkan tabel-tabel pivot yang fleksibel dengan data yang diatur dan "
+"teragregasi dalam semua dimensi"
+
+#: intro_dhis-web-sms
+msgid "Send SMS reminders and notifications manually or as scheduled tasks."
+msgstr ""
+"mengirimkan peringatan dan notifikasi-notifikasi sebagai sms pada ponsel, "
+"secara manual atau terjadwal langsung"
+
+#: intro_dhis-web-spreadsheet-reporting
+msgid "Generate and import data based on predefined Excel templates."
+msgstr ""
+"menghasilkan dan impor data ke/dari laporan berdasarkan file-file template "
+"eksel yang standar"
+
+#: intro_dhis-web-event-reports
+msgid "Query for events and create aggregated, dimensional analysis of events."
+msgstr ""
+
+#: intro_dhis-web-event-capture
+msgid "Capture information about single events."
+msgstr ""
+
+#: intro_dhis-web-tracker-capture
+msgid "Capture information about trackable entities."
+msgstr ""
+
+#. #-- Intro functions -------------------------------------------------------------#
+#: intro_help_center
+msgid ""
+"Get help on a various of topics related to setting up and using the DHIS 2."
+msgstr ""
+"Mendapatkan bantuan dalam berbagai topik-topik berkaitan dengan mengatur dan "
+"menggunakan DHIS 2"
+
+#: intro_supportive_software
+msgid ""
+"Get an overview of useful software like report designers mobile clients."
+msgstr ""
+"Mendapatkan gambaran mengenai kegunaan software seperti desain laporan, "
+"myDatamart dan klien mobil"
+
+#: intro_system_overview
+msgid "Visit the system overview page to get a complete list of modules."
+msgstr ""
+"mengunjungi halaman gambaran sistem untuk mendapatkan sebuah daftar lengkap "
+"dari modul dan tujuannya"
+
+#: intro_web_api
+msgid ""
+"Go to the Web API entry point, which is an interface for other computer "
+"systems."
+msgstr ""
+"Pergi ke Web API poin entri, dimana sebagai interface untuk sistem komputer "
+"yang lain"
+
+#: intro_about_dhis2
+msgid "Get information about the system version and runtime environment."
+msgstr ""
+"Mengunjungi halaman informasi untuk mendapatkan informasi mengenai versi "
+"sistem dan runtime environment"
+
+#: intro_settings
+msgid ""
+"Set your personal preferences for interface language, style and email "
+"settings."
+msgstr ""
+"Mengatur preferensi personal anda untuk interface bahasa, gaya dan "
+"pengaturan email"
+
+#: intro_profile
+msgid ""
+"Set up your personal profile with information like job title and interests."
+msgstr ""
+"Mengatur profil anda sendiri dengan informasi mengenai diri anda seperti "
+"pekerjaan, gelar dan minat"
+
+#: intro_account
+msgid "Manage your user account including name, password, email and mobile."
+msgstr ""
+"mengatur akun user anda termasuk nama, katakunci, surat elektronik dan nomor "
+"ponsel"
+
+#: intro_log_out
+msgid ""
+"Go here to log out of the system and deny others to access your user account."
+msgstr ""
+"mengunjungi di sini untuk keluar dari sistem dan menolak orang lain untuk "
+"mengakses akun pengguna anda"
+
+#. #-- Common ---------------------------------------------------------------------#
+#: offline
+msgid "Offline"
+msgstr "offline"
+
+#: online
+msgid "Online"
+msgstr "online"
+
+#: next
+msgid "Next"
+msgstr ""
+
+#: previous
+msgid "Previous"
+msgstr ""
+
+#: online_notification
+msgid "You are online"
+msgstr "anda online"
+
+#: offline_notification
+msgid "You are offline, data will be stored locally"
+msgstr "anda offline, data akan disimpan lokal"
+
+#: ajax_login_failed
+msgctxt "ajax_login_failed"
+msgid "Login failed, check your username and password and try again"
+msgstr ""
+
+#: need_to_sync_notification
+msgid "There is data stored locally, please upload to server"
+msgstr "Terdapat data tersimpan di tempat lokal, mohon unggah ke server"
+
+#: uploading_data_notification
+msgid "Uploading locally stored data to the server"
+msgstr ""
+
+#: sync_now
+msgid "Upload"
+msgstr "unggah"
+
+#: discard
+msgid "Discard"
+msgstr ""
+
+#: remove_local_data
+msgid "Are you sure you want to remove the locally stored data?"
+msgstr ""
+
+#: sync_success
+msgid "Upload to server was successful"
+msgstr "unggahan anda ke server telah berhasil"
+
+#: sync_failed
+msgid "Upload to server failed, please try again later"
+msgstr "unggahan ke server gagal, tolong coba lagi nanti"
+
+#: year
+msgid "Year"
+msgstr "tahun"
+
+#: details
+msgctxt "details"
+msgid "Details"
+msgstr "detail-detail"
+
+#: show_details
+msgid "Show details"
+msgstr "tunjukkan detail-detail"
+
+#: hide_details
+msgid "Hide details"
+msgstr "Sembunyikan detail-detail"
+
+#: change_password
+msgid "Change password"
+msgstr "Ubah kata kunci"
+
+#: expired_password
+msgid "Your password has expired, please change"
+msgstr ""
+
+#: date_selector
+msgid "Choose a date"
+msgstr "Pilih tanggal"
+
+#: hide_menu
+msgid "Hide menu"
+msgstr "Sembunyikan menu"
+
+#: extend_menu
+msgid "Extend menu"
+msgstr ""
+
+#: show_menu
+msgid "Show menu"
+msgstr "Tunjukkan menu"
+
+#: show_main_menu
+msgid "Show main menu"
+msgstr "Tunjukkan menu utama"
+
+#: view_home_page
+msgid "View home page"
+msgstr "Lihat beranda/ halaman muka"
+
+#: view_intepretations
+msgid "View interpretations"
+msgstr "Lihat interpretasi"
+
+#: organisation_unit
+msgid "Organisation unit"
+msgstr "unit organisasi"
+
+#: dataelement
+msgid "Data element"
+msgstr "elemen data"
+
+#: start_date
+msgid "Start date"
+msgstr "tanggal mulai"
+
+#: end_date
+msgid "End date"
+msgstr "tanggal berakhir"
+
+#: entry
+msgid "Entry"
+msgstr "memasukkan/entri"
+
+#: comment
+msgctxt "comment"
+msgid "Comment"
+msgstr "Komentar"
+
+#: operations
+msgid "Operations"
+msgstr "operasi-operasi"
+
+#: add_new
+msgid "Add new"
+msgstr "menambah baru"
+
+#: rename
+msgid "Rename"
+msgstr "mengubah"
+
+#: move
+msgid "Move"
+msgstr "pindah"
+
+#: remove
+msgid "Remove"
+msgstr "menghilangkan"
+
+#: required
+msgid "Required"
+msgstr "diperlukan"
+
+#: all
+msgid "All"
+msgstr "semua"
+
+#: save
+msgctxt "save"
+msgid "Save"
+msgstr "simpan"
+
+#: new
+msgid "New"
+msgstr "baru"
+
+#: back
+msgid "Back"
+msgstr "kembali"
+
+#: ok
+msgid "OK"
+msgstr "ok"
+
+#: cancel
+msgctxt "cancel"
+msgid "Cancel"
+msgstr "batal"
+
+#: clone
+msgid "Clone"
+msgstr ""
+
+#: add
+msgctxt "add"
+msgid "Add"
+msgstr "tambah"
+
+#: edit
+msgid "Edit"
+msgstr "merubah"
+
+#: reply
+msgid "Reply"
+msgstr "balas"
+
+#: update
+msgid "Update"
+msgstr "perbarui"
+
+#: delete
+msgid "Delete"
+msgstr "hapus"
+
+#: deleting
+msgid "Deleting"
+msgstr ""
+
+#: close
+msgid "Close"
+msgstr "tutup"
+
+#: gender_male
+msgctxt "gender_male"
+msgid "Male"
+msgstr "laki-laki"
+
+#: gender_female
+msgctxt "gender_female"
+msgid "Female"
+msgstr "perempuan"
+
+#: gender_other
+msgctxt "gender_other"
+msgid "Other"
+msgstr "lain"
+
+#: password
+msgctxt "password"
+msgid "Password"
+msgstr "kata kunci"
+
+#: confirm_password
+msgid "Confirm password"
+msgstr "pastikan kata kunci"
+
+#: mobile_phone
+msgid "Mobile phone"
+msgstr "ponsel"
+
+#: create_new_account
+msgid "Create a new account"
+msgstr "cipktakan sebuah akun baru"
+
+#: prove_you_are_not_a_robot
+msgid "Prove you are not a robot"
+msgstr "buktikan anda bukan robot"
+
+#: create
+msgid "Create"
+msgstr "menciptakan"
+
+#: cant_read_the_words_try_another_one
+msgid "Can't read the words? Try another one"
+msgstr "tidak dapat menciptakan kata? Coba yang lain"
+
+#: restore
+msgid "Restore"
+msgstr "mengembalikan"
+
+#: new_password
+msgctxt "new_password"
+msgid "New password"
+msgstr "Password lama"
+
+#: restore_account
+msgid "Restore account"
+msgstr "mengembalikan akun"
+
+#: account_recovery
+msgid "Account recovery"
+msgstr "pemulihan akun"
+
+#: recover
+msgid "Recover"
+msgstr "pemulihan"
+
+#: code_from_email
+msgid "Code from email"
+msgstr "kode dari surel"
+
+#: password_hint
+msgid "Minimum 8 characters, 1 upper-case and 1 digit"
+msgstr "minimum 8 karakter, 1 huruf besar dan 1 angka"
+
+#: optional
+msgid "Optional"
+msgstr "opsi"
+
+#: object_not_deleted_associated_by_objects
+msgid "Object was not deleted because it is used by other objects:"
+msgstr "obyek tidak dihapus karena sedang digunakan obyek lain"
+
+#: id
+msgid "ID"
+msgstr ""
+
+#: name_in_use
+msgid "The name is already in use. Please choose a different name"
+msgstr ""
+
+#: code_in_use
+msgid "The code is already in use. Please choose a different code"
+msgstr ""
+
+#: short_name_in_use
+msgid "The short name is already in use. Please choose a different short name"
+msgstr ""
+
+#: unsupported_browser
+msgid ""
+"Please upgrade your browser. Internet Explorer version 8 and earlier is not "
+"supported."
+msgstr ""
+
+#: data_element_or_type_null_or_empty
+msgid "Data element or type not defined"
+msgstr ""
+
+#: value_length_greater_than_max_length
+msgid "Value is greater than max length"
+msgstr ""
+
+#: comment_length_greater_than_max_length
+msgctxt "comment_length_greater_than_max_length"
+msgid "Comment is greater than max length"
+msgstr ""
+
+#: value_not_numeric
+msgid "Value is not numeric"
+msgstr ""
+
+#: value_not_unit_interval
+msgid "Value is not a unit interval"
+msgstr ""
+
+#: value_not_percentage
+msgid "Value is not a percentage"
+msgstr ""
+
+#: value_not_integer
+msgid "Value is not an integer"
+msgstr ""
+
+#: value_not_positive_integer
+msgid "Value is not a positive integer"
+msgstr ""
+
+#: value_not_negative_integer
+msgid "Value is not a negative integer"
+msgstr ""
+
+#: value_not_bool
+msgid "Value is not a boolean"
+msgstr ""
+
+#: value_not_true_only
+msgid "Value is not true"
+msgstr ""
+
+#: value_not_valid_date
+msgid "Value is not a valid date"
+msgstr ""
+
+#: email_not_configured_for_system
+msgid "Email is not configured for the system"
+msgstr ""
+
+#: no_user_credentials
+msgid "No user credentials"
+msgstr ""
+
+#: user_does_not_have_valid_email
+msgid "User does not have a valid email"
+msgstr ""
+
+#: user_has_critical_authorities
+msgid "User has critical authorities"
+msgstr ""
+
+#: default
+msgid "Default"
+msgstr ""
+
+#: left_brackets
+msgid "Left brackets"
+msgstr ""
+
+#: right_brackets
+msgid "Right brackets"
+msgstr ""
+
+#: multiply
+msgid "Multiply"
+msgstr ""
+
+#: divide
+msgid "Divide"
+msgstr ""
+
+#: plus
+msgid "Plus"
+msgstr ""
+
+#: minus
+msgid "Minus"
+msgstr ""
+
+#: no_of_days
+msgid "No of days"
+msgstr ""
+
+#: variables
+msgid "Variables"
+msgstr ""
+
+#: open
+msgid "Open"
+msgstr ""
+
+#: normal
+msgid "Normal"
+msgstr ""
+
+#. #-- Relative periods -----------------------------------------------------------#
+#: LAST_MONTH
+msgid "Last month"
+msgstr ""
+
+#: LAST_BIMONTH
+msgid "Last bi-month"
+msgstr ""
+
+#: LAST_QUARTER
+msgid "Last quarter"
+msgstr ""
+
+#: LAST_SIX_MONTH
+msgid "Last six-month"
+msgstr ""
+
+#: MONTHS_THIS_YEAR
+msgid "Months this year"
+msgstr ""
+
+#: QUARTERS_THIS_YEAR
+msgid "Quarters this year"
+msgstr ""
+
+#: THIS_YEAR
+msgid "This year"
+msgstr ""
+
+#: MONTHS_LAST_YEAR
+msgid "Months last year"
+msgstr ""
+
+#: QUARTERS_LAST_YEAR
+msgid "Quarters last year"
+msgstr ""
+
+#: LAST_YEAR
+msgid "Last year"
+msgstr ""
+
+#: LAST_5_YEARS
+msgid "Last 5 years"
+msgstr ""
+
+#: LAST_12_MONTHS
+msgid "Last 12 months"
+msgstr ""
+
+#: LAST_6_MONTHS
+msgid "Last 6 months"
+msgstr ""
+
+#: LAST_3_MONTHS
+msgid "Last 3 months"
+msgstr ""
+
+#: LAST_6_BIMONTHS
+msgid "Last 6 bi-months"
+msgstr ""
+
+#: LAST_4_QUARTERS
+msgid "Last 4 quarters"
+msgstr ""
+
+#: LAST_2_SIXMONTHS
+msgid "Last 2 six-months"
+msgstr ""
+
+#: THIS_FINANCIAL_YEAR
+msgid "This financial year"
+msgstr ""
+
+#: LAST_FINANCIAL_YEAR
+msgid "Last financial year"
+msgstr ""
+
+#: LAST_5_FINANCIAL_YEARS
+msgid "Last 5 financial years"
+msgstr ""
+
+#: LAST_WEEK
+msgid "Last week"
+msgstr ""
+
+#: LAST_4_WEEKS
+msgid "Last 4 weeks"
+msgstr ""
+
+#: LAST_12_WEEKS
+msgid "Last 12 weeks"
+msgstr ""
+
+#: LAST_52_WEEKS
+msgid "Last 52 weeks"
+msgstr ""
+
+#. #-- PeriodTypes ----------------------------------------------------------------#
+#: Daily
+msgid "Daily"
+msgstr "harian"
+
+#: Weekly
+msgid "Weekly"
+msgstr "mingguan"
+
+#: Monthly
+msgid "Monthly"
+msgstr "bulanan"
+
+#: BiMonthly
+msgid "Bimonthly"
+msgstr "dua bulanan"
+
+#: Quarterly
+msgid "Quarterly"
+msgstr "empat bulanan"
+
+#: SixMonthly
+msgid "Six-monthly"
+msgstr "enam bulanan"
+
+#: SixMonthlyApril
+msgid "Six-monthly April"
+msgstr ""
+
+#: Yearly
+msgid "Yearly"
+msgstr "tahunan"
+
+#: TwoYearly
+msgid "Two-yearly"
+msgstr "dua tahunan"
+
+#: OnChange
+msgid "On-change"
+msgstr "pada saat berubah"
+
+#: Survey
+msgid "Survey"
+msgstr "survei"
+
+#: Relative
+msgid "Relative"
+msgstr "relatif"
+
+#: FinancialApril
+msgid "Financial-April"
+msgstr "keuangan-april"
+
+#: FinancialJuly
+msgid "Financial-July"
+msgstr "keuangan-juli"
+
+#: FinancialOct
+msgid "Financial-Oct"
+msgstr "keuangan-oktober"
+
+#. #-- Period formats - Should not be translated ----------------------------------#
+#: format.Daily.startDate
+msgctxt "format.Daily.startDate"
+"format.Daily.startDate"
+"format.Daily.startDate"
+msgid "yyyy-MM-dd"
+msgstr "tttt-bb-hh"
+
+#: format.Daily.endDate
+msgctxt "format.Daily.endDate"
+msgid ""
+msgstr "tttt 'W' w"
+
+#: format.Weekly.startDate
+msgid "yyyy 'W' w"
+msgstr "tttt 'W' w"
+
+#: format.Weekly.endDate
+msgctxt "format.Weekly.endDate"
+msgid ""
+msgstr "BBBB tttt"
+
+#: format.Monthly.startDate
+msgid "MMMM yyyy"
+msgstr "BBBB tttt"
+
+#: format.Monthly.endDate
+msgctxt "format.Monthly.endDate"
+msgid ""
+msgstr "MMM 'to'"
+
+#: format.BiMonthly.startDate
+msgctxt "format.BiMonthly.startDate"
+"format.BiMonthly.startDate"
+"format.BiMonthly.startDate"
+msgid "MMM 'to '"
+msgstr "MMM yyyy"
+
+#: format.BiMonthly.endDate
+msgctxt "format.BiMonthly.endDate"
+msgid "MMM yyyy"
+msgstr "MMM yyyy"
+
+#: format.Quarterly.startDate
+msgctxt "format.Quarterly.startDate"
+msgid "MMM 'to '"
+msgstr "MMM 'ke'"
+
+#: format.Quarterly.endDate
+msgctxt "format.Quarterly.endDate"
+msgid "MMM yyyy"
+msgstr "MMM yyyy"
+
+#: format.SixMonthly.startDate
+msgctxt "format.SixMonthly.startDate"
+msgid "MMM 'to '"
+msgstr "MMM 'ke'"
+
+#: format.SixMonthly.endDate
+msgctxt "format.SixMonthly.endDate"
+msgid "MMM yyyy"
+msgstr "BBB tttt"
+
+#: format.SixMonthlyApril.startDate
+msgctxt "format.SixMonthlyApril.startDate"
+msgid "MMM 'to '"
+msgstr ""
+
+#: format.SixMonthlyApril.endDate
+msgctxt "format.SixMonthlyApril.endDate"
+msgid "MMM yyyy"
+msgstr ""
+
+#: format.Yearly.startDate
+msgctxt "format.Yearly.startDate"
+msgid "yyyy"
+msgstr "tttt"
+
+#: format.Yearly.endDate
+msgctxt "format.Yearly.endDate"
+msgid ""
+msgstr ""
+
+#: format.TwoYearly.startDate
+msgid "yyyy 'and '"
+msgstr "tttt 'dan'"
+
+#: format.TwoYearly.endDate
+msgctxt "format.TwoYearly.endDate"
+msgid "yyyy"
+msgstr "tttt"
+
+#: format.OnChange.startDate
+msgctxt "format.OnChange.startDate"
+msgid "yyyy-MM-dd '- '"
+msgstr "tttt-BB-hh '-'"
+
+#: format.OnChange.endDate
+msgctxt "format.OnChange.endDate"
+msgid "yyyy-MM-dd"
+msgstr "tttt-BB-hh"
+
+#: format.Survey.startDate
+msgctxt "format.Survey.startDate"
+msgid "yyyy-MM-dd"
+msgstr "tttt-BB-hh"
+
+#: format.Survey.endDate
+msgctxt "format.Survey.endDate"
+msgid ""
+msgstr ""
+
+#: format.Relative.startDate
+msgctxt "format.Relative.startDate"
+msgid "yyyy-MM-dd '- '"
+msgstr "tttt-BB-hh '-'"
+
+#: format.Relative.endDate
+msgctxt "format.Relative.endDate"
+msgid "yyyy-MM-dd"
+msgstr "tttt-BB-hh"
+
+#: format.FinancialApril.startDate
+msgctxt "format.FinancialApril.startDate"
+msgid "MMM yyyy 'to '"
+msgstr "hh BBB tttt 'ke'"
+
+#: format.FinancialApril.endDate
+msgctxt "format.FinancialApril.endDate"
+msgid "MMM yyyy"
+msgstr "hh BBB tttt"
+
+#: format.FinancialJuly.startDate
+msgctxt "format.FinancialJuly.startDate"
+msgid "MMM yyyy 'to '"
+msgstr "hh BBB tttt 'ke'"
+
+#: format.FinancialJuly.endDate
+msgctxt "format.FinancialJuly.endDate"
+msgid "MMM yyyy"
+msgstr "hh BBB tttt"
+
+#: format.FinancialOct.startDate
+msgctxt "format.FinancialOct.startDate"
+msgid "MMM yyyy 'to '"
+msgstr "'FY'"
+
+#: format.FinancialOct.endDate
+msgctxt "format.FinancialOct.endDate"
+msgid "MMM yyyy"
+msgstr "tttt"
+
+#. #-- Months and weeks -----------------------------------------------------------#
+#: month.january
+msgid "January"
+msgstr "Januari"
+
+#: month.february
+msgid "February"
+msgstr "Februari"
+
+#: month.march
+msgid "March"
+msgstr "Maret"
+
+#: month.april
+msgid "April"
+msgstr "April"
+
+#: month.may
+msgctxt "month.may"
+msgid "May"
+msgstr "Mei"
+
+#: month.june
+msgid "June"
+msgstr "Juni"
+
+#: month.july
+msgid "July"
+msgstr "Juli"
+
+#: month.august
+msgid "August"
+msgstr "Agustus"
+
+#: month.september
+msgid "September"
+msgstr "September"
+
+#: month.october
+msgid "October"
+msgstr "Oktober"
+
+#: month.november
+msgid "November"
+msgstr "November"
+
+#: month.december
+msgid "December"
+msgstr "Desember"
+
+#: month.short.january
+msgid "Jan"
+msgstr "Jan"
+
+#: month.short.february
+msgid "Feb"
+msgstr "Feb"
+
+#: month.short.march
+msgid "Mar"
+msgstr "Mar"
+
+#: month.short.april
+msgid "Apr"
+msgstr "Apr"
+
+#: month.short.may
+msgctxt "month.short.may"
+msgid "May"
+msgstr "Mei"
+
+#: month.short.june
+msgid "Jun"
+msgstr "Jun"
+
+#: month.short.july
+msgid "Jul"
+msgstr "Jul"
+
+#: month.short.august
+msgid "Aug"
+msgstr "Aug"
+
+#: month.short.september
+msgid "Sep"
+msgstr "Sep"
+
+#: month.short.october
+msgid "Oct"
+msgstr "Okt"
+
+#: month.short.november
+msgid "Nov"
+msgstr "Nov"
+
+#: month.short.december
+msgid "Dec"
+msgstr "Des"
+
+#: weekday.monday
+msgctxt "weekday.monday"
+msgid "Monday"
+msgstr "Senin"
+
+#: weekday.tuesday
+msgctxt "weekday.tuesday"
+msgid "Tuesday"
+msgstr "Selasa"
+
+#: weekday.wednesday
+msgctxt "weekday.wednesday"
+msgid "Wednesday"
+msgstr "Rabu"
+
+#: weekday.thursday
+msgctxt "weekday.thursday"
+msgid "Thursday"
+msgstr "Kamis"
+
+#: weekday.friday
+msgctxt "weekday.friday"
+msgid "Friday"
+msgstr "Jumat"
+
+#: weekday.saturday
+msgctxt "weekday.saturday"
+msgid "Saturday"
+msgstr "Sabtu"
+
+#: weekday.sunday
+msgctxt "weekday.sunday"
+msgid "Sunday"
+msgstr "Minggu"
+
+#: weekday.short.monday
+msgctxt "weekday.short.monday"
+msgid "Mon"
+msgstr "Sen"
+
+#: weekday.short.tuesday
+msgctxt "weekday.short.tuesday"
+msgid "Tue"
+msgstr "Sel"
+
+#: weekday.short.wednesday
+msgctxt "weekday.short.wednesday"
+msgid "Wed"
+msgstr "Rab"
+
+#: weekday.short.thursday
+msgctxt "weekday.short.thursday"
+msgid "Thu"
+msgstr "Kam"
+
+#: weekday.short.friday
+msgctxt "weekday.short.friday"
+msgid "Fri"
+msgstr "Jum"
+
+#: weekday.short.saturday
+msgctxt "weekday.short.saturday"
+msgid "Sat"
+msgstr "Sab"
+
+#: weekday.short.sunday
+msgctxt "weekday.short.sunday"
+msgid "Sun"
+msgstr "Mingg"
+
+#. #-- Nepali Calendar Month/Day names -------------------------------------------#
+#. # The keys for months are still based on ISO 8601, the ordering is correct, but the key names are not. Jan-Dec -> 1-12. #
+#: nepali.month.january
+msgctxt "nepali.month.january"
+msgid "Baishak"
+msgstr ""
+
+#: nepali.month.february
+msgctxt "nepali.month.february"
+msgid "Jestha"
+msgstr ""
+
+#: nepali.month.march
+msgctxt "nepali.month.march"
+msgid "Asar"
+msgstr ""
+
+#: nepali.month.april
+msgctxt "nepali.month.april"
+msgid "Shrawan"
+msgstr ""
+
+#: nepali.month.may
+msgctxt "nepali.month.may"
+msgid "Bhadra"
+msgstr ""
+
+#: nepali.month.june
+msgctxt "nepali.month.june"
+msgid "Ashwin"
+msgstr ""
+
+#: nepali.month.july
+msgctxt "nepali.month.july"
+msgid "Kartik"
+msgstr ""
+
+#: nepali.month.august
+msgctxt "nepali.month.august"
+msgid "Mangsir"
+msgstr ""
+
+#: nepali.month.september
+msgctxt "nepali.month.september"
+msgid "Poush"
+msgstr ""
+
+#: nepali.month.october
+msgctxt "nepali.month.october"
+msgid "Magh"
+msgstr ""
+
+#: nepali.month.november
+msgctxt "nepali.month.november"
+msgid "Falgun"
+msgstr ""
+
+#: nepali.month.december
+msgctxt "nepali.month.december"
+msgid "Chaitra"
+msgstr ""
+
+#: nepali.month.short.january
+msgctxt "nepali.month.short.january"
+msgid "Baishak"
+msgstr ""
+
+#: nepali.month.short.february
+msgctxt "nepali.month.short.february"
+msgid "Jestha"
+msgstr ""
+
+#: nepali.month.short.march
+msgctxt "nepali.month.short.march"
+msgid "Asar"
+msgstr ""
+
+#: nepali.month.short.april
+msgctxt "nepali.month.short.april"
+msgid "Shrawan"
+msgstr ""
+
+#: nepali.month.short.may
+msgctxt "nepali.month.short.may"
+msgid "Bhadra"
+msgstr ""
+
+#: nepali.month.short.june
+msgctxt "nepali.month.short.june"
+msgid "Ashwin"
+msgstr ""
+
+#: nepali.month.short.july
+msgctxt "nepali.month.short.july"
+msgid "Kartik"
+msgstr ""
+
+#: nepali.month.short.august
+msgctxt "nepali.month.short.august"
+msgid "Mangsir"
+msgstr ""
+
+#: nepali.month.short.september
+msgctxt "nepali.month.short.september"
+msgid "Poush"
+msgstr ""
+
+#: nepali.month.short.october
+msgctxt "nepali.month.short.october"
+msgid "Magh"
+msgstr ""
+
+#: nepali.month.short.november
+msgctxt "nepali.month.short.november"
+msgid "Falgun"
+msgstr ""
+
+#: nepali.month.short.december
+msgctxt "nepali.month.short.december"
+msgid "Chaitra"
+msgstr ""
+
+#: nepali.weekday.monday
+msgctxt "nepali.weekday.monday"
+msgid "Monday"
+msgstr ""
+
+#: nepali.weekday.tuesday
+msgctxt "nepali.weekday.tuesday"
+msgid "Tuesday"
+msgstr ""
+
+#: nepali.weekday.wednesday
+msgctxt "nepali.weekday.wednesday"
+msgid "Wednesday"
+msgstr ""
+
+#: nepali.weekday.thursday
+msgctxt "nepali.weekday.thursday"
+msgid "Thursday"
+msgstr ""
+
+#: nepali.weekday.friday
+msgctxt "nepali.weekday.friday"
+msgid "Friday"
+msgstr ""
+
+#: nepali.weekday.saturday
+msgctxt "nepali.weekday.saturday"
+msgid "Saturday"
+msgstr ""
+
+#: nepali.weekday.sunday
+msgctxt "nepali.weekday.sunday"
+msgid "Sunday"
+msgstr ""
+
+#: nepali.weekday.short.monday
+msgctxt "nepali.weekday.short.monday"
+msgid "Mon"
+msgstr ""
+
+#: nepali.weekday.short.tuesday
+msgctxt "nepali.weekday.short.tuesday"
+msgid "Tue"
+msgstr ""
+
+#: nepali.weekday.short.wednesday
+msgctxt "nepali.weekday.short.wednesday"
+msgid "Wed"
+msgstr ""
+
+#: nepali.weekday.short.thursday
+msgctxt "nepali.weekday.short.thursday"
+msgid "Thu"
+msgstr ""
+
+#: nepali.weekday.short.friday
+msgctxt "nepali.weekday.short.friday"
+msgid "Fri"
+msgstr ""
+
+#: nepali.weekday.short.saturday
+msgctxt "nepali.weekday.short.saturday"
+msgid "Sat"
+msgstr ""
+
+#: nepali.weekday.short.sunday
+msgctxt "nepali.weekday.short.sunday"
+msgid "Sun"
+msgstr ""
+
+#. #-- Translation page ------------------------------------------------------#
+#: translation_translate
+msgid "Translate"
+msgstr "Terjemahkan"
+
+#: translation_addlocale
+msgid "Add locale"
+msgstr "menambakah lokal"
+
+#: translation_details
+msgctxt "translation_details"
+msgid "Details"
+msgstr "detail-detail"
+
+#: translation_select_locale
+msgid "[ Select locale ]"
+msgstr "[ Pilih lokal ]"
+
+#: translation_select_ref
+msgid "[ Select reference ]"
+msgstr "[ Pilih referensi ]"
+
+#: translation_save
+msgctxt "translation_save"
+msgid "Save"
+msgstr "Simpan"
+
+#: translation_label_id
+msgid "Id"
+msgstr "Id"
+
+#: translation_label_name
+msgctxt "translation_label_name"
+"translation_label_name"
+msgid "Name"
+msgstr "Nama"
+
+#: translation_label_shortName
+msgctxt "translation_label_shortName"
+msgid "Short name"
+msgstr "nama pendek"
+
+#: translation_label_description
+msgctxt "translation_label_description"
+msgid "Description"
+msgstr "deskripsi"
+
+#: translation_label_comment
+msgctxt "translation_label_comment"
+msgid "Comment"
+msgstr "Komentar"
+
+#: translation_label_region
+msgid "Region"
+msgstr "wilayah"
+
+#: translation_label_title
+msgid "Title"
+msgstr "titel"
+
+#: translation_variant
+msgid "Variant"
+msgstr "varian"
+
+#: translation_countrycode
+msgid "Country code"
+msgstr "kode negara"
+
+#: translation_languagecode
+msgid "Language code"
+msgstr "kode bahasa"
+
+#: translation_label_numerator_description
+msgctxt "translation_label_numerator_description"
+msgid "Numerator description"
+msgstr "deskripsi numerator"
+
+#: translation_label_denominator_description
+msgctxt "translation_label_denominator_description"
+msgid "Denominator description"
+msgstr "Deskripsi denominator"
+
+#: translation_locale_added
+msgid "Added locale"
+msgstr "ditambahkan lokal"
+
+#: translation_cancel
+msgctxt "translation_cancel"
+msgid "Cancel"
+msgstr "Batal"
+
+#: translation_add
+msgctxt "translation_add"
+msgid "Add"
+msgstr "tambah"
+
+#: translation_locale
+msgid "Locale"
+msgstr "lokal"
+
+#: translation_reference
+msgid "Reference"
+msgstr "referensi"
+
+#: translation_language_must_be_two_chars
+msgid "Language must be two characters"
+msgstr "Bahasa harus terdiri dua karakter"
+
+#: translation_country_must_be_two_chars
+msgid "Country must be two characters"
+msgstr "Negara mesti dua karakter"
+
+#: translation_variant_must_be_specified
+msgid "Variant must be specified"
+msgstr "varian harus spesifik"
+
+#: translation_locale_already_exists
+msgid "Locale already exists"
+msgstr "Lokal sudah ada"
+
+#: translation_shortname_wellformed
+msgid ""
+"Please verify Letters, Numbers, Underscore and Spaces for short name only"
+msgstr ""
+"Tolong pastikan huruf, angka, underskor dan spasi hanya untuk nama pendek"
+
+#: translation_shortname_length
+msgid "Shortname's maximum length of 25 charaters"
+msgstr "panjang maksimum nama pendek terdiri dari 25 karakter"
+
+#: translation_duplicated_name_with
+msgid "Sorry! You entered a duplicated name with"
+msgstr "Maaf! Anda memasukkan nama yang sama"
+
+#: translation_duplicated_shortname_with
+msgid "Sorry! You entered a duplicated short name with"
+msgstr "Maaf! Anda memasukkan nama pendek yang sama"
+
+#: translation_label_formName
+msgid "Form name"
+msgstr "Format nama"
+
+#. #-- About ----------------------------------------------------------------------#
+#: name_exists
+msgid "Warning, name already exists"
+msgstr "Peringatan, nama sudah ada"
+
+#: name_is_required
+msgid "Error, name is required"
+msgstr "Kesalahan, nama dibutuhkan"
+
+#: version
+msgid "Version"
+msgstr "versi"
+
+#: build_revision
+msgid "Build revision"
+msgstr "revisi dibuat"
+
+#: build_date
+msgid "Build date"
+msgstr "Tanggal pembuatan"
+
+#: user_agent
+msgid "User agent"
+msgstr "agen pengguna"
+
+#: external_configuration_directory
+msgid "External configuration directory"
+msgstr "direktori konfigurasi luar"
+
+#: environment_variable
+msgid "Environment variable"
+msgstr "variabel lingkungan"
+
+#: database_type
+msgid "Database type"
+msgstr "Tipe database"
+
+#: database_name
+msgid "Database name"
+msgstr "Tipe database"
+
+#: database_user
+msgid "Database user"
+msgstr "Basis data pengguna"
+
+#: not_set
+msgid "Not set"
+msgstr "Belum ter set"
+
+#: current_user
+msgid "Current user"
+msgstr "Pengguna sekarang"
+
+#: dhis2_online
+msgid "DHIS 2 Online"
+msgstr "DHIS 2 Online"
+
+#: home_page
+msgid "Home Page"
+msgstr "Beranda / halaman muka"
+
+#: launchpad_site
+msgid "Launchpad Site"
+msgstr "Situs launchpad"
+
+#: message_to_the_dhis2_development_team
+msgid "Message to the DHIS 2 development team"
+msgstr "Pesan ke tim pengembang DHIS 2"
+
+#: error_message_stack_trace
+msgid "Error message / Stack trace"
+msgstr "Pesan salah/ tumpukan jejak"
+
+#: enter_message
+msgid "Enter a message"
+msgstr "masukkan pesan"
+
+#: send
+msgid "Send"
+msgstr "kirim"
+
+#: help
+msgid "Help"
+msgstr "Bantuan"
+
+#: send_feedback
+msgid "Send feedback"
+msgstr "kirimkan umpan balik"
+
+#: status
+msgid "Status"
+msgstr "status"
+
+#: system_status
+msgid "System status"
+msgstr "status sistem"
+
+#: feedback
+msgid "Feedback"
+msgstr "umpan balik"
+
+#: intro
+msgid "Intro"
+msgstr "Intro"
+
+#: help_contents
+msgid "Help Contents"
+msgstr "Konten Bantuan"
+
+#: about_dhis2
+msgid "About DHIS 2"
+msgstr "Tentang DHIS2"
+
+#: last_name
+msgid "Last name"
+msgstr "Nama akhir"
+
+#: unknown
+msgid "Unknown"
+msgstr "Tidak diketahui"
+
+#: java_opts
+msgid "Java opts"
+msgstr "Java Opts"
+
+#: java_home
+msgid "Java home"
+msgstr ""
+
+#: java_tmp_dir
+msgid "Java temporary directory"
+msgstr ""
+
+#: java_version
+msgid "Java version"
+msgstr "versi Java"
+
+#: java_vendor
+msgid "Java vendor"
+msgstr "Pengembang Java"
+
+#: os_name
+msgid "OS name"
+msgstr "nama OS"
+
+#: os_architecture
+msgid "OS architecture"
+msgstr "arsitektur OS"
+
+#: os_version
+msgid "OS version"
+msgstr "versi OS"
+
+#: supportive_software
+msgid "Supportive Software"
+msgstr "perangkat lunak pendukung"
+
+#: chrome_description
+msgid "Super fast web browser for all platforms"
+msgstr "Web browser super cepat untuk semua platform"
+
+#: foxit_description
+msgid "Free and simple PDF reader for Windows"
+msgstr "PDF reader mudah dan gratis untuk Windows"
+
+#: web_browser
+msgid "Web browser"
+msgstr "Browser web"
+
+#: pdf_reader
+msgid "PDF reader"
+msgstr "PDF reader"
+
+#: ireport_description
+msgid "Report designer for standard reports"
+msgstr "desain laporan untuk laporan standar"
+
+#: report_designer
+msgid "Report designer"
+msgstr "desain laporan"
+
+#: my_datamart
+msgid "MyDatamart"
+msgstr "MyDatamart"
+
+#: my_datamart_description
+msgid "Local data mart for off-line data analysis"
+msgstr "kamus lokal data untuk analisa data off-line"
+
+#: mobile_client
+msgid "Mobile client"
+msgstr "klien mobil"
+
+#: mobile_client_description
+msgid "Client for data capture on mobile devices"
+msgstr "klien untuk data capture pada alat ponsel"
+
+#: web_api
+msgid "Web API"
+msgstr "Web API"
+
+#: system_overview
+msgid "System Overview"
+msgstr "Gambaran sistem"
+
+#: server_date
+msgid "Server date"
+msgstr "Tanggal server"
+
+#: last_analytics_table_generation
+msgid "Last analytics table generation"
+msgstr ""
+
+#: last_analytics_table_runtime
+msgid "Last analytics table runtime"
+msgstr ""
+
+#: time_since_last_analytics_table_generation
+msgid "Time since last analytics table generation"
+msgstr ""
+
+#: online_release_page
+msgctxt "online_release_page"
+msgid "online release page"
+msgstr "Halaman rilis online"
+
+#: edit_profile
+msgid "Edit profile"
+msgstr "Ubah profil"
+
+#: view_profile
+msgid "View profile"
+msgstr "Lihat profil"
+
+#: profile_details
+msgid "Profile details"
+msgstr "detail profil"
+
+#: job_title
+msgid "Job title"
+msgstr "Titel pekerjaan"
+
+#: introduction
+msgid "Introduction"
+msgstr "Pengenalan"
+
+#: gender
+msgid "Gender"
+msgstr "Gender"
+
+#: male
+msgctxt "male"
+msgid "Male"
+msgstr "Laki-laki"
+
+#: female
+msgctxt "female"
+msgid "Female"
+msgstr "Perempuan"
+
+#: other
+msgctxt "other"
+msgid "Other"
+msgstr "Lain"
+
+#: birthday
+msgid "Birthday"
+msgstr "Tanggal lahir"
+
+#: nationality
+msgid "Nationality"
+msgstr "Kebangsaan"
+
+#: employer
+msgid "Employer"
+msgstr "Pekerjaan"
+
+#: education
+msgid "Education"
+msgstr "Pendidikan"
+
+#: interests
+msgid "Interests"
+msgstr "Hobi/minat"
+
+#: languages
+msgid "Languages"
+msgstr "Bahasa"
+
+#: update_user_profile_success
+msgid "Profile was updated"
+msgstr "Profil sudah diperbaharui"
+
+#: settings
+msgctxt "settings"
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: property_to_display_in_analysis_modules
+msgid "Property to display in analysis modules"
+msgstr ""
+
+#: user_settings
+msgid "User settings"
+msgstr "Pengaturan pengguna"
+
+#: general
+msgid "General"
+msgstr "Umum"
+
+#: message
+msgid "Message"
+msgstr "Pesan"
+
+#: db_language
+msgid "Database language"
+msgstr "Basis data Bahasa"
+
+#: language
+msgid "Interface language"
+msgstr "bahasa interface"
+
+#: use_db_locale_no_translation
+msgid "Use database locale / no translation"
+msgstr "Gunakan basisdata lokal / tidak terjemahan"
+
+#: style
+msgid "Style"
+msgstr "Gaya"
+
+#: user_general_settings
+msgid "User General Settings"
+msgstr "Pengaturan umum pengguna"
+
+#: user_message_settings
+msgid "User Message Settings"
+msgstr "Pengaturan pesan pengguna"
+
+#: enable_message_email_notifications
+msgid "Enable message email notifications"
+msgstr "notifikasi pesan surel diaktifkan"
+
+#: enable_message_sms_notifications
+msgid "Enable message SMS notifications"
+msgstr "notifikasi pesan SMS diaktifkan"
+
+#: intro_user_general_settings
+msgid ""
+"Customize the system with user specific settings for locale, style and more."
+msgstr ""
+"kustomisasi sistem dengan pengaturan pengguna spesifik untuk lokal, gaya dan "
+"yang lainnya"
+
+#: intro_user_message_settings
+msgid ""
+"Customize the system with user specific settings for message email and sms "
+"notification."
+msgstr ""
+"kustomisasi sistem dengan pengaturan pengguna spesifik untuk pesan surel, "
+"dan notifikasi sms"
+
+#: light_blue
+msgid "Light Blue"
+msgstr "Biru muda"
+
+#: green
+msgid "Green"
+msgstr "Hijau"
+
+#: myanmar
+msgctxt "myanmar"
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: india
+msgctxt "india"
+msgid "India"
+msgstr "India"
+
+#: vietnam
+msgctxt "vietnam"
+msgid "Vietnam"
+msgstr "Vietnam"
+
+#: settings_updated
+msgid "Settings were updated"
+msgstr "Pengaturan telah diperbaharui"
+
+#: dashboard
+msgctxt "dashboard"
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: messages
+msgid "Messages"
+msgstr "Pesan-pesan"
+
+#: interpretations
+msgid "Interpretations"
+msgstr "interpretasi"
+
+#: interface_style
+msgid "Interface style"
+msgstr "Interface style"
+
+#: server_memory
+msgid "Server memory"
+msgstr "Memori server"
+
+#: cpu_cores
+msgid "CPU cores"
+msgstr "CPU cores"
+
+#: please_select
+msgid "Please select"
+msgstr ""
+
+#: browse_it_here
+msgid "Browse it here"
+msgstr ""
+
+#. #-- Change Log------------------------------------------------------------------#
+#: change_log
+msgid "Change Log"
+msgstr "Ubah log"
+
+#: release
+msgid "Release"
+msgstr "Rilis"
+
+#: release_page
+msgctxt "release_page"
+msgid "online release page"
+msgstr "Halaman yang akan dirilis online"
+
+#. #-- Macros ---------------------------------------------------------------------#
+#: yes
+msgctxt "yes"
+msgid "Yes"
+msgstr "Ya"
+
+#: no
+msgctxt "no"
+msgid "No"
+msgstr "Tidak"
+
+#: true
+msgctxt "true"
+msgid "Yes"
+msgstr "Ya"
+
+#: false
+msgctxt "false"
+msgid "No"
+msgstr "Tidak"
+
+#: sum
+msgid "Sum"
+msgstr "Jumlah"
+
+#: count
+msgid "Count"
+msgstr "Hitung"
+
+#: average
+msgid "Average"
+msgstr "Rata - rata"
+
+#: stddev
+msgid "Standard deviation"
+msgstr ""
+
+#: variance
+msgid "Variance"
+msgstr ""
+
+#: min
+msgid "Min"
+msgstr ""
+
+#: max
+msgid "Max"
+msgstr ""
+
+#: text
+msgid "Text"
+msgstr "Teks"
+
+#: long_text
+msgid "Long text"
+msgstr ""
+
+#: string
+msgid "String"
+msgstr "String"
+
+#: int
+msgctxt "int"
+msgid "Number"
+msgstr "Angka"
+
+#: number
+msgctxt "number"
+msgid "Number"
+msgstr "Angka"
+
+#: positive_integer
+msgid "Positive Integer"
+msgstr ""
+
+#: zero_positive_int
+msgid "Positive or Zero Integer"
+msgstr ""
+
+#: negative_integer
+msgid "Negative Integer"
+msgstr ""
+
+#: unit_interval
+msgid "Unit interval"
+msgstr ""
+
+#: percentage
+msgid "Percentage"
+msgstr ""
+
+#: date
+msgid "Date"
+msgstr "Tanggal"
+
+#: date_time
+msgid "Date & Time"
+msgstr ""
+
+#: yes_no
+msgctxt "yes_no"
+msgid "Yes/No"
+msgstr "Ya / Tidak"
+
+#: bool
+msgctxt "bool"
+msgid "Yes/No"
+msgstr "Ya / Tidak"
+
+#: none
+msgctxt "none"
+msgid "None"
+msgstr "Tidak Ada"
+
+#: yes_only
+msgid "Yes Only"
+msgstr "Hanya untuk Ya"
+
+#: custom
+msgid "Custom"
+msgstr ""
+
+#. #-- Validation messages -------------------------------------------------------#
+#: value_must_integer
+msgid "Value must be an integer"
+msgstr ""
+
+#: value_must_number
+msgid "Value must be a number"
+msgstr ""
+
+#: value_must_positive_integer
+msgid "Value must be a positive integer"
+msgstr ""
+
+#: value_must_negative_integer
+msgid "Value must be a negative integer"
+msgstr ""
+
+#: value_must_zero_or_positive_integer
+msgid "Value must be zero or a positive integer"
+msgstr ""
+
+#: value_must_unit_interval
+msgid "Value must be a unit interval (between 0 and 1)"
+msgstr ""
+
+#: value_must_percentage
+msgid "Value must be a percentage (between 0 and 100)"
+msgstr ""
+
+#. #-- User account --------------------------------------------------------------#
+#: profile
+msgid "Profile"
+msgstr "Profil"
+
+#: account
+msgid "Account"
+msgstr "Akun"
+
+#: update_user
+msgid "Update user"
+msgstr "Perbarui pengguna"
+
+#: user_account
+msgid "User account"
+msgstr "Akun Pengguna "
+
+#: user_name
+msgctxt "user_name"
+"user_name"
+msgid "Username"
+msgstr "User name"
+
+#: old_password
+msgid "Old password"
+msgstr "Password lama"
+
+#: new_password
+msgctxt "new_password"
+msgid "New password"
+msgstr "Password lama"
+
+#: retype_new_password
+msgid "Retype new password"
+msgstr "Ketik ulang password baru"
+
+#: surname
+msgid "Surname"
+msgstr "Nama keluarga"
+
+#: first_name
+msgid "First name"
+msgstr "Nama depan"
+
+#: email
+msgid "E-mail"
+msgstr "Email"
+
+#: openid
+msgid "OpenID"
+msgstr ""
+
+#: username
+msgctxt "username"
+msgid "Username"
+msgstr "Username"
+
+#: phone_number
+msgid "Mobile phone number"
+msgstr "No. HP"
+
+#: user_roles
+msgid "User roles"
+msgstr "Peran pengguna"
+
+#: update_user_success
+msgid "Account was updated"
+msgstr "Akun sudah diupdate"
+
+#: wrong_password
+msgid "Wrong password"
+msgstr "Password salah"
+
+#: help_center
+msgid "Help Center"
+msgstr "Help Center"
+
+#: help_intro_header
+msgid "Welcome to the DHIS 2 Help Center"
+msgstr "Selamat datang di DHIS 2 Help Center"
+
+#: help_intro_text
+msgid "Please select an item from the menu to the left."
+msgstr "Silakan pilih item dari menu ke kiri"
+
+#: please_wait_while_the_system_is_processing
+msgid "Please wait while the system is processing"
+msgstr "Silakan menunggu sementara sistem berjalan"
+
+#: organisation_unit_required_for_user
+msgid "User must be assigned to at least one organisation unit"
+msgstr ""
+
+#. #-- Contact info ---------------------------------------------------------------#
+#: address
+msgid "Address"
+msgstr "Alamat"
+
+#: contact_details
+msgid "Contact information"
+msgstr "Informasi kontak"
+
+#: contact_person
+msgid "Contact person"
+msgstr "Kontak person"
+
+#. #-- Form validation messages --------------------------------------------------#
+#: this_field_is_required
+msgid "This field is required."
+msgstr "Field ini diperlukan"
+
+#: please_fix_this_field
+msgid "Please fix this field."
+msgstr "Silakan memperbaiki field ini"
+
+#: please_enter_a_valid_email_address
+msgid "Please enter a valid email address."
+msgstr "Silakan memasukkan alamat email yang valid"
+
+#: please_enter_a_valid_url
+msgid "Please enter a valid URL."
+msgstr "Silakan memasukkan URL yang valid"
+
+#: please_enter_a_valid_date
+msgid "Please enter a valid date."
+msgstr "Silakan memasukkan tanggal yang valid"
+
+#: please_enter_a_valid_date_iso
+msgid "Please enter a valid date (e.g. 1990-01-01)."
+msgstr "Silakan memasukkan tanggal yang valid (misal 1990-01-01)"
+
+#: please_enter_a_valid_number
+msgctxt "please_enter_a_valid_number"
+msgid "Please enter a valid number."
+msgstr "Silakan memasukkan angka yang valid"
+
+#: please_enter_a_valid_digits
+msgid "Please enter only digits."
+msgstr "Silakan masukkan hanya angka"
+
+#: please_enter_the_equal_values_again
+msgid "The entered values do not match. Please re-enter the values."
+msgstr "Nilai yang dimasukkan tidak cocok. Silakan masukkan nilai yang baru."
+
+#: please_enter_a_value_with_a_valid_expression
+msgid "Please enter a value with a valid extension."
+msgstr "Silakan memasukkan nilai dengan ekstensi yang valid"
+
+#: first_character_must_be_alphabetical
+msgid "The first character must be a letter."
+msgstr "Karakter yang pertama harus berupa huruf."
+
+#: please_enter_no_more_than_n_character
+msgid "Please enter no more than {0} characters."
+msgstr "Silakan memasukkan tidak lebih dari {0} karakter."
+
+#: please_enter_at_least_than_n_character
+msgctxt "please_enter_at_least_than_n_character"
+msgid "Please enter at least {0} characters."
+msgstr "Silakan memasukkan setidaknya {0} karakter."
+
+#: please_enter_a_value_between_n_character
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr "Silakan memasukkan nilai dengan panjang karakter antara {0} dan (1}"
+
+#: please_enter_a_value_between_a_and_b
+msgid "Please enter a value between {0} and {1}."
+msgstr "Silakan memasukkan nilai antara {0} dan {1}."
+
+#: please_enter_a_value_less_than_or_equal_to_n
+msgid "Please enter a value less than or equal to {0}."
+msgstr "Silakan masukkan nilai lebih besar atau sama dengan {1}"
+
+#: please_enter_a_value_greater_than_or_equal_to_n
+msgid "Please enter a value greater than or equal to {0}."
+msgstr "Silakan masukkan nilai lebih besar atau sama dengan {1}"
+
+#: please_enter_a_different_value_to_above
+msgid "Please enter a different value to above."
+msgstr "Silakan memasukkan nilai yang berbeda dengan nilai di atas."
+
+#: digits_decimal_only_please
+msgid ""
+"Please enter digits only. Three digits before decimal point and two after "
+"the decimal point are allowed."
+msgstr ""
+"Masukkan angka saja. Diperbolehkan menuliskan tiga angka di depan koma dan "
+"dua angka di belakang koma."
+
+#: please_letters_numbers_spaces_underscores_only
+msgid "Only letters, numbers, spaces and underscores are allowed."
+msgstr "Hanya diperbolehkan menuliskan huruf, angka, spasi dan garis bawah."
+
+#: please_letters_numbers_spaces_or_some_special_chars_only
+msgid ""
+"Only letters, numbers, spaces and the characters \n"
+" .,-,(,) are allowed."
+msgstr ""
+"Hanya diperbolehkan menuliskan huruf, angka, spasi dan karakter \n"
+" .,-,(,)"
+
+#: please_enter_a_value_less_than_or_equal_to
+msgid "Please enter a value less than or equal to {1}"
+msgstr "Silakan masukkan nilai lebih besar atau sama dengan {1}"
+
+#: please_enter_a_value_greater_than_or_equal_to
+msgid "Please enter a value greater than or equal to {1}"
+msgstr "Silakan masukkan nilai lebih besar atau sama dengan {1}"
+
+#: please_do_not_enter_same_values
+msgid "Please do not enter same values."
+msgstr "Jangan memasukkan nilai yang sama."
+
+#: letters_or_punctuation_only_please
+msgid "Letters or punctuation only please."
+msgstr "Hanya untuk huruf atau tanda baca."
+
+#: please_enter_n_words_or_less
+msgid "Please enter {0} words or less."
+msgstr "Silakan memasukkan {0} kata atau kurang."
+
+#: please_enter_at_least_n_words
+msgid "Please enter at least {0} words."
+msgstr "Silakan memasukkan kurang lebih {0} kata."
+
+#: please_enter_betwwen_a_and_b_words
+msgid "Please enter between {0} and {1} words."
+msgstr "Silakan masukkan antara {0} dan {1} kata."
+
+#: letters_only_please
+msgid "Letters only please."
+msgstr "Hanya huruf saja."
+
+#: no_white_space_please
+msgid "No white space please"
+msgstr "Tidak ada ruang"
+
+#: no_start_white_space_please
+msgid "This field cannot start with a space."
+msgstr "Field ini tidak boleh dimulai dengan spasi."
+
+#: ZIP_code_must_be_in_the_range
+msgid "Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx"
+msgstr "Kode ZIP Anda harus berada di antara rentang 902xx-xxxx dan 905-xx-xxxx"
+
+#: please_enter_valid_time
+msgid "Please enter a valid time, between 00:00 and 23:59."
+msgstr "Silakan memasukkan waktu yang valid, antara 00:00 dan 23:59"
+
+#: please_enter_valid_phone_number
+msgid "Please specify a valid phone number."
+msgstr "Silakan tentukan nomor telepon yang valid."
+
+#: please_enter_at_least_n_character
+msgctxt "please_enter_at_least_n_character"
+msgid "Please enter at least {0} characters."
+msgstr "Silakan memasukkan kurang lebih {0} karakter."
+
+#: this_date_can_not_be_after_today
+msgid "This date can not be after today."
+msgstr "Tanggal tidak boleh setelah hari ini."
+
+#: please_fill_out_at_least_one_of_these_fields
+msgid "Please fill out at least one of these fields."
+msgstr "Silakan mengisikan setidaknya 1 field."
+
+#: please_select_at_least_one_option_for_these_fields
+msgid "Please select at least one option for these fields."
+msgstr "Silakan memilih setidaknya 1 opsi untuk field ini."
+
+#: password_must_contain_at_least_one_capital_letter_and_one_digit
+msgid "Password must contain at least one capital letter and one digit."
+msgstr "Password harus terdiri dari setidaknya 1 huruf kapital dan 1 angka."
+
+#: only_digits_are_not_allowed
+msgid "Only digits are not allowed"
+msgstr "Hanya diperbolehkan menuliskan angka"
+
+#: closedDate_should_be_greater_than_openDate
+msgid "The ClosedDate field should be greater than the OpenDate field."
+msgstr "Tanggal field ditutup harus setelah tanggal field dimulai."
+
+#: please_unicode_chars_only
+msgid "Valid unicode charaters only are allowed."
+msgstr "Hanya diperbolehkan karakter unicode yang valid saja."
+
+#: unrecognized_coordinate_string
+msgid "Unrecognized coordinate string"
+msgstr "Koordinat string tidak dikenal"
+
+#: please_enter_a_letters_or_digits
+msgid "Please enter letters or digits."
+msgstr "Silakan memasukkan huruf/angka"
+
+#: please_enter_valid_number
+msgctxt "please_enter_valid_number"
+msgid "Please enter a valid number."
+msgstr "Silakan memasukkan angka yang valid."
+
+#: please_enter_valid_integer
+msgid "Please enter a valid integer."
+msgstr "Silakan memasukkan bilangan bulat yang valid."
+
+#: please_enter_valid_positive_integer
+msgid "Please enter a valid positive integer."
+msgstr "Silakan memasukkan bilangan bulat positif yang valid."
+
+#: please_enter_valid_negative_integer
+msgid "Please enter a valid negative integer."
+msgstr "Silakan memasukkan bilangan bulat negatif yang valid."
+
+#: please_enter_name
+msgid "Please enter name!"
+msgstr "Silakan memasukkan nama!"
+
+#: please_select_period
+msgid "Please select period!"
+msgstr "Silakan memilih periode!"
+
+#: please_select_dataset
+msgid "Please select dataset!"
+msgstr "Silakan memilih dataset!"
+
+#: please_select_dataelement
+msgid "Please select data element!"
+msgstr "Silakan memilih elemen data!"
+
+#: please_select_indicator
+msgid "Please select indicator!"
+msgstr "Silakan memilih indikator!"
+
+#: please_enter_description
+msgid "Please enter description!"
+msgstr "Silakan menuliskan deskripsi!"
+
+#: delete_confirm
+msgid "Do you want to delete?"
+msgstr "Apakah Anda ingin menghapus?"
+
+#: available
+msgid "Available"
+msgstr "Tersedia"
+
+#: selected
+msgid "Selected"
+msgstr "Pilih"
+
+#: error
+msgid "Error"
+msgstr "Error"
+
+#: warning
+msgid "Warning"
+msgstr "Peringatan"
+
+#: success
+msgid "Success"
+msgstr "Sukses"
+
+#: waiting
+msgid "Please wait"
+msgstr "Silakan tunggu"
+
+#: expression_not_well_formed
+msgid "Expression is not well formed"
+msgstr "Expression tidak sempurna"
+
+#: invalid_identifiers_in_expression
+msgid "Invalid identifiers in expression"
+msgstr ""
+
+#: filter_not_evaluating_to_true_or_false
+msgid "Filter is not evaluating to true or false"
+msgstr ""
+
+#: locate_by_code
+msgid "Locate by code"
+msgstr "Tempatkan berdasarkan kode"
+
+#: select_at_level
+msgid "Select at level"
+msgstr "Pilih level"
+
+#: unselect_at_level
+msgid "Un-select at level"
+msgstr "Batalkan pemilihan level"
+
+#: unselect_all
+msgid "Un-select all"
+msgstr "Batalkan semua pilihan"
+
+#: select_all
+msgid "Select all"
+msgstr "Pilih semua"
+
+#: select_in_group
+msgid "Select in group"
+msgstr "Pilih kelompok"
+
+#: unselect_in_group
+msgid "Un-select in group"
+msgstr "Batalkan kelompok"
+
+#: select_children
+msgid "Select children"
+msgstr "Pilih level di bawah tingkatan"
+
+#: unselect_children
+msgid "Un-select children"
+msgstr "Batalkan pemilihan level di bawah tingkatan"
+
+#: organisation_unit_selection_tree
+msgid "Organisation Unit Selection"
+msgstr "Pemilihan Unit Organisasi"
+
+#: move_selected
+msgid "Move selected"
+msgstr "Pindahkan pilihan"
+
+#: remove_selected
+msgid "Remove selected"
+msgstr "Hapus pilihan"
+
+#: move_all
+msgid "Move all"
+msgstr "Pindahkan semua"
+
+#: remove_all
+msgid "Remove all"
+msgstr "Hapus semua"
+
+#: move_up
+msgid "Move up"
+msgstr "Pindahkan ke atas"
+
+#: move_down
+msgid "Move down"
+msgstr "Pindahkan ke bawah"
+
+#: move_to_top
+msgid "Move to top"
+msgstr "Pindahkan ke bagian paling atas"
+
+#: move_to_bottom
+msgid "Move to bottom"
+msgstr "Pindahkan ke bagian paling bawah"
+
+#. #-- Paging messages -----------------------------------------------------------#
+#: no_of_pages
+msgid "No. of pages"
+msgstr "Jumlah halaman"
+
+#: rows_in_page
+msgid "No. of rows per page"
+msgstr "Jumlah baris tiap halaman"
+
+#: jump_to_page
+msgid "Jump to page"
+msgstr "Pindah ke halaman"
+
+#: go
+msgid "Go"
+msgstr "Ke"
+
+#: filter_by_name
+msgid "Filter by name"
+msgstr "Filter berdasarkan nama"
+
+#: filter
+msgid "Filter"
+msgstr "Filter"
+
+#: clear
+msgid "Clear"
+msgstr "Hapus"
+
+#: find
+msgid "Find"
+msgstr "Cari"
+
+#: delete_success
+msgid "Object deleted"
+msgstr "Obyek dihapus"
+
+#: process
+msgid "Processing..."
+msgstr "Sedang memproses..."
+
+#. #-- Export PDF messages -------------------------------------------------------#
+#: get_pdf
+msgid "Get PDF"
+msgstr "Dapatkan dalam bentuk PDF"
+
+#: no_item_to_export
+msgid "There is no item to export"
+msgstr "Tidak ada item yang akan dieksport"
+
+#: name
+msgctxt "name"
+msgid "Name"
+msgstr "Nama Lengkap"
+
+#: short_name
+msgctxt "short_name"
+msgid "Short name"
+msgstr "Nama"
+
+#: alternative_name
+msgid "Alternative name"
+msgstr "Nama alias"
+
+#: code
+msgid "Code"
+msgstr "Kode"
+
+#: description
+msgctxt "description"
+msgid "Description"
+msgstr "Deskripsi"
+
+#: opening_date
+msgid "Opening date"
+msgstr "Tanggal dibuka"
+
+#: closed_date
+msgid "Closed date"
+msgstr "Tanggap ditutup"
+
+#: active
+msgid "Active"
+msgstr "Aktif"
+
+#: type
+msgid "Type"
+msgstr "Tipe"
+
+#: value_type
+msgid "Value Type"
+msgstr "Tipe Nilai"
+
+#: actual
+msgid "Actual"
+msgstr "Aktual"
+
+#: target
+msgid "Target"
+msgstr "Target"
+
+#: percent
+msgid "Percent"
+msgstr "Persen"
+
+#: on_time
+msgid "On time"
+msgstr "Tepat waktu"
+
+#: data_dictionary
+msgid "Data Dictionary"
+msgstr "Kamus Data"
+
+#: data_elements
+msgid "Data elements"
+msgstr "Elemen data"
+
+#: data_sets
+msgid "Data sets"
+msgstr "Data set"
+
+#: indicators
+msgid "Indicators"
+msgstr "Indikator"
+
+#: indicator_groups
+msgid "Indicator groups"
+msgstr "Kelompok indikator"
+
+#: data_element_groups
+msgid "Data element groups"
+msgstr "Kelompok elemen data"
+
+#: data_element_concepts
+msgid "Data element concepts"
+msgstr "Konsep elemen data"
+
+#: organisation_units
+msgid "Organisation units"
+msgstr "Unit organisasi"
+
+#: organisation_unit_groups
+msgid "Organisation unit groups"
+msgstr "Kelompok unit organisasi"
+
+#: organisation_unit_hierarchy
+msgid "Organisation unit hierarchy"
+msgstr "Hierarki unit organisasi"
+
+#: validation_rules
+msgid "Validation rules"
+msgstr "Aturan validasi"
+
+#: period_type
+msgid "Period Type"
+msgstr "Tipe Periode"
+
+#: users
+msgctxt "users"
+msgid "Users"
+msgstr "Pengguna"
+
+#: user_groups
+msgid "User groups"
+msgstr "Kelompok pengguna"
+
+#: pivot_tables
+msgid "Pivot tables"
+msgstr ""
+
+#: charts
+msgid "Charts"
+msgstr ""
+
+#: maps
+msgid "Maps"
+msgstr ""
+
+#: dashboards
+msgid "Dashboards"
+msgstr ""
+
+#: programs
+msgid "Programs"
+msgstr ""
+
+#: events
+msgid "Events"
+msgstr ""
+
+#. #-- Indicator -----------------------------------------------------------------#
+#: expression
+msgid "Expression"
+msgstr "Expression"
+
+#: left_expression
+msgid "Left Expression"
+msgstr "Expression Kiri"
+
+#: right_expression
+msgid "Right Expression"
+msgstr "Expression Kanan"
+
+#: indicator_type
+msgid "Indicator Type"
+msgstr "Tipe Indikator"
+
+#: annualized
+msgid "Annualized"
+msgstr "Tahunan"
+
+#: aggregation_operator
+msgid "Aggregation operator"
+msgstr "Operator agregasi"
+
+#: numerator
+msgid "Numerator"
+msgstr "Numerator"
+
+#: numerator_formula
+msgid "Numerator formula"
+msgstr "Formula numerator"
+
+#: numerator_description
+msgctxt "numerator_description"
+msgid "Numerator description"
+msgstr "Deskripsi numerator"
+
+#: numerator_aggregation_operator
+msgid "Numerator aggregation operator"
+msgstr "Operator agregasi numerator"
+
+#: denominator
+msgid "Denominator"
+msgstr "Denominator"
+
+#: denominator_formula
+msgid "Denominator formula"
+msgstr "Formula denominator"
+
+#: denominator_description
+msgctxt "denominator_description"
+msgid "Denominator description"
+msgstr "Deskripsi denominator"
+
+#: denominator_aggregation_operator
+msgid "Denominator aggregation operator"
+msgstr "Operator agregasi denominator"
+
+#: expression_is_empty
+msgid "Expression is empty"
+msgstr "Expression kosong"
+
+#: category_option_combo_does_not_exist
+msgid "Category option combo does not exist"
+msgstr "kategori pilihan combo tidak ada"
+
+#: data_element_does_not_exist
+msgid "Data element does not exist"
+msgstr "Elemen data tidak tersedia"
+
+#: constant_does_not_exist
+msgid "Constant does not exist"
+msgstr ""
+
+#: org_unit_group_does_not_exist
+msgid "Organisation unit group does not exist"
+msgstr ""
+
+#: id_not_numeric
+msgid "Identifier is not numeric"
+msgstr "Pengenal bukan numerik"
+
+#: expression_not_well_formed
+msgid "Expression is not well-formed"
+msgstr "Expression tidak sempurna"
+
+#: valid
+msgid "Valid"
+msgstr ""
+
+#. #-- Validation Rule -----------------------------------------------------------#
+#: absolute
+msgid "Absolute"
+msgstr "Absolut"
+
+#: statistical
+msgid "Statistical"
+msgstr "Statistik"
+
+#: left_side_description
+msgid "Left side description"
+msgstr "Deskripsi sisi kiri"
+
+#: right_side_description
+msgid "Right side description"
+msgstr "Dekripsi sisi kanan"
+
+#: left_side_of_expression
+msgid "Left side of Expression"
+msgstr "Expression sisi kiri"
+
+#: right_side_of_expression
+msgid "Right side of Expression"
+msgstr "Expression sisi kanan"
+
+#: operator
+msgid "Operator"
+msgstr "Operator"
+
+#: equal_to_symbol
+msgctxt "equal_to_symbol"
+msgid "=="
+msgstr "=="
+
+#: not_equal_to_symbol
+msgctxt "not_equal_to_symbol"
+msgid "!="
+msgstr "!="
+
+#: greater_than_symbol
+msgctxt "greater_than_symbol"
+msgid ">"
+msgstr ">"
+
+#: greater_than_or_equal_to_symbol
+msgctxt "greater_than_or_equal_to_symbol"
+msgid ">="
+msgstr "<"
+
+#: less_than_symbol
+msgctxt "less_than_symbol"
+msgid "<"
+msgstr "<"
+
+#: less_than_or_equal_to_symbol
+msgctxt "less_than_or_equal_to_symbol"
+msgid "<="
+msgstr "<="
+
+#: equal_to
+msgctxt "equal_to"
+msgid "=="
+msgstr "=="
+
+#: not_equal_to
+msgctxt "not_equal_to"
+msgid "!="
+msgstr "!="
+
+#: greater_than
+msgctxt "greater_than"
+msgid ">"
+msgstr ">"
+
+#: greater_than_or_equal_to
+msgctxt "greater_than_or_equal_to"
+msgid ">="
+msgstr ">="
+
+#: less_than
+msgctxt "less_than"
+msgid "<"
+msgstr "<"
+
+#: less_than_or_equal_to
+msgctxt "less_than_or_equal_to"
+msgid "<="
+msgstr "<="
+
+#: and_title
+msgid "And"
+msgstr ""
+
+#: or_title
+msgid "Or"
+msgstr ""
+
+#: equal_to_title
+msgid "Equal to"
+msgstr ""
+
+#: not_equal_to_title
+msgid "Not equal to"
+msgstr ""
+
+#: less_than_title
+msgid "Less than"
+msgstr ""
+
+#: less_than_or_equal_to_title
+msgid "Less than or equal to"
+msgstr ""
+
+#: greater_than_title
+msgid "Greater than"
+msgstr ""
+
+#: greater_than_or_equal_to_title
+msgid "Greater than or equal to"
+msgstr ""
+
+#. #-- Constant ------------------------------------------------------------------#
+#: constant
+msgid "Constant"
+msgstr "Konstan"
+
+#: constants
+msgid "Constants"
+msgstr "Konstanta"
+
+#: no_constant_to_select
+msgid "No constants to select"
+msgstr "Tidak ada konstanta yang dipilih"
+
+#. #-- Dynamic Attributes --------------------------------------------------------#
+#: multiple_choice
+msgid "Multiple Choice"
+msgstr "Pilihan Ganda"
+
+#. #-- Sharing  ------------------------------------------------------------------#
+#: public_access
+msgid "Public access (with login)"
+msgstr "Akses publik"
+
+#: external_access
+msgid "External access (without login)"
+msgstr ""
+
+#: user_group_access
+msgid "User group access"
+msgstr "Akses kelompok pengguna"
+
+#: ajax_login_failed
+msgctxt "ajax_login_failed"
+msgid "Login failed, check your username and password and try again"
+msgstr ""
+
+#: group_name
+msgid "Group name"
+msgstr "Nama kelompok"
+
+#: sharing_settings
+msgid "Sharing settings"
+msgstr "Pengaturan untuk membagikan"
+
+#: no_access
+msgctxt "no_access"
+msgid "None"
+msgstr "Tidak ada"
+
+#: read_only
+msgid "Read only"
+msgstr "Hanya untuk dibaca saja"
+
+#: read_write
+msgid "Read and write"
+msgstr "Baca dan tulis"
+
+#: can_edit_and_view
+msgid "Can edit and view"
+msgstr "Dapat diedit dan ditampilkan"
+
+#: can_view
+msgid "Can view"
+msgstr "Dapat ditampilkan"
+
+#: search_for_user_groups
+msgid "Search for user groups"
+msgstr "Pencarian kelompok pengguna"
+
+#: object_will_created_public
+msgid "This object will be created with public edit and view rights"
+msgstr "Obyek ini akan dibuat agar publik dapat mengedit dengan hak terbatas"
+
+#: object_will_created_private
+msgid "This object will be private to yourself"
+msgstr "Obyek ini terbatas hanya untuk Anda"
+
+#: created_by
+msgid "Created by"
+msgstr ""
+
+#. #-- Countries / flags ---------------------------------------------------------#
+#: afghanistan
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+#: africare
+msgid "Africare"
+msgstr ""
+
+#: akros
+msgid "Akros"
+msgstr ""
+
+#: algeria
+msgid "Algeria"
+msgstr "Algeria"
+
+#: armenia
+msgid "Armenia"
+msgstr "Armenia"
+
+#: bangladesh
+msgid "Bangladesh"
+msgstr "Bangladeh"
+
+#: benin
+msgid "Benin"
+msgstr "Benin"
+
+#: bhutan
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: botswana
+msgid "Botswana"
+msgstr "Botswana"
+
+#: burkina_faso
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: burkina_faso_coat_of_arms
+msgid "Burkina Faso Coat of Arms"
+msgstr "Burkina Faso Coat of Arms"
+
+#: burundi
+msgid "Burundi"
+msgstr ""
+
+#: cambodia
+msgid "Cambodia"
+msgstr "Kamboja"
+
+#: cameroon
+msgid "Cameroon"
+msgstr ""
+
+#: china
+msgid "China"
+msgstr "Cina"
+
+#: colombia
+msgid "Colombia"
+msgstr "Kolombia"
+
+#: demoland
+msgid "Demoland"
+msgstr ""
+
+#: congo_brazzaville
+msgid "Republic of the Congo"
+msgstr "Republik Congo"
+
+#: congo_kinshasa
+msgid "Democratic Republic of the Congo"
+msgstr "Republik Demokratik Kongo"
+
+#: east_africa_community
+msgid "East Africa Community"
+msgstr ""
+
+#: ecowas
+msgid "ECOWAS"
+msgstr ""
+
+#: ecuador
+msgid "Ecuador"
+msgstr "Ekuador"
+
+#: egypt
+msgid "Egypt"
+msgstr ""
+
+#: engender_health
+msgid "Engender Health"
+msgstr ""
+
+#: ethiopia
+msgid "Ethiopia"
+msgstr "Ethiopia"
+
+#: fhi360
+msgid "FHI360"
+msgstr ""
+
+#: forut
+msgid "FORUT"
+msgstr ""
+
+#: gambia
+msgid "Gambia"
+msgstr "Gambia"
+
+#: ghana
+msgid "Ghana"
+msgstr "Ghana"
+
+#: global_fund
+msgid "Global Fund"
+msgstr "Global Fund"
+
+#: guinea
+msgid "Guinea"
+msgstr "Guinea"
+
+#: guinea_bissau
+msgid "Guinea Bissau"
+msgstr "Guinea Bissau"
+
+#: haiti
+msgid "Haiti"
+msgstr ""
+
+#: icap
+msgid "ICAP"
+msgstr ""
+
+#: ippf
+msgid "IPPF"
+msgstr ""
+
+#: india
+msgctxt "india"
+msgid "India"
+msgstr "India"
+
+#: indonesia
+msgid "Indonesia"
+msgstr "Indonesia"
+
+#: iraq
+msgid "Iraq"
+msgstr ""
+
+#: irc
+msgid "International Rescue Committee"
+msgstr "International Rescue Committee"
+
+#: ivory_coast
+msgid "Ivory Coast"
+msgstr "Pantai Gading"
+
+#: jhpiego
+msgid "JHPIEGO"
+msgstr ""
+
+#: kenya
+msgid "Kenya"
+msgstr "Kenya"
+
+#: laos
+msgid "Lao People's Democratic Republic"
+msgstr ""
+
+#: lesotho
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: liberia
+msgid "Liberia"
+msgstr "Liberia"
+
+#: malawi
+msgid "Malawi"
+msgstr "Malawi"
+
+#: mali
+msgid "Mali"
+msgstr "Mali"
+
+#: mongolia
+msgid "Mongolia"
+msgstr ""
+
+#: mozambique
+msgid "Mozambique"
+msgstr "Mozambique"
+
+#: myanmar
+msgctxt "myanmar"
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: msf
+msgid "MSF"
+msgstr ""
+
+#: msi
+msgid "MSI"
+msgstr ""
+
+#: namibia
+msgid "Namibia"
+msgstr "Namibia"
+
+#: nepal
+msgid "Nepal"
+msgstr "Nepal"
+
+#: nicaragua
+msgid "Nicaragua"
+msgstr "Nikaragua"
+
+#: niger
+msgid "Niger"
+msgstr "Nigeria"
+
+#: nigeria
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: norway
+msgid "Norway"
+msgstr "Norwegia"
+
+#: pakistan
+msgid "Pakistan"
+msgstr ""
+
+#: palestine
+msgid "Palestine"
+msgstr ""
+
+#: paraguay
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: pepfar
+msgid "PEPFAR"
+msgstr "PEPFAR"
+
+#: peru
+msgid "Peru"
+msgstr "Peru"
+
+#: philippines
+msgid "Philippines"
+msgstr "Filipina"
+
+#: psi
+msgid "PSI"
+msgstr "PSI"
+
+#: republic_of_trinidad_and_tobago
+msgid "Republic of Trinidad & Tobago"
+msgstr "Republik Trinidad & Tobago"
+
+#: rwanda
+msgid "Rwanda"
+msgstr "Rwanda"
+
+#: senegal
+msgid "Senegal"
+msgstr "Senegal"
+
+#: sierra_leone
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: sierra_leone_coat_of_arms
+msgid "Sierra Leone Coat of Arms"
+msgstr "Sierra Leone Coat of Arms"
+
+#: solomon_islands
+msgid "Solomon Islands"
+msgstr "Kepulauan Solomon"
+
+#: south_africa
+msgid "South Africa"
+msgstr "Afrika Selatan"
+
+#: south_africa_department_of_health
+msgid "South Africa Department of Health"
+msgstr "Departemen Kesehatan Afrika Selatan"
+
+#: south_sudan
+msgid "South Sudan"
+msgstr ""
+
+#: sri_lanka
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: sudan
+msgid "Sudan"
+msgstr ""
+
+#: swaziland
+msgid "Swaziland"
+msgstr "Swaziland"
+
+#: tajikistan
+msgid "Tajikistan"
+msgstr "Tazikistan"
+
+#: tanzania
+msgid "Tanzania"
+msgstr "Tanzania"
+
+#: timor_leste
+msgid "Timor-Leste"
+msgstr "Timor-Leste"
+
+#: togo
+msgid "Togo"
+msgstr "Togo"
+
+#: uganda
+msgid "Uganda"
+msgstr "Uganda"
+
+#: usaid
+msgid "USAID"
+msgstr ""
+
+#: vanuatu
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: vietnam
+msgctxt "vietnam"
+msgid "Vietnam"
+msgstr "Vietnam"
+
+#: who
+msgid "WHO"
+msgstr "WHO"
+
+#: zambia
+msgid "Zambia"
+msgstr "Zambia"
+
+#: zanzibar
+msgid "Zanzibar"
+msgstr "Zanzibar"
+
+#: zimbabwe
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+#. #-- Login page ----------------------------------------------------------------#
+#: create_an_account
+msgid "Create an account"
+msgstr ""
+
+#: login_password
+msgctxt "login_password"
+msgid "Password"
+msgstr ""
+
+#: login_username
+msgctxt "login_username"
+msgid "Username"
+msgstr ""
+
+#: forgot_password
+msgid "Forgot password?"
+msgstr ""
+
+#: wrong_username_or_password
+msgid "Wrong username or password"
+msgstr ""
+
+#: powered_by
+msgid "Powered by"
+msgstr ""
+
+#: sign_in
+msgid "Sign in"
+msgstr ""
+
+#. #-- New User Account page -----------------------------------------------------#
+#: new_user_account_name
+msgctxt "new_user_account_name"
+msgid "Name"
+msgstr ""
+
+#: new_user_account_first_name
+msgid "First"
+msgstr ""
+
+#: new_user_account_last_name
+msgid "Last"
+msgstr ""
+
+#. #-- Recovery page -------------------------------------------------------------#
+#: recover_success_message
+msgid ""
+"Please check the email account which you registered for this username. We "
+"have sent you instructions on how to restore your password."
+msgstr ""
+
+#: recover_error_message
+msgid ""
+"Sorry, we were not able to restore your account. The username might be "
+"invalid, your account might not permit restore or you might have entered an "
+"invalid email address for your account."
+msgstr ""
+
+#. #-- App Menu ------------------------------------------------------------------#
+#: applications
+msgctxt "applications"
+msgid "Apps"
+msgstr ""
+
+#: more_applications
+msgid "More apps"
+msgstr ""
+
+#: app_manager
+msgctxt "app_manager"
+msgid "Apps"
+msgstr ""
+
+#: app_favorite_description
+msgid ""
+"This icon indicates an app that will be displayed in your dropdown menu."
+msgstr ""
+
+#: app_draggable_description
+msgid ""
+"Items are draggable to change their order, so it's easy to customize your "
+"favorite apps."
+msgstr ""
+
+#: app_order_custom
+msgid "My own order"
+msgstr ""
+
+#: app_order_name_alpha
+msgid "Alphabetical"
+msgstr ""
+
+#: app_search_placeholder
+msgid "Search apps"
+msgstr ""
+
+#. #-- Data value error codes ----------------------------------------------------#
+#: data_element_or_type_null_or_empty
+msgid "Data element or type is null or empty"
+msgstr ""
+
+#: value_length_greater_than_max_length
+msgid "Data value is greater than max length"
+msgstr ""
+
+#: value_not_numeric
+msgid "Data value is not numeric"
+msgstr ""
+
+#: value_not_unit_interval
+msgid "Data value is not a unit interval"
+msgstr ""
+
+#: value_not_percentage
+msgid "Data value is not a percentage"
+msgstr ""
+
+#: value_not_integer
+msgid "Data value is not an integer"
+msgstr ""
+
+#: value_not_positive_integer
+msgid "Data value is not a positive integer"
+msgstr ""
+
+#: value_not_negative_integer
+msgid "Data value is not a negative integer"
+msgstr ""
+
+#: value_is_zero_and_not_zero_significant
+msgid "Data value is zero and not zero significant"
+msgstr ""
+
+#: value_not_bool
+msgid "Data value is not a boolean"
+msgstr ""
+
+#: value_not_true_only
+msgid "Data value is not true"
+msgstr ""
+
+#: value_not_valid_date
+msgid "Data value is not a valid date"
+msgstr ""
+
+#: stored_by_length_greater_than_max_length
+msgid "Stored by is greater than max length"
+msgstr ""
+
+#: comment_length_greater_than_max_length
+msgctxt "comment_length_greater_than_max_length"
+msgid "Comment is greater than max length"
+msgstr ""
+
+#. #-- calendars -----------------------------------------------------------------#
+#: islamic
+msgid "Islamic"
+msgstr ""
+
+#: nepali
+msgid "Nepali"
+msgstr ""
+
+#: julian
+msgid "Julian"
+msgstr ""
+
+#: gregorian
+msgid "Gregorian"
+msgstr ""
+
+#: ethiopian
+msgid "Ethiopian"
+msgstr ""
+
+#: thai
+msgid "Thai"
+msgstr ""
+
+#: iso8601
+msgid "ISO 8601"
+msgstr ""
+
+#: coptic
+msgid "Coptic"
+msgstr ""
+
+#. #-- Email message footer ------------------------------------------------------#
+#: respond_to_this_message
+msgid "Respond to this message"
+msgstr ""
+
+#. #-- Restore emails ------------------------------------------------------------#
+#: email_restore_subject
+msgid "User account restore confirmation at"
+msgstr ""
+
+#: email_restore_1_1st_paragraph_before_application_title
+msgctxt "email_restore_1_1st_paragraph_before_application_title"
+msgid "Someone, probably you, has asked us to restore your"
+msgstr ""
+
+#: email_restore_1_1st_paragraph_after_application_title
+msgctxt "email_restore_1_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr ""
+
+#: email_restore_1_2nd_paragraph
+msgctxt "email_restore_1_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the first one. Please follow "
+"the link below. In the next step you will be asked to enter a code which has "
+"been sent to you in the other email."
+msgstr ""
+
+#: email_restore_1_3rd_paragraph
+msgctxt "email_restore_1_3rd_paragraph"
+msgid ""
+"You must complete the restore process within 1 hour. If you take no action, "
+"your account will not be restored. If you did not request this restore, "
+"please disregard this message."
+msgstr ""
+
+#: email_restore_2_1st_paragraph_before_application_title
+msgctxt "email_restore_2_1st_paragraph_before_application_title"
+msgid "Someone, probably you, has asked us to restore your"
+msgstr ""
+
+#: email_restore_2_1st_paragraph_after_application_title
+msgctxt "email_restore_2_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr ""
+
+#: email_restore_2_2nd_paragraph
+msgctxt "email_restore_2_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the second one. Please read the "
+"first email and follow the instructions. Please use the code below to "
+"complete the new account form."
+msgstr ""
+
+#: email_restore_2_3rd_paragraph
+msgctxt "email_restore_2_3rd_paragraph"
+msgid ""
+"You must complete the restore process within 1 hour. If you take no action, "
+"your account will not be restored. If you did not request this restore, "
+"please disregard this message."
+msgstr ""
+
+#. #-- Invite emails -------------------------------------------------------------#
+#: email_invite_subject
+msgid "Invitation to create user account at"
+msgstr ""
+
+#: email_invite_1_1st_paragraph_before_application_title
+msgctxt "email_invite_1_1st_paragraph_before_application_title"
+msgid "This is an invitation to create a"
+msgstr ""
+
+#: email_invite_1_1st_paragraph_after_application_title
+msgctxt "email_invite_1_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr ""
+
+#: email_invite_1_2nd_paragraph
+msgctxt "email_invite_1_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the first one. Please follow "
+"the link below. In the next step you will be asked to enter a code which has "
+"been sent to you in the other email."
+msgstr ""
+
+#: email_invite_1_3rd_paragraph
+msgctxt "email_invite_1_3rd_paragraph"
+msgid ""
+"You must respond to this invitation within 3 months. If you take no action, "
+"the invitation will expire at that time."
+msgstr ""
+
+#: email_invite_2_1st_paragraph_before_application_title
+msgctxt "email_invite_2_1st_paragraph_before_application_title"
+msgid "This is an invitation to create a"
+msgstr ""
+
+#: email_invite_2_1st_paragraph_after_application_title
+msgctxt "email_invite_2_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr ""
+
+#: email_invite_2_2nd_paragraph
+msgctxt "email_invite_2_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the second one. Please read the "
+"first email and follow the instructions. Please use the code below to "
+"complete the new account form."
+msgstr ""
+
+#: email_invite_2_3rd_paragraph
+msgctxt "email_invite_2_3rd_paragraph"
+msgid ""
+"You must respond to this invitation within 3 months. If you take no action, "
+"the invitation will expire at that time."
+msgstr ""
+
+#. #-- Cache strategy display strings --------------------------------------------#
+#: cache_strategy
+msgid "Cache strategy"
+msgstr ""
+
+#: respect_system_setting
+msgid "Respect system setting"
+msgstr ""
+
+#: no_cache
+msgid "No cache"
+msgstr ""
+
+#: cache_until_6am_tomorrow
+msgid "Cache until 6 AM tomorrow"
+msgstr ""
+
+#: cache_for_two_weeks
+msgid "Cache for two weeks"
+msgstr ""
+
+#: cache_for_one_hour
+msgid "Cache for one hour"
+msgstr ""
+
+#. #-- Program indicators --------------------------------------------------------#
+#: execution_date
+msgid "Execution date"
+msgstr ""
+
+#: due_date
+msgid "Due date"
+msgstr ""
+
+#: incident_date
+msgid "Incident date"
+msgstr ""
+
+#: enrollment_date
+msgid "Enrollment date"
+msgstr ""
+
+#: current_date
+msgid "Current date"
+msgstr ""
+
+#: value_count
+msgid "Value count"
+msgstr ""
+
+#: zero_pos_value_count
+msgid "Zero or positive value count"
+msgstr ""
+
+#: event_count
+msgid "Event count"
+msgstr ""
+
+#: enrollment_count
+msgid "Enrollment count"
+msgstr ""
+
+#: tei_count
+msgid "Tracked entity instance count"
+msgstr ""

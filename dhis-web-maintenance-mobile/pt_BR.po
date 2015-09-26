@@ -1,0 +1,634 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-mobile/src/main/resources/org/hisp/dhis/mobile/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-mobile/src/main/resources/org/hisp/dhis/mobile/i18n_module_pt_BR.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: intro_sms_service_configuration
+msgid "Configure SMS service"
+msgstr ""
+
+#: intro_view_sent_sms
+msgid "List and delete SMS which were sent or scheduled in the system."
+msgstr ""
+
+#: intro_show_receive_sms_form
+msgid "List and delete SMS which the system received from other system."
+msgstr ""
+
+#: intro_sms_command_form
+msgid "Create, ppdate, view and delete command of SMS received."
+msgstr ""
+
+#: intro_j2me_client_update
+msgid "J2ME Client Update Configuration "
+msgstr ""
+
+#: patient_mobile_setting
+msgid "Person Mobile Settings"
+msgstr "Configurações Móvel do Beneficiário"
+
+#: gender
+msgid "Gender"
+msgstr "Género"
+
+#: dob_type
+msgid "DoB Type"
+msgstr "Tipo de Data de Nascimento"
+
+#: date_of_birth
+msgid "Date of Birth"
+msgstr "Data de Nascimento"
+
+#: blood_group
+msgid "Blood Group"
+msgstr "Grupo Sanguíneo"
+
+#: registration_date
+msgid "Registration Date"
+msgstr "Data do Registo"
+
+#: activity_grouping_attribute
+msgid "Activity Grouping Attribute"
+msgstr "Actividade de agrupamento de atributos"
+
+#: available_patient_attributes
+msgid "Available Patient Attributes"
+msgstr "Atributos do Paciente Disponivel"
+
+#: filter
+msgid "Filter"
+msgstr "Filtro"
+
+#: selected_patient_attributes
+msgid "Selected Patient Attributes"
+msgstr "Atributos de Paciente Seleccionado"
+
+#: available_datasets
+msgid "Available DataSets"
+msgstr "Conjuntos de dados disponiveis"
+
+#: mobile_configuration
+msgid "Mobile Configuration"
+msgstr "Configuração Móvel"
+
+#: sms_service_configuration
+msgid "SMS Service Configuration"
+msgstr "Configuração de Servico de SMS"
+
+#: service_status
+msgid "Service Status"
+msgstr "Estado do Serviço"
+
+#: status
+msgid "Status"
+msgstr "Estado"
+
+#: no.
+msgid "No."
+msgstr "No."
+
+#: delete
+msgid "Delete"
+msgstr "Apagar"
+
+#: check_all
+msgid "Click Here To Check All"
+msgstr "Clicar aqui para selecionat todos"
+
+#: error_delete
+msgid "Please check before delete"
+msgstr "Por favor selescionar antes de apagar"
+
+#: required_data_error
+msgid "Please fill in required fields (*)"
+msgstr "Por favor, preenche os campos obrigatórios (*)"
+
+#: new_message
+msgid "You have new messages, press F5 to view them"
+msgstr "Tens nova mensagem, pressione F5 para visualizar"
+
+#: sms_service_is_runnning
+msgid "SMS Service is running"
+msgstr "Serviço de SMS está correndo"
+
+#: sms_service_is_stopped
+msgctxt "sms_service_is_stopped"
+msgid "SMS Service is stopped"
+msgstr "Serviço de SMS está parado"
+
+#: reload_configuration
+msgid "Reload Configuration"
+msgstr "Recarregar a Configuração"
+
+#: stop_sms_service
+msgid "Stop SMS Service"
+msgstr "Parar Serviço de SMS"
+
+#: configuration
+msgid "Configuration"
+msgstr "Configuração"
+
+#: polling_interval_in_seconds
+msgid "Polling interval in seconds"
+msgstr "Intervalo de sondagem em segundos"
+
+#: server_phone_number
+msgid "Server Phone Number"
+msgstr "Número de Telefone do Servidor"
+
+#: gateways
+msgid "Gateways"
+msgstr "Gateways"
+
+#: operation
+msgid "Operation"
+msgstr "Operação"
+
+#: gateway_type
+msgid "Gateway Type"
+msgstr "Tipo de Gateway"
+
+#: list_sent_SMS
+msgid "List of Sent SMS"
+msgstr "Lista de SMS enviadas"
+
+#: sent
+msgid "Sent"
+msgstr "Enviar"
+
+#: all
+msgid "All"
+msgstr "Tudo"
+
+#: filter_by_status
+msgid "Filter by Status"
+msgstr "Filtrar por estados"
+
+#: add_gateway
+msgid "Add Gateway"
+msgstr "Adicionar Gateway"
+
+#: type
+msgid "Type"
+msgstr "Tipo"
+
+#: gateway_configuration
+msgid "Gateway Configuration"
+msgstr "Configuração do Gateway"
+
+#: gateway_name
+msgid "Gateway Name"
+msgstr "Nome do Gateway"
+
+#: username
+msgid "User name"
+msgstr "Nome do Utilizador"
+
+#: password
+msgid "Password"
+msgstr "Password"
+
+#: port
+msgid "Port"
+msgstr "Porta"
+
+#: baudrate
+msgid "BaudRate"
+msgstr "Taxa de transmissão"
+
+#: manufacturer
+msgid "Manufacturer"
+msgstr "Fabricante"
+
+#: model
+msgid "Model"
+msgstr "Modelo"
+
+#: pin
+msgid "PIN"
+msgstr "PIN"
+
+#: inbound
+msgid "Inbound"
+msgstr "Entrada"
+
+#: outbound
+msgid "Outbound"
+msgstr "Saida"
+
+#: api_id
+msgid "API ID"
+msgstr "API ID"
+
+#: outboundsms_saved
+msgid "The gateway details have been saved, but no message was sent."
+msgstr ""
+"Os detalhes do gateway foran guardado, mas nenhuma mensagem foi enviada."
+
+#: save_settings
+msgid "Save Settings"
+msgstr "Salvar Definições"
+
+#: add_gw
+msgid "Add gateway"
+msgstr "Adicionar gateway"
+
+#: start_sms_service
+msgid "Start SMS Service"
+msgstr "Inicial serviço de SMS"
+
+#: show_send_sms_form
+msgid "Send SMS"
+msgstr "Mostrar formulário de envio de SMS"
+
+#: bulk_gw
+msgid "BulkSMS Gateway"
+msgstr "BulkSMS Gateway"
+
+#: clickatell_gw
+msgid "Clickatell Gateway"
+msgstr "Clickatell Gateway"
+
+#: generic_http_gw
+msgid "Generic HTTP Gateway"
+msgstr "HTTP Gateway genérico"
+
+#: url_template
+msgid "URL Template"
+msgstr "Template URL"
+
+#: modem_gw
+msgid "Modem Gateway"
+msgstr "Modem Gateway"
+
+#: add_update_gateway_success
+msgid "The gateway was added/updated successfully."
+msgstr "O gateway foi adicinado/actulizado com sucesso"
+
+#: add_update_gateway_management
+msgid "Gateway Configuration Management"
+msgstr "Gestão de configuração de gateway"
+
+#: confirm_delete_gateway
+msgid "Do you want to delete this gateway configuration?"
+msgstr "Deseja apagar este configuração gateway?"
+
+#: confirm_delete_sms
+msgid "Do you want to delete this SMS?"
+msgstr "Deseja apagar estas SMS?"
+
+#: confirm_delete_items
+msgid "Do you want to delete those items?"
+msgstr "Deseja apagar os items?"
+
+#: smsconfiguration_not_available
+msgid "SMS Configuration is not available"
+msgstr "Configuração de SMS não disponível"
+
+#: outboundsmsservice_is_null_or_unable
+msgid "SMS Service is not available or unable to be started."
+msgstr "Serviço de SMS não disponível ou impossível inicializar."
+
+#: service_started
+msgid "SMS Service is started"
+msgstr "Serviço de SMS inicializado"
+
+#: service_starting
+msgid "SMS Service is starting"
+msgstr "Inicializando serviço de SMS "
+
+#: service_stopped
+msgctxt "service_stopped"
+msgid "SMS Service is stopped"
+msgstr "Serviço de SMS parado"
+
+#: service_stopping
+msgid "SMS Service is stopping"
+msgstr "Parando serviço de SMS "
+
+#: message
+msgid "Message"
+msgstr "Mensagem"
+
+#: show_receive_sms_form
+msgid "View Received SMS"
+msgstr "SMS recebida"
+
+#: update_success
+msgid "Update Successfully"
+msgstr "Actualização com sucesso"
+
+#: config_my_gateway
+msgid "Configure My Gateway"
+msgstr "Configurar meu gateway"
+
+#: delete_checked_option
+msgid "Delete Checked Options"
+msgstr "Apagar opções selecionadas"
+
+#: import
+msgid "Import"
+msgstr "Imprtar"
+
+#: unable_load_gateway
+msgid "Unable to load gateway"
+msgstr "Impossível carregar gateway"
+
+#: unable_start_smslib_service
+msgid "Unable to start smsLib service"
+msgstr "Impossível iniciar serviçp smsLib"
+
+#: unable_stop_smslib_service
+msgid "Unable to stop smsLib service"
+msgstr "Impossível parar serviço smsLib"
+
+#: sms_unable_or_there_is_no_gateway_service_not_started
+msgid ""
+"SMS Service is not enabled or no gateway has been specified.\n"
+"SMS Service will not be started."
+msgstr ""
+"Serviço de SMS não activo ou gateway não especificado.\n"
+"Serviço de SMS não poderá iniciar"
+
+#: unable_load_configuration_cause_of_there_is_no_gateway
+msgid "Unable to load the configuration because there is no gateway."
+msgstr "Impossível carregar configurações porque não existe gateway."
+
+#: sms_configuration_not_initialized
+msgid ""
+"SMS Service is not initialized.\n"
+"Please fill in two fields as below then click \"Save Settings\"."
+msgstr ""
+"Serviço de SMS não inicializado.\n"
+"Por favor, preencha em dois campos tal como abaixo e clique em \"Guardar "
+"configurações\"."
+
+#: sms_command_form
+msgid "SMS Commands"
+msgstr "comandos SMS"
+
+#: add_command
+msgid "Add command"
+msgstr "Adicionar comando"
+
+#: command_details
+msgid "Command Details"
+msgstr "Detalhes do comando"
+
+#: region
+msgid "Region"
+msgstr "Região"
+
+#: international
+msgid "International"
+msgstr "Internacional"
+
+#: uk
+msgid "United Kingdom"
+msgstr "Reino Unido"
+
+#: south_africa
+msgid "South Africa"
+msgstr "África do Sul"
+
+#: spain
+msgid "Spain"
+msgstr "Espanha"
+
+#: usa
+msgid "USA"
+msgstr "USA"
+
+#: germany
+msgid "Germany"
+msgstr "Alemanha"
+
+#: j2me_client_update
+msgid "J2ME Client Update"
+msgstr "Actualizar cliente J2ME"
+
+#: j2me_client_update_config
+msgid "J2ME Client Update Configuration"
+msgstr "Actualizar configurações do cliente J2ME"
+
+#: auto_update_client
+msgid "Automatic update for J2ME clients"
+msgstr "Actualização automática para clientes J2ME"
+
+#: client_older_than
+msgid "Update to clients older than version"
+msgstr "Actualizar para antigos clientes qua a versão"
+
+#: smpp_gw
+msgid "SMPP gateway"
+msgstr "SMPP gateway"
+
+#: processing
+msgid "Processing"
+msgstr "Processando"
+
+#: mark_as_default
+msgid "Mark as default"
+msgstr "Marcar por defeito"
+
+#: view_sent_sms
+msgid "View Sent SMS"
+msgstr "Ver envio de SMS"
+
+#: receipient
+msgid "Recipient"
+msgstr "Destinatário"
+
+#: action
+msgid "Action"
+msgstr ""
+
+#: incoming
+msgid "Incoming"
+msgstr ""
+
+#: processed
+msgid "Processed"
+msgstr ""
+
+#: failed
+msgid "Failed"
+msgstr ""
+
+#: unhandled
+msgid "Unhandled"
+msgstr ""
+
+#: reimport_confirm
+msgid "Are you sure you want to re-import this SMS?"
+msgstr ""
+
+#: edit_command
+msgid "Edit SMS command"
+msgstr "Editar comando SMS"
+
+#: data_element_category_combination
+msgid "Data Element Category Combination"
+msgstr "Combinação da categoria de elementos de dados"
+
+#: sms_command_validation_alert
+msgid "Fix validation problems before you save"
+msgstr "Resolver validação de problemas antes de guardar"
+
+#: command_management
+msgid "Command management"
+msgstr "Gestão do comando"
+
+#: dataset
+msgid "Data set"
+msgstr "Conjunto de dados"
+
+#: parser
+msgid "Parser"
+msgstr ""
+
+#: userGroup
+msgid "User Group"
+msgstr ""
+
+#: selected_dataset
+msgid "Selected data set"
+msgstr "Selecione conjunto de dados"
+
+#: code_value_separator
+msgid "Code and value Separator"
+msgstr "Separador de código e valor"
+
+#: no_codes_message
+msgid "Reply message if no codes are sent (only the command)"
+msgstr "Responder mensagens se nenhum código for enviado ( Apenas comando):"
+
+#: validation_error_space
+msgid "*White space not allowed"
+msgstr "*Espaço em branco não permitidos"
+
+#: key_value_parser
+msgctxt "key_value_parser"
+msgid "Key Value Parser"
+msgstr ""
+
+#: j2me_parser
+msgctxt "j2me_parser"
+msgid "J2ME Parser"
+msgstr ""
+
+#: mobile_phones_pattern
+msgid "Mobile Phones Pattern"
+msgstr ""
+
+#: phone_number
+msgid "Phone Number"
+msgstr ""
+
+#: filter_by_phone_number
+msgid "Filter by Phone Number"
+msgstr ""
+
+#: total_number_of_result
+msgid "Total Number of Result"
+msgstr ""
+
+#: special_characters
+msgid "Special Characters"
+msgstr ""
+
+#: value
+msgid "Value"
+msgstr ""
+
+#: add_more
+msgid "Add More"
+msgstr ""
+
+#: program
+msgid "Program"
+msgstr ""
+
+#: KEY_VALUE_PARSER
+msgctxt "KEY_VALUE_PARSER"
+msgid "Key Value Parser"
+msgstr ""
+
+#: J2ME_PARSER
+msgctxt "J2ME_PARSER"
+msgid "J2ME Parser"
+msgstr ""
+
+#: ALERT_PARSER
+msgid "Alert Parser"
+msgstr ""
+
+#: UNREGISTERED_PARSER
+msgid "Unregistered Parser"
+msgstr ""
+
+#: ANONYMOUS_PROGRAM_PARSER
+msgid "Anonymous Program Parser"
+msgstr ""
+
+#: wrong_format_message
+msgid "Wrong format message"
+msgstr ""
+
+#: no_user_message
+msgid "No user message"
+msgstr ""
+
+#: more_than_one_orgunit_message
+msgid "User belong to more than one OrgUnit message"
+msgstr ""
+
+#: completeness_method
+msgid "Completeness method"
+msgstr ""
+
+#: receive_at_least_one_datavalue
+msgid "Receive at least one data value"
+msgstr ""
+
+#: do_not_mark_complete
+msgid "Do not mark as complete"
+msgstr ""
+
+#: receive_all_datavalue
+msgid "Receive all data value"
+msgstr ""
+
+#: success_message
+msgid "Success Message"
+msgstr ""
+
+#: confirm_delete_command
+msgid "Are you sure you want to delete this command?"
+msgstr ""
+
+#: confirm_message
+msgid "Confirm Message"
+msgstr ""
+
+#: TRACKED_ENTITY_REGISTRATION_PARSER
+msgid "Tracked entity registration parser"
+msgstr ""
+
+#: tracked_entity_attribute
+msgid "Tracked entity attribute"
+msgstr ""
+
+#: name_in_used
+msgid "Name is in use"
+msgstr ""

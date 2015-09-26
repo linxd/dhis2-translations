@@ -1,0 +1,626 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-light/src/main/resources/org/hisp/dhis/light/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-light/src/main/resources/org/hisp/dhis/light/i18n_module_ar.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: DHIS_2
+msgid "DHIS2"
+msgstr ""
+
+#: menu
+msgid "Menu"
+msgstr "القائمة\n"
+
+#: home
+msgid "Home"
+msgstr "الصفحة الرئيسية"
+
+#: navigate_to
+msgid "Navigate to"
+msgstr "الانتقال إلى "
+
+#: reports
+msgid "Reports"
+msgstr "التقريرات"
+
+#: charts
+msgid "Charts"
+msgstr "الرسوم البيانية"
+
+#: documents
+msgid "Documents"
+msgstr "الوثائق"
+
+#: dashboard
+msgid "Dashboard"
+msgstr "لوحة المعلومات"
+
+#: dashboard_reports
+msgid "Dashboard reports"
+msgstr "تقريرات لوحة المعلومات"
+
+#: dashboard_charts
+msgid "Dashboard charts"
+msgstr "الرسوم البيانية لوحة المعلومات"
+
+#: dashboard_documents
+msgid "Dashboard documents"
+msgstr "وثائق لوحة المعلومات"
+
+#: data_entry
+msgid "Data Entry"
+msgstr "إدخال البيانات"
+
+#: namebased_data_entry
+msgid "Namebased Data Entry"
+msgstr "إدخال البيانات بحسب الاسم"
+
+#: data_entry_overview
+msgid "Data Entry Overview"
+msgstr "لمحة عامة عن إدخال البيانات"
+
+#: logout
+msgid "Logout"
+msgstr "تسجيل الخروج"
+
+#: desktop_version
+msgid "Desktop version"
+msgstr "إصدار سطح المكتب"
+
+#: report_table_parameters
+msgid "Report parameters"
+msgstr "متغيرات التقرير"
+
+#: get_report
+msgid "Get report"
+msgstr "احصل على تقرير "
+
+#: reporting_period
+msgid "Report period"
+msgstr "فترة التقرير"
+
+#: select_organisation_unit
+msgid "Please select organisation unit"
+msgstr "الرجاء اختيار وحدة المنظمة"
+
+#: available_datasets
+msgid "Available data sets"
+msgstr "فئات البيانات المتاحة"
+
+#: available_organisation_units
+msgid "Available organisation units"
+msgstr "وحدات المنظمة المتاحة"
+
+#: available_periods
+msgid "Available periods"
+msgstr "الفترات المتاحة"
+
+#: settings
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: language
+msgid "Interface Language"
+msgstr "لغة الواجهة"
+
+#: is_invalid_boolean
+msgid "is not a valid boolean"
+msgstr "ليس تعبيراً منطقيات صحيحاً"
+
+#: is_invalid_date
+msgid "is not a valid date (yyyy-MM-dd)"
+msgstr "ليس تاريخاً صحيحاً (يوم - شهر - سنة)"
+
+#: is_invalid_number
+msgid "is not a valid number"
+msgstr "ليس عدداً صحيحاً"
+
+#: is_invalid_integer
+msgid "is not a valid integer"
+msgstr "ليس رقماً صحيحاً"
+
+#: is_invalid_positive_integer
+msgid "is not a valid positive integer"
+msgstr "ليس رقماً إيجابياً صحيحاً"
+
+#: is_invalid_zero_or_positive_integer
+msgid "is not a valid zero or positive integer"
+msgstr "ليس رقماً صفرياً أو إيجابياً صحيحاً"
+
+#: is_invalid_negative_integer
+msgid "is not a valid negative integer"
+msgstr "ليس رقماً سلبياً صحيحاً"
+
+#: is_invalid_name
+msgid "is not a valid name"
+msgstr "ليس اسماً صحيحاً"
+
+#: is_invalid_name_length
+msgid "needs to be 7 or more characters"
+msgstr "يجب أن يكون 7 حروف أو أكثر"
+
+#: is_mandatory
+msgid "is a mandatory field"
+msgstr "حقل إلزامي"
+
+#: is_duplicate
+msgid "person identifier number is duplicated"
+msgstr "رقم تحديد الشخص متكرر"
+
+#: warnings_and_errors
+msgid "Warnings and errors"
+msgstr "التحذيرات والأخطاء"
+
+#: validation_rule_violation_warnings
+msgid "Validation Rule Violation Warnings"
+msgstr "تحذير اختراق قاعدة التحقق من الصحة "
+
+#: minmax_violation_warnings
+msgid "Min/Max Violation Warnings"
+msgstr "تحذير اختراق الحد الأدنى / والأقصى"
+
+#: type_violation_errors
+msgid "Type Violation Errors"
+msgstr "نوع الأخطاء"
+
+#: messages
+msgid "Messages"
+msgstr "الرسائل"
+
+#: conversations
+msgid "Conversations"
+msgstr "الحوارات"
+
+#: subject
+msgid "Subject"
+msgstr "الموضوع"
+
+#: reply
+msgid "Reply"
+msgstr "الرد"
+
+#: form_complete
+msgid "Form complete"
+msgstr "اكتمال النموذج"
+
+#: completed
+msgid "Completed"
+msgstr "اكتمل"
+
+#: complete_programs
+msgid "Completed Programs"
+msgstr "البرامج المكتملة"
+
+#: saved_section
+msgid "Saved Section"
+msgstr "القسم المحفوظ"
+
+#: sections
+msgid "Sections"
+msgstr "الأقسام"
+
+#: current_activityplan
+msgid "Current Activity Plan"
+msgstr "خطة النشاط الحالية"
+
+#: all_activityplan
+msgid "All Activity Plan"
+msgstr "خطة كل الأنشاطة"
+
+#: activity_type
+msgid "Activity Type"
+msgstr "نوع النشاط"
+
+#: beneficiary_list
+msgid "Person List"
+msgstr "قائمة الشخص"
+
+#: activity_list
+msgid "Activity List"
+msgstr "قائمة النشاط"
+
+#: successfully_saved
+msgid "Successfully Saved"
+msgstr "تم الحفظ بنجاح"
+
+#: select_option
+msgid "Select Option"
+msgstr "اختر أحد الخيارات"
+
+#: option_set_searching_result
+msgid "Option Set Searching Result"
+msgstr "نتيجة بحث فئة الاختيار"
+
+#: search_for
+msgid "Searching for"
+msgstr "البحث عن"
+
+#: id
+msgid "ID"
+msgstr "رقم الهوية"
+
+#: gender
+msgid "Gender"
+msgstr "الجنس"
+
+#: date_of_birth
+msgid "Date of Birth"
+msgstr "تاريخ الميلاد"
+
+#: blood_group
+msgid "Blood Group"
+msgstr "فصيلة الدم"
+
+#: details_for
+msgid "Detail For"
+msgstr "تفصيل الـ"
+
+#: organisation_unit
+msgctxt "organisation_unit"
+msgid "Organisation Unit"
+msgstr "وحدة المنظمة"
+
+#: beneficiary_registration
+msgid "Person Registration"
+msgstr "تسجيل الشخص"
+
+#: full_name
+msgid "Full Name"
+msgstr "الاسم كاملاً"
+
+#: male
+msgid "Male"
+msgstr "ذكر"
+
+#: female
+msgid "Female"
+msgstr "أنثى"
+
+#: transgender
+msgid "Transgender"
+msgstr "المتحولون جنسياً"
+
+#: is_empty
+msgid "Empty Field"
+msgstr "حقل فارغ"
+
+#: beneficiary_enrollment
+msgid "Person Enrollment"
+msgstr "إدراج الشخص"
+
+#: beneficiary_search
+msgid "Person Search"
+msgstr "البحث عن الشخص"
+
+#: beneficiary_name
+msgid "Person Name"
+msgstr "اسم الشخص"
+
+#: search_result_for
+msgid "Search Result for"
+msgstr "نتيجة البحث عن"
+
+#: search
+msgid "Search"
+msgstr "البحث"
+
+#: enrolled_programs
+msgid "Enrolled Program(s)"
+msgstr "البرامج المدرجة"
+
+#: other_programs
+msgid "Other Programs"
+msgstr "البرامج الأخرى"
+
+#: available_programs
+msgid "Available Programs"
+msgstr "البرامج المتاحة"
+
+#: no_enrolled_programs
+msgid "No Enrolled Programs"
+msgstr "لا توجد برامج مدرجة"
+
+#: no_completed_programs
+msgid "No Completed Programs"
+msgstr "برامج غير مكتملة"
+
+#: enroll
+msgid "Enroll"
+msgstr "الإدراج"
+
+#: enrollment_date
+msgid "Enrollment Date"
+msgstr "تاريخ الإدراج"
+
+#: incident_date
+msgid "Incident Date"
+msgstr "تاريخ الحادثة"
+
+#: program_list
+msgid "Program List"
+msgstr "قائمة البرنامج"
+
+#: single_event
+msgid "Single Event"
+msgstr "حدث فردي"
+
+#: single_event_list
+msgid "Single Event List"
+msgstr "قائمة الحدث الفردي"
+
+#: back_single_event_form
+msgid "Back To Single Event Form"
+msgstr "العودة إلى نموذج الحدث الفردي"
+
+#: tracking
+msgid "Tracking"
+msgstr "التتبع"
+
+#: find_beneficiary
+msgid "Find Person"
+msgstr "البحث عن الشخص"
+
+#: activity_plan
+msgid "Activity Plan"
+msgstr "خطة النشاط "
+
+#: search_by_name_or_id
+msgid "Search By Name or ID or Phone Number"
+msgstr "البحث بالاسم ورقم الهوية ورقم الهاتف"
+
+#: select_orgunit
+msgid "Select Organisation Unit"
+msgstr "اختر وحدة المنظمة"
+
+#: all_orgunit
+msgid "All Organisation Unit"
+msgstr "جميع وحدات المنظمة"
+
+#: tracking_menu
+msgid "Tracking Menu"
+msgstr "قائمة التفقد"
+
+#: due_date
+msgid "Due Date"
+msgstr "تاريخ الاستحقاق"
+
+#: register_due_date_for
+msgid "Register Due Date For"
+msgstr "سجل تاريخ الاستحقاق لـ"
+
+#: schedule
+msgid "Schedule"
+msgstr "الجدول"
+
+#: schedule_visit
+msgid "Schedule Visit"
+msgstr "جدول الزيارة"
+
+#: do_not_schedule_visit
+msgid "Do Not Schedule Visit"
+msgstr "لا تحدد جدول الزيارة"
+
+#: register
+msgid "Register"
+msgstr "التسجيل"
+
+#: please_select
+msgid "Please Select"
+msgstr "برجاء الاختيار"
+
+#: enroll_in_program
+msgid "Enroll In Program"
+msgstr "الإدراج في البرنامج"
+
+#: relationships
+msgid "Relationships"
+msgstr "العلاقات"
+
+#: no_relationships
+msgid "No Relationships"
+msgstr "لا توجد علاقات"
+
+#: phone_number
+msgid "Phone Number"
+msgstr "رقم الهاتف"
+
+#: add_relationships
+msgid "Add Relationships"
+msgstr "اضف علاقات"
+
+#: related_person_search
+msgid "Related Person Search"
+msgstr "البحث عن الشخص ذي الصلة"
+
+#: related_person_list
+msgid "Related Person List"
+msgstr "قائمة الأشخاص ذي الصلة"
+
+#: add_relationship
+msgid "Add Relationship"
+msgstr "اضف علاقة"
+
+#: anonymous_menu
+msgid "Anonymous Menu"
+msgstr "قائمة لا اسمية"
+
+#: date_of_birth_type
+msgid "Date of Birth Type"
+msgstr "نوع تاريخ الميلاد"
+
+#: approximated
+msgid "Approximated"
+msgstr "التقريبي"
+
+#: declared
+msgid "Declared"
+msgstr "المعلن"
+
+#: verified
+msgid "Verified"
+msgstr "تم التحقق من صحته"
+
+#: anomynous_program_list
+msgid "Anonymous Program List"
+msgstr "قائمة البرنامج اللا اسمية"
+
+#: orgunit
+msgctxt "orgunit"
+msgid "Organisation Unit"
+msgstr "وحدة المنظمة"
+
+#: change
+msgid "Change"
+msgstr "التغيير"
+
+#: register_location_for
+msgid "Register Location For"
+msgstr "تسجيل الموقع لـ"
+
+#: agregate_reporting
+msgid "Aggregate Reporting"
+msgstr "التقرير التجميعي"
+
+#: find_or_add_person
+msgid "Find/Add Person"
+msgstr "ابحث/اضف الشخص"
+
+#: search_by_phone_number
+msgid "Search By Phone Number"
+msgstr "البحث باستخدام رقم الهاتف"
+
+#: age_or_dob
+msgid "Age/Date of Birth"
+msgstr "العمر/تاريخ الميلاد"
+
+#: dead
+msgid "Dead"
+msgstr "المتوفي"
+
+#: status
+msgid "Status"
+msgstr "الحالة"
+
+#: visit_schedule
+msgid "Visit Schedule"
+msgstr "جدول الزيارة"
+
+#: visit_schedule_type
+msgid "Visit Schedule Type"
+msgstr "نوع جدول الزيارة"
+
+#: or_register_new_person
+msgid "or register new person"
+msgstr "أو تسجيل شخص جديد"
+
+#: invalid_phone_number
+msgid "invalid phone number"
+msgstr "رقم هاتف غير صحيح"
+
+#: save_any_way
+msgid "Save anyway"
+msgstr "الحفظ على أي حال"
+
+#: form_in_complete
+msgid "Form InComplete"
+msgstr "النموذج غير مكتمل"
+
+#: allow_provided_elsewhere
+msgid "Provided elsewhere"
+msgstr "متاحة في مكان آخر"
+
+#: search_user
+msgid "Search user by name"
+msgstr "البحث عن المستخدم بالاسم"
+
+#: last_recipients
+msgid "Last recipients"
+msgstr "آخر المتلقيين"
+
+#: search_orgunit
+msgid "Search Organisation Unit"
+msgstr "البحث في وحدة المنظمة"
+
+#: date_of_birth_hint
+msgid ""
+"*Approximated: enter age. Declared or Verified: enter date in format [yyyy-"
+"mm-dd]"
+msgstr ""
+
+#: select_attribute
+msgid "Select attribute"
+msgstr "تحديد الصفة"
+
+#: tracked_entity
+msgid "Tracked entity"
+msgstr ""
+
+#: write
+msgid "Write"
+msgstr ""
+
+#: write_message
+msgid "Write Message"
+msgstr ""
+
+#: write_feedback
+msgid "Write Feedback"
+msgstr ""
+
+#: write_new_message
+msgid "Write new message"
+msgstr ""
+
+#: write_to_users
+msgid "To User(s):"
+msgstr ""
+
+#: write_add_to_recipients
+msgid "Add to Recipient(s)"
+msgstr ""
+
+#: interpretations
+msgid "Interpretations"
+msgstr ""
+
+#: interpretation
+msgid "Interpretation"
+msgstr ""
+
+#: interpretations_support
+msgid "Only charts are currently supported for interpretations."
+msgstr ""
+
+#: interpretation_comment
+msgid "Comment(s):"
+msgstr ""
+
+#: interpretation_add_comment
+msgid "Add a comment"
+msgstr ""
+
+#: interpretation_post_comment
+msgid "Post comment"
+msgstr ""
+
+#: interpretation_share
+msgid "Share interpretation"
+msgstr ""
+
+#: share
+msgid "Share"
+msgstr ""
+
+#: chart
+msgid "Chart"
+msgstr ""

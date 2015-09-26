@@ -1,0 +1,626 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-light/src/main/resources/org/hisp/dhis/light/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-light/src/main/resources/org/hisp/dhis/light/i18n_module_ru.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: DHIS_2
+msgid "DHIS2"
+msgstr ""
+
+#: menu
+msgid "Menu"
+msgstr "Меню"
+
+#: home
+msgid "Home"
+msgstr "Домашняя страница"
+
+#: navigate_to
+msgid "Navigate to"
+msgstr "Переход"
+
+#: reports
+msgid "Reports"
+msgstr "Отчеты"
+
+#: charts
+msgid "Charts"
+msgstr "Диаграммы"
+
+#: documents
+msgid "Documents"
+msgstr "Документы"
+
+#: dashboard
+msgid "Dashboard"
+msgstr "Информационная панель"
+
+#: dashboard_reports
+msgid "Dashboard reports"
+msgstr "Отчеты информационной панели"
+
+#: dashboard_charts
+msgid "Dashboard charts"
+msgstr "Диаграммы информационной панели"
+
+#: dashboard_documents
+msgid "Dashboard documents"
+msgstr "Документы информационной панели"
+
+#: data_entry
+msgid "Data Entry"
+msgstr "Ввод данных"
+
+#: namebased_data_entry
+msgid "Namebased Data Entry"
+msgstr "Ввод данных с учетом названий"
+
+#: data_entry_overview
+msgid "Data Entry Overview"
+msgstr "Обзор ввода данных"
+
+#: logout
+msgid "Logout"
+msgstr "Выход"
+
+#: desktop_version
+msgid "Desktop version"
+msgstr "Версия рабочего стола"
+
+#: report_table_parameters
+msgid "Report parameters"
+msgstr "Параметры отчета"
+
+#: get_report
+msgid "Get report"
+msgstr "Получить отчет"
+
+#: reporting_period
+msgid "Report period"
+msgstr "Отчетный период"
+
+#: select_organisation_unit
+msgid "Please select organisation unit"
+msgstr "Пожалуйста, выберите не менее одной организации"
+
+#: available_datasets
+msgid "Available data sets"
+msgstr "Имеющиеся наборы данных"
+
+#: available_organisation_units
+msgid "Available organisation units"
+msgstr "Имеющиеся организации"
+
+#: available_periods
+msgid "Available periods"
+msgstr "Доступные периоды"
+
+#: settings
+msgid "Settings"
+msgstr "Настройки"
+
+#: language
+msgid "Interface Language"
+msgstr "Язык интерфейса"
+
+#: is_invalid_boolean
+msgid "is not a valid boolean"
+msgstr "недействительное лочическое значение"
+
+#: is_invalid_date
+msgid "is not a valid date (yyyy-MM-dd)"
+msgstr "недействительная дата (гггг-ММ-дд)"
+
+#: is_invalid_number
+msgid "is not a valid number"
+msgstr "недействительное число"
+
+#: is_invalid_integer
+msgid "is not a valid integer"
+msgstr "недействительное целое число"
+
+#: is_invalid_positive_integer
+msgid "is not a valid positive integer"
+msgstr "недействительное положительное целое число"
+
+#: is_invalid_zero_or_positive_integer
+msgid "is not a valid zero or positive integer"
+msgstr ""
+
+#: is_invalid_negative_integer
+msgid "is not a valid negative integer"
+msgstr "недействительное отрицательное целое число"
+
+#: is_invalid_name
+msgid "is not a valid name"
+msgstr "недействительное имя"
+
+#: is_invalid_name_length
+msgid "needs to be 7 or more characters"
+msgstr "должно быть 7 или более символов"
+
+#: is_mandatory
+msgid "is a mandatory field"
+msgstr "обязательное для заполнения поле"
+
+#: is_duplicate
+msgid "person identifier number is duplicated"
+msgstr "дублирован номер персонального идентификатора"
+
+#: warnings_and_errors
+msgid "Warnings and errors"
+msgstr "Предупреждения и ошибки"
+
+#: validation_rule_violation_warnings
+msgid "Validation Rule Violation Warnings"
+msgstr "Предупреждения о нарушениях правил проверки"
+
+#: minmax_violation_warnings
+msgid "Min/Max Violation Warnings"
+msgstr "Предуприеждения о нарушениях мин/макс"
+
+#: type_violation_errors
+msgid "Type Violation Errors"
+msgstr "Ошибки типичных нарушений"
+
+#: messages
+msgid "Messages"
+msgstr "Сообщения"
+
+#: conversations
+msgid "Conversations"
+msgstr "Диалоги"
+
+#: subject
+msgid "Subject"
+msgstr "Тема"
+
+#: reply
+msgid "Reply"
+msgstr "Ответить"
+
+#: form_complete
+msgid "Form complete"
+msgstr "Форма завершена"
+
+#: completed
+msgid "Completed"
+msgstr "Завершено"
+
+#: complete_programs
+msgid "Completed Programs"
+msgstr "Завершеннные программы"
+
+#: saved_section
+msgid "Saved Section"
+msgstr "Сохраненный раздел"
+
+#: sections
+msgid "Sections"
+msgstr "Разделы"
+
+#: current_activityplan
+msgid "Current Activity Plan"
+msgstr "Текущий план действий"
+
+#: all_activityplan
+msgid "All Activity Plan"
+msgstr "Все планы действий"
+
+#: activity_type
+msgid "Activity Type"
+msgstr "Вид действий"
+
+#: beneficiary_list
+msgid "Person List"
+msgstr "Список лиц"
+
+#: activity_list
+msgid "Activity List"
+msgstr "Список действий"
+
+#: successfully_saved
+msgid "Successfully Saved"
+msgstr "Успешно сохранено"
+
+#: select_option
+msgid "Select Option"
+msgstr "Выбрать опцию"
+
+#: option_set_searching_result
+msgid "Option Set Searching Result"
+msgstr "Результат поиска настроек опций"
+
+#: search_for
+msgid "Searching for"
+msgstr "Поиск"
+
+#: id
+msgid "ID"
+msgstr "ID"
+
+#: gender
+msgid "Gender"
+msgstr "Пол"
+
+#: date_of_birth
+msgid "Date of Birth"
+msgstr "Дата рождения"
+
+#: blood_group
+msgid "Blood Group"
+msgstr "Группа крови"
+
+#: details_for
+msgid "Detail For"
+msgstr "Детали по"
+
+#: organisation_unit
+msgctxt "organisation_unit"
+msgid "Organisation Unit"
+msgstr "Организация"
+
+#: beneficiary_registration
+msgid "Person Registration"
+msgstr "Регистрация лица"
+
+#: full_name
+msgid "Full Name"
+msgstr "Полное имя"
+
+#: male
+msgid "Male"
+msgstr "Мужчина"
+
+#: female
+msgid "Female"
+msgstr "Женщина"
+
+#: transgender
+msgid "Transgender"
+msgstr "Трансгендер/Лицо, поменявшее пол"
+
+#: is_empty
+msgid "Empty Field"
+msgstr "Пустое поле"
+
+#: beneficiary_enrollment
+msgid "Person Enrollment"
+msgstr "Включение лица"
+
+#: beneficiary_search
+msgid "Person Search"
+msgstr "Поиск лица"
+
+#: beneficiary_name
+msgid "Person Name"
+msgstr "Имя лица"
+
+#: search_result_for
+msgid "Search Result for"
+msgstr "Результат поиска для/по"
+
+#: search
+msgid "Search"
+msgstr "Поиск"
+
+#: enrolled_programs
+msgid "Enrolled Program(s)"
+msgstr "Включенные(ая) программы(а)"
+
+#: other_programs
+msgid "Other Programs"
+msgstr "Другие программы"
+
+#: available_programs
+msgid "Available Programs"
+msgstr "Имеющиеся программы"
+
+#: no_enrolled_programs
+msgid "No Enrolled Programs"
+msgstr "Нет включенных программ"
+
+#: no_completed_programs
+msgid "No Completed Programs"
+msgstr "Нет завершенных программ"
+
+#: enroll
+msgid "Enroll"
+msgstr "Включить"
+
+#: enrollment_date
+msgid "Enrollment Date"
+msgstr "Дата включения"
+
+#: incident_date
+msgid "Incident Date"
+msgstr "Дата происшествия"
+
+#: program_list
+msgid "Program List"
+msgstr "Список программ"
+
+#: single_event
+msgid "Single Event"
+msgstr "Одиночное событие"
+
+#: single_event_list
+msgid "Single Event List"
+msgstr "Список одиночных событий"
+
+#: back_single_event_form
+msgid "Back To Single Event Form"
+msgstr "Назад к форме одиночного события"
+
+#: tracking
+msgid "Tracking"
+msgstr "Отслеживание"
+
+#: find_beneficiary
+msgid "Find Person"
+msgstr "Найти лицо"
+
+#: activity_plan
+msgid "Activity Plan"
+msgstr "График посещений"
+
+#: search_by_name_or_id
+msgid "Search By Name or ID or Phone Number"
+msgstr "Поиск по имени, ID или телефонному номеру"
+
+#: select_orgunit
+msgid "Select Organisation Unit"
+msgstr "Выбрать организацию"
+
+#: all_orgunit
+msgid "All Organisation Unit"
+msgstr "Все организации"
+
+#: tracking_menu
+msgid "Tracking Menu"
+msgstr "Меню отслеживания"
+
+#: due_date
+msgid "Due Date"
+msgstr "Дата выполнения"
+
+#: register_due_date_for
+msgid "Register Due Date For"
+msgstr "Регистрировать срок исполнения по"
+
+#: schedule
+msgid "Schedule"
+msgstr "График"
+
+#: schedule_visit
+msgid "Schedule Visit"
+msgstr "Список графиков"
+
+#: do_not_schedule_visit
+msgid "Do Not Schedule Visit"
+msgstr "Не планировать посещения"
+
+#: register
+msgid "Register"
+msgstr "Регистрировать"
+
+#: please_select
+msgid "Please Select"
+msgstr "Пожалуйста, выберите"
+
+#: enroll_in_program
+msgid "Enroll In Program"
+msgstr "Включить в программу"
+
+#: relationships
+msgid "Relationships"
+msgstr "Связи"
+
+#: no_relationships
+msgid "No Relationships"
+msgstr "Нет связей"
+
+#: phone_number
+msgid "Phone Number"
+msgstr "Номер мобильного телефона"
+
+#: add_relationships
+msgid "Add Relationships"
+msgstr "Добавить связи"
+
+#: related_person_search
+msgid "Related Person Search"
+msgstr "Поиск аффилированного лица"
+
+#: related_person_list
+msgid "Related Person List"
+msgstr "Список аффилированного лица"
+
+#: add_relationship
+msgid "Add Relationship"
+msgstr "Добавить связи"
+
+#: anonymous_menu
+msgid "Anonymous Menu"
+msgstr "Анонимное меню"
+
+#: date_of_birth_type
+msgid "Date of Birth Type"
+msgstr "Тип даты рождения"
+
+#: approximated
+msgid "Approximated"
+msgstr "Приближенно вычислен"
+
+#: declared
+msgid "Declared"
+msgstr "Описан/Заявлен"
+
+#: verified
+msgid "Verified"
+msgstr "Подтвержден"
+
+#: anomynous_program_list
+msgid "Anonymous Program List"
+msgstr "Список анонимных программ"
+
+#: orgunit
+msgctxt "orgunit"
+msgid "Organisation Unit"
+msgstr "Организация"
+
+#: change
+msgid "Change"
+msgstr "Изменить"
+
+#: register_location_for
+msgid "Register Location For"
+msgstr "Регистрировать местонахождение для"
+
+#: agregate_reporting
+msgid "Aggregate Reporting"
+msgstr "Аггрегированная отчетность"
+
+#: find_or_add_person
+msgid "Find/Add Person"
+msgstr "Найти/Добавить лицо"
+
+#: search_by_phone_number
+msgid "Search By Phone Number"
+msgstr "Поиск по телефонному номеру"
+
+#: age_or_dob
+msgid "Age/Date of Birth"
+msgstr "Возраст/Дата рождения"
+
+#: dead
+msgid "Dead"
+msgstr "Мертвый"
+
+#: status
+msgid "Status"
+msgstr "Состояние"
+
+#: visit_schedule
+msgid "Visit Schedule"
+msgstr "График посещений"
+
+#: visit_schedule_type
+msgid "Visit Schedule Type"
+msgstr "Тип графика посещений"
+
+#: or_register_new_person
+msgid "or register new person"
+msgstr "или регистрировать новое лицо"
+
+#: invalid_phone_number
+msgid "invalid phone number"
+msgstr "Недействительный номер телефона"
+
+#: save_any_way
+msgid "Save anyway"
+msgstr "Сохранить в любом случае"
+
+#: form_in_complete
+msgid "Form InComplete"
+msgstr "Форма незавершена"
+
+#: allow_provided_elsewhere
+msgid "Provided elsewhere"
+msgstr "Предоставлено в другом месте"
+
+#: search_user
+msgid "Search user by name"
+msgstr "Поиск пользователя по имени"
+
+#: last_recipients
+msgid "Last recipients"
+msgstr "Последний получатель"
+
+#: search_orgunit
+msgid "Search Organisation Unit"
+msgstr "Поиск организации"
+
+#: date_of_birth_hint
+msgid ""
+"*Approximated: enter age. Declared or Verified: enter date in format [yyyy-"
+"mm-dd]"
+msgstr ""
+
+#: select_attribute
+msgid "Select attribute"
+msgstr ""
+
+#: tracked_entity
+msgid "Tracked entity"
+msgstr ""
+
+#: write
+msgid "Write"
+msgstr ""
+
+#: write_message
+msgid "Write Message"
+msgstr ""
+
+#: write_feedback
+msgid "Write Feedback"
+msgstr ""
+
+#: write_new_message
+msgid "Write new message"
+msgstr ""
+
+#: write_to_users
+msgid "To User(s):"
+msgstr ""
+
+#: write_add_to_recipients
+msgid "Add to Recipient(s)"
+msgstr ""
+
+#: interpretations
+msgid "Interpretations"
+msgstr ""
+
+#: interpretation
+msgid "Interpretation"
+msgstr ""
+
+#: interpretations_support
+msgid "Only charts are currently supported for interpretations."
+msgstr ""
+
+#: interpretation_comment
+msgid "Comment(s):"
+msgstr ""
+
+#: interpretation_add_comment
+msgid "Add a comment"
+msgstr ""
+
+#: interpretation_post_comment
+msgid "Post comment"
+msgstr ""
+
+#: interpretation_share
+msgid "Share interpretation"
+msgstr ""
+
+#: share
+msgid "Share"
+msgstr ""
+
+#: chart
+msgid "Chart"
+msgstr ""

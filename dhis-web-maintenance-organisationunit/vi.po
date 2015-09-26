@@ -1,0 +1,502 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-organisationunit/src/main/resources/org/hisp/dhis/oum/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-organisationunit/src/main/resources/org/hisp/dhis/oum/i18n_module_vi.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: create_new_root
+msgid "Are you sure you want to create a new root organisation unit?"
+msgstr "Bạn có muốn xóa đơn vị này?"
+
+#: create_new_org_unit
+msgid "Create new organisation unit"
+msgstr "Tạo mới đơn vị"
+
+#: registers_data
+msgid "Registers data"
+msgstr "Dữ liệu đăng ký"
+
+#: crease_new_org_unit_group
+msgid "Create new organisation unit group"
+msgstr "Tạo mới nhóm đơn vị"
+
+#: hierarchy_operations
+msgid "Hierarchy operations"
+msgstr "Thao tác cấu trúc"
+
+#: select_an_org_unit_to_move
+msgid "Select an organisation unit to move"
+msgstr "Chọn một đơn vị để di chuyển"
+
+#: not_selected
+msgid "Not selected"
+msgstr "Không được chọn"
+
+#: confirm
+msgid "Confirm"
+msgstr "Xác nhận"
+
+#: select_the_new_parent_org_unit_for_the_one_to_move
+msgid "Select the new parent organisation unit for the one to move"
+msgstr "Chọn một đơn vị cha cho đơn vị di chuyển tới"
+
+#: not_selected_moved_to_root_position
+msgctxt "not_selected_moved_to_root_position"
+msgid "Not selected, moved to root position"
+msgstr "Không chọn, di chuyển tới vị trí gốc"
+
+#: reset
+msgid "Reset"
+msgstr "Thiết lập lại"
+
+#: org_unit
+msgid "Organisation Unit"
+msgstr "Đơn vị"
+
+#: org_unit_group
+msgid "Organisation Unit Group"
+msgstr "Nhóm đơn vị"
+
+#: hierarchy_operations_menu
+msgid "Hierarchy Operations"
+msgstr "Thao tác cấu trúc"
+
+#: org_unit_level
+msgid "Organisation Unit Level"
+msgstr "Cấp đơn vị"
+
+#: org_unit_management
+msgid "Organisation unit management"
+msgstr "Quản lí các đơn vị"
+
+#: this_org_unit_has_no_children
+msgid "This organisation unit has no children"
+msgstr "Đơn vị này không có con"
+
+#: org_unit_group_management
+msgid "Organisation unit group management"
+msgstr "Quản lí nhóm đơn vị"
+
+#: number_of_group_members
+msgid "Number of group members"
+msgstr "Số nhóm thành viên"
+
+#: edit_org_unit
+msgid "Edit organisation unit"
+msgstr "Chỉnh sửa đơn vị"
+
+#: edit_org_unit_group
+msgid "Edit organisation unit group"
+msgstr "Chỉnh sửa nhóm đơn vị"
+
+#: the_selected_organisation_unit_is_already_a_root
+msgid ""
+"The selected organisation unit is already a root. Please select a new parent "
+"organisation unit"
+msgstr "Đơn vị đang chọn đã là đơn vị gốc. Xin chọn một đơn vị cha khác"
+
+#: the_selected_organisation_unit_will_be_moved_to_root
+msgid "The selected organisation unit will be moved to root"
+msgstr "Đơn vị đang chọn sẽ được di chuyển tới vị trí gốc"
+
+#: an_organisation_unit_cannot_be_moved_to_itself
+msgid ""
+"An organisation unit cannot be moved to itself. Please select a new parent "
+"organisation unit"
+msgstr ""
+"Một đơn vị không thể di chuyển tới chính nó. Xin chọn một đơn vị cha mới"
+
+#: an_org_unit_cannot_be_moved_to_be_its_own_child
+msgid ""
+"An organisation unit cannot be moved to be its own child. Please select a "
+"new parent organisation unit"
+msgstr ""
+"Một đơn vị không thể di chuyển đến con của chính nó. Xin chọn một đơn vị cha "
+"mới"
+
+#: the_new_parent_org_unit_is_approved
+msgid "The new parent organisation unit is approved"
+msgstr "Đơn vị cha mới được chấp nhận"
+
+#: name_in_use
+msgid "The name is already in use. Please choose a different name."
+msgstr "Tên này đã được sử dụng. Xin chọn một tên khác"
+
+#: code_in_use
+msgid "The code is already in use. Please choose a different code."
+msgstr "Tên này đã được sử dụng. Xin chọn một tên khác"
+
+#: this_org_unit_cannot_moved
+msgid ""
+"This organisation unit cannot be moved. Please select a new organisation "
+"unit to move"
+msgstr "Đơn vị này không thể di chuyển. Xin chọn một đơn vị khác để di chuyển"
+
+#: the_org_unit_to_move_is_approved
+msgid "The organisation unit to move is approved"
+msgstr "Đơn vị di chuyển được chấp nhận"
+
+#: not_selected_moved_to_root_position
+msgctxt "not_selected_moved_to_root_position"
+msgid "Not selected, moved to root position"
+msgstr "Không chọn, di chuyển tới vị trí gốc"
+
+#: verification_of_the_new_parent_org_unit_failed
+msgid ""
+"Verification of the new parent organisation unit failed with the following "
+"message"
+msgstr "Kiểm tra đơn vị cha mới không thành công với lỗi sau"
+
+#: confirm_to_delete_org_unit
+msgid "Are you sure you want to delete this organisation unit?"
+msgstr "Bạn có muốn xóa đơn vị này?"
+
+#: adding_the_org_unit_failed
+msgid "Adding the organisation unit failed with the following message"
+msgstr "Thêm mới đơn vị không thành công với lỗi sau"
+
+#: saving_the_org_unit_failed
+msgid "Saving the organisation unit failed with the following message"
+msgstr "Lưu đơn vị không thành công với lỗi sau"
+
+#: confirm_to_delete_org_unit_group
+msgid "Are you sure you want to delete this Organisation Unit Group?"
+msgstr "Bạn có muốn xóa nhóm đơn vị này?"
+
+#: confirm_to_delete_org_unit_group_set
+msgid "Are you sure you want to delete this organisation unit group set?"
+msgstr "Bạn có chắc muốn xóa loại nhóm đơn vị?"
+
+#: org_unit_group_set_management
+msgid "Organisation unit group set management"
+msgstr "Quản lý loại nhóm đơn vị"
+
+#: org_unit_group_set
+msgid "Organisation Unit Group Set"
+msgstr "Loại nhóm đơn vị"
+
+#: saving_the_org_unit_group_set_failed
+msgid ""
+"Saving the organisation unit group set failed with the following message"
+msgstr "Quá trình lưu loại nhóm đơn vị không thành công với thông báo sau"
+
+#: create_new_org_unit_group_set
+msgctxt "create_new_org_unit_group_set"
+msgid "Create new organisation unit group set"
+msgstr "Tạo mới loại nhóm đơn vị"
+
+#: compulsory
+msgid "Compulsory"
+msgstr "Bắt buộc"
+
+#: data_dimension
+msgid "Data Dimension"
+msgstr ""
+
+#: exclusive
+msgid "Exclusive"
+msgstr "Duy nhất"
+
+#: create_new_org_unit_group_set
+msgctxt "create_new_org_unit_group_set"
+msgid "Create new organisation unit group set"
+msgstr "Tạo mới loại nhóm đơn vị"
+
+#: edit_org_unit_group_set
+msgid "Edit organisation unit group set"
+msgstr "Chỉnh sửa loại nhóm đơn vị"
+
+#: number_of_members
+msgid "Number of members"
+msgstr "Số lượng thành viên"
+
+#: available_groups
+msgid "Available groups"
+msgstr "Nhóm có sẵn"
+
+#: selected_groups
+msgid "Selected groups"
+msgstr "Các nhóm đã chọn"
+
+#: the_group_set_can_not_be_creat_bec_it_is_exc_and
+msgid "The group set can not be created because it is exclusive and"
+msgstr "Loại nhóm không thể tạo vì nó duy nhất và"
+
+#: is_a_member_of_more_than_one_selected_group
+msgid "is a member of more than one selected group"
+msgstr "Là thành viên của hơn một nhóm được chọn"
+
+#: move_selected
+msgid "Move selected"
+msgstr "Di chuyển các mục đã chọn"
+
+#: move_all
+msgid "Move all"
+msgstr "Di chuyển tất cả"
+
+#: remove_selected
+msgid "Remove selected"
+msgstr "Xóa các mục chọn"
+
+#: remove_all
+msgid "Remove all"
+msgstr "Xóa tất cả"
+
+#: organisation_unit_level_management
+msgid "Organisation unit level management"
+msgstr "Quản lý cấp đơn vị"
+
+#: level
+msgid "Level"
+msgstr "Cấp"
+
+#: code
+msgid "Code"
+msgstr "Mã số"
+
+#: object_not_deleted_associated_by_objects
+msgid "Object not deleted because it is associated by objects of type"
+msgstr "Đối tượng không xóa được vì được liên kết với các đối tượng phân loại"
+
+#: registers_date
+msgid "Registers date"
+msgstr "Đăng kí dữ liệu"
+
+#: hide_warning
+msgid "Hide warning"
+msgstr "Ẩn khuyến cáo"
+
+#: url
+msgid "URL"
+msgstr "Liên kết URL"
+
+#: latitude
+msgid "Latitude"
+msgstr "Vĩ độ"
+
+#: longitude
+msgid "Longitude"
+msgstr "Kinh tuyến"
+
+#: latitude_optional
+msgid "Latitude (optional)"
+msgstr "Vĩ độ (tùy chọn)"
+
+#: longitude_optional
+msgid "Longitude (optional)"
+msgstr "Kinh độ (tùy chọn)"
+
+#: assign_to_compulsory_group_set
+msgid "Assign to compulsory organisation unit group set"
+msgstr "Gán tập nhóm đơn vị bắt buộc"
+
+#: organisation_unit_group_set
+msgid "Organisation unit group set"
+msgstr "Tập các nhóm đơn vị"
+
+#: group_members
+msgid "Group members"
+msgstr "Các thành viên nhóm"
+
+#: last_updated
+msgid "Last updated"
+msgstr "Cập nhật cuối"
+
+#: intro_org_unit
+msgid ""
+"Create, modify, view and delete organisation units, which can be "
+"departments, offices, hospitals and clinics."
+msgstr ""
+"Tạo, chỉnh sửa, xem và xóa các đơn vị mà chúng là các ban ngành, văn phòng "
+"trụ sở, bệnh viện và trạm Y tế."
+
+#: intro_org_unit_group
+msgid ""
+"Create, modify, view and delete organisation unit groups. Groups are used "
+"for improved analysis."
+msgstr ""
+"Tạo, chỉnh sửa, xem và xóa các tập đơn vị. Các nhóm được dùng cho phân tích "
+"nâng cao."
+
+#: intro_org_unit_group_set
+msgid ""
+"Create, modify, view and delete organisation unit group sets. Group sets are "
+"used for improved analysis."
+msgstr ""
+"Tạo, chỉnh sửa, xem và xóa các tập các nhóm của đơn vị. Các tập của nhóm đơn "
+"vị được dùng cho phân tích nâng cao."
+
+#: intro_org_unit_level
+msgid ""
+"Create, modify, view and delete descriptive names for the organisation unit "
+"levels in the system."
+msgstr ""
+"Tạo, chỉnh sửa, xem và xóa các tên đặc trưng cho các cấp của đơn vị trong hệ "
+"thống"
+
+#: intro_org_unit_search
+msgid ""
+"Search organisation units based on name and group sets. View extended "
+"information for individual units."
+msgstr ""
+"Tìm kiếm các đơn vị dựa vào tên và tập hợp. Xem thông tin chi tiết cho từng "
+"đơn vị."
+
+#: intro_hierarchy_operations_menu
+msgid ""
+"Move organisation units in the organisation unit tree. All children will be "
+"moved along with the unit."
+msgstr ""
+"Di chuyển các đơn vị trong cây thư mục. Tất cả các đơn vị con sẽ được lấy ra "
+"khỏi cùng với đơn vị cha."
+
+#: loading
+msgid "Loading"
+msgstr "Đang nạp"
+
+#: coordinates
+msgid "Coordinates"
+msgstr "Hệ tọa độ"
+
+#: org_unit_search
+msgid "Organisation Unit Search"
+msgstr "Tìm kiếm đơn vị"
+
+#: org_unit_search_management
+msgid "Organisation unit search"
+msgstr "Tìm kiếm đơn vị"
+
+#: criteria
+msgid "Criteria"
+msgstr "Tiêu chuẩn"
+
+#: options
+msgid "Options"
+msgstr "Các chọn lựa"
+
+#: all
+msgctxt "all"
+msgid "All"
+msgstr "Tất cả"
+
+#: search
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: organisation_units
+msgid "organisation units"
+msgstr "Các đơn vị"
+
+#: found
+msgid "Found"
+msgstr "Đã tìm thấy"
+
+#: all
+msgctxt "all"
+msgid "All"
+msgstr "Tất cả"
+
+#: please_select_from_tree
+msgid "Please select from tree (optional)"
+msgstr "Hãy chọn từ cây thư mục (tùy ý)"
+
+#: polygon
+msgid "Polygon"
+msgstr "Đường"
+
+#: point
+msgid "Point"
+msgstr "Điểm"
+
+#: offline_levels
+msgid "Offline levels"
+msgstr ""
+
+#: available_data_sets
+msgid "Available data sets"
+msgstr "Biểu nhập hiện có"
+
+#: selected_data_sets
+msgid "Selected data sets"
+msgstr "Biểu nhập được chọn"
+
+#: limited
+msgid "Limited"
+msgstr "Giới hạn"
+
+#: get_report_as_xls
+msgid "Download as Excel"
+msgstr "Lưu XLS"
+
+#: get_report_as_csv
+msgid "Download as CSV"
+msgstr "Lưu CSV"
+
+#: get_report_as_pdf
+msgid "Download as PDF"
+msgstr "Lưu PDF"
+
+#: please_wait_while_downloading
+msgid "Please wait while downloading report"
+msgstr "Hãy chờ khi tải xuống báo cáo"
+
+#: please_wait_while_searching
+msgid "Please wait while searching"
+msgstr "Hãy chờ khi tìm kiếm"
+
+#: hierarchy
+msgid "Hierarchy"
+msgstr "Cấu trúc"
+
+#: data_sets
+msgid "Data sets"
+msgstr "Biểu nhập"
+
+#: organisation_unit_groups
+msgid "Organisation unit groups"
+msgstr "Nhóm đơn vị"
+
+#: select_group
+msgid "Select group"
+msgstr "Chọn nhóm"
+
+#: phone_number
+msgid "Phone number"
+msgstr ""
+
+#: select_symbol
+msgid "Select symbol"
+msgstr ""
+
+#: symbol
+msgid "Symbol"
+msgstr ""
+
+#: name_code_identifier
+msgid "Name, code or identifier"
+msgstr ""
+
+#: identifier
+msgid "Identifier"
+msgstr ""
+
+#: short_name_in_use
+msgid "The short name is already in use. Please choose a different short name"
+msgstr "Tên này đã được sử dụng. Xin chọn một tên khác"
+
+#: show_all_sections
+msgid "Show all sections"
+msgstr ""
+
+#: org_unit_levels_not_yet_saved
+msgid "Organisation unit level is not yet saved, please save"
+msgstr ""

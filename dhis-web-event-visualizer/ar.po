@@ -1,0 +1,965 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-apps/src/main/webapp/dhis-web-event-visualizer/i18n/i18n_app.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-apps/src/main/webapp/dhis-web-event-visualizer/i18n/i18n_app_ar.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: dimensions
+msgid "Dimensions"
+msgstr "الابعاد"
+
+#: table_layout
+msgid "Table layout"
+msgstr "تخطيط الجدول"
+
+#: show_totals
+msgid "Show totals"
+msgstr "اظهر الاجمالي"
+
+#: show_subtotals
+msgid "Show sub-totals"
+msgstr "اظهر الاجمالي الفرعي"
+
+#: hide_empty_rows
+msgid "Hide empty rows"
+msgstr "اخفِ الصفوف الفارغة"
+
+#: display_density
+msgid "Display density"
+msgstr "اعرض الكثافة"
+
+#: font_size
+msgid "Font size"
+msgstr "حجم الخط"
+
+#: digit_group_separator
+msgid "Digit group separator"
+msgstr "فاصل مجموعة الخانات"
+
+#: comfortable
+msgid "Comfortable"
+msgstr "مريح"
+
+#: compact
+msgid "Compact"
+msgstr "مدمج"
+
+#: large
+msgid "Large"
+msgstr "كبير"
+
+#: small_
+msgid "Small"
+msgstr "صغير"
+
+#: normal
+msgid "Normal"
+msgstr "طبيعي"
+
+#: reporting_period
+msgid "Reporting period"
+msgstr "فترة اعداد"
+
+#: organisation_unit
+msgid "Organisation unit"
+msgstr "وحدة تنظيم"
+
+#: organisation_units
+msgid "Organisation units"
+msgstr "وحدات تنظيمية"
+
+#: parent_organisation_unit
+msgid "Parent organisation unit"
+msgstr "وحدة التنظيم الأم (الأساسية)"
+
+#: user_organisation_unit
+msgid "User org unit"
+msgstr "وحدة تنظيم المستخدم"
+
+#: table_options
+msgid "Table options"
+msgstr "خيارات الجدول"
+
+#: create
+msgid "Create"
+msgstr "انشئ"
+
+#: update
+msgid "Update"
+msgstr "حدِث"
+
+#: cancel
+msgid "Cancel"
+msgstr "الغِ"
+
+#: delete_
+msgid "Delete"
+msgstr "احذف"
+
+#: save
+msgid "Save"
+msgstr "احفظ"
+
+#: hide
+msgid "Hide"
+msgstr "اخفِ"
+
+#: add_new
+msgid "Add new"
+msgstr "أضف جديد"
+
+#: manage_favorites
+msgid "Manage favorites"
+msgstr "نظِم المفضلات"
+
+#: search_for_favorites
+msgid "Search for favorites"
+msgstr "ابحث عن المفضلات"
+
+#: overwrite_favorite
+msgid "Overwrite favorite"
+msgstr "استبدل كتابة المفضلات"
+
+#: delete_favorite
+msgid "Delete favorite"
+msgstr "احذف المفضلة"
+
+#: prev
+msgid "Prev"
+msgstr "سابق"
+
+#: next
+msgid "Next"
+msgstr "لاحق"
+
+#: rename
+msgid "Rename"
+msgstr "اعادة تسمية"
+
+#: overwrite
+msgid "Overwrite"
+msgstr "اعادة كتابة"
+
+#: share_with_other_people
+msgid "Share with other people"
+msgstr "مشاركة مع الآخرين"
+
+#: sharing_settings
+msgid "Sharing settings"
+msgstr "ضبط المشاركة"
+
+#: can_view
+msgid "Can view"
+msgstr "يمكن عرض"
+
+#: can_edit_and_view
+msgid "Can edit and view"
+msgstr "يمكن عرض و اظهار"
+
+#: none
+msgid "None"
+msgstr "لا شيء"
+
+#: public_access
+msgid "Public access"
+msgstr "دخول عام"
+
+#: search_for_user_groups
+msgid "Search for user groups"
+msgstr "بحث عن مجموعات المستخدمين"
+
+#: available
+msgid "Available"
+msgstr "متوفر"
+
+#: selected
+msgid "Selected"
+msgstr "مختارة"
+
+#: indicators
+msgid "Indicators"
+msgstr "مؤشرات"
+
+#: all_indicator_groups
+msgid "All indicator groups"
+msgstr "كل مجموعات المؤشرات"
+
+#: select_indicator_group
+msgid "Select indicator group"
+msgstr "اختر مجموعة المؤشرات"
+
+#: data_elements
+msgid "Data elements"
+msgstr "عناصر البيانات"
+
+#: all_data_element_groups
+msgid "All data element groups"
+msgstr "كل مجموعات عناصر البيانات"
+
+#: select_data_element_group
+msgid "Select data element group"
+msgstr "اختر مجموعة عناصر البيانات"
+
+#: data_sets
+msgid "Data sets"
+msgstr "مجموعات البيانات"
+
+#: reporting_rates
+msgid "Reporting rates"
+msgstr "نسب الإعداد / التقارير"
+
+#: periods
+msgid "Periods"
+msgstr "فترات"
+
+#: select_period_type
+msgid "Select period type"
+msgstr "اختر نوع الفترة"
+
+#: weeks
+msgid "Weeks"
+msgstr "أسابيع"
+
+#: last_week
+msgid "Last week"
+msgstr "الاسبوع الفائت"
+
+#: last_4_weeks
+msgid "Last 4 weeks"
+msgstr "الأسابيع الأربعة الفائتة"
+
+#: last_12_weeks
+msgid "Last 12 weeks"
+msgstr "آخر 12 اسبوعا"
+
+#: months
+msgid "Months"
+msgstr "أشهر"
+
+#: last_month
+msgid "Last month"
+msgstr "الشهر الماضي"
+
+#: last_3_months
+msgid "Last 3 months"
+msgstr "الأشهر الثلاثة الماضية"
+
+#: last_12_months
+msgid "Last 12 months"
+msgstr "اخر 12 شهرا"
+
+#: bimonths
+msgid "Bi-months"
+msgstr "أشهر ثنائية"
+
+#: last_bimonth
+msgid "Last bi-month"
+msgstr "الأشهر الثنائية الماضية"
+
+#: last_6_bimonths
+msgid "Last 6 bi-months"
+msgstr "الأشهر الثنائية الست الماضية"
+
+#: quarters
+msgid "Quarters"
+msgstr "أرباع"
+
+#: last_quarter
+msgid "Last quarter"
+msgstr "الربع الأخير"
+
+#: last_4_quarters
+msgid "Last 4 quarters"
+msgstr "الأرباع الأربعة الأخيرة"
+
+#: sixmonths
+msgid "Six-months"
+msgstr "ست أشهر"
+
+#: last_sixmonth
+msgid "Last six-month"
+msgstr "الأشهر الست الماضية"
+
+#: last_2_sixmonths
+msgid "Last 2 six-months"
+msgstr "آخر ستتي أشهر"
+
+#: years
+msgid "Years"
+msgstr "سنوات"
+
+#: this_year
+msgid "This year"
+msgstr "هذه السنة"
+
+#: last_year
+msgid "Last year"
+msgstr "السنة الفائتة"
+
+#: last_5_years
+msgid "Last 5 years"
+msgstr "آخر 5 سنوات"
+
+#: financial_years
+msgid "Financial years"
+msgstr "سنوات مالية"
+
+#: last_financial_year
+msgid "Last financial year"
+msgstr "السنة المالية الفائتة"
+
+#: last_5_financial_years
+msgid "Last 5 financial years"
+msgstr "الخمس السنوات المالية الفائتة"
+
+#: prev_year
+msgid "Prev year"
+msgstr "السنة السابقة"
+
+#: next_year
+msgid "Next year"
+msgstr "السنة اللاحقة"
+
+#: select_all_children
+msgid "Select all children"
+msgstr "اختر كل الأطفال"
+
+#: table
+msgid "Table"
+msgstr "جدول"
+
+#: chart
+msgid "Chart"
+msgstr "مخطط"
+
+#: map
+msgid "Map"
+msgstr "خريطة"
+
+#: home
+msgid "Home"
+msgstr "الصفحة الرئيسية"
+
+#: data
+msgid "Data"
+msgstr "بيانات"
+
+#: categories
+msgid "Categories"
+msgstr "تصنيفات"
+
+#: style
+msgid "Style"
+msgstr "اسلوب"
+
+#: parameters
+msgid "Parameters"
+msgstr "عوامل متغيرة"
+
+#: for_standard_reports_only
+msgid "for standard reports only"
+msgstr "للتقارير القياسية فقط"
+
+#: please_create_a_table_first
+msgid "Please create a table first"
+msgstr "رجاءً انشئ جدولاً في البداية"
+
+#: indicators_cannot_be_specified_as_filter
+msgid "Indicators cannot be specified as filter"
+msgstr "لايمكن للمؤشرات أن تحدد كتصفية"
+
+#: categories_cannot_be_specified_as_filter
+msgid "Categories cannot be specified as filter"
+msgstr "لايمكن للفئات أن تحدد تصفية"
+
+#: data_element_group_sets_cannot_be_specified_together_with_data_sets
+msgid "Data element group sets cannot be specified together with data sets"
+msgstr "لا يمكن لمجموعة التصنيفات لعناصر البيانات أن تحدد مع مجموعات البيانات"
+
+#: at_least_one_dimension_must_be_specified_as_row_or_column
+msgid "At least one dimension must be specified as row or column"
+msgstr "يجب أن يتم تحديد بعد واحد على الأقل كصف أو عمود"
+
+#: at_least_one_period_must_be_specified_as_column_row_or_filter
+msgid "At least one period must be specified as column row or filter"
+msgstr "يجب أن يتم تحديد فترة واحدة على الأقل كصف عمودي أو تصفية"
+
+#: layout
+msgid "Layout"
+msgstr "تصميم"
+
+#: options
+msgid "Options"
+msgstr "خيارات"
+
+#: download
+msgid "Download"
+msgstr "تنزيل"
+
+#: favorites
+msgid "Favorites"
+msgstr "تفضيلات"
+
+#: include_regression
+msgid "Include regression"
+msgstr "تتضمن تراجعاً"
+
+#: include_cumulative
+msgid "Include cumulative"
+msgstr "تتضمن تراكماً"
+
+#: sort_order
+msgid "Sort order"
+msgstr "افرز الترتيب"
+
+#: low_to_high
+msgid "Low to high"
+msgstr "من الأقل الى الأكثر"
+
+#: high_to_low
+msgid "High to low"
+msgstr "من الأكثر الى الأقل"
+
+#: top_limit
+msgid "Top limit"
+msgstr "الحد الأعلى"
+
+#: plain_data_sources
+msgid "Plain data source"
+msgstr "مصدر بيانات بسيط"
+
+#: graphics
+msgid "Graphics"
+msgstr "تخطيط"
+
+#: data_sets_cannot_be_specified_as_filter
+msgid "Data sets cannot be specified as filter"
+msgstr "لا يمكن لمجموعات البيانات أن تحدد كتصفية"
+
+#: share
+msgid "Share"
+msgstr "مشاركة"
+
+#: interpretation
+msgid "interpretation"
+msgstr "ترجمة فورية"
+
+#: write_your_interpretation
+msgid "Write a comment question or interpretation"
+msgstr "اكتب تعليقاً , سؤالاً أو ترجمةً فوريةً"
+
+#: legend_set
+msgid "Legend set"
+msgstr "مجموعة الشروحات"
+
+#: select_organisation_units
+msgid "Select organisation units"
+msgstr "اختر وحدات التنظيم"
+
+#: select_boundaries_and_levels
+msgid "Select boundaries and levels"
+msgstr "اختر حدوداً و مستويات"
+
+#: select_organisation_unit_levels
+msgid "Select organisation unit levels"
+msgstr "اختر مستويات وحدة التنظيم"
+
+#: totals
+msgid "Totals"
+msgstr "الاجمالي"
+
+#: details
+msgid "Details"
+msgstr "تفاصيل"
+
+#: select_boundaries_and_groups
+msgid "Select boundaries and groups"
+msgstr "اختر حدوداً و مجموعات"
+
+#: select_organisation_unit_groups
+msgid "Select organisation unit groups"
+msgstr "اختر مجموعات وحدة التنظيم"
+
+#: allow_external_access
+msgid "Allow external access"
+msgstr "السماح بالدخول الخارجي"
+
+#: show_hierarchy
+msgid "Show hierarchy"
+msgstr "اظهر التسلسل الهرمي"
+
+#: all_indicators
+msgid "All indicators"
+msgstr "كل المؤشرات"
+
+#: all_data_elements
+msgid "All data elements"
+msgstr "كل عناصر البيانات"
+
+#: daily
+msgid "Daily"
+msgstr "يومياً"
+
+#: weekly
+msgid "Weekly"
+msgstr "اسبوعياً"
+
+#: monthly
+msgid "Monthly"
+msgstr "شهرياً"
+
+#: bimonthly
+msgid "Bi-monthly"
+msgstr "كل شهرين"
+
+#: quarterly
+msgid "Quarterly"
+msgstr "كل ربع سنة"
+
+#: sixmonthly
+msgid "Six-monthly"
+msgstr "كل ست أشهر"
+
+#: sixmonthly_april
+msgid "Six-monthly April"
+msgstr "كل ست أشهر , ابريل"
+
+#: yearly
+msgid "Yearly"
+msgstr "سنوياً"
+
+#: financial_oct
+msgid "Financial October"
+msgstr "شهر أكتوبر/تشرين الأول المالي"
+
+#: financial_july
+msgid "Financial July"
+msgstr "شهر يونيو/حزيران المالي"
+
+#: financial_april
+msgid "Financial April"
+msgstr "شهر ابريل/نيسان المالي"
+
+#: plugin_config
+msgid "Plugin config"
+msgstr "التكوين المساعد"
+
+#: default_
+msgid "Default"
+msgstr "افتراضي"
+
+#: aggregation_type
+msgid "Aggregation type"
+msgstr "نوع التجميع"
+
+#: count
+msgctxt "count"
+msgid "Count"
+msgstr "عد"
+
+#: sum
+msgctxt "sum"
+msgid "Sum"
+msgstr "حاصل جمع"
+
+#: by_data_element
+msgctxt "by_data_element"
+msgid "By data element"
+msgstr "بواسطة عنصر البيانات"
+
+#: relative_periods
+msgid "Relative periods"
+msgstr "فترات نسبية"
+
+#: start_end_dates
+msgid "Start-end dates"
+msgstr "تواريخ البدء و الانتهاء"
+
+#: top
+msgid "Top"
+msgstr "اعلى"
+
+#: bottom
+msgid "Bottom"
+msgstr "اسفل"
+
+#: limit
+msgid "Limit"
+msgstr "حدود"
+
+#: title
+msgid "DHIS 2 Event Visualizer"
+msgstr ""
+
+#: chart_type
+msgid "Chart type"
+msgstr "نوع المخطط"
+
+#: column_chart
+msgid "Column chart"
+msgstr "مخطط بالأعمدة"
+
+#: stacked_column_chart
+msgid "Stacked column chart"
+msgstr "مخطط عمودي مكدس"
+
+#: bar_chart
+msgid "Bar chart"
+msgstr "مخطط شريطي"
+
+#: stacked_bar_chart
+msgid "Stacked bar chart"
+msgstr "مخطط شريطي مكدس"
+
+#: line_chart
+msgid "Line chart"
+msgstr "مخطط خطي"
+
+#: area_chart
+msgid "Area chart"
+msgstr "مخطط منطقة"
+
+#: pie_chart
+msgid "Pie chart"
+msgstr "مخطط دائري"
+
+#: radar_chart
+msgid "Radar chart"
+msgstr "مخطط راداري"
+
+#: events
+msgid "Events"
+msgstr "احداث"
+
+#: tracked_entity_instances
+msgid "Tracked entity instances"
+msgstr "أمثلة كيان متبعة"
+
+#: count_type
+msgid "Count type"
+msgstr "نوع العد"
+
+#: trend_line
+msgid "Show trend lines"
+msgstr ""
+
+#: hide_subtitle
+msgid "Hide chart subtitle"
+msgstr "أخفِ العنوان الفرعي للمخطط"
+
+#: hide_legend
+msgid "Hide chart legend"
+msgstr "اخفِ شروحات المخطط"
+
+#: domain_axis_label
+msgid "Domain axis title"
+msgstr "عنوان محور النطاق"
+
+#: range_axis_label
+msgid "Range axis title"
+msgstr "عنوان محور المجال"
+
+#: target
+msgid "Target"
+msgstr "جِد هدفاً "
+
+#: target_line_value
+msgid "Target line value"
+msgstr "جد قيمة في سطر"
+
+#: target_line_label
+msgid "Target line label"
+msgstr "جٍد عنواناً في سطر"
+
+#: show_values
+msgid "Show values"
+msgstr "اظهر القيم"
+
+#: hide_empty_category_items
+msgid "Hide empty category items"
+msgstr "اخفِ عناصر الفئة الفارغة"
+
+#: chart_title
+msgid "Chart title"
+msgstr "اسم المخطط"
+
+#: hide_chart_title
+msgid "Hide chart title"
+msgstr "اخفِ اسم المخطط"
+
+#: trend
+msgid "Trend"
+msgstr ""
+
+#: base
+msgid "Base"
+msgstr "قاعدة"
+
+#: axes
+msgid "Axes"
+msgstr "محاور"
+
+#: general
+msgid "General"
+msgstr "عام"
+
+#: go_to_event_reports
+msgid "Go to event reports"
+msgstr "اذهب الى تقرير الحادثة"
+
+#: open_this_chart_as_table
+msgid "Open this chart as table"
+msgstr "افتح هذا الجدول كمخطط"
+
+#: open_last_table
+msgid "Open last table"
+msgstr "افتح آخر جدول"
+
+#: chart_options
+msgid "Chart options"
+msgstr "خيارات المخطط"
+
+#: select_sub_units
+msgid "Select sub-units"
+msgstr "اختر وحدات فرعية"
+
+#: you_do_not_have_access_to_all_items_in_this_favorite
+msgid "You do not have access to all items in this favorite"
+msgstr "ليس لديك حق الوصول لكل العناصر في المفضلة هذه"
+
+#: example1
+msgid "Creating a chart"
+msgstr "انشاء مخطط"
+
+#: example2
+msgid "Select items from any of the dimensions in the left menu"
+msgstr "اختر عناصر من أي واحدة من الأبعاد في القائمة على اليسار"
+
+#: example3
+msgid "Click Layout to arrange your dimensions on chart series and categories"
+msgstr "اضغط على (تصميم) لترتيب أبعادك على صفوف و أعمدة الجدول"
+
+#: example4
+msgid "Click Update to create your chart"
+msgstr "اضغط على (تحديث) لإنشاء جدولك"
+
+#: example5
+msgid "Working with a chart"
+msgstr "العمل مع مخطط"
+
+#: example6
+msgid "Click Options to show trend lines, target lines, axis titles and more"
+msgstr ""
+"اضغط على (خيارات) لتخفي المجموع الفرعي أو لتفرغ الصفوف أو لتعدل الخط و غيرها"
+
+#: example7
+msgid "Click Favorites to save your chart for later use"
+msgstr "اضغط على (مفضلات) لتحفظ جدولك للاستخدام اللاحق"
+
+#: example8
+msgid "Click Download to save chart graphics to your computer"
+msgstr "اضغط على (تنزيل) لتحفظ بيانات الجدول على حاسبك"
+
+#: last_52_weeks
+msgid "Last 52 weeks"
+msgstr "آخر 52 شهراً"
+
+#: last_6_months
+msgid "Last 6 months"
+msgstr "آخر 6 اشهر"
+
+#: initializing
+msgid "Initializing"
+msgstr "تهيئة للبدء"
+
+#: created_by
+msgid "Created by"
+msgstr "انشئ بواسطة"
+
+#: clear_event_chart
+msgid "Clear event chart"
+msgstr "امسح تقرير الحدث"
+
+#: yes
+msgid "Yes"
+msgstr ""
+
+#: no
+msgid "No"
+msgstr ""
+
+#: output_type
+msgid "Output type"
+msgstr ""
+
+#: event
+msgid "Event"
+msgstr ""
+
+#: tracked_entity_instance
+msgid "Tracked entity instance"
+msgstr ""
+
+#: enrollment
+msgid "Enrollment"
+msgstr ""
+
+#: series_dimension
+msgid "Series dimension"
+msgstr ""
+
+#: category_dimension
+msgid "Category dimension"
+msgstr ""
+
+#: chart_filter
+msgid "Chart filter"
+msgstr ""
+
+#: report_filter
+msgid "Report filter"
+msgstr ""
+
+#: value
+msgid "Value"
+msgstr ""
+
+#: average
+msgid "Average"
+msgstr ""
+
+#: count
+msgctxt "count"
+msgid "Count"
+msgstr "عد"
+
+#: sum
+msgctxt "sum"
+msgid "Sum"
+msgstr "حاصل جمع"
+
+#: by_data_element
+msgctxt "by_data_element"
+msgid "By data element"
+msgstr "بواسطة عنصر البيانات"
+
+#: stddev
+msgid "Std Dev"
+msgstr ""
+
+#: variance
+msgid "Variance"
+msgstr ""
+
+#: min
+msgid "Min"
+msgstr ""
+
+#: max
+msgid "Max"
+msgstr ""
+
+#: number_of_events
+msgid "Number of events"
+msgstr ""
+
+#: this_financial_year
+msgid "This financial year"
+msgstr ""
+
+#: user_sub_units
+msgid "User sub-units"
+msgstr ""
+
+#: user_sub_x2_units
+msgid "User sub-x2-units"
+msgstr ""
+
+#: hide_na_data
+msgid "Hide n/a data"
+msgstr ""
+
+#: duplicate
+msgid "Duplicate"
+msgstr ""
+
+#: remove
+msgid "Remove"
+msgstr ""
+
+#: select
+msgid "Select"
+msgstr ""
+
+#: this_week
+msgid "This week"
+msgstr ""
+
+#: this_quarter
+msgid "This quarter"
+msgstr ""
+
+#: this_month
+msgid "This month"
+msgstr ""
+
+#: this_sixmonth
+msgid "This six-month"
+msgstr ""
+
+#: this_bimonth
+msgid "This bi-month"
+msgstr ""
+
+#: about
+msgid "About"
+msgstr ""
+
+#: time_since_last_data_update
+msgid "Time since last data update"
+msgstr ""
+
+#: version
+msgid "Version"
+msgstr ""
+
+#: revision
+msgid "Revision"
+msgstr ""
+
+#: build_time
+msgid "Build time"
+msgstr ""
+
+#: username
+msgid "Username"
+msgstr ""
+
+#: no_values_found_for_current_selection
+msgid "No values found for the current selection"
+msgstr ""
+
+#: error
+msgid "Error"
+msgstr ""
+
+#: warning
+msgid "Warning"
+msgstr ""
+
+#: completed_only
+msgid "Completed only"
+msgstr ""
+
+#: include_only_completed_events_only
+msgid "Include only completed events"
+msgstr ""

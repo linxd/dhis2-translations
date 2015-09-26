@@ -1,0 +1,626 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-light/src/main/resources/org/hisp/dhis/light/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-light/src/main/resources/org/hisp/dhis/light/i18n_module_tg.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: DHIS_2
+msgid "DHIS2"
+msgstr ""
+
+#: menu
+msgid "Menu"
+msgstr "Меню"
+
+#: home
+msgid "Home"
+msgstr "Саҳифаи асосӣ"
+
+#: navigate_to
+msgid "Navigate to"
+msgstr "Паймоиш ба"
+
+#: reports
+msgid "Reports"
+msgstr "Ҳисоботҳо"
+
+#: charts
+msgid "Charts"
+msgstr "Диаграммаҳо"
+
+#: documents
+msgid "Documents"
+msgstr "Ҳуҷҷатҳо"
+
+#: dashboard
+msgid "Dashboard"
+msgstr "Лавҳаи маълумот"
+
+#: dashboard_reports
+msgid "Dashboard reports"
+msgstr "Ҳисоботҳои лавҳаи маълумот"
+
+#: dashboard_charts
+msgid "Dashboard charts"
+msgstr "Диаграммаҳои лавҳаи маълумот"
+
+#: dashboard_documents
+msgid "Dashboard documents"
+msgstr "Ҳуҷҷатҳои лавҳаи маълумот"
+
+#: data_entry
+msgid "Data Entry"
+msgstr "Ворид кардани иттилоот"
+
+#: namebased_data_entry
+msgid "Namebased Data Entry"
+msgstr "Вуруди иттилоот аз рӯи ном"
+
+#: data_entry_overview
+msgid "Data Entry Overview"
+msgstr "Шарҳи мухтасари вуруди иттилоот"
+
+#: logout
+msgid "Logout"
+msgstr "Хуруҷ"
+
+#: desktop_version
+msgid "Desktop version"
+msgstr "Версияи мизи корӣ"
+
+#: report_table_parameters
+msgid "Report parameters"
+msgstr "Параметрҳои ҳисобот"
+
+#: get_report
+msgid "Get report"
+msgstr "Гирифтани ҳисобот"
+
+#: reporting_period
+msgid "Report period"
+msgstr "Давраи ҳисоботӣ"
+
+#: select_organisation_unit
+msgid "Please select organisation unit"
+msgstr "Лутфан на камтар аз як воҳиди сохториро интихоб кунед"
+
+#: available_datasets
+msgid "Available data sets"
+msgstr "Маҷмӯъҳои иттилооти мавҷуда"
+
+#: available_organisation_units
+msgid "Available organisation units"
+msgstr "Воҳидҳои маъмурии мавҷуда"
+
+#: available_periods
+msgid "Available periods"
+msgstr "Давраҳои мавҷуда"
+
+#: settings
+msgid "Settings"
+msgstr "Танзимот"
+
+#: language
+msgid "Interface Language"
+msgstr "Забони интерфейс"
+
+#: is_invalid_boolean
+msgid "is not a valid boolean"
+msgstr "ифодаи дурусти Бул нест"
+
+#: is_invalid_date
+msgid "is not a valid date (yyyy-MM-dd)"
+msgstr "санаи дуруст нест (сссс-ММ-дд)"
+
+#: is_invalid_number
+msgid "is not a valid number"
+msgstr "адади дуруст нест"
+
+#: is_invalid_integer
+msgid "is not a valid integer"
+msgstr "адади бутуни дуруст нест"
+
+#: is_invalid_positive_integer
+msgid "is not a valid positive integer"
+msgstr "адади бутуни мусбии дуруст нест"
+
+#: is_invalid_zero_or_positive_integer
+msgid "is not a valid zero or positive integer"
+msgstr ""
+
+#: is_invalid_negative_integer
+msgid "is not a valid negative integer"
+msgstr "адади бутуни манфии дуруст нест"
+
+#: is_invalid_name
+msgid "is not a valid name"
+msgstr "номи дуруст нест"
+
+#: is_invalid_name_length
+msgid "needs to be 7 or more characters"
+msgstr "бояд аз 7 ё зиёда аломат иборат бошад"
+
+#: is_mandatory
+msgid "is a mandatory field"
+msgstr "майдони ҳатмист"
+
+#: is_duplicate
+msgid "person identifier number is duplicated"
+msgstr "рақами идентификатори шахс такрор шудааст"
+
+#: warnings_and_errors
+msgid "Warnings and errors"
+msgstr "Огоҳиҳо ва хатогиҳо"
+
+#: validation_rule_violation_warnings
+msgid "Validation Rule Violation Warnings"
+msgstr "Огоҳиҳои вайронкунии қоидаҳои санҷиши эътибор"
+
+#: minmax_violation_warnings
+msgid "Min/Max Violation Warnings"
+msgstr "Огоҳиҳои вайронкунии мин/макс"
+
+#: type_violation_errors
+msgid "Type Violation Errors"
+msgstr "Навъи хатогиҳои вайронкунӣ"
+
+#: messages
+msgid "Messages"
+msgstr "Паёмҳо"
+
+#: conversations
+msgid "Conversations"
+msgstr "Гуфтугӯҳо"
+
+#: subject
+msgid "Subject"
+msgstr "Мавзӯъ"
+
+#: reply
+msgid "Reply"
+msgstr "Ҷавоб додан"
+
+#: form_complete
+msgid "Form complete"
+msgstr "Шакл пур карда шуд"
+
+#: completed
+msgid "Completed"
+msgstr "Анҷомёфта"
+
+#: complete_programs
+msgid "Completed Programs"
+msgstr "Барномаҳои анҷомёфта"
+
+#: saved_section
+msgid "Saved Section"
+msgstr "Қисми захирашуда"
+
+#: sections
+msgid "Sections"
+msgstr "Қисмҳо"
+
+#: current_activityplan
+msgid "Current Activity Plan"
+msgstr "Нақшаи чорабиниҳои ҷорӣ"
+
+#: all_activityplan
+msgid "All Activity Plan"
+msgstr "Ҳама нақшаҳои чорабиниҳо"
+
+#: activity_type
+msgid "Activity Type"
+msgstr "Намуди фаъолият"
+
+#: beneficiary_list
+msgid "Person List"
+msgstr "Рӯйхати шахсон"
+
+#: activity_list
+msgid "Activity List"
+msgstr "Рӯйхати фаъолиятҳо"
+
+#: successfully_saved
+msgid "Successfully Saved"
+msgstr "Бомуваффақият захира шуд"
+
+#: select_option
+msgid "Select Option"
+msgstr "Интихоби имкон"
+
+#: option_set_searching_result
+msgid "Option Set Searching Result"
+msgstr "Натиҷаи ҷустуҷӯи маҷмӯи имконот"
+
+#: search_for
+msgid "Searching for"
+msgstr "Ҷустуҷӯи"
+
+#: id
+msgid "ID"
+msgstr "ID"
+
+#: gender
+msgid "Gender"
+msgstr "Ҷинс"
+
+#: date_of_birth
+msgid "Date of Birth"
+msgstr "Санаи таваллуд"
+
+#: blood_group
+msgid "Blood Group"
+msgstr "Гурӯҳи хун"
+
+#: details_for
+msgid "Detail For"
+msgstr "Маълумоти муфассали"
+
+#: organisation_unit
+msgctxt "organisation_unit"
+msgid "Organisation Unit"
+msgstr "Воҳиди сохторӣ"
+
+#: beneficiary_registration
+msgid "Person Registration"
+msgstr "Бақайдгирии шахс"
+
+#: full_name
+msgid "Full Name"
+msgstr "Ному насаби пурра"
+
+#: male
+msgid "Male"
+msgstr "Мард"
+
+#: female
+msgid "Female"
+msgstr "Зан"
+
+#: transgender
+msgid "Transgender"
+msgstr "Транссексуал"
+
+#: is_empty
+msgid "Empty Field"
+msgstr "Майдони холӣ"
+
+#: beneficiary_enrollment
+msgid "Person Enrollment"
+msgstr "Номнависи шахс"
+
+#: beneficiary_search
+msgid "Person Search"
+msgstr "Ҷустуҷӯи шахс"
+
+#: beneficiary_name
+msgid "Person Name"
+msgstr "Номи шахс"
+
+#: search_result_for
+msgid "Search Result for"
+msgstr "Натиҷаи ҷустуҷӯ барои"
+
+#: search
+msgid "Search"
+msgstr "Ҷустуҷӯ"
+
+#: enrolled_programs
+msgid "Enrolled Program(s)"
+msgstr "Барнома(ҳо)и номнависшуда"
+
+#: other_programs
+msgid "Other Programs"
+msgstr "Барномаҳои дигар"
+
+#: available_programs
+msgid "Available Programs"
+msgstr "Барномаҳои мавҷуда"
+
+#: no_enrolled_programs
+msgid "No Enrolled Programs"
+msgstr "Ягон барномаи номнависшуда"
+
+#: no_completed_programs
+msgid "No Completed Programs"
+msgstr "Ягон барномаи анҷомёфта"
+
+#: enroll
+msgid "Enroll"
+msgstr "Номнавис"
+
+#: enrollment_date
+msgid "Enrollment Date"
+msgstr "Санаи номнавис"
+
+#: incident_date
+msgid "Incident Date"
+msgstr "Санаи воқеа"
+
+#: program_list
+msgid "Program List"
+msgstr "Рӯйхати барномаҳо"
+
+#: single_event
+msgid "Single Event"
+msgstr "Рӯйдоди алоҳида"
+
+#: single_event_list
+msgid "Single Event List"
+msgstr "Рӯйхати рӯйдодҳои алоҳида"
+
+#: back_single_event_form
+msgid "Back To Single Event Form"
+msgstr "Бозпас ба шакли рӯйдодҳои алоҳида"
+
+#: tracking
+msgid "Tracking"
+msgstr "Пайгирӣ"
+
+#: find_beneficiary
+msgid "Find Person"
+msgstr "Ёфтани шахс"
+
+#: activity_plan
+msgid "Activity Plan"
+msgstr "Ҷалвали боздидҳо"
+
+#: search_by_name_or_id
+msgid "Search By Name or ID or Phone Number"
+msgstr "Ҷустуҷӯ аз рӯи ном, идентификатор ё рақами телефон"
+
+#: select_orgunit
+msgid "Select Organisation Unit"
+msgstr "Интихоби воҳиди сохторӣ"
+
+#: all_orgunit
+msgid "All Organisation Unit"
+msgstr "Ҳамаи воҳидҳои сохторӣ"
+
+#: tracking_menu
+msgid "Tracking Menu"
+msgstr "Менюи пайгирӣ"
+
+#: due_date
+msgid "Due Date"
+msgstr "Санаи пешбинишуда"
+
+#: register_due_date_for
+msgid "Register Due Date For"
+msgstr "Бақайдгирии санаи пешбинишуда барои"
+
+#: schedule
+msgid "Schedule"
+msgstr "Ҷадвал"
+
+#: schedule_visit
+msgid "Schedule Visit"
+msgstr "Банақшагирии боздид"
+
+#: do_not_schedule_visit
+msgid "Do Not Schedule Visit"
+msgstr "Ба нақша нагирифтани боздид"
+
+#: register
+msgid "Register"
+msgstr "Ба қайд гирифтан"
+
+#: please_select
+msgid "Please Select"
+msgstr "Лутфан интихоб кунед"
+
+#: enroll_in_program
+msgid "Enroll In Program"
+msgstr "Номнавис дар барнома"
+
+#: relationships
+msgid "Relationships"
+msgstr "Муносибатҳо"
+
+#: no_relationships
+msgid "No Relationships"
+msgstr "Ягон муносибат нест"
+
+#: phone_number
+msgid "Phone Number"
+msgstr "Рақами телефони мобилӣ"
+
+#: add_relationships
+msgid "Add Relationships"
+msgstr "Иловаи муносибатҳо"
+
+#: related_person_search
+msgid "Related Person Search"
+msgstr "Ҷустуҷӯи шахси марбут"
+
+#: related_person_list
+msgid "Related Person List"
+msgstr "Рӯйхати шахсони марбут"
+
+#: add_relationship
+msgid "Add Relationship"
+msgstr "Иловаи муносибат"
+
+#: anonymous_menu
+msgid "Anonymous Menu"
+msgstr "Меню хуфия"
+
+#: date_of_birth_type
+msgid "Date of Birth Type"
+msgstr "Навъи санаи таваллуд"
+
+#: approximated
+msgid "Approximated"
+msgstr "Тахминшуда"
+
+#: declared
+msgid "Declared"
+msgstr "Эъломшуда"
+
+#: verified
+msgid "Verified"
+msgstr "Санҷидашуда"
+
+#: anomynous_program_list
+msgid "Anonymous Program List"
+msgstr "Рӯйхати барномаҳои хуфия"
+
+#: orgunit
+msgctxt "orgunit"
+msgid "Organisation Unit"
+msgstr "Воҳиди сохторӣ"
+
+#: change
+msgid "Change"
+msgstr "тағйир додан"
+
+#: register_location_for
+msgid "Register Location For"
+msgstr "Ба қайд гирифтани макон барои"
+
+#: agregate_reporting
+msgid "Aggregate Reporting"
+msgstr "Ҳисоботдиҳии ҳамҷояшуда"
+
+#: find_or_add_person
+msgid "Find/Add Person"
+msgstr "Ёфтан/иловаи шахс"
+
+#: search_by_phone_number
+msgid "Search By Phone Number"
+msgstr "Ҷустуҷӯ аз рӯи рақами телефон"
+
+#: age_or_dob
+msgid "Age/Date of Birth"
+msgstr "Синну сол/Санаи таваллуд"
+
+#: dead
+msgid "Dead"
+msgstr "Фавтида"
+
+#: status
+msgid "Status"
+msgstr "Ҳолат"
+
+#: visit_schedule
+msgid "Visit Schedule"
+msgstr "Ҷадвали боздидҳо"
+
+#: visit_schedule_type
+msgid "Visit Schedule Type"
+msgstr "Навъи ҷадвали боздидҳо"
+
+#: or_register_new_person
+msgid "or register new person"
+msgstr "ё шахси наверо илова кунед"
+
+#: invalid_phone_number
+msgid "invalid phone number"
+msgstr "рақами телефони нодуруст"
+
+#: save_any_way
+msgid "Save anyway"
+msgstr "Ба ҳар ҳол захира кунед"
+
+#: form_in_complete
+msgid "Form InComplete"
+msgstr "Шакл анҷом наёфтааст"
+
+#: allow_provided_elsewhere
+msgid "Provided elsewhere"
+msgstr "Дар дигар ҷой пешниҳод шудааст"
+
+#: search_user
+msgid "Search user by name"
+msgstr "Ҷустуҷӯи корбар аз рӯи ном"
+
+#: last_recipients
+msgid "Last recipients"
+msgstr "Гирандагони охирин"
+
+#: search_orgunit
+msgid "Search Organisation Unit"
+msgstr "Ҷустуҷӯи воҳиди сохторӣ"
+
+#: date_of_birth_hint
+msgid ""
+"*Approximated: enter age. Declared or Verified: enter date in format [yyyy-"
+"mm-dd]"
+msgstr ""
+
+#: select_attribute
+msgid "Select attribute"
+msgstr ""
+
+#: tracked_entity
+msgid "Tracked entity"
+msgstr ""
+
+#: write
+msgid "Write"
+msgstr ""
+
+#: write_message
+msgid "Write Message"
+msgstr ""
+
+#: write_feedback
+msgid "Write Feedback"
+msgstr ""
+
+#: write_new_message
+msgid "Write new message"
+msgstr ""
+
+#: write_to_users
+msgid "To User(s):"
+msgstr ""
+
+#: write_add_to_recipients
+msgid "Add to Recipient(s)"
+msgstr ""
+
+#: interpretations
+msgid "Interpretations"
+msgstr ""
+
+#: interpretation
+msgid "Interpretation"
+msgstr ""
+
+#: interpretations_support
+msgid "Only charts are currently supported for interpretations."
+msgstr ""
+
+#: interpretation_comment
+msgid "Comment(s):"
+msgstr ""
+
+#: interpretation_add_comment
+msgid "Add a comment"
+msgstr ""
+
+#: interpretation_post_comment
+msgid "Post comment"
+msgstr ""
+
+#: interpretation_share
+msgid "Share interpretation"
+msgstr ""
+
+#: share
+msgid "Share"
+msgstr ""
+
+#: chart
+msgid "Chart"
+msgstr ""

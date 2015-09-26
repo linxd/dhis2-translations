@@ -1,0 +1,858 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-apps/src/main/webapp/dhis-web-pivot/i18n/i18n_app.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-apps/src/main/webapp/dhis-web-pivot/i18n/i18n_app_fr.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: dimensions
+msgid "Dimensions"
+msgstr "Dimensions"
+
+#: row
+msgid "Row"
+msgstr "Ligne"
+
+#: column
+msgid "Column"
+msgstr "Colonne"
+
+#: filter
+msgid "Filter"
+msgstr "Filtrer"
+
+#: table_layout
+msgid "Table layout"
+msgstr "Disposition de tableau"
+
+#: show_subtotals
+msgid "Show subtotals"
+msgstr "Afficher sous-totaux"
+
+#: hide_empty_rows
+msgid "Hide empty rows"
+msgstr "Masquer les lignes vides"
+
+#: display_density
+msgid "Display density"
+msgstr "Densité d'affichage"
+
+#: font_size
+msgid "Font size"
+msgstr "Taille de police"
+
+#: digit_group_separator
+msgid "Digit group separator"
+msgstr "Séparateur de millier"
+
+#: comfortable
+msgid "Comfortable"
+msgstr "Confortable"
+
+#: compact
+msgid "Compact"
+msgstr "Compact"
+
+#: large
+msgid "Large"
+msgstr "Grand"
+
+#: small_
+msgid "Small"
+msgstr "Petit"
+
+#: normal
+msgid "Normal"
+msgstr "Normal"
+
+#: reporting_period
+msgid "Reporting period"
+msgstr "Période de rapportage"
+
+#: organisation_unit
+msgid "Organisation unit"
+msgstr "Unité d'organisation"
+
+#: organisation_units
+msgid "Organisation units"
+msgstr "Unités d'organisation"
+
+#: parent_organisation_unit
+msgid "Parent organisation unit"
+msgstr "Unité d'organisation parent"
+
+#: user_organisation_unit
+msgid "User org unit"
+msgstr "Unité d'organisation de l'utilisateur"
+
+#: table_options
+msgid "Table options"
+msgstr "Options de tableau"
+
+#: create
+msgid "Create"
+msgstr "Créer"
+
+#: update
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: cancel
+msgid "Cancel"
+msgstr "Annuler"
+
+#: delete_
+msgid "Delete"
+msgstr "Supprimer"
+
+#: save
+msgid "Save"
+msgstr "Enregistrer"
+
+#: hide
+msgid "Hide"
+msgstr "Masquer"
+
+#: add_new
+msgid "Add new"
+msgstr "Ajouter nouveau"
+
+#: manage_favorites
+msgid "Manage favorites"
+msgstr "Gerer favoris"
+
+#: search_for_favorites
+msgid "Search for favorites"
+msgstr "Rechercher favoris"
+
+#: overwrite_favorite
+msgid "Overwrite favorite"
+msgstr "Ecraser le favori"
+
+#: delete_favorite
+msgid "Delete favorite"
+msgstr "Supprimer favori"
+
+#: prev
+msgid "Prev"
+msgstr "Préc"
+
+#: next
+msgid "Next"
+msgstr "Suivant"
+
+#: rename
+msgid "Rename"
+msgstr "Renommer"
+
+#: overwrite
+msgid "Overwrite"
+msgstr "Ecraser"
+
+#: share_with_other_people
+msgid "Share with other people"
+msgstr "Partager avec d'autres"
+
+#: sharing_settings
+msgid "Sharing settings"
+msgstr "Paramètres de partage"
+
+#: can_view
+msgid "Can view"
+msgstr "Peut voir"
+
+#: can_edit_and_view
+msgid "Can edit and view"
+msgstr "Peut modifier et voir"
+
+#: none
+msgid "None"
+msgstr "Aucun"
+
+#: public_access
+msgid "Public access"
+msgstr "Accès public"
+
+#: search_for_user_groups
+msgid "Search for user groups"
+msgstr "Rechercher groupes d'utilisateurs"
+
+#: available
+msgid "Available"
+msgstr "Disponible"
+
+#: selected
+msgid "Selected"
+msgstr "Sélectionné"
+
+#: indicators
+msgid "Indicators"
+msgstr "Indicateurs"
+
+#: all_indicator_groups
+msgid "All indicator groups"
+msgstr "Tous les groupes d'indicateurs"
+
+#: select_indicator_group
+msgid "Select indicator group"
+msgstr "Sélectionner groupe d'indicateurs"
+
+#: data_elements
+msgid "Data elements"
+msgstr "Eléments de donnée"
+
+#: all_data_element_groups
+msgid "All data element groups"
+msgstr "Tous les groupes d'éléments de donnée"
+
+#: select_data_element_group
+msgid "Select data element group"
+msgstr "Sélectionner groupe d'éléments de donnée"
+
+#: data_sets
+msgid "Data sets"
+msgstr "Ensembles de données"
+
+#: reporting_rates
+msgid "Reporting rates"
+msgstr "Taux de rapportage"
+
+#: periods
+msgid "Periods"
+msgstr "Période"
+
+#: select_period_type
+msgid "Select period type"
+msgstr "Sélectionner type de période"
+
+#: weeks
+msgid "Weeks"
+msgstr "Semaines"
+
+#: last_week
+msgid "Last week"
+msgstr "Semaine passée"
+
+#: last_4_weeks
+msgid "Last 4 weeks"
+msgstr "4 dernières semaines"
+
+#: last_12_weeks
+msgid "Last 12 weeks"
+msgstr "12 dernières semaines"
+
+#: months
+msgid "Months"
+msgstr "Mois"
+
+#: last_month
+msgid "Last month"
+msgstr "Mois passé"
+
+#: last_3_months
+msgid "Last 3 months"
+msgstr "3 derniers mois"
+
+#: last_12_months
+msgid "Last 12 months"
+msgstr "12 derniers mois"
+
+#: bimonths
+msgid "Bi-months"
+msgstr "Bimestre"
+
+#: last_bimonth
+msgid "Last bi-month"
+msgstr "Bimestre passé"
+
+#: last_6_bimonths
+msgid "Last 6 bi-months"
+msgstr "6 derniers bimestres"
+
+#: quarters
+msgid "Quarters"
+msgstr "Trimestres"
+
+#: last_quarter
+msgid "Last quarter"
+msgstr "Trimestre passé"
+
+#: last_4_quarters
+msgid "Last 4 quarters"
+msgstr "4 derniers trimestres"
+
+#: sixmonths
+msgid "Six-months"
+msgstr "Semestres"
+
+#: last_sixmonth
+msgid "Last six-month"
+msgstr "Semestre passé"
+
+#: last_2_sixmonths
+msgid "Last 2 six-months"
+msgstr "2 derniers semestres"
+
+#: years
+msgid "Years"
+msgstr "Années"
+
+#: this_year
+msgid "This year"
+msgstr "Cette année"
+
+#: last_year
+msgid "Last year"
+msgstr "Année passée"
+
+#: last_5_years
+msgid "Last 5 years"
+msgstr "5 dernières années"
+
+#: financial_years
+msgid "Financial years"
+msgstr "Années financières"
+
+#: last_financial_year
+msgid "Last financial year"
+msgstr "Dernière année financière"
+
+#: last_5_financial_years
+msgid "Last 5 financial years"
+msgstr "5 dernières années financeres"
+
+#: prev_year
+msgid "Prev year"
+msgstr "Préc"
+
+#: next_year
+msgid "Next year"
+msgstr "Suiv"
+
+#: select_all_children
+msgid "Select all children"
+msgstr "Sélectionner tous les enfants"
+
+#: table
+msgid "Table"
+msgstr "Tableau"
+
+#: chart
+msgid "Chart"
+msgstr "Graphique"
+
+#: map
+msgid "Map"
+msgstr "Carte"
+
+#: home
+msgid "Home"
+msgstr "Accueil"
+
+#: data
+msgid "Data"
+msgstr "Donnée"
+
+#: categories
+msgid "Categories"
+msgstr "Catégories"
+
+#: style
+msgid "Style"
+msgstr "Style"
+
+#: parameters
+msgid "Parameters"
+msgstr "Paramètres"
+
+#: for_standard_reports_only
+msgid "for standard reports only"
+msgstr "pour les rapports standards seuls"
+
+#: please_create_a_table_first
+msgid "Please create a table first"
+msgstr "Veuillez créer d'abord le tableau"
+
+#: indicators_cannot_be_specified_as_filter
+msgid "Indicators cannot be specified as report filter"
+msgstr "Les indicateurs ne peuvent être spécifiés comme filtre"
+
+#: categories_cannot_be_specified_as_filter
+msgid "Categories cannot be specified as report filter"
+msgstr "Les catégories ne peuvent être définies comme filtre"
+
+#: data_element_group_sets_cannot_be_specified_together_with_data_sets
+msgid "Data element group sets cannot be specified together with data sets"
+msgstr ""
+"Les ensembles de groupes d'éléments de donnée ne peuvent pas être spécifiés "
+"avec des ensembles de données"
+
+#: at_least_one_dimension_must_be_specified_as_row_or_column
+msgid "At least one dimension must be specified as row or column"
+msgstr "Au moins une dimension doit être spécifiée comme ligne ou colonne"
+
+#: at_least_one_period_must_be_specified_as_column_row_or_filter
+msgid "At least one period must be specified as column, row or filter"
+msgstr "Au moins une période doit être spécifiée comme colonne, ligne ou filtre"
+
+#: example1
+msgid "Creating a pivot table"
+msgstr "Création de tableau croisé dynamique"
+
+#: example2
+msgid "Select items from any of the dimensions in the left menu"
+msgstr ""
+"Sélectionner les items de n'importe quelle dimension dans le menu de gauche"
+
+#: example3
+msgid "Click Layout to arrange your dimensions on table rows and columns"
+msgstr ""
+"Cliquer sur Disposition pour organiser les dimensions en lignes et colonnes "
+"du tableau"
+
+#: example4
+msgid "Click Update to create your table"
+msgstr "Cliquer sur Mettre à jour pour créer votre tableau"
+
+#: example5
+msgid "Working with a pivot table"
+msgstr "Manipulation du tableau croisé dynamique"
+
+#: example6
+msgid ""
+"Click Options to hide sub-totals or empty rows, adjust font size and more"
+msgstr ""
+"Cliquer sur Options pour masquer les sous-totaux ou les lignes vides, "
+"ajuster les taille de police ..."
+
+#: example7
+msgid "Click Favorites to save your table for later use"
+msgstr ""
+"Cliquer sur Favoris pour enregistrer votre tableau pour une utilisation "
+"ultérieure"
+
+#: example8
+msgid "Click Download to save table data to your computer"
+msgstr ""
+"Cliquer sur Télécharger pour enregistrer les données du tableau sur votre "
+"ordinateur"
+
+#: layout
+msgid "Layout"
+msgstr "Disposition"
+
+#: options
+msgid "Options"
+msgstr "Options"
+
+#: download
+msgid "Download"
+msgstr "Télécharger"
+
+#: favorites
+msgid "Favorites"
+msgstr "Favoris"
+
+#: include_regression
+msgid "Include regression"
+msgstr "Inclure la régression"
+
+#: include_cumulative
+msgid "Include cumulative"
+msgstr "Inclure le cumul"
+
+#: sort_order
+msgid "Sort order"
+msgstr "Ordre de tri"
+
+#: low_to_high
+msgid "Low to high"
+msgstr "Croissant"
+
+#: high_to_low
+msgid "High to low"
+msgstr "Décroissant"
+
+#: top_limit
+msgid "Top limit"
+msgstr "Limite supérieure"
+
+#: plain_data_sources
+msgid "Plain data source"
+msgstr "Source de données simples"
+
+#: graphics
+msgid "Graphics"
+msgstr "Graphique"
+
+#: data_sets_cannot_be_specified_as_filter
+msgid "Data sets cannot be specified as filter"
+msgstr "Ensembles de données ne peuvent être définies comme filtre"
+
+#: share
+msgid "Share"
+msgstr "Partager"
+
+#: interpretation
+msgid "interpretation"
+msgstr "interprétation"
+
+#: write_your_interpretation
+msgid "Write a comment, question or interpretation"
+msgstr "Ecrire un commentaire, une question ou une interprétation"
+
+#: legend_set
+msgid "Legend set"
+msgstr "Jeu de légendes"
+
+#: select_organisation_units
+msgid "Select organisation units"
+msgstr "Sélectionner les unités d'organisation"
+
+#: select_boundaries_and_levels
+msgid "Select boundaries and levels"
+msgstr "Sélectionner les frontières et les niveaux"
+
+#: select_organisation_unit_levels
+msgid "Select organisation unit levels"
+msgstr "Sélectionner les niveaux d'unité d'organisation"
+
+#: totals
+msgid "Totals"
+msgstr "Totaux"
+
+#: details
+msgid "Details"
+msgstr "Détails"
+
+#: select_boundaries_and_groups
+msgid "Select boundaries and groups"
+msgstr "Sélectionner les frontières et les groupes"
+
+#: select_organisation_unit_groups
+msgid "Select organisation unit groups"
+msgstr "Sélectionner les groupes d'unité d'organisation"
+
+#: allow_external_access
+msgid "Allow external access"
+msgstr "Permettre l'accès externe"
+
+#: show_hierarchy
+msgid "Show hierarchy"
+msgstr "Montrer la hiérarchie"
+
+#: all_indicators
+msgid "All indicators"
+msgstr "Tous les indicateurs"
+
+#: all_data_elements
+msgid "All data elements"
+msgstr "Tous les éléments de donnée"
+
+#: daily
+msgid "Daily"
+msgstr "Quotidien"
+
+#: weekly
+msgid "Weekly"
+msgstr "Hebdomadaire"
+
+#: monthly
+msgid "Monthly"
+msgstr "Mensuel"
+
+#: bimonthly
+msgid "Bi-monthly"
+msgstr "Bimestriel"
+
+#: quarterly
+msgid "Quarterly"
+msgstr "Trimestriel"
+
+#: sixmonthly
+msgid "Six-monthly"
+msgstr "Semestriel"
+
+#: sixmonthly_april
+msgid "Six-monthly April"
+msgstr "Semestriel Avril"
+
+#: yearly
+msgid "Yearly"
+msgstr "Annuel"
+
+#: financial_oct
+msgid "Financial October"
+msgstr "Financière Octobre"
+
+#: financial_july
+msgid "Financial July"
+msgstr "Financière Juillet"
+
+#: financial_april
+msgid "Financial April"
+msgstr "Financière Avril"
+
+#: plugin_config
+msgid "Plugin config"
+msgstr "Configuration du plugin"
+
+#: default_
+msgid "Default"
+msgstr "Défaut"
+
+#: aggregation_type
+msgid "Aggregation type"
+msgstr "Aggregation type"
+
+#: count
+msgid "Count"
+msgstr "Compt"
+
+#: sum
+msgid "Sum"
+msgstr "Somme"
+
+#: by_data_element
+msgid "By data element"
+msgstr "Par élément de donnée"
+
+#: stddev
+msgid "Standard deviation"
+msgstr "Écart type"
+
+#: variance
+msgid "Variance"
+msgstr "Variance"
+
+#: go_to_charts
+msgid "Go to charts"
+msgstr ""
+
+#: open_this_table_as_chart
+msgid "Open this table as chart"
+msgstr ""
+
+#: open_last_chart
+msgid "Open last chart"
+msgstr ""
+
+#: go_to_maps
+msgid "Go to maps"
+msgstr ""
+
+#: open_this_table_as_map
+msgid "Open this table as map"
+msgstr ""
+
+#: open_last_map
+msgid "Open last map"
+msgstr ""
+
+#: show_row_totals
+msgid "Show row totals"
+msgstr ""
+
+#: show_col_totals
+msgid "Show column totals"
+msgstr ""
+
+#: assigned_categories
+msgid "Assigned categories"
+msgstr ""
+
+#: show_dimension_labels
+msgid "Show dimension labels"
+msgstr ""
+
+#: min
+msgid "Min"
+msgstr ""
+
+#: max
+msgid "Max"
+msgstr ""
+
+#: select_sub_units
+msgid "Select sub-units"
+msgstr ""
+
+#: you_do_not_have_access_to_all_items_in_this_favorite
+msgid "You do not have access to all items in this favorite"
+msgstr ""
+
+#: show
+msgid "Show"
+msgstr ""
+
+#: show_col_subtotals
+msgid "Show column sub-totals"
+msgstr ""
+
+#: show_row_subtotals
+msgid "Show row sub-totals"
+msgstr ""
+
+#: last_52_weeks
+msgid "Last 52 weeks"
+msgstr ""
+
+#: last_6_months
+msgid "Last 6 months"
+msgstr ""
+
+#: created_by
+msgid "Created by"
+msgstr ""
+
+#: initializing
+msgid "Initializing"
+msgstr ""
+
+#: clear_pivot_table
+msgid "Clear pivot table"
+msgstr ""
+
+#: this_financial_year
+msgid "This financial year"
+msgstr ""
+
+#: user_sub_units
+msgid "User sub-units"
+msgstr ""
+
+#: user_sub_x2_units
+msgid "User sub-x2-units"
+msgstr ""
+
+#: metadata_id_scheme
+msgid "Meta-data ID scheme"
+msgstr ""
+
+#: this_week
+msgid "This week"
+msgstr ""
+
+#: this_quarter
+msgid "This quarter"
+msgstr ""
+
+#: this_month
+msgid "This month"
+msgstr ""
+
+#: this_sixmonth
+msgid "This six-month"
+msgstr ""
+
+#: this_bimonth
+msgid "This bi-month"
+msgstr ""
+
+#: excluded_dimensions
+msgid "Excluded dimensions"
+msgstr ""
+
+#: column_dimensions
+msgid "Column dimensions"
+msgstr ""
+
+#: row_dimensions
+msgid "Row dimensions"
+msgstr ""
+
+#: report_filter
+msgid "Report filter"
+msgstr ""
+
+#: about
+msgid "About"
+msgstr ""
+
+#: time_since_last_data_update
+msgid "Time since last data update"
+msgstr ""
+
+#: version
+msgid "Version"
+msgstr ""
+
+#: revision
+msgid "Revision"
+msgstr ""
+
+#: build_time
+msgid "Build time"
+msgstr ""
+
+#: username
+msgid "Username"
+msgstr ""
+
+#: error
+msgid "Error"
+msgstr ""
+
+#: warning
+msgid "Warning"
+msgstr ""
+
+#: data_approved_at_level
+msgid "Data approved at level"
+msgstr ""
+
+#: show_all_data
+msgid "Show all data"
+msgstr ""
+
+#: event_data_items
+msgid "Event data items"
+msgstr ""
+
+#: program_indicators
+msgid "Program indicators"
+msgstr ""
+
+#: program
+msgid "Program"
+msgstr ""
+
+#: select_program
+msgid "Select program"
+msgstr ""
+
+#: completed_only
+msgid "Completed only"
+msgstr ""
+
+#: events
+msgid "Events"
+msgstr ""
+
+#: include_only_completed_events_only
+msgid "Include only completed events"
+msgstr ""
+
+#: comma
+msgid "Comma"
+msgstr ""
+
+#: space
+msgid "Space"
+msgstr ""
+
+#: download_data
+msgid "Download data"
+msgstr ""
+
+#: skip_rounding
+msgid "Skip rounding"
+msgstr ""

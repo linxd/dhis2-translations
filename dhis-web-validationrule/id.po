@@ -1,0 +1,711 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-validationrule/src/main/resources/org/hisp/dhis/validationrule/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-validationrule/src/main/resources/org/hisp/dhis/validationrule/i18n_module_id.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: group_members
+msgid "Group Members"
+msgstr "Anggota Grup"
+
+#: available_data_elements
+msgid "Available data elements"
+msgstr ""
+
+#: saving_validation_rule_failed
+msgid "Saving Validation Rule failed"
+msgstr "Penyimpanan Aturan Validasi gagal dilakukan"
+
+#: operator
+msgid "Operator"
+msgstr "Operator"
+
+#: adding_validation_rule_failed
+msgid "Adding validation rule failed"
+msgstr "Penambahan aturan validasi gagal dilakukan"
+
+#: validation_failed
+msgid "Validation failed"
+msgstr "Validasi gagal "
+
+#: right_side
+msgid "Right side"
+msgstr "Sisi kanan"
+
+#: left_side
+msgid "Left side"
+msgstr "Sisi kiri"
+
+#: left_brackets
+msgid "Left brackets"
+msgstr "kurung kiri"
+
+#: right_brackets
+msgid "Right brackets"
+msgstr "kurung kanan"
+
+#: multiply
+msgid "Multiply"
+msgstr "Kali"
+
+#: divide
+msgid "Divide"
+msgstr "Bagi"
+
+#: plus
+msgid "Plus"
+msgstr "Tambah"
+
+#: minus
+msgid "Minus"
+msgstr "Kurang"
+
+#: no_of_days
+msgid "Number of days"
+msgstr "Jumlah hari"
+
+#: specify_left_side
+msgid "Please specify the left side"
+msgstr "Silakan menentukan sisi kiri"
+
+#: specify_right_side
+msgid "Please specify the right side"
+msgstr "Silakan menentukan sisi kanan"
+
+#: specify_operator
+msgid "Please specify an operator"
+msgstr "Silakan menentukan operator"
+
+#: specify_name
+msgid "Please specify a name"
+msgstr "Silakan menentukan nama"
+
+#: specify_a_start_date
+msgid "Please specify a start date"
+msgstr "Silakan menentukan tanggal mulai"
+
+#: specify_an_ending_date
+msgid "Please specify an ending date"
+msgstr "Silakan menentukan tanggal berakhir"
+
+#: specify_description
+msgctxt "specify_description"
+msgid "Please specify a description"
+msgstr "Silakan menentukan deskripsi"
+
+#: specify_expression
+msgctxt "specify_expression"
+msgid "Please specify an expression"
+msgstr "Silakan menentukan expression"
+
+#: enter_a_valid_start_date
+msgid "Please enter a valid start date"
+msgstr "Silakan memasukkan tanggal mulai yang valid"
+
+#: enter_a_valid_ending_date
+msgid "Please enter a valid end date"
+msgstr "Silakan memasukkan tanggal berakhir yang valid"
+
+#: end_date_cannot_be_before_start_date
+msgid "End date can not be before start date"
+msgstr "Tanggal berakhir tidak bisa sebelum tanggal mulai"
+
+#: name_in_use
+msgid "The name is in use"
+msgstr "Nama sudah digunakan"
+
+#: dataelements_left_must_be_type_integers
+msgid "The data elements on the left side must be of type numbers"
+msgstr "Data elemen pada sisi kiri harus dalam bentuk angka"
+
+#: dataelements_right_must_be_type_integers
+msgid "The data elements on the right side must be of type numbers"
+msgstr "Data elemen pada sisi kanan harus dalam bentuk angka"
+
+#: create_new_validation_rule
+msgid "Create new validation rule"
+msgstr "Buat aturan validasi baru"
+
+#: validate
+msgid "Validate"
+msgstr "Memvalidasi"
+
+#: confirm_delete_validation_rule
+msgid "Are you sure you want to delete the validation rule?"
+msgstr "Apakah Anda yakin akan menghapus aturan validasi ini?"
+
+#: confirm_delete_validation_rule_group
+msgid "Are you sure you want to delete the validation rule group?"
+msgstr "Apakah Anda yakin akan menghapus grup aturan validasi?"
+
+#: edit_left_side
+msgid "Edit left side"
+msgstr "Edit sisi kiri"
+
+#: edit_right_side
+msgid "Edit right side"
+msgstr "Edit sisi kanan"
+
+#: select_operator
+msgid "Select operator"
+msgstr "Pilih operator"
+
+#: left
+msgid "Left"
+msgstr "Kiri"
+
+#: right
+msgid "Right"
+msgstr "Kanan"
+
+#: textual_expression_description
+msgid "Textual expression description"
+msgstr "Deskripsi expression tekstual"
+
+#: edit_validation_rule
+msgid "Edit validation rule"
+msgstr "Edit aturan validasi"
+
+#: validation_rule
+msgid "Validation Rule"
+msgstr "Aturan Validasi"
+
+#: run_validation
+msgid "Run validation"
+msgstr "Jalankan validasi"
+
+#: validation_alerts
+msgctxt "validation_alerts"
+msgid "Validation alerts"
+msgstr ""
+
+#: value
+msgid "Value"
+msgstr "Nilai"
+
+#: data_element
+msgid "Data element"
+msgstr "Data elemen"
+
+#: organisation_unit
+msgid "Organisation unit"
+msgstr "Unit organisasi"
+
+#: period
+msgid "Period"
+msgstr "Periode"
+
+#: source
+msgid "Source"
+msgstr "Sumber"
+
+#: done
+msgid "Done"
+msgstr "Selesai"
+
+#: validation
+msgctxt "validation"
+msgid "Validation"
+msgstr "Validasi"
+
+#: VALIDATION
+msgctxt "VALIDATION"
+msgid "Validation"
+msgstr ""
+
+#: data_quality_report
+msgid "Data quality report"
+msgstr "Kualitas data laporan"
+
+#: validation_result_details
+msgid "Validation result details"
+msgstr "Detail hasil validasi"
+
+#: validation_rule_
+msgid "Validation rule"
+msgstr "Aturan validasi"
+
+#: dataelement_id_not_numeric
+msgid "Data element identifier must be a number"
+msgstr "Pengenal data elemen harus berupa angka"
+
+#: category_option_combo_id_not_numeric
+msgid "Category option combo identifier must be a number"
+msgstr "Pengenal kategori pilihan kombo harus berupa angka"
+
+#: data_element_does_not_exist
+msgid "Identifier does not reference a data element"
+msgstr "Pengenal tidak merefensikan data elemen"
+
+#: category_option_combo_does_not_exist
+msgid "Identifier does not reference a category option combo"
+msgstr "Pengenal tidak merefensikan kategori pilihan kombo"
+
+#: expression_not_well_formed
+msgid "Expression is not well formed"
+msgstr "Expression tidak dirumuskan dengan sempurna"
+
+#: everything_is_ok
+msgid "Everything is OK"
+msgstr "Semua berjalan lancar"
+
+#: validation_rule_group_management
+msgid "Validation rule group management"
+msgstr "Manajemen pengaturan aturan validasi"
+
+#: validation_rule_management
+msgid "Validation rule management"
+msgstr "Manajemen aturan validasi"
+
+#: validation_rule_group
+msgid "Validation Rule Group"
+msgstr "Grup aturan validasi"
+
+#: create_new_validation_rule_group
+msgid "Create new validation rule group"
+msgstr "Buat grup aturan validasi baru"
+
+#: available
+msgid "Available"
+msgstr ""
+
+#: selected
+msgid "Selected"
+msgstr ""
+
+#: validation_rules
+msgid "Validation rules"
+msgstr ""
+
+#: user_groups_to_alert
+msgid "User groups to alert"
+msgstr ""
+
+#: alert_by_org_units
+msgid "Alert only organisation unit related users"
+msgstr ""
+
+#: yes
+msgid "Yes"
+msgstr ""
+
+#: no
+msgid "No"
+msgstr ""
+
+#: available_validation_rules
+msgid "Available validation rules"
+msgstr "Aturan validasi yang tersedia"
+
+#: edit_validation_rule_group
+msgid "Edit validation rule group"
+msgstr "Edit grup aturan validasi"
+
+#: all_validation_rules
+msgid "All validation rules"
+msgstr "Semua aturan validasi"
+
+#: validation_alerts
+msgctxt "validation_alerts"
+msgid "Validation alerts"
+msgstr ""
+
+#: validation_passed_successfully
+msgid "Validation passed successfully"
+msgstr "Validasi berhasil dilalui"
+
+#: outlier_analysis
+msgctxt "outlier_analysis"
+msgid "Outlier Analysis"
+msgstr ""
+
+#: from_date
+msgid "From date"
+msgstr "Dari tanggal"
+
+#: to_date
+msgid "To date"
+msgstr "Ke tanggal"
+
+#: std_dev
+msgid "Standard Deviation"
+msgstr "Standar Deviasi"
+
+#: max
+msgid "Max"
+msgstr "Maks"
+
+#: min
+msgid "Min"
+msgstr "Min"
+
+#: values_found
+msgid "values found"
+msgstr "Nilai ditemukan"
+
+#: select_std_dev
+msgid "Select number of standard deviations"
+msgstr "Tentukan standar deviasi"
+
+#: select_parent_organisation_unit
+msgid "Select parent organisation unit"
+msgstr "Pilih induk unit organisasi"
+
+#: outlier_analysis
+msgctxt "outlier_analysis"
+msgid "Outlier Analysis"
+msgstr ""
+
+#: no_values_found
+msgid "No values found"
+msgstr "Nilai tidak ditemukan"
+
+#: intro_validation_rule
+msgid ""
+"Add, modify, view and delete validation rules. Anomalies can be discovered "
+"by running validation rules against the data."
+msgstr ""
+"Tambahkan, modifikasi, lihat, dan hapus aturan validasi. Kesalahan dapat "
+"ditemukan setelah menjalankan aturan validasi data"
+
+#: intro_validation_rule_group
+msgid ""
+"Add, modify, view and delete validation rule groups. Provides the ability to "
+"group and run validation rules together."
+msgstr ""
+"Tambahkan, modifikasi, lihat, dan hapus grup aturan validasi. Sediakan "
+"kemampuan untuk mengelompokkan dan jalankan aturan validasi bersama."
+
+#: intro_validation_rule_analysis
+msgid ""
+"Run validation rules in order to unveil anomalies and errors in the data in "
+"the database."
+msgstr ""
+"Jalankan aturan validasi untuk melihat keanehan dan kesalahan data di dalam "
+"database"
+
+#: intro_stddevoutlier_analysis
+msgid ""
+"Analyze potential outlier values based on standard deviations. Outlier "
+"values can be examined and marked for follow-up."
+msgstr ""
+"Analisis nilai yang berpotensi menjadi outlier dengan menggunakan standar "
+"deviasi. Nilai outlier dapat dicari dan ditandai agar dapat ditindaklanjuti."
+
+#: intro_minmaxoutlier_analysis
+msgid ""
+"Analyze potential outlier values based on min and max values. Outlier values "
+"can be examined and marked for follow-up."
+msgstr ""
+"Analisis nilai yang berpotensi menjadi outlier dengan menggunakan nilai min "
+"dan maks. Nilai outlier dapat dicari dan ditandai agar dapat ditindaklanjuti"
+
+#: intro_gap_analysis
+msgid ""
+"Perform analysis of potential missing values, referred to as gaps. Missing "
+"values can be entered or marked for follow-up."
+msgstr ""
+"Lakukan analisis untuk mencari potensi nilai yang missing, anggap sebagai "
+"gap. Nilai missing dapat dimasukkan atau ditandai agar dapat ditindaklanjuti"
+
+#: intro_followup_analysis
+msgid ""
+"View or edit data values marked for further follow-up during data entry or "
+"analysis."
+msgstr ""
+"Lihat atau edit nilai data yang ditandai untuk ditindaklanjuti selama entri "
+"data atau analisis"
+
+#: value_must_be_a_number
+msgid "Value must be a number"
+msgstr "Nilai harus berupa angka"
+
+#: value_is_lower_than_min_value
+msgid "Value is lower than minimum value"
+msgstr "Nilai tersebut lebih kecil dari nilai minimum"
+
+#: value_is_higher_than_max_value
+msgid "Value is higher than maximum value"
+msgstr "Nilai tersebut lebih besar dari nilai maksimum"
+
+#: mark
+msgid "Mark"
+msgstr "Tandai"
+
+#: mark_value_for_followup
+msgid "Mark value for follow-up"
+msgstr "Tandai nilai untuk ditindaklanjuti"
+
+#: unmark_value_for_followup
+msgid "Unmark value for follow-up"
+msgstr "Hapus penanda nilai untuk ditindaklanjuti"
+
+#: data_analysis
+msgid "Data Analysis"
+msgstr "Analisis data"
+
+#: data_analysis_report
+msgid "Data Analysis Report"
+msgstr ""
+
+#: stddevoutlier_analysis
+msgid "Std Dev Outlier Analysis"
+msgstr "Analisis Outlier Standar Deviasi"
+
+#: minmaxoutlier_analysis
+msgid "Min-Max Outlier Analysis"
+msgstr "Analisis Outlier Min-Maks"
+
+#: gap_analysis
+msgid "Gap Analysis"
+msgstr "Analisis Gap"
+
+#: followup_analysis
+msgid "Follow-Up Analysis"
+msgstr ""
+
+#: validation_rule_analysis
+msgid "Validation Rule Analysis"
+msgstr "Analisis Aturan Validasi"
+
+#: result
+msgid "result"
+msgstr "Hasil"
+
+#: start
+msgid "Start"
+msgstr "Mulai"
+
+#: clear_expression
+msgid "Clear expression"
+msgstr "Hapus expression"
+
+#: period_type
+msgid "Period type"
+msgstr ""
+
+#: available_data_sets
+msgid "Available data sets"
+msgstr "Data set tersedia"
+
+#: selected_data_sets
+msgid "Selected data sets"
+msgstr "Data set terpilih"
+
+#: analysing_data
+msgid "Analysing data"
+msgstr "Analisis data"
+
+#: data_source
+msgid "Data source"
+msgstr "Sumber Data"
+
+#: use_captured_data
+msgid "Use captured data"
+msgstr "Gunakan \"captured data\""
+
+#: use_aggregated_data
+msgid "Use aggregated data"
+msgstr "Gunakan data agregat"
+
+#: aggregate_data_info
+msgid "Immediate children of the selected organisation unit will be included"
+msgstr ""
+"Setiap level yang berada langsung di bawah unit organisasi terpilih akan "
+"dimasukkan"
+
+#: captured_data_info
+msgid "All children of the selected organisation unit will be included"
+msgstr "Semua level dari unit organisasi terpilih akan dimasukkan"
+
+#: method
+msgid "Method"
+msgstr "Metode"
+
+#: see_statistics
+msgid "See statistics"
+msgstr "Lihat statistik"
+
+#: description_not_null
+msgctxt "description_not_null"
+msgid "Please specify a description"
+msgstr "Silakan memberikan keterangan pad bagian Deskripsi"
+
+#: expression_not_null
+msgctxt "expression_not_null"
+msgid "Please specify an expression"
+msgstr "Silakan memberikan keterangan pad bagian Expression"
+
+#: number_of_members
+msgid "Number of members"
+msgstr "Jumlah anggota"
+
+#: specify_organisationunit_has_children
+msgid "Please specify an organisationunit which has children."
+msgstr "Silakan memilih unit organisasi yang memiliki tautan level di bawahnya"
+
+#: get_report_as_xls
+msgid "Download as Excel"
+msgstr "Download dalam bentuk Excel"
+
+#: get_report_as_csv
+msgid "Download as CSV"
+msgstr "Download dalam bentuk CSV"
+
+#: get_report_as_pdf
+msgid "Download as PDF"
+msgstr "Download dalam bentuk PDF"
+
+#: max_values_exceeded
+msgid "More than 500 values found, please narrow the search to see all"
+msgstr ""
+"Lebih dari 500 nilai ditemukan, silakan perbaiki atau persempit pencarian"
+
+#: specify_dataset
+msgid "Please specify data sets"
+msgstr "Silakan tentukan data set"
+
+#: analysing_please_wait
+msgid "Analysing data, please wait"
+msgstr "Menganalisis data, silakan tunggu"
+
+#: skip_for_missing_values
+msgid "Skip for missing values"
+msgstr "Skip nilai yang missing"
+
+#: select_parameters
+msgid "Select parameters"
+msgstr "Pilih parameter"
+
+#: compulsory_pair
+msgid "Compulsory pair"
+msgstr "Pasangan wajib"
+
+#: visible_in_validation_alerts
+msgid "visible in validation alerts"
+msgstr ""
+
+#: tip
+msgid "Tip"
+msgstr ""
+
+#: use
+msgid "use"
+msgstr ""
+
+#: importance
+msgid "Importance"
+msgstr ""
+
+#: high
+msgctxt "high"
+msgid "High"
+msgstr ""
+
+#: medium
+msgctxt "medium"
+msgid "Medium"
+msgstr ""
+
+#: low
+msgctxt "low"
+msgid "Low"
+msgstr ""
+
+#: HIGH
+msgctxt "HIGH"
+msgid "High"
+msgstr ""
+
+#: MEDIUM
+msgctxt "MEDIUM"
+msgid "Medium"
+msgstr ""
+
+#: LOW
+msgctxt "LOW"
+msgid "Low"
+msgstr ""
+
+#: rule_type
+msgid "Rule type"
+msgstr ""
+
+#: surveillance
+msgctxt "surveillance"
+msgid "Surveillance"
+msgstr ""
+
+#: SURVEILLANCE
+msgctxt "SURVEILLANCE"
+msgid "Surveillance"
+msgstr ""
+
+#: attributes
+msgid "Attributes"
+msgstr ""
+
+#: organisation_unit_level
+msgid "Organisation unit level"
+msgstr ""
+
+#: select_level
+msgid "Select level"
+msgstr ""
+
+#: sequential_sample_count
+msgid "Sequential sample count"
+msgstr ""
+
+#: annual_sample_count
+msgid "Annual sample count"
+msgstr ""
+
+#: high_outliers
+msgid "High outliers"
+msgstr ""
+
+#: low_outliers
+msgid "Low outliers"
+msgstr ""
+
+#: number_of_user_groups_to_alert
+msgid "Number of user groups to alert"
+msgstr ""
+
+#: send_alerts
+msgid "Send alerts"
+msgstr ""
+
+#: visible_when_rule_is_violated
+msgid "visible when rule is violated"
+msgstr ""
+
+#: instruction
+msgid "Instruction"
+msgstr ""
+
+#: skip_if_any_value_is_missing
+msgid "Skip if any value is missing"
+msgstr ""
+
+#: skip_if_all_values_are_missing
+msgid "Skip if all values are missing"
+msgstr ""
+
+#: never_skip
+msgid "Never skip"
+msgstr ""
+
+#: no_organisation_unit_selected
+msgid "No organisation unit selected"
+msgstr ""

@@ -1,0 +1,3985 @@
+#. #-- Application name -----------------------------------------------------------#
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-services/dhis-service-core/src/main/resources/i18n_global.properties, /home/jason/development/dhis2/dhis-2/dhis-services/dhis-service-core/src/main/resources/i18n_global_lo.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: district_health_information_software
+msgid "District Health Information Software 2"
+msgstr "ລະບົບຂໍ້ມູນຂ່າວສານສາທາລະນະສຸກເມືອງ 2"
+
+#: dhis2
+msgid "DHIS 2"
+msgstr "DHIS2"
+
+#. #-- dhis-wp --------------------------------------------------------------------#
+#: no_page_specified
+msgid "No page specified"
+msgstr "ບໍ່ໄດ້ລະບຸໜ້າ"
+
+#: an_exception_occured
+msgid "An exception occurred"
+msgstr "ເກີດຂື້ນໂດຍບັງເອີນ"
+
+#: exception_explanation_text
+msgid ""
+"Sorry! The system failed to execute the operation. Usually, no data is lost "
+"and you can continue working by going back to the previous page."
+msgstr ""
+"ຂໍອະໄພ ລະບົບມີການຂັດຂ້ອງ. ປົກະຕິແລ້ວ ຂໍ້ມູນບໍ່ມີ ແຕ່ທ່ານສາມາດສືບຕໍ່ປະຕິບັ"
+"ດງານ ໂດຍຕ້ອງກັບຄືນໄປນໜ້າທີ່ຜ່ານມາ"
+
+#: exception
+msgid "Exception"
+msgstr "ຍົກເວັ້ນ"
+
+#: caused_by
+msgid "Caused by"
+msgstr "ດ້ວຍເຫດ"
+
+#: unknown_source
+msgid "Unknown source"
+msgstr "ບໍ່ຮູ້ແຫ່ລງທີ່ມາ"
+
+#: logged_in
+msgid "Logged in"
+msgstr "ເຂົ້າສູ່ລະບົບ"
+
+#: not_logged_in
+msgid "Not logged in"
+msgstr "ບໍ່ເຂົ້າ"
+
+#: log_out
+msgid "Log out"
+msgstr "ອອກຈາກລະບົບ"
+
+#: about
+msgid "About"
+msgstr "ກ່ຽວກັບ"
+
+#: access_denied
+msgid "Access denied"
+msgstr "ການເຂົ້າສູ່ລະບົບຖືກປະຕິເສດ"
+
+#: access_denied_message
+msgid "You don't have sufficient authority to view this page"
+msgstr "ທ່ານບໍ່ມີສິດທີ່ຈະເຂົ້າເບີ່ງໜ້ານີ້"
+
+#: create_access_denied_message
+msgid "You don't have create access to object"
+msgstr "ທ່ານບໍ່ອານຸຍາດໃຫ້ດັດແປງ"
+
+#: read_access_denied_message
+msgid "You don't have read access to object"
+msgstr "ທ່ານບໍ່ມີສິດທີ່ຈະອ່ານຫົວຂໍ້ນີ້"
+
+#: update_access_denied_message
+msgid "You don't have update access to object"
+msgstr "ທ່ານບໍ່ສາມາດປ່ຽນແປງຫົວຂໍ້ນີ້"
+
+#: delete_access_denied_message
+msgid "You don't have delete access to object"
+msgstr "ທ່ານບໍ່ສາມາດລືບຫົວຂໍ້ນີ້"
+
+#: go_back
+msgid "Go back"
+msgstr "ກັບຄືນ"
+
+#: main_menu
+msgid "Main menu"
+msgstr "ລາຍການຫຼັກ"
+
+#: maintenance
+msgid "Maintenance"
+msgstr "ການ​ຮັກ​ສາ​ສ້ອມ​ແປງ"
+
+#: services
+msgid "Services"
+msgstr "ບໍລິການ"
+
+#. #-- dhis-ouwt ------------------------------------------------------------------#
+#: org_unit_tree
+msgid "Organisation Unit Tree"
+msgstr "ໂຄງສ້າງຂອງສະຖານທີ່"
+
+#: specify_organisationunit
+msgid "Please specify an organisation unit"
+msgstr "​ກະ​ລຸ​ນາ​ກຳ​ນົດ​ໂຄງ​ສ້າງ​ຂອງ​ສະ​ຖານ​ທີ່​ບໍ​ລິ​ການ"
+
+#: cannot_clear_selected_orgunits
+msgid "Cannot clear the selected organisation units"
+msgstr "ບໍ່​ສາ​ມາດ​ກຳ​ນົດ​ໄດ້​ຫົວ​ໜ່ວຍ​ການ​ຈັດ​ຕັ້ງ​ທີ່​ເລືອກ"
+
+#: locate_organisation_unit_by_name
+msgid "Locate organisation unit by name"
+msgstr "ເຂົ້າຫາສະຖານທີ່ດ້ວຍຊື່"
+
+#: error_occurred
+msgid "An error has occurred."
+msgstr "ຂໍ້ຜິດພາດປະກົດຂື້ນ."
+
+#: select_organisationunit
+msgid "You must select an OrganisationUnit from the tree."
+msgstr ""
+"ທ່ານຕ້ອງເລືອກຢ່າງນ້ອຍ ໜື່ງສະຖານທີ່ (ແຂວງ ຫຼື ເມືອງ ຫຼື ສຸກສາລາ) "
+"ທີ່ຈໍເບື້ອງຊ້າຍມື"
+
+#. #-- Modules --------------------------------------------------------------------#
+#: dhis-web-maintenance-datadictionary
+msgid "Data Elements / Indicators"
+msgstr "ອົງປະກອບຂໍ້ມູນ ແລະ ຕົວຊີ້ວັດ"
+
+#: dhis-web-maintenance-dataset
+msgid "Data Sets"
+msgstr "ແບບຟອມ"
+
+#: dhis-web-maintenance-organisationunit
+msgid "Organisation Units"
+msgstr "ຫົວໜ່ວຍການຈັດຕັ້ງ"
+
+#: dhis-web-maintenance-user
+msgctxt "dhis-web-maintenance-user"
+msgid "Users"
+msgstr "ຜູ້ນໍາໃຊ້"
+
+#: dhis-web-maintenance-dataadmin
+msgid "Data Administration"
+msgstr "ຜູ້ບໍລິຫານຈັດການຂໍ້ມູນ"
+
+#: dhis-web-maintenance-settings
+msgctxt "dhis-web-maintenance-settings"
+msgid "Settings"
+msgstr "ຕັ້ງຄ່າ"
+
+#: dhis-web-maintenance-program
+msgid "Programs / Attributes"
+msgstr "​ແຜນ​ງານ-ຂໍ້​ມູນ​ປະ​ກອບ​ຕ່າງໆ"
+
+#: dhis-web-maintenance-mobile
+msgid "Mobile Configuration"
+msgstr "ການກໍານົດຄ່າເຄື່ອນທີ່"
+
+#: dhis-web-maintenance-appmanager
+msgid "App Management"
+msgstr "ການບໍລິຫານຫົວໜ່ວຍການຊົມໃຊ້"
+
+#: dhis-web-caseentry
+msgid "Individual Records"
+msgstr "​ການ​ບັນ​ທຶກ​ຂໍ້​ມູນ​ສ່ວນ​ບຸກ​ຄົນ"
+
+#: dhis-web-dataentry
+msgid "Data Entry"
+msgstr "ປ້ອນຂໍ້ມູນ"
+
+#: dhis-web-importexport
+msgid "Import-Export"
+msgstr "ນຳຂໍ້ມູນເຂົ້າ-ອອກ"
+
+#: dhis-web-validationrule
+msgid "Data Quality"
+msgstr "ກວດກາຂໍ້ມູນ"
+
+#: dhis-web-mapping
+msgid "GIS"
+msgstr "ແຜນທີ່ຂໍ້ມູນ"
+
+#: dhis-web-event-capture
+msgid "Event Capture"
+msgstr "​ການ​ເກັບ​ກຳ​ໄດ້​ເຫດ​ການ​ຕ່າງໆ"
+
+#: dhis-web-event-reports
+msgid "Event Reports"
+msgstr "​ບົດ​ລາຍ​ງານ​ເຫດ​ການ​ຕ່າງໆ"
+
+#: dhis-web-event-visualizer
+msgid "Event Visualizer"
+msgstr "​ສະ​ພາບ​ກ່ຽວ​ກັບ​ການ​ສະ​ແດງ​ຮູບ​ພາບ"
+
+#: dhis-web-tracker-capture
+msgid "Tracker Capture"
+msgstr "​ການ​ຕິດ​ຕາມ​ການ​ເກັບ​ກຳ"
+
+#: dhis-web-cache-cleaner
+msgid "Browser Cache Cleaner"
+msgstr ""
+
+#: dhis-web-reporting
+msgid "Reports"
+msgstr "ລາຍ​ງານ​"
+
+#: dhis-web-light
+msgid "Mobile (Light)"
+msgstr "​ເຄື່ອນ​ທີ່"
+
+#: dhis-web-mobile
+msgid "Mobile (Smartphone)"
+msgstr "​ໜ່ວຍ​ເຄື່ອນ​ທີ່ (ສະ​ມາດ​ໂຟນ)"
+
+#: dhis-web-dashboard-integration
+msgctxt "dhis-web-dashboard-integration"
+msgid "Dashboard"
+msgstr "ພື້ນທີ່ຂໍ້ມູນ"
+
+#: dhis-web-visualizer
+msgid "Data Visualizer"
+msgstr "ການສ້າງຮູບພາບ ຈາກຂໍ້ມູນ"
+
+#: dhis-web-pivot
+msgid "Pivot Table"
+msgstr "ຕາຕະ ລາງຂໍ້ມູນ"
+
+#: dhis-web-dashboard
+msgid "Data Analyser"
+msgstr "ຜູ້ວິໄຈຂໍ້ມູນ"
+
+#: dhis-web-integration
+msgid "NHRM Integration"
+msgstr "ການປະສານງານຂອງຂໍ້ມູນ"
+
+#: dhis-web-reports
+msgid "NRHM Reports"
+msgstr "ບົດລາຍງານຂໍ້ມູນ"
+
+#: dhis-web-dataentry-national
+msgid "Linelisting Data Entry"
+msgstr "ບ່ອນປ້ອນຂໍ້ມູນຂອງແຕ່ລະຄົນ"
+
+#: dhis-web-validationrule-local-in
+msgid "Validation Analysis"
+msgstr "ການຢັ້ງຢືນການວິໄຈ"
+
+#: dhis-web-survey
+msgid "Survey - Target"
+msgstr "ການສໍາຫລວດ-ເປົ້າໝາຍ"
+
+#: dhis-web-spreadsheet-reporting
+msgid "Spreadsheet Reports"
+msgstr "ບົດລາຍງານແບບຕາຕະລາງ"
+
+#: dhis-web-sms
+msgid "SMS"
+msgstr "ຂໍ້ຄວາມ"
+
+#: dhis-web-maintenance-in
+msgid "Configuration"
+msgstr "ການ​ວາດ​ພາບ"
+
+#: dhis-web-linelisting-mp
+msgid "Manpower"
+msgstr "​ພະ​ນັກ​ງານ"
+
+#: dhis-web-maintenance-rbf
+msgid "Maintenance RBF"
+msgstr ""
+
+#. #-- Intro modules -------------------------------------------------------------#
+#: intro_dhis-web-maintenance-datadictionary
+msgid "Maintain data elements, indicators, categories and groups."
+msgstr ""
+"​ການ​ປັບ​ປຸງ​ອົງ​ປະ​ກອບ​ຂໍ້​ມູນ, ຕົວ​ຊີ້​ວັດ, ການ​ແປ​ຄວາມ​ໝາຍ​ຂໍ້​ມູນ, "
+"ປະ​ເພດ​ຂໍ້​ມູນ ແລະ ການ​ແບ່ງ​ກຸ່ມ"
+
+#: intro_dhis-web-maintenance-dataset
+msgid ""
+"Maintain data sets, custom forms, sections and compulsory data elements."
+msgstr ""
+"​ການ​ປັບ​ປຸງ​ຊຸດ​ຂໍ້​ມູນ, ການ​ດັດ​ປັບ​ແບບ​ຟອມ, ພາກ ແລະ ການ​ບັງ​ຄັບ "
+"ຂອງ​ອົງ​ປະ​ກອບ​ຂໍ້​ມູນ"
+
+#: intro_dhis-web-maintenance-organisationunit
+msgid "Maintain organisation units and its hierarchy, groups and group sets."
+msgstr ""
+"​ການ​ປັບ​ປຸງ​ຫົວ​ໜ່ວຍ​ການ​ຈັດ​ຕັ້ງແຕ່​ລະ​ຂັ້ນ, ການ​ແບ່ງ​ເປັນ​ກຸ່ມ ແລະ "
+"ກຸ່ມ​ຍ່ອຍ"
+
+#: intro_dhis-web-maintenance-user
+msgid ""
+"Maintain users in terms of authorities and passwords, user roles and groups."
+msgstr ""
+"​ການ​ປັບ​ປຸງ​ຜູ້​ໃຊ້ ກ່ຽວ​ກັບ ໜ້າ​ທີ່​ຮັບ​ຜິດ​ຊອບ, ລະ​ຫັດ​ຜ່ານ, "
+"ອຳ​ນາດ​ໃນ​ການ​ຮັບ​ຮອງ​ອາ​ນຸ​ມັດ ແບະ ກຸ່ມ"
+
+#: intro_dhis-web-maintenance-dataadmin
+msgid ""
+"Maintain resource tables, check data integrity, see statistics and more."
+msgstr ""
+"​ການ​ປັບ​ປຸງ​ຕ​າ​ຕະ​ລາງ​ແຫລ່ງ​ທີ່​ມາ, ການກວດ​ກາ​ການ​ປະ​ສານ​ຂອງ​ຂໍ້​ມູນ, "
+"ເບີ່ງ​ສະ​ຖິ​ຕິ ແລະ ອື່ນໆ​ອີກ"
+
+#: intro_dhis-web-maintenance-settings
+msgid ""
+"Maintain user and system settings related to appearance, notifications and "
+"more."
+msgstr ""
+"Maintain user and system settings related to appearance, notifications and "
+"more."
+
+#: intro_dhis-web-maintenance-program
+msgid ""
+"Maintain tracked entities and programs including attributes and identifiers."
+msgstr ""
+"Maintain tracked entities and programs including attributes and identifiers."
+
+#: intro_dhis-web-maintenance-mobile
+msgid ""
+"Maintain data sets plus settings for mobile reporting and SMS configuration."
+msgstr ""
+"ຮັກສາຊຸດຂໍ້ມູນ ລວມທັງການຕັ້ງຄ່າ ສໍາລັບການລາຍງານແບບເຄື່ອນທີ່ ແລະ ແບບ SMS "
+
+#: intro_dhis-web-maintenance-appmanager
+msgid ""
+"Access and upload apps, which are extensions to the standard user interface."
+msgstr ""
+"ການເຂົ້າເຖິງ ແລະ ການສົ່ງຂໍ້ມູນ ການຊົມໃຊ້ ທີ່ສາມາດເພີ້ມ ມາດຕະຖານສໍາລັບຜູ້ໃຊ້"
+
+#: intro_dhis-web-caseentry
+msgid ""
+"Register beneficiaries, enter data for encounters and events and view "
+"reports."
+msgstr ""
+"ການລົງທະບຽນຜູ້ໄດ້ຮັບຜົນປະໂຫຍດ, ການຕື່ມຂໍ້ມູນ ສໍາລັບ ສີ່ງທີ່ເກີດຂື້ນຕ່າງໆ ແລະ "
+"ເບີ່ງບົດລາຍງານລວມ"
+
+#: intro_dhis-web-dataentry
+msgid ""
+"Enter data for forms either on-line or off-line, validate data and view data "
+"trends."
+msgstr ""
+"ການຕື່ມຂໍ້ມູນ ໃສ່ແບບຟອມ ໂດຍການເຊື່ອມຕໍ່ ອີນເຕີແນັດ ຫລືບໍ່ເຊື່ອມຕໍ່, "
+"ການຢັ້ງຢືນຂໍ້ມູນ ແລະ ສັງເກດທ່າອ່ຽງຕ່າງຂອງຂໍ້ມູນ"
+
+#: intro_dhis-web-importexport
+msgid ""
+"Import and export data from DHIS or third-party systems on various formats."
+msgstr "ການໂອນຂໍ້ມູນເຂົ້າ ແລະ ອອກຈາກ DHIS ຫລື ພາກສ່ວນອື່ນ ອີງຕາມຮູບແບບຕ່າງໆ"
+
+#: intro_dhis-web-validationrule
+msgid ""
+"Validate and assess data quality using validation rules or statistical "
+"methods."
+msgstr ""
+"ການຢັ້ງຢືນ ແລະ ການເຂົ້າເຖິງຄຸນນະພາບຂອງຂໍ້ມູນໂດຍນໍາໃຊ້ມາດຕະຖານ ແລະ ຫລັກການ"
+
+#: intro_dhis-web-mapping
+msgid ""
+"Visualize data on maps using polygons, points, symbols in multiple layers."
+msgstr "ຂມູນທີ່ເປັນຮູບພາບ ແລະ ແຜນທີ່ ໂດຍນໍາໃຊ້ ເຄື່ອງໝາຍ ທີ່ຈັດວາງເປັນຫລາຍຊັ້ນ"
+
+#: intro_dhis-web-reporting
+msgid ""
+"Analyse data and reporting rates using predefined and dynamic report tools."
+msgstr ""
+"ການວິໄຈຂໍ້ມູນ ແລະ ອັດຕາການລາຍງານ ໂດຍນໍາໃຊ້ ການກໍານົດກ່ອນລ່ວງໜ້າ ແລະ "
+"ເຄື່ອງມືການລາຍງານ"
+
+#: intro_dhis-web-light
+msgid "Access a mobile device optimized version of data entry and analysis."
+msgstr "Access a mobile device optimized version of data entry and analysis."
+
+#: intro_dhis-web-mobile
+msgid ""
+"Access a smartphone optimized version of data entry, settings, messages."
+msgstr "ການຕັ້ງຄ່າເພື່ອການປ້ອນຂໍ້ມູນ, ສົ່ງຂໍ້ຄວາມ, ... ຜ່ານໂທລະສັບ"
+
+#: intro_dhis-web-dashboard-integration
+msgid ""
+"Get an overview of favorite charts, reports and maps and view or write "
+"messages."
+msgstr ""
+"Get an overview of favorite charts, reports and maps and view or write "
+"messages."
+
+#: intro_dhis-web-visualizer
+msgid "Create dynamic data visualizations for data elements and indicators."
+msgstr "Create dynamic data visualizations for data elements and indicators."
+
+#: intro_dhis-web-pivot
+msgid "Generate flexible pivot tables with data aggregated in all dimensions."
+msgstr "Generate flexible pivot tables with data aggregated in all dimensions. "
+
+#: intro_dhis-web-sms
+msgid "Send SMS reminders and notifications manually or as scheduled tasks."
+msgstr ""
+"Send SMS reminders and notifications as to phones manually or as scheduled "
+"tasks."
+
+#: intro_dhis-web-spreadsheet-reporting
+msgid "Generate and import data based on predefined Excel templates."
+msgstr "Generate and import data based on predefined Excel templates."
+
+#: intro_dhis-web-event-reports
+msgid "Query for events and create aggregated, dimensional analysis of events."
+msgstr "Query for events and create aggregated, dimensional analysis of events."
+
+#: intro_dhis-web-event-capture
+msgid "Capture information about single events."
+msgstr "Capture information about single events."
+
+#: intro_dhis-web-tracker-capture
+msgid "Capture information about trackable entities."
+msgstr "Capture information about trackable entities."
+
+#. #-- Intro functions -------------------------------------------------------------#
+#: intro_help_center
+msgid ""
+"Get help on a various of topics related to setting up and using the DHIS 2."
+msgstr "ຂໍຄວາມຊ່ວຍເຫລືອໃນຫລາຍໆຫົວຂໍ້ທີ່ພົວພັນກັບການຕັ້ງຄ່າ ແລະ ການນໍາໃຊ້ DHIS2"
+
+#: intro_supportive_software
+msgid ""
+"Get an overview of useful software like report designers mobile clients."
+msgstr ""
+"Get an overview of useful software like report designers mobile clients."
+
+#: intro_system_overview
+msgid "Visit the system overview page to get a complete list of modules."
+msgstr "ກະລຸນາກັບໄປເບີ່ງໜ້າພາບລວມຂອງລະບົບ ເພື່ອຈະ ສາມາດ ສໍາເລັດທຸກ ໂມດູນ"
+
+#: intro_web_api
+msgid ""
+"Go to the Web API entry point, which is an interface for other computer "
+"systems."
+msgstr ""
+"ເຂົ້າໄປເບີ່ງໃນ Web API ບ່ອນທີ່ຕື່ມຂໍ້ມູນ "
+"ທີ່ສາມາດແລກປ່ຽນຂໍ້ມູນກັບລະບົບຄອມພີວເຕີອື່ນໆ"
+
+#: intro_about_dhis2
+msgid "Get information about the system version and runtime environment."
+msgstr "ເອົາຂໍ້ມູນກ່ຽວກັບລະບົບນີ້ ແລະ ບັນຖານຂໍ້ມູນອື່ນໆຂອງລະບົບ"
+
+#: intro_settings
+msgid ""
+"Set your personal preferences for interface language, style and email "
+"settings."
+msgstr ""
+"ຕັ້ງຂໍ້ມູນສ່ວນຕົວ ເພື່ອສະດວກໃນການສົນທະນາ ແລະປ່ຽນ, ຮູບແບບ ແລະ ການຕັ້ງຄ່າ "
+"ອີແມວຕ່າງໆ"
+
+#: intro_profile
+msgid ""
+"Set up your personal profile with information like job title and interests."
+msgstr ""
+"ຕັ້ງຂໍ້ມູນສ່ວນຕົວຂອງທ່ານ ເຊັນຕົວຢ່າງ ໜ້າທີ່ຕໍາແໜ່ງໝ ບ່ອນເຮັດວຽກ ແລະ ອື່ນໆ"
+
+#: intro_account
+msgid "Manage your user account including name, password, email and mobile."
+msgstr ""
+"ບໍລິຫານ ບັນຊີຂອງຜູ້ໃຊ້ ເຊີ່ງລວມມີ ຊື່, ລະຫັດຜ່ານ, ທີ່ຢູ່ ອີແມວ ແລະ ເບີໂທ "
+"ໂມບາຍ"
+
+#: intro_log_out
+msgid ""
+"Go here to log out of the system and deny others to access your user account."
+msgstr ""
+"ເຂົ້າບ່ອນນີ້ ເພື່ອອອກຈາກ ລະບົບ ແລະ ຢຸດການເຂົ້າສູ່ລະບົບບັນຊີຂອງຜູ້ເຊົ້າໃຊ້"
+
+#. #-- Common ---------------------------------------------------------------------#
+#: offline
+msgid "Offline"
+msgstr "ບໍ່ມີການເຊື່ອມຕໍ່ "
+
+#: online
+msgid "Online"
+msgstr "ມີການເຊື່ອມຕໍ່"
+
+#: next
+msgid "Next"
+msgstr "ຕໍ່ໄປ"
+
+#: previous
+msgid "Previous"
+msgstr "Previous"
+
+#: online_notification
+msgid "You are online"
+msgstr "ອິນເຕີແນັດໄດ້ເຊື່ອມຕໍ່ແລ້ວ"
+
+#: offline_notification
+msgid "You are offline, data will be stored locally"
+msgstr "You are offline, data will be stored locally"
+
+#: ajax_login_failed
+msgctxt "ajax_login_failed"
+msgid "Login failed, check your username and password and try again"
+msgstr ""
+"​ເຂົ້າ​ບໍ່​ໄດ້, ກວດ​ກາ​ເບີ່ງ​ຄືນ​ ຊື່ຜູ້​ໄຊ້ ແລະ ລະ​ຫັດ​ຜ່ານ​ຂອງ​ທ່ານ "
+"ຫລັງ​ຈາກນັ້ນ​ລອງ​ເຂົ້າ​ໃໝ່​ອີກ​ຄັ້ງ"
+
+#: need_to_sync_notification
+msgid "There is data stored locally, please upload to server"
+msgstr ""
+"​ຂໍ້​ມູນໄດ້​ເກັບ​ໄວ້​ຢູ່​ໃນ​ຄອມ​ພີວ​ເຕີ​ຂອງ​ທ່ານ ກະ​ລຸ​ນາ upload ຂື້ນ​ໄປ​ຫາ "
+"ຖານ​ຂໍ້​ມູນ"
+
+#: uploading_data_notification
+msgid "Uploading locally stored data to the server"
+msgstr ""
+"​ອັບ​ໂຫລດ​ເອົາ​ຂໍ້​ມູນ​ຈາກ​ຄອມ​ພີວ​ເຕີ​ໄປ​ເກັບ​ໄວ້​ຢູ່​ຖານ​ຂໍ້​ມູນ​ໃຫ​ຍ່"
+
+#: sync_now
+msgid "Upload"
+msgstr "​ອັບ​ໂຫລດ​ເອົາ​ຂໍ້​ມູນ​ຂຶ້ນ​ໄປ​ຫາ​ຖານ​ຂໍ້​ມູນ"
+
+#: discard
+msgid "Discard"
+msgstr ""
+
+#: remove_local_data
+msgid "Are you sure you want to remove the locally stored data?"
+msgstr ""
+
+#: sync_success
+msgid "Upload to server was successful"
+msgstr "ການ Upload ໄປຫາ ຖານຂໍ້ມູນລວມສໍາເລັດສົມບູນ"
+
+#: sync_failed
+msgid "Upload to server failed, please try again later"
+msgstr "​ການ​ອັບ​ໂຫລດ​ຂໍ້​ມູນບໍ່​ສຳ​ເລັດ ກະ​ລຸ​ນາ​ລອງ​ໃໝ່​ອີກ​ຄັ້ງ"
+
+#: year
+msgid "Year"
+msgstr "ປີ"
+
+#: details
+msgctxt "details"
+msgid "Details"
+msgstr "ລາຍລະອຽດ"
+
+#: show_details
+msgid "Show details"
+msgstr "ເບີ່ງລາຍລະອຽດ"
+
+#: hide_details
+msgid "Hide details"
+msgstr "ເຊື່ອງລາຍລະອຽດ"
+
+#: change_password
+msgid "Change password"
+msgstr "ປ່ຽນລະຫັດຜ່ານ"
+
+#: expired_password
+msgid "Your password has expired, please change"
+msgstr "​ລະ​ຫັດ​ຜ່ານ​ຂອງ​ທ່ານ​ໝົດ​ອາ​ຍຸ​ແລ້ວ​ກະ​ລຸ​ນາ​ປ່ຽນ​ໃໝ່"
+
+#: date_selector
+msgid "Choose a date"
+msgstr "ເລືອກວັນທີ່"
+
+#: hide_menu
+msgid "Hide menu"
+msgstr "ເຊື່ອງ ເມນຍູ"
+
+#: extend_menu
+msgid "Extend menu"
+msgstr "ເພີ້ມເມນຍູຕື່ມ"
+
+#: show_menu
+msgid "Show menu"
+msgstr "ສະແດງໃຫ້ເຫັນເມນຍູ"
+
+#: show_main_menu
+msgid "Show main menu"
+msgstr "ສະແດງລາຍການຫຼັກ"
+
+#: view_home_page
+msgid "View home page"
+msgstr "ເບີ່ງໜ້າຫຼັກ"
+
+#: view_intepretations
+msgid "View interpretations"
+msgstr "​ເບີ່ງ​ການ​ແປ​ຜົນ"
+
+#: organisation_unit
+msgid "Organisation unit"
+msgstr "ສະຖານທີ່ (ແຂວງ, ເມືອງ, ສຸກສາລາ, ...)"
+
+#: dataelement
+msgid "Data element"
+msgstr "ອົງປະກອບຂໍ້ມູນ"
+
+#: start_date
+msgid "Start date"
+msgstr "ເລີ່ມຈາກວັນທີ່"
+
+#: end_date
+msgid "End date"
+msgstr "ເຖີງວັນທີ່"
+
+#: entry
+msgid "Entry"
+msgstr "​ປ້ອນ​ຂໍ້​ມູນ"
+
+#: comment
+msgctxt "comment"
+msgid "Comment"
+msgstr "​ຄຳ​ເຫັນ​ຕ່າງໆ"
+
+#: operations
+msgid "Operations"
+msgstr "ການປະຕິບັດການ"
+
+#: add_new
+msgid "Add new"
+msgstr "ເພີ່ມໃໝ່"
+
+#: rename
+msgid "Rename"
+msgstr "ປ່ຽນຊື່"
+
+#: move
+msgid "Move"
+msgstr "ຍ້າຍ"
+
+#: remove
+msgid "Remove"
+msgstr "ລົບອອກ"
+
+#: required
+msgid "Required"
+msgstr "ຕ້ອງການ"
+
+#: all
+msgid "All"
+msgstr "ທັງໝົດ"
+
+#: save
+msgctxt "save"
+msgid "Save"
+msgstr "ບັນທຶກ"
+
+#: new
+msgid "New"
+msgstr "ສ້າງໃຫມ່"
+
+#: back
+msgid "Back"
+msgstr "​ກັບ​ຄືນ"
+
+#: ok
+msgid "OK"
+msgstr "​ຕົກ​ລົງ"
+
+#: cancel
+msgctxt "cancel"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: clone
+msgid "Clone"
+msgstr "ກ່າຍແບບ"
+
+#: add
+msgctxt "add"
+msgid "Add"
+msgstr "Add"
+
+#: edit
+msgid "Edit"
+msgstr "ແກ້ໄຂ"
+
+#: reply
+msgid "Reply"
+msgstr "ຕອບກັບ"
+
+#: update
+msgid "Update"
+msgstr "Update"
+
+#: delete
+msgid "Delete"
+msgstr "Delete"
+
+#: deleting
+msgid "Deleting"
+msgstr "ການລຶບ"
+
+#: close
+msgid "Close"
+msgstr "ປິດ"
+
+#: gender_male
+msgctxt "gender_male"
+msgid "Male"
+msgstr "~ເພດຊາຍ"
+
+#: gender_female
+msgctxt "gender_female"
+msgid "Female"
+msgstr "~ເພດຍິງ"
+
+#: gender_other
+msgctxt "gender_other"
+msgid "Other"
+msgstr "ອື່ນໆ"
+
+#: password
+msgctxt "password"
+msgid "Password"
+msgstr "ລະຫັດຜ່ານ"
+
+#: confirm_password
+msgid "Confirm password"
+msgstr "ຢືນຢັນລະຫັດຜ່ານ"
+
+#: mobile_phone
+msgid "Mobile phone"
+msgstr "ໂທລະສັບມືຖື"
+
+#: create_new_account
+msgid "Create a new account"
+msgstr "ສ້າງ~ເອກະສານໃໝ່"
+
+#: prove_you_are_not_a_robot
+msgid "Prove you are not a robot"
+msgstr "ຢັ້ງຢືນວ່າທ່ານບໍ່ແມ່ນຫູ່ນຍົນ"
+
+#: create
+msgid "Create"
+msgstr "Create"
+
+#: cant_read_the_words_try_another_one
+msgid "Can't read the words? Try another one"
+msgstr "ບໍ່ສາມາດອ່ານຄຳສັບນີ້ໄດ້? ກະລຸນາປ່ຽນເປັັນຄຳໃໝ່"
+
+#: restore
+msgid "Restore"
+msgstr "Restore"
+
+#: new_password
+msgctxt "new_password"
+msgid "New password"
+msgstr ""
+
+#: restore_account
+msgid "Restore account"
+msgstr "Restore account"
+
+#: account_recovery
+msgid "Account recovery"
+msgstr "​ປັບ​ປຸງ​ຄືນ​ບັນ​ຊີ​ຂອງ​ທ່ານ"
+
+#: recover
+msgid "Recover"
+msgstr "​ປັບ​ປຸງ​ຄືນ"
+
+#: code_from_email
+msgid "Code from email"
+msgstr "​ເອົາ​ມາ​ຈາກ ອີ​ແມວ"
+
+#: password_hint
+msgid "Minimum 8 characters, 1 upper-case and 1 digit"
+msgstr "Minimum 8 characters, 1 upper-case and 1 digit"
+
+#: optional
+msgid "Optional"
+msgstr ""
+"​ຢ່າງ​ຕ່ຳ ມີ​ ທັງ​ໝົດ 8 ຄຳ ໃນ​ນັ້ນ​ຕ້ອງ​ມີ​ໂຕ​ໃຫ​ຍ່ 1 ໂຕ ແລະ ໂຕ​ເລກ 1 ໂຕ"
+
+#: object_not_deleted_associated_by_objects
+msgid "Object was not deleted because it is used by other objects:"
+msgstr "ບໍສາມາດລືບຟາຍນີ້ໄດ້ເພາະຍັງເປີດໃຊ້ຢູ່"
+
+#: id
+msgid "ID"
+msgstr "ID"
+
+#: name_in_use
+msgid "The name is already in use. Please choose a different name"
+msgstr ""
+
+#: code_in_use
+msgid "The code is already in use. Please choose a different code"
+msgstr ""
+
+#: short_name_in_use
+msgid "The short name is already in use. Please choose a different short name"
+msgstr ""
+
+#: unsupported_browser
+msgid ""
+"Please upgrade your browser. Internet Explorer version 8 and earlier is not "
+"supported."
+msgstr ""
+
+#: data_element_or_type_null_or_empty
+msgid "Data element or type not defined"
+msgstr "Data element or type is null or empty"
+
+#: value_length_greater_than_max_length
+msgid "Value is greater than max length"
+msgstr "Data value is greater than max length"
+
+#: comment_length_greater_than_max_length
+msgctxt "comment_length_greater_than_max_length"
+msgid "Comment is greater than max length"
+msgstr ""
+
+#: value_not_numeric
+msgid "Value is not numeric"
+msgstr "Data value is not numeric"
+
+#: value_not_unit_interval
+msgid "Value is not a unit interval"
+msgstr "Data value is not a unit interval"
+
+#: value_not_percentage
+msgid "Value is not a percentage"
+msgstr ""
+
+#: value_not_integer
+msgid "Value is not an integer"
+msgstr "Data value is not an integer"
+
+#: value_not_positive_integer
+msgid "Value is not a positive integer"
+msgstr "Data value is not a positive integer"
+
+#: value_not_negative_integer
+msgid "Value is not a negative integer"
+msgstr "Data value is not a negative integer"
+
+#: value_not_bool
+msgid "Value is not a boolean"
+msgstr "Data value is not a boolean"
+
+#: value_not_true_only
+msgid "Value is not true"
+msgstr "Data value is not true"
+
+#: value_not_valid_date
+msgid "Value is not a valid date"
+msgstr "Data value is not a valid date"
+
+#: email_not_configured_for_system
+msgid "Email is not configured for the system"
+msgstr ""
+
+#: no_user_credentials
+msgid "No user credentials"
+msgstr ""
+
+#: user_does_not_have_valid_email
+msgid "User does not have a valid email"
+msgstr ""
+
+#: user_has_critical_authorities
+msgid "User has critical authorities"
+msgstr ""
+
+#: default
+msgid "Default"
+msgstr ""
+
+#: left_brackets
+msgid "Left brackets"
+msgstr ""
+
+#: right_brackets
+msgid "Right brackets"
+msgstr ""
+
+#: multiply
+msgid "Multiply"
+msgstr ""
+
+#: divide
+msgid "Divide"
+msgstr ""
+
+#: plus
+msgid "Plus"
+msgstr ""
+
+#: minus
+msgid "Minus"
+msgstr ""
+
+#: no_of_days
+msgid "No of days"
+msgstr ""
+
+#: variables
+msgid "Variables"
+msgstr ""
+
+#: open
+msgid "Open"
+msgstr ""
+
+#: normal
+msgid "Normal"
+msgstr ""
+
+#. #-- Relative periods -----------------------------------------------------------#
+#: LAST_MONTH
+msgid "Last month"
+msgstr ""
+
+#: LAST_BIMONTH
+msgid "Last bi-month"
+msgstr ""
+
+#: LAST_QUARTER
+msgid "Last quarter"
+msgstr ""
+
+#: LAST_SIX_MONTH
+msgid "Last six-month"
+msgstr ""
+
+#: MONTHS_THIS_YEAR
+msgid "Months this year"
+msgstr ""
+
+#: QUARTERS_THIS_YEAR
+msgid "Quarters this year"
+msgstr ""
+
+#: THIS_YEAR
+msgid "This year"
+msgstr ""
+
+#: MONTHS_LAST_YEAR
+msgid "Months last year"
+msgstr ""
+
+#: QUARTERS_LAST_YEAR
+msgid "Quarters last year"
+msgstr ""
+
+#: LAST_YEAR
+msgid "Last year"
+msgstr ""
+
+#: LAST_5_YEARS
+msgid "Last 5 years"
+msgstr ""
+
+#: LAST_12_MONTHS
+msgid "Last 12 months"
+msgstr ""
+
+#: LAST_6_MONTHS
+msgid "Last 6 months"
+msgstr ""
+
+#: LAST_3_MONTHS
+msgid "Last 3 months"
+msgstr ""
+
+#: LAST_6_BIMONTHS
+msgid "Last 6 bi-months"
+msgstr ""
+
+#: LAST_4_QUARTERS
+msgid "Last 4 quarters"
+msgstr ""
+
+#: LAST_2_SIXMONTHS
+msgid "Last 2 six-months"
+msgstr ""
+
+#: THIS_FINANCIAL_YEAR
+msgid "This financial year"
+msgstr ""
+
+#: LAST_FINANCIAL_YEAR
+msgid "Last financial year"
+msgstr ""
+
+#: LAST_5_FINANCIAL_YEARS
+msgid "Last 5 financial years"
+msgstr ""
+
+#: LAST_WEEK
+msgid "Last week"
+msgstr ""
+
+#: LAST_4_WEEKS
+msgid "Last 4 weeks"
+msgstr ""
+
+#: LAST_12_WEEKS
+msgid "Last 12 weeks"
+msgstr ""
+
+#: LAST_52_WEEKS
+msgid "Last 52 weeks"
+msgstr ""
+
+#. #-- PeriodTypes ----------------------------------------------------------------#
+#: Daily
+msgid "Daily"
+msgstr "ທຸກໆມື້"
+
+#: Weekly
+msgid "Weekly"
+msgstr "ເປັນອາທິດ"
+
+#: Monthly
+msgid "Monthly"
+msgstr "ລາຍເດືອນ"
+
+#: BiMonthly
+msgid "Bimonthly"
+msgstr "ທຸກໆສອງເດືອນ"
+
+#: Quarterly
+msgid "Quarterly"
+msgstr "ແຕ່ລະໄຕຼມາດ"
+
+#: SixMonthly
+msgid "Six-monthly"
+msgstr "ແຕ່ລະ 6 ເດືອນ"
+
+#: SixMonthlyApril
+msgid "Six-monthly April"
+msgstr "Six-monthly April"
+
+#: Yearly
+msgid "Yearly"
+msgstr "ລາຍປີ"
+
+#: TwoYearly
+msgid "Two-yearly"
+msgstr "ລາຍສອງປີ"
+
+#: OnChange
+msgid "On-change"
+msgstr "On-change"
+
+#: Survey
+msgid "Survey"
+msgstr "Survey"
+
+#: Relative
+msgid "Relative"
+msgstr "Relative"
+
+#: FinancialApril
+msgid "Financial-April"
+msgstr "Financial-April"
+
+#: FinancialJuly
+msgid "Financial-July"
+msgstr "ສົກປີງົບປະມານ ແຕ່ ເດືອນ 7"
+
+#: FinancialOct
+msgid "Financial-Oct"
+msgstr "Financial-Oct"
+
+#. #-- Period formats - Should not be translated ----------------------------------#
+#: format.Daily.startDate
+msgctxt "format.Daily.startDate"
+msgid "yyyy-MM-dd"
+msgstr "yyyy-MM-dd"
+
+#: format.Daily.endDate
+msgctxt "format.Daily.endDate"
+msgid ""
+msgstr ""
+
+#: format.Weekly.startDate
+msgid "yyyy 'W' w"
+msgstr "yyyy 'W' w"
+
+#: format.Weekly.endDate
+msgctxt "format.Weekly.endDate"
+msgid ""
+msgstr ""
+
+#: format.Monthly.startDate
+msgid "MMMM yyyy"
+msgstr "MMMM yyyy"
+
+#: format.Monthly.endDate
+msgctxt "format.Monthly.endDate"
+msgid ""
+msgstr ""
+
+#: format.BiMonthly.startDate
+msgctxt "format.BiMonthly.startDate"
+msgid "MMM 'to '"
+msgstr "MMM 'to '"
+
+#: format.BiMonthly.endDate
+msgctxt "format.BiMonthly.endDate"
+msgid "MMM yyyy"
+msgstr "MMM yyyy"
+
+#: format.Quarterly.startDate
+msgctxt "format.Quarterly.startDate"
+msgid "MMM 'to '"
+msgstr "MMM 'to '"
+
+#: format.Quarterly.endDate
+msgctxt "format.Quarterly.endDate"
+msgid "MMM yyyy"
+msgstr "MMM yyyy"
+
+#: format.SixMonthly.startDate
+msgctxt "format.SixMonthly.startDate"
+msgid "MMM 'to '"
+msgstr "MMM 'to '"
+
+#: format.SixMonthly.endDate
+msgctxt "format.SixMonthly.endDate"
+msgid "MMM yyyy"
+msgstr "MMM yyyy"
+
+#: format.SixMonthlyApril.startDate
+msgctxt "format.SixMonthlyApril.startDate"
+msgid "MMM 'to '"
+msgstr "MMM 'to '"
+
+#: format.SixMonthlyApril.endDate
+msgctxt "format.SixMonthlyApril.endDate"
+msgid "MMM yyyy"
+msgstr "MMM yyyy"
+
+#: format.Yearly.startDate
+msgctxt "format.Yearly.startDate"
+msgid "yyyy"
+msgstr "yyyy"
+
+#: format.Yearly.endDate
+msgctxt "format.Yearly.endDate"
+msgid ""
+msgstr ""
+
+#: format.TwoYearly.startDate
+msgid "yyyy 'and '"
+msgstr "yyyy 'and '"
+
+#: format.TwoYearly.endDate
+msgctxt "format.TwoYearly.endDate"
+msgid "yyyy"
+msgstr "yyyy"
+
+#: format.OnChange.startDate
+msgctxt "format.OnChange.startDate"
+msgid "yyyy-MM-dd '- '"
+msgstr "yyyy-MM-dd '- '"
+
+#: format.OnChange.endDate
+msgctxt "format.OnChange.endDate"
+msgid "yyyy-MM-dd"
+msgstr "yyyy-MM-dd"
+
+#: format.Survey.startDate
+msgctxt "format.Survey.startDate"
+msgid "yyyy-MM-dd"
+msgstr "yyyy-MM-dd"
+
+#: format.Survey.endDate
+msgctxt "format.Survey.endDate"
+msgid ""
+msgstr ""
+
+#: format.Relative.startDate
+msgctxt "format.Relative.startDate"
+msgid "yyyy-MM-dd '- '"
+msgstr "yyyy-MM-dd '- '"
+
+#: format.Relative.endDate
+msgctxt "format.Relative.endDate"
+msgid "yyyy-MM-dd"
+msgstr "yyyy-MM-dd"
+
+#: format.FinancialApril.startDate
+msgctxt "format.FinancialApril.startDate"
+msgid "MMM yyyy 'to '"
+msgstr "dd MMM yyyy 'to '"
+
+#: format.FinancialApril.endDate
+msgctxt "format.FinancialApril.endDate"
+msgid "MMM yyyy"
+msgstr "dd MMM yyyy"
+
+#: format.FinancialJuly.startDate
+msgctxt "format.FinancialJuly.startDate"
+msgid "MMM yyyy 'to '"
+msgstr "dd MMM yyyy 'to '"
+
+#: format.FinancialJuly.endDate
+msgctxt "format.FinancialJuly.endDate"
+msgid "MMM yyyy"
+msgstr "dd MMM yyyy"
+
+#: format.FinancialOct.startDate
+msgctxt "format.FinancialOct.startDate"
+msgid "MMM yyyy 'to '"
+msgstr "'FY '"
+
+#: format.FinancialOct.endDate
+msgctxt "format.FinancialOct.endDate"
+msgid "MMM yyyy"
+msgstr "yyyy"
+
+#. #-- Months and weeks -----------------------------------------------------------#
+#: month.january
+msgid "January"
+msgstr "ມັງກອນ"
+
+#: month.february
+msgid "February"
+msgstr "ກຸມພາ"
+
+#: month.march
+msgid "March"
+msgstr "ມີນາ"
+
+#: month.april
+msgid "April"
+msgstr "ເມສາ"
+
+#: month.may
+msgctxt "month.may"
+msgid "May"
+msgstr "ພຶດສະພາ"
+
+#: month.june
+msgid "June"
+msgstr "ມີຖຸນາ"
+
+#: month.july
+msgid "July"
+msgstr "ກໍລະກົດ"
+
+#: month.august
+msgid "August"
+msgstr "ສິງຫາ"
+
+#: month.september
+msgid "September"
+msgstr "ກັນຍາ"
+
+#: month.october
+msgid "October"
+msgstr "ຕຸລາ"
+
+#: month.november
+msgid "November"
+msgstr "ພະຈິກ"
+
+#: month.december
+msgid "December"
+msgstr "ທັນວາ"
+
+#: month.short.january
+msgid "Jan"
+msgstr "ມັງກອນ"
+
+#: month.short.february
+msgid "Feb"
+msgstr "ກຸມພາ"
+
+#: month.short.march
+msgid "Mar"
+msgstr "ມີນາ"
+
+#: month.short.april
+msgid "Apr"
+msgstr "ເມສາ"
+
+#: month.short.may
+msgctxt "month.short.may"
+msgid "May"
+msgstr "ພຶດສະພາ"
+
+#: month.short.june
+msgid "Jun"
+msgstr "ມີຖຸນາ"
+
+#: month.short.july
+msgid "Jul"
+msgstr "ກໍລະກົດ"
+
+#: month.short.august
+msgid "Aug"
+msgstr "ສິງຫາ"
+
+#: month.short.september
+msgid "Sep"
+msgstr "Sep"
+
+#: month.short.october
+msgid "Oct"
+msgstr "Oct"
+
+#: month.short.november
+msgid "Nov"
+msgstr "ພະຈິກ"
+
+#: month.short.december
+msgid "Dec"
+msgstr "ທັນວາ"
+
+#: weekday.monday
+msgctxt "weekday.monday"
+msgid "Monday"
+msgstr "Monday"
+
+#: weekday.tuesday
+msgctxt "weekday.tuesday"
+msgid "Tuesday"
+msgstr "Tuesday"
+
+#: weekday.wednesday
+msgctxt "weekday.wednesday"
+msgid "Wednesday"
+msgstr "ວັນພຸດ"
+
+#: weekday.thursday
+msgctxt "weekday.thursday"
+msgid "Thursday"
+msgstr "Thursday"
+
+#: weekday.friday
+msgctxt "weekday.friday"
+msgid "Friday"
+msgstr "ວັນສຸກ"
+
+#: weekday.saturday
+msgctxt "weekday.saturday"
+msgid "Saturday"
+msgstr "ວັນເສົາ"
+
+#: weekday.sunday
+msgctxt "weekday.sunday"
+msgid "Sunday"
+msgstr "ວັນອາທິດ"
+
+#: weekday.short.monday
+msgctxt "weekday.short.monday"
+msgid "Mon"
+msgstr "ວັນຈັນ"
+
+#: weekday.short.tuesday
+msgctxt "weekday.short.tuesday"
+msgid "Tue"
+msgstr "ວັນອັງຄານ"
+
+#: weekday.short.wednesday
+msgctxt "weekday.short.wednesday"
+msgid "Wed"
+msgstr "ວັນພຸດ"
+
+#: weekday.short.thursday
+msgctxt "weekday.short.thursday"
+msgid "Thu"
+msgstr "ວັນພະຫັດ"
+
+#: weekday.short.friday
+msgctxt "weekday.short.friday"
+msgid "Fri"
+msgstr "ວັນສຸກ"
+
+#: weekday.short.saturday
+msgctxt "weekday.short.saturday"
+msgid "Sat"
+msgstr "ວັນເສົາ"
+
+#: weekday.short.sunday
+msgctxt "weekday.short.sunday"
+msgid "Sun"
+msgstr "ວັນອາທິດ"
+
+#. #-- Nepali Calendar Month/Day names -------------------------------------------#
+#. # The keys for months are still based on ISO 8601, the ordering is correct, but the key names are not. Jan-Dec -> 1-12. #
+#: nepali.month.january
+msgctxt "nepali.month.january"
+msgid "Baishak"
+msgstr "Baishak"
+
+#: nepali.month.february
+msgctxt "nepali.month.february"
+msgid "Jestha"
+msgstr "Jestha"
+
+#: nepali.month.march
+msgctxt "nepali.month.march"
+msgid "Asar"
+msgstr "Asar"
+
+#: nepali.month.april
+msgctxt "nepali.month.april"
+msgid "Shrawan"
+msgstr "Shrawan"
+
+#: nepali.month.may
+msgctxt "nepali.month.may"
+msgid "Bhadra"
+msgstr "Bhadra"
+
+#: nepali.month.june
+msgctxt "nepali.month.june"
+msgid "Ashwin"
+msgstr "Ashwin"
+
+#: nepali.month.july
+msgctxt "nepali.month.july"
+msgid "Kartik"
+msgstr "Kartik"
+
+#: nepali.month.august
+msgctxt "nepali.month.august"
+msgid "Mangsir"
+msgstr "Mangsir"
+
+#: nepali.month.september
+msgctxt "nepali.month.september"
+msgid "Poush"
+msgstr "Poush"
+
+#: nepali.month.october
+msgctxt "nepali.month.october"
+msgid "Magh"
+msgstr "Magh"
+
+#: nepali.month.november
+msgctxt "nepali.month.november"
+msgid "Falgun"
+msgstr "Falgun"
+
+#: nepali.month.december
+msgctxt "nepali.month.december"
+msgid "Chaitra"
+msgstr "Chaitra"
+
+#: nepali.month.short.january
+msgctxt "nepali.month.short.january"
+msgid "Baishak"
+msgstr "Baishak"
+
+#: nepali.month.short.february
+msgctxt "nepali.month.short.february"
+msgid "Jestha"
+msgstr "Jestha"
+
+#: nepali.month.short.march
+msgctxt "nepali.month.short.march"
+msgid "Asar"
+msgstr "Asar"
+
+#: nepali.month.short.april
+msgctxt "nepali.month.short.april"
+msgid "Shrawan"
+msgstr "Shrawan"
+
+#: nepali.month.short.may
+msgctxt "nepali.month.short.may"
+msgid "Bhadra"
+msgstr "Bhadra"
+
+#: nepali.month.short.june
+msgctxt "nepali.month.short.june"
+msgid "Ashwin"
+msgstr "Ashwin"
+
+#: nepali.month.short.july
+msgctxt "nepali.month.short.july"
+msgid "Kartik"
+msgstr "Kartik"
+
+#: nepali.month.short.august
+msgctxt "nepali.month.short.august"
+msgid "Mangsir"
+msgstr "Mangsir"
+
+#: nepali.month.short.september
+msgctxt "nepali.month.short.september"
+msgid "Poush"
+msgstr "Poush"
+
+#: nepali.month.short.october
+msgctxt "nepali.month.short.october"
+msgid "Magh"
+msgstr "Magh"
+
+#: nepali.month.short.november
+msgctxt "nepali.month.short.november"
+msgid "Falgun"
+msgstr "Falgun"
+
+#: nepali.month.short.december
+msgctxt "nepali.month.short.december"
+msgid "Chaitra"
+msgstr "Chaitra"
+
+#: nepali.weekday.monday
+msgctxt "nepali.weekday.monday"
+msgid "Monday"
+msgstr "Monday"
+
+#: nepali.weekday.tuesday
+msgctxt "nepali.weekday.tuesday"
+msgid "Tuesday"
+msgstr "Tuesday"
+
+#: nepali.weekday.wednesday
+msgctxt "nepali.weekday.wednesday"
+msgid "Wednesday"
+msgstr "Wednesday"
+
+#: nepali.weekday.thursday
+msgctxt "nepali.weekday.thursday"
+msgid "Thursday"
+msgstr "Thursday"
+
+#: nepali.weekday.friday
+msgctxt "nepali.weekday.friday"
+msgid "Friday"
+msgstr "Friday"
+
+#: nepali.weekday.saturday
+msgctxt "nepali.weekday.saturday"
+msgid "Saturday"
+msgstr "Saturday"
+
+#: nepali.weekday.sunday
+msgctxt "nepali.weekday.sunday"
+msgid "Sunday"
+msgstr "Sunday"
+
+#: nepali.weekday.short.monday
+msgctxt "nepali.weekday.short.monday"
+msgid "Mon"
+msgstr "Mon"
+
+#: nepali.weekday.short.tuesday
+msgctxt "nepali.weekday.short.tuesday"
+msgid "Tue"
+msgstr "Tue"
+
+#: nepali.weekday.short.wednesday
+msgctxt "nepali.weekday.short.wednesday"
+msgid "Wed"
+msgstr "Wed"
+
+#: nepali.weekday.short.thursday
+msgctxt "nepali.weekday.short.thursday"
+msgid "Thu"
+msgstr "Thu"
+
+#: nepali.weekday.short.friday
+msgctxt "nepali.weekday.short.friday"
+msgid "Fri"
+msgstr "Fri"
+
+#: nepali.weekday.short.saturday
+msgctxt "nepali.weekday.short.saturday"
+msgid "Sat"
+msgstr "Sat"
+
+#: nepali.weekday.short.sunday
+msgctxt "nepali.weekday.short.sunday"
+msgid "Sun"
+msgstr "Sun"
+
+#. #-- Translation page ------------------------------------------------------#
+#: translation_translate
+msgid "Translate"
+msgstr "Translate"
+
+#: translation_addlocale
+msgid "Add locale"
+msgstr "Add locale"
+
+#: translation_details
+msgctxt "translation_details"
+msgid "Details"
+msgstr "Details"
+
+#: translation_select_locale
+msgid "[ Select locale ]"
+msgstr "[ Select locale ]"
+
+#: translation_select_ref
+msgid "[ Select reference ]"
+msgstr "[ Select reference ]"
+
+#: translation_save
+msgctxt "translation_save"
+msgid "Save"
+msgstr "Save"
+
+#: translation_label_id
+msgid "Id"
+msgstr "ລະຫັດ"
+
+#: translation_label_name
+msgctxt "translation_label_name"
+"translation_label_name"
+msgid "Name"
+msgstr "Name"
+
+#: translation_label_shortName
+msgctxt "translation_label_shortName"
+msgid "Short name"
+msgstr "ຊື່ສັ້ນ"
+
+#: translation_label_description
+msgctxt "translation_label_description"
+msgid "Description"
+msgstr "ລາຍລະອຽດ"
+
+#: translation_label_comment
+msgctxt "translation_label_comment"
+msgid "Comment"
+msgstr "ຄຳເຫັນ"
+
+#: translation_label_region
+msgid "Region"
+msgstr "ພາກ"
+
+#: translation_label_title
+msgid "Title"
+msgstr "ຫົວຂໍ້"
+
+#: translation_variant
+msgid "Variant"
+msgstr "ຫລາຍແບບ"
+
+#: translation_countrycode
+msgid "Country code"
+msgstr "ລະຫັດປະເທດ"
+
+#: translation_languagecode
+msgid "Language code"
+msgstr "ລະຫັດພາສາ"
+
+#: translation_label_numerator_description
+msgctxt "translation_label_numerator_description"
+msgid "Numerator description"
+msgstr "ພັນລະນາກ່ຽວກັບຕົວຕັ້ງ"
+
+#: translation_label_denominator_description
+msgctxt "translation_label_denominator_description"
+msgid "Denominator description"
+msgstr "ການພັນລະນາເຖິງຕົວຫານ"
+
+#: translation_locale_added
+msgid "Added locale"
+msgstr "Added locale"
+
+#: translation_cancel
+msgctxt "translation_cancel"
+msgid "Cancel"
+msgstr "ຍົກເລີກ"
+
+#: translation_add
+msgctxt "translation_add"
+msgid "Add"
+msgstr "ເພີ່່ມ"
+
+#: translation_locale
+msgid "Locale"
+msgstr "Locale"
+
+#: translation_reference
+msgid "Reference"
+msgstr "Reference"
+
+#: translation_language_must_be_two_chars
+msgid "Language must be two characters"
+msgstr "ພາສາຈະຕ້ອງມີພຽງແຕ່ອັກສອນສອງຕົວເທົ່ານັ້ນ"
+
+#: translation_country_must_be_two_chars
+msgid "Country must be two characters"
+msgstr "Country must be two characters"
+
+#: translation_variant_must_be_specified
+msgid "Variant must be specified"
+msgstr "Variant must be specified"
+
+#: translation_locale_already_exists
+msgid "Locale already exists"
+msgstr "ທີ່ຕັ້ງນີ້ມີແລ້ວ"
+
+#: translation_shortname_wellformed
+msgid ""
+"Please verify Letters, Numbers, Underscore and Spaces for short name only"
+msgstr ""
+"ກະລຸນາ ກໍານົດ ເປັນຕົວໜັງສື, ເປັນຕົວເລກ, ໝາຍຂີດກ້ອງ ແລະ ຍະຫວ່າງ ສໍາລັບ "
+"ພຽງແຕ່ຊື່ສັ້ນ"
+
+#: translation_shortname_length
+msgid "Shortname's maximum length of 25 charaters"
+msgstr "ຊື່ສັ້ນສູງສຸດບໍ່ໃຫ້ກາຍ 25 ຄໍາ"
+
+#: translation_duplicated_name_with
+msgid "Sorry! You entered a duplicated name with"
+msgstr "ຂໍອະໄພ ຊື່ຂອງທ່ານທີ່ຕື່ມໃສ່ຊໍ້າຊ້ອນກັບຊື່"
+
+#: translation_duplicated_shortname_with
+msgid "Sorry! You entered a duplicated short name with"
+msgstr "ຂໍອາໄພຊື່ສັ້ນຂອງທ່ານຊໍ້າຊ້ອນກັບ"
+
+#: translation_label_formName
+msgid "Form name"
+msgstr "Form name"
+
+#. #-- About ----------------------------------------------------------------------#
+#: name_exists
+msgid "Warning, name already exists"
+msgstr "ຊື່ນີ້ມີຮຽບຮ້ອຍແລ້ວ."
+
+#: name_is_required
+msgid "Error, name is required"
+msgstr "ທ່ານຈໍາເປັນຕ້ອງຕື່ມຊື່ໃສ່"
+
+#: version
+msgid "Version"
+msgstr "ລູ້ນ"
+
+#: build_revision
+msgid "Build revision"
+msgstr "ສ້າງການທົບທວນຄືນ"
+
+#: build_date
+msgid "Build date"
+msgstr "Build date"
+
+#: user_agent
+msgid "User agent"
+msgstr "User agent"
+
+#: external_configuration_directory
+msgid "External configuration directory"
+msgstr "External configuration directory"
+
+#: environment_variable
+msgid "Environment variable"
+msgstr "Environment variable"
+
+#: database_type
+msgid "Database type"
+msgstr "Database type"
+
+#: database_name
+msgid "Database name"
+msgstr "Database name"
+
+#: database_user
+msgid "Database user"
+msgstr "Database user"
+
+#: not_set
+msgid "Not set"
+msgstr "Not set"
+
+#: current_user
+msgid "Current user"
+msgstr "ຜູ້ໃຊ້ປະຈຸບັນ"
+
+#: dhis2_online
+msgid "DHIS 2 Online"
+msgstr "ເຊື່ອມຕໍ່ລະບົບ DHIS 2"
+
+#: home_page
+msgid "Home Page"
+msgstr "ຫນ້າຫລັກ"
+
+#: launchpad_site
+msgid "Launchpad Site"
+msgstr "Launchpad ແວບໄຊ"
+
+#: message_to_the_dhis2_development_team
+msgid "Message to the DHIS 2 development team"
+msgstr "ຂໍ້ມູນສໍາລັບທິມງານທີ່ພັດທະນາ ລະບົບ DHIS 2"
+
+#: error_message_stack_trace
+msgid "Error message / Stack trace"
+msgstr "ຂໍ້ມູນບໍ່ຖືກ"
+
+#: enter_message
+msgid "Enter a message"
+msgstr "ຕື່ມຂໍ້ມູນໃສ່"
+
+#: send
+msgid "Send"
+msgstr "ສົ່ງ"
+
+#: help
+msgid "Help"
+msgstr "ຊ່ວຍ"
+
+#: send_feedback
+msgid "Send feedback"
+msgstr "Send feedback"
+
+#: status
+msgid "Status"
+msgstr "Status"
+
+#: system_status
+msgid "System status"
+msgstr "System status"
+
+#: feedback
+msgid "Feedback"
+msgstr "Feedback"
+
+#: intro
+msgid "Intro"
+msgstr "Intro"
+
+#: help_contents
+msgid "Help Contents"
+msgstr "ຊ່ວຍເຫຼືອ"
+
+#: about_dhis2
+msgid "About DHIS 2"
+msgstr "ກ່ຽວກັບ DHIS 2"
+
+#: last_name
+msgid "Last name"
+msgstr "ນາມສະກຸນ"
+
+#: unknown
+msgid "Unknown"
+msgstr "ບໍ່ຮູ້"
+
+#: java_opts
+msgid "Java opts"
+msgstr "Java Opts"
+
+#: java_home
+msgid "Java home"
+msgstr ""
+
+#: java_tmp_dir
+msgid "Java temporary directory"
+msgstr "ຖານ Java ຊົ່ວຄາວ"
+
+#: java_version
+msgid "Java version"
+msgstr "ຕາມລະບົບຂອງ Java"
+
+#: java_vendor
+msgid "Java vendor"
+msgstr "Java vendor"
+
+#: os_name
+msgid "OS name"
+msgstr "ຊື່ຂອງລະບົບບໍລິຫານຈັດການ"
+
+#: os_architecture
+msgid "OS architecture"
+msgstr "ຂະໜາດຂອງລະບົບ"
+
+#: os_version
+msgid "OS version"
+msgstr "ລຸ້ນຂອງລະບົບ"
+
+#: supportive_software
+msgid "Supportive Software"
+msgstr "ຊອບແວທີ່ສະໜັບສະໜູນໃຫ້ສາມາດທໍາງານໄດ້"
+
+#: chrome_description
+msgid "Super fast web browser for all platforms"
+msgstr "web browser ທີ່ມີຄວາມໄວສູງ"
+
+#: foxit_description
+msgid "Free and simple PDF reader for Windows"
+msgstr "Free and simple PDF reader for Windows"
+
+#: web_browser
+msgid "Web browser"
+msgstr "Web browser"
+
+#: pdf_reader
+msgid "PDF reader"
+msgstr "PDF reader"
+
+#: ireport_description
+msgid "Report designer for standard reports"
+msgstr "Report designer for standard reports"
+
+#: report_designer
+msgid "Report designer"
+msgstr "Report designer"
+
+#: my_datamart
+msgid "MyDatamart"
+msgstr "MyDatamart"
+
+#: my_datamart_description
+msgid "Local data mart for off-line data analysis"
+msgstr "Local data mart for off-line data analysis"
+
+#: mobile_client
+msgid "Mobile client"
+msgstr "Mobile client"
+
+#: mobile_client_description
+msgid "Client for data capture on mobile devices"
+msgstr "Client for data capture on mobile devices"
+
+#: web_api
+msgid "Web API"
+msgstr "Web API"
+
+#: system_overview
+msgid "System Overview"
+msgstr "ພາບລວມຂອງລະບົບ"
+
+#: server_date
+msgid "Server date"
+msgstr "ວັນທີຕົວບໍລິການ"
+
+#: last_analytics_table_generation
+msgid "Last analytics table generation"
+msgstr ""
+
+#: last_analytics_table_runtime
+msgid "Last analytics table runtime"
+msgstr ""
+
+#: time_since_last_analytics_table_generation
+msgid "Time since last analytics table generation"
+msgstr ""
+
+#: online_release_page
+msgctxt "online_release_page"
+msgid "online release page"
+msgstr "ໜ້າທີ່ສົ່ງອອກໄນລະບົບອິນເຕີແນດ"
+
+#: edit_profile
+msgid "Edit profile"
+msgstr "ແກ້ໄຂຂໍ້ມູນ"
+
+#: view_profile
+msgid "View profile"
+msgstr "ເບີ່ງຂໍ້ມູນ"
+
+#: profile_details
+msgid "Profile details"
+msgstr "ລາຍລະອຽດຂໍ້ມູນ"
+
+#: job_title
+msgid "Job title"
+msgstr "ຕຳແໜ່ງ"
+
+#: introduction
+msgid "Introduction"
+msgstr "ແນະນຳ"
+
+#: gender
+msgid "Gender"
+msgstr "ເພດ"
+
+#: male
+msgctxt "male"
+msgid "Male"
+msgstr "ຊາຍ"
+
+#: female
+msgctxt "female"
+msgid "Female"
+msgstr "Female"
+
+#: other
+msgctxt "other"
+msgid "Other"
+msgstr "Other"
+
+#: birthday
+msgid "Birthday"
+msgstr "ວັນເດືອນປີເກີດ"
+
+#: nationality
+msgid "Nationality"
+msgstr "Nationality"
+
+#: employer
+msgid "Employer"
+msgstr "Employer"
+
+#: education
+msgid "Education"
+msgstr "Education"
+
+#: interests
+msgid "Interests"
+msgstr "Interests"
+
+#: languages
+msgid "Languages"
+msgstr "ພາສາ"
+
+#: update_user_profile_success
+msgid "Profile was updated"
+msgstr "ຂໍ້ມູນໄດ້ປັບປຸງແລ້ວ"
+
+#: settings
+msgctxt "settings"
+msgid "Settings"
+msgstr "ການຕັ້ງຄ່າ"
+
+#: property_to_display_in_analysis_modules
+msgid "Property to display in analysis modules"
+msgstr "ສື່ງທີ່ສາມາດນໍາສະເໜີ ໃນໂມດູນຂອງການວິໄຈ"
+
+#: user_settings
+msgid "User settings"
+msgstr "ການຕັ້ງຄ່າສໍາລັບຜູ້ຊົມໃຊ້"
+
+#: general
+msgid "General"
+msgstr "ໂດຍທົ່ວໄປ"
+
+#: message
+msgid "Message"
+msgstr "ຂໍ້ຄວາມ"
+
+#: db_language
+msgid "Database language"
+msgstr "ພາສາຂອງຖານຂໍ້ມູນ"
+
+#: language
+msgid "Interface language"
+msgstr "ພາສາທີ່ໄຊ້ສໍາລັບໃຊ້ສົນທະນາແລກປ່ຽນ"
+
+#: use_db_locale_no_translation
+msgid "Use database locale / no translation"
+msgstr "Use database locale / no translation"
+
+#: style
+msgid "Style"
+msgstr "ແບບ"
+
+#: user_general_settings
+msgid "User General Settings"
+msgstr "User General Settings"
+
+#: user_message_settings
+msgid "User Message Settings"
+msgstr "ຕັ້ງຄ່າຂໍ້ຄວາມ"
+
+#: enable_message_email_notifications
+msgid "Enable message email notifications"
+msgstr "Enable message email notifications"
+
+#: enable_message_sms_notifications
+msgid "Enable message SMS notifications"
+msgstr "Enable message SMS notifications"
+
+#: intro_user_general_settings
+msgid ""
+"Customize the system with user specific settings for locale, style and more."
+msgstr ""
+"Customize the system with user specific settings for locale, style and more."
+
+#: intro_user_message_settings
+msgid ""
+"Customize the system with user specific settings for message email and sms "
+"notification."
+msgstr ""
+"Customize the system with user specific settings for message email and sms "
+"notification."
+
+#: light_blue
+msgid "Light Blue"
+msgstr "Light Blue"
+
+#: green
+msgid "Green"
+msgstr "ຂຽວ"
+
+#: myanmar
+msgctxt "myanmar"
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: india
+msgctxt "india"
+msgid "India"
+msgstr "India"
+
+#: vietnam
+msgctxt "vietnam"
+msgid "Vietnam"
+msgstr "Vietnam"
+
+#: settings_updated
+msgid "Settings were updated"
+msgstr "ການຕັ້ງຄ່າສຳເລັດແລ້ວ"
+
+#: dashboard
+msgctxt "dashboard"
+msgid "Dashboard"
+msgstr "ຕາໜ່າງສັງລວມຂໍ້ມູນຂ່າວສານ"
+
+#: messages
+msgid "Messages"
+msgstr "ຂໍ້ຄວາມ"
+
+#: interpretations
+msgid "Interpretations"
+msgstr "ການແປ"
+
+#: interface_style
+msgid "Interface style"
+msgstr "ຮູບແບບຂອງການສົນທະນາແລກປ່ຽນ"
+
+#: server_memory
+msgid "Server memory"
+msgstr "ຖານຄວາມຈໍາ"
+
+#: cpu_cores
+msgid "CPU cores"
+msgstr "CPU cores"
+
+#: please_select
+msgid "Please select"
+msgstr "ກະລຸນາເລືອກ"
+
+#: browse_it_here
+msgid "Browse it here"
+msgstr "Browse it here"
+
+#. #-- Change Log------------------------------------------------------------------#
+#: change_log
+msgid "Change Log"
+msgstr "Change Log"
+
+#: release
+msgid "Release"
+msgstr "Release"
+
+#: release_page
+msgctxt "release_page"
+msgid "online release page"
+msgstr "online release page"
+
+#. #-- Macros ---------------------------------------------------------------------#
+#: yes
+msgctxt "yes"
+msgid "Yes"
+msgstr "Yes"
+
+#: no
+msgctxt "no"
+msgid "No"
+msgstr "No"
+
+#: true
+msgctxt "true"
+msgid "Yes"
+msgstr "Yes"
+
+#: false
+msgctxt "false"
+msgid "No"
+msgstr "ບໍ່"
+
+#: sum
+msgid "Sum"
+msgstr "ຜົນບວກ"
+
+#: count
+msgid "Count"
+msgstr "ນັບ"
+
+#: average
+msgid "Average"
+msgstr "ສະເລ່ຍ"
+
+#: stddev
+msgid "Standard deviation"
+msgstr "Standard deviation"
+
+#: variance
+msgid "Variance"
+msgstr "Variance"
+
+#: min
+msgid "Min"
+msgstr ""
+
+#: max
+msgid "Max"
+msgstr ""
+
+#: text
+msgid "Text"
+msgstr "ຂໍ້ຄວາມ"
+
+#: long_text
+msgid "Long text"
+msgstr ""
+
+#: string
+msgid "String"
+msgstr "ສະຕິງ"
+
+#: int
+msgctxt "int"
+msgid "Number"
+msgstr "ຈຳນວນ"
+
+#: number
+msgctxt "number"
+msgid "Number"
+msgstr "ຈຳນວນ"
+
+#: positive_integer
+msgid "Positive Integer"
+msgstr ""
+
+#: zero_positive_int
+msgid "Positive or Zero Integer"
+msgstr ""
+
+#: negative_integer
+msgid "Negative Integer"
+msgstr ""
+
+#: unit_interval
+msgid "Unit interval"
+msgstr ""
+
+#: percentage
+msgid "Percentage"
+msgstr ""
+
+#: date
+msgid "Date"
+msgstr "ວັນທີ່"
+
+#: date_time
+msgid "Date & Time"
+msgstr ""
+
+#: yes_no
+msgctxt "yes_no"
+msgid "Yes/No"
+msgstr "Yes/No"
+
+#: bool
+msgctxt "bool"
+msgid "Yes/No"
+msgstr "Yes/No"
+
+#: none
+msgctxt "none"
+msgid "None"
+msgstr "ບໍ່ມີ"
+
+#: yes_only
+msgid "Yes Only"
+msgstr "Yes Only"
+
+#: custom
+msgid "Custom"
+msgstr ""
+
+#. #-- Validation messages -------------------------------------------------------#
+#: value_must_integer
+msgid "Value must be an integer"
+msgstr ""
+
+#: value_must_number
+msgid "Value must be a number"
+msgstr ""
+
+#: value_must_positive_integer
+msgid "Value must be a positive integer"
+msgstr ""
+
+#: value_must_negative_integer
+msgid "Value must be a negative integer"
+msgstr ""
+
+#: value_must_zero_or_positive_integer
+msgid "Value must be zero or a positive integer"
+msgstr ""
+
+#: value_must_unit_interval
+msgid "Value must be a unit interval (between 0 and 1)"
+msgstr ""
+
+#: value_must_percentage
+msgid "Value must be a percentage (between 0 and 100)"
+msgstr ""
+
+#. #-- User account --------------------------------------------------------------#
+#: profile
+msgid "Profile"
+msgstr "Profile"
+
+#: account
+msgid "Account"
+msgstr "ບັນຊີ"
+
+#: update_user
+msgid "Update user"
+msgstr "Update user"
+
+#: user_account
+msgid "User account"
+msgstr "User Account"
+
+#: user_name
+msgctxt "user_name"
+"user_name"
+msgid "Username"
+msgstr "User name"
+
+#: old_password
+msgid "Old password"
+msgstr "Old password"
+
+#: new_password
+msgctxt "new_password"
+msgid "New password"
+msgstr ""
+
+#: retype_new_password
+msgid "Retype new password"
+msgstr "ພິມຄືນລະຫັດຜ່ານ"
+
+#: surname
+msgid "Surname"
+msgstr "ນາມສະກຸນ"
+
+#: first_name
+msgid "First name"
+msgstr "ຊື່ແທ້"
+
+#: email
+msgid "E-mail"
+msgstr "ອີເມລ"
+
+#: openid
+msgid "OpenID"
+msgstr "OpenID"
+
+#: username
+msgctxt "username"
+msgid "Username"
+msgstr "ຊື່ຜູ້ໃຊ້ງານ"
+
+#: phone_number
+msgid "Mobile phone number"
+msgstr "ເບີໂທໂມບາຍ"
+
+#: user_roles
+msgid "User roles"
+msgstr "ສິດທີ່ຜູ້ໃຊ້"
+
+#: update_user_success
+msgid "Account was updated"
+msgstr "ບັນຊີຜູ້ໃຊ້ບໍ່ໄດ້ປັບປຸງເທື່ອ"
+
+#: wrong_password
+msgid "Wrong password"
+msgstr "ລະຫັດຜິດ!"
+
+#: help_center
+msgid "Help Center"
+msgstr "ການຊ່ວຍເຫຼືອ"
+
+#: help_intro_header
+msgid "Welcome to the DHIS 2 Help Center"
+msgstr "Welcome to the DHIS 2 Help Center"
+
+#: help_intro_text
+msgid "Please select an item from the menu to the left."
+msgstr "Please select an item from the menu to the left."
+
+#: please_wait_while_the_system_is_processing
+msgid "Please wait while the system is processing"
+msgstr "ກະລຸນາລໍຖ້າ ລະບົບກຳລັງທຳງານ"
+
+#: organisation_unit_required_for_user
+msgid "User must be assigned to at least one organisation unit"
+msgstr "User must be assigned to at least one organisation unit"
+
+#. #-- Contact info ---------------------------------------------------------------#
+#: address
+msgid "Address"
+msgstr "ທີ່ຢູ່"
+
+#: contact_details
+msgid "Contact information"
+msgstr "Contact information"
+
+#: contact_person
+msgid "Contact person"
+msgstr "Contact person"
+
+#. #-- Form validation messages --------------------------------------------------#
+#: this_field_is_required
+msgid "This field is required."
+msgstr "ຢູ່ບ່ອນນີ້ຕ້ອງໄດ້ຕື່ມຂໍ້ມູນໃສ່"
+
+#: please_fix_this_field
+msgid "Please fix this field."
+msgstr "ກະລຸນາແປງບ່ອນນີ້"
+
+#: please_enter_a_valid_email_address
+msgid "Please enter a valid email address."
+msgstr "ກະລຸນາ ຕື່ມ ແລະ ຢັ້ງຢືນທີ່ຢູ່ ອີແມວ ຂອງທ່ານ"
+
+#: please_enter_a_valid_url
+msgid "Please enter a valid URL."
+msgstr "ກະລຸນາຕື່ມໃສ່ ແລະ ຢັ້ນຢືນ URL"
+
+#: please_enter_a_valid_date
+msgid "Please enter a valid date."
+msgstr "ກະລຸນາຕື່ມໃສ່ ແລະ ຢັ້ງຢືນວັນທີ"
+
+#: please_enter_a_valid_date_iso
+msgid "Please enter a valid date (e.g. 1990-01-01)."
+msgstr "Please enter a valid date (e.g. 1990-01-01)."
+
+#: please_enter_a_valid_number
+msgctxt "please_enter_a_valid_number"
+msgid "Please enter a valid number."
+msgstr "Please enter a valid number."
+
+#: please_enter_a_valid_digits
+msgid "Please enter only digits."
+msgstr "Please enter only digits."
+
+#: please_enter_the_equal_values_again
+msgid "The entered values do not match. Please re-enter the values."
+msgstr "The entered values do not match. Please re-enter the values."
+
+#: please_enter_a_value_with_a_valid_expression
+msgid "Please enter a value with a valid extension."
+msgstr "Please enter a value with a valid extension."
+
+#: first_character_must_be_alphabetical
+msgid "The first character must be a letter."
+msgstr "The first character must be a letter."
+
+#: please_enter_no_more_than_n_character
+msgid "Please enter no more than {0} characters."
+msgstr "Please enter no more than {0} characters."
+
+#: please_enter_at_least_than_n_character
+msgctxt "please_enter_at_least_than_n_character"
+msgid "Please enter at least {0} characters."
+msgstr "Please enter at least {0} characters."
+
+#: please_enter_a_value_between_n_character
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr "Please enter a value between {0} and {1} characters long."
+
+#: please_enter_a_value_between_a_and_b
+msgid "Please enter a value between {0} and {1}."
+msgstr "Please enter a value between {0} and {1}."
+
+#: please_enter_a_value_less_than_or_equal_to_n
+msgid "Please enter a value less than or equal to {0}."
+msgstr "Please enter a value less than or equal to {0}."
+
+#: please_enter_a_value_greater_than_or_equal_to_n
+msgid "Please enter a value greater than or equal to {0}."
+msgstr "Please enter a value greater than or equal to {0}."
+
+#: please_enter_a_different_value_to_above
+msgid "Please enter a different value to above."
+msgstr "Please enter a different value to above."
+
+#: digits_decimal_only_please
+msgid ""
+"Please enter digits only. Three digits before decimal point and two after "
+"the decimal point are allowed."
+msgstr ""
+"Please enter digits only. Three digits before decimal point and two after "
+"the decimal point are allowed."
+
+#: please_letters_numbers_spaces_underscores_only
+msgid "Only letters, numbers, spaces and underscores are allowed."
+msgstr "Only letters, numbers, spaces and underscores are allowed."
+
+#: please_letters_numbers_spaces_or_some_special_chars_only
+msgid ""
+"Only letters, numbers, spaces and the characters \n"
+" .,-,(,) are allowed."
+msgstr "Only letters, numbers, spaces and the characters "
+
+#: please_enter_a_value_less_than_or_equal_to
+msgid "Please enter a value less than or equal to {1}"
+msgstr "Please enter a value less than or equal to {1}"
+
+#: please_enter_a_value_greater_than_or_equal_to
+msgid "Please enter a value greater than or equal to {1}"
+msgstr "Please enter a value greater than or equal to {1}"
+
+#: please_do_not_enter_same_values
+msgid "Please do not enter same values."
+msgstr "Please do not enter same values."
+
+#: letters_or_punctuation_only_please
+msgid "Letters or punctuation only please."
+msgstr "Letters or punctuation only please."
+
+#: please_enter_n_words_or_less
+msgid "Please enter {0} words or less."
+msgstr "Please enter {0} words or less."
+
+#: please_enter_at_least_n_words
+msgid "Please enter at least {0} words."
+msgstr "Please enter at least {0} words."
+
+#: please_enter_betwwen_a_and_b_words
+msgid "Please enter between {0} and {1} words."
+msgstr "Please enter between {0} and {1} words."
+
+#: letters_only_please
+msgid "Letters only please."
+msgstr "Letters only please."
+
+#: no_white_space_please
+msgid "No white space please"
+msgstr "ບໍ່ມີຍະຫວ່າງ"
+
+#: no_start_white_space_please
+msgid "This field cannot start with a space."
+msgstr "ຈຸດນີ້ບໍ່ມີຍະຫວ່າງ"
+
+#: ZIP_code_must_be_in_the_range
+msgid "Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx"
+msgstr "Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx"
+
+#: please_enter_valid_time
+msgid "Please enter a valid time, between 00:00 and 23:59."
+msgstr "Please enter a valid time, between 00:00 and 23:59."
+
+#: please_enter_valid_phone_number
+msgid "Please specify a valid phone number."
+msgstr "Please specify a valid phone number."
+
+#: please_enter_at_least_n_character
+msgctxt "please_enter_at_least_n_character"
+msgid "Please enter at least {0} characters."
+msgstr "Please enter at least {0} characters."
+
+#: this_date_can_not_be_after_today
+msgid "This date can not be after today."
+msgstr "This date can not be after today."
+
+#: please_fill_out_at_least_one_of_these_fields
+msgid "Please fill out at least one of these fields."
+msgstr "Please fill out at least one of these fields."
+
+#: please_select_at_least_one_option_for_these_fields
+msgid "Please select at least one option for these fields."
+msgstr "Please select at least one option for these fields."
+
+#: password_must_contain_at_least_one_capital_letter_and_one_digit
+msgid "Password must contain at least one capital letter and one digit."
+msgstr "ສະຫັດທ່ານຄວນມີຢ່າງນ້ອຍໜື່ງຕົວອັກໃຫຍ່ ແລະ ໜື່ງຕົວເລກ"
+
+#: only_digits_are_not_allowed
+msgid "Only digits are not allowed"
+msgstr "Only digits are not allowed"
+
+#: closedDate_should_be_greater_than_openDate
+msgid "The ClosedDate field should be greater than the OpenDate field."
+msgstr "The ClosedDate field should be greater than the OpenDate field."
+
+#: please_unicode_chars_only
+msgid "Valid unicode charaters only are allowed."
+msgstr "Valid unicode charaters only are allowed."
+
+#: unrecognized_coordinate_string
+msgid "Unrecognized coordinate string"
+msgstr "Unrecognized coordinate string"
+
+#: please_enter_a_letters_or_digits
+msgid "Please enter letters or digits."
+msgstr "Please enter letters or digits."
+
+#: please_enter_valid_number
+msgctxt "please_enter_valid_number"
+msgid "Please enter a valid number."
+msgstr "Please enter a valid number."
+
+#: please_enter_valid_integer
+msgid "Please enter a valid integer."
+msgstr "ກະລຸນາປ້ອນຕົວເລກທີ່ຖືກຕ້ອງ"
+
+#: please_enter_valid_positive_integer
+msgid "Please enter a valid positive integer."
+msgstr "Please enter a valid positive integer."
+
+#: please_enter_valid_negative_integer
+msgid "Please enter a valid negative integer."
+msgstr "ກະລຸນາປ້ອນຕົວເລກທີ່ເປັນຈຳນວນລົບໃຫ້ຖືກຕ້ອງ"
+
+#: please_enter_name
+msgid "Please enter name!"
+msgstr "Please enter name!"
+
+#: please_select_period
+msgid "Please select period!"
+msgstr "Please select period!"
+
+#: please_select_dataset
+msgid "Please select dataset!"
+msgstr "ກະລຸນາເລືອກແບບຟອມ"
+
+#: please_select_dataelement
+msgid "Please select data element!"
+msgstr "ກະລຸນາເລືອກອົງປະກອບຂໍ້ມູນ (data element)"
+
+#: please_select_indicator
+msgid "Please select indicator!"
+msgstr "Please select indicator!"
+
+#: please_enter_description
+msgid "Please enter description!"
+msgstr "ກະລຸນາປ້ອນລາຍລະອຽດ!"
+
+#: delete_confirm
+msgid "Do you want to delete?"
+msgstr "ທ່ານແນ່ໃຈທີ່ຈະລົບບໍ?"
+
+#: available
+msgid "Available"
+msgstr "Available"
+
+#: selected
+msgid "Selected"
+msgstr "ເລືອກ"
+
+#: error
+msgid "Error"
+msgstr "ເກີດການຜິດພາດ"
+
+#: warning
+msgid "Warning"
+msgstr "Warning"
+
+#: success
+msgid "Success"
+msgstr "Success"
+
+#: waiting
+msgid "Please wait"
+msgstr "ກະລຸນາລໍຖ້າ"
+
+#: expression_not_well_formed
+msgid "Expression is not well formed"
+msgstr "Expression is not well-formed"
+
+#: invalid_identifiers_in_expression
+msgid "Invalid identifiers in expression"
+msgstr ""
+
+#: filter_not_evaluating_to_true_or_false
+msgid "Filter is not evaluating to true or false"
+msgstr ""
+
+#: locate_by_code
+msgid "Locate by code"
+msgstr "Locate by code"
+
+#: select_at_level
+msgid "Select at level"
+msgstr "Select at level"
+
+#: unselect_at_level
+msgid "Un-select at level"
+msgstr "Un-select at level"
+
+#: unselect_all
+msgid "Un-select all"
+msgstr "Un-select all"
+
+#: select_all
+msgid "Select all"
+msgstr "Select all"
+
+#: select_in_group
+msgid "Select in group"
+msgstr "Select in group"
+
+#: unselect_in_group
+msgid "Un-select in group"
+msgstr "Un-select in group"
+
+#: select_children
+msgid "Select children"
+msgstr "Select children"
+
+#: unselect_children
+msgid "Un-select children"
+msgstr "Un-select children"
+
+#: organisation_unit_selection_tree
+msgid "Organisation Unit Selection"
+msgstr "Organisation Unit Selection"
+
+#: move_selected
+msgid "Move selected"
+msgstr "Move selected"
+
+#: remove_selected
+msgid "Remove selected"
+msgstr "Remove selected"
+
+#: move_all
+msgid "Move all"
+msgstr "Move all"
+
+#: remove_all
+msgid "Remove all"
+msgstr "Remove all"
+
+#: move_up
+msgid "Move up"
+msgstr "Move up"
+
+#: move_down
+msgid "Move down"
+msgstr "ຍ້າຍລົງ"
+
+#: move_to_top
+msgid "Move to top"
+msgstr "Move to top"
+
+#: move_to_bottom
+msgid "Move to bottom"
+msgstr "Move to bottom"
+
+#. #-- Paging messages -----------------------------------------------------------#
+#: no_of_pages
+msgid "No. of pages"
+msgstr "No. of pages"
+
+#: rows_in_page
+msgid "No. of rows per page"
+msgstr "No. of rows per page"
+
+#: jump_to_page
+msgid "Jump to page"
+msgstr "Jump to page"
+
+#: go
+msgid "Go"
+msgstr "ຕໍ່ໄປ"
+
+#: filter_by_name
+msgid "Filter by name"
+msgstr "Filter by name"
+
+#: filter
+msgid "Filter"
+msgstr "Filter"
+
+#: clear
+msgid "Clear"
+msgstr "Clear"
+
+#: find
+msgid "Find"
+msgstr "ຊອກ"
+
+#: delete_success
+msgid "Object deleted"
+msgstr "ຖືກລົບແລ້ວ"
+
+#: process
+msgid "Processing..."
+msgstr "Processing..."
+
+#. #-- Export PDF messages -------------------------------------------------------#
+#: get_pdf
+msgid "Get PDF"
+msgstr "Get PDF"
+
+#: no_item_to_export
+msgid "There is no item to export"
+msgstr "There is no item to export"
+
+#: name
+msgctxt "name"
+msgid "Name"
+msgstr "ຊື່"
+
+#: short_name
+msgctxt "short_name"
+msgid "Short name"
+msgstr "Short name"
+
+#: alternative_name
+msgid "Alternative name"
+msgstr "Alternative name"
+
+#: code
+msgid "Code"
+msgstr "ລະຫັດ"
+
+#: description
+msgctxt "description"
+msgid "Description"
+msgstr "ລາຍລະອຽດ"
+
+#: opening_date
+msgid "Opening date"
+msgstr "ເປີດວັນທີ່"
+
+#: closed_date
+msgid "Closed date"
+msgstr "Closed date"
+
+#: active
+msgid "Active"
+msgstr "Active"
+
+#: type
+msgid "Type"
+msgstr "ປະເພດ"
+
+#: value_type
+msgid "Value Type"
+msgstr "Value Type"
+
+#: actual
+msgid "Actual"
+msgstr "Actual"
+
+#: target
+msgid "Target"
+msgstr "ເປົ້າໝາຍ"
+
+#: percent
+msgid "Percent"
+msgstr "Percent"
+
+#: on_time
+msgid "On time"
+msgstr "ຕາມກຳນົດ"
+
+#: data_dictionary
+msgid "Data Dictionary"
+msgstr "Data Dictionary"
+
+#: data_elements
+msgid "Data elements"
+msgstr "Data elements"
+
+#: data_sets
+msgid "Data sets"
+msgstr "ແບບຟອມ"
+
+#: indicators
+msgid "Indicators"
+msgstr "Indicators"
+
+#: indicator_groups
+msgid "Indicator groups"
+msgstr "ກຸ່ມຕົວຊີ້ວັດ"
+
+#: data_element_groups
+msgid "Data element groups"
+msgstr "Data element groups"
+
+#: data_element_concepts
+msgid "Data element concepts"
+msgstr "Data element concepts"
+
+#: organisation_units
+msgid "Organisation units"
+msgstr ""
+
+#: organisation_unit_groups
+msgid "Organisation unit groups"
+msgstr "Organisation unit groups"
+
+#: organisation_unit_hierarchy
+msgid "Organisation unit hierarchy"
+msgstr "Organisation unit hierarchy"
+
+#: validation_rules
+msgid "Validation rules"
+msgstr "ການກວດສອບ ຄວາມຖືກຕ້ອງ"
+
+#: period_type
+msgid "Period Type"
+msgstr "Period Type"
+
+#: users
+msgctxt "users"
+msgid "Users"
+msgstr "Users"
+
+#: user_groups
+msgid "User groups"
+msgstr "ກຸ່ມຜູ້ໃຊ້"
+
+#: pivot_tables
+msgid "Pivot tables"
+msgstr ""
+
+#: charts
+msgid "Charts"
+msgstr ""
+
+#: maps
+msgid "Maps"
+msgstr ""
+
+#: dashboards
+msgid "Dashboards"
+msgstr ""
+
+#: programs
+msgid "Programs"
+msgstr ""
+
+#: events
+msgid "Events"
+msgstr ""
+
+#. #-- Indicator -----------------------------------------------------------------#
+#: expression
+msgid "Expression"
+msgstr "Expression"
+
+#: left_expression
+msgid "Left Expression"
+msgstr "Left Expression"
+
+#: right_expression
+msgid "Right Expression"
+msgstr "Right Expression"
+
+#: indicator_type
+msgid "Indicator Type"
+msgstr "Indicator Type"
+
+#: annualized
+msgid "Annualized"
+msgstr "Annualized"
+
+#: aggregation_operator
+msgid "Aggregation operator"
+msgstr "Aggregation operator"
+
+#: numerator
+msgid "Numerator"
+msgstr "Numerator"
+
+#: numerator_formula
+msgid "Numerator formula"
+msgstr "Numerator formula"
+
+#: numerator_description
+msgctxt "numerator_description"
+msgid "Numerator description"
+msgstr "Numerator description"
+
+#: numerator_aggregation_operator
+msgid "Numerator aggregation operator"
+msgstr "Numerator aggregation operator"
+
+#: denominator
+msgid "Denominator"
+msgstr "Denominator"
+
+#: denominator_formula
+msgid "Denominator formula"
+msgstr "Denominator formula"
+
+#: denominator_description
+msgctxt "denominator_description"
+msgid "Denominator description"
+msgstr "Denominator description"
+
+#: denominator_aggregation_operator
+msgid "Denominator aggregation operator"
+msgstr "Denominator aggregation operator"
+
+#: expression_is_empty
+msgid "Expression is empty"
+msgstr "Expression is empty"
+
+#: category_option_combo_does_not_exist
+msgid "Category option combo does not exist"
+msgstr "Category option combo does not exist"
+
+#: data_element_does_not_exist
+msgid "Data element does not exist"
+msgstr "Data element does not exist"
+
+#: constant_does_not_exist
+msgid "Constant does not exist"
+msgstr ""
+
+#: org_unit_group_does_not_exist
+msgid "Organisation unit group does not exist"
+msgstr ""
+
+#: id_not_numeric
+msgid "Identifier is not numeric"
+msgstr "Identifier is not numeric"
+
+#: expression_not_well_formed
+msgid "Expression is not well-formed"
+msgstr "Expression is not well-formed"
+
+#: valid
+msgid "Valid"
+msgstr ""
+
+#. #-- Validation Rule -----------------------------------------------------------#
+#: absolute
+msgid "Absolute"
+msgstr "Absolute"
+
+#: statistical
+msgid "Statistical"
+msgstr "Statistical"
+
+#: left_side_description
+msgid "Left side description"
+msgstr "Left side description"
+
+#: right_side_description
+msgid "Right side description"
+msgstr "Right side description"
+
+#: left_side_of_expression
+msgid "Left side of Expression"
+msgstr "Left side of Expression"
+
+#: right_side_of_expression
+msgid "Right side of Expression"
+msgstr "Right side of Expression"
+
+#: operator
+msgid "Operator"
+msgstr "Operator"
+
+#: equal_to_symbol
+msgctxt "equal_to_symbol"
+msgid "=="
+msgstr "=="
+
+#: not_equal_to_symbol
+msgctxt "not_equal_to_symbol"
+msgid "!="
+msgstr "!="
+
+#: greater_than_symbol
+msgctxt "greater_than_symbol"
+msgid ">"
+msgstr ">"
+
+#: greater_than_or_equal_to_symbol
+msgctxt "greater_than_or_equal_to_symbol"
+msgid ">="
+msgstr ">="
+
+#: less_than_symbol
+msgctxt "less_than_symbol"
+msgid "<"
+msgstr "<"
+
+#: less_than_or_equal_to_symbol
+msgctxt "less_than_or_equal_to_symbol"
+msgid "<="
+msgstr "<="
+
+#: equal_to
+msgctxt "equal_to"
+msgid "=="
+msgstr "=="
+
+#: not_equal_to
+msgctxt "not_equal_to"
+msgid "!="
+msgstr "!="
+
+#: greater_than
+msgctxt "greater_than"
+msgid ">"
+msgstr ">"
+
+#: greater_than_or_equal_to
+msgctxt "greater_than_or_equal_to"
+msgid ">="
+msgstr ">="
+
+#: less_than
+msgctxt "less_than"
+msgid "<"
+msgstr "<"
+
+#: less_than_or_equal_to
+msgctxt "less_than_or_equal_to"
+msgid "<="
+msgstr "<="
+
+#: and_title
+msgid "And"
+msgstr ""
+
+#: or_title
+msgid "Or"
+msgstr ""
+
+#: equal_to_title
+msgid "Equal to"
+msgstr ""
+
+#: not_equal_to_title
+msgid "Not equal to"
+msgstr ""
+
+#: less_than_title
+msgid "Less than"
+msgstr ""
+
+#: less_than_or_equal_to_title
+msgid "Less than or equal to"
+msgstr ""
+
+#: greater_than_title
+msgid "Greater than"
+msgstr ""
+
+#: greater_than_or_equal_to_title
+msgid "Greater than or equal to"
+msgstr ""
+
+#. #-- Constant ------------------------------------------------------------------#
+#: constant
+msgid "Constant"
+msgstr "Constant"
+
+#: constants
+msgid "Constants"
+msgstr "ຄົງຄ່າ"
+
+#: no_constant_to_select
+msgid "No constants to select"
+msgstr "No constants to select"
+
+#. #-- Dynamic Attributes --------------------------------------------------------#
+#: multiple_choice
+msgid "Multiple Choice"
+msgstr "Multiple Choice"
+
+#. #-- Sharing  ------------------------------------------------------------------#
+#: public_access
+msgid "Public access (with login)"
+msgstr "Public access (with login)"
+
+#: external_access
+msgid "External access (without login)"
+msgstr "External access (without login)"
+
+#: user_group_access
+msgid "User group access"
+msgstr "User group access"
+
+#: ajax_login_failed
+msgctxt "ajax_login_failed"
+msgid "Login failed, check your username and password and try again"
+msgstr ""
+"​ເຂົ້າ​ບໍ່​ໄດ້, ກວດ​ກາ​ເບີ່ງ​ຄືນ​ ຊື່ຜູ້​ໄຊ້ ແລະ ລະ​ຫັດ​ຜ່ານ​ຂອງ​ທ່ານ "
+"ຫລັງ​ຈາກນັ້ນ​ລອງ​ເຂົ້າ​ໃໝ່​ອີກ​ຄັ້ງ"
+
+#: group_name
+msgid "Group name"
+msgstr "Group name"
+
+#: sharing_settings
+msgid "Sharing settings"
+msgstr "Sharing settings"
+
+#: no_access
+msgctxt "no_access"
+msgid "None"
+msgstr "None"
+
+#: read_only
+msgid "Read only"
+msgstr "Read only"
+
+#: read_write
+msgid "Read and write"
+msgstr "Read and write"
+
+#: can_edit_and_view
+msgid "Can edit and view"
+msgstr "Can edit and view"
+
+#: can_view
+msgid "Can view"
+msgstr "Can view"
+
+#: search_for_user_groups
+msgid "Search for user groups"
+msgstr "ຊອກຫາກຸ່ມຜູ້ນຳໃຊ້"
+
+#: object_will_created_public
+msgid "This object will be created with public edit and view rights"
+msgstr "This object will be created with public edit and view rights"
+
+#: object_will_created_private
+msgid "This object will be private to yourself"
+msgstr "This object will be private to yourself"
+
+#: created_by
+msgid "Created by"
+msgstr ""
+
+#. #-- Countries / flags ---------------------------------------------------------#
+#: afghanistan
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+#: africare
+msgid "Africare"
+msgstr ""
+
+#: akros
+msgid "Akros"
+msgstr "Akros"
+
+#: algeria
+msgid "Algeria"
+msgstr "Algeria"
+
+#: armenia
+msgid "Armenia"
+msgstr "Armenia"
+
+#: bangladesh
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+#: benin
+msgid "Benin"
+msgstr "Benin"
+
+#: bhutan
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: botswana
+msgid "Botswana"
+msgstr "Botswana"
+
+#: burkina_faso
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: burkina_faso_coat_of_arms
+msgid "Burkina Faso Coat of Arms"
+msgstr "Burkina Faso Coat of Arms"
+
+#: burundi
+msgid "Burundi"
+msgstr "Burundi"
+
+#: cambodia
+msgid "Cambodia"
+msgstr "Cambodia"
+
+#: cameroon
+msgid "Cameroon"
+msgstr "Cameroon"
+
+#: china
+msgid "China"
+msgstr "China"
+
+#: colombia
+msgid "Colombia"
+msgstr "Colombia"
+
+#: demoland
+msgid "Demoland"
+msgstr ""
+
+#: congo_brazzaville
+msgid "Republic of the Congo"
+msgstr "Republic of the Congo"
+
+#: congo_kinshasa
+msgid "Democratic Republic of the Congo"
+msgstr "Democratic Republic of the Congo"
+
+#: east_africa_community
+msgid "East Africa Community"
+msgstr "East Africa Community"
+
+#: ecowas
+msgid "ECOWAS"
+msgstr "ECOWAS"
+
+#: ecuador
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: egypt
+msgid "Egypt"
+msgstr ""
+
+#: engender_health
+msgid "Engender Health"
+msgstr ""
+
+#: ethiopia
+msgid "Ethiopia"
+msgstr "Ethiopia"
+
+#: fhi360
+msgid "FHI360"
+msgstr "FHI360"
+
+#: forut
+msgid "FORUT"
+msgstr "FORUT"
+
+#: gambia
+msgid "Gambia"
+msgstr "Gambia"
+
+#: ghana
+msgid "Ghana"
+msgstr "Ghana"
+
+#: global_fund
+msgid "Global Fund"
+msgstr "Global Fund"
+
+#: guinea
+msgid "Guinea"
+msgstr "Guinea"
+
+#: guinea_bissau
+msgid "Guinea Bissau"
+msgstr "Guinea Bissau"
+
+#: haiti
+msgid "Haiti"
+msgstr "Haiti"
+
+#: icap
+msgid "ICAP"
+msgstr ""
+
+#: ippf
+msgid "IPPF"
+msgstr ""
+
+#: india
+msgctxt "india"
+msgid "India"
+msgstr "India"
+
+#: indonesia
+msgid "Indonesia"
+msgstr "Indonesia"
+
+#: iraq
+msgid "Iraq"
+msgstr ""
+
+#: irc
+msgid "International Rescue Committee"
+msgstr "International Rescue Committee"
+
+#: ivory_coast
+msgid "Ivory Coast"
+msgstr "Ivory Coast"
+
+#: jhpiego
+msgid "JHPIEGO"
+msgstr ""
+
+#: kenya
+msgid "Kenya"
+msgstr "Kenya"
+
+#: laos
+msgid "Lao People's Democratic Republic"
+msgstr "Lao People's Democratic Republic"
+
+#: lesotho
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: liberia
+msgid "Liberia"
+msgstr "Liberia"
+
+#: malawi
+msgid "Malawi"
+msgstr "Malawi"
+
+#: mali
+msgid "Mali"
+msgstr "Mali"
+
+#: mongolia
+msgid "Mongolia"
+msgstr ""
+
+#: mozambique
+msgid "Mozambique"
+msgstr "Mozambique"
+
+#: myanmar
+msgctxt "myanmar"
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: msf
+msgid "MSF"
+msgstr "MSF"
+
+#: msi
+msgid "MSI"
+msgstr ""
+
+#: namibia
+msgid "Namibia"
+msgstr "Namibia"
+
+#: nepal
+msgid "Nepal"
+msgstr "Nepal"
+
+#: nicaragua
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: niger
+msgid "Niger"
+msgstr "Niger"
+
+#: nigeria
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: norway
+msgid "Norway"
+msgstr "Norway"
+
+#: pakistan
+msgid "Pakistan"
+msgstr ""
+
+#: palestine
+msgid "Palestine"
+msgstr ""
+
+#: paraguay
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: pepfar
+msgid "PEPFAR"
+msgstr "PEPFAR"
+
+#: peru
+msgid "Peru"
+msgstr "Peru"
+
+#: philippines
+msgid "Philippines"
+msgstr "Philippines"
+
+#: psi
+msgid "PSI"
+msgstr "PSI"
+
+#: republic_of_trinidad_and_tobago
+msgid "Republic of Trinidad & Tobago"
+msgstr "Republic of Trinidad & Tobago"
+
+#: rwanda
+msgid "Rwanda"
+msgstr "Rwanda"
+
+#: senegal
+msgid "Senegal"
+msgstr "Senegal"
+
+#: sierra_leone
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: sierra_leone_coat_of_arms
+msgid "Sierra Leone Coat of Arms"
+msgstr "Sierra Leone Coat of Arms"
+
+#: solomon_islands
+msgid "Solomon Islands"
+msgstr "Solomon Islands"
+
+#: south_africa
+msgid "South Africa"
+msgstr "South Africa"
+
+#: south_africa_department_of_health
+msgid "South Africa Department of Health"
+msgstr "South Africa Department of Health"
+
+#: south_sudan
+msgid "South Sudan"
+msgstr ""
+
+#: sri_lanka
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: sudan
+msgid "Sudan"
+msgstr ""
+
+#: swaziland
+msgid "Swaziland"
+msgstr "Swaziland"
+
+#: tajikistan
+msgid "Tajikistan"
+msgstr "Tajikistan"
+
+#: tanzania
+msgid "Tanzania"
+msgstr "Tanzania"
+
+#: timor_leste
+msgid "Timor-Leste"
+msgstr "Timor-Leste"
+
+#: togo
+msgid "Togo"
+msgstr "Togo"
+
+#: uganda
+msgid "Uganda"
+msgstr "Uganda"
+
+#: usaid
+msgid "USAID"
+msgstr "USAID"
+
+#: vanuatu
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: vietnam
+msgctxt "vietnam"
+msgid "Vietnam"
+msgstr "Vietnam"
+
+#: who
+msgid "WHO"
+msgstr "WHO"
+
+#: zambia
+msgid "Zambia"
+msgstr "Zambia"
+
+#: zanzibar
+msgid "Zanzibar"
+msgstr "Zanzibar"
+
+#: zimbabwe
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+#. #-- Login page ----------------------------------------------------------------#
+#: create_an_account
+msgid "Create an account"
+msgstr "Create an account"
+
+#: login_password
+msgctxt "login_password"
+msgid "Password"
+msgstr "ລະຫັດ"
+
+#: login_username
+msgctxt "login_username"
+msgid "Username"
+msgstr "ຊື່ຜູ້ໃຊ້"
+
+#: forgot_password
+msgid "Forgot password?"
+msgstr "ລຶມລະຫັດຜ່ານ?"
+
+#: wrong_username_or_password
+msgid "Wrong username or password"
+msgstr "ຊື່ ລະຫັດຜ່ານ ບໍ່ຖືກ"
+
+#: powered_by
+msgid "Powered by"
+msgstr "Powered by"
+
+#: sign_in
+msgid "Sign in"
+msgstr "Sign in"
+
+#. #-- New User Account page -----------------------------------------------------#
+#: new_user_account_name
+msgctxt "new_user_account_name"
+msgid "Name"
+msgstr "ຊື່"
+
+#: new_user_account_first_name
+msgid "First"
+msgstr "ທຳອິດ"
+
+#: new_user_account_last_name
+msgid "Last"
+msgstr "Last"
+
+#. #-- Recovery page -------------------------------------------------------------#
+#: recover_success_message
+msgid ""
+"Please check the email account which you registered for this username. We "
+"have sent you instructions on how to restore your password."
+msgstr ""
+"Please check the email account which you registered for this username. We "
+"have sent you instructions on how to restore your password.\t"
+
+#: recover_error_message
+msgid ""
+"Sorry, we were not able to restore your account. The username might be "
+"invalid, your account might not permit restore or you might have entered an "
+"invalid email address for your account."
+msgstr ""
+"Sorry, we were not able to restore your account. The user name might be "
+"invalid, your account might not permit restore or you might have entered an "
+"invalid email address for your account."
+
+#. #-- App Menu ------------------------------------------------------------------#
+#: applications
+msgctxt "applications"
+msgid "Apps"
+msgstr "Apps"
+
+#: more_applications
+msgid "More apps"
+msgstr "More apps"
+
+#: app_manager
+msgctxt "app_manager"
+msgid "Apps"
+msgstr "Apps"
+
+#: app_favorite_description
+msgid ""
+"This icon indicates an app that will be displayed in your dropdown menu."
+msgstr ""
+"This icon indicates an app that will be displayed in your dropdown menu."
+
+#: app_draggable_description
+msgid ""
+"Items are draggable to change their order, so it's easy to customize your "
+"favorite apps."
+msgstr ""
+"Items are draggable to change their order, so it's easy to customize your "
+"favorite apps."
+
+#: app_order_custom
+msgid "My own order"
+msgstr "My own order"
+
+#: app_order_name_alpha
+msgid "Alphabetical"
+msgstr "Alphabetical"
+
+#: app_search_placeholder
+msgid "Search apps"
+msgstr "Search apps"
+
+#. #-- Data value error codes ----------------------------------------------------#
+#: data_element_or_type_null_or_empty
+msgid "Data element or type is null or empty"
+msgstr "Data element or type is null or empty"
+
+#: value_length_greater_than_max_length
+msgid "Data value is greater than max length"
+msgstr "Data value is greater than max length"
+
+#: value_not_numeric
+msgid "Data value is not numeric"
+msgstr "Data value is not numeric"
+
+#: value_not_unit_interval
+msgid "Data value is not a unit interval"
+msgstr "Data value is not a unit interval"
+
+#: value_not_percentage
+msgid "Data value is not a percentage"
+msgstr ""
+
+#: value_not_integer
+msgid "Data value is not an integer"
+msgstr "Data value is not an integer"
+
+#: value_not_positive_integer
+msgid "Data value is not a positive integer"
+msgstr "Data value is not a positive integer"
+
+#: value_not_negative_integer
+msgid "Data value is not a negative integer"
+msgstr "Data value is not a negative integer"
+
+#: value_is_zero_and_not_zero_significant
+msgid "Data value is zero and not zero significant"
+msgstr "Data value is zero and not zero significant"
+
+#: value_not_bool
+msgid "Data value is not a boolean"
+msgstr "Data value is not a boolean"
+
+#: value_not_true_only
+msgid "Data value is not true"
+msgstr "Data value is not true"
+
+#: value_not_valid_date
+msgid "Data value is not a valid date"
+msgstr "Data value is not a valid date"
+
+#: stored_by_length_greater_than_max_length
+msgid "Stored by is greater than max length"
+msgstr ""
+
+#: comment_length_greater_than_max_length
+msgctxt "comment_length_greater_than_max_length"
+msgid "Comment is greater than max length"
+msgstr ""
+
+#. #-- calendars -----------------------------------------------------------------#
+#: islamic
+msgid "Islamic"
+msgstr "Islamic"
+
+#: nepali
+msgid "Nepali"
+msgstr "Nepali"
+
+#: julian
+msgid "Julian"
+msgstr "Julian"
+
+#: gregorian
+msgid "Gregorian"
+msgstr "Gregorian"
+
+#: ethiopian
+msgid "Ethiopian"
+msgstr "Ethiopian"
+
+#: thai
+msgid "Thai"
+msgstr "Thai"
+
+#: iso8601
+msgid "ISO 8601"
+msgstr "ISO 8601"
+
+#: coptic
+msgid "Coptic"
+msgstr "Coptic"
+
+#. #-- Email message footer ------------------------------------------------------#
+#: respond_to_this_message
+msgid "Respond to this message"
+msgstr ""
+
+#. #-- Restore emails ------------------------------------------------------------#
+#: email_restore_subject
+msgid "User account restore confirmation at"
+msgstr ""
+
+#: email_restore_1_1st_paragraph_before_application_title
+msgctxt "email_restore_1_1st_paragraph_before_application_title"
+msgid "Someone, probably you, has asked us to restore your"
+msgstr ""
+
+#: email_restore_1_1st_paragraph_after_application_title
+msgctxt "email_restore_1_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr ""
+
+#: email_restore_1_2nd_paragraph
+msgctxt "email_restore_1_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the first one. Please follow "
+"the link below. In the next step you will be asked to enter a code which has "
+"been sent to you in the other email."
+msgstr ""
+
+#: email_restore_1_3rd_paragraph
+msgctxt "email_restore_1_3rd_paragraph"
+msgid ""
+"You must complete the restore process within 1 hour. If you take no action, "
+"your account will not be restored. If you did not request this restore, "
+"please disregard this message."
+msgstr ""
+
+#: email_restore_2_1st_paragraph_before_application_title
+msgctxt "email_restore_2_1st_paragraph_before_application_title"
+msgid "Someone, probably you, has asked us to restore your"
+msgstr ""
+
+#: email_restore_2_1st_paragraph_after_application_title
+msgctxt "email_restore_2_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr ""
+
+#: email_restore_2_2nd_paragraph
+msgctxt "email_restore_2_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the second one. Please read the "
+"first email and follow the instructions. Please use the code below to "
+"complete the new account form."
+msgstr ""
+
+#: email_restore_2_3rd_paragraph
+msgctxt "email_restore_2_3rd_paragraph"
+msgid ""
+"You must complete the restore process within 1 hour. If you take no action, "
+"your account will not be restored. If you did not request this restore, "
+"please disregard this message."
+msgstr ""
+
+#. #-- Invite emails -------------------------------------------------------------#
+#: email_invite_subject
+msgid "Invitation to create user account at"
+msgstr ""
+
+#: email_invite_1_1st_paragraph_before_application_title
+msgctxt "email_invite_1_1st_paragraph_before_application_title"
+msgid "This is an invitation to create a"
+msgstr ""
+
+#: email_invite_1_1st_paragraph_after_application_title
+msgctxt "email_invite_1_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr ""
+
+#: email_invite_1_2nd_paragraph
+msgctxt "email_invite_1_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the first one. Please follow "
+"the link below. In the next step you will be asked to enter a code which has "
+"been sent to you in the other email."
+msgstr ""
+
+#: email_invite_1_3rd_paragraph
+msgctxt "email_invite_1_3rd_paragraph"
+msgid ""
+"You must respond to this invitation within 3 months. If you take no action, "
+"the invitation will expire at that time."
+msgstr ""
+
+#: email_invite_2_1st_paragraph_before_application_title
+msgctxt "email_invite_2_1st_paragraph_before_application_title"
+msgid "This is an invitation to create a"
+msgstr ""
+
+#: email_invite_2_1st_paragraph_after_application_title
+msgctxt "email_invite_2_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr ""
+
+#: email_invite_2_2nd_paragraph
+msgctxt "email_invite_2_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the second one. Please read the "
+"first email and follow the instructions. Please use the code below to "
+"complete the new account form."
+msgstr ""
+
+#: email_invite_2_3rd_paragraph
+msgctxt "email_invite_2_3rd_paragraph"
+msgid ""
+"You must respond to this invitation within 3 months. If you take no action, "
+"the invitation will expire at that time."
+msgstr ""
+
+#. #-- Cache strategy display strings --------------------------------------------#
+#: cache_strategy
+msgid "Cache strategy"
+msgstr ""
+
+#: respect_system_setting
+msgid "Respect system setting"
+msgstr ""
+
+#: no_cache
+msgid "No cache"
+msgstr ""
+
+#: cache_until_6am_tomorrow
+msgid "Cache until 6 AM tomorrow"
+msgstr ""
+
+#: cache_for_two_weeks
+msgid "Cache for two weeks"
+msgstr ""
+
+#: cache_for_one_hour
+msgid "Cache for one hour"
+msgstr ""
+
+#. #-- Program indicators --------------------------------------------------------#
+#: execution_date
+msgid "Execution date"
+msgstr ""
+
+#: due_date
+msgid "Due date"
+msgstr ""
+
+#: incident_date
+msgid "Incident date"
+msgstr ""
+
+#: enrollment_date
+msgid "Enrollment date"
+msgstr ""
+
+#: current_date
+msgid "Current date"
+msgstr ""
+
+#: value_count
+msgid "Value count"
+msgstr ""
+
+#: zero_pos_value_count
+msgid "Zero or positive value count"
+msgstr ""
+
+#: event_count
+msgid "Event count"
+msgstr ""
+
+#: enrollment_count
+msgid "Enrollment count"
+msgstr ""
+
+#: tei_count
+msgid "Tracked entity instance count"
+msgstr ""

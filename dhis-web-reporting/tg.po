@@ -1,0 +1,1175 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-reporting/src/main/resources/org/hisp/dhis/reporting/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-reporting/src/main/resources/org/hisp/dhis/reporting/i18n_module_tg.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: please_select_org_unit
+msgctxt "please_select_org_unit"
+msgid "Please select an organisation unit"
+msgstr ""
+
+#: please_select_period
+msgctxt "please_select_period"
+msgid "Please select a period"
+msgstr "Лутфан давраро интихоб кунед!"
+
+#: please_select_group_set
+msgid "Please select a group set"
+msgstr "Лутфан маҷмӯи гурӯҳҳоро интихоб кунед"
+
+#: reporting_unit
+msgid "Reporting unit"
+msgstr "Воҳиди ҳисоботдиҳӣ"
+
+#: reporting_period
+msgctxt "reporting_period"
+msgid "Reporting period"
+msgstr ""
+
+#: report_period
+msgid "Report period"
+msgstr "Давраи ҳисобот"
+
+#: select_data_set
+msgid "Please select a data set"
+msgstr "Интихоби маҷмӯи иттилоот"
+
+#: select_period
+msgctxt "select_period"
+msgid "Please select a period"
+msgstr "Интихоби давра"
+
+#: select_organisation_unit
+msgctxt "select_organisation_unit"
+msgid "Please select an organisation unit"
+msgstr "Лутфан на камтар аз як воҳиди сохториро интихоб кунед"
+
+#: report_organisation_unit
+msgid "Report organisation unit"
+msgstr "Ҳисобот оид ба воҳиди сохторӣ"
+
+#: dataset_report
+msgid "Data Set Report"
+msgstr "Ҳисоботи маҷмӯи иттилоот"
+
+#: data_approval
+msgid "Data Approval"
+msgstr ""
+
+#: add_selected
+msgid "Add selected"
+msgstr "Илова кардани интихобшудаҳо"
+
+#: add_all
+msgid "Add all"
+msgstr "Илова кардани ҳама"
+
+#: add
+msgid "Add"
+msgstr "Илова кардан"
+
+#: create_report_table
+msgid "Create report table"
+msgstr "Сохтани ҷавдали ҳисобот"
+
+#: available_indicators
+msgid "Available indicators"
+msgstr "Индикаторҳои мавҷуда"
+
+#: select_indicatorgroup_all
+msgid "Select indicator group / View all"
+msgstr "Интихоби гурӯҳи индикаторҳо / Намоиши ҳама"
+
+#: select_dataelementgroup_all
+msgctxt "select_dataelementgroup_all"
+msgid "Select data element group / View all"
+msgstr ""
+
+#: selected_indicators
+msgid "Selected indicators"
+msgstr "Индикаторҳои интихобшуда"
+
+#: selected_dataelements
+msgctxt "selected_dataelements"
+msgid "Selected data elements"
+msgstr ""
+
+#: select_organisationunit_level_all
+msgid "Select organsation unit level / View all"
+msgstr "Интихоби сатҳи воҳиди сохторӣ / Намоиши ҳама"
+
+#: select_option_view_all
+msgid "Select option / View all"
+msgstr ""
+
+#: level
+msgid "Level"
+msgstr "Сатҳ"
+
+#: available_organisationunits
+msgid "Available organisation units"
+msgstr "Воҳидҳои сохтории мавҷуда"
+
+#: selected_organisationunits
+msgid "Selected organisation units"
+msgstr "Воҳидҳои сохтории интихобшуда"
+
+#: available_periods
+msgid "Available periods"
+msgstr "Давраҳои мавҷуда"
+
+#: selected_periods
+msgid "Selected periods"
+msgstr "Давраҳои интихобшуда"
+
+#: add_children
+msgid "Add children"
+msgstr "Иловаи воҳидҳои фаръӣ"
+
+#: create
+msgid "Create"
+msgstr "Сохтан"
+
+#: indicators
+msgid "Indicators"
+msgstr "Индикаторҳо"
+
+#: organisation_units
+msgid "Organisation units"
+msgstr "воҳидҳои сохторӣ"
+
+#: periods
+msgid "Periods"
+msgstr "Давраҳо"
+
+#: relative_periods
+msgid "Relative periods"
+msgstr "Давраҳои нисбӣ"
+
+#: reporting_month
+msgid "Reporting month"
+msgstr "Моҳи ҳисоботӣ"
+
+#: months_this_year
+msgctxt "months_this_year"
+msgid "Months this year"
+msgstr ""
+
+#: quarters_this_year
+msgctxt "quarters_this_year"
+msgid "Quarters this year"
+msgstr ""
+
+#: this_year
+msgid "This year"
+msgstr "Имсол"
+
+#: reporting_sixmonth
+msgid "Reporting six-month"
+msgstr "Шашмоҳаи ҳисоботӣ"
+
+#: last_2_sixmonths
+msgid "Last 2 six-months"
+msgstr "2 шашмоҳаи охир"
+
+#: last_week
+msgid "Last week"
+msgstr "Ҳафтаи гузашта"
+
+#: last_4_weeks
+msgid "Last 4 weeks"
+msgstr "4 ҳафтаи охир"
+
+#: last_12_weeks
+msgid "Last 12 weeks"
+msgstr "12 ҳафтаи охир"
+
+#: months_last_year
+msgid "Months last year"
+msgstr "Моҳҳо дар соли гузашта"
+
+#: quarters_last_year
+msgid "Quarters last year"
+msgstr "Семоҳаҳо дар соли гузашта"
+
+#: last_year
+msgid "Last year"
+msgstr "Соли гузашта"
+
+#: report_table
+msgid "Report Table"
+msgstr "Ҷадвалҳои ҳисобот"
+
+#: crosstab_dimensions
+msgid "Crosstab dimensions"
+msgstr "Андозаҳои ҷаддвали чиликӣ"
+
+#: confirm_delete_table
+msgid "Are you sure you want to remove table?"
+msgstr "Оё боварӣ доред, ки ин ҷадвалро нест кардан мехоҳед?"
+
+#: operations
+msgid "Operations"
+msgstr "Амалиётҳо"
+
+#: done
+msgid "Done"
+msgstr "Иҷро шуд"
+
+#: crosstab_indicators
+msgid "Crosstab indicators"
+msgstr "Индикаторҳои ҷадвали чиликӣ"
+
+#: crosstab_periods
+msgid "Crosstab periods"
+msgstr "Давраҳои ҷадвали чиликӣ"
+
+#: crosstab_organisation_units
+msgid "Crosstab organisation units"
+msgstr "Воҳидҳои сохтории ҷадвали чиликӣ"
+
+#: must_select_at_least_one_indictor_data_element_data_set
+msgid "Please select at least one indicator, data element or data set"
+msgstr ""
+"Лутфан ақаллан як индикатор, унсури иттилоот ё маҷмӯи иттилоотро интихоб "
+"кунед"
+
+#: must_select_at_least_one_unit
+msgid "Please select at least one organisation unit"
+msgstr "Лутфан ақаллан як унсури иттилоотро интихоб кунед"
+
+#: must_select_at_least_one_period
+msgid "Please select at least one period"
+msgstr "Лутфан ақаллан як давраро интихоб кунед"
+
+#: cannot_include_more_organisation_unit_regression
+msgid "Cannot include more that one organisation unit with regression"
+msgstr "Зиёда аз як воҳиди сохториро бо бақайдгирӣ шомил карда наметавонад"
+
+#: cannot_select_orgunit_and_parent_orgunit_param
+msgid "Cannot select both current and parent organisation unit parameter"
+msgstr ""
+"Якбора параметри воҳиди сохтории ҷорӣ ва фаръиро интихоб карда наметавонад"
+
+#: must_enter_name
+msgid "Please enter a name"
+msgstr "Лутфан номеро ворид кунед"
+
+#: specify_name
+msgid "Please specify a name"
+msgstr "Лутфан номеро нишон диҳед"
+
+#: name_in_use
+msgid "The name is already in use"
+msgstr "Ном истифода мешавад"
+
+#: design
+msgid "Design"
+msgstr "Тарҳ"
+
+#: home
+msgid "Home"
+msgstr "Саҳифаи асосӣ"
+
+#: directory
+msgid "Directory"
+msgstr "Директория"
+
+#: create_new_report
+msgid "Create new report"
+msgstr "Сохтани ҳисоботи нав"
+
+#: create_report
+msgid "Create report"
+msgstr "Сохтани ҳисобот"
+
+#: standard_report
+msgid "Standard Report"
+msgstr "Ҳисоботи стандартӣ"
+
+#: confirm_remove_report
+msgid "Are you sure you will delete the report?"
+msgstr "Оё боварӣ доред, ки ҳисоботро нест кардан мехоҳед?"
+
+#: report
+msgid "Report"
+msgstr "Ҳисобот"
+
+#: completed
+msgid "completed"
+msgstr "Анҷомёфта"
+
+#: remove_report
+msgid "Remove report"
+msgstr "Тоза кардани ҳисобот"
+
+#: submit
+msgid "Submit"
+msgstr "Пешниҳод кардан"
+
+#: edit_report
+msgid "Edit report"
+msgstr "Таҳрири ҳисобот"
+
+#: processing
+msgid "Processing"
+msgstr "Коркард"
+
+#: indicators_data_elements_data_sets
+msgid "Indicators / data elements / data sets"
+msgstr "Индикаторҳо / Унсурҳои иттилоот / Маҷмӯъҳои иттилоот"
+
+#: dataset
+msgid "Data set"
+msgstr "Маҷмӯи иттилоот"
+
+#: organisation_unit
+msgid "Organisation unit"
+msgstr "Воҳиди сохторӣ"
+
+#: select_dataset_all
+msgid "Select data set / View all"
+msgstr "Интихоби маҷмӯи иттилоот / Дидани ҳама"
+
+#: monthly
+msgid "Monthly"
+msgstr "Моҳона"
+
+#: quarterly
+msgid "Quarterly"
+msgstr "Семоҳа"
+
+#: yearly
+msgid "Yearly"
+msgstr "Солона"
+
+#: omit_report_table_explanation
+msgid ""
+"If selecting no report table, the user is responsible for providing the data "
+"source"
+msgstr ""
+"Ҳангоми интихоб накардани ягон ҷадвали ҳисобот, корбар вазифадор аст, ки "
+"манбаи иттилоотро муҳайё кунад"
+
+#: dataset_completeness
+msgid "Data set Completeness"
+msgstr "Мукаммалии маҷмӯи иттилоот"
+
+#: report_parameters
+msgid "Report parameters"
+msgstr "Параметрҳои ҳисобот"
+
+#: parent_organisation_unit
+msgid "Parent organisation unit"
+msgstr "Воҳиди сохтории болоӣ"
+
+#: available_dataelements
+msgid "Available data elements"
+msgstr "Унсурҳои иттилооти мавҷуда"
+
+#: select_dataelementgroup_all
+msgctxt "select_dataelementgroup_all"
+msgid "Select data element group / View all"
+msgstr ""
+
+#: select_category_combo
+msgctxt "select_category_combo"
+msgid "Select category combination"
+msgstr ""
+
+#: selected_dataelements
+msgctxt "selected_dataelements"
+msgid "Selected data elements"
+msgstr ""
+
+#: dataelements
+msgid "Data elements"
+msgstr "Унсурҳои иттилоот"
+
+#: report_table_parameters
+msgid "Report table parameters"
+msgstr "Параметрҳои ҳисобот"
+
+#: months_this_year
+msgctxt "months_this_year"
+msgid "Months this year"
+msgstr ""
+
+#: quarters_this_year
+msgctxt "quarters_this_year"
+msgid "Quarters this year"
+msgstr ""
+
+#: add_report_table
+msgid "Add Report Table"
+msgstr "Иловаи ҷадвали ҳисобот"
+
+#: add_dataelement_dimension_table
+msgid "Add Dataelement Dimension Table"
+msgstr "Иловаи ҷадвали андозаҳои унсурҳои иттилоот"
+
+#: generate
+msgid "Generate"
+msgstr "Таҳия"
+
+#: process_completed
+msgid "Process completed"
+msgstr "Раванд анҷом ёфт"
+
+#: view
+msgid "View"
+msgstr "Намоиш додан"
+
+#: chart
+msgid "Chart"
+msgstr "Диаграммаҳо"
+
+#: dimension
+msgid "Dimension"
+msgstr "Андоза"
+
+#: pivot_table
+msgid "Pivot Table"
+msgstr "Ҷадвали ҷамъбастӣ"
+
+#: indicator_group
+msgid "Indicator group"
+msgstr "Гурӯҳи индикаторҳо"
+
+#: start_date
+msgctxt "start_date"
+msgid "Start date"
+msgstr ""
+
+#: end_date
+msgctxt "end_date"
+msgid "End date"
+msgstr ""
+
+#: period_type
+msgid "Period type"
+msgstr "Навъи давара"
+
+#: organisation_unit_level
+msgid "Organisation unit level"
+msgstr "Саттҳи воҳиди сохторӣ"
+
+#: select_period_type
+msgid "Select period type"
+msgstr "Интихоби навъи давра"
+
+#: org_units
+msgid "Org units"
+msgstr "воҳидҳои сохторӣ"
+
+#: get_data
+msgid "Get data"
+msgstr "Дарёфти иттилоот"
+
+#: pivot
+msgid "Pivot"
+msgstr "Ҷамъбастӣ"
+
+#: data
+msgid "Data"
+msgstr "Иттилоот"
+
+#: select
+msgid "Select"
+msgstr "Интихоб кунед"
+
+#: criteria
+msgid "Criteria"
+msgstr "Меъёрҳо"
+
+#: this_indicator_and_periods
+msgid "This indicator and periods"
+msgstr "Ин индикатор ва давраҳо"
+
+#: this_indicator_and_orgunits
+msgid "This indicator and orgunits"
+msgstr "Ин индикатор ва воҳидҳои сохторӣ"
+
+#: all_indicator_and_periods
+msgid "All indicators and periods"
+msgstr "Ҳама индикаторҳо ва давраҳо"
+
+#: all_indicator_and_orgunits
+msgid "All indicators and orgunits"
+msgstr "Ҳама индикаторҳо ва воҳидҳои сохторӣ"
+
+#: generating_report
+msgid "Generating report"
+msgstr "Таҳиякунии ҳисобот"
+
+#: use_data_for_selected_unit_only
+msgid "Use data for selected unit only"
+msgstr "Иттилоотро танҳо барои воҳиди интихобшуда истифода баред"
+
+#: add_to_dashboard
+msgid "Add to dashboard"
+msgstr "Илова ба лавҳаи маълумот"
+
+#: confirm_add_to_dashboard
+msgid "Are you sure want to add this report to the dashboard?"
+msgstr ""
+"Оё боварӣ доред, ки ин ҳисоботро ба лавҳаи маълумот илова кардан мехоҳед?"
+
+#: resource
+msgid "Resource"
+msgstr "Захира"
+
+#: view_report
+msgid "View report"
+msgstr "Намоиш додани ҳисобот"
+
+#: create_new_resource
+msgid "Create new resource"
+msgstr "Сохтани захираи нав"
+
+#: external_url
+msgid "External URL"
+msgstr "URL-и беруна"
+
+#: upload_file
+msgid "Upload file"
+msgstr "Боркунии файл"
+
+#: file
+msgid "File"
+msgstr "Файл"
+
+#: attachment
+msgid "Attachment"
+msgstr ""
+
+#: url
+msgid "URL"
+msgstr "Url"
+
+#: display
+msgid "Display"
+msgstr "Намоиш додан"
+
+#: visible
+msgid "Visible"
+msgstr "Намоён"
+
+#: column
+msgid "Column"
+msgstr "Сутун"
+
+#: confirm_add_report_table_to_dashboard
+msgid "Are you sure you want to add this report table to dashboard?"
+msgstr ""
+"Оё боварӣ доред, ки ин ҷадвали ҳисоботро ба лавҳаи маълумот илова кардан "
+"мехоҳед?"
+
+#: continue
+msgid "Continue"
+msgstr "Идома додан"
+
+#: display_facility_name
+msgid "Display Facility Name"
+msgstr "Намоиш додани номи муассиса"
+
+#: use_a3_format
+msgid "Use A3 format"
+msgstr "Истифодаи формати А3"
+
+#: tally_sheet_name
+msgid "Tally Sheet Name"
+msgstr "Номи варақи шамъӣ"
+
+#: data_element
+msgid "Data element"
+msgstr "Унсури иттилоот"
+
+#: clear
+msgid "Clear"
+msgstr "Пок кардан"
+
+#: next
+msgid "Next"
+msgstr "Навбатӣ"
+
+#: prev
+msgid "Prev"
+msgstr "Қаблӣ"
+
+#: prev_year
+msgid "Prev year"
+msgstr "Соли қаблӣ"
+
+#: next_year
+msgid "Next year"
+msgstr "Соли навбатӣ"
+
+#: none
+msgid "None"
+msgstr ""
+
+#: facility
+msgid "Facility"
+msgstr "Муассиса"
+
+#: month
+msgid "Month"
+msgstr "Моҳ"
+
+#: year
+msgid "Year"
+msgstr "Сол"
+
+#: method
+msgid "Method"
+msgstr "Усул"
+
+#: show_more_options
+msgid "Show more options"
+msgstr ""
+
+#: show_fewer_options
+msgid "Show fewer options"
+msgstr ""
+
+#: generate_before_export
+msgid "Please generate table before exporting"
+msgstr "Пеш аз содирот кардан ҷадвалеро таҳия кунед"
+
+#: based_on_registration
+msgid "Based on complete data set registrations"
+msgstr "Дар асосои бақайдгириҳои маҷмӯъҳои анҷомёфтаи иттилоот"
+
+#: based_on_compulsory
+msgid "Based on compulsory data elements"
+msgstr "Дар асоси унсурҳои иттилооти ҳатмӣ"
+
+#: based_on_ratio
+msgid "Based on number of registered data values"
+msgstr "Дар асоси қиматҳои бақайдгирифташдуаи иттиллот"
+
+#: intro_standard_report
+msgid ""
+"View and add reports based on the JasperReports library. These can be based "
+"on report tables and can be designed in iReport."
+msgstr ""
+"Дидан ва илова кардани ҳисоботҳо дар асоси  китобхонаи JasperReports. Онҳо "
+"метавонанд ба ҷадвалҳои ҳисобот асос ёбанд ва дар  iReport тарҳрезӣ карда "
+"шаванд."
+
+#: intro_dataset_report
+msgid ""
+"View data set reports. These reports are based on data entry screens and "
+"will produce a report with aggregated data."
+msgstr ""
+"Дидани ҳисоботҳои маҷмӯъҳои иттилоот. Ин ҳисоботҳо ба экранҳои вуруди "
+"иттилоот асос ёфтаанд ва ҳисоботи дорои иттиллоти ҳамҷояшударо таҳия "
+"мекунанд."
+
+#: intro_resource
+msgid ""
+"View and add resources. These resources can be uploaded documents or URLs on "
+"the web."
+msgstr ""
+"Дидан ва илова кардани захираҳо. Ин захираҳо метавонанд ҳамчун ҳуҷҷатҳо ё "
+"URLҳо ба веб бор карда шаванд."
+
+#: intro_tally_sheet_generator
+msgid ""
+"Generate tally sheets, which can be printed and used to collect data in the "
+"field."
+msgstr ""
+"Таҳияи варақаҳои шамъӣ, ки онҳоро чоп карда, барои ҷамъоварии иттилоот дар "
+"ҷойҳои истифода бурдан мумкин аст."
+
+#: intro_pivot_table
+msgid ""
+"Browse pivot tables, which can be pivoted on any of the indicator, "
+"organisation unit and period dimensions."
+msgstr ""
+"Паймоиш кардани ҷадвалҳои ҷамъбастӣ, ки метавонанд аз рӯи индикаторҳо, "
+"воҳидҳои сохторӣ ва андозаҳои давраи дилхоҳ ҷамъбандӣ шаванд."
+
+#: intro_report_table
+msgid ""
+"Add and generate report tables. Report tables are customizable database "
+"tables which can be used as basis for reports."
+msgstr ""
+"Илова кардан ва таҳияи ҷадвалҳои ҳисобот. Ҷадвалҳои ҳисобот тағйирпазир "
+"буда, метавонанд ҳамчун асос барои ҳисоботҳо истифода шаванд."
+
+#: intro_reporting_rate_summary
+msgid ""
+"Browse the reporting rates of data sets by organisation unit and period "
+"based on various criteria for submission."
+msgstr ""
+"Паймоиши зудии ҳисоботдиҳии маҷмӯъҳои иттилоот аз ҷониби воҳиди сохторӣ ва "
+"давра вобаста аз меъёрҳои гуногуни пешниҳод."
+
+#: intro_orgunit_distribution_report
+msgid ""
+"Browse the organisation unit distribution report based on the organisation "
+"unit group sets and its groups."
+msgstr ""
+"Паймоиши ҳисоботи паҳнкунии воҳиди сохторӣ  дар асоси маҷмӯъҳои гурӯҳи "
+"воҳидҳои сохторӣ  ва гурӯҳҳои онҳо."
+
+#: intro_data_approval
+msgid ""
+"View data and manage data approval by approving or unapproving, accepting or "
+"unaccepting data."
+msgstr ""
+
+#: orgunit_distribution_report
+msgid "Organisation Unit Distribution Report"
+msgstr "Ҳисоботи паҳнкунии воҳиди сохторӣ"
+
+#: get_current_design
+msgid "Get current design"
+msgstr "Дарёфти тарҳи ҷорӣ"
+
+#: organisation_unit_report
+msgid "Organisation Unit Report"
+msgstr "Ҳисоботи воҳиди сохторӣ"
+
+#: select_group_set
+msgid "Select group set"
+msgstr "Интихоби маҷмӯи гурӯҳҳо"
+
+#: orgunit_distribution
+msgid "Organisation unit distribution report"
+msgstr "Ҳисоботи паҳнкунии воҳиди сохторӣ"
+
+#: get_report
+msgctxt "get_report"
+msgid "Get report"
+msgstr ""
+
+#: get_chart
+msgid "Get chart"
+msgstr "Дарёфти диаграмма"
+
+#: group_set
+msgid "Group set"
+msgstr "Маҷмӯи гурӯҳҳо"
+
+#: select_org_unit
+msgid "Select organisation unit"
+msgstr "Интихоби воҳиди сохторӣ"
+
+#: get_report
+msgctxt "get_report"
+msgid "Get report"
+msgstr ""
+
+#: get_report_as_xls
+msgid "Download as Excel"
+msgstr "Боргирӣ ҳамчун файли Excel"
+
+#: get_report_as_csv
+msgid "Download as CSV"
+msgstr "Боргирӣ ҳамчун файли CSV"
+
+#: get_report_as_pdf
+msgid "Download as PDF"
+msgstr "Боргирӣ ҳамчун файли PDF"
+
+#: get_report_as_jasper
+msgid "Download as Report"
+msgstr "Боргирӣ ҳамчун ҳисобот"
+
+#: get_report_as_jrxml
+msgid "Download as JRXML"
+msgstr "Боргирӣ ҳамчунJRXML"
+
+#: select_category_combo
+msgctxt "select_category_combo"
+msgid "Select category combination"
+msgstr ""
+
+#: sort_order
+msgid "Sort order"
+msgstr "Тартиби ҷудокунӣ"
+
+#: ascending
+msgid "Low to high"
+msgstr "Аз хурд ба калон"
+
+#: descending
+msgid "High to low"
+msgstr "Аз калон ба хурд"
+
+#: top_limit
+msgid "Top limit"
+msgstr "Ҳудуди болоӣ"
+
+#: data_type
+msgid "Data type"
+msgstr "Навъи иттилооти асосӣ"
+
+#: indicator
+msgid "Indicator"
+msgstr "Индикатор"
+
+#: data_element_group
+msgid "Data element group"
+msgstr "Гурӯҳи унсурҳои иттилоот"
+
+#: grand_parent_organisation_unit
+msgid "Grand parent organisation unit"
+msgstr "Воҳиди сохтории болоии сатҳи аввал"
+
+#: available_reporting_rates
+msgid "Available reporting rates"
+msgstr "Зудии ҳисоботддиҳии мавҷуда"
+
+#: selected_reporting_rates
+msgid "Selected reporting rates"
+msgstr "Зудии ҳисоботддиҳии интихобшуда"
+
+#: toggle_fixed_periods
+msgid "Toggle fixed periods"
+msgstr "Гузаронидани давраҳои собит"
+
+#: toggle_fixed_organisation_units
+msgid "Toggle fixed organisation units"
+msgstr "Гузаронидани воҳидҳои сохтории собит"
+
+#: group
+msgid "Group"
+msgstr "Гурӯҳ"
+
+#: groups
+msgid "Groups"
+msgstr "Гурӯҳҳо"
+
+#: confirm_delete
+msgid "Are you sure you want to delete this object?"
+msgstr "Оё боварӣ доред, ки ин гурӯҳи корбаронро нест кардан мехоҳед?"
+
+#: leaf_parent_organisation_unit
+msgid "Leaf organisation units"
+msgstr "Воҳидҳои сохтории шохавӣ"
+
+#: reporting_bimonth
+msgid "Reporting bimonth"
+msgstr "Думоҳаи ҳисоботӣ"
+
+#: last_6_bimonths
+msgid "Last 6 bimonths"
+msgstr "6 думоҳаи охир"
+
+#: reporting_quarter
+msgid "Reporting quarter"
+msgstr "Семоҳаи ҳисоботдиҳӣ"
+
+#: include_organisation_unit_group_sets
+msgid "Include org unit group sets param"
+msgstr "Шомил кардани параметрҳои маҷмӯъҳои гурӯҳи воҳидҳои сохторӣ"
+
+#: reporting_period
+msgctxt "reporting_period"
+msgid "Reporting period"
+msgstr ""
+
+#: last_5_years
+msgid "Last 5 years"
+msgstr "5 соли охир"
+
+#: last_12_months
+msgid "Last 12 months"
+msgstr "12 моҳи охир"
+
+#: last_4_quarters
+msgid "Last 4 quarters"
+msgstr "4 семоҳаи охир"
+
+#: reporting_rate_summary
+msgid "Reporting Rate Summary"
+msgstr "Фишурдаи зудии ҳисоботдиҳӣ"
+
+#: available_organisation_unit_groups
+msgid "Available organisation unit groups"
+msgstr "Гурӯҳи воҳидҳои сохтории мавҷуда"
+
+#: selected_organisation_unit_groups
+msgid "Selected organisation unit groups"
+msgstr "Гурӯҳи воҳидҳои сохтории интихобшуда"
+
+#: start_date
+msgctxt "start_date"
+msgid "Start date"
+msgstr ""
+
+#: end_date
+msgctxt "end_date"
+msgid "End date"
+msgstr ""
+
+#: start_export
+msgid "Start export"
+msgstr "Оӯози воридот"
+
+#: period_types
+msgid "Period types"
+msgstr "Навъҳои давра"
+
+#: include_cumulative
+msgid "Include cumulative"
+msgstr "Бо ҷамъшавӣ"
+
+#: include_regression
+msgid "Include regression"
+msgstr "Бо регрессия"
+
+#: print
+msgid "Print"
+msgstr "Чоп кардан"
+
+#: reporting_period
+msgctxt "reporting_period"
+msgid "Reporting period"
+msgstr ""
+
+#: completed_by
+msgid "Completed by"
+msgstr "Анҷом дода шудааст аз ҷониби"
+
+#: view_resource
+msgid "View resource"
+msgstr "Дидани захира"
+
+#: this_financial_year
+msgid "This financial year"
+msgstr "Ин соли молиявӣ"
+
+#: last_financial_year
+msgid "Last financial year"
+msgstr "Соли молиявии гузашта"
+
+#: last_5_financial_years
+msgid "Last 5 financial years"
+msgstr "5 соли молиявии гузашта"
+
+#: financial_yearly
+msgid "Financial Yearly"
+msgstr "Аз рӯи солҳои молиявӣ"
+
+#: please_specify_file
+msgid "Please specify a design file"
+msgstr "Лутфан ягон файли тарҳро нишон диҳед"
+
+#: jasper_design
+msgid "Jasper design"
+msgstr "Тарҳи яшмӣ"
+
+#: write_your_interpretation
+msgid "Write a comment, question or interpretation"
+msgstr "Ягон шарҳ, савол ё тафсир нависед"
+
+#: share
+msgid "Share"
+msgstr "Мубодила"
+
+#: share_your_interpretation
+msgid "Share your interpretation"
+msgstr "Истифодаи муштараки тафсири шумо"
+
+#: interpretation_was_shared
+msgid "Interpretation was shared"
+msgstr "Тафсир мубодила шуд"
+
+#: last_3_months
+msgid "Last 3 months"
+msgstr "3 моҳи охир"
+
+#: get_report_template
+msgid "Get report template"
+msgstr "Дарёфти қолиби ҳисобот"
+
+#: actual_reports
+msgid "Actual Reports"
+msgstr "Ҳисоботҳои воқеӣ"
+
+#: expected_reports
+msgid "Expected Reports"
+msgstr "Ҳисоботҳои пешбинишдуа"
+
+#: percent
+msgid "Percent"
+msgstr "Фоиз"
+
+#: reports_on_time
+msgid "Reports On Time"
+msgstr "Ҳисоботҳои саривақтӣ"
+
+#: percent_on_time
+msgid "Percent On Time"
+msgstr "Фоизи саривақтӣ"
+
+#: view_all
+msgid "View all"
+msgstr "Намоиш додани ҳама"
+
+#: write_your_interpretation_of_report
+msgid "Write a comment, question or interpretation of this report"
+msgstr "Дар бораи ин ҳисобот ягон шарҳ, савол ё тафсир нависед"
+
+#: jasper_report_report_table_data_source
+msgid "Jasper report with report table data source"
+msgstr "Ҳисоботи яшмӣ бо ҷадвали ҳисобот ҳамчун маъхази иттилоот"
+
+#: jasper_report_jdbc_data_source
+msgid "Jasper report with JDBC data source"
+msgstr "Ҳисоботи яшмӣ бо маъхази иттилооти JDBC"
+
+#: html_report
+msgid "HTML report"
+msgstr "Ҳисоботи HTML"
+
+#: design_file
+msgid "Design file"
+msgstr "Файли тарҳ"
+
+#: get_jasper_report_template
+msgid "Get Jasper report template"
+msgstr "Дарёфти қолиби ҳисоботи яшмӣ"
+
+#: get_html_report_template
+msgid "Get HTML report template"
+msgstr "Дарёфти қолиби ҳисоботи HTML"
+
+#: analytics_tables_management
+msgid "Analytics tables management"
+msgstr ""
+
+#: analytics_tables
+msgid "Analytics tables"
+msgstr "Ҷадвалҳои таҳлилӣ"
+
+#: analytics_tables_update
+msgid "Analytics tables update"
+msgstr "Навсозии ҷадвалҳои таҳлилӣ"
+
+#: aggregation_period_types
+msgid "Aggregation period types"
+msgstr "Навъҳои давраи ҳамҷоякунӣ"
+
+#: analytics
+msgid "Analytics"
+msgstr ""
+
+#: approve
+msgid "Approve"
+msgstr ""
+
+#: unapprove
+msgid "Unapprove"
+msgstr ""
+
+#: accept
+msgid "Accept"
+msgstr ""
+
+#: unaccept
+msgid "Unaccept"
+msgstr ""
+
+#: waiting_for_lower_level_approval
+msgid "Waiting for lower levels to approve"
+msgstr ""
+
+#: approved_at_a_higher_level
+msgid "Approved at a higher level"
+msgstr ""
+
+#: approved
+msgid "Approved"
+msgstr ""
+
+#: approved_and_accepted
+msgid "Approved and accepted"
+msgstr ""
+
+#: ready_for_approval_at_a_higher_level
+msgid "Ready for approval at a higher level"
+msgstr ""
+
+#: ready_for_approval
+msgid "Ready for approval"
+msgstr ""
+
+#: approval_not_relevant
+msgid "Approval not relevant"
+msgstr ""
+
+#: waiting_for_approval_elsewhere
+msgid "Waiting for approval elsewhere"
+msgstr ""
+
+#: approved_elsewhere
+msgid "Approved elsewhere"
+msgstr ""
+
+#: accepted_elsewhere
+msgid "Accepted elsewhere"
+msgstr ""
+
+#: approved_for_part_of_this_period
+msgid "Approved for part of this period"
+msgstr ""
+
+#: accepted_for_part_of_this_period
+msgid "Accepted for part of this period"
+msgstr ""
+
+#: approved_elsewhere_for_part_of_this_period
+msgid "Approved elsewhere for part of this period"
+msgstr ""
+
+#: accepted_elsewhere_for_part_of_this_period
+msgid "Accepted elsewhere for part of this period"
+msgstr ""
+
+#: confirm_approval
+msgid "Are you sure you want to approve this data set?"
+msgstr ""
+
+#: confirm_unapproval
+msgid "Are you sure you want to unapprove this data set?"
+msgstr ""
+
+#: confirm_accept
+msgid "Are you sure you want to accept this data set approval?"
+msgstr ""
+
+#: confirm_unaccept
+msgid "Are you sure you want to unaccept this data set approval?"
+msgstr ""
+
+#: approval_entity
+msgid "Approval entity"
+msgstr ""
+
+#: approval_status
+msgid "Approval status"
+msgstr ""
+
+#: please_make_selection
+msgid "Please make a selection below"
+msgstr ""
+
+#: data_criteria
+msgid "Data criteria"
+msgstr ""

@@ -1,0 +1,1174 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-reporting/src/main/resources/org/hisp/dhis/reporting/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-reporting/src/main/resources/org/hisp/dhis/reporting/i18n_module_lo.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: please_select_org_unit
+msgctxt "please_select_org_unit"
+msgid "Please select an organisation unit"
+msgstr "ກະລຸນາເລືອກໂຄງຮ່າງການຈັດຕັ້ງ"
+
+#: please_select_period
+msgctxt "please_select_period"
+msgid "Please select a period"
+msgstr "ກະລຸນາເລືອກຊ່ວງເວລາ"
+
+#: please_select_group_set
+msgid "Please select a group set"
+msgstr "ກະລຸນາເລືອກກຸ່ມຂອງກຸ່ມ"
+
+#: reporting_unit
+msgid "Reporting unit"
+msgstr "ຫົວໜ່ວຍລາຍ​ງານ"
+
+#: reporting_period
+msgctxt "reporting_period"
+msgid "Reporting period"
+msgstr "​ໄລ​ຍະ​ເວ​ລາ​ການ​ລາຍ​ງານ"
+
+#: report_period
+msgid "Report period"
+msgstr "ຊ່ວງເວລາ ການລາຍງານ"
+
+#: select_data_set
+msgid "Please select a data set"
+msgstr "ກະລຸນາເລືອກ​ຊຸດ​ຂໍ້​ມູນ"
+
+#: select_period
+msgctxt "select_period"
+msgid "Please select a period"
+msgstr "ກະລຸນາເລືອກຊ່ວງເວລາ"
+
+#: select_organisation_unit
+msgctxt "select_organisation_unit"
+msgid "Please select an organisation unit"
+msgstr "ກະລຸນາເລືອກໂຄງຮ່າງການຈັດຕັ້ງ"
+
+#: report_organisation_unit
+msgid "Report organisation unit"
+msgstr "​ບົດລາຍງານ​ທາງ​ດ້ານໂຄງຮ່າງການຈັດຕັ້ງ"
+
+#: dataset_report
+msgid "Data Set Report"
+msgstr "​ບົດລາຍງານ​ຊຸດຂໍ້ມູນ"
+
+#: data_approval
+msgid "Data Approval"
+msgstr "ການອານຸມັດຂໍ້ມູນ"
+
+#: add_selected
+msgid "Add selected"
+msgstr "ເພີ່ມເອົາ​ອັນ​ທີ່​ໄດ້​ເລືອກ​ໄວ້"
+
+#: add_all
+msgid "Add all"
+msgstr "ເພີ່ມທັງໝົດ"
+
+#: add
+msgid "Add"
+msgstr "ເພີ່ມ"
+
+#: create_report_table
+msgid "Create report table"
+msgstr "ສ້າງຕາຕະລາງລາຍງານ"
+
+#: available_indicators
+msgid "Available indicators"
+msgstr "​ຕົວ​ຊີ້​ວັດ​ທີ່​ມີ​ຢູ່​ໃນ​ລະ​ບົບ"
+
+#: select_indicatorgroup_all
+msgid "Select indicator group / View all"
+msgstr "ເລືອກກຸ່ມຂອງຕົວຊີ້ວັດ / ເບີ່ງທັງໝົດ"
+
+#: select_dataelementgroup_all
+msgctxt "select_dataelementgroup_all"
+msgid "Select data element group / View all"
+msgstr ""
+
+#: selected_indicators
+msgid "Selected indicators"
+msgstr "ເລືອກ​ເອົາຕົວຊີ້ວັດ"
+
+#: selected_dataelements
+msgctxt "selected_dataelements"
+msgid "Selected data elements"
+msgstr ""
+
+#: select_organisationunit_level_all
+msgid "Select organsation unit level / View all"
+msgstr "ເລືອກເອົາ​​ຂັ້ນ​ຕ່າງໆ​ຂອງຫົວ​ໜ່ວຍການຈັດຕັ້ງ / ເບີ່ງທັງໝົດ"
+
+#: select_option_view_all
+msgid "Select option / View all"
+msgstr "ເລືອກ​ເອົາ​ທາງເລືອກ​ຕ່າງໆ / ເບີ່ງທັງໝົດ"
+
+#: level
+msgid "Level"
+msgstr "ຂັ້ນ"
+
+#: available_organisationunits
+msgid "Available organisation units"
+msgstr "​ຫົວ​ໜ່ວຍ​ການ​ຈັດ​ຕັ້ງ​ທີ່​ມີ​ໄນ​ລະ​ບົບ​ທັງ​ໝົດ"
+
+#: selected_organisationunits
+msgid "Selected organisation units"
+msgstr "ເລືອກ​ເອົາຫົວ​ໜ່ວຍການຈັດຕັ້ງ​"
+
+#: available_periods
+msgid "Available periods"
+msgstr "​ໄລ​ຍະ​ເວ​ລາ​ທີ່​ມີ​ຢູ່​ໃນ​ລະ​ບົບ"
+
+#: selected_periods
+msgid "Selected periods"
+msgstr "ເລືອກຊ່ວງເວລາ"
+
+#: add_children
+msgid "Add children"
+msgstr "ເພີ່ມລູກ"
+
+#: create
+msgid "Create"
+msgstr "ສ້າງ"
+
+#: indicators
+msgid "Indicators"
+msgstr "ຕົວຊີ້ວັດ"
+
+#: organisation_units
+msgid "Organisation units"
+msgstr "ໂຄງຮ່າງການຈັດຕັ້ງ"
+
+#: periods
+msgid "Periods"
+msgstr "ຊ່ວງເວລາ"
+
+#: relative_periods
+msgid "Relative periods"
+msgstr "​ໄລ​ຍະ​ເວ​ລາ​ໄກ້​ຄຽງ"
+
+#: reporting_month
+msgid "Reporting month"
+msgstr "​ເດືອນ​ຂອງ​ການ​ລາຍ​ງານ"
+
+#: months_this_year
+msgctxt "months_this_year"
+msgid "Months this year"
+msgstr "​ເດືອນ​ໃນ​ປີ"
+
+#: quarters_this_year
+msgctxt "quarters_this_year"
+msgid "Quarters this year"
+msgstr "​ໄຕຼມາດ​ໃນ​ປີ"
+
+#: this_year
+msgid "This year"
+msgstr "ປີນີ້"
+
+#: reporting_sixmonth
+msgid "Reporting six-month"
+msgstr "ລາຍງານເປັນ 6 ເດືອນ"
+
+#: last_2_sixmonths
+msgid "Last 2 six-months"
+msgstr "2 ເດືອນທີ່ຜ່ານມາ"
+
+#: last_week
+msgid "Last week"
+msgstr "ອາທິດທີ່ຜ່ານມາ"
+
+#: last_4_weeks
+msgid "Last 4 weeks"
+msgstr "4 ອາທິດຜ່ານມາ"
+
+#: last_12_weeks
+msgid "Last 12 weeks"
+msgstr "12 ອາທິດຜ່ານມາ"
+
+#: months_last_year
+msgid "Months last year"
+msgstr "​ເດືອນ​ໄນ​ປີ​ຜ່ານ​ມາ"
+
+#: quarters_last_year
+msgid "Quarters last year"
+msgstr "​ໄຕຼມາດ​ໄນ​ປີ​ຜ່ານ​ມາ"
+
+#: last_year
+msgid "Last year"
+msgstr "ປີກາຍ"
+
+#: report_table
+msgid "Report Table"
+msgstr "​ຕາ​ຕະ​ລາງ​ລາຍ​ງານ"
+
+#: crosstab_dimensions
+msgid "Crosstab dimensions"
+msgstr "​ຕ່າງ​ມິ​ຕິ"
+
+#: confirm_delete_table
+msgid "Are you sure you want to remove table?"
+msgstr "ທ່ານເເນ່ທີ່ຈະລົບບໍ?"
+
+#: operations
+msgid "Operations"
+msgstr "ເຄື່ອງໝາຍເລກ"
+
+#: done
+msgid "Done"
+msgstr "ສຳເລັດ"
+
+#: crosstab_indicators
+msgid "Crosstab indicators"
+msgstr "ຕົວ​ຊີ້​ວັດ​ຕ່າງ"
+
+#: crosstab_periods
+msgid "Crosstab periods"
+msgstr "​ໄລ​ຍະ​ເວ​ລາ​ຕ່າງ"
+
+#: crosstab_organisation_units
+msgid "Crosstab organisation units"
+msgstr "​ຫົ​ວ​ໜ່ວຍ​ການ​ຈັດ​ຕັ້ງ​ຕ່າງ"
+
+#: must_select_at_least_one_indictor_data_element_data_set
+msgid "Please select at least one indicator, data element or data set"
+msgstr "ກະລຸນາເລືອກຕົວຊີ້ວັດ,​ ອົງປະກອບຂໍ້ມູນ ຫຼື ແບບຟອມ"
+
+#: must_select_at_least_one_unit
+msgid "Please select at least one organisation unit"
+msgstr "ກະລຸນາເລືອກໂຄງຮ່າງການຈັດຕັ້ງ"
+
+#: must_select_at_least_one_period
+msgid "Please select at least one period"
+msgstr "ກະລຸນາເລືອກຊ່ວງເວລາ"
+
+#: cannot_include_more_organisation_unit_regression
+msgid "Cannot include more that one organisation unit with regression"
+msgstr ""
+"ບໍ່​ສາ​ມາດ​ລວມ​ເອົາ​ເກີນກວ່າ​ນື່ງ​ຫົວ​ໜ່ວຍ​ການ​ຈັດ​ຕັ້ງ​ທີ່​ມີ ຜົນ​ທາງ​ລົບ"
+
+#: cannot_select_orgunit_and_parent_orgunit_param
+msgid "Cannot select both current and parent organisation unit parameter"
+msgstr ""
+"​ບໍ່​ສາ​ມາດ​ເລືອກ​ເອົາ​​​ຂໍ້​ມູນຫົວ​ໜ່ວຍ​ການ​ຈັດ​ຕັ້ງ​ຫ​ຍ່ອຍ ແລະ "
+"​ລວມ​ທັງ​ສອງ​ຢ່າງ​ພ້ອມ​ກັນໄດ້"
+
+#: must_enter_name
+msgid "Please enter a name"
+msgstr "​ກະ​ລຸ​ນາ​ຕື່ມ​ຊື່"
+
+#: specify_name
+msgid "Please specify a name"
+msgstr "ກະລຸນາລະບຸຊື່."
+
+#: name_in_use
+msgid "The name is already in use"
+msgstr "ຊື່ນີ້ຖືກນຳໃຊ້ແລ້ວ"
+
+#: design
+msgid "Design"
+msgstr "ອອກແບບ"
+
+#: home
+msgid "Home"
+msgstr "ໜ້າຫຼັກ"
+
+#: directory
+msgid "Directory"
+msgstr "ຜູ້ກຳກັບ"
+
+#: create_new_report
+msgid "Create new report"
+msgstr "ສ້າງລາຍງານໃໝ່"
+
+#: create_report
+msgid "Create report"
+msgstr "ສ້າງລາຍງານ"
+
+#: standard_report
+msgid "Standard Report"
+msgstr "​ບົດ​ລາຍ​ງານ​ແບບ​ມາດ​ຕະ​ຖານ"
+
+#: confirm_remove_report
+msgid "Are you sure you will delete the report?"
+msgstr "ທ່ານແນ່ໃຈທີ່ຈະລົບອອກບໍ?"
+
+#: report
+msgid "Report"
+msgstr "ລາຍງານ"
+
+#: completed
+msgid "completed"
+msgstr "ຄົບ"
+
+#: remove_report
+msgid "Remove report"
+msgstr "ລົບລາຍງານອອກ"
+
+#: submit
+msgid "Submit"
+msgstr "ສົ່ງໄປລະບົບ"
+
+#: edit_report
+msgid "Edit report"
+msgstr "ແກ້ໄຂລາຍງານ"
+
+#: processing
+msgid "Processing"
+msgstr "​ກຳ​ລັງ​ດຳ​ເນີນ​ການ​ຢູ່"
+
+#: indicators_data_elements_data_sets
+msgid "Indicators / data elements / data sets"
+msgstr "ຕົວ​ຊີ້​ວັດ​-ອົງ​ປະ​ກອບ​ຂໍ້​ມູນ-ຊຸດ​ຂໍ້​ມູນ"
+
+#: dataset
+msgid "Data set"
+msgstr "ແບບຟອມ"
+
+#: organisation_unit
+msgid "Organisation unit"
+msgstr "​ຫົວ​ໜ່ວຍ​ການ​ຈັດ​ຕັ້ງ"
+
+#: select_dataset_all
+msgid "Select data set / View all"
+msgstr "ເລືອກແບບຟອມ / ເບີ່ງທັງໝົດ"
+
+#: monthly
+msgid "Monthly"
+msgstr "ລາຍເດືອນ"
+
+#: quarterly
+msgid "Quarterly"
+msgstr "ໄຕມາດ"
+
+#: yearly
+msgid "Yearly"
+msgstr "ລາຍປີ"
+
+#: omit_report_table_explanation
+msgid ""
+"If selecting no report table, the user is responsible for providing the data "
+"source"
+msgstr ""
+"​ຖ້າ​ເລືອກ​ແຕ່ບໍ່​ມີ​ຕາ​ຕະ​ລາງ​ລາຍ​ງານ​, "
+"ຜູ້​ໃຊ້​ຈະ​ຕ້ອງ​ໄດ້​ສະ​ໜອງ​ແຫ່ງ​ທີ່​ມາ​ຂອງ​ຂໍ້​ມູນ"
+
+#: dataset_completeness
+msgid "Data set Completeness"
+msgstr "ຄວາມ​ຄົບ​ຖ້ວນ​ຂອງ​ຊຸດ​ຂໍ້​ມູນ"
+
+#: report_parameters
+msgid "Report parameters"
+msgstr "​ສ່ວນ​ປະ​ກອບ​ຕ່າງໆ​ຂອງ​ບົດ​ລາຍ​ງານ"
+
+#: parent_organisation_unit
+msgid "Parent organisation unit"
+msgstr "ໂຄງຮ່າງການຈັດຕັ້ງຂັ້ນສູງ"
+
+#: available_dataelements
+msgid "Available data elements"
+msgstr "​ອົງ​ປະ​ກອບ​ຂໍ້​ມູນ​ທີ່​ມີ"
+
+#: select_dataelementgroup_all
+msgctxt "select_dataelementgroup_all"
+msgid "Select data element group / View all"
+msgstr ""
+
+#: select_category_combo
+msgctxt "select_category_combo"
+msgid "Select category combination"
+msgstr "​ເລືອກ​ເອົາ category ທີ່​ມີ​ການ​ປະ​ສົມ​ເອົາ"
+
+#: selected_dataelements
+msgctxt "selected_dataelements"
+msgid "Selected data elements"
+msgstr ""
+
+#: dataelements
+msgid "Data elements"
+msgstr "ອົງປະກອບຂໍ້ມູນ"
+
+#: report_table_parameters
+msgid "Report table parameters"
+msgstr "​ສ່ວນ​ປະ​ກອບ​ຕ່າງໆ​ຂອງ​ຕາ​ຕະ​ລາງ​ລາຍ​ງານ"
+
+#: months_this_year
+msgctxt "months_this_year"
+msgid "Months this year"
+msgstr "​ເດືອນ​ໃນ​ປີ"
+
+#: quarters_this_year
+msgctxt "quarters_this_year"
+msgid "Quarters this year"
+msgstr "​ໄຕຼມາດ​ໃນ​ປີ"
+
+#: add_report_table
+msgid "Add Report Table"
+msgstr "​ຕື່ມ​ຕາ​ຕະ​ລາງ​ລາຍ​ງານ"
+
+#: add_dataelement_dimension_table
+msgid "Add Dataelement Dimension Table"
+msgstr "​ຕື່ມ​ມິ​ຕິ​ຕ່າງໆ​ຂອງ​ອົງ​ປະ​ກອບ​ຂໍ້​ມູນ​ຂອງ​ຕາ​ຕະ​ລາງ"
+
+#: generate
+msgid "Generate"
+msgstr "ສ້າງ"
+
+#: process_completed
+msgid "Process completed"
+msgstr "ການທຳງານ ສຳເລັດແລ້ວ"
+
+#: view
+msgid "View"
+msgstr "ເບິ່ງ"
+
+#: chart
+msgid "Chart"
+msgstr "ແຜນວາດ"
+
+#: dimension
+msgid "Dimension"
+msgstr "ມິຕິ"
+
+#: pivot_table
+msgid "Pivot Table"
+msgstr "ຕາຕະລາງຂໍ້ມູນ"
+
+#: indicator_group
+msgid "Indicator group"
+msgstr "ກຸ່ມຂອງຕົວຊີ້ວັດ"
+
+#: start_date
+msgctxt "start_date"
+msgid "Start date"
+msgstr ""
+
+#: end_date
+msgctxt "end_date"
+msgid "End date"
+msgstr ""
+
+#: period_type
+msgid "Period type"
+msgstr "ແບບຊ່ວງເວລາ"
+
+#: organisation_unit_level
+msgid "Organisation unit level"
+msgstr "​ລະ​ດັບ​ຕ່າງໆ​ຂອງ​ຫົວ​ໜ່ວຍ​ການ​ຈັດ​ຕັ້ງ"
+
+#: select_period_type
+msgid "Select period type"
+msgstr "​ເລືອກ​ໄລ​ຍະ​ເວ​ລາ​ປະ​ເພດ​ຕ່າງໆ"
+
+#: org_units
+msgid "Org units"
+msgstr "​ຫົວ​ໜ່ວຍ​ການ​ຈັດ​ຕັ້ງ"
+
+#: get_data
+msgid "Get data"
+msgstr "​ເປີດ​ເອົາ​ຂໍ້​ມູນ"
+
+#: pivot
+msgid "Pivot"
+msgstr "ລະບົບເສັ້ນເຄົ້າ"
+
+#: data
+msgid "Data"
+msgstr "ຂໍ້ມູນ"
+
+#: select
+msgid "Select"
+msgstr "ເລືອກ"
+
+#: criteria
+msgid "Criteria"
+msgstr "ເງື່ອນໄຂ"
+
+#: this_indicator_and_periods
+msgid "This indicator and periods"
+msgstr "ຕົວຊີ້ວັດນີ້ ແລະ ຊ່ວງເວລາ"
+
+#: this_indicator_and_orgunits
+msgid "This indicator and orgunits"
+msgstr "ຕົວຊີ້ວັດນີ້ ແລະ ໂຄງຮ່າງການຈັດຕັ້ງ"
+
+#: all_indicator_and_periods
+msgid "All indicators and periods"
+msgstr "ຕົວຊີ້ວັດ ແລະ ຊ່ວງເວລາທັງໝົດ"
+
+#: all_indicator_and_orgunits
+msgid "All indicators and orgunits"
+msgstr "ຕົວຊີ້ວັດ ແລະ ໂຄງຮ່າງການຈັດຕັ້ງທັງໝົດ"
+
+#: generating_report
+msgid "Generating report"
+msgstr "​ຜະ​ລິດ​ເອົາ​ບົດ​ລາຍ​ງານ"
+
+#: use_data_for_selected_unit_only
+msgid "Use data for selected unit only"
+msgstr "​ໃຊ້​ຂໍ້​ມູນ​ເພື່ອ​ເລືອກ​ເອົາ​ຫົວ​ໜ່ວຍ​ພຽງ​ຢ່າງ​ດຽວ"
+
+#: add_to_dashboard
+msgid "Add to dashboard"
+msgstr "ເພື່ມເຂົ້າໄປໃນພື້ນທີ່ສະແດງຂໍ້ມູນ"
+
+#: confirm_add_to_dashboard
+msgid "Are you sure want to add this report to the dashboard?"
+msgstr "ທ່ານແນ່ໃຈທີ່ຈະເພີ່ມບໍ?"
+
+#: resource
+msgid "Resource"
+msgstr "​ແຫລ່ງ"
+
+#: view_report
+msgid "View report"
+msgstr "ເບີ່ງລາຍງານ"
+
+#: create_new_resource
+msgid "Create new resource"
+msgstr "​ສ້າງ​ແຫລ່ງ​ໃໝ່"
+
+#: external_url
+msgid "External URL"
+msgstr "URL ພາຍນອກ"
+
+#: upload_file
+msgid "Upload file"
+msgstr "ໂຫຼດເອກະສານ"
+
+#: file
+msgid "File"
+msgstr "ເອກະສານ"
+
+#: attachment
+msgid "Attachment"
+msgstr "​ເອ​ກະ​ສານ​ຕິດ​ຄັດ"
+
+#: url
+msgid "URL"
+msgstr "URL"
+
+#: display
+msgid "Display"
+msgstr "ສະແດງ"
+
+#: visible
+msgid "Visible"
+msgstr "ສະແດງ"
+
+#: column
+msgid "Column"
+msgstr "ຖັນ"
+
+#: confirm_add_report_table_to_dashboard
+msgid "Are you sure you want to add this report table to dashboard?"
+msgstr "ທ່ານແນ່ໃຈທີ່ຈະນຳເອົາບົດລາຍງານນີ້ຂື້ນສະແດງໃນພື້ນທີ່ສະແດງຂໍ້ມູນບໍ?"
+
+#: continue
+msgid "Continue"
+msgstr "ຕໍ່ໄປ"
+
+#: display_facility_name
+msgid "Display Facility Name"
+msgstr "ສະແດງຊື່ຂອງສະຖານທີ່ບໍລິການ"
+
+#: use_a3_format
+msgid "Use A3 format"
+msgstr "​ໃຊ້ ແບບ​ຂອງ A3"
+
+#: tally_sheet_name
+msgid "Tally Sheet Name"
+msgstr "ຊື່​ຂອງ​ຕາ​ຕະ​ລາງ​ຂີດ​ນັບ"
+
+#: data_element
+msgid "Data element"
+msgstr "ອົງປະກອບຂໍ້ມູນ"
+
+#: clear
+msgid "Clear"
+msgstr "ລຶບ"
+
+#: next
+msgid "Next"
+msgstr "ຕໍ່ໄປ"
+
+#: prev
+msgid "Prev"
+msgstr "ກັບ"
+
+#: prev_year
+msgid "Prev year"
+msgstr "ປີກາຍ"
+
+#: next_year
+msgid "Next year"
+msgstr "ປີຕໍ່ໄປ"
+
+#: none
+msgid "None"
+msgstr "ບໍ່ມີ"
+
+#: facility
+msgid "Facility"
+msgstr "ສະຖານ ທີ່ບໍລິການ"
+
+#: month
+msgid "Month"
+msgstr "ເດືອນ"
+
+#: year
+msgid "Year"
+msgstr "ປີ"
+
+#: method
+msgid "Method"
+msgstr "ວິທິການ"
+
+#: show_more_options
+msgid "Show more options"
+msgstr "​ສະ​ແດງ​ໃຫ້​ເຫັນ​ທາງ​ເລືອກ​ອື່ນໆ"
+
+#: show_fewer_options
+msgid "Show fewer options"
+msgstr "​ສະ​ແດງ​ໃຫ້​ເຫັນ​ບາງ​ທາງ​ເລືອກ"
+
+#: generate_before_export
+msgid "Please generate table before exporting"
+msgstr "​ກະ​ລຸ​ນາ​ສ້າງ​ຕາ​ຕະ​ລາງ​ກ່ອນ​ທີ່​ຈະ​ຜະ​ລິດ​ອອກ"
+
+#: based_on_registration
+msgid "Based on complete data set registrations"
+msgstr "​ອີງ​ໃສ່​ການ​ລົງ​ທະ​ບຽນ​ຊຸດ​ຂໍ້​ມູນ​ທີ່​ຄົບ​ຖ້ວນ"
+
+#: based_on_compulsory
+msgid "Based on compulsory data elements"
+msgstr "​ອີງ​ໃສ່​ພາກ​ບັງ​ຄັບ​ຂອງ​ອົງ​ປະ​ກອບ​ຂໍ້​ມູນ"
+
+#: based_on_ratio
+msgid "Based on number of registered data values"
+msgstr "​ອີງ​ໃສ່​ຈຳ​ນວນ​ຂອງ​ມູນ​ຄ່າ​ຂໍ້​ມູນ​ທີ່​ໄດ້​ລົງ​ທະ​ບຽນ"
+
+#: intro_standard_report
+msgid ""
+"View and add reports based on the JasperReports library. These can be based "
+"on report tables and can be designed in iReport."
+msgstr ""
+"​​ກວດ​ເບີ່ງ ແລະ​ຕື່ມ​ບົດ​ລາຍ​ງານ​ອີງ​ໃສ່​ແບບ​ການ​ລາຍ​ງານ​ຂອງ​ຈັ​ສ​ເປີ. "
+"ອາດ​ຈະ​ອີງ​ໃສ່​ຕາ​ຕະ​ລາງ​ລາຍ​ງານ ແລະ ການ​ອອກ​ແບບ​ຢູ່​ໃນ  iReport."
+
+#: intro_dataset_report
+msgid ""
+"View data set reports. These reports are based on data entry screens and "
+"will produce a report with aggregated data."
+msgstr ""
+"​ກວດ​ເບີ່ງ​ບົດ​ລາຍ​ງານ​ຊຸດ​ຂໍ້​ມູນ. "
+"ບົດ​ລາຍ​ງານນີ້​ແມ່ນ​ອີງ​ໃສ່​ແບ​ຟອມ​ການ​ປ້ອນ​ຂໍ້​ມູນ ແລະ "
+"ຈະ​ຜະ​ລິດ​ເປັນ​ບົດ​ລາຍ​ງານ​ທີ່​ມີ​​ມູນ​ຄ່າ​ຂໍ້​ມູນສະ​ສົມ"
+
+#: intro_resource
+msgid ""
+"View and add resources. These resources can be uploaded documents or URLs on "
+"the web."
+msgstr ""
+"ກວດ​ເບີ່ງ ແລະ​ຕື່ມ​ແຫ່ງ​ທີ່​ມາ. ແຫ່ງ​ທີ່​ມາ​ອາດ​ຈະ uploaded "
+"ເອົາ​ຢູ່​ໃນ​ເອ​ກະ​ສານ ຫລື ຈະ​ເອົາ​ມາ​ຈາກ​ແວບ​ໃຊ URLs"
+
+#: intro_tally_sheet_generator
+msgid ""
+"Generate tally sheets, which can be printed and used to collect data in the "
+"field."
+msgstr ""
+"ສ້າງ​ຕາ​ຕະ​ລາງ​ຂີດ​ນັບ, "
+"ທີ່​ສາ​ມາດ​ພິມ​ອອກ​ມາ​ເພື່ອ​ໄຊ້​ໃນ​ການ​ເກັບ​ກຳ​ຂໍ້​ມູນ​ຢູ່​ພາກ​ສະ​ໜາມ"
+
+#: intro_pivot_table
+msgid ""
+"Browse pivot tables, which can be pivoted on any of the indicator, "
+"organisation unit and period dimensions."
+msgstr ""
+"​ສ້າງ​ຕາ​ຕະ​ລາງ​ຂໍ້​ມູນ ທີ່​ສາ​ມາດ​ເຫັນ​ໄດ້​ທັງ​ຕົວ​ຊິ​ວັດ, "
+"ຫົວ​ໜ່ວຍ​ການ​ຈັດ​ຕັ້ງ ແລະ ໄລ​ຍະ​ເວ​ລາ​ໃນ​ຫລາຍ​ຮູບ​ແບບ"
+
+#: intro_report_table
+msgid ""
+"Add and generate report tables. Report tables are customizable database "
+"tables which can be used as basis for reports."
+msgstr ""
+"Add and generate report tables. Report tables are customizable database "
+"tables which can be used as basis for reports."
+
+#: intro_reporting_rate_summary
+msgid ""
+"Browse the reporting rates of data sets by organisation unit and period "
+"based on various criteria for submission."
+msgstr ""
+"ເບີ່ງ​ອັດ​ຕາ​ການ​ລາຍ​ງານ​ຂອງ​ຊຸດ​ຂໍ້​ມຸນ ຕາມ​ຫົວ​ໜ່ວຍ​ການ​ຈັດ​ຕັ້ງ ແລະ "
+"ໄລ​ຍະ​ເວ​ລາ​ອີງ​ໃສ່​ເງື່ອນ​ໄຂ​ຕ່າງ​ທີ່​ຕ້ອງ​ການ​ໃຫ້​ສົ່ງ​ບົດ​ລາຍ​ງານ"
+
+#: intro_orgunit_distribution_report
+msgid ""
+"Browse the organisation unit distribution report based on the organisation "
+"unit group sets and its groups."
+msgstr ""
+"​ເບີ່ງ​​ບົດ​ລາຍ​ງານ​ການ​ແຈກ​ຢາຍຫົວ​ໜ່ວຍ​ການ​ຈັດ​ຕັ້ງ​ອີງ​ໃສ່​​ກຸ່ມ​ຂອງຫົວ​ໜ່ວ"
+"ຍ​ການ​ຈັດ​ຕັ້ງ ແລະ ກຸມ​ຂອງ​ມັນ"
+
+#: intro_data_approval
+msgid ""
+"View data and manage data approval by approving or unapproving, accepting or "
+"unaccepting data."
+msgstr ""
+"​ເບີ່ງ​ຂໍ້​ມູນ ແລະ "
+"ການ​ຮັບ​ຮອງ​ການ​ບໍ​ລິ​ຫານ​ຂໍ້​ມູນ​ດ້ວຍ​ການ​ຮັຍ​ຮອງ​ຫລືບໍ່​ຮັຍ​ຮອງ, "
+"ການຍອມ​ຮັບ​ຫລື​ການບໍ່​ຍອມ​ຮັບ​ຂໍ້​ມູນ"
+
+#: orgunit_distribution_report
+msgid "Organisation Unit Distribution Report"
+msgstr "​ບົດ​ລາຍ​ງານ​ການ​ແຈກ​ຢາຍ​ຫົວ​ໜ່ວຍ​ການ​ຈັດ​ຕັ້ງ"
+
+#: get_current_design
+msgid "Get current design"
+msgstr "​ເອົາ​ຕາມ​ການ​ອອກ​ແບບ​ປະ​ຈຸ​ບັນ"
+
+#: organisation_unit_report
+msgid "Organisation Unit Report"
+msgstr "​ບົດ​ລາຍ​ງານ​ຫົວ​ໜ່ວຍ​ການ​ຈັດ​ຕັ້ງ"
+
+#: select_group_set
+msgid "Select group set"
+msgstr "​ເລືອກ​ເປັນ​ກຸ່ມ"
+
+#: orgunit_distribution
+msgid "Organisation unit distribution report"
+msgstr "​ບົດ​ລາຍ​ງານ​ການ​ແຈກ​ຢາຍ​ຫົວ​ໜ່ວຍ​ການ​ຈັດ​ຕັ້ງ"
+
+#: get_report
+msgctxt "get_report"
+msgid "Get report"
+msgstr "​ເອົາ​ບົດ​ລາຍ​ງານ"
+
+#: get_chart
+msgid "Get chart"
+msgstr "​ເອົາ chart"
+
+#: group_set
+msgid "Group set"
+msgstr "ກຸ່ມຂອງກຸ່ມ"
+
+#: select_org_unit
+msgid "Select organisation unit"
+msgstr "ເລືືອກໂຄງຮ່າງການຈັດຕັ້ງ"
+
+#: get_report
+msgctxt "get_report"
+msgid "Get report"
+msgstr "​ເອົາ​ບົດ​ລາຍ​ງານ"
+
+#: get_report_as_xls
+msgid "Download as Excel"
+msgstr "ດາວໂຫຼດເປັນ excel"
+
+#: get_report_as_csv
+msgid "Download as CSV"
+msgstr "ດາວໂຫຼດເປັນ CSV"
+
+#: get_report_as_pdf
+msgid "Download as PDF"
+msgstr "ດາວໂຫຼດເປັນ PDF"
+
+#: get_report_as_jasper
+msgid "Download as Report"
+msgstr "ດາວໂຫຼດເປັນ ບົດລາຍງານ"
+
+#: get_report_as_jrxml
+msgid "Download as JRXML"
+msgstr "ດາວໂຫຼດເປັນ JRXML"
+
+#: select_category_combo
+msgctxt "select_category_combo"
+msgid "Select category combination"
+msgstr "​ເລືອກ​ເອົາ category ທີ່​ມີ​ການ​ປະ​ສົມ​ເອົາ"
+
+#: sort_order
+msgid "Sort order"
+msgstr "ລຽງລຳດັບ"
+
+#: ascending
+msgid "Low to high"
+msgstr "ລຸ່ມຂື້ນເທີງ"
+
+#: descending
+msgid "High to low"
+msgstr "ເທີງລົງລຸ່ມ"
+
+#: top_limit
+msgid "Top limit"
+msgstr "ຂໍ້​ຈຳ​ກັດ​ສູງ​ສຸດ"
+
+#: data_type
+msgid "Data type"
+msgstr "ປະເພດຂໍ້ມູນ"
+
+#: indicator
+msgid "Indicator"
+msgstr "ຕົວຊີ້ວັດ"
+
+#: data_element_group
+msgid "Data element group"
+msgstr "ກຸ່ມຂອລອົງປະກອບຂໍ້ມູນ"
+
+#: grand_parent_organisation_unit
+msgid "Grand parent organisation unit"
+msgstr "​ຫົວ​ໜ່ວຍ​ການ​ຈັດ​ຕັ້ງ​ຂັ້ນ​ສູນ​ກາງ"
+
+#: available_reporting_rates
+msgid "Available reporting rates"
+msgstr "​ບົດ​ລາຍ​ງານ​ກ່ຽວ​ກັບ​ອັດ​ຕາ​ການ​ລາຍ​ງານ​ທີ່​ມີ"
+
+#: selected_reporting_rates
+msgid "Selected reporting rates"
+msgstr "​ເລືອກ​ເອົາ​ບົດ​ລາຍ​​ງານ​ອັດ​ຕາ​ການ​ລາຍ​ງານ"
+
+#: toggle_fixed_periods
+msgid "Toggle fixed periods"
+msgstr "ໄລ​ຍະ​ເວ​ລາ​ທີ່​ໄດ້​ກຳ​ນົດ​ໄວ້​ແລ້ວ"
+
+#: toggle_fixed_organisation_units
+msgid "Toggle fixed organisation units"
+msgstr "​ຫົວ​ໜ່ຍ​ການ​ຈັດ​ຕັ້ງ​ທີ່​ໄດ້​ກຳ​ນົດ​ໄວ້​ແລ້ວ"
+
+#: group
+msgid "Group"
+msgstr "ກຸ່ມ"
+
+#: groups
+msgid "Groups"
+msgstr "ກຸ່ມ"
+
+#: confirm_delete
+msgid "Are you sure you want to delete this object?"
+msgstr "ທ່ານແນ່ໃຈທີ່ຈະລົບບໍ?"
+
+#: leaf_parent_organisation_unit
+msgid "Leaf organisation units"
+msgstr "​ຫົວ​ໜ່ວຍ​ການ​ຈັດ​ຕັ້ງ​ທີ່​ໄດ້​ຍັງ​ເຫລືອ"
+
+#: reporting_bimonth
+msgid "Reporting bimonth"
+msgstr "​ບົດ​ລາຍ​ງານ​ທຸກໆ ສອງ​ເດືອນ"
+
+#: last_6_bimonths
+msgid "Last 6 bimonths"
+msgstr "​ບົດ​ລາຍ​ງານ​ທຸກໆ  ສອງເດືອນ ໃນ ​ຫົກ ເດືອນ"
+
+#: reporting_quarter
+msgid "Reporting quarter"
+msgstr "ລາຍງານໄຕມາດ"
+
+#: include_organisation_unit_group_sets
+msgid "Include org unit group sets param"
+msgstr "Include org unit group sets param"
+
+#: reporting_period
+msgctxt "reporting_period"
+msgid "Reporting period"
+msgstr "​ໄລ​ຍະ​ເວ​ລາ​ການ​ລາຍ​ງານ"
+
+#: last_5_years
+msgid "Last 5 years"
+msgstr "5 ປີຜ່ານມາ"
+
+#: last_12_months
+msgid "Last 12 months"
+msgstr "12 ເດືອນຜ່ານມາ"
+
+#: last_4_quarters
+msgid "Last 4 quarters"
+msgstr "4 ໄຕມາດຜ່ານມາ"
+
+#: reporting_rate_summary
+msgid "Reporting Rate Summary"
+msgstr "ລາຍງານແບບຟອມ"
+
+#: available_organisation_unit_groups
+msgid "Available organisation unit groups"
+msgstr "Available organisation unit groups"
+
+#: selected_organisation_unit_groups
+msgid "Selected organisation unit groups"
+msgstr "ເລືອກກຸ່ມໂຄງຮ່າງການຈັດຕັ້ງ"
+
+#: start_date
+msgctxt "start_date"
+msgid "Start date"
+msgstr ""
+
+#: end_date
+msgctxt "end_date"
+msgid "End date"
+msgstr ""
+
+#: start_export
+msgid "Start export"
+msgstr "ນຳອອກ"
+
+#: period_types
+msgid "Period types"
+msgstr "ແບບ ຊ່ວງເວລາ"
+
+#: include_cumulative
+msgid "Include cumulative"
+msgstr "​ລວມ​ເອົາ​ທັງ​ການ​ສະ​ສົມ"
+
+#: include_regression
+msgid "Include regression"
+msgstr "​ລວມ​ທັງ​ອັນທີ່​ຊ້ຳ​ກັນ"
+
+#: print
+msgid "Print"
+msgstr "ພີມອອກ"
+
+#: reporting_period
+msgctxt "reporting_period"
+msgid "Reporting period"
+msgstr "​ໄລ​ຍະ​ເວ​ລາ​ການ​ລາຍ​ງານ"
+
+#: completed_by
+msgid "Completed by"
+msgstr "​ສຳ​ເລັດ​ໂດຍ"
+
+#: view_resource
+msgid "View resource"
+msgstr "​ເບີ່ງ​ຄືນ​ແຫລ່ງ​ທີ່​ມາ"
+
+#: this_financial_year
+msgid "This financial year"
+msgstr "​ສົກ​ປີ​ງົບ​ປະ​ມານນີ້"
+
+#: last_financial_year
+msgid "Last financial year"
+msgstr "​ສົກ​ປີ​ງົບ​ປະ​ມານ​ປີ​ກາຍ"
+
+#: last_5_financial_years
+msgid "Last 5 financial years"
+msgstr "​ສົກ​ປິ​ງົບ​ປະ​ມານ 5ປີ​ຜ່ານ​ມາ"
+
+#: financial_yearly
+msgid "Financial Yearly"
+msgstr "​ສົກ​ປີ​ງົບ​ປະ​ມານ"
+
+#: please_specify_file
+msgid "Please specify a design file"
+msgstr "ກາ​ລຸນາ​ກຳ​ນົດ​ຟາຍ​ອອກ​ແບບ"
+
+#: jasper_design
+msgid "Jasper design"
+msgstr "​ການ​ອອກ​ແບບ ຈັ​ສະ​ເປີ"
+
+#: write_your_interpretation
+msgid "Write a comment, question or interpretation"
+msgstr "​ຂ​ຍນ​ຄຳ​ເຫັນ, ຄຳ​ຖາມ ຫລື ການ​ແປ​ຜົນ"
+
+#: share
+msgid "Share"
+msgstr "ແຈກ"
+
+#: share_your_interpretation
+msgid "Share your interpretation"
+msgstr "​ແຊ​ການ​ແປ​ຜົນ​ໃຫ້​ຜູ້​ອື່ນ​ນຳ"
+
+#: interpretation_was_shared
+msgid "Interpretation was shared"
+msgstr "​ການ​ແປ​ຜົນ​ໄດ້​ຮັບ​ການ​ແຊ"
+
+#: last_3_months
+msgid "Last 3 months"
+msgstr "Last 3 months"
+
+#: get_report_template
+msgid "Get report template"
+msgstr "Get report template"
+
+#: actual_reports
+msgid "Actual Reports"
+msgstr "Actual Reports"
+
+#: expected_reports
+msgid "Expected Reports"
+msgstr "Expected Reports"
+
+#: percent
+msgid "Percent"
+msgstr "Percent"
+
+#: reports_on_time
+msgid "Reports On Time"
+msgstr "​ບົດ​ລາຍ​ງານ​ທີ່​ທັນ​ກັບ​ເວ​ລາ"
+
+#: percent_on_time
+msgid "Percent On Time"
+msgstr "​ເປີ​ເຊັນ​ບົດ​ລາຍ​ງານ​ທີ່​ທັນ​ກັບ​ເວ​ລາ"
+
+#: view_all
+msgid "View all"
+msgstr "​ກວດ​ເບີ່ງ​ທັງ​ໝົດ"
+
+#: write_your_interpretation_of_report
+msgid "Write a comment, question or interpretation of this report"
+msgstr "​ຂຽນ​ຄຳ​ເຫັນ, ຄຳ​ຖາມ ຫລື ການ​ແປ​ຜົນ​ຂອງ​ບົດ​ລາຍ​ງານນີ້"
+
+#: jasper_report_report_table_data_source
+msgid "Jasper report with report table data source"
+msgstr "​ບົດ​ລາຍ​ງານ ຈັ​ສ​ເປີ ກັບ​ຕາ​ຕະ​ລາງ​ແຫ່ງ​ຂໍ້​ມູນ"
+
+#: jasper_report_jdbc_data_source
+msgid "Jasper report with JDBC data source"
+msgstr "​​ບົດ​ລາຍ​ງານ ຈັ​ສ​ເປີ ກັບ JDBC ແຫຼ່ງ"
+
+#: html_report
+msgid "HTML report"
+msgstr "​ລາຍ​ງານ​ດ້ວຍ HTML"
+
+#: design_file
+msgid "Design file"
+msgstr "ຟາຍ​ການ​ອອກ​ແບບ"
+
+#: get_jasper_report_template
+msgid "Get Jasper report template"
+msgstr "​ເອົາ​ບົດ​ລາຍ​ງານ​ແບບ Jasper "
+
+#: get_html_report_template
+msgid "Get HTML report template"
+msgstr "ເອົາ​ບົດ​ລາຍ​ງານ ແບບ HTML"
+
+#: analytics_tables_management
+msgid "Analytics tables management"
+msgstr ""
+
+#: analytics_tables
+msgid "Analytics tables"
+msgstr "​ຕາ​ຕະ​ລາງ​ການ​ວິ​ໄຈ"
+
+#: analytics_tables_update
+msgid "Analytics tables update"
+msgstr "​ປັບ​ປຸງ​ຄືນ​ຕາ​ຕະ​ລາງວິ​ໄຈ"
+
+#: aggregation_period_types
+msgid "Aggregation period types"
+msgstr "​ການ​ສັງ​ລວມ​ໄລ​ຍະ​ເວ​ລາປະ​ເພດ​​ຕ່າງໆ"
+
+#: analytics
+msgid "Analytics"
+msgstr ""
+
+#: approve
+msgid "Approve"
+msgstr "​ການ​ຮັບ​ຮອງ"
+
+#: unapprove
+msgid "Unapprove"
+msgstr "​ການບໍ່​ຮັບ​ຮອງ"
+
+#: accept
+msgid "Accept"
+msgstr "​ການ​ຮັບ​ຮອງ"
+
+#: unaccept
+msgid "Unaccept"
+msgstr "ບໍ່​ຍອມ​ຮັບ"
+
+#: waiting_for_lower_level_approval
+msgid "Waiting for lower levels to approve"
+msgstr "​ລໍ​ຖ້າ​ໃຫ້​ຂັ້ນ​ລຸ່ມ​ລົງ​ໄປ​ຮັບ​ຮອງ​ກ່ອນ"
+
+#: approved_at_a_higher_level
+msgid "Approved at a higher level"
+msgstr ""
+
+#: approved
+msgid "Approved"
+msgstr "​ຮັບ​ຮອງ"
+
+#: approved_and_accepted
+msgid "Approved and accepted"
+msgstr "​ໄດ້​ຮັບ​ຮອງ ແລະ ຮັບ​ເອົາ​ແລ້ວ"
+
+#: ready_for_approval_at_a_higher_level
+msgid "Ready for approval at a higher level"
+msgstr ""
+
+#: ready_for_approval
+msgid "Ready for approval"
+msgstr "​ກຽມ​ພ້ອມ​ເພື່ອ​ການ​ຮັບ​ຮອງ"
+
+#: approval_not_relevant
+msgid "Approval not relevant"
+msgstr "ບໍ່​ໄດ້​ພົວ​ພັນ​ກັບ​ການ​ຮັບ​ຮອງ"
+
+#: waiting_for_approval_elsewhere
+msgid "Waiting for approval elsewhere"
+msgstr "​ກຳ​ລັງ​ລໍ​ຖ້າ​ການ​ຮັບ​ຮອງ​ຢູ່​ບ່ອນ​ໄດ​ບ່ອນ​ນື່ງ"
+
+#: approved_elsewhere
+msgid "Approved elsewhere"
+msgstr "​ຮັບ​ຮອງ​ເອົາ​ແລ້ວ​ຢູ່​ບ່ອນ​ໄດ​ບ່ອນ​ນື່ງ"
+
+#: accepted_elsewhere
+msgid "Accepted elsewhere"
+msgstr "​ຮັບ​ຮອງ​ເອົາ​ຢູ່​ບ່ອນ​ໃດ​ບ່ອນ​ນື່ງ"
+
+#: approved_for_part_of_this_period
+msgid "Approved for part of this period"
+msgstr "​ຮັບ​ຮອງ​ເອົາ​ສ່ວນ​ຂອງ"
+
+#: accepted_for_part_of_this_period
+msgid "Accepted for part of this period"
+msgstr "​ຮັບ​ຮອງ​ເອົາ​ສ່ວນ​ຂອງ​ໄລ​ຍະ​ເວ​ລານີ້"
+
+#: approved_elsewhere_for_part_of_this_period
+msgid "Approved elsewhere for part of this period"
+msgstr "​ໄລ​ຍະ​ເວ​ລານີ້​ແມ່ນ​ໄດ້​ຖືກ​ຮັບ​ຮອງ​ເອົາ​ຢູ່​ບ່ອນ​ໄດ​ບ່ອ​ນ​ນື່ງ"
+
+#: accepted_elsewhere_for_part_of_this_period
+msgid "Accepted elsewhere for part of this period"
+msgstr "​ໄລ​ຍະ​ເວ​ລາ​ນີ​ແມ່ນ​ໄດ້​ຮັບ​ຮອງ​ເອົາ​ຢູ່​ບ່ອນ​ໄດ​ບ່ອນ​ນື່ງ"
+
+#: confirm_approval
+msgid "Are you sure you want to approve this data set?"
+msgstr "​ທ່ານ​ໝັ້ນ​ໃຈ​ບໍ່​ທີ່​ຈະ​ຮັບ​ຮອງ​ເອົາ​ຊຸດ​ຂໍ້​ມູນນີ້"
+
+#: confirm_unapproval
+msgid "Are you sure you want to unapprove this data set?"
+msgstr "​ທ່ານ​ໝັ້ນ​ໃຈ​ບໍ່​ທີ່​ຈະ​ບໍ່​ຮັບ​ຮອງ​ເອົາ​ຊຸດ​ຂໍ້​ມູນນີ້"
+
+#: confirm_accept
+msgid "Are you sure you want to accept this data set approval?"
+msgstr "​ທ່ານ​ໝັ້ນ​ໃຈ​ບໍ່​ວ່າ​ທີ່​ຈະ​ຮັບ​​ຮອງ​ເອົາຊຸດ​ຂໍ້​ມູນນີ້"
+
+#: confirm_unaccept
+msgid "Are you sure you want to unaccept this data set approval?"
+msgstr "​ທ່ານ​ໝັ້ນ​ໃຈ​ບໍ່​ວ່າ​ທີ່​ຈະ​ບໍ່​ຮັບ​ເອົາ​ຊຸດ​ຂໍ້​ມູນ​ຮັບ​ຮອງນີ້"
+
+#: approval_entity
+msgid "Approval entity"
+msgstr "​ຮັບ​ຮອງ​ເອົາ​ທັງ​ໝົດ"
+
+#: approval_status
+msgid "Approval status"
+msgstr "​ສະ​ພາບ​ການ​ຮັບ​ຮອງ"
+
+#: please_make_selection
+msgid "Please make a selection below"
+msgstr "​ກະ​ລຸ​ນາ​ເລືອກ​ດັ່ງ​ລຸ່ມນີ້"
+
+#: data_criteria
+msgid "Data criteria"
+msgstr "​ມາດ​ຕະ​ຖານ​ເງື່ອນ​ໄຂ​ຂໍ້​ມູນ"

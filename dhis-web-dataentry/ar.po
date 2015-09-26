@@ -1,0 +1,500 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-dataentry/src/main/resources/org/hisp/dhis/de/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-dataentry/src/main/resources/org/hisp/dhis/de/i18n_module_ar.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: dataelement_comment
+msgid "Comment"
+msgstr "التعليق"
+
+#: history_not_valid
+msgid "No history for this data element"
+msgstr "لايوجد سابقة لهذا العنصر "
+
+#: data_element
+msgid "Data element"
+msgstr "عنصر البيانات"
+
+#: min
+msgid "Min"
+msgstr "الحد الأدنى"
+
+#: entry
+msgid "Entry"
+msgstr "إدخال"
+
+#: max
+msgid "Max"
+msgstr "الحد الأقصى"
+
+#: timestamp
+msgid "Timestamp"
+msgstr "ختم بالتاريخ"
+
+#: stored_by
+msgid "Stored by"
+msgstr "تم التخزين بـ"
+
+#: stored_date
+msgid "Stored date"
+msgstr "تاريخ التخزين"
+
+#: last_updated
+msgid "Last updated"
+msgstr "آخر تحديث"
+
+#: update
+msgid "Update"
+msgstr "تحديث"
+
+#: delete
+msgid "Delete"
+msgstr "حذف"
+
+#: no_value
+msgid "No value"
+msgstr "لا توجد قيمة"
+
+#: maximum
+msgid "Maximum"
+msgstr "الحد الأقصى"
+
+#: organisation_unit
+msgid "Organisation Unit"
+msgstr "وحدة المنظمة"
+
+#: data_set
+msgid "Data Set"
+msgstr "فئة البيانات"
+
+#: select
+msgid "Select"
+msgstr "الاختيار"
+
+#: period
+msgid "Period"
+msgstr "الفترة"
+
+#: form_field
+msgid "Form field"
+msgstr "حقل الاستمارة"
+
+#: filter_on_section
+msgid "Filter on section"
+msgstr "ترشيح على القسم"
+
+#: filter_in_section
+msgid "Filter in section"
+msgstr "ترشيح في القسم"
+
+#: show_all_sections
+msgid "Show all sections"
+msgstr "اظهار جميع الأقسام"
+
+#: show_all_items
+msgid "Show all items"
+msgstr "إظهار جميع البنود"
+
+#: earlier_periods
+msgid "Earlier periods"
+msgstr "الفترات السابقة"
+
+#: later_periods
+msgid "Later periods"
+msgstr "الفترات اللاحقة"
+
+#: value_of_data_element_less
+msgid ""
+"The value of the following data element is less than the specified minimum "
+"value."
+msgstr "قيمة عنصر البيانات التالية هو أقل من قيمة الحد الأدنى المقبول"
+
+#: value_of_data_element_greater
+msgid ""
+"The value of the following data element is greater than the specified "
+"maximum value."
+msgstr "قيمة عنصر البيانات التالية أكبر من قيمة الحد الأقصى المقبول "
+
+#: saving_value_failed_status_code
+msgid "Saving value failed with status code"
+msgstr "فشل حفظ القيمة مع رمز الحالة"
+
+#: saving_value_failed_dataset_is_locked
+msgid "Data set is locked, please contact admin"
+msgstr "مجموعة البيانات مقفلة، يرجى الاتصال بالمشرف"
+
+#: saving_comment_failed_status_code
+msgid "Saving comment failed with status code"
+msgstr "فشل حفظ التعليق مع رمز الحالة"
+
+#: saving_comment_failed_error_code
+msgid "Saving comment failed with error code"
+msgstr "فشل حفظ التعليق مع رمز الخطأ"
+
+#: saving_minmax_failed_error_code
+msgid "Saving min/max values failed with error code"
+msgstr "فشل حفظ قيم الحد الأقصى والحد الأدنى مع رمز الخطأ"
+
+#: move
+msgid "Move"
+msgstr "نقل"
+
+#: date
+msgid "Date"
+msgstr "التاريخ"
+
+#: min_limit
+msgid "Min limit"
+msgstr "الحد الأدنى"
+
+#: max_limit
+msgid "Max limit"
+msgstr "الحد الأقصى"
+
+#: dataelement_history
+msgid "Data element history"
+msgstr "سابقة عنصر التاريخ"
+
+#: audit_trail
+msgid "Audit trail"
+msgstr "اثار التدقيق "
+
+#: nr
+msgid "Nr"
+msgstr "رقم"
+
+#: min_max_limits
+msgid "Min-max limits"
+msgstr "الحدود الدنيا والقصوى"
+
+#: run_validation
+msgid "Run validation"
+msgstr "التحقق من الصحة"
+
+#: validation_result
+msgid "Validation Result"
+msgstr "نتيجة التحقق من الصحة"
+
+#: expression
+msgid "Expression"
+msgstr "التعبير"
+
+#: successful_validation
+msgid "The data entry screen successfully passed validation"
+msgstr "شاشة إدخال البيانات نجحت فى التحقق من الصحة"
+
+#: data_entry_screen_has_following_errors
+msgid ""
+"The data entry screen has the following validation errors, please correct"
+msgstr ""
+"شاشة إدخال البيانات بها أخطاء التحقق من الصحة التالية، برجا تصحيحها قبل "
+"المواصلة"
+
+#: the_following_values_are_outliers
+msgid ""
+"The following values are considered as outliers (min-max or std dev), please "
+"correct"
+msgstr ""
+
+#: the_following_fields_require_comment
+msgid "The following input fields require a comment, please enter"
+msgstr "حقول الادخال التالية تحتاج تعليق، من فضلك ادخل "
+
+#: the_following_values_violate_rules
+msgid "The following values violate validation rules"
+msgstr "القيم التالية تخرق قواعد التحقق من الصحة"
+
+#: value
+msgctxt "value"
+msgid "Value"
+msgstr "القيمة"
+
+#: operator
+msgid "Operator"
+msgstr "المشغل"
+
+#: no_organisationunit_selected
+msgid "No Organisation Unit Selected"
+msgstr "لم يتم اختيار وحدة المنظمة"
+
+#: no_period_selected
+msgid "No Period Selected"
+msgstr "لم يتم اختيار الفترة"
+
+#: no_dataelement_selected
+msgid "No Data Element Selected"
+msgstr "لم يتم اختيار عنصر البيانات"
+
+#: dataset_is_locked
+msgid "Data set is locked"
+msgstr "فئة البيانات مغلقة"
+
+#: complete
+msgid "Complete"
+msgstr "مكتملة"
+
+#: incomplete
+msgid "Incomplete"
+msgstr "غير مكتملة"
+
+#: confirm_complete
+msgid "Are you sure this data set is complete?"
+msgstr ""
+
+#: confirm_undo
+msgid "Are you sure you will undo the registration?"
+msgstr "هل أنت متأكد من أنك ستلغي التسجيل؟"
+
+#: data_entry
+msgid "Data Entry"
+msgstr "إدخال البيانات"
+
+#: followup
+msgid "Follow-up"
+msgstr "المتابعة"
+
+#: validation_rule
+msgid "Validation rule"
+msgstr "قاعدة التحقق من الصحة"
+
+#: register_complete_dataset_success
+msgid "Registered complete data set"
+msgstr ""
+
+#: register_complete_dataset_failed
+msgid "Register complete data set failed"
+msgstr ""
+
+#: undo_register_complete_dataset_success
+msgid "Undo register complete data set success"
+msgstr ""
+
+#: datavalue_history
+msgctxt "datavalue_history"
+msgid "Data value history"
+msgstr ""
+
+#: enter_digits
+msgid "Enter digit only."
+msgstr "ادخل أرقام  فقط"
+
+#: value_is_too_long
+msgid "Value is too long"
+msgstr "القيمة طويلة جدا"
+
+#: field_unallowed_save_zero
+msgid ""
+"This element does not permit 0 values. The original value will not be "
+"affected."
+msgstr "العنصر لا يسمح بقيمة الصفر . القيمة الأصلية لن تتأثر"
+
+#: datavalue_history
+msgctxt "datavalue_history"
+msgid "Data value history"
+msgstr ""
+
+#: max_must_be_greater_than_min
+msgid "Max must be greater than min"
+msgstr "الحد الأقصى يجب أن يكون أكبر من الحد الأدنى"
+
+#: next
+msgid "Next"
+msgstr "التالي"
+
+#: prev
+msgid "Prev"
+msgstr "السابق"
+
+#: select_from_tree
+msgid "Select from tree on the left side"
+msgstr "اختر من القائمة على الجانب الأيمن"
+
+#: select_data_set
+msgid "Select data set"
+msgstr "اختر مجموعة البيانات"
+
+#: select_period
+msgid "Select period"
+msgstr "اختر فترة"
+
+#: select_option
+msgid "Select option"
+msgstr "اختر خيارا"
+
+#: change_from
+msgid "change from"
+msgstr "التغير من"
+
+#: modification
+msgid "Modification"
+msgstr "تغييرات"
+
+#: modified_by
+msgid "Modified by"
+msgstr "تم تعديله بواسطة"
+
+#: to
+msgid "to"
+msgstr "إلى"
+
+#: on
+msgid "On"
+msgstr "في"
+
+#: value
+msgctxt "value"
+msgid "Value"
+msgstr "القيمة"
+
+#: no_response_from_server
+msgid "No response from server, please check connectivity and try again"
+msgstr "لا توجد استجابة من الخادم، الرجاء مراجعة الاتصل والمحاولة مرة أخرى"
+
+#: save
+msgid "Save"
+msgstr "الحفظ"
+
+#: save_comment
+msgid "Save comment"
+msgstr "حفظ التعليق"
+
+#: operation_not_available_offline
+msgid "This operation is not available in off-line mode"
+msgstr "هذه العملية غير متاحة في نسق عدم الاتصال بالانترنت"
+
+#: mark_value_for_followup
+msgid "Mark value for follow-up"
+msgstr "حدد قيمة للمتابعة"
+
+#: unmark_value_for_followup
+msgid "Un-mark value for follow-up"
+msgstr "الغ تحديد قيمة المتابعة"
+
+#: completed_by
+msgid "Completed by"
+msgstr "تم الاستكمال عن طريق"
+
+#: at
+msgid "at"
+msgstr "في"
+
+#: prev_year
+msgid "Prev year"
+msgstr "السنة السابقة"
+
+#: next_year
+msgid "Next year"
+msgstr "السنة القادمة"
+
+#: see_details
+msgid "See details"
+msgstr "انظر التفاصيل"
+
+#: username
+msgid "Username"
+msgstr "اسم المستخدم"
+
+#: user_roles
+msgid "User roles"
+msgstr "أدوار المستخدمين"
+
+#: register_complete_failed_dataset_is_locked
+msgid "Data set is locked, registration failed, please contact admin"
+msgstr "فئة البيانات مغلقة، فشل التسجيل، الرجاء الاتصال بالمشرف"
+
+#: unregister_complete_failed_dataset_is_locked
+msgid "Data set is locked, un-registration failed, please contact admin"
+msgstr "فئة البيانات مغلقة، فشل إلغاء التسجيل، الرجاء الاتصال بالمشرف"
+
+#: dataelement_with_id
+msgid "Data element with identifier"
+msgstr "عنصر البيانات مع العامل المحدد"
+
+#: category_option_combo_with_id
+msgid "Category option combination identifier"
+msgstr "العامل المحدد لتركيبة اختيار المجموعة"
+
+#: does_not_exist
+msgid "does not exist"
+msgstr "لا توجد"
+
+#: does_not_exist_in_data_set
+msgid "does not exist in data set"
+msgstr ""
+
+#: insert_input_fields_into_the_form
+msgid "Insert input fields into the form"
+msgstr "ادخل حقول المدخلات في النموذج"
+
+#: select_data_element
+msgid "Select data element"
+msgstr "اختر عنصر البيانات"
+
+#: all_values_for_data_element_must_be_filled
+msgid ""
+"This form requires that all fields for a data element must be filled, please "
+"correct this before continuing."
+msgstr ""
+"هذا النموذج يتطلب ملء جميع حقول عنصر البيانات، الرجال التصحيح قبل الاستمرار"
+
+#: childrens_forms
+msgid "Sub Organisation Units"
+msgstr "وحدات المنظمة الفرعية"
+
+#: left_side
+msgid "Left side"
+msgstr "الجهة اليمنى"
+
+#: right_side
+msgid "Right side"
+msgstr "الجهة اليسرى"
+
+#: no_periods_click_prev_year_button
+msgid "No periods, click \"Prev year\" button"
+msgstr "لا توجد فترات، انقر على زر السنة السابقة"
+
+#: print
+msgid "Print"
+msgstr "اطبع"
+
+#: view_comment
+msgid "View comment"
+msgstr "انظر التعليق"
+
+#: no_orgunits
+msgid "No organisation unit attached to current user, no data entry possible"
+msgstr "لم يتم  ارفاق وحدة تنظيم مع المستخدم الحالي ، لا يمكن ادخال البيانات"
+
+#: validation_rules_are_being_processed_please_wait
+msgid "Validation rules are being processed, please wait"
+msgstr "قواعد التصحيح يتم معالجتها، الرجاء الانتظار"
+
+#: section
+msgid "Section"
+msgstr "القسم"
+
+#: print_form
+msgid "Print form"
+msgstr "نموذج الطباعة"
+
+#: print_blank_form
+msgid "Print blank form"
+msgstr "اطبع نموذج فارغ"
+
+#: instruction
+msgid "Instruction"
+msgstr "تعليمات"
+
+#: there_is_no_audit_trail_for_this_value
+msgid "There is no audit trail for this value"
+msgstr "لا يوجد اقتفاء تدقيق لهذه القيمة "

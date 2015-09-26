@@ -1,0 +1,717 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-validationrule/src/main/resources/org/hisp/dhis/validationrule/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-validationrule/src/main/resources/org/hisp/dhis/validationrule/i18n_module_tg.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: group_members
+msgid "Group Members"
+msgstr ""
+
+#: available_data_elements
+msgid "Available data elements"
+msgstr ""
+
+#: saving_validation_rule_failed
+msgid "Saving Validation Rule failed"
+msgstr "Қоидаи санҷиши эътибори ришта иҷро нашуд"
+
+#: operator
+msgid "Operator"
+msgstr "Оператор"
+
+#: adding_validation_rule_failed
+msgid "Adding validation rule failed"
+msgstr "Иловаи қоидаи санҷиши эътибор иҷро нашуд"
+
+#: validation_failed
+msgid "Validation failed"
+msgstr "Санҷиши эътибор иҷро нашуд"
+
+#: right_side
+msgid "Right side"
+msgstr "Тарафи рост"
+
+#: left_side
+msgid "Left side"
+msgstr "Тарафи чап"
+
+#: left_brackets
+msgid "Left brackets"
+msgstr "Қавсҳои чап"
+
+#: right_brackets
+msgid "Right brackets"
+msgstr "Қавсҳои рост"
+
+#: multiply
+msgid "Multiply"
+msgstr "Зарб"
+
+#: divide
+msgid "Divide"
+msgstr "Тақсим"
+
+#: plus
+msgid "Plus"
+msgstr "Ҷамъи"
+
+#: minus
+msgid "Minus"
+msgstr "Тарҳ"
+
+#: no_of_days
+msgid "Number of days"
+msgstr "Шумораи рӯзҳо"
+
+#: specify_left_side
+msgid "Please specify the left side"
+msgstr "Лутфан тарафи чапро нишон диҳед"
+
+#: specify_right_side
+msgid "Please specify the right side"
+msgstr "Лутфан тарафи ростро нишон диҳед"
+
+#: specify_operator
+msgid "Please specify an operator"
+msgstr "Лутфан оператореро нишон диҳед"
+
+#: specify_name
+msgid "Please specify a name"
+msgstr "Лутфан номеро нишон диҳед"
+
+#: specify_a_start_date
+msgid "Please specify a start date"
+msgstr "Лутфан санаи оғозеро нишон диҳед"
+
+#: specify_an_ending_date
+msgid "Please specify an ending date"
+msgstr "Лутфан санаи анҷомеро нишон диҳед"
+
+#: specify_description
+msgctxt "specify_description"
+msgid "Please specify a description"
+msgstr "Лутфан тавсиферо нишон диҳед"
+
+#: specify_expression
+msgctxt "specify_expression"
+msgid "Please specify an expression"
+msgstr "Лутфан ифодаеро нишон диҳед"
+
+#: enter_a_valid_start_date
+msgid "Please enter a valid start date"
+msgstr "Лутфан санаи оғози дурустеро нишон диҳед"
+
+#: enter_a_valid_ending_date
+msgid "Please enter a valid end date"
+msgstr "Лутфан санаи анҷоми дурустеро нишон диҳед"
+
+#: end_date_cannot_be_before_start_date
+msgid "End date can not be before start date"
+msgstr "Санаи анҷом наметавонад пеш аз санаи оғоз бошад"
+
+#: name_in_use
+msgid "The name is in use"
+msgstr "Ном истифода мешавад"
+
+#: dataelements_left_must_be_type_integers
+msgid "The data elements on the left side must be of type numbers"
+msgstr "Унсурҳои иттилоот дар тарафи чап бояд ададҳо бошанд"
+
+#: dataelements_right_must_be_type_integers
+msgid "The data elements on the right side must be of type numbers"
+msgstr "Унсурҳои иттилоот дар тарафи рост бояд ададҳо бошанд"
+
+#: create_new_validation_rule
+msgid "Create new validation rule"
+msgstr "Сохтани қоидаи нави санҷиши эътибор"
+
+#: validate
+msgid "Validate"
+msgstr "Санҷиши эътибор"
+
+#: confirm_delete_validation_rule
+msgid "Are you sure you want to delete the validation rule?"
+msgstr "Оё боварӣ доред, ки ин қоидаи санҷиши эътиборро нест кардан мехоҳед?"
+
+#: confirm_delete_validation_rule_group
+msgid "Are you sure you want to delete the validation rule group?"
+msgstr ""
+"Оё боварӣ доред, ки ин гурӯҳи қоидаи санҷиши эътиборро нест кардан мехоҳед?"
+
+#: edit_left_side
+msgid "Edit left side"
+msgstr "Таҳрири тарафи рост"
+
+#: edit_right_side
+msgid "Edit right side"
+msgstr "Таҳрири тарафи чап"
+
+#: select_operator
+msgid "Select operator"
+msgstr "Интихоби оператор"
+
+#: left
+msgid "Left"
+msgstr "Чап"
+
+#: right
+msgid "Right"
+msgstr "Рост"
+
+#: textual_expression_description
+msgid "Textual expression description"
+msgstr "тавсифи ифодаи матнӣ"
+
+#: edit_validation_rule
+msgid "Edit validation rule"
+msgstr "Таҳрири қоидаи санҷиши эътибор"
+
+#: validation_rule
+msgid "Validation Rule"
+msgstr "Қоидаи санҷиши эътибор"
+
+#: run_validation
+msgid "Run validation"
+msgstr "Иҷро кардани санҷиши эътибор"
+
+#: validation_alerts
+msgctxt "validation_alerts"
+msgid "Validation alerts"
+msgstr ""
+
+#: value
+msgid "Value"
+msgstr "Қимат"
+
+#: data_element
+msgid "Data element"
+msgstr "Унсури иттилоот"
+
+#: organisation_unit
+msgid "Organisation unit"
+msgstr "Воҳиди сохторӣ"
+
+#: period
+msgid "Period"
+msgstr "Давра"
+
+#: source
+msgid "Source"
+msgstr "Маъхаз"
+
+#: done
+msgid "Done"
+msgstr "Иҷро шуд"
+
+#: validation
+msgctxt "validation"
+msgid "Validation"
+msgstr "Санҷиши эътибор"
+
+#: VALIDATION
+msgctxt "VALIDATION"
+msgid "Validation"
+msgstr ""
+
+#: data_quality_report
+msgid "Data quality report"
+msgstr "Ҳисобот оид ба сифати иттилоот"
+
+#: validation_result_details
+msgid "Validation result details"
+msgstr "Маълумоти муфассали натиҷаи санҷиши эътибор"
+
+#: validation_rule_
+msgid "Validation rule"
+msgstr "Қоидаи санҷиши эътибор"
+
+#: dataelement_id_not_numeric
+msgid "Data element identifier must be a number"
+msgstr "Идентификатори унсури иттилоот бояд адад бошад"
+
+#: category_option_combo_id_not_numeric
+msgid "Category option combo identifier must be a number"
+msgstr "Комбои имкони категория identifier must be a number"
+
+#: data_element_does_not_exist
+msgid "Identifier does not reference a data element"
+msgstr "Унсурҳои иттилоот вуҷуд надорад"
+
+#: category_option_combo_does_not_exist
+msgid "Identifier does not reference a category option combo"
+msgstr "Имкони комбои категория вуҷуд надорад"
+
+#: expression_not_well_formed
+msgid "Expression is not well formed"
+msgstr "Ифода хуб ташаккул дода нашудааст"
+
+#: everything_is_ok
+msgid "Everything is OK"
+msgstr "Ҳама чиз хуб аст"
+
+#: validation_rule_group_management
+msgid "Validation rule group management"
+msgstr "Идоракунии гурӯҳи қоидаҳои санҷиши эътибор"
+
+#: validation_rule_management
+msgid "Validation rule management"
+msgstr "Идоракуни қоидаҳои санҷиши эътибор"
+
+#: validation_rule_group
+msgid "Validation Rule Group"
+msgstr "Гурӯҳи қоидаҳои санҷиши эътибор"
+
+#: create_new_validation_rule_group
+msgid "Create new validation rule group"
+msgstr "Сохтани гурӯҳи қоидаҳои санҷиши эътибор"
+
+#: available
+msgid "Available"
+msgstr ""
+
+#: selected
+msgid "Selected"
+msgstr ""
+
+#: validation_rules
+msgid "Validation rules"
+msgstr ""
+
+#: user_groups_to_alert
+msgid "User groups to alert"
+msgstr ""
+
+#: alert_by_org_units
+msgid "Alert only organisation unit related users"
+msgstr ""
+
+#: yes
+msgid "Yes"
+msgstr ""
+
+#: no
+msgid "No"
+msgstr ""
+
+#: available_validation_rules
+msgid "Available validation rules"
+msgstr "Қоидаҳои санҷиши эътибори мавҷуда"
+
+#: edit_validation_rule_group
+msgid "Edit validation rule group"
+msgstr "Таҳрири гурӯҳи қоидаҳои санҷиши эътибор"
+
+#: all_validation_rules
+msgid "All validation rules"
+msgstr "Ҳама қоидаҳои санҷиши эътибор"
+
+#: validation_alerts
+msgctxt "validation_alerts"
+msgid "Validation alerts"
+msgstr ""
+
+#: validation_passed_successfully
+msgid "Validation passed successfully"
+msgstr "Санҷиши эътибор бомуваффақият иҷро шуд"
+
+#: outlier_analysis
+msgctxt "outlier_analysis"
+msgid "Outlier Analysis"
+msgstr ""
+
+#: from_date
+msgid "From date"
+msgstr "Аз санаи"
+
+#: to_date
+msgid "To date"
+msgstr "То санаи"
+
+#: std_dev
+msgid "Standard Deviation"
+msgstr "Тамоили стандартӣ"
+
+#: max
+msgid "Max"
+msgstr "Макс"
+
+#: min
+msgid "Min"
+msgstr "Мин"
+
+#: values_found
+msgid "values found"
+msgstr "қиматҳои ёфтшуда"
+
+#: select_std_dev
+msgid "Select number of standard deviations"
+msgstr "Интихоби шумораи тамоилҳои стандартӣ"
+
+#: select_parent_organisation_unit
+msgid "Select parent organisation unit"
+msgstr "Интихоби воҳиди сохтории болоӣ"
+
+#: outlier_analysis
+msgctxt "outlier_analysis"
+msgid "Outlier Analysis"
+msgstr ""
+
+#: no_values_found
+msgid "No values found"
+msgstr "Ягон қимат ёфт нашуд"
+
+#: intro_validation_rule
+msgid ""
+"Add, modify, view and delete validation rules. Anomalies can be discovered "
+"by running validation rules against the data."
+msgstr ""
+"Илова, тағйир, намоиш ва нест кардани қоидаҳои санҷиши эътибор. Аномалияҳоро "
+"тавассути ба иттилоот татбиқ кардани қоидаҳои санҷиши эътибор ошкор кардан "
+"мумкин аст."
+
+#: intro_validation_rule_group
+msgid ""
+"Add, modify, view and delete validation rule groups. Provides the ability to "
+"group and run validation rules together."
+msgstr ""
+"Илова, тағйир, намоиш ва нест кардани гурӯҳҳои қоидаҳои санҷиши эътибор. "
+"Имкон медиҳад, ки қоидаҳоро гурӯҳбандӣ карда, қоидаҳои санҷиши эътиборро "
+"якҷоя кор баред."
+
+#: intro_validation_rule_analysis
+msgid ""
+"Run validation rules in order to unveil anomalies and errors in the data in "
+"the database."
+msgstr ""
+"Қоидаҳои санҷиши эътиборро кор фармуда, аномалияҳо ва хатогиҳои иттилоот ва "
+"пойгоҳи иттилоотиро ошкор намоед."
+
+#: intro_stddevoutlier_analysis
+msgid ""
+"Analyze potential outlier values based on standard deviations. Outlier "
+"values can be examined and marked for follow-up."
+msgstr ""
+"Қиматҳои аз ҳудуд беруни эҳтимолиро бо ёрии тамоилҳои стандартӣ таҳлил "
+"кунед. Қиматҳои аз ҳудуд берун метавонанд санҷида шуда, барои пайгирӣ қайд  "
+"карда шаванд."
+
+#: intro_minmaxoutlier_analysis
+msgid ""
+"Analyze potential outlier values based on min and max values. Outlier values "
+"can be examined and marked for follow-up."
+msgstr ""
+"Қиматҳои аз ҳудуд беруни эҳтимолиро бо ёрии қиматҳои мин-макс таҳлил кунед. "
+"Қиматҳои аз ҳудуд берун метавонанд санҷида шуда, барои пайгирӣ қайд  карда "
+"шаванд."
+
+#: intro_gap_analysis
+msgid ""
+"Perform analysis of potential missing values, referred to as gaps. Missing "
+"values can be entered or marked for follow-up."
+msgstr ""
+"Таҳлили қиматҳои норасои эҳтимолиро, ки фосилаҳо номида мешаванд, иҷро "
+"кунед. Қиматҳои норасо метавонанд ворид карда шаванд ё барои пайгирӣ қайд  "
+"карда шаванд."
+
+#: intro_followup_analysis
+msgid ""
+"View or edit data values marked for further follow-up during data entry or "
+"analysis."
+msgstr ""
+"Қиматҳои иттилоотро, ки барои пайгирӣ ҳангоми вуруди иттилоот ё таҳлил  қайд "
+"карда шудаанд, бинед ва таҳрир кунед."
+
+#: value_must_be_a_number
+msgid "Value must be a number"
+msgstr "Қимат бояд ада бошад"
+
+#: value_is_lower_than_min_value
+msgid "Value is lower than minimum value"
+msgstr "Қимат аз қимати минималӣ хурд аст"
+
+#: value_is_higher_than_max_value
+msgid "Value is higher than maximum value"
+msgstr "Қимат аз қимати макималӣ хурд аст"
+
+#: mark
+msgid "Mark"
+msgstr "Қайд кардан"
+
+#: mark_value_for_followup
+msgid "Mark value for follow-up"
+msgstr "Қиматро барои пайгирӣ кардан қайд кунед"
+
+#: unmark_value_for_followup
+msgid "Unmark value for follow-up"
+msgstr "Қиматро барои пайгирӣ кардан аз қайд гиред"
+
+#: data_analysis
+msgid "Data Analysis"
+msgstr "Таҳлили иттилоот"
+
+#: data_analysis_report
+msgid "Data Analysis Report"
+msgstr "Ҳисоботи таҳлили иттилоот"
+
+#: stddevoutlier_analysis
+msgid "Std Dev Outlier Analysis"
+msgstr "Таҳлили қиматҳои аз ҳудуд беруни тамоили стандартӣ"
+
+#: minmaxoutlier_analysis
+msgid "Min-Max Outlier Analysis"
+msgstr "Таҳлили қиматҳои аз ҳудуд беруни мин-макс"
+
+#: gap_analysis
+msgid "Gap Analysis"
+msgstr "Таҳлили норасоиҳо"
+
+#: followup_analysis
+msgid "Follow-Up Analysis"
+msgstr ""
+
+#: validation_rule_analysis
+msgid "Validation Rule Analysis"
+msgstr "Таҳлили қоидаи санҷиши эътибор"
+
+#: result
+msgid "result"
+msgstr "натиҷа"
+
+#: start
+msgid "Start"
+msgstr "Оғоз"
+
+#: clear_expression
+msgid "Clear expression"
+msgstr "Пок кардани ифода"
+
+#: period_type
+msgid "Period type"
+msgstr ""
+
+#: available_data_sets
+msgid "Available data sets"
+msgstr "Маҷмӯъҳои иттилооти мавҷуда"
+
+#: selected_data_sets
+msgid "Selected data sets"
+msgstr "Маҷмӯъҳои иттилооти интихобшуда"
+
+#: analysing_data
+msgid "Analysing data"
+msgstr "Таҳлили иттилоот"
+
+#: data_source
+msgid "Data source"
+msgstr "Маъхази иттилоот"
+
+#: use_captured_data
+msgid "Use captured data"
+msgstr "Истифодаи иттилооти ҷамъоваришуда"
+
+#: use_aggregated_data
+msgid "Use aggregated data"
+msgstr "Истифодаи иттилооти ҳамҷояшуда"
+
+#: aggregate_data_info
+msgid "Immediate children of the selected organisation unit will be included"
+msgstr "Воҳидҳои фаръии бевоситаи ташкилоти интихобшуда шомил карда мешаванд"
+
+#: captured_data_info
+msgid "All children of the selected organisation unit will be included"
+msgstr ""
+"Ҳама воҳидҳои фаръии бевоситаи ташкилоти интихобшуда шомил карда мешаванд"
+
+#: method
+msgid "Method"
+msgstr "Усул"
+
+#: see_statistics
+msgid "See statistics"
+msgstr "Дидани омор"
+
+#: description_not_null
+msgctxt "description_not_null"
+msgid "Please specify a description"
+msgstr "Тавсиф сифр нест"
+
+#: expression_not_null
+msgctxt "expression_not_null"
+msgid "Please specify an expression"
+msgstr "Ифода сифр нест"
+
+#: number_of_members
+msgid "Number of members"
+msgstr "Шумораи аъзоён"
+
+#: specify_organisationunit_has_children
+msgid "Please specify an organisationunit which has children."
+msgstr "Лутфан ташкилотеро нишон диҳед, ки воҳидҳои фаръӣ дорад"
+
+#: get_report_as_xls
+msgid "Download as Excel"
+msgstr "Боргирӣ ҳамчун файли Excel"
+
+#: get_report_as_csv
+msgid "Download as CSV"
+msgstr "Боргирӣ ҳамчун файли CSV"
+
+#: get_report_as_pdf
+msgid "Download as PDF"
+msgstr "Боргирӣ ҳамчун файли PDF"
+
+#: max_values_exceeded
+msgid "More than 500 values found, please narrow the search to see all"
+msgstr ""
+"Зиёда аз 500 қимат ёфт шуд, лутфан вайронкуниҳоро ислоҳ кунед ё доираи "
+"ҷустуҷӯро тангтар карда ҳамаро бинед"
+
+#: specify_dataset
+msgid "Please specify data sets"
+msgstr "Лутфан маҷмӯъҳои иттилоотро нишон диҳед"
+
+#: analysing_please_wait
+msgid "Analysing data, please wait"
+msgstr "Таҳлили иттилоот мегузард, лутфан мунтазир шавед"
+
+#: skip_for_missing_values
+msgid "Skip for missing values"
+msgstr "Барои қиматҳои мавҷуднабуда партофта гузаред"
+
+#: select_parameters
+msgid "Select parameters"
+msgstr "Интихоби параметрҳо"
+
+#: compulsory_pair
+msgid "Compulsory pair"
+msgstr "Ҷуфти ҳатмӣ"
+
+#: visible_in_validation_alerts
+msgid "visible in validation alerts"
+msgstr ""
+
+#: tip
+msgid "Tip"
+msgstr "Маслиҳат"
+
+#: use
+msgid "use"
+msgstr "истифода"
+
+#: importance
+msgid "Importance"
+msgstr ""
+
+#: high
+msgctxt "high"
+msgid "High"
+msgstr ""
+
+#: medium
+msgctxt "medium"
+msgid "Medium"
+msgstr ""
+
+#: low
+msgctxt "low"
+msgid "Low"
+msgstr ""
+
+#: HIGH
+msgctxt "HIGH"
+msgid "High"
+msgstr ""
+
+#: MEDIUM
+msgctxt "MEDIUM"
+msgid "Medium"
+msgstr ""
+
+#: LOW
+msgctxt "LOW"
+msgid "Low"
+msgstr ""
+
+#: rule_type
+msgid "Rule type"
+msgstr ""
+
+#: surveillance
+msgctxt "surveillance"
+msgid "Surveillance"
+msgstr ""
+
+#: SURVEILLANCE
+msgctxt "SURVEILLANCE"
+msgid "Surveillance"
+msgstr ""
+
+#: attributes
+msgid "Attributes"
+msgstr ""
+
+#: organisation_unit_level
+msgid "Organisation unit level"
+msgstr ""
+
+#: select_level
+msgid "Select level"
+msgstr ""
+
+#: sequential_sample_count
+msgid "Sequential sample count"
+msgstr ""
+
+#: annual_sample_count
+msgid "Annual sample count"
+msgstr ""
+
+#: high_outliers
+msgid "High outliers"
+msgstr ""
+
+#: low_outliers
+msgid "Low outliers"
+msgstr ""
+
+#: number_of_user_groups_to_alert
+msgid "Number of user groups to alert"
+msgstr ""
+
+#: send_alerts
+msgid "Send alerts"
+msgstr ""
+
+#: visible_when_rule_is_violated
+msgid "visible when rule is violated"
+msgstr ""
+
+#: instruction
+msgid "Instruction"
+msgstr ""
+
+#: skip_if_any_value_is_missing
+msgid "Skip if any value is missing"
+msgstr ""
+
+#: skip_if_all_values_are_missing
+msgid "Skip if all values are missing"
+msgstr ""
+
+#: never_skip
+msgid "Never skip"
+msgstr ""
+
+#: no_organisation_unit_selected
+msgid "No organisation unit selected"
+msgstr ""

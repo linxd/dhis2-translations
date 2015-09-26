@@ -1,0 +1,716 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-validationrule/src/main/resources/org/hisp/dhis/validationrule/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-validationrule/src/main/resources/org/hisp/dhis/validationrule/i18n_module_lo.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: group_members
+msgid "Group Members"
+msgstr "ສະມາຊິກກຸ່ມ"
+
+#: available_data_elements
+msgid "Available data elements"
+msgstr "ອົງ​ປະ​ກອບ​ຂໍ້​ມູນ​ທີ່​ມີ"
+
+#: saving_validation_rule_failed
+msgid "Saving Validation Rule failed"
+msgstr "ບໍ່ສາມາດບັນທຶກ"
+
+#: operator
+msgid "Operator"
+msgstr "ເຄື່ອງໝາຍເລກ"
+
+#: adding_validation_rule_failed
+msgid "Adding validation rule failed"
+msgstr "ບໍ່ສາມາດເພີ່ມ"
+
+#: validation_failed
+msgid "Validation failed"
+msgstr "ການ​ຮັບ​ຮອງບໍ່​ສຳ​ເລັດ"
+
+#: right_side
+msgid "Right side"
+msgstr "ເບື້ອງຂວາ"
+
+#: left_side
+msgid "Left side"
+msgstr "ເບື້ອງຊ້າຍ"
+
+#: left_brackets
+msgid "Left brackets"
+msgstr "ວົງເລັບຊ້າຍ"
+
+#: right_brackets
+msgid "Right brackets"
+msgstr "ວົງເລັບຂວາ"
+
+#: multiply
+msgid "Multiply"
+msgstr "ຄູນ"
+
+#: divide
+msgid "Divide"
+msgstr "ຫານ"
+
+#: plus
+msgid "Plus"
+msgstr "ບວກ"
+
+#: minus
+msgid "Minus"
+msgstr "ລົບ"
+
+#: no_of_days
+msgid "Number of days"
+msgstr "ຈຳນວນວັນ"
+
+#: specify_left_side
+msgid "Please specify the left side"
+msgstr "ກະລຸນາກຳນົດພາກເບື້ອງຊ້າຍ"
+
+#: specify_right_side
+msgid "Please specify the right side"
+msgstr "ກະລຸນາກຳນົດພາກເບື້ອງຂວາ"
+
+#: specify_operator
+msgid "Please specify an operator"
+msgstr "ກະລຸນາເລືອກເຄື່ອງໝາຍເລກ"
+
+#: specify_name
+msgid "Please specify a name"
+msgstr "ກະລຸນາລະບຸຊື່"
+
+#: specify_a_start_date
+msgid "Please specify a start date"
+msgstr "ກະລຸນາເລືອກວັນທີ່ເລີ່ມຕົ້ນ"
+
+#: specify_an_ending_date
+msgid "Please specify an ending date"
+msgstr "ກະລຸນາເລືອກວັນທີ່ຈົບ"
+
+#: specify_description
+msgctxt "specify_description"
+msgid "Please specify a description"
+msgstr "​ກະ​ລຸ​ນາ​ພັນ​ລະ​ນາ"
+
+#: specify_expression
+msgctxt "specify_expression"
+msgid "Please specify an expression"
+msgstr "ກະລຸນາເລືອກເຄື່ອງໝາຍເລືອກ"
+
+#: enter_a_valid_start_date
+msgid "Please enter a valid start date"
+msgstr "ກະລຸນາເລືອກວັນທີ່ທີ່ເລີ່ມ"
+
+#: enter_a_valid_ending_date
+msgid "Please enter a valid end date"
+msgstr "ກະລຸນາເລືອກວັນທີ່ທີ່ຈົບ"
+
+#: end_date_cannot_be_before_start_date
+msgid "End date can not be before start date"
+msgstr "ວັນຈົບບໍ່ສາມາດເລີ່ມກ່ອນວັນທີ່ເລີ່ມຕົ້ນ"
+
+#: name_in_use
+msgid "The name is in use"
+msgstr "​ຊື່ນີ້​ແມ່ນ​ກຳ​ລັງ​ໃຊ້​ງານ​ຢູ່"
+
+#: dataelements_left_must_be_type_integers
+msgid "The data elements on the left side must be of type numbers"
+msgstr "ອົງປະກອບຂໍ້ມູນພາກເບື້ອງຊ້າຍມືຕ້ອງເປັນຕົວເລກ"
+
+#: dataelements_right_must_be_type_integers
+msgid "The data elements on the right side must be of type numbers"
+msgstr "ອົງປະກອບຂໍ້ມູນພາກເບື້ອງຂວາມືຕ້ອງເປັນຕົວເລກ"
+
+#: create_new_validation_rule
+msgid "Create new validation rule"
+msgstr "ກຳນົດຫຼັກການໃໝ່"
+
+#: validate
+msgid "Validate"
+msgstr "ກວດສອບ"
+
+#: confirm_delete_validation_rule
+msgid "Are you sure you want to delete the validation rule?"
+msgstr "ທ່ານແນ່ໃຈທີ່ຈະລົບອອກບໍ?"
+
+#: confirm_delete_validation_rule_group
+msgid "Are you sure you want to delete the validation rule group?"
+msgstr "ທ່ານແນ່ໃຈທີ່ຈະລົບບໍ?"
+
+#: edit_left_side
+msgid "Edit left side"
+msgstr "ແກ້ໄຂພາກຊ້າຍ"
+
+#: edit_right_side
+msgid "Edit right side"
+msgstr "ແກ້ໄຂພາກຂວາ"
+
+#: select_operator
+msgid "Select operator"
+msgstr "ເລືອກເຄື່ອງໝາຍເລກ"
+
+#: left
+msgid "Left"
+msgstr "ຊ້າຍ"
+
+#: right
+msgid "Right"
+msgstr "ຂວາ"
+
+#: textual_expression_description
+msgid "Textual expression description"
+msgstr "​ພັນ​ລະ​ນາ​ເປັນ​ບົດ​ຂຽນ​ອອກ​ມາ"
+
+#: edit_validation_rule
+msgid "Edit validation rule"
+msgstr "​ດັດ​ແກ້​ຫລັກ​ການ​ການ​ຮັບ​ຮອງ"
+
+#: validation_rule
+msgid "Validation Rule"
+msgstr "​ຫລັກ​ການ​ການ​ຮັບ​ຮອງ"
+
+#: run_validation
+msgid "Run validation"
+msgstr "ກວດສອບ"
+
+#: validation_alerts
+msgctxt "validation_alerts"
+msgid "Validation alerts"
+msgstr ""
+
+#: value
+msgid "Value"
+msgstr "ຄ່າ"
+
+#: data_element
+msgid "Data element"
+msgstr "ອົງປະກອບຂໍ້ມູນ"
+
+#: organisation_unit
+msgid "Organisation unit"
+msgstr "ໂຄງຮ່າງການຈັດຕັ້ງ"
+
+#: period
+msgid "Period"
+msgstr "ຊ່ວງເວລາ"
+
+#: source
+msgid "Source"
+msgstr "​ແຫ່​ລງ​ທີ່​ມາ"
+
+#: done
+msgid "Done"
+msgstr "ສຳເລັດ"
+
+#: validation
+msgctxt "validation"
+msgid "Validation"
+msgstr "​ການຢັ້ງ​ຢືນ"
+
+#: VALIDATION
+msgctxt "VALIDATION"
+msgid "Validation"
+msgstr ""
+
+#: data_quality_report
+msgid "Data quality report"
+msgstr "ລາຍຄຸນນະພາບຂໍ້ມູນ"
+
+#: validation_result_details
+msgid "Validation result details"
+msgstr "ລາຍລະອຽດຂອງຜົນການກວດສອບ"
+
+#: validation_rule_
+msgid "Validation rule"
+msgstr "​ຫລັກ​ການຢັ້ງ​ຢຶນ"
+
+#: dataelement_id_not_numeric
+msgid "Data element identifier must be a number"
+msgstr "​ອົງ​ປະ​ກອບ​ຂໍ້​ມູນ​ຈະ​ຕ້ອງ​ແມ່ນ​ຕົວ​ເລກ"
+
+#: category_option_combo_id_not_numeric
+msgid "Category option combo identifier must be a number"
+msgstr "​ທາງ​ເລືອກ ປະ​ເພດ ກໍ​ຕ້ອງ​ແມ່ນ​ໂຕ​ເລກ"
+
+#: data_element_does_not_exist
+msgid "Identifier does not reference a data element"
+msgstr "ຜູ້​ຄົ້ນ​ຫາບໍ່​ໄດ້​ອີງ​ໃສ່​ອົງ​ປະ​ກອບ​ຂໍ້​ມູນ"
+
+#: category_option_combo_does_not_exist
+msgid "Identifier does not reference a category option combo"
+msgstr "​ຜູ້​ຄົ້ນ​ຫາບໍ່​ໄດ້​ອີງ​ໃສ່​ທາງ​ເລືອກ​ປະ​ສົມ"
+
+#: expression_not_well_formed
+msgid "Expression is not well formed"
+msgstr "​ການ​ນຳ​ສະ​ເໜີ​ຍັງ​ບໍ່​ທັນ​​ຈະແຈ້ງ"
+
+#: everything_is_ok
+msgid "Everything is OK"
+msgstr "ທຸກຢ່າງຮຽບຮ້ອຍແລ້ວ"
+
+#: validation_rule_group_management
+msgid "Validation rule group management"
+msgstr "ການຈັດການກຸ່ມຂອງຫຼັກການກວດສອບ"
+
+#: validation_rule_management
+msgid "Validation rule management"
+msgstr "ການຈັດການຫຼັກການການກວດສອບ"
+
+#: validation_rule_group
+msgid "Validation Rule Group"
+msgstr "ກູ່ມຂອງຫຼັກການການກວດສອບ"
+
+#: create_new_validation_rule_group
+msgid "Create new validation rule group"
+msgstr "ສ້າງກຸ່ມຂອງຫຼັກການກວດສອບ"
+
+#: available
+msgid "Available"
+msgstr "Available"
+
+#: selected
+msgid "Selected"
+msgstr "ເລືອກແລ້ວ"
+
+#: validation_rules
+msgid "Validation rules"
+msgstr "ຫຼັກການການກວດສອບ"
+
+#: user_groups_to_alert
+msgid "User groups to alert"
+msgstr "User groups to alert"
+
+#: alert_by_org_units
+msgid "Alert only organisation unit related users"
+msgstr "Only organisation unit related users are alerted"
+
+#: yes
+msgid "Yes"
+msgstr "ແມ່ນ"
+
+#: no
+msgid "No"
+msgstr "ບໍ່"
+
+#: available_validation_rules
+msgid "Available validation rules"
+msgstr "Available validation rules"
+
+#: edit_validation_rule_group
+msgid "Edit validation rule group"
+msgstr "Edit validation rule group"
+
+#: all_validation_rules
+msgid "All validation rules"
+msgstr "All validation rules"
+
+#: validation_alerts
+msgctxt "validation_alerts"
+msgid "Validation alerts"
+msgstr ""
+
+#: validation_passed_successfully
+msgid "Validation passed successfully"
+msgstr "Validation passed successfully"
+
+#: outlier_analysis
+msgctxt "outlier_analysis"
+msgid "Outlier Analysis"
+msgstr "Outlier Analysis"
+
+#: from_date
+msgid "From date"
+msgstr "From date"
+
+#: to_date
+msgid "To date"
+msgstr "ເຖີງວັນທີ່"
+
+#: std_dev
+msgid "Standard Deviation"
+msgstr "Standard Deviation"
+
+#: max
+msgid "Max"
+msgstr "ຄ່າສູງສຸດ"
+
+#: min
+msgid "Min"
+msgstr "ຄ່ານ້ອຍສຸດ"
+
+#: values_found
+msgid "values found"
+msgstr "values found"
+
+#: select_std_dev
+msgid "Select number of standard deviations"
+msgstr "Select number of standard deviations"
+
+#: select_parent_organisation_unit
+msgid "Select parent organisation unit"
+msgstr "​ເລືອກ​ເອົາ​ຫົວ​ໜ່ວຍ​ການ​ຈັດ​ຕັ້ງ​ຂັ້ນ​ແຂວງ"
+
+#: outlier_analysis
+msgctxt "outlier_analysis"
+msgid "Outlier Analysis"
+msgstr "Outlier Analysis"
+
+#: no_values_found
+msgid "No values found"
+msgstr "ບໍ່ມີຄ່າ"
+
+#: intro_validation_rule
+msgid ""
+"Add, modify, view and delete validation rules. Anomalies can be discovered "
+"by running validation rules against the data."
+msgstr ""
+"​ຕື່ມ, ດັດ​ແປງ, ວີວ​ເບີ່ງ ແລະ ລືບ​ຖີ້ມ ຫລັກ​ການຢັ້ງ​ຢືນ. "
+"ຄວາມ​ຜິດ​ປົກ​ກະ​ຕິ​ອາດ​ຈະ​ເຫັນ ດ້ວຍ​ການ​ເປີດ​ເບີ່ງ "
+"ຫລັກ​ການຢັ້ງ​ຢືນ​ຕໍ​ກັບ​ຂໍ້​ມູນ"
+
+#: intro_validation_rule_group
+msgid ""
+"Add, modify, view and delete validation rule groups. Provides the ability to "
+"group and run validation rules together."
+msgstr ""
+"​ຕື່ມ​ໃສ່, ດັດ​ແປງ, ວິວ​ເບີ່ງ ແລະ ລົບ​ຖື້ມ​ກຸ່ມ​ຂອງຫລັກ​ການຢັ້ງ​ຢືນ. "
+"ສະ​ໜອງ​ໃຫ້​ເຫັນ​ຄວາມ​ສາ​ມາດ​ໃນ​ການ​ເປີດ​ເອົາ​ຫລັກ​ການຢັ້ງ​ຢືນ​ພ້ອມ​ກັນ"
+
+#: intro_validation_rule_analysis
+msgid ""
+"Run validation rules in order to unveil anomalies and errors in the data in "
+"the database."
+msgstr ""
+"​ເປີດ​ເອົາ​ຫລັກ​ການຢັ້ງ​ຢືນ​ເພື່ອ​ເບີ່ງວ່າ​ຈະ​ມີ​ຫ​ຍັງ​ທີ່​ຜິດ​ປົກ​ກະ​ຕິ ແລະ "
+"ບໍ່​ຖືກ​ຕ້ອງ​ຂອງ​ຂໍ້​ມູນ​ຢູ່​ໃນ​ຖານ​ຂໍ້​ມູນ"
+
+#: intro_stddevoutlier_analysis
+msgid ""
+"Analyze potential outlier values based on standard deviations. Outlier "
+"values can be examined and marked for follow-up."
+msgstr ""
+"​ວິ​ໄຈ​ເບີ່ງ​ທ່າ​ອ່ຽງ​ຂອງ​ມູນ​ຄ່າ​ຕ່າງໆ​ທີ່​ອາດ​ຈະ​ເກີນກວ່າ​ມາດ​ຕະ​ຖານ. "
+"ຄ່າ​ທີ່​ເກີນກວ່າ​ສາ​ມາດກວດ​ກາ​ເບີ່ງ ແລະ ໝາຍ​ໃວ້​ເພື່ອ​ຕິດ​ຕາມ"
+
+#: intro_minmaxoutlier_analysis
+msgid ""
+"Analyze potential outlier values based on min and max values. Outlier values "
+"can be examined and marked for follow-up."
+msgstr ""
+"​ວິ​ໄຈ​ເບີ່ງ​ທ່າ​ອ່ຽງ​ມູນ​ຄ່າ​ທີ່​ເກີນ​ອີງ​ໃສ່​ຫລັກ​ການຂອງ​ຄ່າ​ສູງ​ສຸດ ແລະ "
+"ຄ່າ​ຕ່ຳ​ສຸດ. ຄ່າ​ທີ່​ເກີນ​ສາ​ມາດກວດ​ກາ​ເບີ່ງ​ແລະ ໝາຍ​ໃວ້​ເພື່ອ​ຕິດ​ຕາມ"
+
+#: intro_gap_analysis
+msgid ""
+"Perform analysis of potential missing values, referred to as gaps. Missing "
+"values can be entered or marked for follow-up."
+msgstr ""
+"​ເຮັດ​ການ​ວິ​ໄຈ​ເບີ່ງ​ທ່າ​ອ່ຽງ​ຂອງ​ມູນ​ຄ່າ​ທີ່​ເສັຽ​ໄປ, "
+"ອີງ​ໃສ່​ຊ່ອງ​ຫວ່າງ​ດັ່ງ​ກ່າວ. ມູນ​ຄ່າ​ທີ່​​ຂາດ​ຫາຍ​ໄປ​ແມ່ນ​ສາ​ມາດ​ຕື່ມ​ໃສ່ "
+"ແລະ ໝາຍ​ໃວ້​ເພື່ອ​ຕິດ​ຕາມ"
+
+#: intro_followup_analysis
+msgid ""
+"View or edit data values marked for further follow-up during data entry or "
+"analysis."
+msgstr ""
+"​ວິວ​ເບີ່ງ​ຫລື​ແປງ​ມູນ​ຄ່າ​ຂໍ້​ມູນ​ທີ່​ໄດ້​ໝາຍ​ໄວ້​ເພື່ອ​ຕິດ​ຕາມນັ້ນ​ເວ​ລາ​ປ້"
+"ອນ​ຂໍ້​ມູນ​ຫລື​ວິ​ໄຈ​ຂໍ້​ມູນ"
+
+#: value_must_be_a_number
+msgid "Value must be a number"
+msgstr "ຕ້ອງເປັນພຽງຕົວເລກເທົ່ານັ້ນ"
+
+#: value_is_lower_than_min_value
+msgid "Value is lower than minimum value"
+msgstr "ຄ່ານີ້ນ້ອຍກວ່າຄ່ານ້ອຍສຸດຂອງລະບົບ"
+
+#: value_is_higher_than_max_value
+msgid "Value is higher than maximum value"
+msgstr "ຄ່ານີ້ຫຼາຍກວ່າຄ່າໃຫຍ່ສຸດຂອງລະບົບ"
+
+#: mark
+msgid "Mark"
+msgstr "ໝາຍ"
+
+#: mark_value_for_followup
+msgid "Mark value for follow-up"
+msgstr "ໝາຍຄ່ານີ້ເພື່ອທຳການຕິດຕາມ"
+
+#: unmark_value_for_followup
+msgid "Unmark value for follow-up"
+msgstr "ບໍ່ຕິດຕາມ"
+
+#: data_analysis
+msgid "Data Analysis"
+msgstr "ການວິເຄາະຂໍ້ມູນ"
+
+#: data_analysis_report
+msgid "Data Analysis Report"
+msgstr "​ບົດ​ລາຍ​ງານ​ການ​ວິ​ໄຈ​ຂໍ້​ມູນ"
+
+#: stddevoutlier_analysis
+msgid "Std Dev Outlier Analysis"
+msgstr "​​ຫົວ​ໜ່ວຍມາດ​ຕະ​ຖານ​ການ​ວິ​ໄຈ​ຄວາມ​ຫລຸດ​ລື່ນ"
+
+#: minmaxoutlier_analysis
+msgid "Min-Max Outlier Analysis"
+msgstr "​ການ​ວິ​ໄຈ​ຄ່າ​ສູງ ແລະ ຄ່າ​ຕໍ່​ສຸດ"
+
+#: gap_analysis
+msgid "Gap Analysis"
+msgstr "Gap Analysis"
+
+#: followup_analysis
+msgid "Follow-Up Analysis"
+msgstr "Follow-Up Analysis"
+
+#: validation_rule_analysis
+msgid "Validation Rule Analysis"
+msgstr "ກວດສອບຂໍ້ມູນ"
+
+#: result
+msgid "result"
+msgstr "ຜົນ"
+
+#: start
+msgid "Start"
+msgstr "ເລີ່ມ"
+
+#: clear_expression
+msgid "Clear expression"
+msgstr "ລຶບຂັ້ນຕອນອອກ"
+
+#: period_type
+msgid "Period type"
+msgstr "ແບບຊ່ວງເວລາ"
+
+#: available_data_sets
+msgid "Available data sets"
+msgstr "Available data sets"
+
+#: selected_data_sets
+msgid "Selected data sets"
+msgstr "Selected data sets"
+
+#: analysing_data
+msgid "Analysing data"
+msgstr "Analysing data"
+
+#: data_source
+msgid "Data source"
+msgstr "Data source"
+
+#: use_captured_data
+msgid "Use captured data"
+msgstr "Use captured data"
+
+#: use_aggregated_data
+msgid "Use aggregated data"
+msgstr "​ນຳ​ໃຊ້​ຂໍ້​ມູນ​ທີ່​ໄດ້​ສັງ​ລວມ​ມາ​ແລ້ວ"
+
+#: aggregate_data_info
+msgid "Immediate children of the selected organisation unit will be included"
+msgstr "​ຫົວ​ໜ່ວຍ​ການ​ຈັດ​ຕັ້ງ​ຂັ້ນ​ຕ່າ​ຂ"
+
+#: captured_data_info
+msgid "All children of the selected organisation unit will be included"
+msgstr ""
+"​​ຈະ​ລວມ​ເອົາຫົວ​ໜ່ວຍ​ການ​ຈັດ​ຕັ້ງ​​​ຂັ້ນ​ຕ່ຳ​ທັງ​ໝົດ​ຂອງ​ຫົວ​ໜ່ວຍ​ການ​ຈັດ​ຕັ"
+"້ງທີ່​ໄດ້​ເລືອກ​ໄວ້​ນັ້ນ"
+
+#: method
+msgid "Method"
+msgstr "ວິທິການ"
+
+#: see_statistics
+msgid "See statistics"
+msgstr "​ເບີ່ງ​ສະ​ຖິ​ຕິ"
+
+#: description_not_null
+msgctxt "description_not_null"
+msgid "Please specify a description"
+msgstr "​ກະ​ລຸ​ນາ​​ກຳ​ນົດ​ການພັນ​ລະ​ນາ"
+
+#: expression_not_null
+msgctxt "expression_not_null"
+msgid "Please specify an expression"
+msgstr "ກະລຸນາເລືອກເຄື່ອງໝາຍເລກ"
+
+#: number_of_members
+msgid "Number of members"
+msgstr "​ຈຳ​ນວນ​ສະ​ມາ​ຊິກ"
+
+#: specify_organisationunit_has_children
+msgid "Please specify an organisationunit which has children."
+msgstr ""
+"​ກະ​ລຸ​ນາ​ກຳ​ນົດ​ເອົາ​ຫົວ​ໜ່ວຍ​ການ​ຈັດ​ຕັ້ງ​ທີ່​ມີ​ຫົວ​ໜ່ວຍ​ການ​ຈັດ​ຕັ້ງ​ທີ່​"
+"ຕ່ຳ​ລົງ​ໄປ"
+
+#: get_report_as_xls
+msgid "Download as Excel"
+msgstr "ດາວໂຫຼດເປັນ excel"
+
+#: get_report_as_csv
+msgid "Download as CSV"
+msgstr "ດາວໂຫຼດເປັນ CSV"
+
+#: get_report_as_pdf
+msgid "Download as PDF"
+msgstr "ດາວໂຫຼດເປັນ PDF"
+
+#: max_values_exceeded
+msgid "More than 500 values found, please narrow the search to see all"
+msgstr ""
+"​ຜົນ​ອອກ​ມາ​ເກີນກວ່າ ໕໐໐ "
+"​ກະ​ລຸ​ນາ​ຄົ້ນ​ຫາ​ໃນ​ຂອບ​ເຂດ​ທີ່​ຕ່ຳ​ກວ່ານີ້​ເພື່ອ​ເບີ່ງ​ທັງ​ໝົດ"
+
+#: specify_dataset
+msgid "Please specify data sets"
+msgstr "​ກະ​ລຸ​ນາ​ກຳ​ນົດ​ຊຸດ​ຂໍ້​ມູນ"
+
+#: analysing_please_wait
+msgid "Analysing data, please wait"
+msgstr "Analysing data, please wait"
+
+#: skip_for_missing_values
+msgid "Skip for missing values"
+msgstr "Skip for missing values"
+
+#: select_parameters
+msgid "Select parameters"
+msgstr "Select parameters"
+
+#: compulsory_pair
+msgid "Compulsory pair"
+msgstr "Compulsory pair"
+
+#: visible_in_validation_alerts
+msgid "visible in validation alerts"
+msgstr "visible in validation alerts"
+
+#: tip
+msgid "Tip"
+msgstr "Tip"
+
+#: use
+msgid "use"
+msgstr "ໃຊ້"
+
+#: importance
+msgid "Importance"
+msgstr "ສຳຄັນ"
+
+#: high
+msgctxt "high"
+msgid "High"
+msgstr "ສູງ"
+
+#: medium
+msgctxt "medium"
+msgid "Medium"
+msgstr "ກາງ"
+
+#: low
+msgctxt "low"
+msgid "Low"
+msgstr "ຕ່ຳ"
+
+#: HIGH
+msgctxt "HIGH"
+msgid "High"
+msgstr ""
+
+#: MEDIUM
+msgctxt "MEDIUM"
+msgid "Medium"
+msgstr ""
+
+#: LOW
+msgctxt "LOW"
+msgid "Low"
+msgstr ""
+
+#: rule_type
+msgid "Rule type"
+msgstr "Rule type"
+
+#: surveillance
+msgctxt "surveillance"
+msgid "Surveillance"
+msgstr "Surveillance"
+
+#: SURVEILLANCE
+msgctxt "SURVEILLANCE"
+msgid "Surveillance"
+msgstr ""
+
+#: attributes
+msgid "Attributes"
+msgstr "Attributes"
+
+#: organisation_unit_level
+msgid "Organisation unit level"
+msgstr "​ຂັ້ນ​ຂອງ​ຫົວ​ໜ່ວຍ​ການຈັດ​ຕັ້ງ"
+
+#: select_level
+msgid "Select level"
+msgstr "​ເລືອກ​ຂັ້ນ"
+
+#: sequential_sample_count
+msgid "Sequential sample count"
+msgstr "​ນັບ​ຕົວ​ຢ່າງ​ຕາມ​ລຳ​ດັບ"
+
+#: annual_sample_count
+msgid "Annual sample count"
+msgstr "​ນັບ​ຕົວ​ຢ່າງ​ປະ​ຈຳ​ປີ"
+
+#: high_outliers
+msgid "High outliers"
+msgstr "ຄ່າ​ຫລຸດ​ລື່ນ​ສູງ"
+
+#: low_outliers
+msgid "Low outliers"
+msgstr "​ຄ່າ​ຫລຸດ​ລື່ນ​ຕ່ຳ"
+
+#: number_of_user_groups_to_alert
+msgid "Number of user groups to alert"
+msgstr "​ຈຳ​ນວນ​ກຸ່ມຜູ້​ໃຊ້​ທີ່​ມິ​ສັນ​ຍານ​ເຕືອນ"
+
+#: send_alerts
+msgid "Send alerts"
+msgstr "​ສົ່ງ​ການ​ເຕື່ອນ"
+
+#: visible_when_rule_is_violated
+msgid "visible when rule is violated"
+msgstr "ສາ​ມາດ​ເຫັນ​ໄດ້​ຖ້າ​ຫາກ​ຫັ​ລກ​ການ​ຖືກ​ດັດ​ແປງ​ຫລື​ແກ້​ໄຂ"
+
+#: instruction
+msgid "Instruction"
+msgstr "ຄຳ​ແນະ​ນຳ"
+
+#: skip_if_any_value_is_missing
+msgid "Skip if any value is missing"
+msgstr ""
+
+#: skip_if_all_values_are_missing
+msgid "Skip if all values are missing"
+msgstr ""
+
+#: never_skip
+msgid "Never skip"
+msgstr ""
+
+#: no_organisation_unit_selected
+msgid "No organisation unit selected"
+msgstr ""

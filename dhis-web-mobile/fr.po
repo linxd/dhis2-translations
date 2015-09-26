@@ -1,0 +1,66 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-mobile/src/main/resources/org/hisp/dhis/web/mobile/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-mobile/src/main/resources/org/hisp/dhis/web/mobile/i18n_module_fr.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: no_data_is_stored
+msgid "No data is stored"
+msgstr "Aucune donnée n'est enregistrée"
+
+#: you_have
+msgid "You have"
+msgstr "Vous avez"
+
+#: form_stored
+msgid "form stored"
+msgstr "Formulaire stocké"
+
+#: forms_stored
+msgid "forms stored"
+msgstr "Formulaires stockés"
+
+#: aggregate_reporting
+msgid "Aggregate Reporting"
+msgstr "Rapports agrégés"
+
+#: unable_to_send_reply
+msgid "Unable to send reply, please try again later"
+msgstr "Impossible d'envoyer la réponse, veuillez réessayer plus tard"
+
+#: unable_to_get_inbox
+msgid "Unable to get inbox, please try again later"
+msgstr "Impossible d'ouvir la boite de reception, veuillez réessayer plus tard"
+
+#: no_messages
+msgid "No messages"
+msgstr "Aucun message"
+
+#: none_selected
+msgid "None selected"
+msgstr "Aucune selection"
+
+#: no_organisation_units_for_data_entry
+msgid "No organisation units available for data entry"
+msgstr "Aucune unité d'organisation disponible pour la saisie de données"
+
+#: change_to_invalid_page
+msgid "Tried changing to invalid page"
+msgstr "A essayé de passer à une page non valide"
+
+#: logout
+msgid "Log out"
+msgstr "Déconnexion"
+
+#: send_and_complete
+msgid "Send and Complete"
+msgstr "Envoyer et compléter"

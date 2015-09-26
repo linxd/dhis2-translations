@@ -1,0 +1,1889 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-importexport/src/main/resources/org/hisp/dhis/importexport/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-importexport/src/main/resources/org/hisp/dhis/importexport/i18n_module_ar.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: datavalue
+msgctxt "datavalue"
+msgid "Data Value"
+msgstr "قيمة البيانات"
+
+#: import
+msgctxt "import"
+msgid "Import"
+msgstr "استيراد"
+
+#: select
+msgid "Select"
+msgstr "اختر"
+
+#: period_type
+msgid "Period Type"
+msgstr "نوع الفترة"
+
+#: export
+msgid "Export"
+msgstr "تصدير"
+
+#: action
+msgid "Action"
+msgstr "اجراء"
+
+#: import
+msgctxt "import"
+msgid "Import"
+msgstr "استيراد"
+
+#: preview
+msgctxt "preview"
+msgid "Preview"
+msgstr "معاينة"
+
+#: from
+msgid "From"
+msgstr "من"
+
+#: to
+msgid "To"
+msgstr "الى"
+
+#: period
+msgid "Period"
+msgstr "فترة"
+
+#: selected_data_elements
+msgid "Selected data elements"
+msgstr "عناصر البيانات المحددة"
+
+#: available_data_elements
+msgid "Available data elements"
+msgstr "عناصر البيانات المتوفرة"
+
+#: move_selected
+msgctxt "move_selected"
+msgid "Move selected"
+msgstr "انقل المحدد"
+
+#: move_all
+msgctxt "move_all"
+msgid "Move all"
+msgstr "انقل الكل"
+
+#: remove_selected
+msgctxt "remove_selected"
+msgid "Remove selected"
+msgstr "احذف المحدد"
+
+#: remove_all
+msgctxt "remove_all"
+msgid "Remove all"
+msgstr "احذف الكل"
+
+#: indicators
+msgid "Indicators"
+msgstr "المؤشرات"
+
+#: datavalues
+msgid "Data values"
+msgstr "قيم البيانات"
+
+#: available_datasets
+msgid "Available data sets"
+msgstr "منظمة البيانات المتوفرة"
+
+#: selected_datasets
+msgid "Selected data sets"
+msgstr "منظومة البيانات المحددة "
+
+#: available_indicators
+msgid "Available indicators"
+msgstr "المؤشرات المتوفرة"
+
+#: selected_indicators
+msgid "Selected indicators"
+msgstr "المؤشرات المحددة"
+
+#: level
+msgid "Level"
+msgstr "المستوى"
+
+#: clear
+msgid "Clear"
+msgstr "امسح"
+
+#: dhis14_import
+msgid "DHIS 1.4 Import"
+msgstr "توريد DHIS 1.4"
+
+#: organisation_units
+msgid "Organisation units"
+msgstr "وحدات التنظيم"
+
+#: periods
+msgid "Periods"
+msgstr "الفترات"
+
+#: import
+msgctxt "import"
+msgid "Import"
+msgstr "استيراد"
+
+#: importing
+msgid "Importing..."
+msgstr "جاري الاستيراد..."
+
+#: done
+msgid "Done"
+msgstr "تمّ"
+
+#: compare
+msgid "Compare"
+msgstr "قارن"
+
+#: configuration
+msgctxt "configuration"
+msgid "Configuration"
+msgstr "الإعدادات"
+
+#: source
+msgid "Source"
+msgstr "المصدر"
+
+#: object_type
+msgid "Object type"
+msgstr "نوع الكائن"
+
+#: del
+msgid "Del"
+msgstr "حذف"
+
+#: up
+msgid "Up"
+msgstr "اعلى"
+
+#: specify_file
+msgid "Please specify a file"
+msgstr "من فضلك حدد ملفا"
+
+#: data_sets
+msgid "Data sets"
+msgstr "منظومة البيانات"
+
+#: include_datavalues
+msgid "Include Data Values"
+msgstr "تتضمن قيم البيانات"
+
+#: file
+msgid "File"
+msgstr "ملف"
+
+#: elements
+msgid "Elements"
+msgstr "العناصر"
+
+#: data
+msgid "Data"
+msgstr "بيانات"
+
+#: import_preview
+msgid "Import Preview"
+msgstr "معاينة التوريد"
+
+#: select_none
+msgid "Select none"
+msgstr "لاتختر شيئا"
+
+#: element
+msgctxt "element"
+msgid "Element"
+msgstr "عنصر"
+
+#: unique
+msgid "Unique"
+msgstr "فريد"
+
+#: matching
+msgid "Matching"
+msgstr "المطابقة"
+
+#: preview
+msgctxt "preview"
+msgid "Preview"
+msgstr "معاينة"
+
+#: skip
+msgid "Skip"
+msgstr "تخطي"
+
+#: dataelement
+msgctxt "dataelement"
+msgid "Data element"
+msgstr "عنصر البيانات"
+
+#: indicator
+msgid "Indicator"
+msgstr "المؤشر"
+
+#: indicator_group
+msgid "Indicator group"
+msgstr "مجموعة المؤشر"
+
+#: dataset
+msgid "Data set"
+msgstr "منظومة البيانات"
+
+#: organisationunit
+msgctxt "organisationunit"
+msgid "Organisation unit"
+msgstr "وحدة التنظيم"
+
+#: data_export
+msgid "DXF Data Value Export"
+msgstr "تصدير قيمة البيانات DXF"
+
+#: datavalue_export
+msgctxt "datavalue_export"
+msgid "Data Export"
+msgstr "تصدير البيانات"
+
+#: metadata_export
+msgid "DXF Metadata Export"
+msgstr "Meta-Data Export"
+
+#: data_export
+msgctxt "data_export"
+msgid "Data Export"
+msgstr "تصدير قيمة البيانات DXF"
+
+#: metadata_export
+msgid "Metadata Export"
+msgstr "Meta-Data Export"
+
+#: data_element_groups
+msgid "Data element groups"
+msgstr "مجموعات عنصر البيانات"
+
+#: indicator_groups
+msgid "Indicator groups"
+msgstr "مجموعة المؤشر"
+
+#: organisation_unit
+msgctxt "organisation_unit"
+msgid "Organisation unit"
+msgstr "وحدة التنظيم "
+
+#: organisation_unit_groups
+msgid "Organisation unit groups"
+msgstr "مجموعات وحدة التنظيم"
+
+#: organisation_unit_group_sets
+msgid "Organisation unit group sets"
+msgstr "منظومة مجموعة وحدة التنظيم"
+
+#: export_to_other_systems
+msgid "Export to other systems"
+msgstr "تصدير لأنظمة اخرى"
+
+#: import_from_other_systems
+msgid "Import from other systems"
+msgstr ""
+
+#: DHIS14_metadata_export
+msgid "DHIS 1.4 Metadata Export"
+msgstr "تصدير DHIS 1.4 "
+
+#: DHIS14_data_export
+msgid "DHIS 1.4 Data Export"
+msgstr "تصدير بيانات DHIS 1.4"
+
+#: accept_incoming_records
+msgid "Accept incoming records"
+msgstr "قبول السجلات الواردة"
+
+#: include_datavalues
+msgid "Include data values"
+msgstr "تتضمن قيم البيانات"
+
+#: new_and_updates
+msgid "New and Updates"
+msgstr "الجديد والتحديثات"
+
+#: new_no_updates
+msgid "New ( No Updates )"
+msgstr "جديد (لا تحديثات)"
+
+#: data_element
+msgctxt "data_element"
+msgid "Data element"
+msgstr "عنصر البيانات"
+
+#: data_element_group
+msgid "Data element group"
+msgstr "مجموعة عنصر البيانات"
+
+#: organisation_unit_group
+msgid "Organisation unit group"
+msgstr "مجموعة وحدة التنظيم "
+
+#: organisation_unit_group_set
+msgid "Organisation unit group set"
+msgstr "منظومة مجموعة وحدة البيانات"
+
+#: category_option
+msgid "Category option"
+msgstr "خيارات الفئة"
+
+#: category_option_group
+msgid "Category option group"
+msgstr "مجموعة خيارات الفئة"
+
+#: option_set
+msgid "Option set"
+msgstr "منظومة الخيارات"
+
+#: element
+msgctxt "element"
+msgid "Element"
+msgstr "عنصر"
+
+#: objects
+msgid "Objects"
+msgstr "الكائنات"
+
+#: discard_selected
+msgid "Discard selected"
+msgstr "استبعد المحدد "
+
+#: discard_all
+msgid "Discard all"
+msgstr "استبعد الكل"
+
+#: match_to_existing
+msgid "Match to existing"
+msgstr "تم التطابق مع الموجود"
+
+#: compare_to_existing
+msgid "Compare to existing"
+msgstr "قارن مع الموجود"
+
+#: property
+msgid "Property"
+msgstr "الخاصية"
+
+#: existing_objects
+msgid "Existing objects"
+msgstr "الكائنات الموجودة"
+
+#: discard
+msgid "Discard"
+msgstr "استبعاد "
+
+#: new_object
+msgid "New object"
+msgstr "الكائنات الجديدة"
+
+#: existing_object
+msgid "Existing object"
+msgstr "الكائنات الموجودة"
+
+#: file_type_not_allowed
+msgid "File type not allowed"
+msgstr "غير مسموح بنوع الملف"
+
+#: import_all
+msgid "Import all"
+msgstr "استيراد الكل"
+
+#: factor
+msgid "Factor"
+msgstr "العامل"
+
+#: match
+msgid "Match"
+msgstr "تطابق"
+
+#: discard_update
+msgid "Discard update"
+msgstr "استبعد التحديث"
+
+#: show_advanced_options
+msgid "Show advanced options"
+msgstr "اظهار الخيارات المتقدمة"
+
+#: hide_advanced_options
+msgid "Hide advanced options"
+msgstr "إخفاء الخيارات المتقدمة"
+
+#: move_selected
+msgctxt "move_selected"
+msgid "Move selected"
+msgstr "انقل المحدد"
+
+#: move_all
+msgctxt "move_all"
+msgid "Move all"
+msgstr "انقل الكل"
+
+#: remove_selected
+msgctxt "remove_selected"
+msgid "Remove selected"
+msgstr "احذف المحدد"
+
+#: remove_all
+msgctxt "remove_all"
+msgid "Remove all"
+msgstr "احذف الكل"
+
+#: pdf_metadata_export
+msgid "PDF Metadata Export"
+msgstr "نصدير بيانات لشرح البيانات على هيئة PDF"
+
+#: xls_metadata_export
+msgid "XLS Metadata Export"
+msgstr "تصدير بيانات لشرح البيانات على هيئة XLS"
+
+#: version
+msgid "Version"
+msgstr "نسخة"
+
+#: status
+msgid "Status"
+msgstr "الحالة"
+
+#: data_type
+msgid "Data type"
+msgstr "نوع البيانات"
+
+#: validation_rules
+msgid "Validation rules"
+msgstr "قوانين المصادقة"
+
+#: saved
+msgctxt "saved"
+msgid "Saved"
+msgstr "تم الحفظ"
+
+#: last_updated
+msgid "Last updated"
+msgstr "التحديث الاخير"
+
+#: validation_rule
+msgid "Validation rule"
+msgstr "قانون المصادقة"
+
+#: operator
+msgid "Operator"
+msgstr "مشغل"
+
+#: data_elements
+msgid "Data elements"
+msgstr "عناصر البيانات"
+
+#: data_dictionary
+msgctxt "data_dictionary"
+msgid "Data dictionary"
+msgstr "قاموس التاريخ"
+
+#: data_value
+msgctxt "data_value"
+msgid "Data Value"
+msgstr "قيمة البيانات "
+
+#: data_value_daily
+msgid "Daily Data Value"
+msgstr "قيمة البيانات اليومية"
+
+#: dhis14_file_configuration
+msgid "DHIS 1.4 File Configuration"
+msgstr "اعدادات الملف DHIS 1.4"
+
+#: data_file
+msgid "Data file"
+msgstr "ملف البيانات"
+
+#: user_name
+msgid "Username"
+msgstr "اسم المستخدم"
+
+#: password
+msgid "Password"
+msgstr "كلمة السر"
+
+#: levels
+msgid "Levels"
+msgstr "المستويات"
+
+#: preload_cache
+msgid "Preload cache"
+msgstr ""
+
+#: import_process_done
+msgid "Import successful"
+msgstr "تم الاستيراد بنجاح"
+
+#: import_process_failed
+msgid "Import process failed - See log for details"
+msgstr "فشلت عملية الاستيراد- انظر  التسجيل لمزيد من التفاصيل"
+
+#: importing_constants
+msgid "Importing constants"
+msgstr "استيراد الثوابت"
+
+#: importing_data_element_category_options
+msgid "Importing data element category options"
+msgstr "استيراد خيارات فئة عامل البيانات"
+
+#: importing_data_element_categories
+msgid "Importing data element categories"
+msgstr "استيراد فئات عنصر البيانات"
+
+#: importing_data_element_category_combos
+msgid "Importing data element category combos"
+msgstr "استيراد القوائم المنسدلة لفئة عنصر البيانات"
+
+#: importing_data_element_category_option_combos
+msgid "Importing data element category option combos"
+msgstr "استيراد القوائم المنسدلة لخيار فئة عنصر المعلومات"
+
+#: importing_data_element_category_members
+msgid "Importing data element category members"
+msgstr "استيراد أعضاء فئة عنصر البيانات"
+
+#: importing_data_element_category_combo_members
+msgid "Importing data element category combo members"
+msgstr "استيراد أعضاء القائمة المنسدلة لفئة عنصر البيانات"
+
+#: importing_data_elements
+msgid "Importing data elements"
+msgstr "استيراد عناصر البيانات"
+
+#: importing_calculated_data_elements
+msgid "Importing calculated data elements"
+msgstr "استيراد عناصر البيانات المجمعة"
+
+#: importing_indicator_types
+msgid "Importing indicator types"
+msgstr "استيراد أنواع مؤشرات"
+
+#: importing_indicators
+msgid "Importing indicators"
+msgstr "استيراد المؤشرات"
+
+#: importing_data_element_groups
+msgid "Importing data element groups"
+msgstr "استيراد مجموعات عنصر البيانات"
+
+#: importing_indicator_groups
+msgid "Importing indicator groups"
+msgstr "استيراد مجموعات المؤشرات"
+
+#: importing_data_element_group_members
+msgid "Importing data element group members"
+msgstr "استيراد أعضاء مجموعة عنصر البيانات"
+
+#: importing_indicator_group_members
+msgid "Importing indicator group members"
+msgstr "استيراد أعضاء مجموعة المؤشر"
+
+#: importing_data_dictionaries
+msgid "Importing data dictionaries"
+msgstr "استيراد قواميس البيانات"
+
+#: importing_data_dictionary_data_elements
+msgid "Importing data dictionary data elements"
+msgstr "استيراد عنصر بيانات قاموس البيانات"
+
+#: importing_data_dictionary_indicators
+msgid "Importing data dictionary indicators"
+msgstr "استيراد مؤشرات قاموس البيانات"
+
+#: importing_data_sets
+msgid "Importing data sets"
+msgstr "استيراد منظومة البيانات"
+
+#: importing_data_sets_daily_capture
+msgid "Importing data sets daily capture"
+msgstr "استيراد الالتقاط اليومي لمنظومة البيانات"
+
+#: importing_data_set_members
+msgid "Importing data set members"
+msgstr "استيراد أعضاء منظومة البيانات"
+
+#: importing_data_set_source_associations
+msgid "Importing data set source associations"
+msgstr "استيراد تعاون مصدر منظومة البيانات"
+
+#: importing_dataset_data_entry_form_association
+msgid "Importing data set data entry form associations"
+msgstr "استيراد تعاون استمارة ادخال بيانات منظمة البيانات"
+
+#: importing_organisation_units
+msgid "Importing organisation units"
+msgstr "استيراد وحدات التنظيم"
+
+#: importing_organisation_unit_relationships
+msgctxt "importing_organisation_unit_relationships"
+msgid "Importing organisation unit relationships"
+msgstr "استيراد علاقات وحدة التنظيم"
+
+#: importing_organisation_unit_groups
+msgid "Importing organisation unit groups"
+msgstr "استيراد مجموعات وحدة التنظيم"
+
+#: importing_organisation_unit_group_members
+msgid "Importing organisation unit group members"
+msgstr "استيراد أعضاء مجموعة وحدة التنظيم "
+
+#: importing_organisation_unit_group_sets
+msgid "Importing organisation unit group sets"
+msgstr "استيراد منظومات مجموعة وحدة التنظيم"
+
+#: importing_organisation_unit_group_set_members
+msgid "Importing organisation unit group set members"
+msgstr "استيراد أعضاء منظومة مجموعة وحدة المنظمة"
+
+#: importing_organisation_unit_structures
+msgid "Importing organisation unit structures"
+msgstr "استيراد هياكل وحدة التنظيم"
+
+#: importing_organisation_unit_relationships
+msgctxt "importing_organisation_unit_relationships"
+msgid "Importing organisation unit relationships"
+msgstr "استيراد علاقات وحدة التنظيم"
+
+#: importing_organisation_unit_hierarchy
+msgid "Importing organisation unit hierarchy"
+msgstr "استيراد سلسلة وحدة التنظيم"
+
+#: importing_organisation_unit_levels
+msgid "Importing organisation unit levels"
+msgstr "استيراد مراحل وحدة التنظيم"
+
+#: importing_periods
+msgid "Importing periods"
+msgstr "استيراد الفترات"
+
+#: importing_routine_data_values
+msgid "Importing routine data values"
+msgstr "استيراد قيم البيانات المعتادة "
+
+#: importing_on_change_periods
+msgid "Importing on-change periods"
+msgstr "استيراد الفترات المتغيرة"
+
+#: importing_semi_permanent_data_values
+msgid "Importing semi-permanent data values"
+msgstr "استيراد قيم البيانات الشبه دائمة "
+
+#: importing_aggregated_data_values
+msgid "Importing aggregated data values"
+msgstr "استيراد قيم البيانات المجمعة "
+
+#: importing_aggregated_indicator_values
+msgid "Importing aggregated indicator values"
+msgstr "استيراد قيم المؤشر المجمعة"
+
+#: importing_validation_rules
+msgid "Importing validation rules"
+msgstr "استيراد قيم المصادقة"
+
+#: importing_data_values
+msgid "Importing data values"
+msgstr "استيراد قيم بيانات"
+
+#: importing_previewed_meta_data
+msgid "Importing previewed meta data"
+msgstr "استيراد بيانات لشرح البيانات المعاينة مسبقا"
+
+#: importing_previewed_data
+msgid "Importing previewed data"
+msgstr "استيراد البيانات المعاينة مسبقا"
+
+#: importing_complete_data_set_registrations
+msgid "Importing complete data set registrations"
+msgstr "استيراد تسجيلات كاملة لمنظومة البيانات"
+
+#: importing_report_tables
+msgid "Importing report tables"
+msgstr "استيراد جداول التقارير"
+
+#: importing_olap_urls
+msgid "Importing OLAP URLs"
+msgstr "استيراد    URLs OLAP"
+
+#: importing_data_set_organisation_unit_associations
+msgid "Importing data set organisation unit associations"
+msgstr "استيراد تعاون وحدة التنظيم لمنظومة البيانات"
+
+#: importing_routine_data_daily_capture_periods
+msgid "Importing routine data daily capture periods"
+msgstr "استيراد فترات التقاط اليومي للبيانات المعتادة"
+
+#: importing_routine_data_daily_capture
+msgid "Importing routine data daily capture"
+msgstr "استيراد الالتقاط اليومي للبيانات المعتادة"
+
+#: no_import_process_running
+msgid "No import process running"
+msgstr "لا تجري عملية استيراد"
+
+#: skip_check_matching
+msgid "Skip check for matching data values"
+msgstr "تجاوز تفحص قيم البيانات المتطابقة"
+
+#: yes_empty_database
+msgid "Yes (empty database)"
+msgstr "نعم (قاعدة بيانات فارغة)"
+
+#: report_tables
+msgid "Report tables"
+msgstr "جداول التقارير"
+
+#: reports
+msgid "Reports"
+msgstr "التقارير"
+
+#: charts
+msgid "Charts"
+msgstr "الرسوم البيانية"
+
+#: set_configuration
+msgid "Please set the configuration in order for the import to work properly"
+msgstr "من فضلك رتب اعدادات الاستيراد لتعمل بشكل ملائم"
+
+#: last_updated_leave_blank_for_all
+msgid "Last updated (Leave blank for all)"
+msgstr "التحديث الأخير(اتركه فارغ للكل )"
+
+#: organisation_unit_with_children
+msgid "Organisation unit with children"
+msgstr "وحدة التنظيم مع الاطفال"
+
+#: organisation_unit_only
+msgid "Organisation unit only"
+msgstr "وحدة التنظيم فقط"
+
+#: current_import_file
+msgid "Current import file"
+msgstr "الملف المستورد الحالي"
+
+#: no_current_file
+msgid "No current file"
+msgstr "لا يوجد ملف حالي"
+
+#: select_organisation_unit
+msgid "Please select at least one organisation unit"
+msgstr "من فضلك حدد وحدة تنظيم واحدة على الاقل"
+
+#: select_startdate
+msgid "Please select a start date"
+msgstr "من فضلك حدد تاريخ بدء"
+
+#: select_enddate
+msgid "Please select an end date"
+msgstr "من فضلك حدد تاريخ انتهاء"
+
+#: select_datasets
+msgid "Please select at least one data set"
+msgstr "من فضلك حدد منظمة بيانات واحدة على الاقل"
+
+#: select_one_or_more_object_types
+msgid "Please select one or more object types"
+msgstr "من فضلك حدد نوع او عدة أنواع من الكائنات"
+
+#: geo_code
+msgid "Geo code"
+msgstr "رمز Geo "
+
+#: view_all
+msgid "View all"
+msgstr "عرض الكل"
+
+#: data_dictionaries
+msgid "Data dictionaries"
+msgstr "قواميس التاريخ"
+
+#: report_table
+msgid "Report table"
+msgstr "جدول التقرير"
+
+#: data_dictionary
+msgctxt "data_dictionary"
+msgid "Data dictionary"
+msgstr "قاموس التاريخ"
+
+#: region
+msgid "Region"
+msgstr "المنطقة"
+
+#: import_process_not_initialized
+msgid "Import process not initialized"
+msgstr "لم تبتدأ عملية الاستيراد"
+
+#: aggregated_data
+msgid "Aggregated data"
+msgstr "البيانات المجمعة "
+
+#: regular_data
+msgid "Regular data"
+msgstr "البيانات المنتظمة "
+
+#: data_source
+msgid "Data source"
+msgstr "مصدر البيانات"
+
+#: use_existing_data
+msgid "Use existing data"
+msgstr "استخدام البيانات الموجودة"
+
+#: generate_data
+msgid "Generate data"
+msgstr "انشاء بيانات"
+
+#: exporting_data_for_data_elements
+msgid "Exporting data for data elements"
+msgstr "تصدير بيانات لعناصر البيانات"
+
+#: exporting_data_for_indicators
+msgid "Exporting data for indicators"
+msgstr "تصدير بيانات للمؤشرات"
+
+#: export_process_done
+msgid "Export process done"
+msgstr "تمت عملية الاستيراد"
+
+#: data_file_is_not_valid
+msgid "Data file is not valid"
+msgstr "ملف البيانات غير صالح "
+
+#: analysis
+msgid "Analysis"
+msgstr "تحليل"
+
+#: import_analysis
+msgid "Import analysis"
+msgstr "استيراد التحليل"
+
+#: unique_constraint_violations
+msgid "Unique constraint violations"
+msgstr "اختراقات التقييد الفريدة"
+
+#: entity
+msgid "Entity"
+msgstr "فرد"
+
+#: value
+msgid "Value"
+msgstr "قيمة"
+
+#: DHIS14_file_import
+msgid "DHIS 1.4 File Import"
+msgstr "DHIS 1.4 استيراد ملف "
+
+#: DHIS14_xml_import
+msgid "DHIS 1.4 XML Import"
+msgstr "DHIS 1.4 XMLاستيراد"
+
+#: DHIS14_detailed_metadata_export
+msgid "DHIS 1.4 Detailed Metadata Export"
+msgstr "تصدير بيانات لشرح البيانات مفصلة ل DHIS 1.4 "
+
+#: detailed_metadata_export
+msgid "Detailed Metadata Export"
+msgstr "تصدير بيانات لشرح البيانات مفصلة"
+
+#: import_process_started
+msgid "Import process started"
+msgstr "بدأت عملية الاستيراد"
+
+#: imported_meta_data
+msgid "Imported meta data"
+msgstr "بيانات لشرح البيانات مستوردة"
+
+#: saved
+msgctxt "saved"
+msgid "Saved"
+msgstr "تم الحفظ"
+
+#: calculated_data_element
+msgid "Calculated data element"
+msgstr "عنصر بيانات محسوب "
+
+#: DHIS14XML
+msgid "DHIS 1.4 XML"
+msgstr ""
+
+#: DHIS14FILE
+msgid "DHIS 1.4 File"
+msgstr "ملف DHIS 1.4"
+
+#: DXF
+msgid "DXF"
+msgstr ""
+
+#: PDF
+msgctxt "PDF"
+msgid "PDF"
+msgstr ""
+
+#: XLS
+msgid "XLS"
+msgstr ""
+
+#: url
+msgid "Url"
+msgstr "وصلة إنترنت"
+
+#: table_name
+msgid "Table name"
+msgstr "اسم الجدول"
+
+#: mode
+msgid "Mode"
+msgstr "نمط"
+
+#: regression
+msgctxt "regression"
+msgid "Regression"
+msgstr "تراجع "
+
+#: reporting_month
+msgid "Reporting month"
+msgstr "تقرير عن شهر "
+
+#: last_3_months
+msgid "Last 3 months"
+msgstr "اخر 3 اشهر"
+
+#: last_6_months
+msgid "Last 6 months"
+msgstr "اخر 6 اشهر"
+
+#: last_12_months
+msgid "Last 12 months"
+msgstr "اخر 12 شهرا"
+
+#: so_far_this_year
+msgid "So far this year"
+msgstr "حتى الان في هذه السنة"
+
+#: last_3_to_6_months
+msgid "Last 3 to 6 months"
+msgstr "اخر 3 الى 6 اشهر"
+
+#: last_6_to_9_months
+msgid "Last 6 to 9 months"
+msgstr "اخر 6 الى 9 اشهر"
+
+#: last_9_to_12_months
+msgid "Last 9 to 12 months"
+msgstr "اخر 9 الى 12 شهر"
+
+#: last_12_individual_months
+msgid "Last 12 individual months"
+msgstr "اخر 12 شهر منفرد"
+
+#: individual_months_this_year
+msgid "Individual months this year"
+msgstr "الأشهر المفردة هذا العام "
+
+#: individual_quarters_this_year
+msgid "Individual quarters this year"
+msgstr "الارباع المنفردة لهذه السنة "
+
+#: organisation_unit_levels
+msgid "Organisation unit levels"
+msgstr "مستويات وحدة التنظيم "
+
+#: organisation_unit_level
+msgid "Organisation unit level"
+msgstr "مرحلة وحدة التنظيم"
+
+#: importing_meta_data
+msgid "Importing meta data"
+msgstr "استيراد بيانات لشرح البيانات"
+
+#: non_existing_data_element_identifiers
+msgid "Non-existing data element identifiers"
+msgstr "معرفات عنصر البيانات الغير موجودة"
+
+#: formula
+msgid "Formula"
+msgstr "صيغة"
+
+#: identifier
+msgid "Identifier"
+msgstr "المعرف"
+
+#: error_data_elements_with_different_period_types
+msgid ""
+"There are data elements registered for data sets with different period "
+"types, please go to data integrity checks for more information and then "
+"correct this before exporting"
+msgstr ""
+"هناك عناصر بيانات مسجلة لمنظومة البيانات بأنواع فترات مختلفة. من فضلك اذهب "
+"الى تفحص صحة البيانات لمزيد من المعلومات وصحح قبل التصدير"
+
+#: data_element_group_sets
+msgid "Data element group sets"
+msgstr "منظومات مجموعة عنصر البيانات"
+
+#: indicator_group_sets
+msgid "Indicator group sets"
+msgstr "منظومات مجموعة المؤشر"
+
+#: data_element_group_set
+msgid "Data element group set"
+msgstr "منظومة مجموعة عنصر البيانات "
+
+#: indicator_group_set
+msgid "Indicator group set"
+msgstr "منظومة مجموعة المؤشر"
+
+#: routine_data_contains_values_out_of_range
+msgid "Routine data values out of range (2^31) exist"
+msgstr "قيم البيانات الاعتيادية خارج نطاق وجود (2^31) "
+
+#: semi_permanent_data_contains_values_out_of_range
+msgid "Semi-permanent data value out of range (2^31) exist"
+msgstr "قيمة البيانات الشبه دائمة خارج نطاق وجود (2^31)  "
+
+#: process_completed
+msgid "Process completed"
+msgstr "تم اتمام العملية"
+
+#: process_started
+msgid "Process started"
+msgstr "بدأت العملية"
+
+#: process_failed
+msgid "Process failed - See log for details"
+msgstr "فشلت العملية - انظر التسجيل لمزيد من التفاصيل"
+
+#: configuration
+msgctxt "configuration"
+msgid "Configuration"
+msgstr "الإعدادات"
+
+#: size
+msgid "Size"
+msgstr "الحجم"
+
+#: dimension
+msgid "Dimension"
+msgstr "البعد "
+
+#: hide_legend
+msgid "Hide legend"
+msgstr "إخفاء العنوان"
+
+#: vertical_labels
+msgid "Vertical labels"
+msgstr "رقعات عمودية"
+
+#: horizontal_plot_orientation
+msgid "Horizontal plot orientation"
+msgstr "توجيه تخطيط افقي"
+
+#: regression
+msgctxt "regression"
+msgid "Regression"
+msgstr "تراجع "
+
+#: design
+msgid "Design"
+msgstr "تصميم"
+
+#: report
+msgid "Report"
+msgstr "تقرير"
+
+#: chart
+msgid "Chart"
+msgstr "المخطط البياني"
+
+#: intro_DHIS14_xml_import
+msgid ""
+"Do an import from an XML based format. DHIS 1.4 is the predecessor of DHIS 2."
+msgstr "قم باستيراد من صيغة قاعدة XML . ان DHIS 1.4 هو السابق لـ DHIS 2. "
+
+#: intro_DHIS14_file_import
+msgid ""
+"Do an import from an Access data file. DHIS 1.4 is the predecessor of DHIS 2."
+msgstr "قم باستيراد ملف دخول بيانات. DHIS 1.4 هو السابق ل DHIS 2"
+
+#: intro_DHIS14_metadata_export
+msgid ""
+"Do an export of meta-data or dimensional data describing the facts. DHIS 1.4 "
+"is the predecessor of DHIS 2."
+msgstr ""
+"قم بتصدير البيابنات لشرح البيانات او البينات البعدية التي تصف الحقائق . ان "
+"DHIS 1.4 هو السابق لDHIS 2"
+
+#: intro_DHIS14_detailed_metadata_export
+msgid ""
+"Do an export of an detailed selection of meta-data. DHIS 1.4 is the "
+"predecessor of DHIS 2."
+msgstr ""
+"قم بتصدير اختيار مفصل لبيانات شرح البيانات. ان DHIS 1.4 هو السابق ل  DHIS 2"
+
+#: intro_DHIS14_data_export
+msgid ""
+"Do an export of data values or facts. DHIS 1.4 is the predecessor of DHIS 2."
+msgstr "قم بتصدير قيم بيانات او حقائق. DHIS 1.4 هو السابق ل DHIS 2"
+
+#: intro_pdf_metadata_export
+msgid ""
+"Portable Document Format (PDF) is a commonly used file format for document "
+"exchange."
+msgstr "تنسيق الوثيقة المتنقلة (PDF) هي ملف شائع الاستخدام لتبادل الوثائق "
+
+#: intro_xls_metadata_export
+msgid ""
+"Excel Spreadsheet (XLS) is a commonly used spreadsheet file format from "
+"Microsoft."
+msgstr "صفحة اكسل هي صيغة ملف صفحات شائع الاستخدام من مايكروسوفت"
+
+#: intro_data_import
+msgid ""
+"Import data values on the DXF 2 XML, JSON, CSV and PDF formats. DXF 2 is the "
+"standard exchange format for DHIS 2."
+msgstr ""
+"استيراد قيم بيانات على صيغ DXF 2 XML, JSON, CSV, PDF . ان DXF 2 هي التنسيق "
+"الثابت المتبادل بالنسبة لـ DHIS 2"
+
+#: intro_csv_data_import
+msgid ""
+"Import data values on the CSV format which is used for data exchange by DHIS "
+"2 and other third-party software."
+msgstr ""
+"استيراد قيم بيانات عن تنسيق  CSV والذي يتم استخدامه لتبادل البيانات من قبل "
+"DHIS 2  و اطراف برمجية ثالثة اخرى"
+
+#: intro_pdf_data_import
+msgid ""
+"Import data from a PDF data entry form. PDF forms can be generated from the "
+"data set module."
+msgstr ""
+"استيراد بيانات من صيغة ادخال بيانات على شكل PDF . ان صيغ PDF  يمكن توليدها "
+"من مجموعة منظومة البيانات."
+
+#: intro_event_import
+msgid "Import events for programs, stages and persons on the DXF 2 format."
+msgstr "استيراد احداث البرامج، المراحل والأشخاص على شكل DXF 2 "
+
+#: intro_dhis14_import
+msgid ""
+"Import data from DHIS 1.4 installations. DHIS 1.4 is the predecessor of DHIS "
+"2."
+msgstr "استيراد البيانات من تنصيبات  DHIS 1.4 . ان  DHIS 1.4 هو السابق  DHIS 2 "
+
+#: intro_data_export
+msgid ""
+"Export data values. This is the regular export function which exports data "
+"to the DHIS 2 exchange format called DXF 2."
+msgstr ""
+"تصدير قيم البيانات. هذه هي وظيفة التصدير المنتظمة والتي تصدر بيانات الى صيغ "
+"تبادل  DHIS 2 المسماة DXF 2 "
+
+#: intro_metadata_export
+msgid ""
+"Export meta data like data elements and organisation units to the standard "
+"DHIS 2 exchange format."
+msgstr ""
+"تصدير بيانات لشرح البيانات مثل عناصر البيانات ووحدات التنظيم لصيغ DHIS 2  "
+"المتبادلة الثابتة  "
+
+#: intro_export_to_other_systems
+msgid ""
+"Export data and meta data to formats such as PDF, Excel and the DHIS 1.4 "
+"exchange format."
+msgstr "تصدير "
+
+#: intro_dhis14_file_configuration
+msgid ""
+"Set the configuration for the DHIS 1.4 file import process, such as the "
+"location of the data file."
+msgstr "ضبط الاعدادات لعملية تصدير ملف DHIS 1.4  ، مثل موقع ملف البيانات"
+
+#: intro_metadata_import
+msgctxt "intro_metadata_import"
+msgid ""
+"Import meta-data like data elements and organisation units using the "
+"standard DHIS 2 exchange format called DXF 2."
+msgstr ""
+"استيراد ... بيانات مثل عناصر البيانات ووحدات التنظيم باستخدام صيغة التبادل "
+"الثابتة في DHIS 2 وهي DXF 2"
+
+#: intro_event_export
+msgid "Export event data for programs, stages and persons on the DXF 2 format."
+msgstr "تصدير بيانات الاحداث للبرامج والمراحل والأشخاص على صيغة DXF 2"
+
+#: intro_xml_metadata_import
+msgctxt "intro_xml_metadata_import"
+msgid ""
+"Import meta-data like data elements and organisation units using the "
+"standard DHIS 2 exchange format called DXF 2."
+msgstr ""
+"استيراد البيانات لشرح البيانات مثل عناصر البيانات ووحدات التنظيم باستخدام "
+"صيغة DHIS 2 الثابتة المتبادلة المسماة DXF 2. "
+
+#: intro_csv_metadata_import
+msgid ""
+"Import meta-data using CSV format. Currently only import of data elements is "
+"supported."
+msgstr ""
+"استيراد بيانات لشرح البيانات باستخدام صيغة CSV . حاليا يتم دعم استيراد عناصر "
+"البيانات فقط"
+
+#: intro_gml_import
+msgid ""
+"Import geographic data for organisation units using GML format. GML is an "
+"XML grammar for expressing geographical features."
+msgstr ""
+"استيراد بيانات جغرافية لوحدات التنظيم باستخدام صيغة GML  . ان GML هي قواعد  "
+"XML للتعبير عن المظاهر الجغرافية"
+
+#: gml_import_info_text
+msgid ""
+"Note: Only import of GML data for existing organisation units is supported."
+msgstr "ملاحظة: المدعوم هو فقط المستورد من بيانات GML لوحدات التنظيم الموجودة"
+
+#: no_item_to_match
+msgid "There is no selected item to match"
+msgstr "لا توجد عناصر محددة متطابقة "
+
+#: dry_run
+msgid "Dry run"
+msgstr "تشغيل جاف"
+
+#: strategy
+msgid "Strategy"
+msgstr "استراتيجية"
+
+#: new_only
+msgid "New only"
+msgstr "الجديد فقط"
+
+#: updates_only
+msgid "Updates only"
+msgstr "فقط التحديثات"
+
+#: data_import
+msgid "Data Import"
+msgstr "استيراد البيانات"
+
+#: import_summary
+msgid "Import summary"
+msgstr "ملخص الاستيراد"
+
+#: data_set_completed_on
+msgid "Data set completed on"
+msgstr "منظومة بيانات مكتملة عن "
+
+#: import_count
+msgid "Import count"
+msgstr "تعداد الاستيراد"
+
+#: import_total_count
+msgid "Import total count"
+msgstr "تعداد الكلي للاستيراد"
+
+#: imported
+msgid "Imported"
+msgstr "المستورد"
+
+#: updated
+msgid "Updated"
+msgstr "المُحدّث"
+
+#: ignored
+msgid "Ignored"
+msgstr "متجاهل"
+
+#: conflicts
+msgid "Conflicts"
+msgstr "تعارضات"
+
+#: no_conflicts_found
+msgid "No conflicts found"
+msgstr "لم يتم العثور على تعارضات"
+
+#: no_import_summary_available
+msgid "No summary available"
+msgstr ""
+
+#: type
+msgid "Type"
+msgstr "النوع"
+
+#: count
+msgid "Count"
+msgstr "تعداد"
+
+#: export_as_xml
+msgid "Export as XML"
+msgstr "تصدير على هيئة XML"
+
+#: export_as_json
+msgid "Export as JSON"
+msgstr "تصدير على هيئة JSON"
+
+#: export_as_csv
+msgid "Export as CSV"
+msgstr "تصدير على هيئة CSV"
+
+#: csv
+msgid "CSV"
+msgstr "CVS"
+
+#: xml
+msgid "XML"
+msgstr ""
+
+#: json
+msgid "JSON"
+msgstr ""
+
+#: pdf
+msgctxt "pdf"
+msgid "PDF"
+msgstr ""
+
+#: xml_data_import
+msgid "XML Data Import"
+msgstr "تصدير بيانات على هيئة XML "
+
+#: csv_data_import
+msgid "CSV Data Import"
+msgstr "CSV تصدير بيانات"
+
+#: pdf_data_import
+msgid "PDF Data Import"
+msgstr "استيراد بيانات على هيئة PDF"
+
+#: event_import
+msgid "Event Import"
+msgstr "استيراد الحدث"
+
+#: event_export
+msgid "Event Export"
+msgstr "تصدير الاحداث"
+
+#: programs
+msgid "Programs"
+msgstr "البرامج "
+
+#: program_stages
+msgid "Program Stages"
+msgstr "مراحل البرنامج "
+
+#: format
+msgid "Format"
+msgstr "التنسيق "
+
+#: skip_first
+msgid "Skip First Row"
+msgstr "تجاوز الصف الاول "
+
+#: compression
+msgid "Compression"
+msgstr "الضغط"
+
+#: compression_gzip
+msgid "Gzip"
+msgstr ""
+
+#: compression_zip
+msgid "Zip"
+msgstr ""
+
+#: uncompressed
+msgid "Uncompressed"
+msgstr "غير مضغوط"
+
+#: no_programs_available
+msgid "No programs available"
+msgstr "لاتتوافر اية برامج "
+
+#: no_program_stages_available
+msgid "No program stages available"
+msgstr "لا توجد مراحل برنامج متوفرة"
+
+#: no_data_values_found
+msgid "No data values found"
+msgstr "لم يتم إيجاد قيم بيانات"
+
+#: all_program_stages
+msgid "All program stages"
+msgstr "كل مراحل البرنامج "
+
+#: id_scheme
+msgid "ID scheme"
+msgstr ""
+
+#: data_element_id_scheme
+msgid "Data element ID scheme"
+msgstr "خطة هوية عنصر البيانات"
+
+#: enable
+msgid "Enable"
+msgstr "تفعيل"
+
+#: disable
+msgid "Disable"
+msgstr "تعطيل"
+
+#: org_unit_id_scheme
+msgid "Org unit ID scheme"
+msgstr "خطة هوية وحدة التنظيم"
+
+#: category_id_scheme
+msgid "Category ID scheme"
+msgstr "خطة هوية الفئة"
+
+#: all_objects
+msgid "all objects"
+msgstr ""
+
+#: uid
+msgid "UID"
+msgstr ""
+
+#: name
+msgid "Name"
+msgstr "الاسم"
+
+#: code
+msgid "Code"
+msgstr "الرمز"
+
+#: uuid
+msgid "UUID"
+msgstr ""
+
+#: more_options
+msgid "More options"
+msgstr "خيارات أخرى"
+
+#: existing_record_check
+msgid "Existing record check"
+msgstr "إيجاد فحص التسجيل"
+
+#: check_safe_recommended
+msgid "Check (safe, recommended)"
+msgstr "تفحص(الامان،مطلوب)"
+
+#: skip_check_fast
+msgid "Skip check (fast)"
+msgstr "تخطي التفحص(سريع)"
+
+#: dxf2
+msgid "DXF2"
+msgstr ""
+
+#: xml_metadata_import
+msgid "XML Meta-Data Import"
+msgstr "استيراد بيانات حول البيانات على شكل XML"
+
+#: csv_metadata_import
+msgid "CSV Meta-Data Import"
+msgstr "استيراد بيانات لشرح البيانات على شكل CSV"
+
+#: metadata_import
+msgid "Meta-Data Import"
+msgstr "استيراد بيانات لشرح البيانات"
+
+#: metadata_export
+msgid "Meta-Data Export"
+msgstr "Meta-Data Export"
+
+#: gml_import
+msgid "GML Import"
+msgstr "استيراد GML"
+
+#: faster_for_small_imports
+msgid "Faster for small imports"
+msgstr ""
+
+#: data_element_or_type_null_or_empty
+msgid "Data element or type is null or empty"
+msgstr "عنصر البيانات او النوع هو فارغ او غير صالح "
+
+#: value_length_greater_than_max_length
+msgid "Value is greater than max length"
+msgstr "القيمة اكبر من الطول الاقصى"
+
+#: value_not_numeric
+msgid "Value is not numeric"
+msgstr "القيمة ليست رقمية"
+
+#: value_not_integer
+msgid "Value is not a valid integer"
+msgstr "القيمة ليست عدد صحيحا صالحا"
+
+#: value_not_positive_integer
+msgid "Value is not a valid positive integer"
+msgstr "القيمة ليست عددا صحيحا موجبا صالحا"
+
+#: value_not_negative_integer
+msgid "Value is not a valid negative integer"
+msgstr "القيمة ليست عددا صحيحا سالبا صالحا"
+
+#: value_is_zero_and_not_zero_significant
+msgid "Value is zero and not zero-significant"
+msgstr "القيمة هي صفر وليست صفرا معتبرا"
+
+#: value_not_zero_or_positive_integer
+msgid "Value is not a valid zero or positive integer"
+msgstr "القيمة ليست صفرا صالحا او عدد صحيحا موجبا"
+
+#: comment_too_long
+msgid "Comment is too long"
+msgstr "التعليق طويل جدا "
+
+#: intro_filtered_metadata_export
+msgid ""
+"Export filtered meta-data like data elements and organisation units to the "
+"standard DHIS 2 exchange format."
+msgstr ""
+"استيراد بيانات لشرح البيانات مثل عناصر البيانات ووحدات التنظيم الى صيغة "
+"تبادل DHIS 2 الثابتة"
+
+#: filtered_metadata_export
+msgid "Meta-Data Detailed Export"
+msgstr "استيراد مفصل بيانات لشرح البيانات"
+
+#: apply
+msgid "Apply"
+msgstr "تطبيق"
+
+#: sort
+msgid "Sort"
+msgstr "ترتيب"
+
+#: options
+msgid "Options"
+msgstr "خيارات"
+
+#: add_new_filter
+msgid "Add new Filter"
+msgstr "اضف مرشحا جديدا"
+
+#: ad_hoc_export
+msgid "Ad-hoc export"
+msgstr ""
+
+#: create_new_filter
+msgid "Create new Filter"
+msgstr "انشاء مرشح جديد"
+
+#: filter_sort_order
+msgid "Filter sort order"
+msgstr "ترتيب نوع المرشح"
+
+#: edit_filter
+msgid "Edit Filter"
+msgstr "تحرير المرشح"
+
+#: filter_details
+msgid "Filter Details"
+msgstr "تفاصيل المرشح"
+
+#: validate_filter
+msgid "Filter name cannot be empty."
+msgstr "الاسم المرشح لا يمكن ان يكون فارغا "
+
+#: export_with_dependencies
+msgid "Export with dependencies"
+msgstr "تصدير مع "
+
+#: attribute_types
+msgid "Attribute Types"
+msgstr ""
+
+#: available_attribute_types
+msgid "Available Attribute Types"
+msgstr ""
+
+#: selected_attribute_types
+msgid "Selected Attribute Types"
+msgstr ""
+
+#: categories
+msgid "Categories"
+msgstr "الفئات"
+
+#: available_categories
+msgid "Available Categories"
+msgstr "الفئات المتوفرة"
+
+#: selected_categories
+msgid "Selected Categories"
+msgstr "الفئات المحددة"
+
+#: category_combos
+msgid "Category Combinations"
+msgstr ""
+
+#: available_category_combos
+msgid "Available Category Combinations"
+msgstr ""
+
+#: selected_category_combos
+msgid "Selected Category Combinations"
+msgstr ""
+
+#: available_charts
+msgid "Available Charts"
+msgstr "الرسوم البيانية المتاحة"
+
+#: selected_charts
+msgid "Selected Charts"
+msgstr "الرسوم البيانية المحددة"
+
+#: available_constants
+msgid "Available Constants"
+msgstr "الثوابت المتوفرة"
+
+#: selected_constants
+msgid "Selected Constants"
+msgstr ""
+
+#: available_dataDictionaries
+msgid "Available Data Dictionaries"
+msgstr ""
+
+#: selected_dataDictionaries
+msgid "Selected Data Dictionaries"
+msgstr ""
+
+#: available_dataElementGroupSets
+msgid "Available Data Element Group Sets"
+msgstr ""
+
+#: selected_dataElementGroupSets
+msgid "Selected Data Element Group Sets"
+msgstr ""
+
+#: available_dataElementGroups
+msgid "Available Data Element Groups"
+msgstr "مجموعات عنصر البيانات المتوفر"
+
+#: selected_dataElementGroups
+msgid "Selected Data Element Groups"
+msgstr "مجموعات عنصر البيانات المحددة"
+
+#: documents
+msgid "Documents"
+msgstr "المستندات"
+
+#: available_documents
+msgid "Available Documents"
+msgstr "المستندات المتوفرة"
+
+#: selected_documents
+msgid "Selected Documents"
+msgstr "المستندات المتوفرة"
+
+#: available_indicatorGroupSets
+msgid "Available Indicator Group Sets"
+msgstr "منظومات مجموعة المؤشر المتوفرة"
+
+#: selected_indicatorGroupSets
+msgid "Selected Indicator Group Sets"
+msgstr "منظومات مجموعة المؤشر المتوفرة"
+
+#: available_indicatorGroups
+msgid "Available Indicator Groups"
+msgstr "مجموعات المؤشر المتوفرة"
+
+#: selected_indicatorGroups
+msgid "Selected Indicator Groups"
+msgstr "مجموعات المؤشر المحددة "
+
+#: indicator_types
+msgid "Indicator types"
+msgstr "أنواع المؤشر"
+
+#: available_indicatorTypes
+msgid "Available Indicator Types"
+msgstr "أنواع المؤشر المتوفرة"
+
+#: selected_indicatorTypes
+msgid "Selected Indicator Types"
+msgstr "أنواع المؤشر المحددة"
+
+#: map_legend_sets
+msgid "Map legend sets"
+msgstr "ال"
+
+#: available_mapLegendSets
+msgid "Available Map Legend Sets"
+msgstr "منظومات الخريطة لالمتوفرة"
+
+#: selected_mapLegendSets
+msgid "Selected Map Legend Sets"
+msgstr "منظمات الخريطةالمحددة"
+
+#: maps
+msgid "Maps"
+msgstr "الخرائط"
+
+#: available_maps
+msgid "Available Maps"
+msgstr "الخرائط المتوفرة"
+
+#: selected_maps
+msgid "Selected Maps"
+msgstr "الخرائط المحددة"
+
+#: option_sets
+msgid "Option sets"
+msgstr ""
+
+#: available_optionSets
+msgid "Available Option Sets"
+msgstr ""
+
+#: selected_optionSets
+msgid "Selected Option Sets"
+msgstr "منظومات الخيارات المتوفرة"
+
+#: available_organisationUnitGroupSets
+msgid "Available Organisation Unit Group Sets"
+msgstr "منظومات مجموعة وحدة التنظيم المتوفرة"
+
+#: selected_organisationUnitGroupSets
+msgid "Selected Organisation Unit Group Sets"
+msgstr "منظومات مجموعة وحدة التنظيم المحددة"
+
+#: available_organisationUnitGroups
+msgid "Available Organisation Unit Groups"
+msgstr "مجموعات وحدة التنظيم المتوفرة"
+
+#: selected_organisationUnitGroups
+msgid "Selected Organisation Unit Groups"
+msgstr "مجموعات وحدة التنظيم االمحددة"
+
+#: available_organisationUnitLevels
+msgid "Available Organisation Unit Levels"
+msgstr "مستويات وحدة التنظيم المتوفرة"
+
+#: selected_organisationUnitLevels
+msgid "Selected Organisation Unit Levels"
+msgstr "مستويات وحدة التنظيم المحددة"
+
+#: available_organisationUnits
+msgid "Available Organisation Units"
+msgstr "وحدات التنظيم المتوفرة"
+
+#: selected_organisationUnits
+msgid "Selected Organisation Units"
+msgstr "وحدات التنظيم المحددة"
+
+#: available_reportTables
+msgid "Available Report Tables"
+msgstr ""
+
+#: selected_reportTables
+msgid "Selected Report Tables"
+msgstr ""
+
+#: available_reports
+msgid "Available Reports"
+msgstr ""
+
+#: selected_reports
+msgid "Selected Reports"
+msgstr "التقارير المحددة"
+
+#: sql_views
+msgid "SQL views"
+msgstr "عرض SQL"
+
+#: available_sqlViews
+msgid "Available SQL Views"
+msgstr "عرض SQL المتوفرة"
+
+#: selected_sqlViews
+msgid "Selected SQL Views"
+msgstr "عرض SQL المحددة"
+
+#: available_userGroups
+msgid "Available User Groups"
+msgstr "مجموعات المستخدم المتوفرة"
+
+#: selected_userGroups
+msgid "Selected User Groups"
+msgstr "مجموعات المستخدم المحددة"
+
+#: available_userRoles
+msgid "Available User Roles"
+msgstr "أدوار المستخدم المتاحة"
+
+#: selected_userRoles
+msgid "Selected User Roles"
+msgstr "أدوار المستخدم المحددة"
+
+#: available_users
+msgid "Available Users"
+msgstr "المستخدمون المتوفرون"
+
+#: selected_users
+msgid "Selected Users"
+msgstr "المستخدمون المحددون"
+
+#: validation_rule_groups
+msgid "Validation rule groups"
+msgstr "مجموعات دور المصادقة"
+
+#: available_validationRuleGroups
+msgid "Available Validation Rule Groups"
+msgstr "مجموعات دور المصادقة المتوفرة"
+
+#: selected_validationRuleGroups
+msgid "Selected Validation Rule Groups"
+msgstr "مجموعات دور المصادقة المحددة"
+
+#: available_validationRules
+msgid "Available Validation Rules"
+msgstr "أدوار المصادقة المتوفرة"
+
+#: selected_validationRules
+msgid "Selected Validation Rules"
+msgstr "أدوار المصادقة المحددة"
+
+#: select_all_values
+msgid "Select All Values"
+msgstr "تحديد كل القيم"
+
+#: deselect_all_values
+msgid "Deselect All Values"
+msgstr "الغاء كل القيم "
+
+#: inclusion
+msgid "Inclusion"
+msgstr "تضمين"
+
+#: include_selected
+msgid "Selected organisation unit"
+msgstr "وحدة التنظيم المحددة"
+
+#: include_children
+msgid "Include children of organisation unit"
+msgstr "تضمين الأطفال في وحدة التنظيم"
+
+#: include_descendants
+msgid "Include descendants of organisation unit"
+msgstr "تضمين الاحفاد لوحدة التنظيم"

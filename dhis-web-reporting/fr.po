@@ -1,0 +1,1175 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-reporting/src/main/resources/org/hisp/dhis/reporting/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-reporting/src/main/resources/org/hisp/dhis/reporting/i18n_module_fr.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: please_select_org_unit
+msgctxt "please_select_org_unit"
+msgid "Please select an organisation unit"
+msgstr "Veuillez choisir une unité d'organisation"
+
+#: please_select_period
+msgctxt "please_select_period"
+msgid "Please select a period"
+msgstr "Veuillez choisir une période"
+
+#: please_select_group_set
+msgid "Please select a group set"
+msgstr "Veuillez choisir un ensemble de groupes"
+
+#: reporting_unit
+msgid "Reporting unit"
+msgstr "Unité du rapportant"
+
+#: reporting_period
+msgctxt "reporting_period"
+msgid "Reporting period"
+msgstr ""
+
+#: report_period
+msgid "Report period"
+msgstr "Période du rapport"
+
+#: select_data_set
+msgid "Please select a data set"
+msgstr "Veuillez choisir un ensemble de données"
+
+#: select_period
+msgctxt "select_period"
+msgid "Please select a period"
+msgstr "Veuillez choisir une période"
+
+#: select_organisation_unit
+msgctxt "select_organisation_unit"
+msgid "Please select an organisation unit"
+msgstr "Veuillez choisir une unité d'organisation"
+
+#: report_organisation_unit
+msgid "Report organisation unit"
+msgstr "Unité d'organisation du rapport"
+
+#: dataset_report
+msgid "Data Set Report"
+msgstr "Rapport basé sur le formulaire"
+
+#: data_approval
+msgid "Data Approval"
+msgstr "Data Approval"
+
+#: add_selected
+msgid "Add selected"
+msgstr "Ajouter la sélection"
+
+#: add_all
+msgid "Add all"
+msgstr "Ajouter tout"
+
+#: add
+msgid "Add"
+msgstr "Ajouter"
+
+#: create_report_table
+msgid "Create report table"
+msgstr "Créer tableau de rapport"
+
+#: available_indicators
+msgid "Available indicators"
+msgstr "Indicateurs disponibles"
+
+#: select_indicatorgroup_all
+msgid "Select indicator group / View all"
+msgstr "Sélectionner le groupe d'indicateur / Voir tous"
+
+#: select_dataelementgroup_all
+msgctxt "select_dataelementgroup_all"
+msgid "Select data element group / View all"
+msgstr ""
+
+#: selected_indicators
+msgid "Selected indicators"
+msgstr "Indicateurs sélectionnés"
+
+#: selected_dataelements
+msgctxt "selected_dataelements"
+msgid "Selected data elements"
+msgstr ""
+
+#: select_organisationunit_level_all
+msgid "Select organsation unit level / View all"
+msgstr "Sélectionner niveau d'unité organsation / Voir tout"
+
+#: select_option_view_all
+msgid "Select option / View all"
+msgstr "Select option / View all"
+
+#: level
+msgid "Level"
+msgstr "Niveau"
+
+#: available_organisationunits
+msgid "Available organisation units"
+msgstr "Unités d'organisation disponibles"
+
+#: selected_organisationunits
+msgid "Selected organisation units"
+msgstr "Unités d'organisation choisies"
+
+#: available_periods
+msgid "Available periods"
+msgstr "Périodes disponibles"
+
+#: selected_periods
+msgid "Selected periods"
+msgstr "Périodes sélectionnées"
+
+#: add_children
+msgid "Add children"
+msgstr "Ajouter les enfants"
+
+#: create
+msgid "Create"
+msgstr "Créer"
+
+#: indicators
+msgid "Indicators"
+msgstr "Indicateurs"
+
+#: organisation_units
+msgid "Organisation units"
+msgstr "Unités d'organisation"
+
+#: periods
+msgid "Periods"
+msgstr "Périodes"
+
+#: relative_periods
+msgid "Relative periods"
+msgstr "Périodes relatives"
+
+#: reporting_month
+msgid "Reporting month"
+msgstr "Mois du rapportage"
+
+#: months_this_year
+msgctxt "months_this_year"
+msgid "Months this year"
+msgstr ""
+
+#: quarters_this_year
+msgctxt "quarters_this_year"
+msgid "Quarters this year"
+msgstr ""
+
+#: this_year
+msgid "This year"
+msgstr "Cette année"
+
+#: reporting_sixmonth
+msgid "Reporting six-month"
+msgstr "Semestre de rapportage"
+
+#: last_2_sixmonths
+msgid "Last 2 six-months"
+msgstr "2 derniers semestres"
+
+#: last_week
+msgid "Last week"
+msgstr "Semaine passée"
+
+#: last_4_weeks
+msgid "Last 4 weeks"
+msgstr "4 dernières semaines"
+
+#: last_12_weeks
+msgid "Last 12 weeks"
+msgstr "12 dernières semaines"
+
+#: months_last_year
+msgid "Months last year"
+msgstr "Mois de l'année passée"
+
+#: quarters_last_year
+msgid "Quarters last year"
+msgstr "Trimestres de l'année passée"
+
+#: last_year
+msgid "Last year"
+msgstr "L'année passée"
+
+#: report_table
+msgid "Report Table"
+msgstr "Tableau de rapport"
+
+#: crosstab_dimensions
+msgid "Crosstab dimensions"
+msgstr "Les dimensions de tableau croisé"
+
+#: confirm_delete_table
+msgid "Are you sure you want to remove table?"
+msgstr "Etes-vous sûr de vouloir supprimer le tableau?"
+
+#: operations
+msgid "Operations"
+msgstr "Opérations"
+
+#: done
+msgid "Done"
+msgstr "Terminé"
+
+#: crosstab_indicators
+msgid "Crosstab indicators"
+msgstr "Croiser les Indicateurs"
+
+#: crosstab_periods
+msgid "Crosstab periods"
+msgstr "Croiser les Périodes"
+
+#: crosstab_organisation_units
+msgid "Crosstab organisation units"
+msgstr "Croiser les unités d'organisation"
+
+#: must_select_at_least_one_indictor_data_element_data_set
+msgid "Please select at least one indicator, data element or data set"
+msgstr ""
+"Veuillez sélectionner au moins un indicateur, un élément de données ou un "
+"ensemble de données"
+
+#: must_select_at_least_one_unit
+msgid "Please select at least one organisation unit"
+msgstr "Veuillez sélectionner au moins une unité d'organisation"
+
+#: must_select_at_least_one_period
+msgid "Please select at least one period"
+msgstr "Veuillez sélectionner au moins une période"
+
+#: cannot_include_more_organisation_unit_regression
+msgid "Cannot include more that one organisation unit with regression"
+msgstr "Ne peut pas inclure plus d'une unité d'organisation avec la régression"
+
+#: cannot_select_orgunit_and_parent_orgunit_param
+msgid "Cannot select both current and parent organisation unit parameter"
+msgstr ""
+"Impossible de sélectionner à la fois l'organisation actuelle et l'unité "
+"parent en paramètre"
+
+#: must_enter_name
+msgid "Please enter a name"
+msgstr "Veuillez saisir un nom"
+
+#: specify_name
+msgid "Please specify a name"
+msgstr "Veuillez spécifier un nom"
+
+#: name_in_use
+msgid "The name is already in use"
+msgstr "Le nom existe déjà"
+
+#: design
+msgid "Design"
+msgstr "Design"
+
+#: home
+msgid "Home"
+msgstr "Accueil"
+
+#: directory
+msgid "Directory"
+msgstr "Répertoire"
+
+#: create_new_report
+msgid "Create new report"
+msgstr "Créer nouveau rapport"
+
+#: create_report
+msgid "Create report"
+msgstr "Créer rapport"
+
+#: standard_report
+msgid "Standard Report"
+msgstr "Rapport standard"
+
+#: confirm_remove_report
+msgid "Are you sure you will delete the report?"
+msgstr "Etes-vous sûr de vouloir supprimer le rapport?"
+
+#: report
+msgid "Report"
+msgstr "Rapport"
+
+#: completed
+msgid "completed"
+msgstr "Terminé"
+
+#: remove_report
+msgid "Remove report"
+msgstr "Retirer le rapport"
+
+#: submit
+msgid "Submit"
+msgstr "Envoyer"
+
+#: edit_report
+msgid "Edit report"
+msgstr "Modifier rapport"
+
+#: processing
+msgid "Processing"
+msgstr "Traitement"
+
+#: indicators_data_elements_data_sets
+msgid "Indicators / data elements / data sets"
+msgstr "Indicateurs / éléments de données / ensembles de données"
+
+#: dataset
+msgid "Data set"
+msgstr "Ensemble de données"
+
+#: organisation_unit
+msgid "Organisation unit"
+msgstr "Unité d'organisation"
+
+#: select_dataset_all
+msgid "Select data set / View all"
+msgstr "Sélectionner ensemble de données / Afficher tout"
+
+#: monthly
+msgid "Monthly"
+msgstr "Mensuel"
+
+#: quarterly
+msgid "Quarterly"
+msgstr "Trimestriel"
+
+#: yearly
+msgid "Yearly"
+msgstr "Annuel"
+
+#: omit_report_table_explanation
+msgid ""
+"If selecting no report table, the user is responsible for providing the data "
+"source"
+msgstr ""
+"Si ne choisissez aucun tableau de rapport, l'utilisateur aura la "
+"responsabilité de fournir la source de données"
+
+#: dataset_completeness
+msgid "Data set Completeness"
+msgstr "Complétude des ensembles de données"
+
+#: report_parameters
+msgid "Report parameters"
+msgstr "Les paramètres de rapport"
+
+#: parent_organisation_unit
+msgid "Parent organisation unit"
+msgstr "Unité d'organisation parent"
+
+#: available_dataelements
+msgid "Available data elements"
+msgstr "Eléments de données disponibles"
+
+#: select_dataelementgroup_all
+msgctxt "select_dataelementgroup_all"
+msgid "Select data element group / View all"
+msgstr ""
+
+#: select_category_combo
+msgctxt "select_category_combo"
+msgid "Select category combination"
+msgstr ""
+
+#: selected_dataelements
+msgctxt "selected_dataelements"
+msgid "Selected data elements"
+msgstr ""
+
+#: dataelements
+msgid "Data elements"
+msgstr "Eléments de données"
+
+#: report_table_parameters
+msgid "Report table parameters"
+msgstr "Paramètres du tableau de rapport"
+
+#: months_this_year
+msgctxt "months_this_year"
+msgid "Months this year"
+msgstr ""
+
+#: quarters_this_year
+msgctxt "quarters_this_year"
+msgid "Quarters this year"
+msgstr ""
+
+#: add_report_table
+msgid "Add Report Table"
+msgstr "Ajouter tableau de rapport"
+
+#: add_dataelement_dimension_table
+msgid "Add Dataelement Dimension Table"
+msgstr "Ajouter tableau de dimension d'élément de donné"
+
+#: generate
+msgid "Generate"
+msgstr "Générer"
+
+#: process_completed
+msgid "Process completed"
+msgstr "Processus terminé"
+
+#: view
+msgid "View"
+msgstr "Voir"
+
+#: chart
+msgid "Chart"
+msgstr "Graphique"
+
+#: dimension
+msgid "Dimension"
+msgstr "Dimenssion"
+
+#: pivot_table
+msgid "Pivot Table"
+msgstr "Tableau croisé dynamique"
+
+#: indicator_group
+msgid "Indicator group"
+msgstr "Groupe d'indicateurs"
+
+#: start_date
+msgctxt "start_date"
+msgid "Start date"
+msgstr ""
+
+#: end_date
+msgctxt "end_date"
+msgid "End date"
+msgstr ""
+
+#: period_type
+msgid "Period type"
+msgstr "Type de période"
+
+#: organisation_unit_level
+msgid "Organisation unit level"
+msgstr "Niveau d'unité d'organisation"
+
+#: select_period_type
+msgid "Select period type"
+msgstr "Sélectionner type de période"
+
+#: org_units
+msgid "Org units"
+msgstr "OrgUnit"
+
+#: get_data
+msgid "Get data"
+msgstr "Obtenir données"
+
+#: pivot
+msgid "Pivot"
+msgstr "Pivoter"
+
+#: data
+msgid "Data"
+msgstr "Données"
+
+#: select
+msgid "Select"
+msgstr "Sélectionner"
+
+#: criteria
+msgid "Criteria"
+msgstr "Critères"
+
+#: this_indicator_and_periods
+msgid "This indicator and periods"
+msgstr "Cet indicateur et les périodes"
+
+#: this_indicator_and_orgunits
+msgid "This indicator and orgunits"
+msgstr "Cet indicateur et orgunits"
+
+#: all_indicator_and_periods
+msgid "All indicators and periods"
+msgstr "Tous les indicateurs et périodes"
+
+#: all_indicator_and_orgunits
+msgid "All indicators and orgunits"
+msgstr "Tous les indicateurs et orgunits"
+
+#: generating_report
+msgid "Generating report"
+msgstr "Génération du rapport"
+
+#: use_data_for_selected_unit_only
+msgid "Use data for selected unit only"
+msgstr "Utiliser les données pour l'unité sélectionnée uniquement"
+
+#: add_to_dashboard
+msgid "Add to dashboard"
+msgstr "Ajouter au tableau de bord"
+
+#: confirm_add_to_dashboard
+msgid "Are you sure want to add this report to the dashboard?"
+msgstr "Etes-vous sûr de vouloir ajouter ce rapport au tableau de bord?"
+
+#: resource
+msgid "Resource"
+msgstr "Ressource"
+
+#: view_report
+msgid "View report"
+msgstr "Voir le rapport"
+
+#: create_new_resource
+msgid "Create new resource"
+msgstr "Créer une nouvelle ressource"
+
+#: external_url
+msgid "External URL"
+msgstr "URL externe"
+
+#: upload_file
+msgid "Upload file"
+msgstr "Charger fichier"
+
+#: file
+msgid "File"
+msgstr "Fichier"
+
+#: attachment
+msgid "Attachment"
+msgstr "Pièce jointe"
+
+#: url
+msgid "URL"
+msgstr "URL"
+
+#: display
+msgid "Display"
+msgstr "Afficher"
+
+#: visible
+msgid "Visible"
+msgstr "Visible"
+
+#: column
+msgid "Column"
+msgstr "Colonne"
+
+#: confirm_add_report_table_to_dashboard
+msgid "Are you sure you want to add this report table to dashboard?"
+msgstr "Etes-vous sûr de vouloir ajouter ce tableau rapport au tableau de bord?"
+
+#: continue
+msgid "Continue"
+msgstr "Continuer"
+
+#: display_facility_name
+msgid "Display Facility Name"
+msgstr "Afficher nom de l'établissement"
+
+#: use_a3_format
+msgid "Use A3 format"
+msgstr "Utilisez le format A3"
+
+#: tally_sheet_name
+msgid "Tally Sheet Name"
+msgstr "Nom feuille de pointage"
+
+#: data_element
+msgid "Data element"
+msgstr "Élément de données"
+
+#: clear
+msgid "Clear"
+msgstr "Effacer"
+
+#: next
+msgid "Next"
+msgstr "Suivant"
+
+#: prev
+msgid "Prev"
+msgstr "Préc"
+
+#: prev_year
+msgid "Prev year"
+msgstr "L'année précédente"
+
+#: next_year
+msgid "Next year"
+msgstr "L'année prochaine"
+
+#: none
+msgid "None"
+msgstr "Aucun"
+
+#: facility
+msgid "Facility"
+msgstr "Etablissement"
+
+#: month
+msgid "Month"
+msgstr "Mois"
+
+#: year
+msgid "Year"
+msgstr "Année"
+
+#: method
+msgid "Method"
+msgstr "Méthode"
+
+#: show_more_options
+msgid "Show more options"
+msgstr "Afficher d'autres options"
+
+#: show_fewer_options
+msgid "Show fewer options"
+msgstr ""
+
+#: generate_before_export
+msgid "Please generate table before exporting"
+msgstr "Veuillez générer le tableau avant de l'exporter"
+
+#: based_on_registration
+msgid "Based on complete data set registrations"
+msgstr "Basé sur les saisies enregistrées comme finies"
+
+#: based_on_compulsory
+msgid "Based on compulsory data elements"
+msgstr "Basé sur des éléments de données obligatoires"
+
+#: based_on_ratio
+msgid "Based on number of registered data values"
+msgstr "Basé sur le nombre de valeurs de données saisies"
+
+#: intro_standard_report
+msgid ""
+"View and add reports based on the JasperReports library. These can be based "
+"on report tables and can be designed in iReport."
+msgstr ""
+"Voir et ajouter des rapports standards. Ces rapports peuvent être basés sur "
+"les tableaux de rapport et peuvent être conçus dans BIRT ou JasperReports."
+
+#: intro_dataset_report
+msgid ""
+"View data set reports. These reports are based on data entry screens and "
+"will produce a report with aggregated data."
+msgstr ""
+"Voir les rapports basés sur les formulaires. Ces rapports sont basés sur les "
+"formulaires de saisie de données et produisent un rapport avec des données "
+"agrégées."
+
+#: intro_resource
+msgid ""
+"View and add resources. These resources can be uploaded documents or URLs on "
+"the web."
+msgstr ""
+"Voir et ajouter des ressources. Ces ressources peuvent être des documents "
+"téléchargées ou des URL web."
+
+#: intro_tally_sheet_generator
+msgid ""
+"Generate tally sheets, which can be printed and used to collect data in the "
+"field."
+msgstr ""
+"Générer des feuilles de pointage qui peuvent être imprimées et utilisées "
+"pour collecter des données sur le terrain."
+
+#: intro_pivot_table
+msgid ""
+"Browse pivot tables, which can be pivoted on any of the indicator, "
+"organisation unit and period dimensions."
+msgstr ""
+"Parcourir des tableaux croisés dynamiques qui peuvent être pivotés sur les "
+"dimensions d'indicateurs, d'unités d'organisation ou de période."
+
+#: intro_report_table
+msgid ""
+"Add and generate report tables. Report tables are customizable database "
+"tables which can be used as basis for reports."
+msgstr ""
+"Ajouter et générer des tableaux du rapport. Les tableaux de rapport sont des "
+"tables de base de données personnalisable qui peuvent être utilisés comme "
+"base pour les rapports."
+
+#: intro_reporting_rate_summary
+msgid ""
+"Browse the reporting rates of data sets by organisation unit and period "
+"based on various criteria for submission."
+msgstr ""
+"Parcourir les taux de rapportation des données par unité organisationnelle "
+"et la période de base sur différents critères de soumission."
+
+#: intro_orgunit_distribution_report
+msgid ""
+"Browse the organisation unit distribution report based on the organisation "
+"unit group sets and its groups."
+msgstr ""
+"Parcourir le rapport de distribution des unités d'organisation basé sur les "
+"ensembles de groupes d'unités d'organisation et leurs groupes."
+
+#: intro_data_approval
+msgid ""
+"View data and manage data approval by approving or unapproving, accepting or "
+"unaccepting data."
+msgstr ""
+"View data and manage data approval by approving or unapproving, accepting or "
+"unaccepting data."
+
+#: orgunit_distribution_report
+msgid "Organisation Unit Distribution Report"
+msgstr "Rapport de distribution des unités d'organisation"
+
+#: get_current_design
+msgid "Get current design"
+msgstr "Obtenir le design actuel"
+
+#: organisation_unit_report
+msgid "Organisation Unit Report"
+msgstr "Rapport d'Unité d'organisation"
+
+#: select_group_set
+msgid "Select group set"
+msgstr "Sélectionner l'ensemble de groupes"
+
+#: orgunit_distribution
+msgid "Organisation unit distribution report"
+msgstr "Rapport de distribution d'unités d'organisation"
+
+#: get_report
+msgctxt "get_report"
+msgid "Get report"
+msgstr ""
+
+#: get_chart
+msgid "Get chart"
+msgstr "Obtenir Graphique"
+
+#: group_set
+msgid "Group set"
+msgstr "Ensemble de groupes"
+
+#: select_org_unit
+msgid "Select organisation unit"
+msgstr "Sélectionner unité d'organisation"
+
+#: get_report
+msgctxt "get_report"
+msgid "Get report"
+msgstr ""
+
+#: get_report_as_xls
+msgid "Download as Excel"
+msgstr "Télécharger en tableur"
+
+#: get_report_as_csv
+msgid "Download as CSV"
+msgstr "Télécharger en CSV"
+
+#: get_report_as_pdf
+msgid "Download as PDF"
+msgstr "Télécharger en PDF"
+
+#: get_report_as_jasper
+msgid "Download as Report"
+msgstr "Télécharger comme rapport"
+
+#: get_report_as_jrxml
+msgid "Download as JRXML"
+msgstr "Télécharger en JRXML"
+
+#: select_category_combo
+msgctxt "select_category_combo"
+msgid "Select category combination"
+msgstr ""
+
+#: sort_order
+msgid "Sort order"
+msgstr "Ordre de tri"
+
+#: ascending
+msgid "Low to high"
+msgstr "Croissant"
+
+#: descending
+msgid "High to low"
+msgstr "Décroissant"
+
+#: top_limit
+msgid "Top limit"
+msgstr "Limite supérieure"
+
+#: data_type
+msgid "Data type"
+msgstr "Type de données"
+
+#: indicator
+msgid "Indicator"
+msgstr "Indicateur"
+
+#: data_element_group
+msgid "Data element group"
+msgstr "Groupe d'éléments de données"
+
+#: grand_parent_organisation_unit
+msgid "Grand parent organisation unit"
+msgstr "Unité d'organisation grand parent"
+
+#: available_reporting_rates
+msgid "Available reporting rates"
+msgstr "Taux de rapportage disponibles"
+
+#: selected_reporting_rates
+msgid "Selected reporting rates"
+msgstr "Taux de rapportages selectionnés"
+
+#: toggle_fixed_periods
+msgid "Toggle fixed periods"
+msgstr "Basculer vers périodes fixes"
+
+#: toggle_fixed_organisation_units
+msgid "Toggle fixed organisation units"
+msgstr "Basculer vers les unités d'organisation fixes"
+
+#: group
+msgid "Group"
+msgstr "Groupe"
+
+#: groups
+msgid "Groups"
+msgstr "Groupes"
+
+#: confirm_delete
+msgid "Are you sure you want to delete this object?"
+msgstr "Etes-vous sûr de vouloir supprimer cet objet?"
+
+#: leaf_parent_organisation_unit
+msgid "Leaf organisation units"
+msgstr "Unités d'organisation feuilles"
+
+#: reporting_bimonth
+msgid "Reporting bimonth"
+msgstr "e mois de rapportage"
+
+#: last_6_bimonths
+msgid "Last 6 bimonths"
+msgstr "6 derniers bimestres"
+
+#: reporting_quarter
+msgid "Reporting quarter"
+msgstr "Trimestre de rapportage"
+
+#: include_organisation_unit_group_sets
+msgid "Include org unit group sets param"
+msgstr "Inclure paramètre d'ensembles de groupe d'orgunits"
+
+#: reporting_period
+msgctxt "reporting_period"
+msgid "Reporting period"
+msgstr ""
+
+#: last_5_years
+msgid "Last 5 years"
+msgstr "5 dernières années"
+
+#: last_12_months
+msgid "Last 12 months"
+msgstr "12 derniers mois"
+
+#: last_4_quarters
+msgid "Last 4 quarters"
+msgstr "4 derniers trimestres"
+
+#: reporting_rate_summary
+msgid "Reporting Rate Summary"
+msgstr "Apercu taux rapportage"
+
+#: available_organisation_unit_groups
+msgid "Available organisation unit groups"
+msgstr "Groupes unités d'organisation disponbles"
+
+#: selected_organisation_unit_groups
+msgid "Selected organisation unit groups"
+msgstr "Groupes sélectionnés d'unité d'organisation"
+
+#: start_date
+msgctxt "start_date"
+msgid "Start date"
+msgstr ""
+
+#: end_date
+msgctxt "end_date"
+msgid "End date"
+msgstr ""
+
+#: start_export
+msgid "Start export"
+msgstr "Commencez l'exportation"
+
+#: period_types
+msgid "Period types"
+msgstr "Type de période"
+
+#: include_cumulative
+msgid "Include cumulative"
+msgstr "Inclure cumulatif"
+
+#: include_regression
+msgid "Include regression"
+msgstr "Inclure régression"
+
+#: print
+msgid "Print"
+msgstr "Imprimer"
+
+#: reporting_period
+msgctxt "reporting_period"
+msgid "Reporting period"
+msgstr ""
+
+#: completed_by
+msgid "Completed by"
+msgstr "Fini par"
+
+#: view_resource
+msgid "View resource"
+msgstr "Voir la ressource"
+
+#: this_financial_year
+msgid "This financial year"
+msgstr "Cette année financière"
+
+#: last_financial_year
+msgid "Last financial year"
+msgstr "Dernière année financière"
+
+#: last_5_financial_years
+msgid "Last 5 financial years"
+msgstr "5 dernières années financières"
+
+#: financial_yearly
+msgid "Financial Yearly"
+msgstr "Année financière"
+
+#: please_specify_file
+msgid "Please specify a design file"
+msgstr "Veuillez choisir le fichier de desgn"
+
+#: jasper_design
+msgid "Jasper design"
+msgstr "Jasper design"
+
+#: write_your_interpretation
+msgid "Write a comment, question or interpretation"
+msgstr "Ecrire un commentaire, question ou interprétation"
+
+#: share
+msgid "Share"
+msgstr "Partager"
+
+#: share_your_interpretation
+msgid "Share your interpretation"
+msgstr "Partager votre interprétation"
+
+#: interpretation_was_shared
+msgid "Interpretation was shared"
+msgstr "L'interpretation a été partagée"
+
+#: last_3_months
+msgid "Last 3 months"
+msgstr "3 derniers mois"
+
+#: get_report_template
+msgid "Get report template"
+msgstr "Obtenir le modèle de rapport"
+
+#: actual_reports
+msgid "Actual Reports"
+msgstr "Rapports actuels"
+
+#: expected_reports
+msgid "Expected Reports"
+msgstr "Rapports attendus"
+
+#: percent
+msgid "Percent"
+msgstr "Pourcentage"
+
+#: reports_on_time
+msgid "Reports On Time"
+msgstr "Rapports à temps"
+
+#: percent_on_time
+msgid "Percent On Time"
+msgstr "Pourcentage (à temps)"
+
+#: view_all
+msgid "View all"
+msgstr "Voir tout"
+
+#: write_your_interpretation_of_report
+msgid "Write a comment, question or interpretation of this report"
+msgstr "Ecrire un commentaire, question ou interprétation pour ce rapport"
+
+#: jasper_report_report_table_data_source
+msgid "Jasper report with report table data source"
+msgstr "Rapport Jasper avec source de données tableau"
+
+#: jasper_report_jdbc_data_source
+msgid "Jasper report with JDBC data source"
+msgstr "Rapport Jasper avec source de données JDBC"
+
+#: html_report
+msgid "HTML report"
+msgstr "Rapport HTML"
+
+#: design_file
+msgid "Design file"
+msgstr "Fichier design"
+
+#: get_jasper_report_template
+msgid "Get Jasper report template"
+msgstr "Obtenir le modèle de rapport Jasper"
+
+#: get_html_report_template
+msgid "Get HTML report template"
+msgstr "Obtenir le modèle de rapport HTML"
+
+#: analytics_tables_management
+msgid "Analytics tables management"
+msgstr ""
+
+#: analytics_tables
+msgid "Analytics tables"
+msgstr "Tables d'analytique"
+
+#: analytics_tables_update
+msgid "Analytics tables update"
+msgstr "Mise à jour des tables d'analytique"
+
+#: aggregation_period_types
+msgid "Aggregation period types"
+msgstr "Types de période d'agrégation"
+
+#: analytics
+msgid "Analytics"
+msgstr ""
+
+#: approve
+msgid "Approve"
+msgstr "Approve"
+
+#: unapprove
+msgid "Unapprove"
+msgstr "Unapprove"
+
+#: accept
+msgid "Accept"
+msgstr "Accept"
+
+#: unaccept
+msgid "Unaccept"
+msgstr "Unaccept"
+
+#: waiting_for_lower_level_approval
+msgid "Waiting for lower levels to approve"
+msgstr "Waiting for lower level org units to approve"
+
+#: approved_at_a_higher_level
+msgid "Approved at a higher level"
+msgstr ""
+
+#: approved
+msgid "Approved"
+msgstr "Approved"
+
+#: approved_and_accepted
+msgid "Approved and accepted"
+msgstr "Approved and accepted"
+
+#: ready_for_approval_at_a_higher_level
+msgid "Ready for approval at a higher level"
+msgstr ""
+
+#: ready_for_approval
+msgid "Ready for approval"
+msgstr "Ready for approval"
+
+#: approval_not_relevant
+msgid "Approval not relevant"
+msgstr ""
+
+#: waiting_for_approval_elsewhere
+msgid "Waiting for approval elsewhere"
+msgstr ""
+
+#: approved_elsewhere
+msgid "Approved elsewhere"
+msgstr ""
+
+#: accepted_elsewhere
+msgid "Accepted elsewhere"
+msgstr ""
+
+#: approved_for_part_of_this_period
+msgid "Approved for part of this period"
+msgstr ""
+
+#: accepted_for_part_of_this_period
+msgid "Accepted for part of this period"
+msgstr ""
+
+#: approved_elsewhere_for_part_of_this_period
+msgid "Approved elsewhere for part of this period"
+msgstr ""
+
+#: accepted_elsewhere_for_part_of_this_period
+msgid "Accepted elsewhere for part of this period"
+msgstr ""
+
+#: confirm_approval
+msgid "Are you sure you want to approve this data set?"
+msgstr "Are you sure you want to approve this data set?"
+
+#: confirm_unapproval
+msgid "Are you sure you want to unapprove this data set?"
+msgstr "Are you sure you want to unapprove this data set?"
+
+#: confirm_accept
+msgid "Are you sure you want to accept this data set approval?"
+msgstr "Are you sure you want to accept this data set approval?"
+
+#: confirm_unaccept
+msgid "Are you sure you want to unaccept this data set approval?"
+msgstr "Are you sure you want to unaccept this data set approval?"
+
+#: approval_entity
+msgid "Approval entity"
+msgstr "Approval entity"
+
+#: approval_status
+msgid "Approval status"
+msgstr "Approval status"
+
+#: please_make_selection
+msgid "Please make a selection below"
+msgstr "Please make a selection below"
+
+#: data_criteria
+msgid "Data criteria"
+msgstr ""

@@ -1,0 +1,1897 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-importexport/src/main/resources/org/hisp/dhis/importexport/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-importexport/src/main/resources/org/hisp/dhis/importexport/i18n_module_pt_BR.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: datavalue
+msgctxt "datavalue"
+msgid "Data Value"
+msgstr "Valor"
+
+#: import
+msgctxt "import"
+msgid "Import"
+msgstr "Importar"
+
+#: select
+msgid "Select"
+msgstr "Seleccione"
+
+#: period_type
+msgid "Period Type"
+msgstr "Tipo de Período"
+
+#: export
+msgid "Export"
+msgstr "Exportar"
+
+#: action
+msgid "Action"
+msgstr "Acção"
+
+#: import
+msgctxt "import"
+msgid "Import"
+msgstr "Importar"
+
+#: preview
+msgctxt "preview"
+msgid "Preview"
+msgstr "Visualizar"
+
+#: from
+msgid "From"
+msgstr "De"
+
+#: to
+msgid "To"
+msgstr "Para"
+
+#: period
+msgid "Period"
+msgstr "Período"
+
+#: selected_data_elements
+msgid "Selected data elements"
+msgstr "Elementos de dados seleccionados"
+
+#: available_data_elements
+msgid "Available data elements"
+msgstr "Elementos de Dados Disponiveis"
+
+#: move_selected
+msgctxt "move_selected"
+msgid "Move selected"
+msgstr "Mover seleccionado"
+
+#: move_all
+msgctxt "move_all"
+msgid "Move all"
+msgstr "Mover todos"
+
+#: remove_selected
+msgctxt "remove_selected"
+msgid "Remove selected"
+msgstr "Remover seleccione"
+
+#: remove_all
+msgctxt "remove_all"
+msgid "Remove all"
+msgstr "Remova todos"
+
+#: indicators
+msgid "Indicators"
+msgstr "Indicadores"
+
+#: datavalues
+msgid "Data values"
+msgstr "Valores"
+
+#: available_datasets
+msgid "Available data sets"
+msgstr "Conjunto de Dados disponíveis"
+
+#: selected_datasets
+msgid "Selected data sets"
+msgstr "Conjuntos de Dados Selecionados"
+
+#: available_indicators
+msgid "Available indicators"
+msgstr "Indicadores disponiveis"
+
+#: selected_indicators
+msgid "Selected indicators"
+msgstr "Indicadores selecionados"
+
+#: level
+msgid "Level"
+msgstr "Nivel"
+
+#: clear
+msgid "Clear"
+msgstr "Limpar"
+
+#: dhis14_import
+msgid "DHIS 1.4 Import"
+msgstr "Importando DHIS 1.4"
+
+#: organisation_units
+msgid "Organisation units"
+msgstr "Unidades organizacionais"
+
+#: periods
+msgid "Periods"
+msgstr "Períodos"
+
+#: import
+msgctxt "import"
+msgid "Import"
+msgstr "Importar"
+
+#: importing
+msgid "Importing..."
+msgstr "Importando..."
+
+#: done
+msgid "Done"
+msgstr "Realizado"
+
+#: compare
+msgid "Compare"
+msgstr "Comparar"
+
+#: configuration
+msgctxt "configuration"
+msgid "Configuration"
+msgstr "Configuração"
+
+#: source
+msgid "Source"
+msgstr "Fonte"
+
+#: object_type
+msgid "Object type"
+msgstr ""
+
+#: del
+msgid "Del"
+msgstr "Apagar"
+
+#: up
+msgid "Up"
+msgstr "Acima"
+
+#: specify_file
+msgid "Please specify a file"
+msgstr "Por favor, especifique o ficheiro"
+
+#: data_sets
+msgid "Data sets"
+msgstr "Conjunto de Dados"
+
+#: include_datavalues
+msgid "Include Data Values"
+msgstr "Include data values"
+
+#: file
+msgid "File"
+msgstr "Ficheiro"
+
+#: elements
+msgid "Elements"
+msgstr "Elementos"
+
+#: data
+msgid "Data"
+msgstr ""
+
+#: import_preview
+msgid "Import Preview"
+msgstr "Preview importação"
+
+#: select_none
+msgid "Select none"
+msgstr "Nenhum seleccionado"
+
+#: element
+msgctxt "element"
+msgid "Element"
+msgstr "Elemento"
+
+#: unique
+msgid "Unique"
+msgstr "Unico"
+
+#: matching
+msgid "Matching"
+msgstr "Correspondente"
+
+#: preview
+msgctxt "preview"
+msgid "Preview"
+msgstr "Visualizar"
+
+#: skip
+msgid "Skip"
+msgstr "Saltar"
+
+#: dataelement
+msgctxt "dataelement"
+msgid "Data element"
+msgstr "Elemento de dado"
+
+#: indicator
+msgid "Indicator"
+msgstr "Indicador"
+
+#: indicator_group
+msgid "Indicator group"
+msgstr "Grupo de Indicador"
+
+#: dataset
+msgid "Data set"
+msgstr "Conjunto de dado"
+
+#: organisationunit
+msgctxt "organisationunit"
+msgid "Organisation unit"
+msgstr "Unidade organizacional"
+
+#: data_export
+msgid "DXF Data Value Export"
+msgstr "Data Export"
+
+#: datavalue_export
+msgctxt "datavalue_export"
+msgid "Data Export"
+msgstr ""
+
+#: metadata_export
+msgid "DXF Metadata Export"
+msgstr "Metadata Export"
+
+#: data_export
+msgctxt "data_export"
+msgid "Data Export"
+msgstr "Data Export"
+
+#: metadata_export
+msgid "Metadata Export"
+msgstr "Metadata Export"
+
+#: data_element_groups
+msgid "Data element groups"
+msgstr "Grupos de Elementos de Dados"
+
+#: indicator_groups
+msgid "Indicator groups"
+msgstr "Grupos de Indicadores"
+
+#: organisation_unit
+msgctxt "organisation_unit"
+msgid "Organisation unit"
+msgstr "Unidade organizacional"
+
+#: organisation_unit_groups
+msgid "Organisation unit groups"
+msgstr "Grupos de unidades organizacionais"
+
+#: organisation_unit_group_sets
+msgid "Organisation unit group sets"
+msgstr "Conjuntos de grupo de unidade organizacional"
+
+#: export_to_other_systems
+msgid "Export to other systems"
+msgstr "Exportar para outro sistema"
+
+#: import_from_other_systems
+msgid "Import from other systems"
+msgstr ""
+
+#: DHIS14_metadata_export
+msgid "DHIS 1.4 Metadata Export"
+msgstr "Exportação Metadados SISD 1.4"
+
+#: DHIS14_data_export
+msgid "DHIS 1.4 Data Export"
+msgstr "Exportar Dado DHIS 1.4"
+
+#: accept_incoming_records
+msgid "Accept incoming records"
+msgstr "Aceitar registos vindos"
+
+#: include_datavalues
+msgid "Include data values"
+msgstr "Include data values"
+
+#: new_and_updates
+msgid "New and Updates"
+msgstr "Novo e Actualizado"
+
+#: new_no_updates
+msgid "New ( No Updates )"
+msgstr "Novos (Nenhuma Actualização)"
+
+#: data_element
+msgctxt "data_element"
+msgid "Data element"
+msgstr "Elemento de Dados"
+
+#: data_element_group
+msgid "Data element group"
+msgstr "Grupo de Elemento de Dados"
+
+#: organisation_unit_group
+msgid "Organisation unit group"
+msgstr "Grupo da unidade organizacional"
+
+#: organisation_unit_group_set
+msgid "Organisation unit group set"
+msgstr "Conjunto de Grupo Unidade Organizacional"
+
+#: category_option
+msgid "Category option"
+msgstr ""
+
+#: category_option_group
+msgid "Category option group"
+msgstr ""
+
+#: option_set
+msgid "Option set"
+msgstr ""
+
+#: element
+msgctxt "element"
+msgid "Element"
+msgstr "Elemento"
+
+#: objects
+msgid "Objects"
+msgstr "Objectos"
+
+#: discard_selected
+msgid "Discard selected"
+msgstr "Descartar seleccionado"
+
+#: discard_all
+msgid "Discard all"
+msgstr "Discartar todos"
+
+#: match_to_existing
+msgid "Match to existing"
+msgstr "Corresponder com existente"
+
+#: compare_to_existing
+msgid "Compare to existing"
+msgstr "Comparar com o existente"
+
+#: property
+msgid "Property"
+msgstr "Propriedade"
+
+#: existing_objects
+msgid "Existing objects"
+msgstr "Objectos existentes"
+
+#: discard
+msgid "Discard"
+msgstr "Descartar"
+
+#: new_object
+msgid "New object"
+msgstr "Novo objecto"
+
+#: existing_object
+msgid "Existing object"
+msgstr "Objecto existente"
+
+#: file_type_not_allowed
+msgid "File type not allowed"
+msgstr "Tipo de ficheiro não permitido"
+
+#: import_all
+msgid "Import all"
+msgstr "Importar todos"
+
+#: factor
+msgid "Factor"
+msgstr "Factor"
+
+#: match
+msgid "Match"
+msgstr "Corresponder"
+
+#: discard_update
+msgid "Discard update"
+msgstr "Descartar actalização"
+
+#: show_advanced_options
+msgid "Show advanced options"
+msgstr "Mostrar opções avançadas"
+
+#: hide_advanced_options
+msgid "Hide advanced options"
+msgstr "Esconder opcções avançadas"
+
+#: move_selected
+msgctxt "move_selected"
+msgid "Move selected"
+msgstr "Mover seleccionado"
+
+#: move_all
+msgctxt "move_all"
+msgid "Move all"
+msgstr "Mover todos"
+
+#: remove_selected
+msgctxt "remove_selected"
+msgid "Remove selected"
+msgstr "Remover seleccione"
+
+#: remove_all
+msgctxt "remove_all"
+msgid "Remove all"
+msgstr "Remova todos"
+
+#: pdf_metadata_export
+msgid "PDF Metadata Export"
+msgstr "Exportar Metadado para PDF"
+
+#: xls_metadata_export
+msgid "XLS Metadata Export"
+msgstr "Exportar Metadado XLS"
+
+#: version
+msgid "Version"
+msgstr "Versão"
+
+#: status
+msgid "Status"
+msgstr "Estados"
+
+#: data_type
+msgid "Data type"
+msgstr "Tipo de dado"
+
+#: validation_rules
+msgid "Validation rules"
+msgstr "Regras de validação"
+
+#: saved
+msgctxt "saved"
+msgid "Saved"
+msgstr "Salvado"
+
+#: last_updated
+msgid "Last updated"
+msgstr "Última actualização"
+
+#: validation_rule
+msgid "Validation rule"
+msgstr "Regra de validação"
+
+#: operator
+msgid "Operator"
+msgstr "Operador"
+
+#: data_elements
+msgid "Data elements"
+msgstr "Elementos de dado"
+
+#: data_dictionary
+msgctxt "data_dictionary"
+msgid "Data dictionary"
+msgstr "Dicionário de Dados"
+
+#: data_value
+msgctxt "data_value"
+msgid "Data Value"
+msgstr ""
+
+#: data_value_daily
+msgid "Daily Data Value"
+msgstr ""
+
+#: dhis14_file_configuration
+msgid "DHIS 1.4 File Configuration"
+msgstr "Configuração de Ficheiro DHIS 1.4"
+
+#: data_file
+msgid "Data file"
+msgstr "Ficheiro de dado"
+
+#: user_name
+msgid "Username"
+msgstr "Nome do utilizador"
+
+#: password
+msgid "Password"
+msgstr "Password"
+
+#: levels
+msgid "Levels"
+msgstr "Níveis"
+
+#: preload_cache
+msgid "Preload cache"
+msgstr ""
+
+#: import_process_done
+msgid "Import successful"
+msgstr "sucesso na importacão"
+
+#: import_process_failed
+msgid "Import process failed - See log for details"
+msgstr "Processo de importação falhou - Ver log para obter detalhes"
+
+#: importing_constants
+msgid "Importing constants"
+msgstr "Importando constantes"
+
+#: importing_data_element_category_options
+msgid "Importing data element category options"
+msgstr "Importando opções de categoria de elemento de dados"
+
+#: importing_data_element_categories
+msgid "Importing data element categories"
+msgstr "Importando categorias de elementos de dados"
+
+#: importing_data_element_category_combos
+msgid "Importing data element category combos"
+msgstr "Importando combinacão de categoria de elemento de dados"
+
+#: importing_data_element_category_option_combos
+msgid "Importing data element category option combos"
+msgstr "Importando opções de combinação de categoria de elementos de dados"
+
+#: importing_data_element_category_members
+msgid "Importing data element category members"
+msgstr "Importando membros de categorias de elementos de dados"
+
+#: importing_data_element_category_combo_members
+msgid "Importing data element category combo members"
+msgstr "Importando integrantes de combinação de categoria de elementos de dados"
+
+#: importing_data_elements
+msgid "Importing data elements"
+msgstr "Importando elementos de dados"
+
+#: importing_calculated_data_elements
+msgid "Importing calculated data elements"
+msgstr "Importando elementos de dados calculados"
+
+#: importing_indicator_types
+msgid "Importing indicator types"
+msgstr "Importando tipos de indicadores"
+
+#: importing_indicators
+msgid "Importing indicators"
+msgstr "Importando indicadores"
+
+#: importing_data_element_groups
+msgid "Importing data element groups"
+msgstr "Importando grupos de elementos de dados"
+
+#: importing_indicator_groups
+msgid "Importing indicator groups"
+msgstr "Importando grupos de indicadores"
+
+#: importing_data_element_group_members
+msgid "Importing data element group members"
+msgstr "Importando membros de grupos de elementos de dados"
+
+#: importing_indicator_group_members
+msgid "Importing indicator group members"
+msgstr "Importando membros de grupos de indicadores"
+
+#: importing_data_dictionaries
+msgid "Importing data dictionaries"
+msgstr "Importando dicionarios de dados"
+
+#: importing_data_dictionary_data_elements
+msgid "Importing data dictionary data elements"
+msgstr "Importando dicionário de dados de elementos de dados"
+
+#: importing_data_dictionary_indicators
+msgid "Importing data dictionary indicators"
+msgstr "Importando dicionário de dados de indicadores"
+
+#: importing_data_sets
+msgid "Importing data sets"
+msgstr "Importando conjunto de dados"
+
+#: importing_data_sets_daily_capture
+msgid "Importing data sets daily capture"
+msgstr ""
+
+#: importing_data_set_members
+msgid "Importing data set members"
+msgstr "Importando membros de conjuto de dados"
+
+#: importing_data_set_source_associations
+msgid "Importing data set source associations"
+msgstr "Importando associações de conjuntos de dados"
+
+#: importing_dataset_data_entry_form_association
+msgid "Importing data set data entry form associations"
+msgstr ""
+"Importando associações de conjunto de dados e formulário de entrada de dados"
+
+#: importing_organisation_units
+msgid "Importing organisation units"
+msgstr "Importando unidades organizacionais"
+
+#: importing_organisation_unit_relationships
+msgctxt "importing_organisation_unit_relationships"
+msgid "Importing organisation unit relationships"
+msgstr "Importando relacionamentos de unidade organizacionais"
+
+#: importing_organisation_unit_groups
+msgid "Importing organisation unit groups"
+msgstr "Importando grupos de unidades organizacionais"
+
+#: importing_organisation_unit_group_members
+msgid "Importing organisation unit group members"
+msgstr "Importando os membros de grupos de unidades organizacionais "
+
+#: importing_organisation_unit_group_sets
+msgid "Importing organisation unit group sets"
+msgstr "Importando conjuntos de grupo de unidades organizacionais"
+
+#: importing_organisation_unit_group_set_members
+msgid "Importing organisation unit group set members"
+msgstr "Importando membros de conjuntos de grupos de unidades organizacionais"
+
+#: importing_organisation_unit_structures
+msgid "Importing organisation unit structures"
+msgstr "Importando estruturas unidades organizacionais"
+
+#: importing_organisation_unit_relationships
+msgctxt "importing_organisation_unit_relationships"
+msgid "Importing organisation unit relationships"
+msgstr "Importando relacionamentos de unidade organizacionais"
+
+#: importing_organisation_unit_hierarchy
+msgid "Importing organisation unit hierarchy"
+msgstr "Importando hierarquia unidades organizacionais"
+
+#: importing_organisation_unit_levels
+msgid "Importing organisation unit levels"
+msgstr "Importando níveis de unidades organizacionais"
+
+#: importing_periods
+msgid "Importing periods"
+msgstr "Importando periodos"
+
+#: importing_routine_data_values
+msgid "Importing routine data values"
+msgstr "Importando valores de dados de rotina"
+
+#: importing_on_change_periods
+msgid "Importing on-change periods"
+msgstr "Importando períodos em mudança"
+
+#: importing_semi_permanent_data_values
+msgid "Importing semi-permanent data values"
+msgstr "Importando valores de dados semi-permanentes"
+
+#: importing_aggregated_data_values
+msgid "Importing aggregated data values"
+msgstr "Importando valores de dados agregados"
+
+#: importing_aggregated_indicator_values
+msgid "Importing aggregated indicator values"
+msgstr "Importando valores dos indicadores agregados"
+
+#: importing_validation_rules
+msgid "Importing validation rules"
+msgstr "Importando regras de validação"
+
+#: importing_data_values
+msgid "Importing data values"
+msgstr "Importando valores de dados"
+
+#: importing_previewed_meta_data
+msgid "Importing previewed meta data"
+msgstr "Importando meta dados visualizados"
+
+#: importing_previewed_data
+msgid "Importing previewed data"
+msgstr "Importando dados visualizados"
+
+#: importing_complete_data_set_registrations
+msgid "Importing complete data set registrations"
+msgstr "Importando registos completos de conjunto de dados"
+
+#: importing_report_tables
+msgid "Importing report tables"
+msgstr "Importando tabelas do relatórios"
+
+#: importing_olap_urls
+msgid "Importing OLAP URLs"
+msgstr "Importando URLs OLAP"
+
+#: importing_data_set_organisation_unit_associations
+msgid "Importing data set organisation unit associations"
+msgstr ""
+"Importando associações de unidades organizacionais de conjuntos de dados"
+
+#: importing_routine_data_daily_capture_periods
+msgid "Importing routine data daily capture periods"
+msgstr ""
+
+#: importing_routine_data_daily_capture
+msgid "Importing routine data daily capture"
+msgstr ""
+
+#: no_import_process_running
+msgid "No import process running"
+msgstr "Nenhum processo de importação está sendo executanda"
+
+#: skip_check_matching
+msgid "Skip check for matching data values"
+msgstr "Saltar para verificar valores dados correspondentes"
+
+#: yes_empty_database
+msgid "Yes (empty database)"
+msgstr "Sim (base de dado vázia)"
+
+#: report_tables
+msgid "Report tables"
+msgstr "Tabelas do relatório"
+
+#: reports
+msgid "Reports"
+msgstr "Relatórios"
+
+#: charts
+msgid "Charts"
+msgstr "Gráficos"
+
+#: set_configuration
+msgid "Please set the configuration in order for the import to work properly"
+msgstr ""
+"Por favor, defina a configuração para que o módulo de relatório para "
+"funcionar corretamente"
+
+#: last_updated_leave_blank_for_all
+msgid "Last updated (Leave blank for all)"
+msgstr "Última atualização (Deixe em branco para todos)"
+
+#: organisation_unit_with_children
+msgid "Organisation unit with children"
+msgstr "Unidades Organizacionais com dependentes"
+
+#: organisation_unit_only
+msgid "Organisation unit only"
+msgstr "Só unidade organizacional"
+
+#: current_import_file
+msgid "Current import file"
+msgstr "Ficheiro corrente de importação"
+
+#: no_current_file
+msgid "No current file"
+msgstr "Nenhum ficheiro corrente"
+
+#: select_organisation_unit
+msgid "Please select at least one organisation unit"
+msgstr "Selecione unidade organizacional"
+
+#: select_startdate
+msgid "Please select a start date"
+msgstr "Por favor, seleccione a data de inicio"
+
+#: select_enddate
+msgid "Please select an end date"
+msgstr "Por favor, seleccione uma data final"
+
+#: select_datasets
+msgid "Please select at least one data set"
+msgstr "Selecione ao menos um conjunto de dados"
+
+#: select_one_or_more_object_types
+msgid "Please select one or more object types"
+msgstr "Por favor selecione um ou mais tipos de objetos"
+
+#: geo_code
+msgid "Geo code"
+msgstr "Código Geo"
+
+#: view_all
+msgid "View all"
+msgstr "Visualizar todos"
+
+#: data_dictionaries
+msgid "Data dictionaries"
+msgstr "Dicionários de Dados"
+
+#: report_table
+msgid "Report table"
+msgstr "Tabelas de Relatório"
+
+#: data_dictionary
+msgctxt "data_dictionary"
+msgid "Data dictionary"
+msgstr "Dicionário de Dados"
+
+#: region
+msgid "Region"
+msgstr "Região"
+
+#: import_process_not_initialized
+msgid "Import process not initialized"
+msgstr "Processo de Importacão não inicializado"
+
+#: aggregated_data
+msgid "Aggregated data"
+msgstr "Dados agregados"
+
+#: regular_data
+msgid "Regular data"
+msgstr "Dado Regular"
+
+#: data_source
+msgid "Data source"
+msgstr "Fonte de dado"
+
+#: use_existing_data
+msgid "Use existing data"
+msgstr "Use os dados agregados existentes"
+
+#: generate_data
+msgid "Generate data"
+msgstr "Gerar dado"
+
+#: exporting_data_for_data_elements
+msgid "Exporting data for data elements"
+msgstr "Exportando dados de elementos de dados"
+
+#: exporting_data_for_indicators
+msgid "Exporting data for indicators"
+msgstr "Exportando dados para os indicadores"
+
+#: export_process_done
+msgid "Export process done"
+msgstr "Processo de exportação efectuado"
+
+#: data_file_is_not_valid
+msgid "Data file is not valid"
+msgstr "Ficheiro de dado não é valido"
+
+#: analysis
+msgid "Analysis"
+msgstr "Analise"
+
+#: import_analysis
+msgid "Import analysis"
+msgstr "Análise de importação"
+
+#: unique_constraint_violations
+msgid "Unique constraint violations"
+msgstr "Únicas violações de restrição"
+
+#: entity
+msgid "Entity"
+msgstr "Entidade"
+
+#: value
+msgid "Value"
+msgstr "Valor"
+
+#: DHIS14_file_import
+msgid "DHIS 1.4 File Import"
+msgstr "Importação Ficheiro SISD 1.4"
+
+#: DHIS14_xml_import
+msgid "DHIS 1.4 XML Import"
+msgstr "Importação SISD 1.4 XML"
+
+#: DHIS14_detailed_metadata_export
+msgid "DHIS 1.4 Detailed Metadata Export"
+msgstr "Exportar Metadados detalhados de DHIS 1.4"
+
+#: detailed_metadata_export
+msgid "Detailed Metadata Export"
+msgstr "Exportar Metadado Detalhado"
+
+#: import_process_started
+msgid "Import process started"
+msgstr "Processo de importação iniciado"
+
+#: imported_meta_data
+msgid "Imported meta data"
+msgstr "Metadados importados"
+
+#: saved
+msgctxt "saved"
+msgid "Saved"
+msgstr "Salvado"
+
+#: calculated_data_element
+msgid "Calculated data element"
+msgstr "Elemento de dado calculado"
+
+#: DHIS14XML
+msgid "DHIS 1.4 XML"
+msgstr "DHIS 1.4 XML"
+
+#: DHIS14FILE
+msgid "DHIS 1.4 File"
+msgstr "Ficheiro DHIS 1.4"
+
+#: DXF
+msgid "DXF"
+msgstr "DXF"
+
+#: PDF
+msgctxt "PDF"
+msgid "PDF"
+msgstr "PDF"
+
+#: XLS
+msgid "XLS"
+msgstr "XLS"
+
+#: url
+msgid "Url"
+msgstr "URL"
+
+#: table_name
+msgid "Table name"
+msgstr "Nome da tabela"
+
+#: mode
+msgid "Mode"
+msgstr "Modo"
+
+#: regression
+msgctxt "regression"
+msgid "Regression"
+msgstr "Regressão"
+
+#: reporting_month
+msgid "Reporting month"
+msgstr "Meses relatórios"
+
+#: last_3_months
+msgid "Last 3 months"
+msgstr "Últimos 3 meses"
+
+#: last_6_months
+msgid "Last 6 months"
+msgstr "Últimos 6 meses"
+
+#: last_12_months
+msgid "Last 12 months"
+msgstr "Últimos 12 meses"
+
+#: so_far_this_year
+msgid "So far this year"
+msgstr "Até este ano"
+
+#: last_3_to_6_months
+msgid "Last 3 to 6 months"
+msgstr "Últimos 3 a 6 meses"
+
+#: last_6_to_9_months
+msgid "Last 6 to 9 months"
+msgstr "Últimos 6 a 9 meses"
+
+#: last_9_to_12_months
+msgid "Last 9 to 12 months"
+msgstr "Últimos 9 a 12 meses"
+
+#: last_12_individual_months
+msgid "Last 12 individual months"
+msgstr "Últimos 12 meses individual"
+
+#: individual_months_this_year
+msgid "Individual months this year"
+msgstr "Mês individuais este ano"
+
+#: individual_quarters_this_year
+msgid "Individual quarters this year"
+msgstr "Trimestres individuais este ano"
+
+#: organisation_unit_levels
+msgid "Organisation unit levels"
+msgstr "Níveis unidade organizacional"
+
+#: organisation_unit_level
+msgid "Organisation unit level"
+msgstr "Nivel de unidade organizacional"
+
+#: importing_meta_data
+msgid "Importing meta data"
+msgstr "Importando metadados"
+
+#: non_existing_data_element_identifiers
+msgid "Non-existing data element identifiers"
+msgstr "Não existente identificadores deelemento dados"
+
+#: formula
+msgid "Formula"
+msgstr "Fórmula"
+
+#: identifier
+msgid "Identifier"
+msgstr "Identificador"
+
+#: error_data_elements_with_different_period_types
+msgid ""
+"There are data elements registered for data sets with different period "
+"types, please go to data integrity checks for more information and then "
+"correct this before exporting"
+msgstr ""
+"Existem elementos de dados registrados para conjuntos de dados com tipos de "
+"períodos diferentes, por favor, vá para verificações de integridade de dados "
+"para obter mais informações e corrigir antes de exportação"
+
+#: data_element_group_sets
+msgid "Data element group sets"
+msgstr "Conjuntos grupo de elemento dados"
+
+#: indicator_group_sets
+msgid "Indicator group sets"
+msgstr "Conjuntos de grupo de indicador"
+
+#: data_element_group_set
+msgid "Data element group set"
+msgstr "Conjunto de grupo elemento de dado"
+
+#: indicator_group_set
+msgid "Indicator group set"
+msgstr "Conjunto de grupo de indicador"
+
+#: routine_data_contains_values_out_of_range
+msgid "Routine data values out of range (2^31) exist"
+msgstr "Existem valores de dados de rotina fora da faixa (2 ^ 31)"
+
+#: semi_permanent_data_contains_values_out_of_range
+msgid "Semi-permanent data value out of range (2^31) exist"
+msgstr "Existem valores de dados semi-permanentes fora do intervalo (2 ^ 31)"
+
+#: process_completed
+msgid "Process completed"
+msgstr "Processo concluído"
+
+#: process_started
+msgid "Process started"
+msgstr "Processo iniciado"
+
+#: process_failed
+msgid "Process failed - See log for details"
+msgstr "Processo falhou - Ver log para obter detalhes"
+
+#: configuration
+msgctxt "configuration"
+msgid "Configuration"
+msgstr "Configuração"
+
+#: size
+msgid "Size"
+msgstr "Tamanho"
+
+#: dimension
+msgid "Dimension"
+msgstr "Dimensão"
+
+#: hide_legend
+msgid "Hide legend"
+msgstr "Esconder legenda"
+
+#: vertical_labels
+msgid "Vertical labels"
+msgstr "Etiquetas vertical"
+
+#: horizontal_plot_orientation
+msgid "Horizontal plot orientation"
+msgstr "Orientação horizontal do gráfico"
+
+#: regression
+msgctxt "regression"
+msgid "Regression"
+msgstr "Regressão"
+
+#: design
+msgid "Design"
+msgstr "Desenho"
+
+#: report
+msgid "Report"
+msgstr "Relatórios"
+
+#: chart
+msgid "Chart"
+msgstr "Gráfico"
+
+#: intro_DHIS14_xml_import
+msgid ""
+"Do an import from an XML based format. DHIS 1.4 is the predecessor of DHIS 2."
+msgstr ""
+"Fazer uma importação de um formato baseado em XML. DHIS 1.4 é o antecessor "
+"do DHIS 2."
+
+#: intro_DHIS14_file_import
+msgid ""
+"Do an import from an Access data file. DHIS 1.4 is the predecessor of DHIS 2."
+msgstr ""
+"Fazer uma importação de um arquivo de dados do Access. DHIS 1.4 é o "
+"antecessor do DHIS 2."
+
+#: intro_DHIS14_metadata_export
+msgid ""
+"Do an export of meta-data or dimensional data describing the facts. DHIS 1.4 "
+"is the predecessor of DHIS 2."
+msgstr ""
+"Fazer uma exportação de metadados ou dados dimensional descrevendo os fatos. "
+"DHIS 1.4 é o antecessor do DHIS 2."
+
+#: intro_DHIS14_detailed_metadata_export
+msgid ""
+"Do an export of an detailed selection of meta-data. DHIS 1.4 is the "
+"predecessor of DHIS 2."
+msgstr ""
+"Fazer uma exportação de uma seleção detalhada de metadados. DHIS 1.4 é o "
+"antecessor do DHIS 2."
+
+#: intro_DHIS14_data_export
+msgid ""
+"Do an export of data values or facts. DHIS 1.4 is the predecessor of DHIS 2."
+msgstr ""
+"Fazer uma exportação de valores de dados ou factos. DHIS 1.4 é o antecessor "
+"do DHIS 2."
+
+#: intro_pdf_metadata_export
+msgid ""
+"Portable Document Format (PDF) is a commonly used file format for document "
+"exchange."
+msgstr ""
+"Portable Document Format (PDF) é um formato de arquivo normalmente usado "
+"para troca de documentos."
+
+#: intro_xls_metadata_export
+msgid ""
+"Excel Spreadsheet (XLS) is a commonly used spreadsheet file format from "
+"Microsoft."
+msgstr ""
+"Planilha do Excel (XLS) é um formato de arquivo comumente usados ​​planilha "
+"da Microsoft."
+
+#: intro_data_import
+msgid ""
+"Import data values on the DXF 2 XML, JSON, CSV and PDF formats. DXF 2 is the "
+"standard exchange format for DHIS 2."
+msgstr ""
+
+#: intro_csv_data_import
+msgid ""
+"Import data values on the CSV format which is used for data exchange by DHIS "
+"2 and other third-party software."
+msgstr ""
+"Valores de dados de importação sobre o formato CSV, que é usado para troca "
+"de dados por DHIS e outros softwares de terceiros."
+
+#: intro_pdf_data_import
+msgid ""
+"Import data from a PDF data entry form. PDF forms can be generated from the "
+"data set module."
+msgstr ""
+
+#: intro_event_import
+msgid "Import events for programs, stages and persons on the DXF 2 format."
+msgstr ""
+
+#: intro_dhis14_import
+msgid ""
+"Import data from DHIS 1.4 installations. DHIS 1.4 is the predecessor of DHIS "
+"2."
+msgstr ""
+"Importar dados de 1.4 dhis instalações. DHIS 1.4 é o antecessor do DHIS 2."
+
+#: intro_data_export
+msgid ""
+"Export data values. This is the regular export function which exports data "
+"to the DHIS 2 exchange format called DXF 2."
+msgstr ""
+"Exportação valores de dados. Esta é a função de exportação regular que "
+"exporta os dados para o formato de troca de DHIS 2 chamado DXF."
+
+#: intro_metadata_export
+msgid ""
+"Export meta data like data elements and organisation units to the standard "
+"DHIS 2 exchange format."
+msgstr ""
+"Exportação de metadados para o formato de intercâmbio DHIS2. Meta meta "
+"implica elementos de dados e outros objetos que descreve os dados."
+
+#: intro_export_to_other_systems
+msgid ""
+"Export data and meta data to formats such as PDF, Excel and the DHIS 1.4 "
+"exchange format."
+msgstr ""
+"Exportação de dados e metadados para formatos como PDF, Excel e DHIS 1.4."
+
+#: intro_dhis14_file_configuration
+msgid ""
+"Set the configuration for the DHIS 1.4 file import process, such as the "
+"location of the data file."
+msgstr ""
+"Definir a configuração para o processo de importação DHIS 1.4 de arquivos, "
+"como a localização do arquivo de dados."
+
+#: intro_metadata_import
+msgctxt "intro_metadata_import"
+msgid ""
+"Import meta-data like data elements and organisation units using the "
+"standard DHIS 2 exchange format called DXF 2."
+msgstr ""
+"Importação de meta-dados, como elementos de dados e unidades "
+"organizacionais, utilizando o formato de troca padrão DHIS 2 chamado DXF 2."
+
+#: intro_event_export
+msgid "Export event data for programs, stages and persons on the DXF 2 format."
+msgstr ""
+
+#: intro_xml_metadata_import
+msgctxt "intro_xml_metadata_import"
+msgid ""
+"Import meta-data like data elements and organisation units using the "
+"standard DHIS 2 exchange format called DXF 2."
+msgstr ""
+
+#: intro_csv_metadata_import
+msgid ""
+"Import meta-data using CSV format. Currently only import of data elements is "
+"supported."
+msgstr ""
+
+#: intro_gml_import
+msgid ""
+"Import geographic data for organisation units using GML format. GML is an "
+"XML grammar for expressing geographical features."
+msgstr ""
+
+#: gml_import_info_text
+msgid ""
+"Note: Only import of GML data for existing organisation units is supported."
+msgstr ""
+
+#: no_item_to_match
+msgid "There is no selected item to match"
+msgstr "Sorry, there is no any selected item to match."
+
+#: dry_run
+msgid "Dry run"
+msgstr "Simulação"
+
+#: strategy
+msgid "Strategy"
+msgstr "Estratégia"
+
+#: new_only
+msgid "New only"
+msgstr "Apenas novo"
+
+#: updates_only
+msgid "Updates only"
+msgstr "Actualizar apenas"
+
+#: data_import
+msgid "Data Import"
+msgstr "Importação de Dados"
+
+#: import_summary
+msgid "Import summary"
+msgstr "Importar resumo"
+
+#: data_set_completed_on
+msgid "Data set completed on"
+msgstr "Conjunto de dados concluída em"
+
+#: import_count
+msgid "Import count"
+msgstr "Importar contar"
+
+#: import_total_count
+msgid "Import total count"
+msgstr ""
+
+#: imported
+msgid "Imported"
+msgstr "Importado"
+
+#: updated
+msgid "Updated"
+msgstr "Actualizar"
+
+#: ignored
+msgid "Ignored"
+msgstr "Ignorado"
+
+#: conflicts
+msgid "Conflicts"
+msgstr "Conflitos"
+
+#: no_conflicts_found
+msgid "No conflicts found"
+msgstr "Nenhum conflito encontrado"
+
+#: no_import_summary_available
+msgid "No summary available"
+msgstr ""
+
+#: type
+msgid "Type"
+msgstr "Tipo"
+
+#: count
+msgid "Count"
+msgstr "Contar"
+
+#: export_as_xml
+msgid "Export as XML"
+msgstr "Exportar como XML"
+
+#: export_as_json
+msgid "Export as JSON"
+msgstr ""
+
+#: export_as_csv
+msgid "Export as CSV"
+msgstr "Exportar como CSV"
+
+#: csv
+msgid "CSV"
+msgstr "CSV"
+
+#: xml
+msgid "XML"
+msgstr "XML"
+
+#: json
+msgid "JSON"
+msgstr ""
+
+#: pdf
+msgctxt "pdf"
+msgid "PDF"
+msgstr ""
+
+#: xml_data_import
+msgid "XML Data Import"
+msgstr "Importar Dados XML"
+
+#: csv_data_import
+msgid "CSV Data Import"
+msgstr "Importar Dados CSV "
+
+#: pdf_data_import
+msgid "PDF Data Import"
+msgstr ""
+
+#: event_import
+msgid "Event Import"
+msgstr ""
+
+#: event_export
+msgid "Event Export"
+msgstr ""
+
+#: programs
+msgid "Programs"
+msgstr ""
+
+#: program_stages
+msgid "Program Stages"
+msgstr ""
+
+#: format
+msgid "Format"
+msgstr ""
+
+#: skip_first
+msgid "Skip First Row"
+msgstr ""
+
+#: compression
+msgid "Compression"
+msgstr ""
+
+#: compression_gzip
+msgid "Gzip"
+msgstr ""
+
+#: compression_zip
+msgid "Zip"
+msgstr ""
+
+#: uncompressed
+msgid "Uncompressed"
+msgstr ""
+
+#: no_programs_available
+msgid "No programs available"
+msgstr ""
+
+#: no_program_stages_available
+msgid "No program stages available"
+msgstr ""
+
+#: no_data_values_found
+msgid "No data values found"
+msgstr "Nenhum dado foi encontrado"
+
+#: all_program_stages
+msgid "All program stages"
+msgstr ""
+
+#: id_scheme
+msgid "ID scheme"
+msgstr ""
+
+#: data_element_id_scheme
+msgid "Data element ID scheme"
+msgstr "Esquema de ID elemento de dados"
+
+#: enable
+msgid "Enable"
+msgstr "Activo"
+
+#: disable
+msgid "Disable"
+msgstr "Desactivo"
+
+#: org_unit_id_scheme
+msgid "Org unit ID scheme"
+msgstr "ID do esquema da unid org"
+
+#: category_id_scheme
+msgid "Category ID scheme"
+msgstr ""
+
+#: all_objects
+msgid "all objects"
+msgstr ""
+
+#: uid
+msgid "UID"
+msgstr "UID"
+
+#: name
+msgid "Name"
+msgstr "Nome"
+
+#: code
+msgid "Code"
+msgstr "Código"
+
+#: uuid
+msgid "UUID"
+msgstr ""
+
+#: more_options
+msgid "More options"
+msgstr "Mais opçãoes"
+
+#: existing_record_check
+msgid "Existing record check"
+msgstr "Verificação de registro existente"
+
+#: check_safe_recommended
+msgid "Check (safe, recommended)"
+msgstr "Verifique (seguro + recomendado)"
+
+#: skip_check_fast
+msgid "Skip check (fast)"
+msgstr "Ignorar verificação"
+
+#: dxf2
+msgid "DXF2"
+msgstr "DXF2"
+
+#: xml_metadata_import
+msgid "XML Meta-Data Import"
+msgstr ""
+
+#: csv_metadata_import
+msgid "CSV Meta-Data Import"
+msgstr ""
+
+#: metadata_import
+msgid "Meta-Data Import"
+msgstr "Importar Meta-Dados"
+
+#: metadata_export
+msgid "Meta-Data Export"
+msgstr "Metadata Export"
+
+#: gml_import
+msgid "GML Import"
+msgstr "Import GML"
+
+#: faster_for_small_imports
+msgid "Faster for small imports"
+msgstr ""
+
+#: data_element_or_type_null_or_empty
+msgid "Data element or type is null or empty"
+msgstr ""
+
+#: value_length_greater_than_max_length
+msgid "Value is greater than max length"
+msgstr ""
+
+#: value_not_numeric
+msgid "Value is not numeric"
+msgstr ""
+
+#: value_not_integer
+msgid "Value is not a valid integer"
+msgstr ""
+
+#: value_not_positive_integer
+msgid "Value is not a valid positive integer"
+msgstr ""
+
+#: value_not_negative_integer
+msgid "Value is not a valid negative integer"
+msgstr ""
+
+#: value_is_zero_and_not_zero_significant
+msgid "Value is zero and not zero-significant"
+msgstr ""
+
+#: value_not_zero_or_positive_integer
+msgid "Value is not a valid zero or positive integer"
+msgstr ""
+
+#: comment_too_long
+msgid "Comment is too long"
+msgstr ""
+
+#: intro_filtered_metadata_export
+msgid ""
+"Export filtered meta-data like data elements and organisation units to the "
+"standard DHIS 2 exchange format."
+msgstr ""
+
+#: filtered_metadata_export
+msgid "Meta-Data Detailed Export"
+msgstr ""
+
+#: apply
+msgid "Apply"
+msgstr ""
+
+#: sort
+msgid "Sort"
+msgstr ""
+
+#: options
+msgid "Options"
+msgstr ""
+
+#: add_new_filter
+msgid "Add new Filter"
+msgstr ""
+
+#: ad_hoc_export
+msgid "Ad-hoc export"
+msgstr ""
+
+#: create_new_filter
+msgid "Create new Filter"
+msgstr ""
+
+#: filter_sort_order
+msgid "Filter sort order"
+msgstr ""
+
+#: edit_filter
+msgid "Edit Filter"
+msgstr ""
+
+#: filter_details
+msgid "Filter Details"
+msgstr ""
+
+#: validate_filter
+msgid "Filter name cannot be empty."
+msgstr ""
+
+#: export_with_dependencies
+msgid "Export with dependencies"
+msgstr ""
+
+#: attribute_types
+msgid "Attribute Types"
+msgstr ""
+
+#: available_attribute_types
+msgid "Available Attribute Types"
+msgstr ""
+
+#: selected_attribute_types
+msgid "Selected Attribute Types"
+msgstr ""
+
+#: categories
+msgid "Categories"
+msgstr ""
+
+#: available_categories
+msgid "Available Categories"
+msgstr ""
+
+#: selected_categories
+msgid "Selected Categories"
+msgstr ""
+
+#: category_combos
+msgid "Category Combinations"
+msgstr ""
+
+#: available_category_combos
+msgid "Available Category Combinations"
+msgstr ""
+
+#: selected_category_combos
+msgid "Selected Category Combinations"
+msgstr ""
+
+#: available_charts
+msgid "Available Charts"
+msgstr ""
+
+#: selected_charts
+msgid "Selected Charts"
+msgstr ""
+
+#: available_constants
+msgid "Available Constants"
+msgstr ""
+
+#: selected_constants
+msgid "Selected Constants"
+msgstr ""
+
+#: available_dataDictionaries
+msgid "Available Data Dictionaries"
+msgstr ""
+
+#: selected_dataDictionaries
+msgid "Selected Data Dictionaries"
+msgstr ""
+
+#: available_dataElementGroupSets
+msgid "Available Data Element Group Sets"
+msgstr ""
+
+#: selected_dataElementGroupSets
+msgid "Selected Data Element Group Sets"
+msgstr ""
+
+#: available_dataElementGroups
+msgid "Available Data Element Groups"
+msgstr ""
+
+#: selected_dataElementGroups
+msgid "Selected Data Element Groups"
+msgstr ""
+
+#: documents
+msgid "Documents"
+msgstr ""
+
+#: available_documents
+msgid "Available Documents"
+msgstr ""
+
+#: selected_documents
+msgid "Selected Documents"
+msgstr ""
+
+#: available_indicatorGroupSets
+msgid "Available Indicator Group Sets"
+msgstr ""
+
+#: selected_indicatorGroupSets
+msgid "Selected Indicator Group Sets"
+msgstr ""
+
+#: available_indicatorGroups
+msgid "Available Indicator Groups"
+msgstr ""
+
+#: selected_indicatorGroups
+msgid "Selected Indicator Groups"
+msgstr ""
+
+#: indicator_types
+msgid "Indicator types"
+msgstr ""
+
+#: available_indicatorTypes
+msgid "Available Indicator Types"
+msgstr ""
+
+#: selected_indicatorTypes
+msgid "Selected Indicator Types"
+msgstr ""
+
+#: map_legend_sets
+msgid "Map legend sets"
+msgstr ""
+
+#: available_mapLegendSets
+msgid "Available Map Legend Sets"
+msgstr ""
+
+#: selected_mapLegendSets
+msgid "Selected Map Legend Sets"
+msgstr ""
+
+#: maps
+msgid "Maps"
+msgstr ""
+
+#: available_maps
+msgid "Available Maps"
+msgstr ""
+
+#: selected_maps
+msgid "Selected Maps"
+msgstr ""
+
+#: option_sets
+msgid "Option sets"
+msgstr ""
+
+#: available_optionSets
+msgid "Available Option Sets"
+msgstr ""
+
+#: selected_optionSets
+msgid "Selected Option Sets"
+msgstr ""
+
+#: available_organisationUnitGroupSets
+msgid "Available Organisation Unit Group Sets"
+msgstr ""
+
+#: selected_organisationUnitGroupSets
+msgid "Selected Organisation Unit Group Sets"
+msgstr ""
+
+#: available_organisationUnitGroups
+msgid "Available Organisation Unit Groups"
+msgstr ""
+
+#: selected_organisationUnitGroups
+msgid "Selected Organisation Unit Groups"
+msgstr ""
+
+#: available_organisationUnitLevels
+msgid "Available Organisation Unit Levels"
+msgstr ""
+
+#: selected_organisationUnitLevels
+msgid "Selected Organisation Unit Levels"
+msgstr ""
+
+#: available_organisationUnits
+msgid "Available Organisation Units"
+msgstr ""
+
+#: selected_organisationUnits
+msgid "Selected Organisation Units"
+msgstr ""
+
+#: available_reportTables
+msgid "Available Report Tables"
+msgstr ""
+
+#: selected_reportTables
+msgid "Selected Report Tables"
+msgstr ""
+
+#: available_reports
+msgid "Available Reports"
+msgstr ""
+
+#: selected_reports
+msgid "Selected Reports"
+msgstr ""
+
+#: sql_views
+msgid "SQL views"
+msgstr ""
+
+#: available_sqlViews
+msgid "Available SQL Views"
+msgstr ""
+
+#: selected_sqlViews
+msgid "Selected SQL Views"
+msgstr ""
+
+#: available_userGroups
+msgid "Available User Groups"
+msgstr ""
+
+#: selected_userGroups
+msgid "Selected User Groups"
+msgstr ""
+
+#: available_userRoles
+msgid "Available User Roles"
+msgstr ""
+
+#: selected_userRoles
+msgid "Selected User Roles"
+msgstr ""
+
+#: available_users
+msgid "Available Users"
+msgstr ""
+
+#: selected_users
+msgid "Selected Users"
+msgstr ""
+
+#: validation_rule_groups
+msgid "Validation rule groups"
+msgstr ""
+
+#: available_validationRuleGroups
+msgid "Available Validation Rule Groups"
+msgstr ""
+
+#: selected_validationRuleGroups
+msgid "Selected Validation Rule Groups"
+msgstr ""
+
+#: available_validationRules
+msgid "Available Validation Rules"
+msgstr ""
+
+#: selected_validationRules
+msgid "Selected Validation Rules"
+msgstr ""
+
+#: select_all_values
+msgid "Select All Values"
+msgstr ""
+
+#: deselect_all_values
+msgid "Deselect All Values"
+msgstr ""
+
+#: inclusion
+msgid "Inclusion"
+msgstr ""
+
+#: include_selected
+msgid "Selected organisation unit"
+msgstr ""
+
+#: include_children
+msgid "Include children of organisation unit"
+msgstr ""
+
+#: include_descendants
+msgid "Include descendants of organisation unit"
+msgstr ""

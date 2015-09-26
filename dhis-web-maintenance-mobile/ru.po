@@ -1,0 +1,632 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-mobile/src/main/resources/org/hisp/dhis/mobile/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-mobile/src/main/resources/org/hisp/dhis/mobile/i18n_module_ru.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: intro_sms_service_configuration
+msgid "Configure SMS service"
+msgstr ""
+
+#: intro_view_sent_sms
+msgid "List and delete SMS which were sent or scheduled in the system."
+msgstr ""
+
+#: intro_show_receive_sms_form
+msgid "List and delete SMS which the system received from other system."
+msgstr ""
+
+#: intro_sms_command_form
+msgid "Create, ppdate, view and delete command of SMS received."
+msgstr ""
+
+#: intro_j2me_client_update
+msgid "J2ME Client Update Configuration "
+msgstr ""
+
+#: patient_mobile_setting
+msgid "Person Mobile Settings"
+msgstr "Настройки мобильного устройства данного лица"
+
+#: gender
+msgid "Gender"
+msgstr "Пол"
+
+#: dob_type
+msgid "DoB Type"
+msgstr "Тип DOB"
+
+#: date_of_birth
+msgid "Date of Birth"
+msgstr "Дата рождения"
+
+#: blood_group
+msgid "Blood Group"
+msgstr "Группа крови"
+
+#: registration_date
+msgid "Registration Date"
+msgstr "Дата регистрации"
+
+#: activity_grouping_attribute
+msgid "Activity Grouping Attribute"
+msgstr "атрибуты группирования действий"
+
+#: available_patient_attributes
+msgid "Available Patient Attributes"
+msgstr "Доступные атрибуты больного"
+
+#: filter
+msgid "Filter"
+msgstr "Фильтр"
+
+#: selected_patient_attributes
+msgid "Selected Patient Attributes"
+msgstr "атрибуты выбранного больного"
+
+#: available_datasets
+msgid "Available DataSets"
+msgstr "Имеющиеся наборы данных"
+
+#: mobile_configuration
+msgid "Mobile Configuration"
+msgstr "Конфигурация мобильного устройства"
+
+#: sms_service_configuration
+msgid "SMS Service Configuration"
+msgstr "Конфигурация СМС-услуги"
+
+#: service_status
+msgid "Service Status"
+msgstr "Статус услуги"
+
+#: status
+msgid "Status"
+msgstr "Состояние"
+
+#: no.
+msgid "No."
+msgstr "â"
+
+#: delete
+msgid "Delete"
+msgstr "Удалить"
+
+#: check_all
+msgid "Click Here To Check All"
+msgstr "Нажать здесь для полной проверки"
+
+#: error_delete
+msgid "Please check before delete"
+msgstr "Пожалуйста, проверьте перед удалением"
+
+#: required_data_error
+msgid "Please fill in required fields (*)"
+msgstr "Пожалуйста, заполните требуемые поля (*)"
+
+#: new_message
+msgid "You have new messages, press F5 to view them"
+msgstr "У вас новые сообщения, для просмотра нажмите F5"
+
+#: sms_service_is_runnning
+msgid "SMS Service is running"
+msgstr "СМС-услуга запущена"
+
+#: sms_service_is_stopped
+msgctxt "sms_service_is_stopped"
+msgid "SMS Service is stopped"
+msgstr "СМС-услуга отключена"
+
+#: reload_configuration
+msgid "Reload Configuration"
+msgstr "Перезагрузить конфигурации"
+
+#: stop_sms_service
+msgid "Stop SMS Service"
+msgstr "Остановить СМС-услугу"
+
+#: configuration
+msgid "Configuration"
+msgstr "Конфигурация"
+
+#: polling_interval_in_seconds
+msgid "Polling interval in seconds"
+msgstr "Интервал опроса в секундах"
+
+#: server_phone_number
+msgid "Server Phone Number"
+msgstr "Номер телефона сервера"
+
+#: gateways
+msgid "Gateways"
+msgstr "Шлюз"
+
+#: operation
+msgid "Operation"
+msgstr "Операция"
+
+#: gateway_type
+msgid "Gateway Type"
+msgstr "Тип шлюза"
+
+#: list_sent_SMS
+msgid "List of Sent SMS"
+msgstr "Список отправленных СМС"
+
+#: sent
+msgid "Sent"
+msgstr "Отправлено"
+
+#: all
+msgid "All"
+msgstr "Все"
+
+#: filter_by_status
+msgid "Filter by Status"
+msgstr "Фильтровать по статусам"
+
+#: add_gateway
+msgid "Add Gateway"
+msgstr "Добавить шлюз"
+
+#: type
+msgid "Type"
+msgstr "Тип"
+
+#: gateway_configuration
+msgid "Gateway Configuration"
+msgstr "Конфигурация шлюза"
+
+#: gateway_name
+msgid "Gateway Name"
+msgstr "Название шлюза"
+
+#: username
+msgid "User name"
+msgstr "Имя пользователя"
+
+#: password
+msgid "Password"
+msgstr "Пароль"
+
+#: port
+msgid "Port"
+msgstr "Порт"
+
+#: baudrate
+msgid "BaudRate"
+msgstr "Скорость передачи данных"
+
+#: manufacturer
+msgid "Manufacturer"
+msgstr "Производитель"
+
+#: model
+msgid "Model"
+msgstr "Модель"
+
+#: pin
+msgid "PIN"
+msgstr "ПИН"
+
+#: inbound
+msgid "Inbound"
+msgstr "Входящие"
+
+#: outbound
+msgid "Outbound"
+msgstr "Исходящие"
+
+#: api_id
+msgid "API ID"
+msgstr "ИПП ID"
+
+#: outboundsms_saved
+msgid "The gateway details have been saved, but no message was sent."
+msgstr "Детали шлюза сохранены, но сообщение не было отправлено."
+
+#: save_settings
+msgid "Save Settings"
+msgstr "Сохранить насторйки"
+
+#: add_gw
+msgid "Add gateway"
+msgstr "Добавить шлюз"
+
+#: start_sms_service
+msgid "Start SMS Service"
+msgstr "Начать СМС услугу"
+
+#: show_send_sms_form
+msgid "Send SMS"
+msgstr "Отправить СМС"
+
+#: bulk_gw
+msgid "BulkSMS Gateway"
+msgstr "Шлюз рассылки СМС"
+
+#: clickatell_gw
+msgid "Clickatell Gateway"
+msgstr "Clickatell шлюз"
+
+#: generic_http_gw
+msgid "Generic HTTP Gateway"
+msgstr "Базовый  HTTP шлюз"
+
+#: url_template
+msgid "URL Template"
+msgstr "Образец URL"
+
+#: modem_gw
+msgid "Modem Gateway"
+msgstr "Шлюз модема"
+
+#: add_update_gateway_success
+msgid "The gateway was added/updated successfully."
+msgstr "Шлюз был добавлен/обновлен успешно"
+
+#: add_update_gateway_management
+msgid "Gateway Configuration Management"
+msgstr "Управление конфигурацией шлюза"
+
+#: confirm_delete_gateway
+msgid "Do you want to delete this gateway configuration?"
+msgstr "Вы хотите удалить данную конфигурацию шлюза?"
+
+#: confirm_delete_sms
+msgid "Do you want to delete this SMS?"
+msgstr "Вы хотите удалить данное СМС?"
+
+#: confirm_delete_items
+msgid "Do you want to delete those items?"
+msgstr "Вы хотите удалить эти элементы?"
+
+#: smsconfiguration_not_available
+msgid "SMS Configuration is not available"
+msgstr "Конфигурации СМС не доступны"
+
+#: outboundsmsservice_is_null_or_unable
+msgid "SMS Service is not available or unable to be started."
+msgstr "СМС услуга недоступна или не может быть начата"
+
+#: service_started
+msgid "SMS Service is started"
+msgstr "СМС услуга начата"
+
+#: service_starting
+msgid "SMS Service is starting"
+msgstr "СМС услуга начинается"
+
+#: service_stopped
+msgctxt "service_stopped"
+msgid "SMS Service is stopped"
+msgstr "СМС услуга приостановлена"
+
+#: service_stopping
+msgid "SMS Service is stopping"
+msgstr "СМС услугв приостанавливается"
+
+#: message
+msgid "Message"
+msgstr "Сообщение"
+
+#: show_receive_sms_form
+msgid "View Received SMS"
+msgstr "Посмотреть полученные СМС"
+
+#: update_success
+msgid "Update Successfully"
+msgstr "Обновление успешно"
+
+#: config_my_gateway
+msgid "Configure My Gateway"
+msgstr "Конфигурировать мой шлюз"
+
+#: delete_checked_option
+msgid "Delete Checked Options"
+msgstr "Удалить проверенные опции"
+
+#: import
+msgid "Import"
+msgstr "Импорт"
+
+#: unable_load_gateway
+msgid "Unable to load gateway"
+msgstr "Невозможно загрузить шлюз"
+
+#: unable_start_smslib_service
+msgid "Unable to start smsLib service"
+msgstr "Невозможно начать услугу smsLib (библиотека СМС)"
+
+#: unable_stop_smslib_service
+msgid "Unable to stop smsLib service"
+msgstr "Невозможно остановить услугу smsLib"
+
+#: sms_unable_or_there_is_no_gateway_service_not_started
+msgid ""
+"SMS Service is not enabled or no gateway has been specified.\n"
+"SMS Service will not be started."
+msgstr ""
+"СМС услуга не включена, или не определен шлюз.â Невозможно начать СМС "
+"услугу."
+
+#: unable_load_configuration_cause_of_there_is_no_gateway
+msgid "Unable to load the configuration because there is no gateway."
+msgstr "Загрузка конфигурации невозможна из-за отсутствия шлюза."
+
+#: sms_configuration_not_initialized
+msgid ""
+"SMS Service is not initialized.\n"
+"Please fill in two fields as below then click \"Save Settings\"."
+msgstr ""
+"СМС услуга не инициализирована.â Пожалуйста, заполните два нижних поля, "
+"затем нажмите \"Сохранить настройки\"."
+
+#: sms_command_form
+msgid "SMS Commands"
+msgstr "Команды СМС"
+
+#: add_command
+msgid "Add command"
+msgstr "Добавить комманду"
+
+#: command_details
+msgid "Command Details"
+msgstr "Детали комманды"
+
+#: region
+msgid "Region"
+msgstr "Регион"
+
+#: international
+msgid "International"
+msgstr "Международный"
+
+#: uk
+msgid "United Kingdom"
+msgstr "Соединенное королевство"
+
+#: south_africa
+msgid "South Africa"
+msgstr "Южная Африка"
+
+#: spain
+msgid "Spain"
+msgstr "Испания"
+
+#: usa
+msgid "USA"
+msgstr "США"
+
+#: germany
+msgid "Germany"
+msgstr "Германия"
+
+#: j2me_client_update
+msgid "J2ME Client Update"
+msgstr "J2ME обновление клиента"
+
+#: j2me_client_update_config
+msgid "J2ME Client Update Configuration"
+msgstr "J2ME конфигурации обновления клиента"
+
+#: auto_update_client
+msgid "Automatic update for J2ME clients"
+msgstr "Автоматическое обновление J2ME клиентов"
+
+#: client_older_than
+msgid "Update to clients older than version"
+msgstr "Обновление для клиентов подключенных ранее данной версии"
+
+#: smpp_gw
+msgid "SMPP gateway"
+msgstr "SMPP шлюз"
+
+#: processing
+msgid "Processing"
+msgstr "Обработка"
+
+#: mark_as_default
+msgid "Mark as default"
+msgstr "Отметить как по умолчанию"
+
+#: view_sent_sms
+msgid "View Sent SMS"
+msgstr "Посмотреть отправленные СМС"
+
+#: receipient
+msgid "Recipient"
+msgstr "Получатель"
+
+#: action
+msgid "Action"
+msgstr "Действие"
+
+#: incoming
+msgid "Incoming"
+msgstr "Входящий"
+
+#: processed
+msgid "Processed"
+msgstr "Обработан"
+
+#: failed
+msgid "Failed"
+msgstr "Сбой"
+
+#: unhandled
+msgid "Unhandled"
+msgstr "Не обработан"
+
+#: reimport_confirm
+msgid "Are you sure you want to re-import this SMS?"
+msgstr "Вы уверены, что хотите повторно импортировать данное СМС?"
+
+#: edit_command
+msgid "Edit SMS command"
+msgstr "Редактировать СМС комманды"
+
+#: data_element_category_combination
+msgid "Data Element Category Combination"
+msgstr "Комбинация категории эелементов данных"
+
+#: sms_command_validation_alert
+msgid "Fix validation problems before you save"
+msgstr "Устранить  проблемы проверки соответствия перед сохранением"
+
+#: command_management
+msgid "Command management"
+msgstr "Управление командами"
+
+#: dataset
+msgid "Data set"
+msgstr "Набор данных"
+
+#: parser
+msgid "Parser"
+msgstr "Персер/анализатор:"
+
+#: userGroup
+msgid "User Group"
+msgstr "Группа пользователей:"
+
+#: selected_dataset
+msgid "Selected data set"
+msgstr "Выбранный набор данных"
+
+#: code_value_separator
+msgid "Code and value Separator"
+msgstr "Разделитель кода и значения"
+
+#: no_codes_message
+msgid "Reply message if no codes are sent (only the command)"
+msgstr "Ответить на сообщение если не отправлен код (только команда):"
+
+#: validation_error_space
+msgid "*White space not allowed"
+msgstr "*Белые поля не допустимы"
+
+#: key_value_parser
+msgctxt "key_value_parser"
+msgid "Key Value Parser"
+msgstr "Анализатор значения ключа"
+
+#: j2me_parser
+msgctxt "j2me_parser"
+msgid "J2ME Parser"
+msgstr "J2ME анализатор"
+
+#: mobile_phones_pattern
+msgid "Mobile Phones Pattern"
+msgstr "Шаблон мобильных телефонов"
+
+#: phone_number
+msgid "Phone Number"
+msgstr "Номер мобильного телефона"
+
+#: filter_by_phone_number
+msgid "Filter by Phone Number"
+msgstr "Фильтровать по телефонному номеру"
+
+#: total_number_of_result
+msgid "Total Number of Result"
+msgstr "Общее количество результатов"
+
+#: special_characters
+msgid "Special Characters"
+msgstr ""
+
+#: value
+msgid "Value"
+msgstr ""
+
+#: add_more
+msgid "Add More"
+msgstr ""
+
+#: program
+msgid "Program"
+msgstr ""
+
+#: KEY_VALUE_PARSER
+msgctxt "KEY_VALUE_PARSER"
+msgid "Key Value Parser"
+msgstr ""
+
+#: J2ME_PARSER
+msgctxt "J2ME_PARSER"
+msgid "J2ME Parser"
+msgstr ""
+
+#: ALERT_PARSER
+msgid "Alert Parser"
+msgstr ""
+
+#: UNREGISTERED_PARSER
+msgid "Unregistered Parser"
+msgstr ""
+
+#: ANONYMOUS_PROGRAM_PARSER
+msgid "Anonymous Program Parser"
+msgstr ""
+
+#: wrong_format_message
+msgid "Wrong format message"
+msgstr ""
+
+#: no_user_message
+msgid "No user message"
+msgstr ""
+
+#: more_than_one_orgunit_message
+msgid "User belong to more than one OrgUnit message"
+msgstr ""
+
+#: completeness_method
+msgid "Completeness method"
+msgstr ""
+
+#: receive_at_least_one_datavalue
+msgid "Receive at least one data value"
+msgstr ""
+
+#: do_not_mark_complete
+msgid "Do not mark as complete"
+msgstr ""
+
+#: receive_all_datavalue
+msgid "Receive all data value"
+msgstr ""
+
+#: success_message
+msgid "Success Message"
+msgstr ""
+
+#: confirm_delete_command
+msgid "Are you sure you want to delete this command?"
+msgstr ""
+
+#: confirm_message
+msgid "Confirm Message"
+msgstr ""
+
+#: TRACKED_ENTITY_REGISTRATION_PARSER
+msgid "Tracked entity registration parser"
+msgstr ""
+
+#: tracked_entity_attribute
+msgid "Tracked entity attribute"
+msgstr ""
+
+#: name_in_used
+msgid "Name is in use"
+msgstr ""

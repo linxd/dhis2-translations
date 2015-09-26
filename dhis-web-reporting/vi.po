@@ -1,0 +1,1166 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-reporting/src/main/resources/org/hisp/dhis/reporting/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-reporting/src/main/resources/org/hisp/dhis/reporting/i18n_module_vi.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: please_select_org_unit
+msgctxt "please_select_org_unit"
+msgid "Please select an organisation unit"
+msgstr "Hãy chọn một đơn vị"
+
+#: please_select_period
+msgctxt "please_select_period"
+msgid "Please select a period"
+msgstr "Hãy chọn một thời điểm"
+
+#: please_select_group_set
+msgid "Please select a group set"
+msgstr "Hãy chọn một nhóm"
+
+#: reporting_unit
+msgid "Reporting unit"
+msgstr "Đơn vị báo cáo"
+
+#: reporting_period
+msgctxt "reporting_period"
+msgid "Reporting period"
+msgstr "Thời điểm báo cáo"
+
+#: report_period
+msgid "Report period"
+msgstr "Thời điểm báo cáo"
+
+#: select_data_set
+msgid "Please select a data set"
+msgstr "Hãy chọn một tập dữ liệu"
+
+#: select_period
+msgctxt "select_period"
+msgid "Please select a period"
+msgstr "Hãy chọn thời điểm"
+
+#: select_organisation_unit
+msgctxt "select_organisation_unit"
+msgid "Please select an organisation unit"
+msgstr "Hãy chọn một đơn vị"
+
+#: report_organisation_unit
+msgid "Report organisation unit"
+msgstr "Đơn vị báo cáo"
+
+#: dataset_report
+msgid "Data Set Report"
+msgstr "Báo cáo theo tập hợp dữ liệu có sẵn"
+
+#: data_approval
+msgid "Data Approval"
+msgstr "Phê duyệt dữ liệu"
+
+#: add_selected
+msgid "Add selected"
+msgstr "Thêm mục đang chọn"
+
+#: add_all
+msgid "Add all"
+msgstr "Thêm tất cả"
+
+#: add
+msgid "Add"
+msgstr "Thêm"
+
+#: create_report_table
+msgid "Create report table"
+msgstr "Tạo bảng báo cáo"
+
+#: available_indicators
+msgid "Available indicators"
+msgstr "Các chỉ số hiện có"
+
+#: select_indicatorgroup_all
+msgid "Select indicator group / View all"
+msgstr "Chọn nhóm chỉ số / Hiển thị tất cá"
+
+#: select_dataelementgroup_all
+msgctxt "select_dataelementgroup_all"
+msgid "Select data element group / View all"
+msgstr "Chọn nhóm phần tử dữ liệu / Chọn tất cả"
+
+#: selected_indicators
+msgid "Selected indicators"
+msgstr "Chọn chỉ số"
+
+#: selected_dataelements
+msgctxt "selected_dataelements"
+msgid "Selected data elements"
+msgstr "Các phần tử dữ liệu đang được chọn"
+
+#: select_organisationunit_level_all
+msgid "Select organsation unit level / View all"
+msgstr "Chọn đơn vị có cấp / Hiển thị tất cả"
+
+#: select_option_view_all
+msgid "Select option / View all"
+msgstr ""
+
+#: level
+msgid "Level"
+msgstr "Cấp"
+
+#: available_organisationunits
+msgid "Available organisation units"
+msgstr "Các đơn vị hiện có"
+
+#: selected_organisationunits
+msgid "Selected organisation units"
+msgstr "Các đơn vị đang được chọn"
+
+#: available_periods
+msgid "Available periods"
+msgstr "Các thời điểm hiện có"
+
+#: selected_periods
+msgid "Selected periods"
+msgstr "Các thời điểm được chọn"
+
+#: add_children
+msgid "Add children"
+msgstr "Thêm các đơn vị con"
+
+#: create
+msgid "Create"
+msgstr "Tạo mới"
+
+#: indicators
+msgid "Indicators"
+msgstr "Các chỉ số"
+
+#: organisation_units
+msgid "Organisation units"
+msgstr "Đơn vị"
+
+#: periods
+msgid "Periods"
+msgstr "Thời điểm"
+
+#: relative_periods
+msgid "Relative periods"
+msgstr "Thời điểm tương đối"
+
+#: reporting_month
+msgid "Reporting month"
+msgstr "Báo cáo hàng tháng"
+
+#: months_this_year
+msgctxt "months_this_year"
+msgid "Months this year"
+msgstr "Tháng năm nay"
+
+#: quarters_this_year
+msgctxt "quarters_this_year"
+msgid "Quarters this year"
+msgstr "Quý năm nay"
+
+#: this_year
+msgid "This year"
+msgstr "Năm nay"
+
+#: reporting_sixmonth
+msgid "Reporting six-month"
+msgstr ""
+
+#: last_2_sixmonths
+msgid "Last 2 six-months"
+msgstr ""
+
+#: last_week
+msgid "Last week"
+msgstr ""
+
+#: last_4_weeks
+msgid "Last 4 weeks"
+msgstr ""
+
+#: last_12_weeks
+msgid "Last 12 weeks"
+msgstr ""
+
+#: months_last_year
+msgid "Months last year"
+msgstr "Tháng năm ngoái"
+
+#: quarters_last_year
+msgid "Quarters last year"
+msgstr "Quý năm trước"
+
+#: last_year
+msgid "Last year"
+msgstr "Năm ngoái"
+
+#: report_table
+msgid "Report Table"
+msgstr "Bảng báo cáo"
+
+#: crosstab_dimensions
+msgid "Crosstab dimensions"
+msgstr "Các thanh chiều dữ liệu"
+
+#: confirm_delete_table
+msgid "Are you sure you want to remove table?"
+msgstr "Bạn có chắc muốn xóa bảng báo cáo này?"
+
+#: operations
+msgid "Operations"
+msgstr "Thao tác"
+
+#: done
+msgid "Done"
+msgstr "Hoàn tất"
+
+#: crosstab_indicators
+msgid "Crosstab indicators"
+msgstr "Các thanh chỉ số"
+
+#: crosstab_periods
+msgid "Crosstab periods"
+msgstr "Các thanh dữ liệu"
+
+#: crosstab_organisation_units
+msgid "Crosstab organisation units"
+msgstr "Các thanh đơn vị"
+
+#: must_select_at_least_one_indictor_data_element_data_set
+msgid "Please select at least one indicator, data element or data set"
+msgstr "Hãy chọn tối thiểu một chỉ số, dữ liệu hay tập dữ liệu"
+
+#: must_select_at_least_one_unit
+msgid "Please select at least one organisation unit"
+msgstr "Phải chọn ít nhất một đơn vị"
+
+#: must_select_at_least_one_period
+msgid "Please select at least one period"
+msgstr "Phải chọn ít nhất một thời điểm"
+
+#: cannot_include_more_organisation_unit_regression
+msgid "Cannot include more that one organisation unit with regression"
+msgstr "Không thể thực hiện hồi quy cho nhiều hơn một đơn vị"
+
+#: cannot_select_orgunit_and_parent_orgunit_param
+msgid "Cannot select both current and parent organisation unit parameter"
+msgstr "Không thể chọ vừa tham số đơn vị hiện tại và đơn vị cấp cha"
+
+#: must_enter_name
+msgid "Please enter a name"
+msgstr "Chưa nhập tên"
+
+#: specify_name
+msgid "Please specify a name"
+msgstr "Hãy đặt một tên"
+
+#: name_in_use
+msgid "The name is already in use"
+msgstr "Tên này đang được dùng"
+
+#: design
+msgid "Design"
+msgstr "Tập tin báo cáo thiết kế từ iReport"
+
+#: home
+msgid "Home"
+msgstr "Đường dẫn tới thư mục chứa thiết kế BIRT (.rptdesign) ở máy chủ"
+
+#: directory
+msgid "Directory"
+msgstr "Thư mục"
+
+#: create_new_report
+msgid "Create new report"
+msgstr "Tạo báo cáo mới"
+
+#: create_report
+msgid "Create report"
+msgstr "Tạo báo cáo"
+
+#: standard_report
+msgid "Standard Report"
+msgstr "Báo cáo chuẩn"
+
+#: confirm_remove_report
+msgid "Are you sure you will delete the report?"
+msgstr "Có chắc là bạn muốn xóa báo cáo này?"
+
+#: report
+msgid "Report"
+msgstr "Báo cáo"
+
+#: completed
+msgid "completed"
+msgstr "Hoàn tất"
+
+#: remove_report
+msgid "Remove report"
+msgstr "Xóa báo cáo"
+
+#: submit
+msgid "Submit"
+msgstr "Nộp"
+
+#: edit_report
+msgid "Edit report"
+msgstr "Chỉnh sửa báo cáo"
+
+#: processing
+msgid "Processing"
+msgstr "Đang xử lý"
+
+#: indicators_data_elements_data_sets
+msgid "Indicators / data elements / data sets"
+msgstr "Chỉ số / Dữ liệu / Tập dữ liệu"
+
+#: dataset
+msgid "Data set"
+msgstr "Tập dữ liệu"
+
+#: organisation_unit
+msgid "Organisation unit"
+msgstr "Đơn vị"
+
+#: select_dataset_all
+msgid "Select data set / View all"
+msgstr "Chọn tập hợp dữ liệu"
+
+#: monthly
+msgid "Monthly"
+msgstr "Hàng tháng"
+
+#: quarterly
+msgid "Quarterly"
+msgstr "Hàng quý"
+
+#: yearly
+msgid "Yearly"
+msgstr "Một năm"
+
+#: omit_report_table_explanation
+msgid ""
+"If selecting no report table, the user is responsible for providing the data "
+"source"
+msgstr ""
+"Nếu không chọn bảng báo cáo, người dùng chịu trách nhiệm cung cấp nguồn dữ "
+"liệu"
+
+#: dataset_completeness
+msgid "Data set Completeness"
+msgstr "Tính hoàn tất dữ liệu"
+
+#: report_parameters
+msgid "Report parameters"
+msgstr "Tham số báo cáo"
+
+#: parent_organisation_unit
+msgid "Parent organisation unit"
+msgstr "Đơn vị cha"
+
+#: available_dataelements
+msgid "Available data elements"
+msgstr "Các phần tử dữ liệu hiện có"
+
+#: select_dataelementgroup_all
+msgctxt "select_dataelementgroup_all"
+msgid "Select data element group / View all"
+msgstr "Chọn nhóm phần tử dữ liệu / Chọn tất cả"
+
+#: select_category_combo
+msgctxt "select_category_combo"
+msgid "Select category combination"
+msgstr "Chọn nhóm phân loại"
+
+#: selected_dataelements
+msgctxt "selected_dataelements"
+msgid "Selected data elements"
+msgstr "Các phần tử dữ liệu đang được chọn"
+
+#: dataelements
+msgid "Data elements"
+msgstr "Các phần tử dữ liệu"
+
+#: report_table_parameters
+msgid "Report table parameters"
+msgstr "Tham số bảng báo cáo"
+
+#: months_this_year
+msgctxt "months_this_year"
+msgid "Months this year"
+msgstr "Tháng năm nay"
+
+#: quarters_this_year
+msgctxt "quarters_this_year"
+msgid "Quarters this year"
+msgstr "Quý năm nay"
+
+#: add_report_table
+msgid "Add Report Table"
+msgstr "Thêm bảng báo cáo"
+
+#: add_dataelement_dimension_table
+msgid "Add Dataelement Dimension Table"
+msgstr "Thêm bảng dữ liệu đa chiều"
+
+#: generate
+msgid "Generate"
+msgstr "Tạo ra"
+
+#: process_completed
+msgid "Process completed"
+msgstr "Tiến trình hoàn tất"
+
+#: view
+msgid "View"
+msgstr "Xem"
+
+#: chart
+msgid "Chart"
+msgstr "Biểu đồ"
+
+#: dimension
+msgid "Dimension"
+msgstr "Chiều kích"
+
+#: pivot_table
+msgid "Pivot Table"
+msgstr "Bảng xoay"
+
+#: indicator_group
+msgid "Indicator group"
+msgstr "Nhóm chỉ số"
+
+#: start_date
+msgctxt "start_date"
+msgid "Start date"
+msgstr "Ngày bắt đầu"
+
+#: end_date
+msgctxt "end_date"
+msgid "End date"
+msgstr "Ngày kết thúc"
+
+#: period_type
+msgid "Period type"
+msgstr "Loại thời điểm"
+
+#: organisation_unit_level
+msgid "Organisation unit level"
+msgstr "Cấp đơn vị"
+
+#: select_period_type
+msgid "Select period type"
+msgstr "Chọn loại thời điểm"
+
+#: org_units
+msgid "Org units"
+msgstr "Các đơn vị"
+
+#: get_data
+msgid "Get data"
+msgstr "Lấy dữ liệu"
+
+#: pivot
+msgid "Pivot"
+msgstr "Bảng xoay"
+
+#: data
+msgid "Data"
+msgstr "Lấy dữ liệu"
+
+#: select
+msgid "Select"
+msgstr "Chọn"
+
+#: criteria
+msgid "Criteria"
+msgstr "Tiêu chuẩn"
+
+#: this_indicator_and_periods
+msgid "This indicator and periods"
+msgstr "Chỉ số và thời điểm này"
+
+#: this_indicator_and_orgunits
+msgid "This indicator and orgunits"
+msgstr "Chỉ số và đơn vị này"
+
+#: all_indicator_and_periods
+msgid "All indicators and periods"
+msgstr "Tất cả các chỉ số và thời điểm"
+
+#: all_indicator_and_orgunits
+msgid "All indicators and orgunits"
+msgstr "Tất cả các chỉ số và đơn vị"
+
+#: generating_report
+msgid "Generating report"
+msgstr "Đang tạo ra báo cáo"
+
+#: use_data_for_selected_unit_only
+msgid "Use data for selected unit only"
+msgstr "Dùng dữ liệu chỉ cho đơn vị được chọn"
+
+#: add_to_dashboard
+msgid "Add to dashboard"
+msgstr "Thêm vào bảng điều khiển"
+
+#: confirm_add_to_dashboard
+msgid "Are you sure want to add this report to the dashboard?"
+msgstr "Bạn có chắc chắn muốn thêm báo cáo này vào bảng điều khiển?"
+
+#: resource
+msgid "Resource"
+msgstr "Tài nguyên"
+
+#: view_report
+msgid "View report"
+msgstr "Xem báo cáo"
+
+#: create_new_resource
+msgid "Create new resource"
+msgstr "Tạo mới tài nguyên"
+
+#: external_url
+msgid "External URL"
+msgstr "Đường dẫn bên ngoài"
+
+#: upload_file
+msgid "Upload file"
+msgstr "Nạp lên một tập tin"
+
+#: file
+msgid "File"
+msgstr "Tập tin"
+
+#: attachment
+msgid "Attachment"
+msgstr ""
+
+#: url
+msgid "URL"
+msgstr "Đường dẫn URL"
+
+#: display
+msgid "Display"
+msgstr "Hiển thị"
+
+#: visible
+msgid "Visible"
+msgstr "Hiển thị"
+
+#: column
+msgid "Column"
+msgstr "Cột"
+
+#: confirm_add_report_table_to_dashboard
+msgid "Are you sure you want to add this report table to dashboard?"
+msgstr "Bạn có chắc chắn muốn thêm bảng báo cáo này vào bảng điều khiển?"
+
+#: continue
+msgid "Continue"
+msgstr "Tiếp tục"
+
+#: display_facility_name
+msgid "Display Facility Name"
+msgstr "Tên của đơn vị"
+
+#: use_a3_format
+msgid "Use A3 format"
+msgstr "Dùng mẫu A3"
+
+#: tally_sheet_name
+msgid "Tally Sheet Name"
+msgstr "Tên bảng kiểm đếm"
+
+#: data_element
+msgid "Data element"
+msgstr "Phần tử dữ liệu"
+
+#: clear
+msgid "Clear"
+msgstr "Xóa"
+
+#: next
+msgid "Next"
+msgstr "Sau"
+
+#: prev
+msgid "Prev"
+msgstr "Trước"
+
+#: prev_year
+msgid "Prev year"
+msgstr "Năm trước"
+
+#: next_year
+msgid "Next year"
+msgstr "Năm sau"
+
+#: none
+msgid "None"
+msgstr "Không"
+
+#: facility
+msgid "Facility"
+msgstr "Trạm Y tế"
+
+#: month
+msgid "Month"
+msgstr "Tháng"
+
+#: year
+msgid "Year"
+msgstr "Năm"
+
+#: method
+msgid "Method"
+msgstr "Cách thức"
+
+#: show_more_options
+msgid "Show more options"
+msgstr ""
+
+#: show_fewer_options
+msgid "Show fewer options"
+msgstr ""
+
+#: generate_before_export
+msgid "Please generate table before exporting"
+msgstr "Hãy tạo bảng trước khi xuất"
+
+#: based_on_registration
+msgid "Based on complete data set registrations"
+msgstr "Tùy thuộc vào sự hoàn tất các tập dữ liệu đăng ký"
+
+#: based_on_compulsory
+msgid "Based on compulsory data elements"
+msgstr "Tùy thuộc vào các dữ liệu bắt buộc"
+
+#: based_on_ratio
+msgid "Based on number of registered data values"
+msgstr "Tùy thuộc vào số lượng dữ liệu đăng ký"
+
+#: intro_standard_report
+msgid ""
+"View and add reports based on the JasperReports library. These can be based "
+"on report tables and can be designed in iReport."
+msgstr ""
+"Xem và thêm các báo cáo cơ bản. Các báo cáo này dùng dữ liệu là các bảng báo "
+"cáo đã được thiết kế với trình thiết kế BIRT hay là JasperReport"
+
+#: intro_dataset_report
+msgid ""
+"View data set reports. These reports are based on data entry screens and "
+"will produce a report with aggregated data."
+msgstr ""
+"Xem báo cáo theo tập dữ liệu. Các báo cáo này dựa vào các mẫu nhập dữ liệu "
+"và sẽ tạo ra một báo cáo với dữ liệu tổng hợp."
+
+#: intro_resource
+msgid ""
+"View and add resources. These resources can be uploaded documents or URLs on "
+"the web."
+msgstr ""
+"Hiển thị và thêm nguồn tài nguyên. Các nguồn tài nguyên có thể được tải lên "
+"là những tài liệu hoặc các đường dẫn Url"
+
+#: intro_tally_sheet_generator
+msgid ""
+"Generate tally sheets, which can be printed and used to collect data in the "
+"field."
+msgstr "Tạo ra các bảng đếm để in và có thể sử dụng cho thu thập dữ liệu."
+
+#: intro_pivot_table
+msgid ""
+"Browse pivot tables, which can be pivoted on any of the indicator, "
+"organisation unit and period dimensions."
+msgstr ""
+"Xem các bảng xoay, mà được tạo ra từ các chiều dữ liệu của chỉ số, đơn vị và "
+"thời điểm."
+
+#: intro_report_table
+msgid ""
+"Add and generate report tables. Report tables are customizable database "
+"tables which can be used as basis for reports."
+msgstr ""
+"Thêm và tạo ra các bảng báo cáo. Các bảng báo cáo là các bảng cơ sở dữ liệu "
+"được điều chỉnh tùy chọn để có thể được dùng như là dữ liệu cơ bản cho các "
+"báo cáo."
+
+#: intro_reporting_rate_summary
+msgid ""
+"Browse the reporting rates of data sets by organisation unit and period "
+"based on various criteria for submission."
+msgstr ""
+"Duyệt xem tỷ lệ báo cáo của các biểu nhập liệu theo đơn vị và thời điểm dựa "
+"vào các tiêu chuẩn khác nhau để trình lên"
+
+#: intro_orgunit_distribution_report
+msgid ""
+"Browse the organisation unit distribution report based on the organisation "
+"unit group sets and its groups."
+msgstr "Duyệt xem các báo cáo mở rộng theo đơn vị"
+
+#: intro_data_approval
+msgid ""
+"View data and manage data approval by approving or unapproving, accepting or "
+"unaccepting data."
+msgstr ""
+"Xem dữ liệu và quản lý phê duyệt dữ liệu bằng cách duyệt hoặc hủy duyệt, "
+"chấp nhận hoặc hủy chấp nhận dữ liệu."
+
+#: orgunit_distribution_report
+msgid "Organisation Unit Distribution Report"
+msgstr "Đơn vị báo cáo phân tán"
+
+#: get_current_design
+msgid "Get current design"
+msgstr "Lấy thiết kế đang dùng"
+
+#: organisation_unit_report
+msgid "Organisation Unit Report"
+msgstr "Báo cáo đơn vị"
+
+#: select_group_set
+msgid "Select group set"
+msgstr "Chọn nhóm"
+
+#: orgunit_distribution
+msgid "Organisation unit distribution report"
+msgstr "Đơn vị báo cáo phân tán"
+
+#: get_report
+msgctxt "get_report"
+msgid "Get report"
+msgstr "Xuất báo cáo"
+
+#: get_chart
+msgid "Get chart"
+msgstr "Lấy biểu đồ"
+
+#: group_set
+msgid "Group set"
+msgstr "Nhóm tập hợp"
+
+#: select_org_unit
+msgid "Select organisation unit"
+msgstr "Chọn đơn vị"
+
+#: get_report
+msgctxt "get_report"
+msgid "Get report"
+msgstr "Xuất báo cáo"
+
+#: get_report_as_xls
+msgid "Download as Excel"
+msgstr "Tải xuống với Excel"
+
+#: get_report_as_csv
+msgid "Download as CSV"
+msgstr "Tải xuống với CSV"
+
+#: get_report_as_pdf
+msgid "Download as PDF"
+msgstr "Tải xuống với PDF"
+
+#: get_report_as_jasper
+msgid "Download as Report"
+msgstr "Tải xuống báo cáo"
+
+#: get_report_as_jrxml
+msgid "Download as JRXML"
+msgstr "Tải xuống thiếu kế"
+
+#: select_category_combo
+msgctxt "select_category_combo"
+msgid "Select category combination"
+msgstr "Chọn nhóm phân loại"
+
+#: sort_order
+msgid "Sort order"
+msgstr "Thứ tự sắp xếp"
+
+#: ascending
+msgid "Low to high"
+msgstr "Thấp đến cao"
+
+#: descending
+msgid "High to low"
+msgstr "Cao xuống thấp"
+
+#: top_limit
+msgid "Top limit"
+msgstr "Giới hạn trên"
+
+#: data_type
+msgid "Data type"
+msgstr "Kiểu dữ liệu"
+
+#: indicator
+msgid "Indicator"
+msgstr "Chỉ số"
+
+#: data_element_group
+msgid "Data element group"
+msgstr "Nhóm dữ liệu"
+
+#: grand_parent_organisation_unit
+msgid "Grand parent organisation unit"
+msgstr "Đơn vị cấp ông"
+
+#: available_reporting_rates
+msgid "Available reporting rates"
+msgstr ""
+
+#: selected_reporting_rates
+msgid "Selected reporting rates"
+msgstr ""
+
+#: toggle_fixed_periods
+msgid "Toggle fixed periods"
+msgstr "Chuyển đổi các thời điểm cố định"
+
+#: toggle_fixed_organisation_units
+msgid "Toggle fixed organisation units"
+msgstr "Chuyển đổi các đơn vị cố định"
+
+#: group
+msgid "Group"
+msgstr "Nhóm"
+
+#: groups
+msgid "Groups"
+msgstr "Các nhóm"
+
+#: confirm_delete
+msgid "Are you sure you want to delete this object?"
+msgstr "Bạn có chắc muốn xóa đối tượng này không ?"
+
+#: leaf_parent_organisation_unit
+msgid "Leaf organisation units"
+msgstr "Đơn vị đầu cuối"
+
+#: reporting_bimonth
+msgid "Reporting bimonth"
+msgstr "Báo cáo mỗi 2 tháng"
+
+#: last_6_bimonths
+msgid "Last 6 bimonths"
+msgstr ""
+
+#: reporting_quarter
+msgid "Reporting quarter"
+msgstr "Báo cáo theo quý"
+
+#: include_organisation_unit_group_sets
+msgid "Include org unit group sets param"
+msgstr "Gồm tham số tập đơn vị"
+
+#: reporting_period
+msgctxt "reporting_period"
+msgid "Reporting period"
+msgstr "Thời điểm báo cáo"
+
+#: last_5_years
+msgid "Last 5 years"
+msgstr "Trong 5 năm vừa qua"
+
+#: last_12_months
+msgid "Last 12 months"
+msgstr "Trong 12 tháng trước"
+
+#: last_4_quarters
+msgid "Last 4 quarters"
+msgstr "Trong 4 quý vừa qua"
+
+#: reporting_rate_summary
+msgid "Reporting Rate Summary"
+msgstr "Tóm lượt tỷ lệ báo cáo"
+
+#: available_organisation_unit_groups
+msgid "Available organisation unit groups"
+msgstr "Các nhóm đơn vị sẵn có"
+
+#: selected_organisation_unit_groups
+msgid "Selected organisation unit groups"
+msgstr "Các nhóm đơn vị được chọn"
+
+#: start_date
+msgctxt "start_date"
+msgid "Start date"
+msgstr "Ngày bắt đầu"
+
+#: end_date
+msgctxt "end_date"
+msgid "End date"
+msgstr "Ngày kết thúc"
+
+#: start_export
+msgid "Start export"
+msgstr "Bắt đầu trích xuất"
+
+#: period_types
+msgid "Period types"
+msgstr "Các loại thời điểm"
+
+#: include_cumulative
+msgid "Include cumulative"
+msgstr "Bao gồm các giá trị tính toán"
+
+#: include_regression
+msgid "Include regression"
+msgstr "Bao gồm các hồi quy"
+
+#: print
+msgid "Print"
+msgstr ""
+
+#: reporting_period
+msgctxt "reporting_period"
+msgid "Reporting period"
+msgstr "Thời điểm báo cáo"
+
+#: completed_by
+msgid "Completed by"
+msgstr ""
+
+#: view_resource
+msgid "View resource"
+msgstr ""
+
+#: this_financial_year
+msgid "This financial year"
+msgstr ""
+
+#: last_financial_year
+msgid "Last financial year"
+msgstr ""
+
+#: last_5_financial_years
+msgid "Last 5 financial years"
+msgstr ""
+
+#: financial_yearly
+msgid "Financial Yearly"
+msgstr ""
+
+#: please_specify_file
+msgid "Please specify a design file"
+msgstr ""
+
+#: jasper_design
+msgid "Jasper design"
+msgstr ""
+
+#: write_your_interpretation
+msgid "Write a comment, question or interpretation"
+msgstr ""
+
+#: share
+msgid "Share"
+msgstr ""
+
+#: share_your_interpretation
+msgid "Share your interpretation"
+msgstr ""
+
+#: interpretation_was_shared
+msgid "Interpretation was shared"
+msgstr ""
+
+#: last_3_months
+msgid "Last 3 months"
+msgstr ""
+
+#: get_report_template
+msgid "Get report template"
+msgstr ""
+
+#: actual_reports
+msgid "Actual Reports"
+msgstr "Biểu nhập đã hoàn tất"
+
+#: expected_reports
+msgid "Expected Reports"
+msgstr "Biểu nhập cần hoàn tất"
+
+#: percent
+msgid "Percent"
+msgstr "Tỉ lệ biểu nhập hoàn tất"
+
+#: reports_on_time
+msgid "Reports On Time"
+msgstr "Biểu nhập hoàn tất đúng hạn"
+
+#: percent_on_time
+msgid "Percent On Time"
+msgstr "Tỉ lệ biểu nhập hoàn tất đúng hạn"
+
+#: view_all
+msgid "View all"
+msgstr "Xem toàn bộ"
+
+#: write_your_interpretation_of_report
+msgid "Write a comment, question or interpretation of this report"
+msgstr "Viết một chú thích, câu hỏi hoặc lời diễn giải cho báo cáo"
+
+#: jasper_report_report_table_data_source
+msgid "Jasper report with report table data source"
+msgstr "Báo cáo Jasper với bảng báo cáo nguồn dữ liệu"
+
+#: jasper_report_jdbc_data_source
+msgid "Jasper report with JDBC data source"
+msgstr "Báo cáo Jasper với nguồn dữ liệu JDBC"
+
+#: html_report
+msgid "HTML report"
+msgstr "Báo cáo chuẩn HTML"
+
+#: design_file
+msgid "Design file"
+msgstr "Tệp thiết kế"
+
+#: get_jasper_report_template
+msgid "Get Jasper report template"
+msgstr "Lấy mẫu báo cáo Jasper"
+
+#: get_html_report_template
+msgid "Get HTML report template"
+msgstr "Lấy mẫu báo cáo HTML"
+
+#: analytics_tables_management
+msgid "Analytics tables management"
+msgstr ""
+
+#: analytics_tables
+msgid "Analytics tables"
+msgstr "Bảng phân tích"
+
+#: analytics_tables_update
+msgid "Analytics tables update"
+msgstr "Cập nhật bảng phân tích"
+
+#: aggregation_period_types
+msgid "Aggregation period types"
+msgstr "Loại thời điểm tổng hợp"
+
+#: analytics
+msgid "Analytics"
+msgstr ""
+
+#: approve
+msgid "Approve"
+msgstr "Duyệt "
+
+#: unapprove
+msgid "Unapprove"
+msgstr "Bỏ duyệt"
+
+#: accept
+msgid "Accept"
+msgstr "Chấp nhận"
+
+#: unaccept
+msgid "Unaccept"
+msgstr "Bỏ chấp nhận"
+
+#: waiting_for_lower_level_approval
+msgid "Waiting for lower levels to approve"
+msgstr "Đang đợi các cấp dưới duyệt dữ liệu"
+
+#: approved_at_a_higher_level
+msgid "Approved at a higher level"
+msgstr "Đã được duyệt ở cấp cao hơn"
+
+#: approved
+msgid "Approved"
+msgstr "Đã duyệt"
+
+#: approved_and_accepted
+msgid "Approved and accepted"
+msgstr "Đã duyệt và đã chấp nhận"
+
+#: ready_for_approval_at_a_higher_level
+msgid "Ready for approval at a higher level"
+msgstr "Sẵn sàng để duyệt ở cấp cao hơn"
+
+#: ready_for_approval
+msgid "Ready for approval"
+msgstr "Sẵn sàng duyệt"
+
+#: approval_not_relevant
+msgid "Approval not relevant"
+msgstr "Duyệt không tương thích"
+
+#: waiting_for_approval_elsewhere
+msgid "Waiting for approval elsewhere"
+msgstr "Đợi được duyệt ở nơi khác"
+
+#: approved_elsewhere
+msgid "Approved elsewhere"
+msgstr "Đã duyệt ở nơi khác"
+
+#: accepted_elsewhere
+msgid "Accepted elsewhere"
+msgstr "Đã chấp nhận ở nơi khác"
+
+#: approved_for_part_of_this_period
+msgid "Approved for part of this period"
+msgstr "Đã duyệt cho một phần của thời điểm này"
+
+#: accepted_for_part_of_this_period
+msgid "Accepted for part of this period"
+msgstr "Đã chấp nhận cho một phần của thời điểm này"
+
+#: approved_elsewhere_for_part_of_this_period
+msgid "Approved elsewhere for part of this period"
+msgstr "Đã duyệt ở nơi khác cho một phần của thời điểm này"
+
+#: accepted_elsewhere_for_part_of_this_period
+msgid "Accepted elsewhere for part of this period"
+msgstr "Đã chấp nhận ở nơi khác cho một phần của thời điểm này"
+
+#: confirm_approval
+msgid "Are you sure you want to approve this data set?"
+msgstr "Bạn có chắc chắn muốn duyệt dữ liệu cho biểu nhập này?"
+
+#: confirm_unapproval
+msgid "Are you sure you want to unapprove this data set?"
+msgstr "Bạn có chắc chắn muốn bỏ duyệt dữ liệu cho biểu nhập này?"
+
+#: confirm_accept
+msgid "Are you sure you want to accept this data set approval?"
+msgstr "Bạn có chắc chắn chấp nhận cho biểu này được duyệt?"
+
+#: confirm_unaccept
+msgid "Are you sure you want to unaccept this data set approval?"
+msgstr "Bạn có chắn chắn hủy chấp nhận cho biểu này được duyệt?"
+
+#: approval_entity
+msgid "Approval entity"
+msgstr "Cá thể phê duyệt"
+
+#: approval_status
+msgid "Approval status"
+msgstr "Tình trạng phê duyệt"
+
+#: please_make_selection
+msgid "Please make a selection below"
+msgstr "Hãy chọn một phần ở dưới"
+
+#: data_criteria
+msgid "Data criteria"
+msgstr "Tiêu chuẩn dữ liệu"

@@ -1,0 +1,534 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-dashboard-integration/src/main/resources/org/hisp/dhis/dashboard/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-dashboard-integration/src/main/resources/org/hisp/dhis/dashboard/i18n_module_vi.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: dashboard
+msgid "Dashboard"
+msgstr "Bảng điều khiển"
+
+#: insert
+msgid "Insert"
+msgstr "Chèn"
+
+#: close
+msgid "Close"
+msgstr "Đóng"
+
+#: clear
+msgid "Clear"
+msgstr "Xóa"
+
+#: rss_health
+msgid "RSS Health"
+msgstr "Tin vắn Y tế"
+
+#: rss_diseases
+msgid "RSS Diseases"
+msgstr "Các bệnh RSS"
+
+#: report
+msgid "Reports"
+msgstr "Báo cáo"
+
+#: document
+msgid "Resources"
+msgstr "Tài liệu"
+
+#: report_table
+msgid "Report tables"
+msgstr "Bảng báo cáo"
+
+#: map_view
+msgctxt "map_view"
+msgid "Maps"
+msgstr "Bản đồ"
+
+#: map
+msgctxt "map"
+msgid "Maps"
+msgstr "Bản đồ"
+
+#: this_is_a_link_area
+msgid "This is a link area"
+msgstr "Đây là một vùng đường dẫn liên kết"
+
+#: click_insert_and_select_link
+msgid "Click insert and select links"
+msgstr "Bấm chèn và chọn đường dẫn liên kết"
+
+#: this_is_a_chart_area
+msgid "This is a chart area"
+msgstr "Đây là khu vực biểu đồ"
+
+#: click_insert_and_select_chart
+msgid "Click Insert and select a chart"
+msgstr "Bấm chèn và chọn biểu đồ"
+
+#: insert_links_by_going_to
+msgid "Insert links by going to"
+msgstr "Chèn liên kết để tiếp tục"
+
+#: messages
+msgid "Messages"
+msgstr "Các tin nhắn"
+
+#: sender
+msgid "Sender"
+msgstr "Người gửi"
+
+#: date
+msgid "Date"
+msgstr "Ngày"
+
+#: subject
+msgid "Subject"
+msgstr "Chủ đề"
+
+#: remove
+msgid "Remove"
+msgstr "Xóa"
+
+#: write_message
+msgid "Write message"
+msgstr "Viết tin nhắn"
+
+#: write_feedback
+msgid "Write feedback"
+msgstr "Viết phản hồi"
+
+#: write_new_message
+msgid "Write new message"
+msgstr "Viết tin nhăn mới"
+
+#: write_new_feedback
+msgid "Write new feedback"
+msgstr "Viết phản hồi mới"
+
+#: recipients
+msgid "Recipients"
+msgstr "Người nhận"
+
+#: mark_unread
+msgid "Mark as unread"
+msgstr "Đánh dấu chưa đọc"
+
+#: mark_read
+msgid "Mark as read"
+msgstr "Đánh dấu chưa đọc"
+
+#: mark_followup
+msgid "Mark for followup"
+msgstr ""
+
+#: clear_followup
+msgid "Clear followup"
+msgstr ""
+
+#: read
+msgid "Read"
+msgstr "Đọc"
+
+#: delete
+msgid "Delete"
+msgstr "Xóa"
+
+#: confirm_delete_message
+msgid "Are you sure you want to delete the message?"
+msgstr "Bạn có chắc muốn xóa tin nhắn này?"
+
+#: confirm_delete_all_selected_messages
+msgid "Are you sure you want to delete all selected messages?"
+msgstr "Bạn có chắc muốn xóa các tin nhắn đã chọn?"
+
+#: no_messages_selected
+msgid "No messages selected"
+msgstr "Không có tin nhắn nào được chọn"
+
+#: unread_messages
+msgid "unread messages"
+msgstr "Các tin nhắn chưa đọc"
+
+#: unread_message
+msgid "unread message"
+msgstr "Tin nhắn chưa đọc"
+
+#: messages_were_deleted
+msgid "Messages were deleted"
+msgstr "Tin nhắn đã bị xóa"
+
+#: discard
+msgid "Discard"
+msgstr "Hủy"
+
+#: enter_subject
+msgid "Please enter a subject"
+msgstr "Nhập vào chủ đề"
+
+#: enter_text
+msgid "Please enter text"
+msgstr "Hãy nhập nội dung"
+
+#: reply
+msgid "Reply"
+msgstr "Trả lời"
+
+#: username
+msgid "Username"
+msgstr "Tên truy cập"
+
+#: user_roles
+msgid "User roles"
+msgstr "Quyền người dùng"
+
+#: user_usergroups
+msgid "User/User Groups"
+msgstr "Người dùng/Nhóm người dùng"
+
+#: select_one_or_more_recipients
+msgid "Select one or more recipients"
+msgstr "Chọn một hoặc nhiều người nhận"
+
+#: meta_data
+msgid "Meta data"
+msgstr "Siêu dữ liệu"
+
+#: sending_message
+msgid "Sending message"
+msgstr "Đang gửi tin nhắn"
+
+#: explore
+msgid "Explore"
+msgstr "Mở"
+
+#: interpretations
+msgid "Interpretations"
+msgstr "Thuyết minh báo cáo"
+
+#: share_your_own_interpretations_from
+msgid "Share your own interpretations from"
+msgstr "Chia sẻ bảng thuyết minh báo cáo của bạn từ"
+
+#: gis
+msgid "GIS"
+msgstr "Bản đồ số hóa"
+
+#: pivot_table
+msgid "Pivot table"
+msgstr "Bảng số liệu"
+
+#: add_a_comment
+msgid "Add a comment"
+msgstr "Thêm một bình lời bình luận"
+
+#: new_interpretations
+msgid "new interpretations"
+msgstr "Các bảng thuyết minh báo cáo mới"
+
+#: new_interpretation
+msgid "new interpretation"
+msgstr "Thuyết minh báo cáo mới"
+
+#: click_to_view_report_table
+msgid "Click to view report table"
+msgstr "Bấm vào để xem bảng báo cáo"
+
+#: click_to_view_in_data_visualizer
+msgid "Click to view in Data Visualizer"
+msgstr "Bấm vào để xem biểu đồ trong Dữ liệu mô hình hóa"
+
+#: click_to_view_in_gis
+msgid "Click to view in GIS"
+msgstr "Bấm vào để xem trong biểu đồ số hóa"
+
+#: click_to_view_data_set_report
+msgid "Click to view data set report"
+msgstr "Bấm vào để xem báo cáo tập hợp dữ liệu"
+
+#: share
+msgid "Share"
+msgstr "Chia sẻ"
+
+#: write_your_interpretation
+msgid "Write a comment, question or interpretation"
+msgstr "Viết một lời bình luận, câu hỏi hoặc Thuyết minh báo cáo"
+
+#: share_your_interpretation_of
+msgid "Share your interpretation of"
+msgstr "Chia sẻ bảng thuyết minh báo cáo của bạn"
+
+#: interpretation_was_shared
+msgid "Interpretation was shared"
+msgstr "Thuyết minh báo cáo đã được chia sẻ"
+
+#: viewing
+msgid "Viewing"
+msgstr "Xem"
+
+#: from
+msgid "From"
+msgstr "Từ"
+
+#: load_favorite_click_share
+msgid "load a favorite and click 'Share' on the top menu"
+msgstr ""
+"Tải một cái ưa thích (đánh dấu) và bấm vào 'Chia sẻ' trên menu trên cùng"
+
+#: generate_pivot_table_click_share
+msgid "generate a pivot table and click 'Share' on the top menu"
+msgstr "Xuất ra một bảng số liệu và bấm vào 'Chia sẻ' trên menu trên cùng"
+
+#: share_interpretation
+msgid "Share interpretation"
+msgstr "Thuyết minh báo cáo"
+
+#: select_users_and_user_groups
+msgid "Select users and user groups"
+msgstr "Chọn người dùng và nhóm người dùng"
+
+#: selected_more_than_200_user
+msgid "You have {userCount} recipients, please reduce to 200 or less"
+msgstr ""
+
+#: generate_data_set_report_click_share
+msgid "generate a data set report and click 'Share' on the top menu"
+msgstr "Xuất báo cáo tập hợp dữ liệu và bấm 'Chia sẻ\" trên menu trên cùng"
+
+#: data_visualizer
+msgid "Data visualizer"
+msgstr "Dữ liệu mô hình hóa"
+
+#: data_set_report
+msgid "Data set report"
+msgstr "Báo cáo tập hợp dữ liệu"
+
+#: search_for_users_charts_maps_reports
+msgid "Search for users, charts, maps, reports and resources"
+msgstr "Tìm kiếm theo người sử dụng, biểu đồ, bản đồ hoặc báo cáo"
+
+#: no_hits
+msgid "No hits, try again"
+msgstr "Không tìm thấy, hãy thử lại"
+
+#: profile
+msgid "Profile"
+msgstr "Hồ sơ"
+
+#: works_as
+msgid "Works as"
+msgstr "Nghề nghiệp"
+
+#: employed_at
+msgid "Employed at"
+msgstr "Đơn vị công tác"
+
+#: interested_in
+msgid "Interested in"
+msgstr "Sở thích"
+
+#: speaks
+msgid "Speaks"
+msgstr "Ngôn ngữ"
+
+#: email
+msgid "Email"
+msgstr "Thư điện tử"
+
+#: phone_number
+msgid "Phone number"
+msgstr "Số điện thoại"
+
+#: org_units
+msgid "Org units"
+msgstr "Đơn vị"
+
+#: edit_profile
+msgid "Edit profile"
+msgstr "Chỉnh sửa hồ sơ"
+
+#: inbox
+msgid "Inbox"
+msgstr "Hộp thư"
+
+#: follow_up
+msgid "Follow up"
+msgstr "Theo dõi"
+
+#: unread
+msgid "Unread"
+msgstr "Chưa đọc"
+
+#: send_message
+msgid "Send message"
+msgstr "Gửi tin nhắn"
+
+#: to
+msgid "To"
+msgstr "Đến"
+
+#: scroll_down
+msgid "Scroll down"
+msgstr "Kéo xuống"
+
+#: scroll_up
+msgid "Scroll up"
+msgstr "Kéo lên"
+
+#: latest_interpretations
+msgid "Latest interpretations"
+msgstr "Bảng thuyết minh báo cáo mới nhất"
+
+#: view_full_profile
+msgid "View full profile"
+msgstr "Xem toàn hồ sơ"
+
+#: view_full_size
+msgid "View full size"
+msgstr "Xem đầy đủ kích thước"
+
+#: click_to_explore
+msgid "Click to explore"
+msgstr "Bấm để mở"
+
+#: to_org_unit
+msgid "To org unit"
+msgstr "Đến đơn vị"
+
+#: to_user
+msgid "To user"
+msgstr "Đến người dùng"
+
+#: update_profile
+msgid "update profile!"
+msgstr "Cập nhật hồ sơ cá nhân!"
+
+#: or
+msgid "or"
+msgstr "hoặc"
+
+#: groups
+msgid "Groups"
+msgstr "Nhóm"
+
+#: search
+msgid "Search"
+msgstr "Tìm"
+
+#: rename_current_dashboard
+msgid "Rename current dashboard"
+msgstr "Đổi tên bảng điều khiển hiện tại"
+
+#: delete_current_dashboard
+msgid "Delete current dashboard"
+msgstr "Xóa bảng điều khiển hiện tại"
+
+#: add_new
+msgid "Add new"
+msgstr "Thêm mới"
+
+#: manage
+msgid "Manage"
+msgstr "Quản lý"
+
+#: sharing
+msgid "Sharing"
+msgstr "Chia sẻ"
+
+#: click_add_new_to_get_started
+msgid "Click 'Add new' to get started"
+msgstr "Bấm 'Thêm mới' để bắt đầu"
+
+#: add_stuff_by_searching
+msgid "Add stuff by searching from the search field above"
+msgstr "Thêm các thành phần bằng cách gõ vào ô tìm kiếm phía trên"
+
+#: arrange_dashboard_by_dragging_and_dropping
+msgid "Then arrange dashboard by dragging and dropping items"
+msgstr "Sắp xếp bảng điều khiển bằng cách kéo và thả các thành phần"
+
+#: click_to_explore_drag_to_new_position
+msgid "Click to explore or drag to new position"
+msgstr "Bấm vào để mở hoặc kéo đến vị trí mới"
+
+#: click_and_drag_to_new_position
+msgid "Click and drag to new position"
+msgstr ""
+
+#: drag_to_new_position
+msgid "Drag to new position"
+msgstr "Kéo đến vị trí mới"
+
+#: system_notification
+msgid "System notification"
+msgstr "Thông báo hệ thống"
+
+#: and
+msgid "and"
+msgstr "và"
+
+#: more
+msgid "more"
+msgstr "hơn"
+
+#: see_more_hits
+msgid "See more hits"
+msgstr "Xem nhiều kết quả hơn"
+
+#: see_fewer_hits
+msgid "See fewer hits"
+msgstr "Xem ít kết quả hơn"
+
+#: add
+msgid "Add"
+msgstr "Thêm"
+
+#: resize
+msgid "Resize"
+msgstr ""
+
+#: add_items_to_current_dashboard
+msgid "Add items to current dashboard"
+msgstr "Thêm thành phần vào bảng điều khiển hiện tại"
+
+#: could_not_delete_interpretation
+msgid "Could not delete interpretation, please try again later"
+msgstr "Không thể xóa bảng thuyết minh báo cáo, vui lòng thử lại sau"
+
+#: could_not_delete_interpretation_comment
+msgid "Could not delete interpretation comment, please try again later"
+msgstr ""
+"Không thể xóa bình luận của bảng thuyết minh báo cáo, vui lòng thử lại sau"
+
+#: could_not_save_interpretation
+msgid "Could not save interpretation, please try again later"
+msgstr "Không thể lưu bảng thuyết minh báo cáo, vui lòng thử lại sau"
+
+#: applies_to_favorites_with_user_org_units_only
+msgid "Applies to favorites with \"user org units\" only"
+msgstr ""
+
+#: user_org_unit_filter
+msgid "User organisation unit filter"
+msgstr ""
+
+#: download
+msgid "Download"
+msgstr ""
+
+#: api_link
+msgid "API link"
+msgstr ""
+
+#: get_as_image
+msgid "Get as image"
+msgstr ""

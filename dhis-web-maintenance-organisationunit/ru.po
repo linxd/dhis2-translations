@@ -1,0 +1,511 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-organisationunit/src/main/resources/org/hisp/dhis/oum/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-organisationunit/src/main/resources/org/hisp/dhis/oum/i18n_module_ru.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: create_new_root
+msgid "Are you sure you want to create a new root organisation unit?"
+msgstr ""
+
+#: create_new_org_unit
+msgid "Create new organisation unit"
+msgstr "Создать новую организацию/отдел"
+
+#: registers_data
+msgid "Registers data"
+msgstr "Регистрирует данные"
+
+#: crease_new_org_unit_group
+msgid "Create new organisation unit group"
+msgstr "Создать новую группу организации"
+
+#: hierarchy_operations
+msgid "Hierarchy operations"
+msgstr "Иерархия операций"
+
+#: select_an_org_unit_to_move
+msgid "Select an organisation unit to move"
+msgstr "Выбрать организацию/отдел для перемещения"
+
+#: not_selected
+msgid "Not selected"
+msgstr "Не выбрано"
+
+#: confirm
+msgid "Confirm"
+msgstr "Подтвердить"
+
+#: select_the_new_parent_org_unit_for_the_one_to_move
+msgid "Select the new parent organisation unit for the one to move"
+msgstr "Выбрать новую головную организацию для перемещения"
+
+#: not_selected_moved_to_root_position
+msgctxt "not_selected_moved_to_root_position"
+msgid "Not selected, moved to root position"
+msgstr ""
+
+#: reset
+msgid "Reset"
+msgstr "Перезагрузить"
+
+#: org_unit
+msgid "Organisation Unit"
+msgstr "Организация/отдел"
+
+#: org_unit_group
+msgid "Organisation Unit Group"
+msgstr "Группа организации"
+
+#: hierarchy_operations_menu
+msgid "Hierarchy Operations"
+msgstr "Иерархия операций"
+
+#: org_unit_level
+msgid "Organisation Unit Level"
+msgstr "Уровень   организации"
+
+#: org_unit_management
+msgid "Organisation unit management"
+msgstr "Управление организацией/отделом"
+
+#: this_org_unit_has_no_children
+msgid "This organisation unit has no children"
+msgstr "Данная организация не включает детей"
+
+#: org_unit_group_management
+msgid "Organisation unit group management"
+msgstr "Управление группой организации"
+
+#: number_of_group_members
+msgid "Number of group members"
+msgstr "Количество членов группы"
+
+#: edit_org_unit
+msgid "Edit organisation unit"
+msgstr "Редактировать организацию/отдел"
+
+#: edit_org_unit_group
+msgid "Edit organisation unit group"
+msgstr "Редактировать группу организации"
+
+#: the_selected_organisation_unit_is_already_a_root
+msgid ""
+"The selected organisation unit is already a root. Please select a new parent "
+"organisation unit"
+msgstr ""
+"Выбранная организация/отдел уже является основным. Пож-ста, выберите новую "
+"головную организацию"
+
+#: the_selected_organisation_unit_will_be_moved_to_root
+msgid "The selected organisation unit will be moved to root"
+msgstr "Выбранная организация/отдел будет перемещена к основному."
+
+#: an_organisation_unit_cannot_be_moved_to_itself
+msgid ""
+"An organisation unit cannot be moved to itself. Please select a new parent "
+"organisation unit"
+msgstr ""
+"Организация/отдел не может переместиться к себе.Пож-ста, выберите новую "
+"головную организацию"
+
+#: an_org_unit_cannot_be_moved_to_be_its_own_child
+msgid ""
+"An organisation unit cannot be moved to be its own child. Please select a "
+"new parent organisation unit"
+msgstr ""
+"Организация/отдел не может переместиться как ее собственную дочернюю. Пож-"
+"ста, выберите новую родительскую/головную организацию"
+
+#: the_new_parent_org_unit_is_approved
+msgid "The new parent organisation unit is approved"
+msgstr "Новая головная организация утверждена"
+
+#: name_in_use
+msgid "The name is already in use. Please choose a different name."
+msgstr "Имя используется"
+
+#: code_in_use
+msgid "The code is already in use. Please choose a different code."
+msgstr "Данный код уже используется. Пожалуйста выберите другой код."
+
+#: this_org_unit_cannot_moved
+msgid ""
+"This organisation unit cannot be moved. Please select a new organisation "
+"unit to move"
+msgstr ""
+"Данная организация не может быть перемещена. Пож-ста выберите новую "
+"организацию для перемещения"
+
+#: the_org_unit_to_move_is_approved
+msgid "The organisation unit to move is approved"
+msgstr "Организация утверждена для перемещения"
+
+#: not_selected_moved_to_root_position
+msgctxt "not_selected_moved_to_root_position"
+msgid "Not selected, moved to root position"
+msgstr ""
+
+#: verification_of_the_new_parent_org_unit_failed
+msgid ""
+"Verification of the new parent organisation unit failed with the following "
+"message"
+msgstr ""
+"Произошел сбой при верификации новой головной организации со следующим "
+"сообщением"
+
+#: confirm_to_delete_org_unit
+msgid "Are you sure you want to delete this organisation unit?"
+msgstr "Вы уверены, что хотите удалить данную организацию/отдел?"
+
+#: adding_the_org_unit_failed
+msgid "Adding the organisation unit failed with the following message"
+msgstr "Произошел сбой при верификации организации со следующим сообщением"
+
+#: saving_the_org_unit_failed
+msgid "Saving the organisation unit failed with the following message"
+msgstr "Произошел сбой при сохранении организации со следующим сообщением"
+
+#: confirm_to_delete_org_unit_group
+msgid "Are you sure you want to delete this Organisation Unit Group?"
+msgstr "Вы уверены, что хотите удалить группу организации?"
+
+#: confirm_to_delete_org_unit_group_set
+msgid "Are you sure you want to delete this organisation unit group set?"
+msgstr "Вы уверены, что хотите удалить данный наборгруппы организации?"
+
+#: org_unit_group_set_management
+msgid "Organisation unit group set management"
+msgstr "Менеджмент набора группы организации"
+
+#: org_unit_group_set
+msgid "Organisation Unit Group Set"
+msgstr "Набор группы организации"
+
+#: saving_the_org_unit_group_set_failed
+msgid ""
+"Saving the organisation unit group set failed with the following message"
+msgstr ""
+"Сбой в сохранении набора группы организации/отдела со следующим сообщением"
+
+#: create_new_org_unit_group_set
+msgctxt "create_new_org_unit_group_set"
+msgid "Create new organisation unit group set"
+msgstr ""
+
+#: compulsory
+msgid "Compulsory"
+msgstr "Обязательный"
+
+#: data_dimension
+msgid "Data Dimension"
+msgstr ""
+
+#: exclusive
+msgid "Exclusive"
+msgstr "Исключительный"
+
+#: create_new_org_unit_group_set
+msgctxt "create_new_org_unit_group_set"
+msgid "Create new organisation unit group set"
+msgstr ""
+
+#: edit_org_unit_group_set
+msgid "Edit organisation unit group set"
+msgstr "Редактировать набор группы организации/отдела"
+
+#: number_of_members
+msgid "Number of members"
+msgstr "Число членов"
+
+#: available_groups
+msgid "Available groups"
+msgstr "Доступные группы"
+
+#: selected_groups
+msgid "Selected groups"
+msgstr "Выбранные группы"
+
+#: the_group_set_can_not_be_creat_bec_it_is_exc_and
+msgid "The group set can not be created because it is exclusive and"
+msgstr ""
+"Набор группы не может быть создан, в связи с тем, что он исключительный и"
+
+#: is_a_member_of_more_than_one_selected_group
+msgid "is a member of more than one selected group"
+msgstr "является членом более одной выбранной группы"
+
+#: move_selected
+msgid "Move selected"
+msgstr "Переместить выбранное"
+
+#: move_all
+msgid "Move all"
+msgstr "Переместить все"
+
+#: remove_selected
+msgid "Remove selected"
+msgstr "Удалить выбранное"
+
+#: remove_all
+msgid "Remove all"
+msgstr "Удалить все"
+
+#: organisation_unit_level_management
+msgid "Organisation unit level management"
+msgstr "Управление на уровне организации/отдела"
+
+#: level
+msgid "Level"
+msgstr "Уровень"
+
+#: code
+msgid "Code"
+msgstr "Код"
+
+#: object_not_deleted_associated_by_objects
+msgid "Object not deleted because it is associated by objects of type"
+msgstr "Объект не был удален, потому что используется другими объектами:"
+
+#: registers_date
+msgid "Registers date"
+msgstr "Дата Регистров"
+
+#: hide_warning
+msgid "Hide warning"
+msgstr "Скрыть предупреждение"
+
+#: url
+msgid "URL"
+msgstr "Url"
+
+#: latitude
+msgid "Latitude"
+msgstr "Диапазон"
+
+#: longitude
+msgid "Longitude"
+msgstr "Долгота"
+
+#: latitude_optional
+msgid "Latitude (optional)"
+msgstr "Широта (по выбору)"
+
+#: longitude_optional
+msgid "Longitude (optional)"
+msgstr "Долгот (по выбору)"
+
+#: assign_to_compulsory_group_set
+msgid "Assign to compulsory organisation unit group set"
+msgstr "Назначить к набору группы обязательных организаций/отделов"
+
+#: organisation_unit_group_set
+msgid "Organisation unit group set"
+msgstr "Наборы групп организаций"
+
+#: group_members
+msgid "Group members"
+msgstr "Члены группы"
+
+#: last_updated
+msgid "Last updated"
+msgstr "Последнее обновление"
+
+#: intro_org_unit
+msgid ""
+"Create, modify, view and delete organisation units, which can be "
+"departments, offices, hospitals and clinics."
+msgstr ""
+"Создать, модифицировать, смотреть и удалить организации/отделы, которые "
+"могут быть подразделением, офисом, стационаром и клиникой."
+
+#: intro_org_unit_group
+msgid ""
+"Create, modify, view and delete organisation unit groups. Groups are used "
+"for improved analysis."
+msgstr ""
+"Создать, модифицировать, смотреть и удалить группы организаций/отделов. "
+"Группы используются для улучшения анализа."
+
+#: intro_org_unit_group_set
+msgid ""
+"Create, modify, view and delete organisation unit group sets. Group sets are "
+"used for improved analysis."
+msgstr ""
+"Создать, модифицировать, смотреть и удалить набор группы организации/отделы. "
+"Групповые наборы используются для улучшения анализа."
+
+#: intro_org_unit_level
+msgid ""
+"Create, modify, view and delete descriptive names for the organisation unit "
+"levels in the system."
+msgstr ""
+"Создать, модифицировать, смотреть и удалить описательные названии для "
+"уровней организаций в системе"
+
+#: intro_org_unit_search
+msgid ""
+"Search organisation units based on name and group sets. View extended "
+"information for individual units."
+msgstr ""
+"Поиск организации/отдела на основе названия и группового набора. Смотреть "
+"расширенную информацию  для идивидуальных подразделений"
+
+#: intro_hierarchy_operations_menu
+msgid ""
+"Move organisation units in the organisation unit tree. All children will be "
+"moved along with the unit."
+msgstr ""
+"Переместить орг.ячейки в дерево организации.Все дочерние организации будут "
+"перемещены вместе с ней."
+
+#: loading
+msgid "Loading"
+msgstr "Загрузка"
+
+#: coordinates
+msgid "Coordinates"
+msgstr "Координаты"
+
+#: org_unit_search
+msgid "Organisation Unit Search"
+msgstr "Поиск организации/отдела"
+
+#: org_unit_search_management
+msgid "Organisation unit search"
+msgstr "Поиск организации/отдела"
+
+#: criteria
+msgid "Criteria"
+msgstr "Критерий"
+
+#: options
+msgid "Options"
+msgstr "Опции"
+
+#: all
+msgctxt "all"
+msgid "All"
+msgstr ""
+
+#: search
+msgid "Search"
+msgstr "Поиск"
+
+#: organisation_units
+msgid "organisation units"
+msgstr "Организация"
+
+#: found
+msgid "Found"
+msgstr "Найдено"
+
+#: all
+msgctxt "all"
+msgid "All"
+msgstr ""
+
+#: please_select_from_tree
+msgid "Please select from tree (optional)"
+msgstr "Пожалуйста, выберите из дерева (по выбору)"
+
+#: polygon
+msgid "Polygon"
+msgstr "Полигон"
+
+#: point
+msgid "Point"
+msgstr "пункт"
+
+#: offline_levels
+msgid "Offline levels"
+msgstr ""
+
+#: available_data_sets
+msgid "Available data sets"
+msgstr "Доступные наборы данных"
+
+#: selected_data_sets
+msgid "Selected data sets"
+msgstr "Выбранные наборы данных"
+
+#: limited
+msgid "Limited"
+msgstr "Ограниченный"
+
+#: get_report_as_xls
+msgid "Download as Excel"
+msgstr "Загрузить как Excel файл"
+
+#: get_report_as_csv
+msgid "Download as CSV"
+msgstr "Загрузить в формате CSV"
+
+#: get_report_as_pdf
+msgid "Download as PDF"
+msgstr "Загрузить как PDF файл"
+
+#: please_wait_while_downloading
+msgid "Please wait while downloading report"
+msgstr "Пожалуйста, подождите, отчет загружается"
+
+#: please_wait_while_searching
+msgid "Please wait while searching"
+msgstr "Пожалуйста, подождите, идет поиск"
+
+#: hierarchy
+msgid "Hierarchy"
+msgstr "Иерархия"
+
+#: data_sets
+msgid "Data sets"
+msgstr "Наборы данных"
+
+#: organisation_unit_groups
+msgid "Organisation unit groups"
+msgstr "Группы организаций"
+
+#: select_group
+msgid "Select group"
+msgstr "Выбрать группу"
+
+#: phone_number
+msgid "Phone number"
+msgstr "Номер мобильного телефона"
+
+#: select_symbol
+msgid "Select symbol"
+msgstr "Выбрать символ"
+
+#: symbol
+msgid "Symbol"
+msgstr "Символ"
+
+#: name_code_identifier
+msgid "Name, code or identifier"
+msgstr "Название, код и идентификатор"
+
+#: identifier
+msgid "Identifier"
+msgstr "Идентификатор"
+
+#: short_name_in_use
+msgid "The short name is already in use. Please choose a different short name"
+msgstr "Короткое имя уже используется. Пожалуйста выберите другое короткое имя."
+
+#: show_all_sections
+msgid "Show all sections"
+msgstr "Показать все участки"
+
+#: org_unit_levels_not_yet_saved
+msgid "Organisation unit level is not yet saved, please save"
+msgstr ""

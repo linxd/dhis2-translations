@@ -1,0 +1,511 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-organisationunit/src/main/resources/org/hisp/dhis/oum/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-organisationunit/src/main/resources/org/hisp/dhis/oum/i18n_module_pt_BR.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: create_new_root
+msgid "Are you sure you want to create a new root organisation unit?"
+msgstr ""
+
+#: create_new_org_unit
+msgid "Create new organisation unit"
+msgstr "Criar nova unidade organizacional"
+
+#: registers_data
+msgid "Registers data"
+msgstr "Dados do registo"
+
+#: crease_new_org_unit_group
+msgid "Create new organisation unit group"
+msgstr "Criar novo grupo de unidades organizacionais"
+
+#: hierarchy_operations
+msgid "Hierarchy operations"
+msgstr "Operações de hierarquias"
+
+#: select_an_org_unit_to_move
+msgid "Select an organisation unit to move"
+msgstr "Selecione uma unidade de organizacional para se mover"
+
+#: not_selected
+msgid "Not selected"
+msgstr "Não selecionado"
+
+#: confirm
+msgid "Confirm"
+msgstr "Confirmar"
+
+#: select_the_new_parent_org_unit_for_the_one_to_move
+msgid "Select the new parent organisation unit for the one to move"
+msgstr "Selecionar a nova unidade organizacional pai um mover"
+
+#: not_selected_moved_to_root_position
+msgctxt "not_selected_moved_to_root_position"
+msgid "Not selected, moved to root position"
+msgstr "Não selecionado, movido para a posição de raiz"
+
+#: reset
+msgid "Reset"
+msgstr "Refazer"
+
+#: org_unit
+msgid "Organisation Unit"
+msgstr "Unidade Organizacional"
+
+#: org_unit_group
+msgid "Organisation Unit Group"
+msgstr "Grupo de Unidade Organizacional"
+
+#: hierarchy_operations_menu
+msgid "Hierarchy Operations"
+msgstr "Operações de hierarquias"
+
+#: org_unit_level
+msgid "Organisation Unit Level"
+msgstr "Nível de Unidade Organizacional"
+
+#: org_unit_management
+msgid "Organisation unit management"
+msgstr "Gestão de Unidade Organizacional"
+
+#: this_org_unit_has_no_children
+msgid "This organisation unit has no children"
+msgstr "Esta unidade organizacional não tem dependentes"
+
+#: org_unit_group_management
+msgid "Organisation unit group management"
+msgstr "Gestão de Grupo Unidade Organizacional"
+
+#: number_of_group_members
+msgid "Number of group members"
+msgstr "Número de membros do grupo"
+
+#: edit_org_unit
+msgid "Edit organisation unit"
+msgstr "Editar unidade organizacional"
+
+#: edit_org_unit_group
+msgid "Edit organisation unit group"
+msgstr "Editar grupo de unidades organizacionais"
+
+#: the_selected_organisation_unit_is_already_a_root
+msgid ""
+"The selected organisation unit is already a root. Please select a new parent "
+"organisation unit"
+msgstr ""
+"A unidade de organizacional selecionada já é uma raiz. Por favor, selecione "
+"uma nova unidade organizacional do pai"
+
+#: the_selected_organisation_unit_will_be_moved_to_root
+msgid "The selected organisation unit will be moved to root"
+msgstr "Unidades organizacionais seleccionados serão movidos para raiz"
+
+#: an_organisation_unit_cannot_be_moved_to_itself
+msgid ""
+"An organisation unit cannot be moved to itself. Please select a new parent "
+"organisation unit"
+msgstr ""
+"Uma unidade organizacional nao pode ser movida para si mesmo. Favor "
+"seleccionar unidade organizacional parente"
+
+#: an_org_unit_cannot_be_moved_to_be_its_own_child
+msgid ""
+"An organisation unit cannot be moved to be its own child. Please select a "
+"new parent organisation unit"
+msgstr ""
+"Uma unidade organizacional não pode ser movida para ser sua própria filha. "
+"Por favor, seleccione uma nova unidade organizacional parente"
+
+#: the_new_parent_org_unit_is_approved
+msgid "The new parent organisation unit is approved"
+msgstr "A nova unidade organizacional pai é aprovado"
+
+#: name_in_use
+msgid "The name is already in use. Please choose a different name."
+msgstr "O nome já está em uso. Por favor, escolha um nome diferente"
+
+#: code_in_use
+msgid "The code is already in use. Please choose a different code."
+msgstr "O código já está em uso. Por favor, escolha um código diferente."
+
+#: this_org_unit_cannot_moved
+msgid ""
+"This organisation unit cannot be moved. Please select a new organisation "
+"unit to move"
+msgstr ""
+"Esta unidade de organizacional não pode ser movido. Por favor, selecione uma "
+"nova unidade organizacional para se mover"
+
+#: the_org_unit_to_move_is_approved
+msgid "The organisation unit to move is approved"
+msgstr "A nova unidade organizacional para mover é aprovado"
+
+#: not_selected_moved_to_root_position
+msgctxt "not_selected_moved_to_root_position"
+msgid "Not selected, moved to root position"
+msgstr "Não selecionado, movido para a posição de raiz"
+
+#: verification_of_the_new_parent_org_unit_failed
+msgid ""
+"Verification of the new parent organisation unit failed with the following "
+"message"
+msgstr ""
+"Verificação da nova unidade organizacional parente falhou com a seguinte "
+"mensagem"
+
+#: confirm_to_delete_org_unit
+msgid "Are you sure you want to delete this organisation unit?"
+msgstr "Tem a certeza que quer apagar esta unidade organizacional?"
+
+#: adding_the_org_unit_failed
+msgid "Adding the organisation unit failed with the following message"
+msgstr "Adição da unidade organizacional falhou com a seguinte mensagem"
+
+#: saving_the_org_unit_failed
+msgid "Saving the organisation unit failed with the following message"
+msgstr "Salvar a unidade de organizacional falhou com a seguinte mensagem"
+
+#: confirm_to_delete_org_unit_group
+msgid "Are you sure you want to delete this Organisation Unit Group?"
+msgstr "Tem a certeza que quer apagar este grupo de unidades organizacionais?"
+
+#: confirm_to_delete_org_unit_group_set
+msgid "Are you sure you want to delete this organisation unit group set?"
+msgstr "Tem a certeza que quer apagar o set do grupo da unidade organizacional?"
+
+#: org_unit_group_set_management
+msgid "Organisation unit group set management"
+msgstr "Gestão de Conjunto de Grupo Unidade Organizacional"
+
+#: org_unit_group_set
+msgid "Organisation Unit Group Set"
+msgstr "Conjunto de Grupo Unidade Organizacional"
+
+#: saving_the_org_unit_group_set_failed
+msgid ""
+"Saving the organisation unit group set failed with the following message"
+msgstr ""
+"Salvar o conjunto de grupo de unidade de organizacional falhou com a "
+"seguinte mensagem"
+
+#: create_new_org_unit_group_set
+msgctxt "create_new_org_unit_group_set"
+msgid "Create new organisation unit group set"
+msgstr "Criar novo set de grupo de unidades organizacionais"
+
+#: compulsory
+msgid "Compulsory"
+msgstr "Obrigatório"
+
+#: data_dimension
+msgid "Data Dimension"
+msgstr ""
+
+#: exclusive
+msgid "Exclusive"
+msgstr "Exclusivo"
+
+#: create_new_org_unit_group_set
+msgctxt "create_new_org_unit_group_set"
+msgid "Create new organisation unit group set"
+msgstr "Criar novo set de grupo de unidades organizacionais"
+
+#: edit_org_unit_group_set
+msgid "Edit organisation unit group set"
+msgstr "Editar set de grupo de unidades organizacionais"
+
+#: number_of_members
+msgid "Number of members"
+msgstr "Número de membros"
+
+#: available_groups
+msgid "Available groups"
+msgstr "Grupos disponiveis"
+
+#: selected_groups
+msgid "Selected groups"
+msgstr "Grupos selecionados"
+
+#: the_group_set_can_not_be_creat_bec_it_is_exc_and
+msgid "The group set can not be created because it is exclusive and"
+msgstr "O conjunto de grupo não pode ser criada porque é exclusiva e"
+
+#: is_a_member_of_more_than_one_selected_group
+msgid "is a member of more than one selected group"
+msgstr "é membro de mais do que um grupo selecionado"
+
+#: move_selected
+msgid "Move selected"
+msgstr "Mover seleccionado"
+
+#: move_all
+msgid "Move all"
+msgstr "Mover todos"
+
+#: remove_selected
+msgid "Remove selected"
+msgstr "Remover seleccionados"
+
+#: remove_all
+msgid "Remove all"
+msgstr "Remover todos trancados"
+
+#: organisation_unit_level_management
+msgid "Organisation unit level management"
+msgstr "Gestão de Nível de Unidade Organizacional"
+
+#: level
+msgid "Level"
+msgstr "Nivel"
+
+#: code
+msgid "Code"
+msgstr "Código"
+
+#: object_not_deleted_associated_by_objects
+msgid "Object not deleted because it is associated by objects of type"
+msgstr "Objeto não excluído porque ele está associado por objetos do tipo"
+
+#: registers_date
+msgid "Registers date"
+msgstr "Data de registo"
+
+#: hide_warning
+msgid "Hide warning"
+msgstr "Esconder avisos"
+
+#: url
+msgid "URL"
+msgstr "URL"
+
+#: latitude
+msgid "Latitude"
+msgstr "Latitude"
+
+#: longitude
+msgid "Longitude"
+msgstr "Longitude"
+
+#: latitude_optional
+msgid "Latitude (optional)"
+msgstr "Latitude (opcional)"
+
+#: longitude_optional
+msgid "Longitude (optional)"
+msgstr "Longitude (opcional)"
+
+#: assign_to_compulsory_group_set
+msgid "Assign to compulsory organisation unit group set"
+msgstr "Atribuir ao grupo a unidades organizacional obrigatório"
+
+#: organisation_unit_group_set
+msgid "Organisation unit group set"
+msgstr "Conjunto de Grupo Unidade Organizacional"
+
+#: group_members
+msgid "Group members"
+msgstr "Membros do grupo"
+
+#: last_updated
+msgid "Last updated"
+msgstr "Última actualização"
+
+#: intro_org_unit
+msgid ""
+"Create, modify, view and delete organisation units, which can be "
+"departments, offices, hospitals and clinics."
+msgstr ""
+"Criar, modificar, exibir e excluir unidades organizacionais, que podem ser "
+"departamentos, escritórios, hospitais e clínicas."
+
+#: intro_org_unit_group
+msgid ""
+"Create, modify, view and delete organisation unit groups. Groups are used "
+"for improved analysis."
+msgstr ""
+"Criar, modificar, exibir e excluir grupos de unidades da organização. Grupos "
+"são usados ​​para melhor análise."
+
+#: intro_org_unit_group_set
+msgid ""
+"Create, modify, view and delete organisation unit group sets. Group sets are "
+"used for improved analysis."
+msgstr ""
+"Criar, modificar, visualizar e excluir conjuntos de grupo da unidade "
+"organizacional. Conjuntos de grupo são utilizadas para uma melhor análise."
+
+#: intro_org_unit_level
+msgid ""
+"Create, modify, view and delete descriptive names for the organisation unit "
+"levels in the system."
+msgstr ""
+"Criar, modificar, exibir e excluir nomes descritivos para os níveis de "
+"unidade de organizacional no sistema."
+
+#: intro_org_unit_search
+msgid ""
+"Search organisation units based on name and group sets. View extended "
+"information for individual units."
+msgstr ""
+"Pesquisa unidades organizacionais com base no nome e define grupo. Exibir "
+"informações prorrogado por unidades individuais."
+
+#: intro_hierarchy_operations_menu
+msgid ""
+"Move organisation units in the organisation unit tree. All children will be "
+"moved along with the unit."
+msgstr ""
+"Mover unidades organizacionais na árvore de unidade organizacional. Todas as "
+"crianças serão movidos junto com a unidade."
+
+#: loading
+msgid "Loading"
+msgstr "Carregando.."
+
+#: coordinates
+msgid "Coordinates"
+msgstr "Coordenadas"
+
+#: org_unit_search
+msgid "Organisation Unit Search"
+msgstr "Pesquisar Unidade Organizacional"
+
+#: org_unit_search_management
+msgid "Organisation unit search"
+msgstr "Pesquisar Unidade Organizacional"
+
+#: criteria
+msgid "Criteria"
+msgstr "Critério"
+
+#: options
+msgid "Options"
+msgstr "Opções"
+
+#: all
+msgctxt "all"
+msgid "All"
+msgstr "Todos"
+
+#: search
+msgid "Search"
+msgstr "Pesquisar"
+
+#: organisation_units
+msgid "organisation units"
+msgstr "Unidades organizacionais"
+
+#: found
+msgid "Found"
+msgstr "Encontrado"
+
+#: all
+msgctxt "all"
+msgid "All"
+msgstr "Todos"
+
+#: please_select_from_tree
+msgid "Please select from tree (optional)"
+msgstr "Por favor escolha da árvore (opcional)"
+
+#: polygon
+msgid "Polygon"
+msgstr "Poligono"
+
+#: point
+msgid "Point"
+msgstr "Ponto"
+
+#: offline_levels
+msgid "Offline levels"
+msgstr ""
+
+#: available_data_sets
+msgid "Available data sets"
+msgstr "Disponíveis conjuntos de dados"
+
+#: selected_data_sets
+msgid "Selected data sets"
+msgstr "Conjuntos de dados selecionados"
+
+#: limited
+msgid "Limited"
+msgstr "Limitado"
+
+#: get_report_as_xls
+msgid "Download as Excel"
+msgstr "Exportar como Excel"
+
+#: get_report_as_csv
+msgid "Download as CSV"
+msgstr "Exportar como CSV"
+
+#: get_report_as_pdf
+msgid "Download as PDF"
+msgstr "Exportar como PDF"
+
+#: please_wait_while_downloading
+msgid "Please wait while downloading report"
+msgstr "Por favor aguarde enquanto baixa relatório"
+
+#: please_wait_while_searching
+msgid "Please wait while searching"
+msgstr "Por favor, aguarde enquanto procura"
+
+#: hierarchy
+msgid "Hierarchy"
+msgstr "Hierárquia"
+
+#: data_sets
+msgid "Data sets"
+msgstr "Conjunto de Dados"
+
+#: organisation_unit_groups
+msgid "Organisation unit groups"
+msgstr "Grupos de unidades organizacionais"
+
+#: select_group
+msgid "Select group"
+msgstr "Seleccione grupo"
+
+#: phone_number
+msgid "Phone number"
+msgstr "Número de telefone"
+
+#: select_symbol
+msgid "Select symbol"
+msgstr "Selecionar simbolo"
+
+#: symbol
+msgid "Symbol"
+msgstr "Simbolo"
+
+#: name_code_identifier
+msgid "Name, code or identifier"
+msgstr "Nome, código ou identificador"
+
+#: identifier
+msgid "Identifier"
+msgstr "Identificador"
+
+#: short_name_in_use
+msgid "The short name is already in use. Please choose a different short name"
+msgstr "Nome já está a ser usado. Por favor escolha outro nome diferente."
+
+#: show_all_sections
+msgid "Show all sections"
+msgstr ""
+
+#: org_unit_levels_not_yet_saved
+msgid "Organisation unit level is not yet saved, please save"
+msgstr ""

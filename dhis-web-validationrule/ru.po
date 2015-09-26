@@ -1,0 +1,712 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-validationrule/src/main/resources/org/hisp/dhis/validationrule/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-validationrule/src/main/resources/org/hisp/dhis/validationrule/i18n_module_ru.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: group_members
+msgid "Group Members"
+msgstr ""
+
+#: available_data_elements
+msgid "Available data elements"
+msgstr ""
+
+#: saving_validation_rule_failed
+msgid "Saving Validation Rule failed"
+msgstr "Сбой сохранения правила проверки"
+
+#: operator
+msgid "Operator"
+msgstr "Операция"
+
+#: adding_validation_rule_failed
+msgid "Adding validation rule failed"
+msgstr "Сбой добавления правила проверки"
+
+#: validation_failed
+msgid "Validation failed"
+msgstr "Сбой проверки"
+
+#: right_side
+msgid "Right side"
+msgstr "Правая сторона"
+
+#: left_side
+msgid "Left side"
+msgstr "Левая сторона"
+
+#: left_brackets
+msgid "Left brackets"
+msgstr "Скобки слева"
+
+#: right_brackets
+msgid "Right brackets"
+msgstr "Скобки справа"
+
+#: multiply
+msgid "Multiply"
+msgstr "Умножить"
+
+#: divide
+msgid "Divide"
+msgstr "Разделить"
+
+#: plus
+msgid "Plus"
+msgstr "Плюс"
+
+#: minus
+msgid "Minus"
+msgstr "Минус"
+
+#: no_of_days
+msgid "Number of days"
+msgstr "Количество дней"
+
+#: specify_left_side
+msgid "Please specify the left side"
+msgstr "Пожалуйста укажите левую сторону"
+
+#: specify_right_side
+msgid "Please specify the right side"
+msgstr "Пожалуйста укажите правую сторону"
+
+#: specify_operator
+msgid "Please specify an operator"
+msgstr "Пожалуйста укажите оператора"
+
+#: specify_name
+msgid "Please specify a name"
+msgstr "Пожалуйста укажите имя"
+
+#: specify_a_start_date
+msgid "Please specify a start date"
+msgstr "Пожалуйста укажите дату начала"
+
+#: specify_an_ending_date
+msgid "Please specify an ending date"
+msgstr "Пожалуйста укажите дату завершения"
+
+#: specify_description
+msgctxt "specify_description"
+msgid "Please specify a description"
+msgstr "Пожалуйста укажите описание"
+
+#: specify_expression
+msgctxt "specify_expression"
+msgid "Please specify an expression"
+msgstr "Пожалуйста укажите выражение"
+
+#: enter_a_valid_start_date
+msgid "Please enter a valid start date"
+msgstr "Пожалуйста введите действующую дату начала"
+
+#: enter_a_valid_ending_date
+msgid "Please enter a valid end date"
+msgstr "Пожалуйста введите действующую дату завершения"
+
+#: end_date_cannot_be_before_start_date
+msgid "End date can not be before start date"
+msgstr "Дата завершения не может быть указана перед датом начала"
+
+#: name_in_use
+msgid "The name is in use"
+msgstr "Имя используется"
+
+#: dataelements_left_must_be_type_integers
+msgid "The data elements on the left side must be of type numbers"
+msgstr "Элементы данных слева должны быть типовыми числами"
+
+#: dataelements_right_must_be_type_integers
+msgid "The data elements on the right side must be of type numbers"
+msgstr "Элементы данных справа должны быть типовыми числами"
+
+#: create_new_validation_rule
+msgid "Create new validation rule"
+msgstr "Создать новое правило валидации/проверки"
+
+#: validate
+msgid "Validate"
+msgstr "Валидация/проверка"
+
+#: confirm_delete_validation_rule
+msgid "Are you sure you want to delete the validation rule?"
+msgstr "Вы уверены, что Вы хотите удалить правило проверки/валидации"
+
+#: confirm_delete_validation_rule_group
+msgid "Are you sure you want to delete the validation rule group?"
+msgstr "Вы уверены, что Вы хотите удалить группу правил проверки/валидации"
+
+#: edit_left_side
+msgid "Edit left side"
+msgstr "Редактировать левую сторону"
+
+#: edit_right_side
+msgid "Edit right side"
+msgstr "Редактировать правую сторону"
+
+#: select_operator
+msgid "Select operator"
+msgstr "Выбрать оператора"
+
+#: left
+msgid "Left"
+msgstr "Слева"
+
+#: right
+msgid "Right"
+msgstr "Справа"
+
+#: textual_expression_description
+msgid "Textual expression description"
+msgstr "Описание текстового выражения"
+
+#: edit_validation_rule
+msgid "Edit validation rule"
+msgstr "Редактировать правило проверки/валидации"
+
+#: validation_rule
+msgid "Validation Rule"
+msgstr "Правило проверки"
+
+#: run_validation
+msgid "Run validation"
+msgstr "Запустить проверку"
+
+#: validation_alerts
+msgctxt "validation_alerts"
+msgid "Validation alerts"
+msgstr ""
+
+#: value
+msgid "Value"
+msgstr "Значение"
+
+#: data_element
+msgid "Data element"
+msgstr "Элемент данных"
+
+#: organisation_unit
+msgid "Organisation unit"
+msgstr "Организация"
+
+#: period
+msgid "Period"
+msgstr "Период"
+
+#: source
+msgid "Source"
+msgstr "Источник"
+
+#: done
+msgid "Done"
+msgstr "Сделано"
+
+#: validation
+msgctxt "validation"
+msgid "Validation"
+msgstr "Проверка"
+
+#: VALIDATION
+msgctxt "VALIDATION"
+msgid "Validation"
+msgstr ""
+
+#: data_quality_report
+msgid "Data quality report"
+msgstr "Отчет качества данных"
+
+#: validation_result_details
+msgid "Validation result details"
+msgstr "Детали результатов проверки/валидации"
+
+#: validation_rule_
+msgid "Validation rule"
+msgstr "Правило проверки/валидации"
+
+#: dataelement_id_not_numeric
+msgid "Data element identifier must be a number"
+msgstr "Идентификатором элементов данных должно быть число"
+
+#: category_option_combo_id_not_numeric
+msgid "Category option combo identifier must be a number"
+msgstr "Комбинированной опцией категории должно быть число"
+
+#: data_element_does_not_exist
+msgid "Identifier does not reference a data element"
+msgstr "Элемент данных не существует"
+
+#: category_option_combo_does_not_exist
+msgid "Identifier does not reference a category option combo"
+msgstr "Категория комбинированной опции не существует"
+
+#: expression_not_well_formed
+msgid "Expression is not well formed"
+msgstr "Выражение не правильно/не хорошо согласовано"
+
+#: everything_is_ok
+msgid "Everything is OK"
+msgstr "Все нормально"
+
+#: validation_rule_group_management
+msgid "Validation rule group management"
+msgstr "Управление группой правил валидации"
+
+#: validation_rule_management
+msgid "Validation rule management"
+msgstr "Управление правилом валидации"
+
+#: validation_rule_group
+msgid "Validation Rule Group"
+msgstr "Группа правил валидации"
+
+#: create_new_validation_rule_group
+msgid "Create new validation rule group"
+msgstr "Создать новую группу правил валидации/проверки"
+
+#: available
+msgid "Available"
+msgstr ""
+
+#: selected
+msgid "Selected"
+msgstr ""
+
+#: validation_rules
+msgid "Validation rules"
+msgstr ""
+
+#: user_groups_to_alert
+msgid "User groups to alert"
+msgstr ""
+
+#: alert_by_org_units
+msgid "Alert only organisation unit related users"
+msgstr ""
+
+#: yes
+msgid "Yes"
+msgstr ""
+
+#: no
+msgid "No"
+msgstr ""
+
+#: available_validation_rules
+msgid "Available validation rules"
+msgstr "Доступные правила валидации/проверки"
+
+#: edit_validation_rule_group
+msgid "Edit validation rule group"
+msgstr "Редактировать группа правил валидации/проверки"
+
+#: all_validation_rules
+msgid "All validation rules"
+msgstr "Все правила валидации/проверки"
+
+#: validation_alerts
+msgctxt "validation_alerts"
+msgid "Validation alerts"
+msgstr ""
+
+#: validation_passed_successfully
+msgid "Validation passed successfully"
+msgstr "Проверка/валидация прошла успешно"
+
+#: outlier_analysis
+msgctxt "outlier_analysis"
+msgid "Outlier Analysis"
+msgstr ""
+
+#: from_date
+msgid "From date"
+msgstr "От даты"
+
+#: to_date
+msgid "To date"
+msgstr "До даты"
+
+#: std_dev
+msgid "Standard Deviation"
+msgstr "Стандартные отклонения"
+
+#: max
+msgid "Max"
+msgstr "Макс"
+
+#: min
+msgid "Min"
+msgstr "Мин"
+
+#: values_found
+msgid "values found"
+msgstr "Значения обнаружены"
+
+#: select_std_dev
+msgid "Select number of standard deviations"
+msgstr "Выбрать число стандартных отклонений"
+
+#: select_parent_organisation_unit
+msgid "Select parent organisation unit"
+msgstr "выбрать родительскую организационную ячейку"
+
+#: outlier_analysis
+msgctxt "outlier_analysis"
+msgid "Outlier Analysis"
+msgstr ""
+
+#: no_values_found
+msgid "No values found"
+msgstr "Не найдено значений"
+
+#: intro_validation_rule
+msgid ""
+"Add, modify, view and delete validation rules. Anomalies can be discovered "
+"by running validation rules against the data."
+msgstr ""
+"Добавить, модифицировать, смотреть и удалить правила проверки. Несовпадения "
+"могут быть обнаружены путем выполненния правил проверки в сравнении с "
+"данными."
+
+#: intro_validation_rule_group
+msgid ""
+"Add, modify, view and delete validation rule groups. Provides the ability to "
+"group and run validation rules together."
+msgstr ""
+"Добавить, модифицировать, смотреть и удалить группу по проверке правил. "
+"Предоставляет возможность группе для проведения правил валидации вместе."
+
+#: intro_validation_rule_analysis
+msgid ""
+"Run validation rules in order to unveil anomalies and errors in the data in "
+"the database."
+msgstr ""
+"Выполнить правила валидации для того, чтобы определить аномалии и ошибки "
+"данных в базе данных."
+
+#: intro_stddevoutlier_analysis
+msgid ""
+"Analyze potential outlier values based on standard deviations. Outlier "
+"values can be examined and marked for follow-up."
+msgstr ""
+"Анализ потенциальных внешних значений на основе стандартных нарушений. "
+"Внешние значение могут быть проверены и отмечены для последующего контроля."
+
+#: intro_minmaxoutlier_analysis
+msgid ""
+"Analyze potential outlier values based on min and max values. Outlier values "
+"can be examined and marked for follow-up."
+msgstr ""
+"Анализ потенциальных внешних значений на основе мин и макс значений. Внешние "
+"значение могут быть проверены и отмечены для последующего контроля."
+
+#: intro_gap_analysis
+msgid ""
+"Perform analysis of potential missing values, referred to as gaps. Missing "
+"values can be entered or marked for follow-up."
+msgstr ""
+"Анализ потенциальных недостающих значений которые относят к пробелам. "
+"Недостающие значения могут быть введены или обозначены для дальнейшего "
+"контроля."
+
+#: intro_followup_analysis
+msgid ""
+"View or edit data values marked for further follow-up during data entry or "
+"analysis."
+msgstr ""
+"Смотреть и редактировать обозначенные значения данных для дальнейшего "
+"контроля во время ввода данных или анализа."
+
+#: value_must_be_a_number
+msgid "Value must be a number"
+msgstr "Значение должно быть числом"
+
+#: value_is_lower_than_min_value
+msgid "Value is lower than minimum value"
+msgstr "Данное значение ниже чем минимальное значение"
+
+#: value_is_higher_than_max_value
+msgid "Value is higher than maximum value"
+msgstr "Данное значение выше чем максимальное значение"
+
+#: mark
+msgid "Mark"
+msgstr "Отметить"
+
+#: mark_value_for_followup
+msgid "Mark value for follow-up"
+msgstr "Отметить значение для дальнейших действий"
+
+#: unmark_value_for_followup
+msgid "Unmark value for follow-up"
+msgstr "Отменить отметить значение для дальнейших действий"
+
+#: data_analysis
+msgid "Data Analysis"
+msgstr "Анализ данных"
+
+#: data_analysis_report
+msgid "Data Analysis Report"
+msgstr "Отчет об анализе данных"
+
+#: stddevoutlier_analysis
+msgid "Std Dev Outlier Analysis"
+msgstr "Внешний анализ стандартных отклонений"
+
+#: minmaxoutlier_analysis
+msgid "Min-Max Outlier Analysis"
+msgstr "Мин-макс внешний анализ"
+
+#: gap_analysis
+msgid "Gap Analysis"
+msgstr "Анализ пробелов"
+
+#: followup_analysis
+msgid "Follow-Up Analysis"
+msgstr ""
+
+#: validation_rule_analysis
+msgid "Validation Rule Analysis"
+msgstr "Анализ правил проверки"
+
+#: result
+msgid "result"
+msgstr "Результат"
+
+#: start
+msgid "Start"
+msgstr "Начать"
+
+#: clear_expression
+msgid "Clear expression"
+msgstr "Очистить выражение"
+
+#: period_type
+msgid "Period type"
+msgstr ""
+
+#: available_data_sets
+msgid "Available data sets"
+msgstr "Доступные наборы данных"
+
+#: selected_data_sets
+msgid "Selected data sets"
+msgstr "Выбранные наборы данных"
+
+#: analysing_data
+msgid "Analysing data"
+msgstr "Анализ данных"
+
+#: data_source
+msgid "Data source"
+msgstr "Источник данных"
+
+#: use_captured_data
+msgid "Use captured data"
+msgstr "Использовать извлеченные данные"
+
+#: use_aggregated_data
+msgid "Use aggregated data"
+msgstr "Использовать агрегированные данные"
+
+#: aggregate_data_info
+msgid "Immediate children of the selected organisation unit will be included"
+msgstr "Будут включены только потомки первого уровня выбранной организации"
+
+#: captured_data_info
+msgid "All children of the selected organisation unit will be included"
+msgstr "все дети выбранной организации будут включены"
+
+#: method
+msgid "Method"
+msgstr "Метод"
+
+#: see_statistics
+msgid "See statistics"
+msgstr "См. статистику"
+
+#: description_not_null
+msgctxt "description_not_null"
+msgid "Please specify a description"
+msgstr "Описание не нулевое"
+
+#: expression_not_null
+msgctxt "expression_not_null"
+msgid "Please specify an expression"
+msgstr "Выражение не нулевое"
+
+#: number_of_members
+msgid "Number of members"
+msgstr "Число членов"
+
+#: specify_organisationunit_has_children
+msgid "Please specify an organisationunit which has children."
+msgstr "Пожалуйста укажите организацию/отдел в котором находятся дети"
+
+#: get_report_as_xls
+msgid "Download as Excel"
+msgstr "Загрузить как Excel файл"
+
+#: get_report_as_csv
+msgid "Download as CSV"
+msgstr "Загрузить в формате CSV"
+
+#: get_report_as_pdf
+msgid "Download as PDF"
+msgstr "Загрузить как PDF файл"
+
+#: max_values_exceeded
+msgid "More than 500 values found, please narrow the search to see all"
+msgstr ""
+"Найдено более 500 значений, пожалуйста исправьте нарушения или сузить поиск, "
+"чтобы выдеть все"
+
+#: specify_dataset
+msgid "Please specify data sets"
+msgstr "Пожалуйста, укажите наборы данных"
+
+#: analysing_please_wait
+msgid "Analysing data, please wait"
+msgstr "Идет анализ данных, пожалуйста подождите"
+
+#: skip_for_missing_values
+msgid "Skip for missing values"
+msgstr "Пропустить недостающиеся значения"
+
+#: select_parameters
+msgid "Select parameters"
+msgstr "Выбрать параметры"
+
+#: compulsory_pair
+msgid "Compulsory pair"
+msgstr "Обязательная пара"
+
+#: visible_in_validation_alerts
+msgid "visible in validation alerts"
+msgstr ""
+
+#: tip
+msgid "Tip"
+msgstr "Подсказка"
+
+#: use
+msgid "use"
+msgstr "использовать"
+
+#: importance
+msgid "Importance"
+msgstr ""
+
+#: high
+msgctxt "high"
+msgid "High"
+msgstr ""
+
+#: medium
+msgctxt "medium"
+msgid "Medium"
+msgstr ""
+
+#: low
+msgctxt "low"
+msgid "Low"
+msgstr ""
+
+#: HIGH
+msgctxt "HIGH"
+msgid "High"
+msgstr ""
+
+#: MEDIUM
+msgctxt "MEDIUM"
+msgid "Medium"
+msgstr ""
+
+#: LOW
+msgctxt "LOW"
+msgid "Low"
+msgstr ""
+
+#: rule_type
+msgid "Rule type"
+msgstr ""
+
+#: surveillance
+msgctxt "surveillance"
+msgid "Surveillance"
+msgstr ""
+
+#: SURVEILLANCE
+msgctxt "SURVEILLANCE"
+msgid "Surveillance"
+msgstr ""
+
+#: attributes
+msgid "Attributes"
+msgstr ""
+
+#: organisation_unit_level
+msgid "Organisation unit level"
+msgstr ""
+
+#: select_level
+msgid "Select level"
+msgstr ""
+
+#: sequential_sample_count
+msgid "Sequential sample count"
+msgstr ""
+
+#: annual_sample_count
+msgid "Annual sample count"
+msgstr ""
+
+#: high_outliers
+msgid "High outliers"
+msgstr ""
+
+#: low_outliers
+msgid "Low outliers"
+msgstr ""
+
+#: number_of_user_groups_to_alert
+msgid "Number of user groups to alert"
+msgstr ""
+
+#: send_alerts
+msgid "Send alerts"
+msgstr ""
+
+#: visible_when_rule_is_violated
+msgid "visible when rule is violated"
+msgstr ""
+
+#: instruction
+msgid "Instruction"
+msgstr ""
+
+#: skip_if_any_value_is_missing
+msgid "Skip if any value is missing"
+msgstr ""
+
+#: skip_if_all_values_are_missing
+msgid "Skip if all values are missing"
+msgstr ""
+
+#: never_skip
+msgid "Never skip"
+msgstr ""
+
+#: no_organisation_unit_selected
+msgid "No organisation unit selected"
+msgstr ""

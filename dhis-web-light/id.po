@@ -1,0 +1,626 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-light/src/main/resources/org/hisp/dhis/light/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-light/src/main/resources/org/hisp/dhis/light/i18n_module_id.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: DHIS_2
+msgid "DHIS2"
+msgstr "DHIS2"
+
+#: menu
+msgid "Menu"
+msgstr "Menu"
+
+#: home
+msgid "Home"
+msgstr "Home"
+
+#: navigate_to
+msgid "Navigate to"
+msgstr "Arahkan ke"
+
+#: reports
+msgid "Reports"
+msgstr "Laporan"
+
+#: charts
+msgid "Charts"
+msgstr "Grafik"
+
+#: documents
+msgid "Documents"
+msgstr "Dokumen"
+
+#: dashboard
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: dashboard_reports
+msgid "Dashboard reports"
+msgstr "Dashboard laporan"
+
+#: dashboard_charts
+msgid "Dashboard charts"
+msgstr "Dashboard grafik"
+
+#: dashboard_documents
+msgid "Dashboard documents"
+msgstr "Dashboard dokumen"
+
+#: data_entry
+msgid "Data Entry"
+msgstr "Entri Data"
+
+#: namebased_data_entry
+msgid "Namebased Data Entry"
+msgstr "Entri Data berbasis Nama"
+
+#: data_entry_overview
+msgid "Data Entry Overview"
+msgstr "Overview Entri Data"
+
+#: logout
+msgid "Logout"
+msgstr "Logout"
+
+#: desktop_version
+msgid "Desktop version"
+msgstr "Versi dekstop"
+
+#: report_table_parameters
+msgid "Report parameters"
+msgstr "Parameter laporan"
+
+#: get_report
+msgid "Get report"
+msgstr "Buat laporan"
+
+#: reporting_period
+msgid "Report period"
+msgstr "Periode pelaporan"
+
+#: select_organisation_unit
+msgid "Please select organisation unit"
+msgstr "Silakan pilih unit organisasi"
+
+#: available_datasets
+msgid "Available data sets"
+msgstr "Data set yang tersedia"
+
+#: available_organisation_units
+msgid "Available organisation units"
+msgstr "Unit organisasi yang tersedia"
+
+#: available_periods
+msgid "Available periods"
+msgstr "Periode yang tersedia"
+
+#: settings
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: language
+msgid "Interface Language"
+msgstr "Bahasa Interface"
+
+#: is_invalid_boolean
+msgid "is not a valid boolean"
+msgstr "Boolean tidak valid"
+
+#: is_invalid_date
+msgid "is not a valid date (yyyy-MM-dd)"
+msgstr "Tanggal tidak valid (yyyy-MM-dd)"
+
+#: is_invalid_number
+msgid "is not a valid number"
+msgstr "angka tidak valid"
+
+#: is_invalid_integer
+msgid "is not a valid integer"
+msgstr "bilangan bulat tidak valid"
+
+#: is_invalid_positive_integer
+msgid "is not a valid positive integer"
+msgstr "Bukan bilangan bulat positif yang valid"
+
+#: is_invalid_zero_or_positive_integer
+msgid "is not a valid zero or positive integer"
+msgstr ""
+
+#: is_invalid_negative_integer
+msgid "is not a valid negative integer"
+msgstr "Bukan bilangan bulat negatif yang valid"
+
+#: is_invalid_name
+msgid "is not a valid name"
+msgstr "Nama tidak valid"
+
+#: is_invalid_name_length
+msgid "needs to be 7 or more characters"
+msgstr "harus terdiri dari 7 atau lebih karakter"
+
+#: is_mandatory
+msgid "is a mandatory field"
+msgstr "isian wajib"
+
+#: is_duplicate
+msgid "person identifier number is duplicated"
+msgstr "penanda identitas angka telah diduplikasi"
+
+#: warnings_and_errors
+msgid "Warnings and errors"
+msgstr "Peringatan dan kesalahan"
+
+#: validation_rule_violation_warnings
+msgid "Validation Rule Violation Warnings"
+msgstr "Peringatan Pelanggaran Aturan Validasi"
+
+#: minmax_violation_warnings
+msgid "Min/Max Violation Warnings"
+msgstr "Peringatan Pelanggaran Min/Maks"
+
+#: type_violation_errors
+msgid "Type Violation Errors"
+msgstr "Tipe Kesalahan Pelanggaran"
+
+#: messages
+msgid "Messages"
+msgstr "Pesan"
+
+#: conversations
+msgid "Conversations"
+msgstr "Percakapan"
+
+#: subject
+msgid "Subject"
+msgstr "Subjek"
+
+#: reply
+msgid "Reply"
+msgstr "Balas"
+
+#: form_complete
+msgid "Form complete"
+msgstr "Form lengkap"
+
+#: completed
+msgid "Completed"
+msgstr "Sudah lengkap"
+
+#: complete_programs
+msgid "Completed Programs"
+msgstr "Program sudah lengkap"
+
+#: saved_section
+msgid "Saved Section"
+msgstr "Simpan bagian"
+
+#: sections
+msgid "Sections"
+msgstr "Bagian"
+
+#: current_activityplan
+msgid "Current Activity Plan"
+msgstr "Rencana Aktivitas saat ini"
+
+#: all_activityplan
+msgid "All Activity Plan"
+msgstr "Semua Rencana Aktivitas"
+
+#: activity_type
+msgid "Activity Type"
+msgstr "Tipe Aktivitas"
+
+#: beneficiary_list
+msgid "Person List"
+msgstr "Daftar Peserta"
+
+#: activity_list
+msgid "Activity List"
+msgstr "Daftar Aktivitas"
+
+#: successfully_saved
+msgid "Successfully Saved"
+msgstr "Disimpan dengan sukses"
+
+#: select_option
+msgid "Select Option"
+msgstr "Pilih Opsi"
+
+#: option_set_searching_result
+msgid "Option Set Searching Result"
+msgstr "Set opsi pencarian hasil"
+
+#: search_for
+msgid "Searching for"
+msgstr "Pencarian untuk"
+
+#: id
+msgid "ID"
+msgstr "ID"
+
+#: gender
+msgid "Gender"
+msgstr "Jenis kelamin"
+
+#: date_of_birth
+msgid "Date of Birth"
+msgstr "Tanggal Lahir"
+
+#: blood_group
+msgid "Blood Group"
+msgstr "Golongan Darah"
+
+#: details_for
+msgid "Detail For"
+msgstr "Detail untuk"
+
+#: organisation_unit
+msgctxt "organisation_unit"
+msgid "Organisation Unit"
+msgstr "Unit Organisasi"
+
+#: beneficiary_registration
+msgid "Person Registration"
+msgstr "Pendaftaran Orang"
+
+#: full_name
+msgid "Full Name"
+msgstr "Nama Lengkap"
+
+#: male
+msgid "Male"
+msgstr "Laki - laki"
+
+#: female
+msgid "Female"
+msgstr "Perempuan"
+
+#: transgender
+msgid "Transgender"
+msgstr "Transgender"
+
+#: is_empty
+msgid "Empty Field"
+msgstr "Isian kosong"
+
+#: beneficiary_enrollment
+msgid "Person Enrollment"
+msgstr "Pendaftaran Orang"
+
+#: beneficiary_search
+msgid "Person Search"
+msgstr "Pencarian Orang"
+
+#: beneficiary_name
+msgid "Person Name"
+msgstr "Nama orang"
+
+#: search_result_for
+msgid "Search Result for"
+msgstr "Pencarian Hasil untuk"
+
+#: search
+msgid "Search"
+msgstr "Pencarian"
+
+#: enrolled_programs
+msgid "Enrolled Program(s)"
+msgstr "Daftarkan program"
+
+#: other_programs
+msgid "Other Programs"
+msgstr "Program Lain"
+
+#: available_programs
+msgid "Available Programs"
+msgstr "Program yang tersedia"
+
+#: no_enrolled_programs
+msgid "No Enrolled Programs"
+msgstr "Tidak ada program yang didaftarkan"
+
+#: no_completed_programs
+msgid "No Completed Programs"
+msgstr "Program tidak lengkap"
+
+#: enroll
+msgid "Enroll"
+msgstr "Mendaftarkan"
+
+#: enrollment_date
+msgid "Enrollment Date"
+msgstr "Tanggal Mendaftarkan"
+
+#: incident_date
+msgid "Incident Date"
+msgstr "Tanggal Insidensi"
+
+#: program_list
+msgid "Program List"
+msgstr "Daftar Program"
+
+#: single_event
+msgid "Single Event"
+msgstr "Single Event"
+
+#: single_event_list
+msgid "Single Event List"
+msgstr "Daftar Single Event"
+
+#: back_single_event_form
+msgid "Back To Single Event Form"
+msgstr "Kembali ke Form Single Event"
+
+#: tracking
+msgid "Tracking"
+msgstr "Melacak"
+
+#: find_beneficiary
+msgid "Find Person"
+msgstr "Cari Orang"
+
+#: activity_plan
+msgid "Activity Plan"
+msgstr "Rencana Kegiatan"
+
+#: search_by_name_or_id
+msgid "Search By Name or ID or Phone Number"
+msgstr "Pencarian berdasarkan Nama atau ID atau No.Telp."
+
+#: select_orgunit
+msgid "Select Organisation Unit"
+msgstr "Pilih Unit Organisasi"
+
+#: all_orgunit
+msgid "All Organisation Unit"
+msgstr "Semua Unit Organisasi"
+
+#: tracking_menu
+msgid "Tracking Menu"
+msgstr "Melacak Menu"
+
+#: due_date
+msgid "Due Date"
+msgstr "Hingga Tanggal"
+
+#: register_due_date_for
+msgid "Register Due Date For"
+msgstr "Daftar tanggal jatuh tempo untuk"
+
+#: schedule
+msgid "Schedule"
+msgstr "Jadwal"
+
+#: schedule_visit
+msgid "Schedule Visit"
+msgstr "Jadwal Kunjungan"
+
+#: do_not_schedule_visit
+msgid "Do Not Schedule Visit"
+msgstr "Jangan menjadwalkan kunjungan"
+
+#: register
+msgid "Register"
+msgstr "Register"
+
+#: please_select
+msgid "Please Select"
+msgstr "Silakan Pilih"
+
+#: enroll_in_program
+msgid "Enroll In Program"
+msgstr "Daftarkan Program"
+
+#: relationships
+msgid "Relationships"
+msgstr "Hubungan"
+
+#: no_relationships
+msgid "No Relationships"
+msgstr "Tidak ada hubungan"
+
+#: phone_number
+msgid "Phone Number"
+msgstr "No. Telp."
+
+#: add_relationships
+msgid "Add Relationships"
+msgstr "Tambahkan Hubungan"
+
+#: related_person_search
+msgid "Related Person Search"
+msgstr "Pencarian Orang yang berkaitan"
+
+#: related_person_list
+msgid "Related Person List"
+msgstr "Daftar Orang yang berkaitan"
+
+#: add_relationship
+msgid "Add Relationship"
+msgstr "Tambahkan Hubungan"
+
+#: anonymous_menu
+msgid "Anonymous Menu"
+msgstr "Menu Anonim"
+
+#: date_of_birth_type
+msgid "Date of Birth Type"
+msgstr "Tipe Tanggal Lahir"
+
+#: approximated
+msgid "Approximated"
+msgstr "Didekati"
+
+#: declared
+msgid "Declared"
+msgstr "Dinyatakan"
+
+#: verified
+msgid "Verified"
+msgstr "Diverifikasi"
+
+#: anomynous_program_list
+msgid "Anonymous Program List"
+msgstr "Daftar Program Anonim"
+
+#: orgunit
+msgctxt "orgunit"
+msgid "Organisation Unit"
+msgstr "Unit Organisasi"
+
+#: change
+msgid "Change"
+msgstr "Ubah"
+
+#: register_location_for
+msgid "Register Location For"
+msgstr "Daftarkan Lokasi untuk"
+
+#: agregate_reporting
+msgid "Aggregate Reporting"
+msgstr "Pelaporan Agregat"
+
+#: find_or_add_person
+msgid "Find/Add Person"
+msgstr "Cari/Tambah Orang"
+
+#: search_by_phone_number
+msgid "Search By Phone Number"
+msgstr "Pencarian No. Telp."
+
+#: age_or_dob
+msgid "Age/Date of Birth"
+msgstr "Umur/Tanggal lahir"
+
+#: dead
+msgid "Dead"
+msgstr "Mati"
+
+#: status
+msgid "Status"
+msgstr "Status"
+
+#: visit_schedule
+msgid "Visit Schedule"
+msgstr "Jadwal Kunjungan"
+
+#: visit_schedule_type
+msgid "Visit Schedule Type"
+msgstr "Tipe Jadwal Kunjungan"
+
+#: or_register_new_person
+msgid "or register new person"
+msgstr "atau daftarkan orang baru"
+
+#: invalid_phone_number
+msgid "invalid phone number"
+msgstr "no.telp. invalid"
+
+#: save_any_way
+msgid "Save anyway"
+msgstr "Simpan juga"
+
+#: form_in_complete
+msgid "Form InComplete"
+msgstr "Form tidak lengkap"
+
+#: allow_provided_elsewhere
+msgid "Provided elsewhere"
+msgstr "Disediakan di tempat lain"
+
+#: search_user
+msgid "Search user by name"
+msgstr "Pencarian user berdasarkan nama"
+
+#: last_recipients
+msgid "Last recipients"
+msgstr "Penerima terakhir"
+
+#: search_orgunit
+msgid "Search Organisation Unit"
+msgstr ""
+
+#: date_of_birth_hint
+msgid ""
+"*Approximated: enter age. Declared or Verified: enter date in format [yyyy-"
+"mm-dd]"
+msgstr ""
+
+#: select_attribute
+msgid "Select attribute"
+msgstr ""
+
+#: tracked_entity
+msgid "Tracked entity"
+msgstr ""
+
+#: write
+msgid "Write"
+msgstr ""
+
+#: write_message
+msgid "Write Message"
+msgstr ""
+
+#: write_feedback
+msgid "Write Feedback"
+msgstr ""
+
+#: write_new_message
+msgid "Write new message"
+msgstr ""
+
+#: write_to_users
+msgid "To User(s):"
+msgstr ""
+
+#: write_add_to_recipients
+msgid "Add to Recipient(s)"
+msgstr ""
+
+#: interpretations
+msgid "Interpretations"
+msgstr ""
+
+#: interpretation
+msgid "Interpretation"
+msgstr ""
+
+#: interpretations_support
+msgid "Only charts are currently supported for interpretations."
+msgstr ""
+
+#: interpretation_comment
+msgid "Comment(s):"
+msgstr ""
+
+#: interpretation_add_comment
+msgid "Add a comment"
+msgstr ""
+
+#: interpretation_post_comment
+msgid "Post comment"
+msgstr ""
+
+#: interpretation_share
+msgid "Share interpretation"
+msgstr ""
+
+#: share
+msgid "Share"
+msgstr ""
+
+#: chart
+msgid "Chart"
+msgstr ""

@@ -1,0 +1,507 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-dataentry/src/main/resources/org/hisp/dhis/de/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-dataentry/src/main/resources/org/hisp/dhis/de/i18n_module_vi.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: dataelement_comment
+msgid "Comment"
+msgstr "Chú thích"
+
+#: history_not_valid
+msgid "No history for this data element"
+msgstr "Không có lịch sử số liệu cho phần tử dữ liệu này"
+
+#: data_element
+msgid "Data element"
+msgstr "Phần tử dữ liệu"
+
+#: min
+msgid "Min"
+msgstr "Tối thiểu"
+
+#: entry
+msgid "Entry"
+msgstr "Mục nhập"
+
+#: max
+msgid "Max"
+msgstr "Tối đa"
+
+#: timestamp
+msgid "Timestamp"
+msgstr "Nhãn thời gian"
+
+#: stored_by
+msgid "Stored by"
+msgstr "Được lưu bởi"
+
+#: stored_date
+msgid "Stored date"
+msgstr "Ngày lưu trữ"
+
+#: last_updated
+msgid "Last updated"
+msgstr "Lần cập nhật cuối"
+
+#: update
+msgid "Update"
+msgstr "Cập nhật"
+
+#: delete
+msgid "Delete"
+msgstr "Xoá"
+
+#: no_value
+msgid "No value"
+msgstr "Không có giá trị"
+
+#: maximum
+msgid "Maximum"
+msgstr "Tối đa"
+
+#: organisation_unit
+msgid "Organisation Unit"
+msgstr "Đơn vị"
+
+#: data_set
+msgid "Data Set"
+msgstr "Biểu nhập"
+
+#: select
+msgid "Select"
+msgstr "Chọn"
+
+#: period
+msgid "Period"
+msgstr "Thời điểm"
+
+#: form_field
+msgid "Form field"
+msgstr "Ô nhập liệu"
+
+#: filter_on_section
+msgid "Filter on section"
+msgstr "Lọc theo từng phần"
+
+#: filter_in_section
+msgid "Filter in section"
+msgstr "Lọc theo từng phần"
+
+#: show_all_sections
+msgid "Show all sections"
+msgstr "Hiển thị tất cả các phần"
+
+#: show_all_items
+msgid "Show all items"
+msgstr "Hiện tất cả các phần tử"
+
+#: earlier_periods
+msgid "Earlier periods"
+msgstr "Các thời điểm trước"
+
+#: later_periods
+msgid "Later periods"
+msgstr "Các thời điểm sau"
+
+#: value_of_data_element_less
+msgid ""
+"The value of the following data element is less than the specified minimum "
+"value."
+msgstr ""
+"Giá trị của thành phần dữ liệu sau đây thấp hơn giá trị nhỏ nhất cho phép"
+
+#: value_of_data_element_greater
+msgid ""
+"The value of the following data element is greater than the specified "
+"maximum value."
+msgstr "Giá trị của thành phần dữ liệu sau lớn hơn giá trị lớn nhất cho phép"
+
+#: saving_value_failed_status_code
+msgid "Saving value failed with status code"
+msgstr "Lưu giá trị không thành công với mã trạng thái"
+
+#: saving_value_failed_dataset_is_locked
+msgid "Data set is locked, please contact admin"
+msgstr "Biểu nhập liệu đã bị khóa, xin vui lòng liên hệ người quản trị hệ thống"
+
+#: saving_comment_failed_status_code
+msgid "Saving comment failed with status code"
+msgstr "Lưu chú thích không thành công với mã trạng thái"
+
+#: saving_comment_failed_error_code
+msgid "Saving comment failed with error code"
+msgstr "Lưu chú thích không thành công với mã lỗi"
+
+#: saving_minmax_failed_error_code
+msgid "Saving min/max values failed with error code"
+msgstr "Lưu giá trị lớn nhất/nhỏ nhất không thành công với mã lỗi"
+
+#: move
+msgid "Move"
+msgstr "Chuyển"
+
+#: date
+msgid "Date"
+msgstr "Ngày"
+
+#: min_limit
+msgid "Min limit"
+msgstr "Giới hạn thấp nhất"
+
+#: max_limit
+msgid "Max limit"
+msgstr "Giới hạn cao nhất"
+
+#: dataelement_history
+msgid "Data element history"
+msgstr "Lịch sử dữ liệu"
+
+#: audit_trail
+msgid "Audit trail"
+msgstr "Lưu thay đổi"
+
+#: nr
+msgid "Nr"
+msgstr ""
+
+#: min_max_limits
+msgid "Min-max limits"
+msgstr "Các giới hạn nhỏ nhất - lớn nhất"
+
+#: run_validation
+msgid "Run validation"
+msgstr "Kiểm tra tính hợp lệ dữ liệu"
+
+#: validation_result
+msgid "Validation Result"
+msgstr "Kết quả kiểm tra tính hợp lệ"
+
+#: expression
+msgid "Expression"
+msgstr "Biểu thức"
+
+#: successful_validation
+msgid "The data entry screen successfully passed validation"
+msgstr "Nhập liệu hợp lệ"
+
+#: data_entry_screen_has_following_errors
+msgid ""
+"The data entry screen has the following validation errors, please correct"
+msgstr "Có lỗi dữ liệu trong các điều kiện sau, xin vui lòng sửa lại"
+
+#: the_following_values_are_outliers
+msgid ""
+"The following values are considered as outliers (min-max or std dev), please "
+"correct"
+msgstr ""
+"Các số liệu sau đây nằm ngoài giới hạn (nhỏ nhất - lớn nhất), xin vui lòng "
+"kiểm tra lại"
+
+#: the_following_fields_require_comment
+msgid "The following input fields require a comment, please enter"
+msgstr ""
+"Những ô nhập liệu sau cần phải có chú thích, xin vui lòng nhập chú thích"
+
+#: the_following_values_violate_rules
+msgid "The following values violate validation rules"
+msgstr "Các giá trị sau vi phạm tính hợp lệ"
+
+#: value
+msgctxt "value"
+msgid "Value"
+msgstr "Giá trị"
+
+#: operator
+msgid "Operator"
+msgstr "Toán tử"
+
+#: no_organisationunit_selected
+msgid "No Organisation Unit Selected"
+msgstr "Xin vui lòng chọn Đơn Vị"
+
+#: no_period_selected
+msgid "No Period Selected"
+msgstr "Xin vui lòng chọn Thời Điểm"
+
+#: no_dataelement_selected
+msgid "No Data Element Selected"
+msgstr "Xin vui lòng chọn Phần Tử Dữ Liệu"
+
+#: dataset_is_locked
+msgid "Data set is locked"
+msgstr "Biểu nhập đã bị khóa"
+
+#: complete
+msgid "Complete"
+msgstr "Hoàn tất"
+
+#: incomplete
+msgid "Incomplete"
+msgstr "Chưa hoàn tất"
+
+#: confirm_complete
+msgid "Are you sure this data set is complete?"
+msgstr "Bạn có chắc chắn dữ liệu nhập này đã hoàn tất?"
+
+#: confirm_undo
+msgid "Are you sure you will undo the registration?"
+msgstr "Bạn có chắc chắn bỏ đăng ký?"
+
+#: data_entry
+msgid "Data Entry"
+msgstr "Nhập dữ liệu"
+
+#: followup
+msgid "Follow-up"
+msgstr "Theo dõi sau"
+
+#: validation_rule
+msgid "Validation rule"
+msgstr "Quy tắc kiểm tra tính hợp lệ"
+
+#: register_complete_dataset_success
+msgid "Registered complete data set"
+msgstr "Xác nhận mẫu nhập đã hoàn tất"
+
+#: register_complete_dataset_failed
+msgid "Register complete data set failed"
+msgstr "Xác nhận mẫu nhập hoàn chỉnh KHÔNG thành công"
+
+#: undo_register_complete_dataset_success
+msgid "Undo register complete data set success"
+msgstr "Hủy xác nhận biểu nhập hoàn chỉnh thành công"
+
+#: datavalue_history
+msgctxt "datavalue_history"
+msgid "Data value history"
+msgstr "Lịch sử giá trị dữ liệu"
+
+#: enter_digits
+msgid "Enter digit only."
+msgstr "Chỉ nhập ký tự số"
+
+#: value_is_too_long
+msgid "Value is too long"
+msgstr "Giá trị quá dài"
+
+#: field_unallowed_save_zero
+msgid ""
+"This element does not permit 0 values. The original value will not be "
+"affected."
+msgstr "Phần tử này không lưu giá trị 0. Giá trị cũ chưa cập nhật"
+
+#: datavalue_history
+msgctxt "datavalue_history"
+msgid "Data value history"
+msgstr "Lịch sử giá trị dữ liệu"
+
+#: max_must_be_greater_than_min
+msgid "Max must be greater than min"
+msgstr "Giá trị lớn nhất phải hơn giá trị nhỏ nhất"
+
+#: next
+msgid "Next"
+msgstr "Sau"
+
+#: prev
+msgid "Prev"
+msgstr "Trước"
+
+#: select_from_tree
+msgid "Select from tree on the left side"
+msgstr "Chọn đơn vị ở cây bên trái"
+
+#: select_data_set
+msgid "Select data set"
+msgstr "Chọn biểu nhập"
+
+#: select_period
+msgid "Select period"
+msgstr "Chọn thời điểm"
+
+#: select_option
+msgid "Select option"
+msgstr "Tùy chọn"
+
+#: change_from
+msgid "change from"
+msgstr "thay đổi từ"
+
+#: modification
+msgid "Modification"
+msgstr "Sự sửa đổi"
+
+#: modified_by
+msgid "Modified by"
+msgstr "Được sửa đổi bởi"
+
+#: to
+msgid "to"
+msgstr "thành"
+
+#: on
+msgid "On"
+msgstr "Vào lúc"
+
+#: value
+msgctxt "value"
+msgid "Value"
+msgstr "Giá trị"
+
+#: no_response_from_server
+msgid "No response from server, please check connectivity and try again"
+msgstr "Không có phản hồi từ máy chủ, hãy kiểm tra kết nối mạng và thử lại"
+
+#: save
+msgid "Save"
+msgstr "Lưu"
+
+#: save_comment
+msgid "Save comment"
+msgstr "Lưu ý kiến"
+
+#: operation_not_available_offline
+msgid "This operation is not available in off-line mode"
+msgstr "Phép tính không thực hiện được ở chế độ offline"
+
+#: mark_value_for_followup
+msgid "Mark value for follow-up"
+msgstr "Chọn giá trị để theo dõi"
+
+#: unmark_value_for_followup
+msgid "Un-mark value for follow-up"
+msgstr "Hủy chọn giá trị theo dõi"
+
+#: completed_by
+msgid "Completed by"
+msgstr "Được hoàn thành bởi"
+
+#: at
+msgid "at"
+msgstr "tại"
+
+#: prev_year
+msgid "Prev year"
+msgstr "Năm trước"
+
+#: next_year
+msgid "Next year"
+msgstr "Năm sau"
+
+#: see_details
+msgid "See details"
+msgstr "Xem thêm"
+
+#: username
+msgid "Username"
+msgstr "Tên người dùng"
+
+#: user_roles
+msgid "User roles"
+msgstr "Vai trò người dùng"
+
+#: register_complete_failed_dataset_is_locked
+msgid "Data set is locked, registration failed, please contact admin"
+msgstr ""
+"Biểu nhập bị khóa, việc đăng ký không thành công. Hãy liên hệ với người quản "
+"trị"
+
+#: unregister_complete_failed_dataset_is_locked
+msgid "Data set is locked, un-registration failed, please contact admin"
+msgstr ""
+"Biểu nhập bị khóa, việc hủy đăng ký không thành công. Hãy liên hệ với người "
+"quản trị"
+
+#: dataelement_with_id
+msgid "Data element with identifier"
+msgstr "Phần tử dữ liệu với yếu tố nhận dạng"
+
+#: category_option_combo_with_id
+msgid "Category option combination identifier"
+msgstr "Yếu tố nhận dạng của bộ phân loại"
+
+#: does_not_exist
+msgid "does not exist"
+msgstr "Không tồn tại"
+
+#: does_not_exist_in_data_set
+msgid "does not exist in data set"
+msgstr ""
+
+#: insert_input_fields_into_the_form
+msgid "Insert input fields into the form"
+msgstr "Chèn ô nhập vào mẫu"
+
+#: select_data_element
+msgid "Select data element"
+msgstr "Chọn phần tử dữ liệu"
+
+#: all_values_for_data_element_must_be_filled
+msgid ""
+"This form requires that all fields for a data element must be filled, please "
+"correct this before continuing."
+msgstr ""
+"Biểu nhập này yêu cầu tất cả các ô phải được nhập, làm ơn sửa cho đúng trước "
+"khi tiếp tục"
+
+#: childrens_forms
+msgid "Sub Organisation Units"
+msgstr "Đơn vị"
+
+#: left_side
+msgid "Left side"
+msgstr "Bên trái"
+
+#: right_side
+msgid "Right side"
+msgstr "Bên phải"
+
+#: no_periods_click_prev_year_button
+msgid "No periods, click \"Prev year\" button"
+msgstr "Không có thời điểm, bấm nút \"Năm trước\""
+
+#: print
+msgid "Print"
+msgstr "In"
+
+#: view_comment
+msgid "View comment"
+msgstr "Xem chú thích"
+
+#: no_orgunits
+msgid "No organisation unit attached to current user, no data entry possible"
+msgstr "Không có đơn vị gán cho người dùng này, không nhập dữ liệu được"
+
+#: validation_rules_are_being_processed_please_wait
+msgid "Validation rules are being processed, please wait"
+msgstr "Các quy tắc kiểm tra dữ liệu đang được xử lý, xin vui lòng chờ"
+
+#: section
+msgid "Section"
+msgstr "Phần"
+
+#: print_form
+msgid "Print form"
+msgstr "In biểu mẫu"
+
+#: print_blank_form
+msgid "Print blank form"
+msgstr "In biểu mẫu trống"
+
+#: instruction
+msgid "Instruction"
+msgstr "Chỉ dẫn"
+
+#: there_is_no_audit_trail_for_this_value
+msgid "There is no audit trail for this value"
+msgstr "Không có lưu các thay đổi cho cho số liệu này"

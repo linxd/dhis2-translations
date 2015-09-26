@@ -1,0 +1,626 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-light/src/main/resources/org/hisp/dhis/light/i18n_module.properties, /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-light/src/main/resources/org/hisp/dhis/light/i18n_module_km.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: DHIS_2
+msgid "DHIS2"
+msgstr ""
+
+#: menu
+msgid "Menu"
+msgstr "​ម៉ឺនុយ"
+
+#: home
+msgid "Home"
+msgstr "ទំព័រដើម"
+
+#: navigate_to
+msgid "Navigate to"
+msgstr "រកទៅលើ"
+
+#: reports
+msgid "Reports"
+msgstr "របាយ​ការណ៍"
+
+#: charts
+msgid "Charts"
+msgstr "គំនូស​តាង"
+
+#: documents
+msgid "Documents"
+msgstr "ឯកសារ"
+
+#: dashboard
+msgid "Dashboard"
+msgstr "ផ្ទាំង​រូបភាពសង្ខេប"
+
+#: dashboard_reports
+msgid "Dashboard reports"
+msgstr "ផ្ទាំងរបាយការណ៍សង្ខេប"
+
+#: dashboard_charts
+msgid "Dashboard charts"
+msgstr "ផ្ទាំងគំនូសតាងសង្ខេប"
+
+#: dashboard_documents
+msgid "Dashboard documents"
+msgstr "ផ្ទាំងឯកសារសង្ខេប"
+
+#: data_entry
+msgid "Data Entry"
+msgstr "កន្លែងបញ្ជូលទិន្នន័យ"
+
+#: namebased_data_entry
+msgid "Namebased Data Entry"
+msgstr ""
+
+#: data_entry_overview
+msgid "Data Entry Overview"
+msgstr "ទិដ្ឋភាពបញ្ជូលទិន្នន័យ"
+
+#: logout
+msgid "Logout"
+msgstr "ចាក់ចេញពីគណនី"
+
+#: desktop_version
+msgid "Desktop version"
+msgstr ""
+
+#: report_table_parameters
+msgid "Report parameters"
+msgstr "របាយការណ៍របស់អថេរ"
+
+#: get_report
+msgid "Get report"
+msgstr "ទាញយករបាយការណ៍"
+
+#: reporting_period
+msgid "Report period"
+msgstr "របាយការណ៍កំឡុងពេល"
+
+#: select_organisation_unit
+msgid "Please select organisation unit"
+msgstr "សូមជ្រើសរើសអង្គការ"
+
+#: available_datasets
+msgid "Available data sets"
+msgstr ""
+
+#: available_organisation_units
+msgid "Available organisation units"
+msgstr "អង្គការដែលអាចប្រើបាន"
+
+#: available_periods
+msgid "Available periods"
+msgstr "កំឡុងពេលដែលអាចប្រើបាន"
+
+#: settings
+msgid "Settings"
+msgstr "ការ​កំណត់"
+
+#: language
+msgid "Interface Language"
+msgstr "ផ្ទាំងភាសា"
+
+#: is_invalid_boolean
+msgid "is not a valid boolean"
+msgstr "មិនមែនជាលេខ ០ ឬ ១ ដែលត្រឹមត្រូវ"
+
+#: is_invalid_date
+msgid "is not a valid date (yyyy-MM-dd)"
+msgstr "កាលបរិច្ចេទមិនត្រឹមត្រូវ (yyyy-MM-dd)"
+
+#: is_invalid_number
+msgid "is not a valid number"
+msgstr "មិនមែនជាតួរលេខត្រឹមត្រូវ"
+
+#: is_invalid_integer
+msgid "is not a valid integer"
+msgstr "មិនមែនជាតួរលេខគត់ដែលត្រឹមត្រូវទេ"
+
+#: is_invalid_positive_integer
+msgid "is not a valid positive integer"
+msgstr "មិនមែនជាតួរលេខគត់វិជ្ជមានដែលត្រូឹមត្រូវទេ"
+
+#: is_invalid_zero_or_positive_integer
+msgid "is not a valid zero or positive integer"
+msgstr "មិនមែនជាតួរលេខគត់វិជ្ជមាន រឺ លេខសូន្យដែលត្រឹមត្រូវទេ"
+
+#: is_invalid_negative_integer
+msgid "is not a valid negative integer"
+msgstr "មិនមែនជាតួរលេខគត់អវិជ្ជមានដែលត្រឹមត្រូវទេ"
+
+#: is_invalid_name
+msgid "is not a valid name"
+msgstr "មិន​មែន​ជា​​ឈ្មោះ​ដែល​ត្រឹមត្រូវទេ"
+
+#: is_invalid_name_length
+msgid "needs to be 7 or more characters"
+msgstr "តម្រូវការតួរអក្សរចាប់ពី ៧តួរអក្សរឬច្រើនជាងនេះ"
+
+#: is_mandatory
+msgid "is a mandatory field"
+msgstr "ជា ធាតុដែលត្រូវបញ្ជូលដាច់ខាត"
+
+#: is_duplicate
+msgid "person identifier number is duplicated"
+msgstr "លេខកំណត់សម្គាល់ស្ទួនគ្នា"
+
+#: warnings_and_errors
+msgid "Warnings and errors"
+msgstr "បំរាម និង មានកំហុស"
+
+#: validation_rule_violation_warnings
+msgid "Validation Rule Violation Warnings"
+msgstr ""
+
+#: minmax_violation_warnings
+msgid "Min/Max Violation Warnings"
+msgstr "បំរាម អប្បបរមា/អតិប្បរមាចេញផុតពីដែនកំណត់"
+
+#: type_violation_errors
+msgid "Type Violation Errors"
+msgstr ""
+
+#: messages
+msgid "Messages"
+msgstr "សារ"
+
+#: conversations
+msgid "Conversations"
+msgstr ""
+
+#: subject
+msgid "Subject"
+msgstr "ប្រធាន​បទ"
+
+#: reply
+msgid "Reply"
+msgstr "ឆ្លើយតប"
+
+#: form_complete
+msgid "Form complete"
+msgstr "បញ្ចប់សំណុំទម្រង់បែបបទ"
+
+#: completed
+msgid "Completed"
+msgstr "បាន​បញ្ចប់"
+
+#: complete_programs
+msgid "Completed Programs"
+msgstr "បានបញ្ចប់កម្មវិធី"
+
+#: saved_section
+msgid "Saved Section"
+msgstr ""
+
+#: sections
+msgid "Sections"
+msgstr ""
+
+#: current_activityplan
+msgid "Current Activity Plan"
+msgstr ""
+
+#: all_activityplan
+msgid "All Activity Plan"
+msgstr ""
+
+#: activity_type
+msgid "Activity Type"
+msgstr ""
+
+#: beneficiary_list
+msgid "Person List"
+msgstr "បញ្ជីគោលដៅ"
+
+#: activity_list
+msgid "Activity List"
+msgstr "បញ្ជីសកម្មភាព"
+
+#: successfully_saved
+msgid "Successfully Saved"
+msgstr "រក្សាទុកដោយជោគជ័យ"
+
+#: select_option
+msgid "Select Option"
+msgstr ""
+
+#: option_set_searching_result
+msgid "Option Set Searching Result"
+msgstr ""
+
+#: search_for
+msgid "Searching for"
+msgstr "កំពុងស្វែងរក"
+
+#: id
+msgid "ID"
+msgstr "​លេខ​សម្គាល់"
+
+#: gender
+msgid "Gender"
+msgstr "ភេទ"
+
+#: date_of_birth
+msgid "Date of Birth"
+msgstr "ថ្ងៃខែ​ឆ្នាំ​កំណើត"
+
+#: blood_group
+msgid "Blood Group"
+msgstr "ក្រុមឈាម"
+
+#: details_for
+msgid "Detail For"
+msgstr "លម្អិតសម្រាប់"
+
+#: organisation_unit
+msgctxt "organisation_unit"
+msgid "Organisation Unit"
+msgstr "ផ្នែក​នៃ​អង្គការ"
+
+#: beneficiary_registration
+msgid "Person Registration"
+msgstr "ការ​ចុះ​ឈ្មោះ​គោលដៅ"
+
+#: full_name
+msgid "Full Name"
+msgstr "ឈ្មោះពេញ​"
+
+#: male
+msgid "Male"
+msgstr "ប្រុស"
+
+#: female
+msgid "Female"
+msgstr "ស្រី​"
+
+#: transgender
+msgid "Transgender"
+msgstr "ភេទទី៣"
+
+#: is_empty
+msgid "Empty Field"
+msgstr ""
+
+#: beneficiary_enrollment
+msgid "Person Enrollment"
+msgstr ""
+
+#: beneficiary_search
+msgid "Person Search"
+msgstr ""
+
+#: beneficiary_name
+msgid "Person Name"
+msgstr ""
+
+#: search_result_for
+msgid "Search Result for"
+msgstr ""
+
+#: search
+msgid "Search"
+msgstr "ស្វែងរក"
+
+#: enrolled_programs
+msgid "Enrolled Program(s)"
+msgstr "បានចុះបញ្ជីកម្មវិធី"
+
+#: other_programs
+msgid "Other Programs"
+msgstr "កម្មវិធី​ផ្សេងទៀត"
+
+#: available_programs
+msgid "Available Programs"
+msgstr "កម្មវិធី​ដែល​អាច​ប្រើ​បាន"
+
+#: no_enrolled_programs
+msgid "No Enrolled Programs"
+msgstr "មិនបានចុះបញ្ជីកម្មវិធី"
+
+#: no_completed_programs
+msgid "No Completed Programs"
+msgstr "មិនបានបញ្ចប់កម្មវិធី"
+
+#: enroll
+msgid "Enroll"
+msgstr "ចុះឈ្មោះ"
+
+#: enrollment_date
+msgid "Enrollment Date"
+msgstr "ការចុះកាលបរិច្ចេទ"
+
+#: incident_date
+msgid "Incident Date"
+msgstr "កាលបរិច្ចេទនៃហេតុកាណ៍"
+
+#: program_list
+msgid "Program List"
+msgstr ""
+
+#: single_event
+msgid "Single Event"
+msgstr ""
+
+#: single_event_list
+msgid "Single Event List"
+msgstr ""
+
+#: back_single_event_form
+msgid "Back To Single Event Form"
+msgstr ""
+
+#: tracking
+msgid "Tracking"
+msgstr ""
+
+#: find_beneficiary
+msgid "Find Person"
+msgstr "ស្វែងរកមនុស្ស"
+
+#: activity_plan
+msgid "Activity Plan"
+msgstr "គំរោងសកម្មភាព"
+
+#: search_by_name_or_id
+msgid "Search By Name or ID or Phone Number"
+msgstr "ស្វែរកតាមឈ្មោះ/លេខសម្គាល់/លេខទូរស័ព្ទ"
+
+#: select_orgunit
+msgid "Select Organisation Unit"
+msgstr "ជ្រើសអង្គការ"
+
+#: all_orgunit
+msgid "All Organisation Unit"
+msgstr "គ្រប់អង្គការ"
+
+#: tracking_menu
+msgid "Tracking Menu"
+msgstr "ម៉ីនុយតាមដាន"
+
+#: due_date
+msgid "Due Date"
+msgstr "កាលបរិច្ឆេទ​កំឡុងពេល"
+
+#: register_due_date_for
+msgid "Register Due Date For"
+msgstr "ចុះកាលបរិច្ចេទកំឡុងពេលសម្រាប់"
+
+#: schedule
+msgid "Schedule"
+msgstr "តារាង​ពេល​វេលា"
+
+#: schedule_visit
+msgid "Schedule Visit"
+msgstr "តារាងណាត់ជួប"
+
+#: do_not_schedule_visit
+msgid "Do Not Schedule Visit"
+msgstr "មិនបានកត់ត្រាចូលតារាងណាត់ជួប"
+
+#: register
+msgid "Register"
+msgstr "ចុះឈ្មោះ"
+
+#: please_select
+msgid "Please Select"
+msgstr "សូម​ជ្រើស"
+
+#: enroll_in_program
+msgid "Enroll In Program"
+msgstr "ចុះបញ្ជីក្នុងកម្មវិធី"
+
+#: relationships
+msgid "Relationships"
+msgstr "ទំនាក់​ទំនង"
+
+#: no_relationships
+msgid "No Relationships"
+msgstr ""
+
+#: phone_number
+msgid "Phone Number"
+msgstr ""
+
+#: add_relationships
+msgid "Add Relationships"
+msgstr ""
+
+#: related_person_search
+msgid "Related Person Search"
+msgstr ""
+
+#: related_person_list
+msgid "Related Person List"
+msgstr ""
+
+#: add_relationship
+msgid "Add Relationship"
+msgstr ""
+
+#: anonymous_menu
+msgid "Anonymous Menu"
+msgstr "ម៉ីនុយអនាមិក"
+
+#: date_of_birth_type
+msgid "Date of Birth Type"
+msgstr "ប្រភេទ ថ្ងៃខែ​ឆ្នាំ​កំណើត"
+
+#: approximated
+msgid "Approximated"
+msgstr "ប្រហាក់​ប្រហែល​"
+
+#: declared
+msgid "Declared"
+msgstr "ប្រកាស​"
+
+#: verified
+msgid "Verified"
+msgstr "បាន​ផ្ទៀងផ្ទាត់"
+
+#: anomynous_program_list
+msgid "Anonymous Program List"
+msgstr "បញ្ជីជនអនាមិក"
+
+#: orgunit
+msgctxt "orgunit"
+msgid "Organisation Unit"
+msgstr "ផ្នែក​នៃ​អង្គការ"
+
+#: change
+msgid "Change"
+msgstr "ផ្លាស់ប្ដូរ"
+
+#: register_location_for
+msgid "Register Location For"
+msgstr "កំណត់ទីតាំងសម្រាប់"
+
+#: agregate_reporting
+msgid "Aggregate Reporting"
+msgstr "ប្រមាណវិធីលើរបាយការណ៍"
+
+#: find_or_add_person
+msgid "Find/Add Person"
+msgstr "រុករកក្រុមគោលដៅ"
+
+#: search_by_phone_number
+msgid "Search By Phone Number"
+msgstr "ស្វែងរកតាមលេខទូរស័ព្ទ"
+
+#: age_or_dob
+msgid "Age/Date of Birth"
+msgstr "អាយុ/ថ្ងៃខែ​ឆ្នាំ​កំណើត"
+
+#: dead
+msgid "Dead"
+msgstr "ស្លាប់"
+
+#: status
+msgid "Status"
+msgstr "ស្ថានភាព"
+
+#: visit_schedule
+msgid "Visit Schedule"
+msgstr "តារាងពេលវេលាតាមដាន"
+
+#: visit_schedule_type
+msgid "Visit Schedule Type"
+msgstr ""
+
+#: or_register_new_person
+msgid "or register new person"
+msgstr ""
+
+#: invalid_phone_number
+msgid "invalid phone number"
+msgstr "លេខ​ទូរស័ព្ទមិន​ត្រឹមត្រូវ"
+
+#: save_any_way
+msgid "Save anyway"
+msgstr "រក្សាទុកកន្លែងណាមួយ"
+
+#: form_in_complete
+msgid "Form InComplete"
+msgstr "សំណុំបែបបទមិនទាន់បញ្ចប់"
+
+#: allow_provided_elsewhere
+msgid "Provided elsewhere"
+msgstr ""
+
+#: search_user
+msgid "Search user by name"
+msgstr "ស្វែងរក​តាម​ឈ្មោះ"
+
+#: last_recipients
+msgid "Last recipients"
+msgstr ""
+
+#: search_orgunit
+msgid "Search Organisation Unit"
+msgstr ""
+
+#: date_of_birth_hint
+msgid ""
+"*Approximated: enter age. Declared or Verified: enter date in format [yyyy-"
+"mm-dd]"
+msgstr ""
+
+#: select_attribute
+msgid "Select attribute"
+msgstr ""
+
+#: tracked_entity
+msgid "Tracked entity"
+msgstr "តារាងក្រុមគោលដៅ"
+
+#: write
+msgid "Write"
+msgstr "សរសេរ​"
+
+#: write_message
+msgid "Write Message"
+msgstr "សរសេរ​សារ"
+
+#: write_feedback
+msgid "Write Feedback"
+msgstr "សរសេរមតិឆ្លើយតប"
+
+#: write_new_message
+msgid "Write new message"
+msgstr "សរសេរសំបុត្រថ្មី"
+
+#: write_to_users
+msgid "To User(s):"
+msgstr "ទៅកានអ្នកប្រើប្រាស់"
+
+#: write_add_to_recipients
+msgid "Add to Recipient(s)"
+msgstr ""
+
+#: interpretations
+msgid "Interpretations"
+msgstr ""
+
+#: interpretation
+msgid "Interpretation"
+msgstr ""
+
+#: interpretations_support
+msgid "Only charts are currently supported for interpretations."
+msgstr ""
+
+#: interpretation_comment
+msgid "Comment(s):"
+msgstr "មតិយោបល់"
+
+#: interpretation_add_comment
+msgid "Add a comment"
+msgstr "បន្ថែម​មតិយោបល់"
+
+#: interpretation_post_comment
+msgid "Post comment"
+msgstr "ផ្ញើរ​មតិយោបល់​"
+
+#: interpretation_share
+msgid "Share interpretation"
+msgstr ""
+
+#: share
+msgid "Share"
+msgstr "ចែក​រំលែក"
+
+#: chart
+msgid "Chart"
+msgstr ""
