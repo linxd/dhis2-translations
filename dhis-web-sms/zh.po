@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"POT-Creation-Date: 2015-09-26 17:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -229,20 +229,6 @@ msgstr "机构"
 msgid "Beneficiary Registration"
 msgstr "受益人注册"
 
-#: full_name
-msgid "FullName"
-msgstr "全名"
-
-#: male
-msgctxt "male"
-msgid "Male"
-msgstr "男"
-
-#: female
-msgctxt "female"
-msgid "Female"
-msgstr "女"
-
 #: transgender
 msgid "Transgender"
 msgstr "跨性别"
@@ -387,12 +373,10 @@ msgid "Search details"
 msgstr ""
 
 #: male
-msgctxt "male"
 msgid "Male"
 msgstr "男"
 
 #: female
-msgctxt "female"
 msgid "Female"
 msgstr "女"
 

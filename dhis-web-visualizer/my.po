@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -104,11 +104,6 @@ msgstr "ခွင့်ပြုပါသည်။"
 #: selected
 msgid "Selected"
 msgstr "ရွေးချယ်ထားသည်။"
-
-#: periods
-msgctxt "periods"
-msgid "Periods"
-msgstr ""
 
 #: months
 msgid "Months"
@@ -220,11 +215,6 @@ msgstr "ပြင်ဆင်မွမ်းမံပါ။"
 msgid "Data table"
 msgstr "အချက်အလက်ဇယား"
 
-#: favorites
-msgctxt "favorites"
-msgid "Favorites"
-msgstr ""
-
 #: manage_favorites
 msgid "Manage favorites"
 msgstr "favorites စီစဉ်ပါ။"
@@ -288,11 +278,6 @@ msgstr ""
 
 #: overwrite
 msgid "Overwrite"
-msgstr ""
-
-#: download
-msgctxt "download"
-msgid "Download"
 msgstr ""
 
 #: no_svg_format
@@ -540,11 +525,6 @@ msgstr ""
 msgid "interpretation"
 msgstr ""
 
-#: write_your_interpretation
-msgctxt "write_your_interpretation"
-msgid "Write a comment, question or interpretation"
-msgstr ""
-
 #: interpretation_was_shared
 msgid "Interpretation was shared"
 msgstr ""
@@ -574,7 +554,6 @@ msgid "Relative periods"
 msgstr ""
 
 #: periods
-msgctxt "periods"
 msgid "Periods"
 msgstr ""
 
@@ -725,12 +704,10 @@ msgid "Options"
 msgstr ""
 
 #: download
-msgctxt "download"
 msgid "Download"
 msgstr ""
 
 #: favorites
-msgctxt "favorites"
 msgid "Favorites"
 msgstr ""
 
@@ -816,7 +793,6 @@ msgid "Graphics"
 msgstr ""
 
 #: write_your_interpretation
-msgctxt "write_your_interpretation"
 msgid "Write a comment, question or interpretation"
 msgstr ""
 

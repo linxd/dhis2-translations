@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -104,11 +104,6 @@ msgstr "可用"
 #: selected
 msgid "Selected"
 msgstr "已选"
-
-#: periods
-msgctxt "periods"
-msgid "Periods"
-msgstr "周期"
 
 #: months
 msgid "Months"
@@ -220,11 +215,6 @@ msgstr "更新"
 msgid "Data table"
 msgstr "数据表"
 
-#: favorites
-msgctxt "favorites"
-msgid "Favorites"
-msgstr "偏好..."
-
 #: manage_favorites
 msgid "Manage favorites"
 msgstr "管理偏好"
@@ -289,11 +279,6 @@ msgstr "保存前请先创建一图表"
 #: overwrite
 msgid "Overwrite"
 msgstr "覆盖"
-
-#: download
-msgctxt "download"
-msgid "Download"
-msgstr "下载"
 
 #: no_svg_format
 msgid "No SVG format"
@@ -535,11 +520,6 @@ msgstr "分享"
 msgid "interpretation"
 msgstr "注释"
 
-#: write_your_interpretation
-msgctxt "write_your_interpretation"
-msgid "Write a comment, question or interpretation"
-msgstr "书写你的解说"
-
 #: interpretation_was_shared
 msgid "Interpretation was shared"
 msgstr "解说已经分享"
@@ -569,7 +549,6 @@ msgid "Relative periods"
 msgstr "相对周期"
 
 #: periods
-msgctxt "periods"
 msgid "Periods"
 msgstr "周期"
 
@@ -720,12 +699,10 @@ msgid "Options"
 msgstr ""
 
 #: download
-msgctxt "download"
 msgid "Download"
 msgstr "下载"
 
 #: favorites
-msgctxt "favorites"
 msgid "Favorites"
 msgstr "偏好..."
 
@@ -811,7 +788,6 @@ msgid "Graphics"
 msgstr ""
 
 #: write_your_interpretation
-msgctxt "write_your_interpretation"
 msgid "Write a comment, question or interpretation"
 msgstr "书写你的解说"
 

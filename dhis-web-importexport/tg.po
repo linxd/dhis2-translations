@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,7 +19,6 @@ msgid "Data Value"
 msgstr ""
 
 #: import
-msgctxt "import"
 msgid "Import"
 msgstr ""
 
@@ -38,16 +37,6 @@ msgstr "Воридот"
 #: action
 msgid "Action"
 msgstr "Амал"
-
-#: import
-msgctxt "import"
-msgid "Import"
-msgstr ""
-
-#: preview
-msgctxt "preview"
-msgid "Preview"
-msgstr ""
 
 #: from
 msgid "From"
@@ -68,26 +57,6 @@ msgstr "Унсурҳои иттилооти интихобшуда"
 #: available_data_elements
 msgid "Available data elements"
 msgstr "Унсурҳои иттилооти мавҷуда"
-
-#: move_selected
-msgctxt "move_selected"
-msgid "Move selected"
-msgstr ""
-
-#: move_all
-msgctxt "move_all"
-msgid "Move all"
-msgstr ""
-
-#: remove_selected
-msgctxt "remove_selected"
-msgid "Remove selected"
-msgstr ""
-
-#: remove_all
-msgctxt "remove_all"
-msgid "Remove all"
-msgstr ""
 
 #: indicators
 msgid "Indicators"
@@ -133,11 +102,6 @@ msgstr "воҳидҳои сохторӣ"
 msgid "Periods"
 msgstr "Давраҳо"
 
-#: import
-msgctxt "import"
-msgid "Import"
-msgstr ""
-
 #: importing
 msgid "Importing..."
 msgstr "Содирот мешавад..."
@@ -149,11 +113,6 @@ msgstr "Иҷро шуд"
 #: compare
 msgid "Compare"
 msgstr "Муқоиса"
-
-#: configuration
-msgctxt "configuration"
-msgid "Configuration"
-msgstr ""
 
 #: source
 msgid "Source"
@@ -179,10 +138,6 @@ msgstr "Файлро нишон диҳед"
 msgid "Data sets"
 msgstr "Маҷмӯъҳои иттилоот"
 
-#: include_datavalues
-msgid "Include Data Values"
-msgstr ""
-
 #: file
 msgid "File"
 msgstr "Файл"
@@ -203,11 +158,6 @@ msgstr "Пешнамоиши содирот"
 msgid "Select none"
 msgstr "Ягонтоаш интихоб нашудааст"
 
-#: element
-msgctxt "element"
-msgid "Element"
-msgstr ""
-
 #: unique
 msgid "Unique"
 msgstr "Беназир"
@@ -217,7 +167,6 @@ msgid "Matching"
 msgstr "Мувофиқ"
 
 #: preview
-msgctxt "preview"
 msgid "Preview"
 msgstr ""
 
@@ -246,28 +195,6 @@ msgstr "Маҷмӯи иттилоот"
 msgctxt "organisationunit"
 msgid "Organisation unit"
 msgstr "Воҳиди сохторӣ"
-
-#: data_export
-msgid "DXF Data Value Export"
-msgstr ""
-
-#: datavalue_export
-msgctxt "datavalue_export"
-msgid "Data Export"
-msgstr ""
-
-#: metadata_export
-msgid "DXF Metadata Export"
-msgstr ""
-
-#: data_export
-msgctxt "data_export"
-msgid "Data Export"
-msgstr ""
-
-#: metadata_export
-msgid "Metadata Export"
-msgstr ""
 
 #: data_element_groups
 msgid "Data element groups"
@@ -352,7 +279,6 @@ msgid "Option set"
 msgstr ""
 
 #: element
-msgctxt "element"
 msgid "Element"
 msgstr ""
 
@@ -425,22 +351,18 @@ msgid "Hide advanced options"
 msgstr "Пинҳон кардани имконоти васеъ"
 
 #: move_selected
-msgctxt "move_selected"
 msgid "Move selected"
 msgstr ""
 
 #: move_all
-msgctxt "move_all"
 msgid "Move all"
 msgstr ""
 
 #: remove_selected
-msgctxt "remove_selected"
 msgid "Remove selected"
 msgstr ""
 
 #: remove_all
-msgctxt "remove_all"
 msgid "Remove all"
 msgstr ""
 
@@ -468,11 +390,6 @@ msgstr "Навъи иттилооти асосӣ"
 msgid "Validation rules"
 msgstr "Қоидаҳои санҷиши эътибор"
 
-#: saved
-msgctxt "saved"
-msgid "Saved"
-msgstr ""
-
 #: last_updated
 msgid "Last updated"
 msgstr "Навсозии охирин"
@@ -488,11 +405,6 @@ msgstr "Оператор"
 #: data_elements
 msgid "Data elements"
 msgstr "Унсурҳои иттилоот"
-
-#: data_dictionary
-msgctxt "data_dictionary"
-msgid "Data dictionary"
-msgstr ""
 
 #: data_value
 msgctxt "data_value"
@@ -631,11 +543,6 @@ msgstr "Воридоти иттиҳодҳои шакли вуруди иттил
 msgid "Importing organisation units"
 msgstr "Воридоти воҳидҳои сохторӣ"
 
-#: importing_organisation_unit_relationships
-msgctxt "importing_organisation_unit_relationships"
-msgid "Importing organisation unit relationships"
-msgstr ""
-
 #: importing_organisation_unit_groups
 msgid "Importing organisation unit groups"
 msgstr "Воридоти гурӯҳҳои воҳидҳои сохторӣ"
@@ -657,7 +564,6 @@ msgid "Importing organisation unit structures"
 msgstr "Воридоти сохторҳои воҳидҳои сохторӣ"
 
 #: importing_organisation_unit_relationships
-msgctxt "importing_organisation_unit_relationships"
 msgid "Importing organisation unit relationships"
 msgstr ""
 
@@ -818,7 +724,6 @@ msgid "Report table"
 msgstr "Ҷадвалҳои ҳисобот"
 
 #: data_dictionary
-msgctxt "data_dictionary"
 msgid "Data dictionary"
 msgstr ""
 
@@ -911,7 +816,6 @@ msgid "Imported meta data"
 msgstr "Метадата воридот шуд"
 
 #: saved
-msgctxt "saved"
 msgid "Saved"
 msgstr ""
 
@@ -951,11 +855,6 @@ msgstr "Номи ҷадвал"
 #: mode
 msgid "Mode"
 msgstr "Реҷа"
-
-#: regression
-msgctxt "regression"
-msgid "Regression"
-msgstr ""
 
 #: reporting_month
 msgid "Reporting month"
@@ -1072,7 +971,6 @@ msgid "Process failed - See log for details"
 msgstr "Раванд иҷро нашуд - Барои маълумоти муфассал ба сабтҳо нигаред"
 
 #: configuration
-msgctxt "configuration"
 msgid "Configuration"
 msgstr ""
 
@@ -1097,7 +995,6 @@ msgid "Horizontal plot orientation"
 msgstr "Ҷойгиршавии уфуқии нақша"
 
 #: regression
-msgctxt "regression"
 msgid "Regression"
 msgstr ""
 

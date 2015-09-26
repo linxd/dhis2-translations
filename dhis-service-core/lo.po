@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -508,13 +508,6 @@ msgstr "ອິນເຕີແນັດໄດ້ເຊື່ອມຕໍ່ແລ
 msgid "You are offline, data will be stored locally"
 msgstr "You are offline, data will be stored locally"
 
-#: ajax_login_failed
-msgctxt "ajax_login_failed"
-msgid "Login failed, check your username and password and try again"
-msgstr ""
-"​ເຂົ້າ​ບໍ່​ໄດ້, ກວດ​ກາ​ເບີ່ງ​ຄືນ​ ຊື່ຜູ້​ໄຊ້ ແລະ ລະ​ຫັດ​ຜ່ານ​ຂອງ​ທ່ານ "
-"ຫລັງ​ຈາກນັ້ນ​ລອງ​ເຂົ້າ​ໃໝ່​ອີກ​ຄັ້ງ"
-
 #: need_to_sync_notification
 msgid "There is data stored locally, please upload to server"
 msgstr ""
@@ -755,11 +748,6 @@ msgstr "ບໍ່ສາມາດອ່ານຄຳສັບນີ້ໄດ້? �
 msgid "Restore"
 msgstr "Restore"
 
-#: new_password
-msgctxt "new_password"
-msgid "New password"
-msgstr ""
-
 #: restore_account
 msgid "Restore account"
 msgstr "Restore account"
@@ -810,55 +798,6 @@ msgid ""
 "Please upgrade your browser. Internet Explorer version 8 and earlier is not "
 "supported."
 msgstr ""
-
-#: data_element_or_type_null_or_empty
-msgid "Data element or type not defined"
-msgstr "Data element or type is null or empty"
-
-#: value_length_greater_than_max_length
-msgid "Value is greater than max length"
-msgstr "Data value is greater than max length"
-
-#: comment_length_greater_than_max_length
-msgctxt "comment_length_greater_than_max_length"
-msgid "Comment is greater than max length"
-msgstr ""
-
-#: value_not_numeric
-msgid "Value is not numeric"
-msgstr "Data value is not numeric"
-
-#: value_not_unit_interval
-msgid "Value is not a unit interval"
-msgstr "Data value is not a unit interval"
-
-#: value_not_percentage
-msgid "Value is not a percentage"
-msgstr ""
-
-#: value_not_integer
-msgid "Value is not an integer"
-msgstr "Data value is not an integer"
-
-#: value_not_positive_integer
-msgid "Value is not a positive integer"
-msgstr "Data value is not a positive integer"
-
-#: value_not_negative_integer
-msgid "Value is not a negative integer"
-msgstr "Data value is not a negative integer"
-
-#: value_not_bool
-msgid "Value is not a boolean"
-msgstr "Data value is not a boolean"
-
-#: value_not_true_only
-msgid "Value is not true"
-msgstr "Data value is not true"
-
-#: value_not_valid_date
-msgid "Value is not a valid date"
-msgstr "Data value is not a valid date"
 
 #: email_not_configured_for_system
 msgid "Email is not configured for the system"
@@ -2098,21 +2037,6 @@ msgstr "Light Blue"
 msgid "Green"
 msgstr "ຂຽວ"
 
-#: myanmar
-msgctxt "myanmar"
-msgid "Myanmar"
-msgstr "Myanmar"
-
-#: india
-msgctxt "india"
-msgid "India"
-msgstr "India"
-
-#: vietnam
-msgctxt "vietnam"
-msgid "Vietnam"
-msgstr "Vietnam"
-
 #: settings_updated
 msgid "Settings were updated"
 msgstr "ການຕັ້ງຄ່າສຳເລັດແລ້ວ"
@@ -2343,7 +2267,6 @@ msgid "Old password"
 msgstr "Old password"
 
 #: new_password
-msgctxt "new_password"
 msgid "New password"
 msgstr ""
 
@@ -2675,10 +2598,6 @@ msgstr "Success"
 #: waiting
 msgid "Please wait"
 msgstr "ກະລຸນາລໍຖ້າ"
-
-#: expression_not_well_formed
-msgid "Expression is not well formed"
-msgstr "Expression is not well-formed"
 
 #: invalid_identifiers_in_expression
 msgid "Invalid identifiers in expression"
@@ -3194,7 +3113,6 @@ msgid "User group access"
 msgstr "User group access"
 
 #: ajax_login_failed
-msgctxt "ajax_login_failed"
 msgid "Login failed, check your username and password and try again"
 msgstr ""
 "​ເຂົ້າ​ບໍ່​ໄດ້, ກວດ​ກາ​ເບີ່ງ​ຄືນ​ ຊື່ຜູ້​ໄຊ້ ແລະ ລະ​ຫັດ​ຜ່ານ​ຂອງ​ທ່ານ "
@@ -3387,7 +3305,6 @@ msgid "IPPF"
 msgstr ""
 
 #: india
-msgctxt "india"
 msgid "India"
 msgstr "India"
 
@@ -3444,7 +3361,6 @@ msgid "Mozambique"
 msgstr "Mozambique"
 
 #: myanmar
-msgctxt "myanmar"
 msgid "Myanmar"
 msgstr "Myanmar"
 
@@ -3585,7 +3501,6 @@ msgid "Vanuatu"
 msgstr "Vanuatu"
 
 #: vietnam
-msgctxt "vietnam"
 msgid "Vietnam"
 msgstr "Vietnam"
 
@@ -3764,7 +3679,6 @@ msgid "Stored by is greater than max length"
 msgstr ""
 
 #: comment_length_greater_than_max_length
-msgctxt "comment_length_greater_than_max_length"
 msgid "Comment is greater than max length"
 msgstr ""
 

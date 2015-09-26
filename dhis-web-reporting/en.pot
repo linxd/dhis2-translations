@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 08:10+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,11 +29,6 @@ msgstr ""
 
 #: reporting_unit
 msgid "Reporting unit"
-msgstr ""
-
-#: reporting_period
-msgctxt "reporting_period"
-msgid "Reporting period"
 msgstr ""
 
 #: report_period
@@ -90,18 +85,8 @@ msgstr ""
 msgid "Select indicator group / View all"
 msgstr ""
 
-#: select_dataelementgroup_all
-msgctxt "select_dataelementgroup_all"
-msgid "Select data element group / View all"
-msgstr ""
-
 #: selected_indicators
 msgid "Selected indicators"
-msgstr ""
-
-#: selected_dataelements
-msgctxt "selected_dataelements"
-msgid "Selected data elements"
 msgstr ""
 
 #: select_organisationunit_level_all
@@ -158,16 +143,6 @@ msgstr ""
 
 #: reporting_month
 msgid "Reporting month"
-msgstr ""
-
-#: months_this_year
-msgctxt "months_this_year"
-msgid "Months this year"
-msgstr ""
-
-#: quarters_this_year
-msgctxt "quarters_this_year"
-msgid "Quarters this year"
 msgstr ""
 
 #: this_year
@@ -373,17 +348,10 @@ msgid "Available data elements"
 msgstr ""
 
 #: select_dataelementgroup_all
-msgctxt "select_dataelementgroup_all"
 msgid "Select data element group / View all"
 msgstr ""
 
-#: select_category_combo
-msgctxt "select_category_combo"
-msgid "Select category combination"
-msgstr ""
-
 #: selected_dataelements
-msgctxt "selected_dataelements"
 msgid "Selected data elements"
 msgstr ""
 
@@ -396,12 +364,10 @@ msgid "Report table parameters"
 msgstr ""
 
 #: months_this_year
-msgctxt "months_this_year"
 msgid "Months this year"
 msgstr ""
 
 #: quarters_this_year
-msgctxt "quarters_this_year"
 msgid "Quarters this year"
 msgstr ""
 
@@ -439,16 +405,6 @@ msgstr ""
 
 #: indicator_group
 msgid "Indicator group"
-msgstr ""
-
-#: start_date
-msgctxt "start_date"
-msgid "Start date"
-msgstr ""
-
-#: end_date
-msgctxt "end_date"
-msgid "End date"
 msgstr ""
 
 #: period_type
@@ -725,11 +681,6 @@ msgstr ""
 msgid "Organisation unit distribution report"
 msgstr ""
 
-#: get_report
-msgctxt "get_report"
-msgid "Get report"
-msgstr ""
-
 #: get_chart
 msgid "Get chart"
 msgstr ""
@@ -743,7 +694,6 @@ msgid "Select organisation unit"
 msgstr ""
 
 #: get_report
-msgctxt "get_report"
 msgid "Get report"
 msgstr ""
 
@@ -768,7 +718,6 @@ msgid "Download as JRXML"
 msgstr ""
 
 #: select_category_combo
-msgctxt "select_category_combo"
 msgid "Select category combination"
 msgstr ""
 
@@ -852,11 +801,6 @@ msgstr ""
 msgid "Include org unit group sets param"
 msgstr ""
 
-#: reporting_period
-msgctxt "reporting_period"
-msgid "Reporting period"
-msgstr ""
-
 #: last_5_years
 msgid "Last 5 years"
 msgstr ""
@@ -882,12 +826,10 @@ msgid "Selected organisation unit groups"
 msgstr ""
 
 #: start_date
-msgctxt "start_date"
 msgid "Start date"
 msgstr ""
 
 #: end_date
-msgctxt "end_date"
 msgid "End date"
 msgstr ""
 
@@ -912,7 +854,6 @@ msgid "Print"
 msgstr ""
 
 #: reporting_period
-msgctxt "reporting_period"
 msgid "Reporting period"
 msgstr ""
 

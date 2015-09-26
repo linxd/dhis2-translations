@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -216,11 +216,6 @@ msgstr ""
 msgid "The following values violate validation rules"
 msgstr "Các giá trị sau vi phạm tính hợp lệ"
 
-#: value
-msgctxt "value"
-msgid "Value"
-msgstr "Giá trị"
-
 #: operator
 msgid "Operator"
 msgstr "Toán tử"
@@ -281,11 +276,6 @@ msgstr "Xác nhận mẫu nhập hoàn chỉnh KHÔNG thành công"
 msgid "Undo register complete data set success"
 msgstr "Hủy xác nhận biểu nhập hoàn chỉnh thành công"
 
-#: datavalue_history
-msgctxt "datavalue_history"
-msgid "Data value history"
-msgstr "Lịch sử giá trị dữ liệu"
-
 #: enter_digits
 msgid "Enter digit only."
 msgstr "Chỉ nhập ký tự số"
@@ -301,7 +291,6 @@ msgid ""
 msgstr "Phần tử này không lưu giá trị 0. Giá trị cũ chưa cập nhật"
 
 #: datavalue_history
-msgctxt "datavalue_history"
 msgid "Data value history"
 msgstr "Lịch sử giá trị dữ liệu"
 
@@ -354,7 +343,6 @@ msgid "On"
 msgstr "Vào lúc"
 
 #: value
-msgctxt "value"
 msgid "Value"
 msgstr "Giá trị"
 

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,7 +19,6 @@ msgid "Data Value"
 msgstr "Giá trị"
 
 #: import
-msgctxt "import"
 msgid "Import"
 msgstr "Tích hợp"
 
@@ -38,16 +37,6 @@ msgstr "Trích xuất"
 #: action
 msgid "Action"
 msgstr "Hành động"
-
-#: import
-msgctxt "import"
-msgid "Import"
-msgstr "Tích hợp"
-
-#: preview
-msgctxt "preview"
-msgid "Preview"
-msgstr "Xem trước"
 
 #: from
 msgid "From"
@@ -68,26 +57,6 @@ msgstr "Các dữ liệu đã chọn"
 #: available_data_elements
 msgid "Available data elements"
 msgstr "Các dữ liệu sẵn có"
-
-#: move_selected
-msgctxt "move_selected"
-msgid "Move selected"
-msgstr "Chuyển chọn"
-
-#: move_all
-msgctxt "move_all"
-msgid "Move all"
-msgstr "Chuyển tất cả"
-
-#: remove_selected
-msgctxt "remove_selected"
-msgid "Remove selected"
-msgstr "Hủy bỏ được chọn"
-
-#: remove_all
-msgctxt "remove_all"
-msgid "Remove all"
-msgstr "Hủy bỏ tất cả"
 
 #: indicators
 msgid "Indicators"
@@ -133,11 +102,6 @@ msgstr "Đơn vị"
 msgid "Periods"
 msgstr "Các thời điểm"
 
-#: import
-msgctxt "import"
-msgid "Import"
-msgstr "Tích hợp"
-
 #: importing
 msgid "Importing..."
 msgstr "Đang tích hợp"
@@ -149,11 +113,6 @@ msgstr "Hoàn tất"
 #: compare
 msgid "Compare"
 msgstr "So sánh"
-
-#: configuration
-msgctxt "configuration"
-msgid "Configuration"
-msgstr "Cấu hình"
 
 #: source
 msgid "Source"
@@ -179,10 +138,6 @@ msgstr "Hãy chỉ định một tập tin"
 msgid "Data sets"
 msgstr "Biểu nhập liệu"
 
-#: include_datavalues
-msgid "Include Data Values"
-msgstr "Include data values"
-
 #: file
 msgid "File"
 msgstr "Tập tin"
@@ -203,11 +158,6 @@ msgstr "Xem trước tích hợp"
 msgid "Select none"
 msgstr "Không chọn gì"
 
-#: element
-msgctxt "element"
-msgid "Element"
-msgstr "Phần tử"
-
 #: unique
 msgid "Unique"
 msgstr "Duy nhất"
@@ -217,7 +167,6 @@ msgid "Matching"
 msgstr "Phù hợp"
 
 #: preview
-msgctxt "preview"
 msgid "Preview"
 msgstr "Xem trước"
 
@@ -246,28 +195,6 @@ msgstr "Biểu dữ liệu nhập"
 msgctxt "organisationunit"
 msgid "Organisation unit"
 msgstr "Đơn vị"
-
-#: data_export
-msgid "DXF Data Value Export"
-msgstr "Data Export"
-
-#: datavalue_export
-msgctxt "datavalue_export"
-msgid "Data Export"
-msgstr ""
-
-#: metadata_export
-msgid "DXF Metadata Export"
-msgstr "Meta-Data Export"
-
-#: data_export
-msgctxt "data_export"
-msgid "Data Export"
-msgstr "Data Export"
-
-#: metadata_export
-msgid "Metadata Export"
-msgstr "Meta-Data Export"
 
 #: data_element_groups
 msgid "Data element groups"
@@ -352,7 +279,6 @@ msgid "Option set"
 msgstr ""
 
 #: element
-msgctxt "element"
 msgid "Element"
 msgstr "Phần tử"
 
@@ -425,22 +351,18 @@ msgid "Hide advanced options"
 msgstr "Ẩn tùy chọn mở rộng"
 
 #: move_selected
-msgctxt "move_selected"
 msgid "Move selected"
 msgstr "Chuyển chọn"
 
 #: move_all
-msgctxt "move_all"
 msgid "Move all"
 msgstr "Chuyển tất cả"
 
 #: remove_selected
-msgctxt "remove_selected"
 msgid "Remove selected"
 msgstr "Hủy bỏ được chọn"
 
 #: remove_all
-msgctxt "remove_all"
 msgid "Remove all"
 msgstr "Hủy bỏ tất cả"
 
@@ -468,11 +390,6 @@ msgstr "Loại dữ liệu"
 msgid "Validation rules"
 msgstr "Các quy tắc kiểm tra"
 
-#: saved
-msgctxt "saved"
-msgid "Saved"
-msgstr "Đã lưu"
-
 #: last_updated
 msgid "Last updated"
 msgstr "Cập nhật gần nhất"
@@ -488,11 +405,6 @@ msgstr "Toán tử"
 #: data_elements
 msgid "Data elements"
 msgstr "Các dữ liệu"
-
-#: data_dictionary
-msgctxt "data_dictionary"
-msgid "Data dictionary"
-msgstr "Từ điển dữ liệu"
 
 #: data_value
 msgctxt "data_value"
@@ -633,11 +545,6 @@ msgstr "Đang tích hợp các liên kết biểu nhập dữ liệu"
 msgid "Importing organisation units"
 msgstr "Đang tích hợp các đơn vị"
 
-#: importing_organisation_unit_relationships
-msgctxt "importing_organisation_unit_relationships"
-msgid "Importing organisation unit relationships"
-msgstr "Đang tích hợp các liên kết của đơn vị"
-
 #: importing_organisation_unit_groups
 msgid "Importing organisation unit groups"
 msgstr "Đang tích hợp các nhóm đơn vị"
@@ -659,7 +566,6 @@ msgid "Importing organisation unit structures"
 msgstr "Đang tích hợp các cấu trúc đơn vị"
 
 #: importing_organisation_unit_relationships
-msgctxt "importing_organisation_unit_relationships"
 msgid "Importing organisation unit relationships"
 msgstr "Đang tích hợp các liên kết của đơn vị"
 
@@ -820,7 +726,6 @@ msgid "Report table"
 msgstr "Bảng báo cáo"
 
 #: data_dictionary
-msgctxt "data_dictionary"
 msgid "Data dictionary"
 msgstr "Từ điển dữ liệu"
 
@@ -913,7 +818,6 @@ msgid "Imported meta data"
 msgstr "Siêu dữ liệu đã được tích hợp"
 
 #: saved
-msgctxt "saved"
 msgid "Saved"
 msgstr "Đã lưu"
 
@@ -953,11 +857,6 @@ msgstr "Tên bảng"
 #: mode
 msgid "Mode"
 msgstr "Chế độ"
-
-#: regression
-msgctxt "regression"
-msgid "Regression"
-msgstr "Tiến trình"
 
 #: reporting_month
 msgid "Reporting month"
@@ -1073,7 +972,6 @@ msgid "Process failed - See log for details"
 msgstr "Tiến trình thực hiện không thành công - Xem thêm ở nhật ký hệ thống"
 
 #: configuration
-msgctxt "configuration"
 msgid "Configuration"
 msgstr "Cấu hình"
 
@@ -1098,7 +996,6 @@ msgid "Horizontal plot orientation"
 msgstr "Hướng ngang"
 
 #: regression
-msgctxt "regression"
 msgid "Regression"
 msgstr "Tiến trình"
 

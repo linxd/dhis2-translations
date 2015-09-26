@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"POT-Creation-Date: 2015-09-26 17:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,11 +30,6 @@ msgstr "Пожалуйста выберите набор группы"
 #: reporting_unit
 msgid "Reporting unit"
 msgstr "Информирующий/отчетный отдел"
-
-#: reporting_period
-msgctxt "reporting_period"
-msgid "Reporting period"
-msgstr ""
 
 #: report_period
 msgid "Report period"
@@ -90,19 +85,9 @@ msgstr "Имеющиеся индикаторы"
 msgid "Select indicator group / View all"
 msgstr "Выбрать группу индикаторов/Посмотреть все"
 
-#: select_dataelementgroup_all
-msgctxt "select_dataelementgroup_all"
-msgid "Select data element group / View all"
-msgstr ""
-
 #: selected_indicators
 msgid "Selected indicators"
 msgstr "Выбранные индикаторы"
-
-#: selected_dataelements
-msgctxt "selected_dataelements"
-msgid "Selected data elements"
-msgstr ""
 
 #: select_organisationunit_level_all
 msgid "Select organsation unit level / View all"
@@ -159,16 +144,6 @@ msgstr "Соответствующие периоды"
 #: reporting_month
 msgid "Reporting month"
 msgstr "Отчетный месяц"
-
-#: months_this_year
-msgctxt "months_this_year"
-msgid "Months this year"
-msgstr ""
-
-#: quarters_this_year
-msgctxt "quarters_this_year"
-msgid "Quarters this year"
-msgstr ""
 
 #: this_year
 msgid "This year"
@@ -378,17 +353,10 @@ msgid "Available data elements"
 msgstr "Доступные элементы данных"
 
 #: select_dataelementgroup_all
-msgctxt "select_dataelementgroup_all"
 msgid "Select data element group / View all"
 msgstr ""
 
-#: select_category_combo
-msgctxt "select_category_combo"
-msgid "Select category combination"
-msgstr ""
-
 #: selected_dataelements
-msgctxt "selected_dataelements"
 msgid "Selected data elements"
 msgstr ""
 
@@ -401,12 +369,10 @@ msgid "Report table parameters"
 msgstr "Параметры отчета"
 
 #: months_this_year
-msgctxt "months_this_year"
 msgid "Months this year"
 msgstr ""
 
 #: quarters_this_year
-msgctxt "quarters_this_year"
 msgid "Quarters this year"
 msgstr ""
 
@@ -445,16 +411,6 @@ msgstr "Сводная таблица"
 #: indicator_group
 msgid "Indicator group"
 msgstr "Группа индикаторов"
-
-#: start_date
-msgctxt "start_date"
-msgid "Start date"
-msgstr ""
-
-#: end_date
-msgctxt "end_date"
-msgid "End date"
-msgstr ""
 
 #: period_type
 msgid "Period type"
@@ -749,11 +705,6 @@ msgstr "Выбрать набор группы"
 msgid "Organisation unit distribution report"
 msgstr "Отчет о распределении организации"
 
-#: get_report
-msgctxt "get_report"
-msgid "Get report"
-msgstr ""
-
 #: get_chart
 msgid "Get chart"
 msgstr "Получить диаграмму"
@@ -767,7 +718,6 @@ msgid "Select organisation unit"
 msgstr "Выбрать организацию/отдел"
 
 #: get_report
-msgctxt "get_report"
 msgid "Get report"
 msgstr ""
 
@@ -792,7 +742,6 @@ msgid "Download as JRXML"
 msgstr "Загрузить как JRXML"
 
 #: select_category_combo
-msgctxt "select_category_combo"
 msgid "Select category combination"
 msgstr ""
 
@@ -876,11 +825,6 @@ msgstr "Отчетный квартал"
 msgid "Include org unit group sets param"
 msgstr "Включить параметры наборов группы организации/отделов"
 
-#: reporting_period
-msgctxt "reporting_period"
-msgid "Reporting period"
-msgstr ""
-
 #: last_5_years
 msgid "Last 5 years"
 msgstr "Последние 5 лет"
@@ -906,12 +850,10 @@ msgid "Selected organisation unit groups"
 msgstr "Выбрать группы организаций/отделов"
 
 #: start_date
-msgctxt "start_date"
 msgid "Start date"
 msgstr ""
 
 #: end_date
-msgctxt "end_date"
 msgid "End date"
 msgstr ""
 
@@ -936,7 +878,6 @@ msgid "Print"
 msgstr "Печать"
 
 #: reporting_period
-msgctxt "reporting_period"
 msgid "Reporting period"
 msgstr ""
 

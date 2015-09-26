@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -216,11 +216,6 @@ msgstr ""
 msgid "The following values violate validation rules"
 msgstr "Nilai berikut menyalahi aturan validasi"
 
-#: value
-msgctxt "value"
-msgid "Value"
-msgstr ""
-
 #: operator
 msgid "Operator"
 msgstr "Operator"
@@ -281,11 +276,6 @@ msgstr "Registrasi data set lengkap gagal dilakukan"
 msgid "Undo register complete data set success"
 msgstr "Pembatalan registrasi data set lengkap berhasil dilakukan"
 
-#: datavalue_history
-msgctxt "datavalue_history"
-msgid "Data value history"
-msgstr ""
-
 #: enter_digits
 msgid "Enter digit only."
 msgstr "Masukkan digit saja"
@@ -303,7 +293,6 @@ msgstr ""
 "akan terpengaruh."
 
 #: datavalue_history
-msgctxt "datavalue_history"
 msgid "Data value history"
 msgstr ""
 
@@ -356,7 +345,6 @@ msgid "On"
 msgstr "pada"
 
 #: value
-msgctxt "value"
 msgid "Value"
 msgstr ""
 

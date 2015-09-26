@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -214,11 +214,6 @@ msgstr "حقول الادخال التالية تحتاج تعليق، من فض
 msgid "The following values violate validation rules"
 msgstr "القيم التالية تخرق قواعد التحقق من الصحة"
 
-#: value
-msgctxt "value"
-msgid "Value"
-msgstr "القيمة"
-
 #: operator
 msgid "Operator"
 msgstr "المشغل"
@@ -279,11 +274,6 @@ msgstr ""
 msgid "Undo register complete data set success"
 msgstr ""
 
-#: datavalue_history
-msgctxt "datavalue_history"
-msgid "Data value history"
-msgstr ""
-
 #: enter_digits
 msgid "Enter digit only."
 msgstr "ادخل أرقام  فقط"
@@ -299,7 +289,6 @@ msgid ""
 msgstr "العنصر لا يسمح بقيمة الصفر . القيمة الأصلية لن تتأثر"
 
 #: datavalue_history
-msgctxt "datavalue_history"
 msgid "Data value history"
 msgstr ""
 
@@ -352,7 +341,6 @@ msgid "On"
 msgstr "في"
 
 #: value
-msgctxt "value"
 msgid "Value"
 msgstr "القيمة"
 

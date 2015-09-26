@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -104,11 +104,6 @@ msgstr "Tersedia"
 #: selected
 msgid "Selected"
 msgstr "Terpilih"
-
-#: periods
-msgctxt "periods"
-msgid "Periods"
-msgstr ""
 
 #: months
 msgid "Months"
@@ -220,11 +215,6 @@ msgstr "Update"
 msgid "Data table"
 msgstr "Tabel laporan"
 
-#: favorites
-msgctxt "favorites"
-msgid "Favorites"
-msgstr "Favorit"
-
 #: manage_favorites
 msgid "Manage favorites"
 msgstr "Mengelola favorit"
@@ -289,11 +279,6 @@ msgstr "Silakan membuat grafik sebelum menyimpan"
 #: overwrite
 msgid "Overwrite"
 msgstr "Tulis ulang"
-
-#: download
-msgctxt "download"
-msgid "Download"
-msgstr "Download"
 
 #: no_svg_format
 msgid "No SVG format"
@@ -539,11 +524,6 @@ msgstr "Bagikan"
 msgid "interpretation"
 msgstr "Interpretasi"
 
-#: write_your_interpretation
-msgctxt "write_your_interpretation"
-msgid "Write a comment, question or interpretation"
-msgstr "Tuliskan komentar, pertanyaan atau interpretasi"
-
 #: interpretation_was_shared
 msgid "Interpretation was shared"
 msgstr "Interpretasi telah dibagikan"
@@ -573,7 +553,6 @@ msgid "Relative periods"
 msgstr "Periode relatif"
 
 #: periods
-msgctxt "periods"
 msgid "Periods"
 msgstr ""
 
@@ -724,12 +703,10 @@ msgid "Options"
 msgstr ""
 
 #: download
-msgctxt "download"
 msgid "Download"
 msgstr "Download"
 
 #: favorites
-msgctxt "favorites"
 msgid "Favorites"
 msgstr "Favorit"
 
@@ -815,7 +792,6 @@ msgid "Graphics"
 msgstr ""
 
 #: write_your_interpretation
-msgctxt "write_your_interpretation"
 msgid "Write a comment, question or interpretation"
 msgstr "Tuliskan komentar, pertanyaan atau interpretasi"
 

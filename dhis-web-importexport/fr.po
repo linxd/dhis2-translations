@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,7 +19,6 @@ msgid "Data Value"
 msgstr "Valeur de données"
 
 #: import
-msgctxt "import"
 msgid "Import"
 msgstr ""
 
@@ -38,16 +37,6 @@ msgstr "Exporter"
 #: action
 msgid "Action"
 msgstr "Action"
-
-#: import
-msgctxt "import"
-msgid "Import"
-msgstr ""
-
-#: preview
-msgctxt "preview"
-msgid "Preview"
-msgstr ""
 
 #: from
 msgid "From"
@@ -68,26 +57,6 @@ msgstr "Eléments de donnée sélectionnés"
 #: available_data_elements
 msgid "Available data elements"
 msgstr "Eléments de données disponibles"
-
-#: move_selected
-msgctxt "move_selected"
-msgid "Move selected"
-msgstr ""
-
-#: move_all
-msgctxt "move_all"
-msgid "Move all"
-msgstr ""
-
-#: remove_selected
-msgctxt "remove_selected"
-msgid "Remove selected"
-msgstr ""
-
-#: remove_all
-msgctxt "remove_all"
-msgid "Remove all"
-msgstr ""
 
 #: indicators
 msgid "Indicators"
@@ -133,11 +102,6 @@ msgstr "unités d'organisation"
 msgid "Periods"
 msgstr "Périodes"
 
-#: import
-msgctxt "import"
-msgid "Import"
-msgstr ""
-
 #: importing
 msgid "Importing..."
 msgstr "Importation ..."
@@ -149,11 +113,6 @@ msgstr "Terminé"
 #: compare
 msgid "Compare"
 msgstr "Comparer"
-
-#: configuration
-msgctxt "configuration"
-msgid "Configuration"
-msgstr "Paramétrage"
 
 #: source
 msgid "Source"
@@ -179,10 +138,6 @@ msgstr "Veuillez spécifier un fichier"
 msgid "Data sets"
 msgstr "Ensembles de données"
 
-#: include_datavalues
-msgid "Include Data Values"
-msgstr ""
-
 #: file
 msgid "File"
 msgstr "Fichier"
@@ -203,11 +158,6 @@ msgstr "Aperçu des importations"
 msgid "Select none"
 msgstr "Sélectionner aucun"
 
-#: element
-msgctxt "element"
-msgid "Element"
-msgstr ""
-
 #: unique
 msgid "Unique"
 msgstr "Unique"
@@ -217,7 +167,6 @@ msgid "Matching"
 msgstr "Correspondance"
 
 #: preview
-msgctxt "preview"
 msgid "Preview"
 msgstr ""
 
@@ -246,28 +195,6 @@ msgstr "Ensemble de données"
 msgctxt "organisationunit"
 msgid "Organisation unit"
 msgstr "Unité d'Organisation"
-
-#: data_export
-msgid "DXF Data Value Export"
-msgstr ""
-
-#: datavalue_export
-msgctxt "datavalue_export"
-msgid "Data Export"
-msgstr "Exportation de données"
-
-#: metadata_export
-msgid "DXF Metadata Export"
-msgstr ""
-
-#: data_export
-msgctxt "data_export"
-msgid "Data Export"
-msgstr ""
-
-#: metadata_export
-msgid "Metadata Export"
-msgstr ""
 
 #: data_element_groups
 msgid "Data element groups"
@@ -352,7 +279,6 @@ msgid "Option set"
 msgstr ""
 
 #: element
-msgctxt "element"
 msgid "Element"
 msgstr ""
 
@@ -425,22 +351,18 @@ msgid "Hide advanced options"
 msgstr "Masquer les options avancées"
 
 #: move_selected
-msgctxt "move_selected"
 msgid "Move selected"
 msgstr ""
 
 #: move_all
-msgctxt "move_all"
 msgid "Move all"
 msgstr ""
 
 #: remove_selected
-msgctxt "remove_selected"
 msgid "Remove selected"
 msgstr ""
 
 #: remove_all
-msgctxt "remove_all"
 msgid "Remove all"
 msgstr ""
 
@@ -468,11 +390,6 @@ msgstr "Type de données"
 msgid "Validation rules"
 msgstr "Règles de validation"
 
-#: saved
-msgctxt "saved"
-msgid "Saved"
-msgstr ""
-
 #: last_updated
 msgid "Last updated"
 msgstr "Dernière mise à jour"
@@ -488,11 +405,6 @@ msgstr "Opérateur"
 #: data_elements
 msgid "Data elements"
 msgstr "Eléments de donnée"
-
-#: data_dictionary
-msgctxt "data_dictionary"
-msgid "Data dictionary"
-msgstr ""
 
 #: data_value
 msgctxt "data_value"
@@ -631,11 +543,6 @@ msgstr "Importation des associations ensembles de données et formulaire"
 msgid "Importing organisation units"
 msgstr "Importation des unités d'organisation"
 
-#: importing_organisation_unit_relationships
-msgctxt "importing_organisation_unit_relationships"
-msgid "Importing organisation unit relationships"
-msgstr ""
-
 #: importing_organisation_unit_groups
 msgid "Importing organisation unit groups"
 msgstr "Importation des groupes d'unités d'organisation"
@@ -657,7 +564,6 @@ msgid "Importing organisation unit structures"
 msgstr "Importation des structures d'unités d'organisation"
 
 #: importing_organisation_unit_relationships
-msgctxt "importing_organisation_unit_relationships"
 msgid "Importing organisation unit relationships"
 msgstr ""
 
@@ -821,7 +727,6 @@ msgid "Report table"
 msgstr "Tableau de rapport"
 
 #: data_dictionary
-msgctxt "data_dictionary"
 msgid "Data dictionary"
 msgstr ""
 
@@ -914,7 +819,6 @@ msgid "Imported meta data"
 msgstr "Métadonnées importées"
 
 #: saved
-msgctxt "saved"
 msgid "Saved"
 msgstr ""
 
@@ -954,11 +858,6 @@ msgstr "Nom de tableau"
 #: mode
 msgid "Mode"
 msgstr "Mode"
-
-#: regression
-msgctxt "regression"
-msgid "Regression"
-msgstr ""
 
 #: reporting_month
 msgid "Reporting month"
@@ -1075,7 +974,6 @@ msgid "Process failed - See log for details"
 msgstr "Echec du processus - voir le log pour les détails"
 
 #: configuration
-msgctxt "configuration"
 msgid "Configuration"
 msgstr "Paramétrage"
 
@@ -1100,7 +998,6 @@ msgid "Horizontal plot orientation"
 msgstr "Orientation horizontale du champs"
 
 #: regression
-msgctxt "regression"
 msgid "Regression"
 msgstr ""
 

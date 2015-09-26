@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -213,11 +213,6 @@ msgstr "កន្លែងបញ្ជូលទិន្នន័យតម្រ
 msgid "The following values violate validation rules"
 msgstr "តម្លៃទិន្នន័យដែលបានបញ្ជូលមិនត្រឹមត្រូវក្នុងការកំណត់"
 
-#: value
-msgctxt "value"
-msgid "Value"
-msgstr "តម្លៃ"
-
 #: operator
 msgid "Operator"
 msgstr "សញ្ញា​​​ប្រមាណ​វិធី"
@@ -278,11 +273,6 @@ msgstr ""
 msgid "Undo register complete data set success"
 msgstr ""
 
-#: datavalue_history
-msgctxt "datavalue_history"
-msgid "Data value history"
-msgstr "តម្លៃទិន្នន័យពីមុន"
-
 #: enter_digits
 msgid "Enter digit only."
 msgstr "បញ្ចូលបានតែតួរលេខប៉ុណ្ណោះ"
@@ -298,7 +288,6 @@ msgid ""
 msgstr ""
 
 #: datavalue_history
-msgctxt "datavalue_history"
 msgid "Data value history"
 msgstr "តម្លៃទិន្នន័យពីមុន"
 
@@ -351,7 +340,6 @@ msgid "On"
 msgstr "បង្ហាញ"
 
 #: value
-msgctxt "value"
 msgid "Value"
 msgstr "តម្លៃ"
 

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"POT-Creation-Date: 2015-09-26 17:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,11 +48,6 @@ msgstr "Konfirmasi"
 #: select_the_new_parent_org_unit_for_the_one_to_move
 msgid "Select the new parent organisation unit for the one to move"
 msgstr "Pilih induk unit organisasi yang baru sebagai tempat tujuan perpindahan"
-
-#: not_selected_moved_to_root_position
-msgctxt "not_selected_moved_to_root_position"
-msgid "Not selected, moved to root position"
-msgstr ""
 
 #: reset
 msgid "Reset"
@@ -151,7 +146,6 @@ msgid "The organisation unit to move is approved"
 msgstr "Pemindahan unit organisasi dipindahkan"
 
 #: not_selected_moved_to_root_position
-msgctxt "not_selected_moved_to_root_position"
 msgid "Not selected, moved to root position"
 msgstr ""
 
@@ -200,11 +194,6 @@ msgstr ""
 "Penyimpanan set grup unit organisasi gagal dilakukan dengan pesan sebagai "
 "berikut"
 
-#: create_new_org_unit_group_set
-msgctxt "create_new_org_unit_group_set"
-msgid "Create new organisation unit group set"
-msgstr ""
-
 #: compulsory
 msgid "Compulsory"
 msgstr "Wajib"
@@ -218,7 +207,6 @@ msgid "Exclusive"
 msgstr "Eksklusif"
 
 #: create_new_org_unit_group_set
-msgctxt "create_new_org_unit_group_set"
 msgid "Create new organisation unit group set"
 msgstr ""
 
@@ -394,11 +382,6 @@ msgstr "Kriteria"
 msgid "Options"
 msgstr "Opsi"
 
-#: all
-msgctxt "all"
-msgid "All"
-msgstr ""
-
 #: search
 msgid "Search"
 msgstr "Cari"
@@ -412,7 +395,6 @@ msgid "Found"
 msgstr "Ditemukan"
 
 #: all
-msgctxt "all"
 msgid "All"
 msgstr ""
 

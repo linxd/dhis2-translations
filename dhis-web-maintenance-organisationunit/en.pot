@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 08:10+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,11 +47,6 @@ msgstr ""
 
 #: select_the_new_parent_org_unit_for_the_one_to_move
 msgid "Select the new parent organisation unit for the one to move"
-msgstr ""
-
-#: not_selected_moved_to_root_position
-msgctxt "not_selected_moved_to_root_position"
-msgid "Not selected, moved to root position"
 msgstr ""
 
 #: reset
@@ -143,7 +138,6 @@ msgid "The organisation unit to move is approved"
 msgstr ""
 
 #: not_selected_moved_to_root_position
-msgctxt "not_selected_moved_to_root_position"
 msgid "Not selected, moved to root position"
 msgstr ""
 
@@ -186,11 +180,6 @@ msgid ""
 "Saving the organisation unit group set failed with the following message"
 msgstr ""
 
-#: create_new_org_unit_group_set
-msgctxt "create_new_org_unit_group_set"
-msgid "Create new organisation unit group set"
-msgstr ""
-
 #: compulsory
 msgid "Compulsory"
 msgstr ""
@@ -204,7 +193,6 @@ msgid "Exclusive"
 msgstr ""
 
 #: create_new_org_unit_group_set
-msgctxt "create_new_org_unit_group_set"
 msgid "Create new organisation unit group set"
 msgstr ""
 
@@ -368,11 +356,6 @@ msgstr ""
 msgid "Options"
 msgstr ""
 
-#: all
-msgctxt "all"
-msgid "All"
-msgstr ""
-
 #: search
 msgid "Search"
 msgstr ""
@@ -386,7 +369,6 @@ msgid "Found"
 msgstr ""
 
 #: all
-msgctxt "all"
 msgid "All"
 msgstr ""
 

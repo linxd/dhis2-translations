@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -408,10 +408,6 @@ msgstr "Aplicando as relações de unidades organizacionais"
 #: assigning
 msgid "Assigning"
 msgstr "Atribuindo"
-
-#: no
-msgid "no"
-msgstr "não"
 
 #: creating_map
 msgid "Creating map.."
@@ -1122,11 +1118,6 @@ msgstr "Camada da US"
 msgid "Set thematic map date type"
 msgstr "Atribuir o tipo de data do mapa temático"
 
-#: manage_favorites
-msgctxt "manage_favorites"
-msgid "Manage favorites"
-msgstr "Gerir favoritos"
-
 #: tools
 msgid "Tools"
 msgstr "Ferramentas"
@@ -1138,11 +1129,6 @@ msgstr "Camadas"
 #: edit_layer
 msgid "Edit layer"
 msgstr "Editar camadas"
-
-#: clear
-msgctxt "clear"
-msgid "Clear"
-msgstr "Limpar"
 
 #: search
 msgid "Search"
@@ -1658,7 +1644,6 @@ msgid "Open last chart"
 msgstr ""
 
 #: clear
-msgctxt "clear"
 msgid "Clear"
 msgstr "Limpar"
 
@@ -1675,12 +1660,6 @@ msgid "Initializing"
 msgstr ""
 
 #: created_by
-msgctxt "created_by"
-msgid "Created by"
-msgstr ""
-
-#: created_by
-msgctxt "created_by"
 msgid "Created by"
 msgstr ""
 
@@ -1689,7 +1668,6 @@ msgid "Clear map"
 msgstr ""
 
 #: manage_favorites
-msgctxt "manage_favorites"
 msgid "Manage favorites"
 msgstr "Gerir favoritos"
 

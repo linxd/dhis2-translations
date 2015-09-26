@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -408,10 +408,6 @@ msgstr "Đang gán quan hệ cho đơn vị"
 #: assigning
 msgid "Assigning"
 msgstr "Đang gán"
-
-#: no
-msgid "no"
-msgstr ""
 
 #: creating_map
 msgid "Creating map.."
@@ -1122,11 +1118,6 @@ msgstr "Lớp biểu tượng"
 msgid "Set thematic map date type"
 msgstr "Xác định loại ngày bản đồ"
 
-#: manage_favorites
-msgctxt "manage_favorites"
-msgid "Manage favorites"
-msgstr ""
-
 #: tools
 msgid "Tools"
 msgstr "Các công cụ"
@@ -1138,11 +1129,6 @@ msgstr "Các lớp"
 #: edit_layer
 msgid "Edit layer"
 msgstr "Chỉnh sửa lớp"
-
-#: clear
-msgctxt "clear"
-msgid "Clear"
-msgstr ""
 
 #: search
 msgid "Search"
@@ -1658,7 +1644,6 @@ msgid "Open last chart"
 msgstr "Mở biểu đồ mới nhất"
 
 #: clear
-msgctxt "clear"
 msgid "Clear"
 msgstr ""
 
@@ -1675,12 +1660,6 @@ msgid "Initializing"
 msgstr "Khởi tạo"
 
 #: created_by
-msgctxt "created_by"
-msgid "Created by"
-msgstr "Được tạo bởi"
-
-#: created_by
-msgctxt "created_by"
 msgid "Created by"
 msgstr "Được tạo bởi"
 
@@ -1689,7 +1668,6 @@ msgid "Clear map"
 msgstr "Xóa bản đồ"
 
 #: manage_favorites
-msgctxt "manage_favorites"
 msgid "Manage favorites"
 msgstr ""
 

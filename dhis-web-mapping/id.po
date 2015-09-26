@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -409,10 +409,6 @@ msgstr "Terapkan relation unit organisasi"
 #: assigning
 msgid "Assigning"
 msgstr "Mendaftarkan"
-
-#: no
-msgid "no"
-msgstr "Tidak"
 
 #: creating_map
 msgid "Creating map.."
@@ -1123,11 +1119,6 @@ msgstr "Facility layer"
 msgid "Set thematic map date type"
 msgstr "Set tanggal peta tematik"
 
-#: manage_favorites
-msgctxt "manage_favorites"
-msgid "Manage favorites"
-msgstr "Pengaturan favorites"
-
 #: tools
 msgid "Tools"
 msgstr "Alat"
@@ -1139,11 +1130,6 @@ msgstr "Layer"
 #: edit_layer
 msgid "Edit layer"
 msgstr "Edit layer"
-
-#: clear
-msgctxt "clear"
-msgid "Clear"
-msgstr "Hapus"
 
 #: search
 msgid "Search"
@@ -1661,7 +1647,6 @@ msgid "Open last chart"
 msgstr ""
 
 #: clear
-msgctxt "clear"
 msgid "Clear"
 msgstr "Hapus"
 
@@ -1678,12 +1663,6 @@ msgid "Initializing"
 msgstr ""
 
 #: created_by
-msgctxt "created_by"
-msgid "Created by"
-msgstr ""
-
-#: created_by
-msgctxt "created_by"
 msgid "Created by"
 msgstr ""
 
@@ -1692,7 +1671,6 @@ msgid "Clear map"
 msgstr ""
 
 #: manage_favorites
-msgctxt "manage_favorites"
 msgid "Manage favorites"
 msgstr "Pengaturan favorites"
 

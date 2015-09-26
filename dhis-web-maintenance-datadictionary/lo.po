@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"POT-Creation-Date: 2015-09-26 17:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,16 +49,6 @@ msgstr "Selected categories"
 msgid "Available categories"
 msgstr "Available categories"
 
-#: category
-msgctxt "category"
-msgid "Category"
-msgstr "Category"
-
-#: category_option
-msgctxt "category_option"
-msgid "Category Option"
-msgstr "Category Option"
-
 #: data_element_category_management
 msgid "Data element category management"
 msgstr "Data element category management"
@@ -99,10 +89,6 @@ msgstr "Category Combination"
 #: data_element_category_combo_details
 msgid "Data element category combo details"
 msgstr "Data element category combo details"
-
-#: category_combo
-msgid "Combination of categories"
-msgstr "Category Combination"
 
 #: data_element_category
 msgid "Data Element Category"
@@ -171,11 +157,6 @@ msgstr "Create new indicator"
 #: create_new_indicator_group
 msgid "Create new indicator group"
 msgstr "Create new indicator group"
-
-#: available_indicators
-msgctxt "available_indicators"
-msgid "Available indicators"
-msgstr "Available indicators"
 
 #: create_new_indicator_type
 msgid "Create new indicator type"
@@ -253,10 +234,6 @@ msgstr "Are you sure you want to delete this data element?"
 msgid "Are you sure you want to delete this data element group?"
 msgstr "Are you sure you want to delete this data element group?"
 
-#: confirm_delete_indicator
-msgid "Are you sure you want to delete this indicator?"
-msgstr "Do you want to delete indicator?"
-
 #: confirm_delete_indicator_group
 msgid "Are you sure you want to delete this indicator group?"
 msgstr "Are you sure you want to delete this indicator group?"
@@ -280,14 +257,6 @@ msgstr "Adding the data element group failed with the following message"
 #: saving_data_element_group_failed
 msgid "Saving the data element group failed with the following message"
 msgstr "Saving the data element group failed with the following message"
-
-#: adding_indicator_failed
-msgid "Adding the indicator failed with the following message"
-msgstr "Adding indicator failed"
-
-#: saving_indicator_failed
-msgid "Saving the indicator failed with the following message"
-msgstr "Saving indicator failed"
 
 #: adding_indicator_group_failed
 msgid "Adding the indicator group failed with the following message"
@@ -354,7 +323,6 @@ msgid "Selected indicators"
 msgstr "Selected indicators"
 
 #: available_indicators
-msgctxt "available_indicators"
 msgid "Available indicators"
 msgstr "Available indicators"
 
@@ -686,11 +654,6 @@ msgstr "Available data element group sets"
 msgid "Selected data element group sets"
 msgstr "Selected data element group sets"
 
-#: concept_name
-msgctxt "concept_name"
-msgid "Concept name"
-msgstr "Concept name"
-
 #: available_groups
 msgid "Available Groups"
 msgstr "Available Groups"
@@ -720,7 +683,6 @@ msgid "Edit concept"
 msgstr "Edit concept"
 
 #: concept_name
-msgctxt "concept_name"
 msgid "Concept name"
 msgstr "Concept name"
 
@@ -887,12 +849,10 @@ msgid "Organisation unit counts"
 msgstr "Organisation unit counts"
 
 #: category_option
-msgctxt "category_option"
 msgid "Category Option"
 msgstr "Category Option"
 
 #: category
-msgctxt "category"
 msgid "Category"
 msgstr "Category"
 

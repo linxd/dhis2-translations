@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -216,11 +216,6 @@ msgstr ""
 msgid "The following values violate validation rules"
 msgstr "Los siguientes valores violan las reglas de validación"
 
-#: value
-msgctxt "value"
-msgid "Value"
-msgstr ""
-
 #: operator
 msgid "Operator"
 msgstr "Operador"
@@ -281,11 +276,6 @@ msgstr "Ha fallado el registro completo del set de datos"
 msgid "Undo register complete data set success"
 msgstr "Deshecho registro completo de set de datos"
 
-#: datavalue_history
-msgctxt "datavalue_history"
-msgid "Data value history"
-msgstr ""
-
 #: enter_digits
 msgid "Enter digit only."
 msgstr "Introduzca solo números."
@@ -302,7 +292,6 @@ msgstr ""
 "Este elemento no permite valores 0. El valor original no será modificado."
 
 #: datavalue_history
-msgctxt "datavalue_history"
 msgid "Data value history"
 msgstr ""
 
@@ -355,7 +344,6 @@ msgid "On"
 msgstr "En"
 
 #: value
-msgctxt "value"
 msgid "Value"
 msgstr ""
 

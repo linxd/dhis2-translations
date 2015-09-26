@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"POT-Creation-Date: 2015-09-26 17:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -164,10 +164,6 @@ msgstr "Short name in use"
 #: code_in_use
 msgid "Code is in use"
 msgstr "Code in use"
-
-#: program_stage_sort_order
-msgid "Program Stage Sort Order"
-msgstr "Program Stage Sort Order"
 
 #: sort
 msgid "Sort"
@@ -660,10 +656,6 @@ msgstr "Row"
 msgid "Duplicate"
 msgstr "Duplicate"
 
-#: dataelement_group
-msgid "Data Element Group"
-msgstr "Data Element Group"
-
 #: option_combo
 msgid "Option combination"
 msgstr "Option combination"
@@ -687,11 +679,6 @@ msgstr "Edit aggregation query builder"
 #: program_properties
 msgid "Program properties"
 msgstr "Program properties"
-
-#: orgunit
-msgctxt "orgunit"
-msgid "Organisation unit"
-msgstr "Organisation unit"
 
 #: validation_criteria_details
 msgid "Validation criteria details"
@@ -720,11 +707,6 @@ msgstr "Program validation rule details"
 #: view_validation_rules
 msgid "View validation rules"
 msgstr "View validation rules"
-
-#: tracked_entity_attribute_group_sort_order
-msgctxt "tracked_entity_attribute_group_sort_order"
-msgid "Tracked entity attribute group sort order"
-msgstr "Tracked entity attribute group sort order"
 
 #: scheduled_days_from_start
 msgid "Scheduled days from start"
@@ -1037,7 +1019,6 @@ msgid "Display date of incident"
 msgstr "Display date of incident"
 
 #: tracked_entity_attribute_group_sort_order
-msgctxt "tracked_entity_attribute_group_sort_order"
 msgid "Tracked entity attribute group sort order"
 msgstr "Tracked entity attribute group sort order"
 
@@ -1061,11 +1042,6 @@ msgstr "Update program stage section"
 msgid "Section management"
 msgstr "Section management"
 
-#: sort_order
-msgctxt "sort_order"
-msgid "Sort order"
-msgstr "Sort order"
-
 #: program_stage_section_sort_order
 msgid "Program stage section sort order"
 msgstr "Program stage section sort order"
@@ -1086,11 +1062,6 @@ msgstr "Available attributes"
 #: select_attributes
 msgid "Select attributes"
 msgstr "Select attributes"
-
-#: attributes
-msgctxt "attributes"
-msgid "Attributes"
-msgstr "Attributes"
 
 #: displayed_in_list
 msgid "Display in list"
@@ -1919,11 +1890,6 @@ msgstr "Select at least one scope for local id"
 msgid "Scheduling of events"
 msgstr "Scheduling of events"
 
-#: show_advanced_options
-msgctxt "show_advanced_options"
-msgid "Show advanced options"
-msgstr "Show advanced options"
-
 #: tracker_associate
 msgid "Tracker associate"
 msgstr "Tracker associate"
@@ -2062,7 +2028,6 @@ msgid "Auto save registration form "
 msgstr "Auto save registration form "
 
 #: show_advanced_options
-msgctxt "show_advanced_options"
 msgid "Show advanced options"
 msgstr "Show advanced options"
 
@@ -2115,7 +2080,6 @@ msgid "Program stage sort order"
 msgstr "Program Stage Sort Order"
 
 #: sort_order
-msgctxt "sort_order"
 msgid "Sort order"
 msgstr "Sort order"
 
@@ -2135,27 +2099,12 @@ msgstr ""
 msgid "Period type"
 msgstr ""
 
-#: create_new_program_rule
-msgctxt "create_new_program_rule"
-msgid "Create new program rule"
-msgstr ""
-
-#: program_rule_details
-msgctxt "program_rule_details"
-msgid "Program rule details"
-msgstr ""
-
 #: source_fields
 msgid "Source fields"
 msgstr ""
 
 #: expression_evaluate_the_source_fields
 msgid "Expression - evaluate the source fields"
-msgstr ""
-
-#: add_source_field
-msgctxt "add_source_field"
-msgid "Add source field"
 msgstr ""
 
 #: actions_that_is_executed_when_expression_is_true
@@ -2195,18 +2144,11 @@ msgid "Program rule management"
 msgstr ""
 
 #: create_new_program_rule
-msgctxt "create_new_program_rule"
 msgid "Create new program rule"
 msgstr ""
 
 #: program_rule_details
-msgctxt "program_rule_details"
 msgid "Program rule details"
-msgstr ""
-
-#: confirm_delete_program_rule
-msgctxt "confirm_delete_program_rule"
-msgid "Are you sure you want to delete program rule?"
 msgstr ""
 
 #: source_program_stage
@@ -2230,7 +2172,6 @@ msgid "Data element newest event program"
 msgstr ""
 
 #: add_source_field
-msgctxt "add_source_field"
 msgid "Add source field"
 msgstr ""
 
@@ -2243,7 +2184,6 @@ msgid "Source type"
 msgstr ""
 
 #: confirm_delete_program_rule
-msgctxt "confirm_delete_program_rule"
 msgid "Are you sure you want to delete program rule?"
 msgstr ""
 

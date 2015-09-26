@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -217,11 +217,6 @@ msgstr "Les champs suivantes exiger un commentaire, s'il vous plaît entrer"
 msgid "The following values violate validation rules"
 msgstr "Les valeurs suivantes violent les règles de validation"
 
-#: value
-msgctxt "value"
-msgid "Value"
-msgstr ""
-
 #: operator
 msgid "Operator"
 msgstr "Opérateur"
@@ -284,11 +279,6 @@ msgstr ""
 "Succès de l'annullation de l'enregistrement de l'ensemble de données comme "
 "terminé"
 
-#: datavalue_history
-msgctxt "datavalue_history"
-msgid "Data value history"
-msgstr ""
-
 #: enter_digits
 msgid "Enter digit only."
 msgstr "Saisir que des chiffres"
@@ -306,7 +296,6 @@ msgstr ""
 "affectée."
 
 #: datavalue_history
-msgctxt "datavalue_history"
 msgid "Data value history"
 msgstr ""
 
@@ -359,7 +348,6 @@ msgid "On"
 msgstr "Allumé"
 
 #: value
-msgctxt "value"
 msgid "Value"
 msgstr ""
 

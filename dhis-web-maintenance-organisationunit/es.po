@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"POT-Creation-Date: 2015-09-26 17:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,11 +49,6 @@ msgstr "Confirmar"
 msgid "Select the new parent organisation unit for the one to move"
 msgstr ""
 "Seleccionar el nuevo padre para el cual se va a mover la unidad organizativa"
-
-#: not_selected_moved_to_root_position
-msgctxt "not_selected_moved_to_root_position"
-msgid "Not selected, moved to root position"
-msgstr ""
 
 #: reset
 msgid "Reset"
@@ -152,7 +147,6 @@ msgid "The organisation unit to move is approved"
 msgstr "Aprobada la unidad organizativa a mover"
 
 #: not_selected_moved_to_root_position
-msgctxt "not_selected_moved_to_root_position"
 msgid "Not selected, moved to root position"
 msgstr ""
 
@@ -199,11 +193,6 @@ msgstr ""
 "Guardar conjunto del grupo de unidad organizativa falló con el mensaje "
 "siguiente"
 
-#: create_new_org_unit_group_set
-msgctxt "create_new_org_unit_group_set"
-msgid "Create new organisation unit group set"
-msgstr ""
-
 #: compulsory
 msgid "Compulsory"
 msgstr "Obligatorio"
@@ -217,7 +206,6 @@ msgid "Exclusive"
 msgstr "Exclusivo"
 
 #: create_new_org_unit_group_set
-msgctxt "create_new_org_unit_group_set"
 msgid "Create new organisation unit group set"
 msgstr ""
 
@@ -393,11 +381,6 @@ msgstr "Criterios"
 msgid "Options"
 msgstr "Opciones"
 
-#: all
-msgctxt "all"
-msgid "All"
-msgstr ""
-
 #: search
 msgid "Search"
 msgstr "Buscar"
@@ -411,7 +394,6 @@ msgid "Found"
 msgstr "Encontrado"
 
 #: all
-msgctxt "all"
 msgid "All"
 msgstr ""
 

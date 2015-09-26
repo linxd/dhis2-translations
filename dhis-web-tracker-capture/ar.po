@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -116,11 +116,6 @@ msgstr "لايوجد تسجيل ليتم الاعداد"
 #: empty_notes
 msgid "Empty notes list."
 msgstr "لائحة الملاحظات الفارغة"
-
-#: empty
-msgctxt "empty"
-msgid "Empty"
-msgstr "فارغ"
 
 #: event
 msgid "Event"
@@ -243,13 +238,8 @@ msgid "Search"
 msgstr "بحث"
 
 #: _search
-msgid "search  "
+msgid "search"
 msgstr "ابحث"
-
-#: advanced_search
-msgctxt "advanced_search"
-msgid "Advanced search"
-msgstr ""
 
 #: search_for
 msgid "Search for"
@@ -276,7 +266,6 @@ msgid "There are no registered entities"
 msgstr "لاتوجد كيانات مسجلة"
 
 #: empty
-msgctxt "empty"
 msgid "Empty"
 msgstr "فارغ"
 
@@ -360,18 +349,9 @@ msgstr "تفاصيل/تاريخ"
 msgid "History"
 msgstr "تاريخ"
 
-#: complete
-msgctxt "complete"
-msgid "Complete"
-msgstr ""
-
 #: terminate
 msgid "Terminate"
 msgstr "انهاء"
-
-#: completed
-msgid "Completed"
-msgstr ""
 
 #: terminated
 msgid "Terminated"
@@ -409,10 +389,6 @@ msgstr "ابحث عن ملاحظات"
 msgid "Add new note here"
 msgstr "اضف ملاحظة جديدة هنا"
 
-#: skipped
-msgid "Skipped"
-msgstr ""
-
 #: skip
 msgid "Skip"
 msgstr "تخطى"
@@ -422,7 +398,6 @@ msgid "Schedule back"
 msgstr "جدولة سابقة"
 
 #: complete
-msgctxt "complete"
 msgid "Complete"
 msgstr ""
 
@@ -461,11 +436,6 @@ msgstr "تاريخ"
 #: _date
 msgid "date"
 msgstr "تاريخ"
-
-#: add_new
-msgctxt "add_new"
-msgid "Add new"
-msgstr ""
 
 #: event_name
 msgid "Event name"
@@ -535,11 +505,6 @@ msgstr "الصفحة الرئسية"
 msgid "Back"
 msgstr "للخلف"
 
-#: profile
-msgctxt "profile"
-msgid "Profile"
-msgstr ""
-
 #: enrollment
 msgid "Enrollment"
 msgstr "تسجيل"
@@ -597,7 +562,6 @@ msgid "Please select source"
 msgstr "رجاءً اختر مصدراً"
 
 #: register_new
-msgctxt "register_new"
 msgid "Register new"
 msgstr ""
 
@@ -1105,13 +1069,7 @@ msgid "New"
 msgstr "جديد"
 
 #: add_new
-msgctxt "add_new"
 msgid "Add new"
-msgstr ""
-
-#: register_new
-msgctxt "register_new"
-msgid "Register new"
 msgstr ""
 
 #: registration
@@ -1172,10 +1130,6 @@ msgstr ""
 
 #: dashboard_layout_saved
 msgid "Dashboard layout saved as default."
-msgstr ""
-
-#: dashboard_layout_not_saved
-msgid "Error in saving dashboard layout saved as default."
 msgstr ""
 
 #: event_orgunit_name
@@ -1280,12 +1234,10 @@ msgid "Under construction.    "
 msgstr "مازال قيد الانشاء"
 
 #: advanced_search
-msgctxt "advanced_search"
 msgid "Advanced search"
 msgstr ""
 
 #: profile
-msgctxt "profile"
 msgid "Profile"
 msgstr ""
 

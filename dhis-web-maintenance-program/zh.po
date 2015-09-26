@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"POT-Creation-Date: 2015-09-26 17:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -165,10 +165,6 @@ msgstr ""
 msgid "Code is in use"
 msgstr ""
 
-#: program_stage_sort_order
-msgid "Program Stage Sort Order"
-msgstr "项目阶段排序"
-
 #: sort
 msgid "Sort"
 msgstr "排序"
@@ -305,7 +301,6 @@ msgstr "数据元"
 
 #: tracked_entity_attributes
 msgctxt "tracked_entity_attributes"
-"tracked_entity_attributes"
 msgid "Attributes"
 msgstr ""
 
@@ -642,10 +637,6 @@ msgstr "排"
 msgid "Duplicate"
 msgstr "重复的"
 
-#: dataelement_group
-msgid "Data Element Group"
-msgstr "数据元组"
-
 #: option_combo
 msgid "Option combination"
 msgstr "选项组合"
@@ -669,11 +660,6 @@ msgstr ""
 #: program_properties
 msgid "Program properties"
 msgstr "项目性质"
-
-#: orgunit
-msgctxt "orgunit"
-msgid "Organisation unit"
-msgstr "组织机构"
 
 #: validation_criteria_details
 msgid "Validation criteria details"
@@ -701,11 +687,6 @@ msgstr ""
 
 #: view_validation_rules
 msgid "View validation rules"
-msgstr ""
-
-#: tracked_entity_attribute_group_sort_order
-msgctxt "tracked_entity_attribute_group_sort_order"
-msgid "Tracked entity attribute group sort order"
 msgstr ""
 
 #: scheduled_days_from_start
@@ -1017,7 +998,6 @@ msgid "Display date of incident"
 msgstr "显示事故日期"
 
 #: tracked_entity_attribute_group_sort_order
-msgctxt "tracked_entity_attribute_group_sort_order"
 msgid "Tracked entity attribute group sort order"
 msgstr ""
 
@@ -1041,11 +1021,6 @@ msgstr "更新项目阶段分区"
 msgid "Section management"
 msgstr "分区管理"
 
-#: sort_order
-msgctxt "sort_order"
-msgid "Sort order"
-msgstr "排序"
-
 #: program_stage_section_sort_order
 msgid "Program stage section sort order"
 msgstr "项目阶段分区排序"
@@ -1066,11 +1041,6 @@ msgstr ""
 #: select_attributes
 msgid "Select attributes"
 msgstr ""
-
-#: attributes
-msgctxt "attributes"
-msgid "Attributes"
-msgstr "属性"
 
 #: displayed_in_list
 msgid "Display in list"
@@ -1889,11 +1859,6 @@ msgstr ""
 msgid "Scheduling of events"
 msgstr ""
 
-#: show_advanced_options
-msgctxt "show_advanced_options"
-msgid "Show advanced options"
-msgstr ""
-
 #: tracker_associate
 msgid "Tracker associate"
 msgstr ""
@@ -2032,7 +1997,6 @@ msgid "Auto save registration form "
 msgstr ""
 
 #: show_advanced_options
-msgctxt "show_advanced_options"
 msgid "Show advanced options"
 msgstr ""
 
@@ -2085,7 +2049,6 @@ msgid "Program stage sort order"
 msgstr "项目阶段排序"
 
 #: sort_order
-msgctxt "sort_order"
 msgid "Sort order"
 msgstr "排序"
 
@@ -2105,27 +2068,12 @@ msgstr ""
 msgid "Period type"
 msgstr ""
 
-#: create_new_program_rule
-msgctxt "create_new_program_rule"
-msgid "Create new program rule"
-msgstr ""
-
-#: program_rule_details
-msgctxt "program_rule_details"
-msgid "Program rule details"
-msgstr ""
-
 #: source_fields
 msgid "Source fields"
 msgstr ""
 
 #: expression_evaluate_the_source_fields
 msgid "Expression - evaluate the source fields"
-msgstr ""
-
-#: add_source_field
-msgctxt "add_source_field"
-msgid "Add source field"
 msgstr ""
 
 #: actions_that_is_executed_when_expression_is_true
@@ -2165,18 +2113,11 @@ msgid "Program rule management"
 msgstr ""
 
 #: create_new_program_rule
-msgctxt "create_new_program_rule"
 msgid "Create new program rule"
 msgstr ""
 
 #: program_rule_details
-msgctxt "program_rule_details"
 msgid "Program rule details"
-msgstr ""
-
-#: confirm_delete_program_rule
-msgctxt "confirm_delete_program_rule"
-msgid "Are you sure you want to delete program rule?"
 msgstr ""
 
 #: source_program_stage
@@ -2200,7 +2141,6 @@ msgid "Data element newest event program"
 msgstr ""
 
 #: add_source_field
-msgctxt "add_source_field"
 msgid "Add source field"
 msgstr ""
 
@@ -2213,7 +2153,6 @@ msgid "Source type"
 msgstr ""
 
 #: confirm_delete_program_rule
-msgctxt "confirm_delete_program_rule"
 msgid "Are you sure you want to delete program rule?"
 msgstr ""
 

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"POT-Creation-Date: 2015-09-26 17:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,15 +16,6 @@ msgstr ""
 #: remove_all
 msgid "Remove All Locks"
 msgstr "Remove All Locks"
-
-#: done
-msgctxt "done"
-msgid "Done"
-msgstr ""
-
-#: loading
-msgid "Loading, please wait"
-msgstr ""
 
 #: optional
 msgid "Optional"
@@ -114,21 +105,6 @@ msgstr "Second Level Cache Statistics"
 msgid "Region name"
 msgstr "Region name"
 
-#: put_count
-msgctxt "put_count"
-msgid "Put count"
-msgstr ""
-
-#: hit_count
-msgctxt "hit_count"
-msgid "Hit count"
-msgstr ""
-
-#: miss_count
-msgctxt "miss_count"
-msgid "Miss count"
-msgstr ""
-
 #: mem_count
 msgid "Mem count"
 msgstr "Mem count"
@@ -158,17 +134,14 @@ msgid "Query name"
 msgstr "Query name"
 
 #: put_count
-msgctxt "put_count"
 msgid "Put count"
 msgstr ""
 
 #: hit_count
-msgctxt "hit_count"
 msgid "Hit count"
 msgstr ""
 
 #: miss_count
-msgctxt "miss_count"
 msgid "Miss count"
 msgstr ""
 
@@ -547,18 +520,6 @@ msgstr "Data element identifier must be a number"
 #: category_option_combo_id_not_numeric
 msgid "Category option combo identifier must be a number"
 msgstr "Category option combo identifier must be a number"
-
-#: data_element_does_not_exist
-msgid "Identifier does not reference a data element"
-msgstr ""
-
-#: category_option_combo_does_not_exist
-msgid "Identifier does not reference a category option combo"
-msgstr ""
-
-#: org_unit_group_does_not_exist
-msgid "Organisation unit group does not exist"
-msgstr ""
 
 #: expression_not_well_formed
 msgid "Expression is not well formed"
@@ -1289,10 +1250,6 @@ msgstr "Aggregation period types"
 msgid "active"
 msgstr "active"
 
-#: done
-msgid "done"
-msgstr ""
-
 #: resource_tables
 msgid "Resource tables"
 msgstr "Resource tables"
@@ -1398,13 +1355,8 @@ msgid "Options"
 msgstr "Options"
 
 #: option
-msgid "Option "
+msgid "Option"
 msgstr "Option "
-
-#: add_option
-msgctxt "add_option"
-msgid "Add option"
-msgstr "Add Option"
 
 #: edit_option_set
 msgid "Edit option set"
@@ -1491,7 +1443,6 @@ msgid "Generating min-max values"
 msgstr "Generating min-max values"
 
 #: done
-msgctxt "done"
 msgid "Done"
 msgstr ""
 
@@ -1608,7 +1559,6 @@ msgid "Option management"
 msgstr ""
 
 #: add_option
-msgctxt "add_option"
 msgid "Add option"
 msgstr "Add Option"
 

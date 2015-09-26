@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -561,21 +561,6 @@ msgstr ""
 msgid "Aggregation type"
 msgstr ""
 
-#: count
-msgctxt "count"
-msgid "Count"
-msgstr ""
-
-#: sum
-msgctxt "sum"
-msgid "Sum"
-msgstr ""
-
-#: by_data_element
-msgctxt "by_data_element"
-msgid "By data element"
-msgstr ""
-
 #: relative_periods
 msgid "Relative periods"
 msgstr ""
@@ -837,17 +822,14 @@ msgid "Average"
 msgstr ""
 
 #: count
-msgctxt "count"
 msgid "Count"
 msgstr ""
 
 #: sum
-msgctxt "sum"
 msgid "Sum"
 msgstr ""
 
 #: by_data_element
-msgctxt "by_data_element"
 msgid "By data element"
 msgstr ""
 

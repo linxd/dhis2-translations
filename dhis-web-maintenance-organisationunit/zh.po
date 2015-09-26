@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"POT-Creation-Date: 2015-09-26 17:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,11 +48,6 @@ msgstr "确认"
 #: select_the_new_parent_org_unit_for_the_one_to_move
 msgid "Select the new parent organisation unit for the one to move"
 msgstr "为要移动的机构选择新的上级组织机构"
-
-#: not_selected_moved_to_root_position
-msgctxt "not_selected_moved_to_root_position"
-msgid "Not selected, moved to root position"
-msgstr "不选，移至顶层"
 
 #: reset
 msgid "Reset"
@@ -143,7 +138,6 @@ msgid "The organisation unit to move is approved"
 msgstr "组织机构移动已经核准"
 
 #: not_selected_moved_to_root_position
-msgctxt "not_selected_moved_to_root_position"
 msgid "Not selected, moved to root position"
 msgstr "不选，移至顶层"
 
@@ -186,11 +180,6 @@ msgid ""
 "Saving the organisation unit group set failed with the following message"
 msgstr "保存组织机构组集失败并产生下列信息"
 
-#: create_new_org_unit_group_set
-msgctxt "create_new_org_unit_group_set"
-msgid "Create new organisation unit group set"
-msgstr "创造新的组织机构组集"
-
 #: compulsory
 msgid "Compulsory"
 msgstr "强制"
@@ -204,7 +193,6 @@ msgid "Exclusive"
 msgstr "互斥"
 
 #: create_new_org_unit_group_set
-msgctxt "create_new_org_unit_group_set"
 msgid "Create new organisation unit group set"
 msgstr "创造新的组织机构组集"
 
@@ -368,11 +356,6 @@ msgstr "标准"
 msgid "Options"
 msgstr "选项"
 
-#: all
-msgctxt "all"
-msgid "All"
-msgstr "全部"
-
 #: search
 msgid "Search"
 msgstr "搜索"
@@ -386,7 +369,6 @@ msgid "Found"
 msgstr "发现"
 
 #: all
-msgctxt "all"
 msgid "All"
 msgstr "全部"
 

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -218,11 +218,6 @@ msgid "The following values violate validation rules"
 msgstr ""
 "အောက်ပါတန်ဖိုးတို့သည်မှန်ကန်မှုစစ်ဆေးခြင်းစည်းမျဉ်းများကိုပျက်ပြားစေသည်။"
 
-#: value
-msgctxt "value"
-msgid "Value"
-msgstr ""
-
 #: operator
 msgid "Operator"
 msgstr "ကိုင်တွယ်သူ"
@@ -283,11 +278,6 @@ msgstr "ပြည့်စုံသော data အစု စာရင်းသ�
 msgid "Undo register complete data set success"
 msgstr "ပြီးသွားသော data အစု စာရင်းသွင်းခြင်းကို မလုပ်တော့ပါ။"
 
-#: datavalue_history
-msgctxt "datavalue_history"
-msgid "Data value history"
-msgstr ""
-
 #: enter_digits
 msgid "Enter digit only."
 msgstr "ကိန်းဂဏန်းများသာရိုက်ထည့်ပါ။"
@@ -305,7 +295,6 @@ msgstr ""
 "အကျိုးသက်ရောက်မည်မဟုတ်ပါ။"
 
 #: datavalue_history
-msgctxt "datavalue_history"
 msgid "Data value history"
 msgstr ""
 
@@ -358,7 +347,6 @@ msgid "On"
 msgstr "တွင်"
 
 #: value
-msgctxt "value"
 msgid "Value"
 msgstr ""
 

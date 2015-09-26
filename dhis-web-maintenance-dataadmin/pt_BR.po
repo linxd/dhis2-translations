@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"POT-Creation-Date: 2015-09-26 17:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,15 +16,6 @@ msgstr ""
 #: remove_all
 msgid "Remove All Locks"
 msgstr "Remover todos trancados"
-
-#: done
-msgctxt "done"
-msgid "Done"
-msgstr "done"
-
-#: loading
-msgid "Loading, please wait"
-msgstr "Carregando, por favor epere"
 
 #: optional
 msgid "Optional"
@@ -114,21 +105,6 @@ msgstr "Estatísticas cache de segundo nível"
 msgid "Region name"
 msgstr "Region name"
 
-#: put_count
-msgctxt "put_count"
-msgid "Put count"
-msgstr "Put count"
-
-#: hit_count
-msgctxt "hit_count"
-msgid "Hit count"
-msgstr "Hit Put count"
-
-#: miss_count
-msgctxt "miss_count"
-msgid "Miss count"
-msgstr "Miss count"
-
 #: mem_count
 msgid "Mem count"
 msgstr "Mem count"
@@ -158,17 +134,14 @@ msgid "Query name"
 msgstr "Query Name"
 
 #: put_count
-msgctxt "put_count"
 msgid "Put count"
 msgstr "Put count"
 
 #: hit_count
-msgctxt "hit_count"
 msgid "Hit count"
 msgstr "Hit Put count"
 
 #: miss_count
-msgctxt "miss_count"
 msgid "Miss count"
 msgstr "Miss count"
 
@@ -548,18 +521,6 @@ msgstr "Identificador de elemento de dado deve ser um número"
 #: category_option_combo_id_not_numeric
 msgid "Category option combo identifier must be a number"
 msgstr "O identificador da combinação de opção de categoria deve ser um número"
-
-#: data_element_does_not_exist
-msgid "Identifier does not reference a data element"
-msgstr "Elemento de dados não existe"
-
-#: category_option_combo_does_not_exist
-msgid "Identifier does not reference a category option combo"
-msgstr "Categoria da opção de combo não existe"
-
-#: org_unit_group_does_not_exist
-msgid "Organisation unit group does not exist"
-msgstr ""
 
 #: expression_not_well_formed
 msgid "Expression is not well formed"
@@ -1292,10 +1253,6 @@ msgstr "Tipos de período de agregação"
 msgid "active"
 msgstr "Em funcionamento"
 
-#: done
-msgid "done"
-msgstr "done"
-
 #: resource_tables
 msgid "Resource tables"
 msgstr "Tabela de recursos"
@@ -1402,13 +1359,8 @@ msgid "Options"
 msgstr "Opções"
 
 #: option
-msgid "Option "
+msgid "Option"
 msgstr "Opção"
-
-#: add_option
-msgctxt "add_option"
-msgid "Add option"
-msgstr "Adiccionar Opção"
 
 #: edit_option_set
 msgid "Edit option set"
@@ -1495,7 +1447,6 @@ msgid "Generating min-max values"
 msgstr "Gerar valor min-max"
 
 #: done
-msgctxt "done"
 msgid "Done"
 msgstr "done"
 
@@ -1612,7 +1563,6 @@ msgid "Option management"
 msgstr ""
 
 #: add_option
-msgctxt "add_option"
 msgid "Add option"
 msgstr "Adiccionar Opção"
 

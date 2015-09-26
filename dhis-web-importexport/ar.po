@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,7 +19,6 @@ msgid "Data Value"
 msgstr "قيمة البيانات"
 
 #: import
-msgctxt "import"
 msgid "Import"
 msgstr "استيراد"
 
@@ -38,16 +37,6 @@ msgstr "تصدير"
 #: action
 msgid "Action"
 msgstr "اجراء"
-
-#: import
-msgctxt "import"
-msgid "Import"
-msgstr "استيراد"
-
-#: preview
-msgctxt "preview"
-msgid "Preview"
-msgstr "معاينة"
 
 #: from
 msgid "From"
@@ -68,26 +57,6 @@ msgstr "عناصر البيانات المحددة"
 #: available_data_elements
 msgid "Available data elements"
 msgstr "عناصر البيانات المتوفرة"
-
-#: move_selected
-msgctxt "move_selected"
-msgid "Move selected"
-msgstr "انقل المحدد"
-
-#: move_all
-msgctxt "move_all"
-msgid "Move all"
-msgstr "انقل الكل"
-
-#: remove_selected
-msgctxt "remove_selected"
-msgid "Remove selected"
-msgstr "احذف المحدد"
-
-#: remove_all
-msgctxt "remove_all"
-msgid "Remove all"
-msgstr "احذف الكل"
 
 #: indicators
 msgid "Indicators"
@@ -133,11 +102,6 @@ msgstr "وحدات التنظيم"
 msgid "Periods"
 msgstr "الفترات"
 
-#: import
-msgctxt "import"
-msgid "Import"
-msgstr "استيراد"
-
 #: importing
 msgid "Importing..."
 msgstr "جاري الاستيراد..."
@@ -149,11 +113,6 @@ msgstr "تمّ"
 #: compare
 msgid "Compare"
 msgstr "قارن"
-
-#: configuration
-msgctxt "configuration"
-msgid "Configuration"
-msgstr "الإعدادات"
 
 #: source
 msgid "Source"
@@ -179,10 +138,6 @@ msgstr "من فضلك حدد ملفا"
 msgid "Data sets"
 msgstr "منظومة البيانات"
 
-#: include_datavalues
-msgid "Include Data Values"
-msgstr "تتضمن قيم البيانات"
-
 #: file
 msgid "File"
 msgstr "ملف"
@@ -203,11 +158,6 @@ msgstr "معاينة التوريد"
 msgid "Select none"
 msgstr "لاتختر شيئا"
 
-#: element
-msgctxt "element"
-msgid "Element"
-msgstr "عنصر"
-
 #: unique
 msgid "Unique"
 msgstr "فريد"
@@ -217,7 +167,6 @@ msgid "Matching"
 msgstr "المطابقة"
 
 #: preview
-msgctxt "preview"
 msgid "Preview"
 msgstr "معاينة"
 
@@ -246,28 +195,6 @@ msgstr "منظومة البيانات"
 msgctxt "organisationunit"
 msgid "Organisation unit"
 msgstr "وحدة التنظيم"
-
-#: data_export
-msgid "DXF Data Value Export"
-msgstr "تصدير قيمة البيانات DXF"
-
-#: datavalue_export
-msgctxt "datavalue_export"
-msgid "Data Export"
-msgstr "تصدير البيانات"
-
-#: metadata_export
-msgid "DXF Metadata Export"
-msgstr "Meta-Data Export"
-
-#: data_export
-msgctxt "data_export"
-msgid "Data Export"
-msgstr "تصدير قيمة البيانات DXF"
-
-#: metadata_export
-msgid "Metadata Export"
-msgstr "Meta-Data Export"
 
 #: data_element_groups
 msgid "Data element groups"
@@ -352,7 +279,6 @@ msgid "Option set"
 msgstr "منظومة الخيارات"
 
 #: element
-msgctxt "element"
 msgid "Element"
 msgstr "عنصر"
 
@@ -425,22 +351,18 @@ msgid "Hide advanced options"
 msgstr "إخفاء الخيارات المتقدمة"
 
 #: move_selected
-msgctxt "move_selected"
 msgid "Move selected"
 msgstr "انقل المحدد"
 
 #: move_all
-msgctxt "move_all"
 msgid "Move all"
 msgstr "انقل الكل"
 
 #: remove_selected
-msgctxt "remove_selected"
 msgid "Remove selected"
 msgstr "احذف المحدد"
 
 #: remove_all
-msgctxt "remove_all"
 msgid "Remove all"
 msgstr "احذف الكل"
 
@@ -468,11 +390,6 @@ msgstr "نوع البيانات"
 msgid "Validation rules"
 msgstr "قوانين المصادقة"
 
-#: saved
-msgctxt "saved"
-msgid "Saved"
-msgstr "تم الحفظ"
-
 #: last_updated
 msgid "Last updated"
 msgstr "التحديث الاخير"
@@ -488,11 +405,6 @@ msgstr "مشغل"
 #: data_elements
 msgid "Data elements"
 msgstr "عناصر البيانات"
-
-#: data_dictionary
-msgctxt "data_dictionary"
-msgid "Data dictionary"
-msgstr "قاموس التاريخ"
 
 #: data_value
 msgctxt "data_value"
@@ -631,11 +543,6 @@ msgstr "استيراد تعاون استمارة ادخال بيانات منظ�
 msgid "Importing organisation units"
 msgstr "استيراد وحدات التنظيم"
 
-#: importing_organisation_unit_relationships
-msgctxt "importing_organisation_unit_relationships"
-msgid "Importing organisation unit relationships"
-msgstr "استيراد علاقات وحدة التنظيم"
-
 #: importing_organisation_unit_groups
 msgid "Importing organisation unit groups"
 msgstr "استيراد مجموعات وحدة التنظيم"
@@ -657,7 +564,6 @@ msgid "Importing organisation unit structures"
 msgstr "استيراد هياكل وحدة التنظيم"
 
 #: importing_organisation_unit_relationships
-msgctxt "importing_organisation_unit_relationships"
 msgid "Importing organisation unit relationships"
 msgstr "استيراد علاقات وحدة التنظيم"
 
@@ -818,7 +724,6 @@ msgid "Report table"
 msgstr "جدول التقرير"
 
 #: data_dictionary
-msgctxt "data_dictionary"
 msgid "Data dictionary"
 msgstr "قاموس التاريخ"
 
@@ -911,7 +816,6 @@ msgid "Imported meta data"
 msgstr "بيانات لشرح البيانات مستوردة"
 
 #: saved
-msgctxt "saved"
 msgid "Saved"
 msgstr "تم الحفظ"
 
@@ -951,11 +855,6 @@ msgstr "اسم الجدول"
 #: mode
 msgid "Mode"
 msgstr "نمط"
-
-#: regression
-msgctxt "regression"
-msgid "Regression"
-msgstr "تراجع "
 
 #: reporting_month
 msgid "Reporting month"
@@ -1071,7 +970,6 @@ msgid "Process failed - See log for details"
 msgstr "فشلت العملية - انظر التسجيل لمزيد من التفاصيل"
 
 #: configuration
-msgctxt "configuration"
 msgid "Configuration"
 msgstr "الإعدادات"
 
@@ -1096,7 +994,6 @@ msgid "Horizontal plot orientation"
 msgstr "توجيه تخطيط افقي"
 
 #: regression
-msgctxt "regression"
 msgid "Regression"
 msgstr "تراجع "
 

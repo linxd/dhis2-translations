@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -561,21 +561,6 @@ msgstr "افتراضي"
 msgid "Aggregation type"
 msgstr "نوع التجميع"
 
-#: count
-msgctxt "count"
-msgid "Count"
-msgstr "عد"
-
-#: sum
-msgctxt "sum"
-msgid "Sum"
-msgstr "حاصل جمع"
-
-#: by_data_element
-msgctxt "by_data_element"
-msgid "By data element"
-msgstr "بواسطة عنصر البيانات"
-
 #: relative_periods
 msgid "Relative periods"
 msgstr "فترات نسبية"
@@ -838,17 +823,14 @@ msgid "Average"
 msgstr ""
 
 #: count
-msgctxt "count"
 msgid "Count"
 msgstr "عد"
 
 #: sum
-msgctxt "sum"
 msgid "Sum"
 msgstr "حاصل جمع"
 
 #: by_data_element
-msgctxt "by_data_element"
 msgid "By data element"
 msgstr "بواسطة عنصر البيانات"
 

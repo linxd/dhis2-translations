@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"POT-Creation-Date: 2015-09-26 17:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -183,11 +183,6 @@ msgstr "Quy tắc hợp lệ"
 msgid "Run validation"
 msgstr "Kiểm tra"
 
-#: validation_alerts
-msgctxt "validation_alerts"
-msgid "Validation alerts"
-msgstr "Luật kiểm tra tính hợp lệ"
-
 #: value
 msgid "Value"
 msgstr "Giá trị"
@@ -315,18 +310,12 @@ msgid "All validation rules"
 msgstr "Tất cả các quy tắc"
 
 #: validation_alerts
-msgctxt "validation_alerts"
 msgid "Validation alerts"
 msgstr "Luật kiểm tra tính hợp lệ"
 
 #: validation_passed_successfully
 msgid "Validation passed successfully"
 msgstr "Kiểm tra thành công"
-
-#: outlier_analysis
-msgctxt "outlier_analysis"
-msgid "Outlier Analysis"
-msgstr "Phân tích outlier"
 
 #: from_date
 msgid "From date"
@@ -361,7 +350,6 @@ msgid "Select parent organisation unit"
 msgstr "Chọn đơn vị cấp cha"
 
 #: outlier_analysis
-msgctxt "outlier_analysis"
 msgid "Outlier Analysis"
 msgstr "Phân tích outlier"
 

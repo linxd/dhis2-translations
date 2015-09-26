@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"POT-Creation-Date: 2015-09-26 17:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,11 +30,6 @@ msgstr "Por favor seleccione um conjunto de grupos"
 #: reporting_unit
 msgid "Reporting unit"
 msgstr "Unidade do relatorio"
-
-#: reporting_period
-msgctxt "reporting_period"
-msgid "Reporting period"
-msgstr "Período de relatório"
 
 #: report_period
 msgid "Report period"
@@ -90,19 +85,9 @@ msgstr "Os indicadores disponíveis"
 msgid "Select indicator group / View all"
 msgstr "Seleccione o grupo de indicador / Ver todos"
 
-#: select_dataelementgroup_all
-msgctxt "select_dataelementgroup_all"
-msgid "Select data element group / View all"
-msgstr "Selecione o grupo do elemento de dado / Ver todos"
-
 #: selected_indicators
 msgid "Selected indicators"
 msgstr "Seleccione indicador"
-
-#: selected_dataelements
-msgctxt "selected_dataelements"
-msgid "Selected data elements"
-msgstr "Os elementos de dados seleccionados"
 
 #: select_organisationunit_level_all
 msgid "Select organsation unit level / View all"
@@ -159,16 +144,6 @@ msgstr "Períodos relativos"
 #: reporting_month
 msgid "Reporting month"
 msgstr "Mes de relatório"
-
-#: months_this_year
-msgctxt "months_this_year"
-msgid "Months this year"
-msgstr "Meses deste ano"
-
-#: quarters_this_year
-msgctxt "quarters_this_year"
-msgid "Quarters this year"
-msgstr "Trimestres deste ano"
 
 #: this_year
 msgid "This year"
@@ -379,17 +354,10 @@ msgid "Available data elements"
 msgstr "Elementos de dados disponíveis"
 
 #: select_dataelementgroup_all
-msgctxt "select_dataelementgroup_all"
 msgid "Select data element group / View all"
 msgstr "Selecione o grupo do elemento de dado / Ver todos"
 
-#: select_category_combo
-msgctxt "select_category_combo"
-msgid "Select category combination"
-msgstr "Seleccione combinação categoria"
-
 #: selected_dataelements
-msgctxt "selected_dataelements"
 msgid "Selected data elements"
 msgstr "Os elementos de dados seleccionados"
 
@@ -402,12 +370,10 @@ msgid "Report table parameters"
 msgstr "Parâmetros da tabela de relatório"
 
 #: months_this_year
-msgctxt "months_this_year"
 msgid "Months this year"
 msgstr "Meses deste ano"
 
 #: quarters_this_year
-msgctxt "quarters_this_year"
 msgid "Quarters this year"
 msgstr "Trimestres deste ano"
 
@@ -446,16 +412,6 @@ msgstr "Tabela Pivot"
 #: indicator_group
 msgid "Indicator group"
 msgstr "Grupo do indicador"
-
-#: start_date
-msgctxt "start_date"
-msgid "Start date"
-msgstr "Data de início"
-
-#: end_date
-msgctxt "end_date"
-msgid "End date"
-msgstr "Data de término"
 
 #: period_type
 msgid "Period type"
@@ -748,11 +704,6 @@ msgstr "Selecione o conjunto do grupo"
 msgid "Organisation unit distribution report"
 msgstr "Relatório de distribuição de unidade organizacional"
 
-#: get_report
-msgctxt "get_report"
-msgid "Get report"
-msgstr "Obter relatório"
-
 #: get_chart
 msgid "Get chart"
 msgstr "Obter gráfico"
@@ -766,7 +717,6 @@ msgid "Select organisation unit"
 msgstr "Seleccione unidade organizacional"
 
 #: get_report
-msgctxt "get_report"
 msgid "Get report"
 msgstr "Obter relatório"
 
@@ -791,7 +741,6 @@ msgid "Download as JRXML"
 msgstr "Baixar como JRXML"
 
 #: select_category_combo
-msgctxt "select_category_combo"
 msgid "Select category combination"
 msgstr "Seleccione combinação categoria"
 
@@ -875,11 +824,6 @@ msgstr "Relatório trimestral"
 msgid "Include org unit group sets param"
 msgstr "Incluir parametros de conjuntos de grupos de unidades organizacionais"
 
-#: reporting_period
-msgctxt "reporting_period"
-msgid "Reporting period"
-msgstr "Período de relatório"
-
 #: last_5_years
 msgid "Last 5 years"
 msgstr "Últimos 5 anos"
@@ -905,12 +849,10 @@ msgid "Selected organisation unit groups"
 msgstr "Grupos de unidades organizacionais selecionadas "
 
 #: start_date
-msgctxt "start_date"
 msgid "Start date"
 msgstr "Data de início"
 
 #: end_date
-msgctxt "end_date"
 msgid "End date"
 msgstr "Data de término"
 
@@ -935,7 +877,6 @@ msgid "Print"
 msgstr "Imprimir"
 
 #: reporting_period
-msgctxt "reporting_period"
 msgid "Reporting period"
 msgstr "Período de relatório"
 

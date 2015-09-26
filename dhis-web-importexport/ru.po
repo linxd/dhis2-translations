@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,7 +19,6 @@ msgid "Data Value"
 msgstr ""
 
 #: import
-msgctxt "import"
 msgid "Import"
 msgstr ""
 
@@ -38,16 +37,6 @@ msgstr "Экспорт"
 #: action
 msgid "Action"
 msgstr "Действие"
-
-#: import
-msgctxt "import"
-msgid "Import"
-msgstr ""
-
-#: preview
-msgctxt "preview"
-msgid "Preview"
-msgstr ""
 
 #: from
 msgid "From"
@@ -68,26 +57,6 @@ msgstr "Выбранные элементы данных"
 #: available_data_elements
 msgid "Available data elements"
 msgstr "Имеющиеся элементы данных"
-
-#: move_selected
-msgctxt "move_selected"
-msgid "Move selected"
-msgstr ""
-
-#: move_all
-msgctxt "move_all"
-msgid "Move all"
-msgstr ""
-
-#: remove_selected
-msgctxt "remove_selected"
-msgid "Remove selected"
-msgstr ""
-
-#: remove_all
-msgctxt "remove_all"
-msgid "Remove all"
-msgstr ""
 
 #: indicators
 msgid "Indicators"
@@ -133,11 +102,6 @@ msgstr "Организация"
 msgid "Periods"
 msgstr "Периоды"
 
-#: import
-msgctxt "import"
-msgid "Import"
-msgstr ""
-
 #: importing
 msgid "Importing..."
 msgstr "Импортированиеâ¦"
@@ -149,11 +113,6 @@ msgstr "Сделано"
 #: compare
 msgid "Compare"
 msgstr "Сравнить"
-
-#: configuration
-msgctxt "configuration"
-msgid "Configuration"
-msgstr ""
 
 #: source
 msgid "Source"
@@ -179,10 +138,6 @@ msgstr "Пожалуйста, уточните файл"
 msgid "Data sets"
 msgstr "Наборы данных"
 
-#: include_datavalues
-msgid "Include Data Values"
-msgstr ""
-
 #: file
 msgid "File"
 msgstr "Файл"
@@ -203,11 +158,6 @@ msgstr "Предварительный просмотр импорта"
 msgid "Select none"
 msgstr "Выбрать один"
 
-#: element
-msgctxt "element"
-msgid "Element"
-msgstr ""
-
 #: unique
 msgid "Unique"
 msgstr "Уникальный"
@@ -217,7 +167,6 @@ msgid "Matching"
 msgstr "Совпадение"
 
 #: preview
-msgctxt "preview"
 msgid "Preview"
 msgstr ""
 
@@ -246,28 +195,6 @@ msgstr "Набор данных"
 msgctxt "organisationunit"
 msgid "Organisation unit"
 msgstr "Организация"
-
-#: data_export
-msgid "DXF Data Value Export"
-msgstr ""
-
-#: datavalue_export
-msgctxt "datavalue_export"
-msgid "Data Export"
-msgstr ""
-
-#: metadata_export
-msgid "DXF Metadata Export"
-msgstr ""
-
-#: data_export
-msgctxt "data_export"
-msgid "Data Export"
-msgstr ""
-
-#: metadata_export
-msgid "Metadata Export"
-msgstr ""
 
 #: data_element_groups
 msgid "Data element groups"
@@ -352,7 +279,6 @@ msgid "Option set"
 msgstr ""
 
 #: element
-msgctxt "element"
 msgid "Element"
 msgstr ""
 
@@ -425,22 +351,18 @@ msgid "Hide advanced options"
 msgstr "Скрыть расширенные опции"
 
 #: move_selected
-msgctxt "move_selected"
 msgid "Move selected"
 msgstr ""
 
 #: move_all
-msgctxt "move_all"
 msgid "Move all"
 msgstr ""
 
 #: remove_selected
-msgctxt "remove_selected"
 msgid "Remove selected"
 msgstr ""
 
 #: remove_all
-msgctxt "remove_all"
 msgid "Remove all"
 msgstr ""
 
@@ -468,11 +390,6 @@ msgstr "Основной тип данных"
 msgid "Validation rules"
 msgstr "Правила проверки"
 
-#: saved
-msgctxt "saved"
-msgid "Saved"
-msgstr ""
-
 #: last_updated
 msgid "Last updated"
 msgstr "Последнее обновление"
@@ -488,11 +405,6 @@ msgstr "Операция"
 #: data_elements
 msgid "Data elements"
 msgstr "Элементы данных"
-
-#: data_dictionary
-msgctxt "data_dictionary"
-msgid "Data dictionary"
-msgstr ""
 
 #: data_value
 msgctxt "data_value"
@@ -631,11 +543,6 @@ msgstr "Импортирование ассоциаций форм ввода д
 msgid "Importing organisation units"
 msgstr "Импортирование организаций"
 
-#: importing_organisation_unit_relationships
-msgctxt "importing_organisation_unit_relationships"
-msgid "Importing organisation unit relationships"
-msgstr ""
-
 #: importing_organisation_unit_groups
 msgid "Importing organisation unit groups"
 msgstr "Импортирование групп организаций"
@@ -657,7 +564,6 @@ msgid "Importing organisation unit structures"
 msgstr "Импортирование структур организации"
 
 #: importing_organisation_unit_relationships
-msgctxt "importing_organisation_unit_relationships"
 msgid "Importing organisation unit relationships"
 msgstr ""
 
@@ -818,7 +724,6 @@ msgid "Report table"
 msgstr "Отчетные таблицы"
 
 #: data_dictionary
-msgctxt "data_dictionary"
 msgid "Data dictionary"
 msgstr ""
 
@@ -911,7 +816,6 @@ msgid "Imported meta data"
 msgstr "Импортированны мета данные"
 
 #: saved
-msgctxt "saved"
 msgid "Saved"
 msgstr ""
 
@@ -951,11 +855,6 @@ msgstr "Название таблицы"
 #: mode
 msgid "Mode"
 msgstr "Режим"
-
-#: regression
-msgctxt "regression"
-msgid "Regression"
-msgstr ""
 
 #: reporting_month
 msgid "Reporting month"
@@ -1075,7 +974,6 @@ msgid "Process failed - See log for details"
 msgstr "Процесс не удался - Детали смотрите в журнале"
 
 #: configuration
-msgctxt "configuration"
 msgid "Configuration"
 msgstr ""
 
@@ -1100,7 +998,6 @@ msgid "Horizontal plot orientation"
 msgstr "Горизонтальное расположение участка"
 
 #: regression
-msgctxt "regression"
 msgid "Regression"
 msgstr ""
 

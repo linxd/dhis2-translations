@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"POT-Creation-Date: 2015-09-26 17:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,15 +16,6 @@ msgstr ""
 #: remove_all
 msgid "Remove All Locks"
 msgstr "lock အားလုံးကို ဖယ်ရှားပါ။"
-
-#: done
-msgctxt "done"
-msgid "Done"
-msgstr ""
-
-#: loading
-msgid "Loading, please wait"
-msgstr ""
 
 #: optional
 msgid "Optional"
@@ -114,21 +105,6 @@ msgstr ""
 msgid "Region name"
 msgstr ""
 
-#: put_count
-msgctxt "put_count"
-msgid "Put count"
-msgstr ""
-
-#: hit_count
-msgctxt "hit_count"
-msgid "Hit count"
-msgstr ""
-
-#: miss_count
-msgctxt "miss_count"
-msgid "Miss count"
-msgstr ""
-
 #: mem_count
 msgid "Mem count"
 msgstr ""
@@ -158,17 +134,14 @@ msgid "Query name"
 msgstr ""
 
 #: put_count
-msgctxt "put_count"
 msgid "Put count"
 msgstr ""
 
 #: hit_count
-msgctxt "hit_count"
 msgid "Hit count"
 msgstr ""
 
 #: miss_count
-msgctxt "miss_count"
 msgid "Miss count"
 msgstr ""
 
@@ -510,18 +483,6 @@ msgstr ""
 
 #: category_option_combo_id_not_numeric
 msgid "Category option combo identifier must be a number"
-msgstr ""
-
-#: data_element_does_not_exist
-msgid "Identifier does not reference a data element"
-msgstr ""
-
-#: category_option_combo_does_not_exist
-msgid "Identifier does not reference a category option combo"
-msgstr ""
-
-#: org_unit_group_does_not_exist
-msgid "Organisation unit group does not exist"
 msgstr ""
 
 #: expression_not_well_formed
@@ -1252,10 +1213,6 @@ msgstr ""
 msgid "active"
 msgstr "running"
 
-#: done
-msgid "done"
-msgstr ""
-
 #: resource_tables
 msgid "Resource tables"
 msgstr ""
@@ -1359,12 +1316,7 @@ msgid "Options"
 msgstr ""
 
 #: option
-msgid "Option "
-msgstr ""
-
-#: add_option
-msgctxt "add_option"
-msgid "Add option"
+msgid "Option"
 msgstr ""
 
 #: edit_option_set
@@ -1452,7 +1404,6 @@ msgid "Generating min-max values"
 msgstr ""
 
 #: done
-msgctxt "done"
 msgid "Done"
 msgstr ""
 
@@ -1569,7 +1520,6 @@ msgid "Option management"
 msgstr ""
 
 #: add_option
-msgctxt "add_option"
 msgid "Add option"
 msgstr ""
 

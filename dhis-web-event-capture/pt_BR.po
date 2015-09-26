@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -55,10 +55,6 @@ msgstr ""
 
 #: validation_error
 msgid "Validation Error"
-msgstr ""
-
-#: validation_warnings
-msgid "Validation Warnings"
 msgstr ""
 
 #: help
@@ -161,12 +157,8 @@ msgstr ""
 msgid "Value must be date"
 msgstr ""
 
-#: option_required
-msgid "Value must be selected from drop-down"
-msgstr ""
-
 #: bool_required
-msgid "Value must be a "
+msgid "Value must be true/false."
 msgstr ""
 
 #: option_required
@@ -469,16 +461,6 @@ msgstr ""
 msgid "Point and click for coordinate"
 msgstr ""
 
-#: loading_tree
-msgctxt "loading_tree"
-msgid "Loading orgunit tree"
-msgstr ""
-
-#: loading_metadata
-msgctxt "loading_metadata"
-msgid "Loading meta-data"
-msgstr ""
-
 #: profile
 msgid "Profile"
 msgstr ""
@@ -574,12 +556,10 @@ msgid "Value must be between [-180 ... 180]"
 msgstr ""
 
 #: loading_tree
-msgctxt "loading_tree"
 msgid "Loading orgunit tree"
 msgstr ""
 
 #: loading_metadata
-msgctxt "loading_metadata"
 msgid "Loading meta-data"
 msgstr ""
 

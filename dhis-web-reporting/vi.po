@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"POT-Creation-Date: 2015-09-26 17:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,11 +30,6 @@ msgstr "Hãy chọn một nhóm"
 #: reporting_unit
 msgid "Reporting unit"
 msgstr "Đơn vị báo cáo"
-
-#: reporting_period
-msgctxt "reporting_period"
-msgid "Reporting period"
-msgstr "Thời điểm báo cáo"
 
 #: report_period
 msgid "Report period"
@@ -90,19 +85,9 @@ msgstr "Các chỉ số hiện có"
 msgid "Select indicator group / View all"
 msgstr "Chọn nhóm chỉ số / Hiển thị tất cá"
 
-#: select_dataelementgroup_all
-msgctxt "select_dataelementgroup_all"
-msgid "Select data element group / View all"
-msgstr "Chọn nhóm phần tử dữ liệu / Chọn tất cả"
-
 #: selected_indicators
 msgid "Selected indicators"
 msgstr "Chọn chỉ số"
-
-#: selected_dataelements
-msgctxt "selected_dataelements"
-msgid "Selected data elements"
-msgstr "Các phần tử dữ liệu đang được chọn"
 
 #: select_organisationunit_level_all
 msgid "Select organsation unit level / View all"
@@ -159,16 +144,6 @@ msgstr "Thời điểm tương đối"
 #: reporting_month
 msgid "Reporting month"
 msgstr "Báo cáo hàng tháng"
-
-#: months_this_year
-msgctxt "months_this_year"
-msgid "Months this year"
-msgstr "Tháng năm nay"
-
-#: quarters_this_year
-msgctxt "quarters_this_year"
-msgid "Quarters this year"
-msgstr "Quý năm nay"
 
 #: this_year
 msgid "This year"
@@ -375,17 +350,10 @@ msgid "Available data elements"
 msgstr "Các phần tử dữ liệu hiện có"
 
 #: select_dataelementgroup_all
-msgctxt "select_dataelementgroup_all"
 msgid "Select data element group / View all"
 msgstr "Chọn nhóm phần tử dữ liệu / Chọn tất cả"
 
-#: select_category_combo
-msgctxt "select_category_combo"
-msgid "Select category combination"
-msgstr "Chọn nhóm phân loại"
-
 #: selected_dataelements
-msgctxt "selected_dataelements"
 msgid "Selected data elements"
 msgstr "Các phần tử dữ liệu đang được chọn"
 
@@ -398,12 +366,10 @@ msgid "Report table parameters"
 msgstr "Tham số bảng báo cáo"
 
 #: months_this_year
-msgctxt "months_this_year"
 msgid "Months this year"
 msgstr "Tháng năm nay"
 
 #: quarters_this_year
-msgctxt "quarters_this_year"
 msgid "Quarters this year"
 msgstr "Quý năm nay"
 
@@ -442,16 +408,6 @@ msgstr "Bảng xoay"
 #: indicator_group
 msgid "Indicator group"
 msgstr "Nhóm chỉ số"
-
-#: start_date
-msgctxt "start_date"
-msgid "Start date"
-msgstr "Ngày bắt đầu"
-
-#: end_date
-msgctxt "end_date"
-msgid "End date"
-msgstr "Ngày kết thúc"
 
 #: period_type
 msgid "Period type"
@@ -742,11 +698,6 @@ msgstr "Chọn nhóm"
 msgid "Organisation unit distribution report"
 msgstr "Đơn vị báo cáo phân tán"
 
-#: get_report
-msgctxt "get_report"
-msgid "Get report"
-msgstr "Xuất báo cáo"
-
 #: get_chart
 msgid "Get chart"
 msgstr "Lấy biểu đồ"
@@ -760,7 +711,6 @@ msgid "Select organisation unit"
 msgstr "Chọn đơn vị"
 
 #: get_report
-msgctxt "get_report"
 msgid "Get report"
 msgstr "Xuất báo cáo"
 
@@ -785,7 +735,6 @@ msgid "Download as JRXML"
 msgstr "Tải xuống thiếu kế"
 
 #: select_category_combo
-msgctxt "select_category_combo"
 msgid "Select category combination"
 msgstr "Chọn nhóm phân loại"
 
@@ -869,11 +818,6 @@ msgstr "Báo cáo theo quý"
 msgid "Include org unit group sets param"
 msgstr "Gồm tham số tập đơn vị"
 
-#: reporting_period
-msgctxt "reporting_period"
-msgid "Reporting period"
-msgstr "Thời điểm báo cáo"
-
 #: last_5_years
 msgid "Last 5 years"
 msgstr "Trong 5 năm vừa qua"
@@ -899,12 +843,10 @@ msgid "Selected organisation unit groups"
 msgstr "Các nhóm đơn vị được chọn"
 
 #: start_date
-msgctxt "start_date"
 msgid "Start date"
 msgstr "Ngày bắt đầu"
 
 #: end_date
-msgctxt "end_date"
 msgid "End date"
 msgstr "Ngày kết thúc"
 
@@ -929,7 +871,6 @@ msgid "Print"
 msgstr ""
 
 #: reporting_period
-msgctxt "reporting_period"
 msgid "Reporting period"
 msgstr "Thời điểm báo cáo"
 

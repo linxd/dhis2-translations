@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -479,12 +479,6 @@ msgstr "انت متصل بالنت"
 msgid "You are offline, data will be stored locally"
 msgstr "تم قطع الاتصال. سوف يتم حفظ البيانات محليا."
 
-#: ajax_login_failed
-msgctxt "ajax_login_failed"
-msgid "Login failed, check your username and password and try again"
-msgstr ""
-"فشل تسجيل الدخول ، تحقق من اسم المستخدم وكلمة المرور والمحاولة مرة أخرى."
-
 #: need_to_sync_notification
 msgid "There is data stored locally, please upload to server"
 msgstr "هناك بيانات محفوظة محليا. من فضلك حمل للخادم "
@@ -722,11 +716,6 @@ msgstr "لا يمكنك قراءة الكلمات؟ جرب اخرى"
 msgid "Restore"
 msgstr "استعادة"
 
-#: new_password
-msgctxt "new_password"
-msgid "New password"
-msgstr "كلمة السر الجديدة"
-
 #: restore_account
 msgid "Restore account"
 msgstr "استعادة الحساب"
@@ -776,55 +765,6 @@ msgid ""
 "Please upgrade your browser. Internet Explorer version 8 and earlier is not "
 "supported."
 msgstr "من فضلك طور متصفحك. نسخة متصفح الانترنت 8 وماقبلها غير مدعومة "
-
-#: data_element_or_type_null_or_empty
-msgid "Data element or type not defined"
-msgstr "عامل البيانات او النمط خاطئ او فارغ"
-
-#: value_length_greater_than_max_length
-msgid "Value is greater than max length"
-msgstr "قيمة البيانات اكبر من الحد الأقصى للطول"
-
-#: comment_length_greater_than_max_length
-msgctxt "comment_length_greater_than_max_length"
-msgid "Comment is greater than max length"
-msgstr ""
-
-#: value_not_numeric
-msgid "Value is not numeric"
-msgstr "قيمة البيانات ليست رقمية"
-
-#: value_not_unit_interval
-msgid "Value is not a unit interval"
-msgstr "قيمة البيانات ليست وحدة فاصل"
-
-#: value_not_percentage
-msgid "Value is not a percentage"
-msgstr "قيمة البيانات ليست نسبة مئوية"
-
-#: value_not_integer
-msgid "Value is not an integer"
-msgstr "قيمة البيانات ليست عدد صحيح"
-
-#: value_not_positive_integer
-msgid "Value is not a positive integer"
-msgstr "قيمة البيانات ليست رقما صحيحا موجبا"
-
-#: value_not_negative_integer
-msgid "Value is not a negative integer"
-msgstr "قيمة البيانات ليست عددا صحيحا سالبا"
-
-#: value_not_bool
-msgid "Value is not a boolean"
-msgstr "قيمة البيانات ليست منطقية"
-
-#: value_not_true_only
-msgid "Value is not true"
-msgstr "قيمة البيانات ليست صحيحة "
-
-#: value_not_valid_date
-msgid "Value is not a valid date"
-msgstr "قيمة البيانات ليست تاريخا صالحا"
 
 #: email_not_configured_for_system
 msgid "Email is not configured for the system"
@@ -2062,21 +2002,6 @@ msgstr "ازرق فاتح"
 msgid "Green"
 msgstr "اخضر"
 
-#: myanmar
-msgctxt "myanmar"
-msgid "Myanmar"
-msgstr "مينامار"
-
-#: india
-msgctxt "india"
-msgid "India"
-msgstr "الهند"
-
-#: vietnam
-msgctxt "vietnam"
-msgid "Vietnam"
-msgstr "فيتنام"
-
 #: settings_updated
 msgid "Settings were updated"
 msgstr "تم تحديث الاعدادات"
@@ -2306,7 +2231,6 @@ msgid "Old password"
 msgstr "كلمة السر القديمة"
 
 #: new_password
-msgctxt "new_password"
 msgid "New password"
 msgstr "كلمة السر الجديدة"
 
@@ -2640,10 +2564,6 @@ msgstr "نجاح"
 #: waiting
 msgid "Please wait"
 msgstr "الرجاء الانتظار"
-
-#: expression_not_well_formed
-msgid "Expression is not well formed"
-msgstr "لم يتم صياغة التعبير جيدا"
 
 #: invalid_identifiers_in_expression
 msgid "Invalid identifiers in expression"
@@ -3159,7 +3079,6 @@ msgid "User group access"
 msgstr "دخول مجموعة المستخدم"
 
 #: ajax_login_failed
-msgctxt "ajax_login_failed"
 msgid "Login failed, check your username and password and try again"
 msgstr ""
 "فشل تسجيل الدخول ، تحقق من اسم المستخدم وكلمة المرور والمحاولة مرة أخرى."
@@ -3351,7 +3270,6 @@ msgid "IPPF"
 msgstr ""
 
 #: india
-msgctxt "india"
 msgid "India"
 msgstr "الهند"
 
@@ -3408,7 +3326,6 @@ msgid "Mozambique"
 msgstr "موزمبيق"
 
 #: myanmar
-msgctxt "myanmar"
 msgid "Myanmar"
 msgstr "مينامار"
 
@@ -3549,7 +3466,6 @@ msgid "Vanuatu"
 msgstr "فانواتو"
 
 #: vietnam
-msgctxt "vietnam"
 msgid "Vietnam"
 msgstr "فيتنام"
 
@@ -3724,7 +3640,6 @@ msgid "Stored by is greater than max length"
 msgstr ""
 
 #: comment_length_greater_than_max_length
-msgctxt "comment_length_greater_than_max_length"
 msgid "Comment is greater than max length"
 msgstr ""
 

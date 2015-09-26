@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -212,11 +212,6 @@ msgstr "ທ່ານຕ້ອງປ້ອນຂໍ້ມູນເຂົ້າຈ
 msgid "The following values violate validation rules"
 msgstr "ຄ່າລຸ່ມນີ້ຜິດປິ້ນກັບຄວາມເປັນຈິງຂອງຂໍ້ມູນ"
 
-#: value
-msgctxt "value"
-msgid "Value"
-msgstr ""
-
 #: operator
 msgid "Operator"
 msgstr "ເຄື່ອງໝາຍເລກ"
@@ -277,11 +272,6 @@ msgstr "ບໍ່ສາມາດລົງທະບຽນແບບຟອມ"
 msgid "Undo register complete data set success"
 msgstr "ຢ້ອນກັບ"
 
-#: datavalue_history
-msgctxt "datavalue_history"
-msgid "Data value history"
-msgstr ""
-
 #: enter_digits
 msgid "Enter digit only."
 msgstr "ປ້ອນສະເພາະແຕ່ຕົວເລກເທົ່ານັ້ນ"
@@ -297,7 +287,6 @@ msgid ""
 msgstr "ອົງປະກອບຂໍ້ມູນນີ້ບໍ່ຄ່າສູນ. ຄ່າເກົ່າເສຍໄປ"
 
 #: datavalue_history
-msgctxt "datavalue_history"
 msgid "Data value history"
 msgstr ""
 
@@ -350,7 +339,6 @@ msgid "On"
 msgstr "ເທີງ"
 
 #: value
-msgctxt "value"
 msgid "Value"
 msgstr ""
 

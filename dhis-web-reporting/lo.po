@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"POT-Creation-Date: 2015-09-26 17:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,11 +30,6 @@ msgstr "ກະລຸນາເລືອກກຸ່ມຂອງກຸ່ມ"
 #: reporting_unit
 msgid "Reporting unit"
 msgstr "ຫົວໜ່ວຍລາຍ​ງານ"
-
-#: reporting_period
-msgctxt "reporting_period"
-msgid "Reporting period"
-msgstr "​ໄລ​ຍະ​ເວ​ລາ​ການ​ລາຍ​ງານ"
 
 #: report_period
 msgid "Report period"
@@ -90,19 +85,9 @@ msgstr "​ຕົວ​ຊີ້​ວັດ​ທີ່​ມີ​ຢູ່​
 msgid "Select indicator group / View all"
 msgstr "ເລືອກກຸ່ມຂອງຕົວຊີ້ວັດ / ເບີ່ງທັງໝົດ"
 
-#: select_dataelementgroup_all
-msgctxt "select_dataelementgroup_all"
-msgid "Select data element group / View all"
-msgstr ""
-
 #: selected_indicators
 msgid "Selected indicators"
 msgstr "ເລືອກ​ເອົາຕົວຊີ້ວັດ"
-
-#: selected_dataelements
-msgctxt "selected_dataelements"
-msgid "Selected data elements"
-msgstr ""
 
 #: select_organisationunit_level_all
 msgid "Select organsation unit level / View all"
@@ -159,16 +144,6 @@ msgstr "​ໄລ​ຍະ​ເວ​ລາ​ໄກ້​ຄຽງ"
 #: reporting_month
 msgid "Reporting month"
 msgstr "​ເດືອນ​ຂອງ​ການ​ລາຍ​ງານ"
-
-#: months_this_year
-msgctxt "months_this_year"
-msgid "Months this year"
-msgstr "​ເດືອນ​ໃນ​ປີ"
-
-#: quarters_this_year
-msgctxt "quarters_this_year"
-msgid "Quarters this year"
-msgstr "​ໄຕຼມາດ​ໃນ​ປີ"
 
 #: this_year
 msgid "This year"
@@ -378,17 +353,10 @@ msgid "Available data elements"
 msgstr "​ອົງ​ປະ​ກອບ​ຂໍ້​ມູນ​ທີ່​ມີ"
 
 #: select_dataelementgroup_all
-msgctxt "select_dataelementgroup_all"
 msgid "Select data element group / View all"
 msgstr ""
 
-#: select_category_combo
-msgctxt "select_category_combo"
-msgid "Select category combination"
-msgstr "​ເລືອກ​ເອົາ category ທີ່​ມີ​ການ​ປະ​ສົມ​ເອົາ"
-
 #: selected_dataelements
-msgctxt "selected_dataelements"
 msgid "Selected data elements"
 msgstr ""
 
@@ -401,12 +369,10 @@ msgid "Report table parameters"
 msgstr "​ສ່ວນ​ປະ​ກອບ​ຕ່າງໆ​ຂອງ​ຕາ​ຕະ​ລາງ​ລາຍ​ງານ"
 
 #: months_this_year
-msgctxt "months_this_year"
 msgid "Months this year"
 msgstr "​ເດືອນ​ໃນ​ປີ"
 
 #: quarters_this_year
-msgctxt "quarters_this_year"
 msgid "Quarters this year"
 msgstr "​ໄຕຼມາດ​ໃນ​ປີ"
 
@@ -445,16 +411,6 @@ msgstr "ຕາຕະລາງຂໍ້ມູນ"
 #: indicator_group
 msgid "Indicator group"
 msgstr "ກຸ່ມຂອງຕົວຊີ້ວັດ"
-
-#: start_date
-msgctxt "start_date"
-msgid "Start date"
-msgstr ""
-
-#: end_date
-msgctxt "end_date"
-msgid "End date"
-msgstr ""
 
 #: period_type
 msgid "Period type"
@@ -750,11 +706,6 @@ msgstr "​ເລືອກ​ເປັນ​ກຸ່ມ"
 msgid "Organisation unit distribution report"
 msgstr "​ບົດ​ລາຍ​ງານ​ການ​ແຈກ​ຢາຍ​ຫົວ​ໜ່ວຍ​ການ​ຈັດ​ຕັ້ງ"
 
-#: get_report
-msgctxt "get_report"
-msgid "Get report"
-msgstr "​ເອົາ​ບົດ​ລາຍ​ງານ"
-
 #: get_chart
 msgid "Get chart"
 msgstr "​ເອົາ chart"
@@ -768,7 +719,6 @@ msgid "Select organisation unit"
 msgstr "ເລືືອກໂຄງຮ່າງການຈັດຕັ້ງ"
 
 #: get_report
-msgctxt "get_report"
 msgid "Get report"
 msgstr "​ເອົາ​ບົດ​ລາຍ​ງານ"
 
@@ -793,7 +743,6 @@ msgid "Download as JRXML"
 msgstr "ດາວໂຫຼດເປັນ JRXML"
 
 #: select_category_combo
-msgctxt "select_category_combo"
 msgid "Select category combination"
 msgstr "​ເລືອກ​ເອົາ category ທີ່​ມີ​ການ​ປະ​ສົມ​ເອົາ"
 
@@ -877,11 +826,6 @@ msgstr "ລາຍງານໄຕມາດ"
 msgid "Include org unit group sets param"
 msgstr "Include org unit group sets param"
 
-#: reporting_period
-msgctxt "reporting_period"
-msgid "Reporting period"
-msgstr "​ໄລ​ຍະ​ເວ​ລາ​ການ​ລາຍ​ງານ"
-
 #: last_5_years
 msgid "Last 5 years"
 msgstr "5 ປີຜ່ານມາ"
@@ -907,12 +851,10 @@ msgid "Selected organisation unit groups"
 msgstr "ເລືອກກຸ່ມໂຄງຮ່າງການຈັດຕັ້ງ"
 
 #: start_date
-msgctxt "start_date"
 msgid "Start date"
 msgstr ""
 
 #: end_date
-msgctxt "end_date"
 msgid "End date"
 msgstr ""
 
@@ -937,7 +879,6 @@ msgid "Print"
 msgstr "ພີມອອກ"
 
 #: reporting_period
-msgctxt "reporting_period"
 msgid "Reporting period"
 msgstr "​ໄລ​ຍະ​ເວ​ລາ​ການ​ລາຍ​ງານ"
 

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,7 +19,6 @@ msgid "Data Value"
 msgstr "ມູນ​ຄ່າ​ຂໍ້​ມູນ"
 
 #: import
-msgctxt "import"
 msgid "Import"
 msgstr "​ນຳ​ເຂົ້າ"
 
@@ -38,16 +37,6 @@ msgstr "​ນຳ​ອອກ"
 #: action
 msgid "Action"
 msgstr "​ປະ​ຕິ​ບັດ​ການ"
-
-#: import
-msgctxt "import"
-msgid "Import"
-msgstr "​ນຳ​ເຂົ້າ"
-
-#: preview
-msgctxt "preview"
-msgid "Preview"
-msgstr "ກວດ​ກາ​ເບີ່ງ"
 
 #: from
 msgid "From"
@@ -68,26 +57,6 @@ msgstr "​ເລືອກ​ອົງ​ປະ​ກອບ​ຂໍ້​ມູ
 #: available_data_elements
 msgid "Available data elements"
 msgstr "​ອົງ​ປະ​ກອບ​ຂໍ້​ມູນ​ທີ່​ມີ"
-
-#: move_selected
-msgctxt "move_selected"
-msgid "Move selected"
-msgstr "​ຍ້າຍ​ອັນ​ທີ່​ເລືອກ​ໄວ້"
-
-#: move_all
-msgctxt "move_all"
-msgid "Move all"
-msgstr "​ຍ້າ​ຍ​ອອກ​ໝົດ"
-
-#: remove_selected
-msgctxt "remove_selected"
-msgid "Remove selected"
-msgstr "​ຍ້າຍ​ເອົາ​ອັນ​ທີ່​ເລືອກ"
-
-#: remove_all
-msgctxt "remove_all"
-msgid "Remove all"
-msgstr "​ຍ້າຍ​ອອກ​ໝົດ"
 
 #: indicators
 msgid "Indicators"
@@ -133,11 +102,6 @@ msgstr "Organisation units"
 msgid "Periods"
 msgstr "Periods"
 
-#: import
-msgctxt "import"
-msgid "Import"
-msgstr "​ນຳ​ເຂົ້າ"
-
 #: importing
 msgid "Importing..."
 msgstr "Importing..."
@@ -149,11 +113,6 @@ msgstr "Done"
 #: compare
 msgid "Compare"
 msgstr "Compare"
-
-#: configuration
-msgctxt "configuration"
-msgid "Configuration"
-msgstr "​ວາດ​ພາບ​ເບີ່ງ"
 
 #: source
 msgid "Source"
@@ -179,10 +138,6 @@ msgstr "​ກະ​ລຸ​ນາ​ກຳ​ນົດ ຟາຍ"
 msgid "Data sets"
 msgstr "​ຊຸດ​ຂໍ້​ມູນ"
 
-#: include_datavalues
-msgid "Include Data Values"
-msgstr "Include data values"
-
 #: file
 msgid "File"
 msgstr "​ຟາຍ"
@@ -203,11 +158,6 @@ msgstr "​ກວດ​ກາ​ເບີ່ງ​ການ​ນຳ​ເຂົ
 msgid "Select none"
 msgstr "​ບໍ່​ໄດ້​ເລືອກ​ຫ​ຍັງ​ໝົດ"
 
-#: element
-msgctxt "element"
-msgid "Element"
-msgstr "​ສ່ວນ​ປະ​ກອບ"
-
 #: unique
 msgid "Unique"
 msgstr "​ສະ​ເພາະ​ພິ​ເສດ"
@@ -217,7 +167,6 @@ msgid "Matching"
 msgstr "​ເຂົ້າ​ກັນ​ໄດ້"
 
 #: preview
-msgctxt "preview"
 msgid "Preview"
 msgstr "ກວດ​ກາ​ເບີ່ງ"
 
@@ -246,28 +195,6 @@ msgstr "Dataset"
 msgctxt "organisationunit"
 msgid "Organisation unit"
 msgstr "Organisation unit"
-
-#: data_export
-msgid "DXF Data Value Export"
-msgstr "Data Export"
-
-#: datavalue_export
-msgctxt "datavalue_export"
-msgid "Data Export"
-msgstr "Data Export"
-
-#: metadata_export
-msgid "DXF Metadata Export"
-msgstr ""
-
-#: data_export
-msgctxt "data_export"
-msgid "Data Export"
-msgstr "Data Export"
-
-#: metadata_export
-msgid "Metadata Export"
-msgstr ""
 
 #: data_element_groups
 msgid "Data element groups"
@@ -352,7 +279,6 @@ msgid "Option set"
 msgstr "Option set"
 
 #: element
-msgctxt "element"
 msgid "Element"
 msgstr "​ສ່ວນ​ປະ​ກອບ"
 
@@ -425,22 +351,18 @@ msgid "Hide advanced options"
 msgstr "Hide advanced options"
 
 #: move_selected
-msgctxt "move_selected"
 msgid "Move selected"
 msgstr "​ຍ້າຍ​ອັນ​ທີ່​ເລືອກ​ໄວ້"
 
 #: move_all
-msgctxt "move_all"
 msgid "Move all"
 msgstr "​ຍ້າ​ຍ​ອອກ​ໝົດ"
 
 #: remove_selected
-msgctxt "remove_selected"
 msgid "Remove selected"
 msgstr "​ຍ້າຍ​ເອົາ​ອັນ​ທີ່​ເລືອກ"
 
 #: remove_all
-msgctxt "remove_all"
 msgid "Remove all"
 msgstr "​ຍ້າຍ​ອອກ​ໝົດ"
 
@@ -468,11 +390,6 @@ msgstr "Data typemain"
 msgid "Validation rules"
 msgstr "Validation rules"
 
-#: saved
-msgctxt "saved"
-msgid "Saved"
-msgstr "Saved"
-
 #: last_updated
 msgid "Last updated"
 msgstr "Last updated"
@@ -488,11 +405,6 @@ msgstr "Operator"
 #: data_elements
 msgid "Data elements"
 msgstr "Data elements"
-
-#: data_dictionary
-msgctxt "data_dictionary"
-msgid "Data dictionary"
-msgstr "Data dictionary"
 
 #: data_value
 msgctxt "data_value"
@@ -631,11 +543,6 @@ msgstr "Importing data set data entry form associations"
 msgid "Importing organisation units"
 msgstr "Importing organisation units"
 
-#: importing_organisation_unit_relationships
-msgctxt "importing_organisation_unit_relationships"
-msgid "Importing organisation unit relationships"
-msgstr "Importing organisation unit relationships"
-
 #: importing_organisation_unit_groups
 msgid "Importing organisation unit groups"
 msgstr "Importing organisation unit groups"
@@ -657,7 +564,6 @@ msgid "Importing organisation unit structures"
 msgstr "Importing organisation unit structures"
 
 #: importing_organisation_unit_relationships
-msgctxt "importing_organisation_unit_relationships"
 msgid "Importing organisation unit relationships"
 msgstr "Importing organisation unit relationships"
 
@@ -818,7 +724,6 @@ msgid "Report table"
 msgstr "Report table"
 
 #: data_dictionary
-msgctxt "data_dictionary"
 msgid "Data dictionary"
 msgstr "Data dictionary"
 
@@ -911,7 +816,6 @@ msgid "Imported meta data"
 msgstr "Imported meta data"
 
 #: saved
-msgctxt "saved"
 msgid "Saved"
 msgstr "Saved"
 
@@ -951,11 +855,6 @@ msgstr "Table name"
 #: mode
 msgid "Mode"
 msgstr "Mode"
-
-#: regression
-msgctxt "regression"
-msgid "Regression"
-msgstr "Regression"
 
 #: reporting_month
 msgid "Reporting month"
@@ -1072,7 +971,6 @@ msgid "Process failed - See log for details"
 msgstr "Process failed - See log for details"
 
 #: configuration
-msgctxt "configuration"
 msgid "Configuration"
 msgstr "​ວາດ​ພາບ​ເບີ່ງ"
 
@@ -1097,7 +995,6 @@ msgid "Horizontal plot orientation"
 msgstr "Horizontal plot orientation"
 
 #: regression
-msgctxt "regression"
 msgid "Regression"
 msgstr "Regression"
 

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,7 +19,6 @@ msgid "Data Value"
 msgstr "数据值"
 
 #: import
-msgctxt "import"
 msgid "Import"
 msgstr "导入"
 
@@ -38,16 +37,6 @@ msgstr "导出"
 #: action
 msgid "Action"
 msgstr "行动"
-
-#: import
-msgctxt "import"
-msgid "Import"
-msgstr "导入"
-
-#: preview
-msgctxt "preview"
-msgid "Preview"
-msgstr "预览"
 
 #: from
 msgid "From"
@@ -68,26 +57,6 @@ msgstr "选定数据元"
 #: available_data_elements
 msgid "Available data elements"
 msgstr "数据元"
-
-#: move_selected
-msgctxt "move_selected"
-msgid "Move selected"
-msgstr "移除已选"
-
-#: move_all
-msgctxt "move_all"
-msgid "Move all"
-msgstr "移除全部"
-
-#: remove_selected
-msgctxt "remove_selected"
-msgid "Remove selected"
-msgstr "移除已选"
-
-#: remove_all
-msgctxt "remove_all"
-msgid "Remove all"
-msgstr "移除全部"
 
 #: indicators
 msgid "Indicators"
@@ -133,11 +102,6 @@ msgstr "组织机构"
 msgid "Periods"
 msgstr "周期"
 
-#: import
-msgctxt "import"
-msgid "Import"
-msgstr "导入"
-
 #: importing
 msgid "Importing..."
 msgstr "正在导入......"
@@ -149,11 +113,6 @@ msgstr "完成"
 #: compare
 msgid "Compare"
 msgstr "比较"
-
-#: configuration
-msgctxt "configuration"
-msgid "Configuration"
-msgstr "配置"
 
 #: source
 msgid "Source"
@@ -179,10 +138,6 @@ msgstr "请指定一个文件"
 msgid "Data sets"
 msgstr "数据集"
 
-#: include_datavalues
-msgid "Include Data Values"
-msgstr "包含数据值"
-
 #: file
 msgid "File"
 msgstr "文件"
@@ -203,11 +158,6 @@ msgstr "导入预览"
 msgid "Select none"
 msgstr "全不选"
 
-#: element
-msgctxt "element"
-msgid "Element"
-msgstr "元素"
-
 #: unique
 msgid "Unique"
 msgstr "唯一"
@@ -217,7 +167,6 @@ msgid "Matching"
 msgstr "匹配中"
 
 #: preview
-msgctxt "preview"
 msgid "Preview"
 msgstr "预览"
 
@@ -246,28 +195,6 @@ msgstr "数据集"
 msgctxt "organisationunit"
 msgid "Organisation unit"
 msgstr "组织机构"
-
-#: data_export
-msgid "DXF Data Value Export"
-msgstr "数据导出"
-
-#: datavalue_export
-msgctxt "datavalue_export"
-msgid "Data Export"
-msgstr ""
-
-#: metadata_export
-msgid "DXF Metadata Export"
-msgstr "元数据导出"
-
-#: data_export
-msgctxt "data_export"
-msgid "Data Export"
-msgstr "数据导出"
-
-#: metadata_export
-msgid "Metadata Export"
-msgstr "元数据导出"
 
 #: data_element_groups
 msgid "Data element groups"
@@ -352,7 +279,6 @@ msgid "Option set"
 msgstr ""
 
 #: element
-msgctxt "element"
 msgid "Element"
 msgstr "元素"
 
@@ -425,22 +351,18 @@ msgid "Hide advanced options"
 msgstr "隐藏选项"
 
 #: move_selected
-msgctxt "move_selected"
 msgid "Move selected"
 msgstr "移除已选"
 
 #: move_all
-msgctxt "move_all"
 msgid "Move all"
 msgstr "移除全部"
 
 #: remove_selected
-msgctxt "remove_selected"
 msgid "Remove selected"
 msgstr "移除已选"
 
 #: remove_all
-msgctxt "remove_all"
 msgid "Remove all"
 msgstr "移除全部"
 
@@ -468,11 +390,6 @@ msgstr "数据类型"
 msgid "Validation rules"
 msgstr "验证规则"
 
-#: saved
-msgctxt "saved"
-msgid "Saved"
-msgstr "已保存"
-
 #: last_updated
 msgid "Last updated"
 msgstr "最后一次更新"
@@ -488,11 +405,6 @@ msgstr "操作员"
 #: data_elements
 msgid "Data elements"
 msgstr "数据元"
-
-#: data_dictionary
-msgctxt "data_dictionary"
-msgid "Data dictionary"
-msgstr "数据字典"
 
 #: data_value
 msgctxt "data_value"
@@ -631,11 +543,6 @@ msgstr "从关联导入数据集数据输入"
 msgid "Importing organisation units"
 msgstr "导入组织"
 
-#: importing_organisation_unit_relationships
-msgctxt "importing_organisation_unit_relationships"
-msgid "Importing organisation unit relationships"
-msgstr "导入组织机构关系"
-
 #: importing_organisation_unit_groups
 msgid "Importing organisation unit groups"
 msgstr "导入组织机构组"
@@ -657,7 +564,6 @@ msgid "Importing organisation unit structures"
 msgstr "导入组织机构结构"
 
 #: importing_organisation_unit_relationships
-msgctxt "importing_organisation_unit_relationships"
 msgid "Importing organisation unit relationships"
 msgstr "导入组织机构关系"
 
@@ -818,7 +724,6 @@ msgid "Report table"
 msgstr "报表表"
 
 #: data_dictionary
-msgctxt "data_dictionary"
 msgid "Data dictionary"
 msgstr "数据字典"
 
@@ -911,7 +816,6 @@ msgid "Imported meta data"
 msgstr "已导入元数据"
 
 #: saved
-msgctxt "saved"
 msgid "Saved"
 msgstr "已保存"
 
@@ -951,11 +855,6 @@ msgstr "表名"
 #: mode
 msgid "Mode"
 msgstr "模式"
-
-#: regression
-msgctxt "regression"
-msgid "Regression"
-msgstr "回顾"
 
 #: reporting_month
 msgid "Reporting month"
@@ -1069,7 +968,6 @@ msgid "Process failed - See log for details"
 msgstr "程序失败"
 
 #: configuration
-msgctxt "configuration"
 msgid "Configuration"
 msgstr "配置"
 
@@ -1094,7 +992,6 @@ msgid "Horizontal plot orientation"
 msgstr "水平绘图方向"
 
 #: regression
-msgctxt "regression"
 msgid "Regression"
 msgstr "回顾"
 

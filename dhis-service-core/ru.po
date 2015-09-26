@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -523,11 +523,6 @@ msgstr "Вы онлайн"
 msgid "You are offline, data will be stored locally"
 msgstr "Вы оффлайн, данные будут сохранятся местно"
 
-#: ajax_login_failed
-msgctxt "ajax_login_failed"
-msgid "Login failed, check your username and password and try again"
-msgstr ""
-
 #: need_to_sync_notification
 msgid "There is data stored locally, please upload to server"
 msgstr "Имеются данные, сохраненные местно, пожалуйста, загрузите их в сервер"
@@ -765,11 +760,6 @@ msgstr "Не можете прочитать слова? Попробуйте д
 msgid "Restore"
 msgstr "Восстановить"
 
-#: new_password
-msgctxt "new_password"
-msgid "New password"
-msgstr ""
-
 #: restore_account
 msgid "Restore account"
 msgstr "Восстановить пароль"
@@ -818,55 +808,6 @@ msgstr ""
 msgid ""
 "Please upgrade your browser. Internet Explorer version 8 and earlier is not "
 "supported."
-msgstr ""
-
-#: data_element_or_type_null_or_empty
-msgid "Data element or type not defined"
-msgstr ""
-
-#: value_length_greater_than_max_length
-msgid "Value is greater than max length"
-msgstr ""
-
-#: comment_length_greater_than_max_length
-msgctxt "comment_length_greater_than_max_length"
-msgid "Comment is greater than max length"
-msgstr ""
-
-#: value_not_numeric
-msgid "Value is not numeric"
-msgstr ""
-
-#: value_not_unit_interval
-msgid "Value is not a unit interval"
-msgstr ""
-
-#: value_not_percentage
-msgid "Value is not a percentage"
-msgstr ""
-
-#: value_not_integer
-msgid "Value is not an integer"
-msgstr ""
-
-#: value_not_positive_integer
-msgid "Value is not a positive integer"
-msgstr ""
-
-#: value_not_negative_integer
-msgid "Value is not a negative integer"
-msgstr ""
-
-#: value_not_bool
-msgid "Value is not a boolean"
-msgstr ""
-
-#: value_not_true_only
-msgid "Value is not true"
-msgstr ""
-
-#: value_not_valid_date
-msgid "Value is not a valid date"
 msgstr ""
 
 #: email_not_configured_for_system
@@ -2107,21 +2048,6 @@ msgstr "Голубой"
 msgid "Green"
 msgstr "Зеленый"
 
-#: myanmar
-msgctxt "myanmar"
-msgid "Myanmar"
-msgstr "Мьянма"
-
-#: india
-msgctxt "india"
-msgid "India"
-msgstr ""
-
-#: vietnam
-msgctxt "vietnam"
-msgid "Vietnam"
-msgstr ""
-
 #: settings_updated
 msgid "Settings were updated"
 msgstr "Настройки были обновлены"
@@ -2351,7 +2277,6 @@ msgid "Old password"
 msgstr "Старый пароль"
 
 #: new_password
-msgctxt "new_password"
 msgid "New password"
 msgstr ""
 
@@ -2685,10 +2610,6 @@ msgstr "Успех"
 #: waiting
 msgid "Please wait"
 msgstr "Пожалуйста, подождите"
-
-#: expression_not_well_formed
-msgid "Expression is not well formed"
-msgstr ""
 
 #: invalid_identifiers_in_expression
 msgid "Invalid identifiers in expression"
@@ -3204,7 +3125,6 @@ msgid "User group access"
 msgstr "Доступ группы пользователей"
 
 #: ajax_login_failed
-msgctxt "ajax_login_failed"
 msgid "Login failed, check your username and password and try again"
 msgstr ""
 
@@ -3395,7 +3315,6 @@ msgid "IPPF"
 msgstr ""
 
 #: india
-msgctxt "india"
 msgid "India"
 msgstr ""
 
@@ -3452,7 +3371,6 @@ msgid "Mozambique"
 msgstr "Мозамбик"
 
 #: myanmar
-msgctxt "myanmar"
 msgid "Myanmar"
 msgstr "Мьянма"
 
@@ -3593,7 +3511,6 @@ msgid "Vanuatu"
 msgstr "Вануату"
 
 #: vietnam
-msgctxt "vietnam"
 msgid "Vietnam"
 msgstr ""
 
@@ -3764,7 +3681,6 @@ msgid "Stored by is greater than max length"
 msgstr ""
 
 #: comment_length_greater_than_max_length
-msgctxt "comment_length_greater_than_max_length"
 msgid "Comment is greater than max length"
 msgstr ""
 

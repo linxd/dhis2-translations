@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -104,11 +104,6 @@ msgstr "Disponibles"
 #: selected
 msgid "Selected"
 msgstr "Seleccionados"
-
-#: periods
-msgctxt "periods"
-msgid "Periods"
-msgstr ""
 
 #: months
 msgid "Months"
@@ -220,11 +215,6 @@ msgstr "Actualizar"
 msgid "Data table"
 msgstr "Tabla de datos"
 
-#: favorites
-msgctxt "favorites"
-msgid "Favorites"
-msgstr ""
-
 #: manage_favorites
 msgid "Manage favorites"
 msgstr "Administrar favoritos"
@@ -289,11 +279,6 @@ msgstr "Por favor, genere un gráfico antes de guardar"
 #: overwrite
 msgid "Overwrite"
 msgstr "Sobrescribir"
-
-#: download
-msgctxt "download"
-msgid "Download"
-msgstr ""
 
 #: no_svg_format
 msgid "No SVG format"
@@ -545,11 +530,6 @@ msgstr "Compartir"
 msgid "interpretation"
 msgstr "interpretación"
 
-#: write_your_interpretation
-msgctxt "write_your_interpretation"
-msgid "Write a comment, question or interpretation"
-msgstr ""
-
 #: interpretation_was_shared
 msgid "Interpretation was shared"
 msgstr "La interpretación se ha compartido"
@@ -579,7 +559,6 @@ msgid "Relative periods"
 msgstr "Periodos relativos"
 
 #: periods
-msgctxt "periods"
 msgid "Periods"
 msgstr ""
 
@@ -730,12 +709,10 @@ msgid "Options"
 msgstr "Opciones"
 
 #: download
-msgctxt "download"
 msgid "Download"
 msgstr ""
 
 #: favorites
-msgctxt "favorites"
 msgid "Favorites"
 msgstr ""
 
@@ -821,7 +798,6 @@ msgid "Graphics"
 msgstr "Gráficos"
 
 #: write_your_interpretation
-msgctxt "write_your_interpretation"
 msgid "Write a comment, question or interpretation"
 msgstr ""
 

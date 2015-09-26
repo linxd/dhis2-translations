@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -115,11 +115,6 @@ msgstr ""
 
 #: empty_notes
 msgid "Empty notes list."
-msgstr ""
-
-#: empty
-msgctxt "empty"
-msgid "Empty"
 msgstr ""
 
 #: event
@@ -243,12 +238,7 @@ msgid "Search"
 msgstr ""
 
 #: _search
-msgid "search  "
-msgstr ""
-
-#: advanced_search
-msgctxt "advanced_search"
-msgid "Advanced search"
+msgid "search"
 msgstr ""
 
 #: search_for
@@ -276,7 +266,6 @@ msgid "There are no registered entities"
 msgstr ""
 
 #: empty
-msgctxt "empty"
 msgid "Empty"
 msgstr ""
 
@@ -360,17 +349,8 @@ msgstr ""
 msgid "History"
 msgstr ""
 
-#: complete
-msgctxt "complete"
-msgid "Complete"
-msgstr ""
-
 #: terminate
 msgid "Terminate"
-msgstr ""
-
-#: completed
-msgid "Completed"
 msgstr ""
 
 #: terminated
@@ -409,10 +389,6 @@ msgstr ""
 msgid "Add new note here"
 msgstr ""
 
-#: skipped
-msgid "Skipped"
-msgstr ""
-
 #: skip
 msgid "Skip"
 msgstr ""
@@ -422,7 +398,6 @@ msgid "Schedule back"
 msgstr ""
 
 #: complete
-msgctxt "complete"
 msgid "Complete"
 msgstr ""
 
@@ -460,11 +435,6 @@ msgstr ""
 
 #: _date
 msgid "date"
-msgstr ""
-
-#: add_new
-msgctxt "add_new"
-msgid "Add new"
 msgstr ""
 
 #: event_name
@@ -535,11 +505,6 @@ msgstr ""
 msgid "Back"
 msgstr ""
 
-#: profile
-msgctxt "profile"
-msgid "Profile"
-msgstr ""
-
 #: enrollment
 msgid "Enrollment"
 msgstr ""
@@ -597,7 +562,6 @@ msgid "Please select source"
 msgstr ""
 
 #: register_new
-msgctxt "register_new"
 msgid "Register new"
 msgstr ""
 
@@ -1095,13 +1059,7 @@ msgid "New"
 msgstr ""
 
 #: add_new
-msgctxt "add_new"
 msgid "Add new"
-msgstr ""
-
-#: register_new
-msgctxt "register_new"
-msgid "Register new"
 msgstr ""
 
 #: registration
@@ -1162,10 +1120,6 @@ msgstr ""
 
 #: dashboard_layout_saved
 msgid "Dashboard layout saved as default."
-msgstr ""
-
-#: dashboard_layout_not_saved
-msgid "Error in saving dashboard layout saved as default."
 msgstr ""
 
 #: event_orgunit_name
@@ -1270,12 +1224,10 @@ msgid "Under construction.    "
 msgstr ""
 
 #: advanced_search
-msgctxt "advanced_search"
 msgid "Advanced search"
 msgstr ""
 
 #: profile
-msgctxt "profile"
 msgid "Profile"
 msgstr ""
 

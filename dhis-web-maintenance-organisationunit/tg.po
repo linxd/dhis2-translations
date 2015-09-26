@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"POT-Creation-Date: 2015-09-26 17:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,11 +48,6 @@ msgstr "Тасдиқ"
 #: select_the_new_parent_org_unit_for_the_one_to_move
 msgid "Select the new parent organisation unit for the one to move"
 msgstr "Барои интиқол ташкилоти болоии навро интихоб кунед"
-
-#: not_selected_moved_to_root_position
-msgctxt "not_selected_moved_to_root_position"
-msgid "Not selected, moved to root position"
-msgstr ""
 
 #: reset
 msgid "Reset"
@@ -151,7 +146,6 @@ msgid "The organisation unit to move is approved"
 msgstr "Воҳиди сохторӣ барои интиқол тасдиқ карда шуд"
 
 #: not_selected_moved_to_root_position
-msgctxt "not_selected_moved_to_root_position"
 msgid "Not selected, moved to root position"
 msgstr ""
 
@@ -195,11 +189,6 @@ msgid ""
 "Saving the organisation unit group set failed with the following message"
 msgstr "Захира кардани маҷмӯи гурӯҳи воҳидҳои сохторӣ бо паёми зерин иҷро нашуд"
 
-#: create_new_org_unit_group_set
-msgctxt "create_new_org_unit_group_set"
-msgid "Create new organisation unit group set"
-msgstr ""
-
 #: compulsory
 msgid "Compulsory"
 msgstr "Ҳатмӣ"
@@ -213,7 +202,6 @@ msgid "Exclusive"
 msgstr "Истисноӣ"
 
 #: create_new_org_unit_group_set
-msgctxt "create_new_org_unit_group_set"
 msgid "Create new organisation unit group set"
 msgstr ""
 
@@ -387,11 +375,6 @@ msgstr "Меъёрҳо"
 msgid "Options"
 msgstr "Имконот"
 
-#: all
-msgctxt "all"
-msgid "All"
-msgstr ""
-
 #: search
 msgid "Search"
 msgstr "Ҷустуҷӯ"
@@ -405,7 +388,6 @@ msgid "Found"
 msgstr "Ёфт шуд"
 
 #: all
-msgctxt "all"
 msgid "All"
 msgstr ""
 

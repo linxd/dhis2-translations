@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 08:10+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -183,11 +183,6 @@ msgstr ""
 msgid "Run validation"
 msgstr ""
 
-#: validation_alerts
-msgctxt "validation_alerts"
-msgid "Validation alerts"
-msgstr ""
-
 #: value
 msgid "Value"
 msgstr ""
@@ -315,17 +310,11 @@ msgid "All validation rules"
 msgstr ""
 
 #: validation_alerts
-msgctxt "validation_alerts"
 msgid "Validation alerts"
 msgstr ""
 
 #: validation_passed_successfully
 msgid "Validation passed successfully"
-msgstr ""
-
-#: outlier_analysis
-msgctxt "outlier_analysis"
-msgid "Outlier Analysis"
 msgstr ""
 
 #: from_date
@@ -361,7 +350,6 @@ msgid "Select parent organisation unit"
 msgstr ""
 
 #: outlier_analysis
-msgctxt "outlier_analysis"
 msgid "Outlier Analysis"
 msgstr ""
 

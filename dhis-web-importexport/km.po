@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:08+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,7 +19,6 @@ msgid "Data Value"
 msgstr ""
 
 #: import
-msgctxt "import"
 msgid "Import"
 msgstr ""
 
@@ -37,16 +36,6 @@ msgstr ""
 
 #: action
 msgid "Action"
-msgstr ""
-
-#: import
-msgctxt "import"
-msgid "Import"
-msgstr ""
-
-#: preview
-msgctxt "preview"
-msgid "Preview"
 msgstr ""
 
 #: from
@@ -67,26 +56,6 @@ msgstr ""
 
 #: available_data_elements
 msgid "Available data elements"
-msgstr ""
-
-#: move_selected
-msgctxt "move_selected"
-msgid "Move selected"
-msgstr ""
-
-#: move_all
-msgctxt "move_all"
-msgid "Move all"
-msgstr ""
-
-#: remove_selected
-msgctxt "remove_selected"
-msgid "Remove selected"
-msgstr ""
-
-#: remove_all
-msgctxt "remove_all"
-msgid "Remove all"
 msgstr ""
 
 #: indicators
@@ -133,11 +102,6 @@ msgstr ""
 msgid "Periods"
 msgstr ""
 
-#: import
-msgctxt "import"
-msgid "Import"
-msgstr ""
-
 #: importing
 msgid "Importing..."
 msgstr ""
@@ -148,11 +112,6 @@ msgstr ""
 
 #: compare
 msgid "Compare"
-msgstr ""
-
-#: configuration
-msgctxt "configuration"
-msgid "Configuration"
 msgstr ""
 
 #: source
@@ -179,10 +138,6 @@ msgstr ""
 msgid "Data sets"
 msgstr ""
 
-#: include_datavalues
-msgid "Include Data Values"
-msgstr "Include data values"
-
 #: file
 msgid "File"
 msgstr ""
@@ -203,11 +158,6 @@ msgstr ""
 msgid "Select none"
 msgstr ""
 
-#: element
-msgctxt "element"
-msgid "Element"
-msgstr ""
-
 #: unique
 msgid "Unique"
 msgstr ""
@@ -217,7 +167,6 @@ msgid "Matching"
 msgstr ""
 
 #: preview
-msgctxt "preview"
 msgid "Preview"
 msgstr ""
 
@@ -246,28 +195,6 @@ msgstr ""
 msgctxt "organisationunit"
 msgid "Organisation unit"
 msgstr ""
-
-#: data_export
-msgid "DXF Data Value Export"
-msgstr "Data Export"
-
-#: datavalue_export
-msgctxt "datavalue_export"
-msgid "Data Export"
-msgstr ""
-
-#: metadata_export
-msgid "DXF Metadata Export"
-msgstr "Meta-Data Export"
-
-#: data_export
-msgctxt "data_export"
-msgid "Data Export"
-msgstr "Data Export"
-
-#: metadata_export
-msgid "Metadata Export"
-msgstr "Meta-Data Export"
 
 #: data_element_groups
 msgid "Data element groups"
@@ -352,7 +279,6 @@ msgid "Option set"
 msgstr ""
 
 #: element
-msgctxt "element"
 msgid "Element"
 msgstr ""
 
@@ -425,22 +351,18 @@ msgid "Hide advanced options"
 msgstr ""
 
 #: move_selected
-msgctxt "move_selected"
 msgid "Move selected"
 msgstr ""
 
 #: move_all
-msgctxt "move_all"
 msgid "Move all"
 msgstr ""
 
 #: remove_selected
-msgctxt "remove_selected"
 msgid "Remove selected"
 msgstr ""
 
 #: remove_all
-msgctxt "remove_all"
 msgid "Remove all"
 msgstr ""
 
@@ -468,11 +390,6 @@ msgstr ""
 msgid "Validation rules"
 msgstr ""
 
-#: saved
-msgctxt "saved"
-msgid "Saved"
-msgstr ""
-
 #: last_updated
 msgid "Last updated"
 msgstr ""
@@ -487,11 +404,6 @@ msgstr ""
 
 #: data_elements
 msgid "Data elements"
-msgstr ""
-
-#: data_dictionary
-msgctxt "data_dictionary"
-msgid "Data dictionary"
 msgstr ""
 
 #: data_value
@@ -631,11 +543,6 @@ msgstr ""
 msgid "Importing organisation units"
 msgstr ""
 
-#: importing_organisation_unit_relationships
-msgctxt "importing_organisation_unit_relationships"
-msgid "Importing organisation unit relationships"
-msgstr ""
-
 #: importing_organisation_unit_groups
 msgid "Importing organisation unit groups"
 msgstr ""
@@ -657,7 +564,6 @@ msgid "Importing organisation unit structures"
 msgstr ""
 
 #: importing_organisation_unit_relationships
-msgctxt "importing_organisation_unit_relationships"
 msgid "Importing organisation unit relationships"
 msgstr ""
 
@@ -818,7 +724,6 @@ msgid "Report table"
 msgstr ""
 
 #: data_dictionary
-msgctxt "data_dictionary"
 msgid "Data dictionary"
 msgstr ""
 
@@ -911,7 +816,6 @@ msgid "Imported meta data"
 msgstr ""
 
 #: saved
-msgctxt "saved"
 msgid "Saved"
 msgstr ""
 
@@ -950,11 +854,6 @@ msgstr ""
 
 #: mode
 msgid "Mode"
-msgstr ""
-
-#: regression
-msgctxt "regression"
-msgid "Regression"
 msgstr ""
 
 #: reporting_month
@@ -1069,7 +968,6 @@ msgid "Process failed - See log for details"
 msgstr ""
 
 #: configuration
-msgctxt "configuration"
 msgid "Configuration"
 msgstr ""
 
@@ -1094,7 +992,6 @@ msgid "Horizontal plot orientation"
 msgstr ""
 
 #: regression
-msgctxt "regression"
 msgid "Regression"
 msgstr ""
 

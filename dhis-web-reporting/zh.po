@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-26 11:09+0200\n"
+"POT-Creation-Date: 2015-09-26 17:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,11 +30,6 @@ msgstr "请选择一个组集"
 #: reporting_unit
 msgid "Reporting unit"
 msgstr "报表组织机构"
-
-#: reporting_period
-msgctxt "reporting_period"
-msgid "Reporting period"
-msgstr "报表周期"
 
 #: report_period
 msgid "Report period"
@@ -90,19 +85,9 @@ msgstr "可用的指标"
 msgid "Select indicator group / View all"
 msgstr "选择指标组/查看全部"
 
-#: select_dataelementgroup_all
-msgctxt "select_dataelementgroup_all"
-msgid "Select data element group / View all"
-msgstr "选择数据元组"
-
 #: selected_indicators
 msgid "Selected indicators"
 msgstr "已选指标"
-
-#: selected_dataelements
-msgctxt "selected_dataelements"
-msgid "Selected data elements"
-msgstr "已选数据元"
 
 #: select_organisationunit_level_all
 msgid "Select organsation unit level / View all"
@@ -159,16 +144,6 @@ msgstr "相关周期"
 #: reporting_month
 msgid "Reporting month"
 msgstr "月报表"
-
-#: months_this_year
-msgctxt "months_this_year"
-msgid "Months this year"
-msgstr "今年的月份"
-
-#: quarters_this_year
-msgctxt "quarters_this_year"
-msgid "Quarters this year"
-msgstr "今年的季度"
 
 #: this_year
 msgid "This year"
@@ -373,17 +348,10 @@ msgid "Available data elements"
 msgstr "可用的数据元"
 
 #: select_dataelementgroup_all
-msgctxt "select_dataelementgroup_all"
 msgid "Select data element group / View all"
 msgstr "选择数据元组"
 
-#: select_category_combo
-msgctxt "select_category_combo"
-msgid "Select category combination"
-msgstr "选择种类组合"
-
 #: selected_dataelements
-msgctxt "selected_dataelements"
 msgid "Selected data elements"
 msgstr "已选数据元"
 
@@ -396,12 +364,10 @@ msgid "Report table parameters"
 msgstr "报表表参数"
 
 #: months_this_year
-msgctxt "months_this_year"
 msgid "Months this year"
 msgstr "今年的月份"
 
 #: quarters_this_year
-msgctxt "quarters_this_year"
 msgid "Quarters this year"
 msgstr "今年的季度"
 
@@ -440,16 +406,6 @@ msgstr "透视表"
 #: indicator_group
 msgid "Indicator group"
 msgstr "指标组"
-
-#: start_date
-msgctxt "start_date"
-msgid "Start date"
-msgstr "开始日期"
-
-#: end_date
-msgctxt "end_date"
-msgid "End date"
-msgstr "结束日期"
 
 #: period_type
 msgid "Period type"
@@ -725,11 +681,6 @@ msgstr "选择组集"
 msgid "Organisation unit distribution report"
 msgstr "组织机构描述"
 
-#: get_report
-msgctxt "get_report"
-msgid "Get report"
-msgstr "获取报表"
-
 #: get_chart
 msgid "Get chart"
 msgstr "获取图表"
@@ -743,7 +694,6 @@ msgid "Select organisation unit"
 msgstr "选择组织机构"
 
 #: get_report
-msgctxt "get_report"
 msgid "Get report"
 msgstr "获取报表"
 
@@ -768,7 +718,6 @@ msgid "Download as JRXML"
 msgstr "获取jrxml报表"
 
 #: select_category_combo
-msgctxt "select_category_combo"
 msgid "Select category combination"
 msgstr "选择种类组合"
 
@@ -852,11 +801,6 @@ msgstr "报表季度"
 msgid "Include org unit group sets param"
 msgstr "包括组织机构组集参数"
 
-#: reporting_period
-msgctxt "reporting_period"
-msgid "Reporting period"
-msgstr "报表周期"
-
 #: last_5_years
 msgid "Last 5 years"
 msgstr "最近5年"
@@ -882,12 +826,10 @@ msgid "Selected organisation unit groups"
 msgstr "选择的组织机构组"
 
 #: start_date
-msgctxt "start_date"
 msgid "Start date"
 msgstr "开始日期"
 
 #: end_date
-msgctxt "end_date"
 msgid "End date"
 msgstr "结束日期"
 
@@ -912,7 +854,6 @@ msgid "Print"
 msgstr "打印"
 
 #: reporting_period
-msgctxt "reporting_period"
 msgid "Reporting period"
 msgstr "报表周期"
 
