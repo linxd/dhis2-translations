@@ -1,0 +1,697 @@
+#. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-validationrule/src/main/resources/org/hisp/dhis/validationrule/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-validationrule/src/main/resources/org/hisp/dhis/validationrule/i18n_module_tet.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-27 09:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: group_members
+msgid "Group Members"
+msgstr "Membrus Grupu"
+
+#: available_data_elements
+msgid "Available data elements"
+msgstr "Elementus dadus disponíveis"
+
+#: saving_validation_rule_failed
+msgid "Saving Validation Rule failed"
+msgstr "La konsege rai Regra Validasaun"
+
+#: operator
+msgid "Operator"
+msgstr "Operador"
+
+#: adding_validation_rule_failed
+msgid "Adding validation rule failed"
+msgstr "La konsege aumenta regra validadsaun"
+
+#: validation_failed
+msgid "Validation failed"
+msgstr "La konsege halo validasaun"
+
+#: right_side
+msgid "Right side"
+msgstr "Sorin lós"
+
+#: left_side
+msgid "Left side"
+msgstr "Sorin karuk"
+
+#: left_brackets
+msgid "Left brackets"
+msgstr "Paréntezis liman karuk"
+
+#: right_brackets
+msgid "Right brackets"
+msgstr "Paréntezis liman lós"
+
+#: multiply
+msgid "Multiply"
+msgstr "Multiplika"
+
+#: divide
+msgid "Divide"
+msgstr "Divide"
+
+#: plus
+msgid "Plus"
+msgstr "Mais"
+
+#: minus
+msgid "Minus"
+msgstr "Menus"
+
+#: no_of_days
+msgid "Number of days"
+msgstr "Númeru loron"
+
+#: specify_left_side
+msgid "Please specify the left side"
+msgstr "Favor espesifika sorin karuk"
+
+#: specify_right_side
+msgid "Please specify the right side"
+msgstr "Favor espesifika sorin lós"
+
+#: specify_operator
+msgid "Please specify an operator"
+msgstr "Favor espesifika operador ida"
+
+#: specify_name
+msgid "Please specify a name"
+msgstr "Favor espesifika naran ida"
+
+#: specify_a_start_date
+msgid "Please specify a start date"
+msgstr "Favor espesifika data hahú"
+
+#: specify_an_ending_date
+msgid "Please specify an ending date"
+msgstr "Favor espesifika data remata"
+
+#: specify_description
+msgctxt "specify_description"
+msgid "Please specify a description"
+msgstr "Favor espesifika deskrisaun ida"
+
+#: specify_expression
+msgctxt "specify_expression"
+msgid "Please specify an expression"
+msgstr "Favor espesifika expresaun ida"
+
+#: enter_a_valid_start_date
+msgid "Please enter a valid start date"
+msgstr "Favor hatama data hahú válidu ida"
+
+#: enter_a_valid_ending_date
+msgid "Please enter a valid end date"
+msgstr "Favor hatama data remata válidu ida"
+
+#: end_date_cannot_be_before_start_date
+msgid "End date can not be before start date"
+msgstr "Data remata labele uluk liu data hahú"
+
+#: name_in_use
+msgid "The name is in use"
+msgstr "Nara ida ne'e uza ona"
+
+#: dataelements_left_must_be_type_integers
+msgid "The data elements on the left side must be of type numbers"
+msgstr "Elementus dadus iha sorin karuk tenkiser ho tipu númerus"
+
+#: dataelements_right_must_be_type_integers
+msgid "The data elements on the right side must be of type numbers"
+msgstr "Elementus dadus iha sorin lós tenkiser ho tipu númerus"
+
+#: create_new_validation_rule
+msgid "Create new validation rule"
+msgstr "Kria regra validasaun foun"
+
+#: validate
+msgid "Validate"
+msgstr "Valida"
+
+#: confirm_delete_validation_rule
+msgid "Are you sure you want to delete the validation rule?"
+msgstr "Itabo'ot iha duni serteza atu soe regra validasaun?"
+
+#: confirm_delete_validation_rule_group
+msgid "Are you sure you want to delete the validation rule group?"
+msgstr "Itabo'ot iha duni serteza atu soe grupu regra validasaun?"
+
+#: edit_left_side
+msgid "Edit left side"
+msgstr "Edita sorin karuk"
+
+#: edit_right_side
+msgid "Edit right side"
+msgstr "Edita sorin lós"
+
+#: select_operator
+msgid "Select operator"
+msgstr "Hili operador"
+
+#: left
+msgid "Left"
+msgstr "Karuk"
+
+#: right
+msgid "Right"
+msgstr "Lós"
+
+#: textual_expression_description
+msgid "Textual expression description"
+msgstr "Deskrisaun expresaun textual"
+
+#: edit_validation_rule
+msgid "Edit validation rule"
+msgstr "Edita regra validasaun"
+
+#: validation_rule
+msgid "Validation Rule"
+msgstr "Regra Validasaun"
+
+#: run_validation
+msgid "Run validation"
+msgstr "Halao Validasaun"
+
+#: value
+msgid "Value"
+msgstr "Valor"
+
+#: data_element
+msgid "Data element"
+msgstr "Elementu dadus"
+
+#: organisation_unit
+msgid "Organisation unit"
+msgstr "Unidade organizasional"
+
+#: period
+msgid "Period"
+msgstr "Períodu"
+
+#: source
+msgid "Source"
+msgstr "Fonte"
+
+#: done
+msgid "Done"
+msgstr "Halo hotu ona"
+
+#: validation
+msgctxt "validation"
+msgid "Validation"
+msgstr ""
+
+#: VALIDATION
+msgctxt "VALIDATION"
+msgid "Validation"
+msgstr ""
+
+#: data_quality_report
+msgid "Data quality report"
+msgstr "Relatóriu kualidade dadus"
+
+#: validation_result_details
+msgid "Validation result details"
+msgstr "Detalles regra validasaun"
+
+#: validation_rule_
+msgid "Validation rule"
+msgstr "Regra validasaun"
+
+#: dataelement_id_not_numeric
+msgid "Data element identifier must be a number"
+msgstr "Identifikador elementu dadus tenkiser númeru ida"
+
+#: category_option_combo_id_not_numeric
+msgid "Category option combo identifier must be a number"
+msgstr "Category option combo identifier must be a number"
+
+#: data_element_does_not_exist
+msgid "Identifier does not reference a data element"
+msgstr "Identifikador la halo referensia ba elementu dadus ida"
+
+#: category_option_combo_does_not_exist
+msgid "Identifier does not reference a category option combo"
+msgstr "Identifikador la halo referensia ba kombinasaun opsaun kategoria ida"
+
+#: expression_not_well_formed
+msgid "Expression is not well formed"
+msgstr "Expresaun la forma ho diak"
+
+#: everything_is_ok
+msgid "Everything is OK"
+msgstr "Buat hotu diak"
+
+#: validation_rule_group_management
+msgid "Validation rule group management"
+msgstr "Jestaun grupu regra validasaun"
+
+#: validation_rule_management
+msgid "Validation rule management"
+msgstr "Jestaun regra validasaun"
+
+#: validation_rule_group
+msgid "Validation Rule Group"
+msgstr "Grupu Regra Validasaun"
+
+#: create_new_validation_rule_group
+msgid "Create new validation rule group"
+msgstr "Kria grupu regra validasaun foun"
+
+#: available
+msgid "Available"
+msgstr "Disponível"
+
+#: selected
+msgid "Selected"
+msgstr "Selesionadu"
+
+#: validation_rules
+msgid "Validation rules"
+msgstr "Regras validasaun"
+
+#: user_groups_to_alert
+msgid "User groups to alert"
+msgstr "Grupu utilizadores ne'ebé atu alerta"
+
+#: alert_by_org_units
+msgid "Alert only organisation unit related users"
+msgstr "Alerta deit utilizadores ne'ebé iha relasaun ho unidade organizasional"
+
+#: yes
+msgid "Yes"
+msgstr "Sim"
+
+#: no
+msgid "No"
+msgstr "Lae"
+
+#: available_validation_rules
+msgid "Available validation rules"
+msgstr "Regras validasaun disponíveis"
+
+#: edit_validation_rule_group
+msgid "Edit validation rule group"
+msgstr "Edita regras validasaun"
+
+#: all_validation_rules
+msgid "All validation rules"
+msgstr "Regras validasaun hotu-hotu"
+
+#: validation_alerts
+msgid "Validation alerts"
+msgstr ""
+
+#: validation_passed_successfully
+msgid "Validation passed successfully"
+msgstr "Validasaun pasa ho susesu"
+
+#: from_date
+msgid "From date"
+msgstr "Husi data"
+
+#: to_date
+msgid "To date"
+msgstr "To'o data"
+
+#: std_dev
+msgid "Standard Deviation"
+msgstr "Desviu Padraun"
+
+#: max
+msgid "Max"
+msgstr "Máx"
+
+#: min
+msgid "Min"
+msgstr "Mín"
+
+#: values_found
+msgid "values found"
+msgstr "valores ne'ebé hetan"
+
+#: select_std_dev
+msgid "Select number of standard deviations"
+msgstr "Hili númeru desvius padraun"
+
+#: select_parent_organisation_unit
+msgid "Select parent organisation unit"
+msgstr "Hili unidade organizasional inan"
+
+#: outlier_analysis
+msgid "Outlier Analysis"
+msgstr ""
+
+#: no_values_found
+msgid "No values found"
+msgstr "La hetan valores ida"
+
+#: intro_validation_rule
+msgid ""
+"Add, modify, view and delete validation rules. Anomalies can be discovered "
+"by running validation rules against the data."
+msgstr ""
+"Aumenta, modifika, haré no soe regras validasaun. Bele hetan anomalias ho "
+"dalan halao aplika regras validasaun ba dadus."
+
+#: intro_validation_rule_group
+msgid ""
+"Add, modify, view and delete validation rule groups. Provides the ability to "
+"group and run validation rules together."
+msgstr ""
+"Aumenta, modifika, haré no soe grupus regra validasaun. Oferese kapasidade "
+"atu agrupa no halao regras validasaun hamutuk."
+
+#: intro_validation_rule_analysis
+msgid ""
+"Run validation rules in order to unveil anomalies and errors in the data in "
+"the database."
+msgstr ""
+"Halao validasaun atu revela anomalias i errus iha dadus iha banku dadus."
+
+#: intro_stddevoutlier_analysis
+msgid ""
+"Analyze potential outlier values based on standard deviations. Outlier "
+"values can be examined and marked for follow-up."
+msgstr ""
+"Analiza valores diskrepantes potensias ho baze ba desviu padraun. Bele "
+"ezamina no marka malores diskrepantes atu halo segimentu."
+
+#: intro_minmaxoutlier_analysis
+msgid ""
+"Analyze potential outlier values based on min and max values. Outlier values "
+"can be examined and marked for follow-up."
+msgstr ""
+"Analiza valores diskrepantes potensias ho baze ba valores máximus no "
+"mínimus. Bele ezamina no marka malores diskrepantes atu halo segimentu."
+
+#: intro_gap_analysis
+msgid ""
+"Perform analysis of potential missing values, referred to as gaps. Missing "
+"values can be entered or marked for follow-up."
+msgstr ""
+"Halo análize ba potensiais valores ne'ebé falta, ne'ebé refere hanesan "
+"lakunas. Bele hatama valores sira ne'ebé falta ou marka atu halo segimentu."
+
+#: intro_followup_analysis
+msgid ""
+"View or edit data values marked for further follow-up during data entry or "
+"analysis."
+msgstr ""
+"Haré ou edita valores sira ne'ebé marka tiha ona atu halo segimentu durante "
+"entrada ou análize dadus."
+
+#: value_must_be_a_number
+msgid "Value must be a number"
+msgstr "Valor tenkiser númeru ida"
+
+#: value_is_lower_than_min_value
+msgid "Value is lower than minimum value"
+msgstr "Valor kiik liu valor mínimu"
+
+#: value_is_higher_than_max_value
+msgid "Value is higher than maximum value"
+msgstr "Valor bo'ot liu valor máximu"
+
+#: mark
+msgid "Mark"
+msgstr "Marka"
+
+#: mark_value_for_followup
+msgid "Mark value for follow-up"
+msgstr "Marka valor atu halo segimentu"
+
+#: unmark_value_for_followup
+msgid "Unmark value for follow-up"
+msgstr "Desmarka valor atu halo segimentu"
+
+#: data_analysis
+msgid "Data Analysis"
+msgstr "Análize Dadus"
+
+#: data_analysis_report
+msgid "Data Analysis Report"
+msgstr "Relatóriu Análize Dadus"
+
+#: stddevoutlier_analysis
+msgid "Std Dev Outlier Analysis"
+msgstr "Análize Desviu Padraun (Valor) Diskrepante "
+
+#: minmaxoutlier_analysis
+msgid "Min-Max Outlier Analysis"
+msgstr "Análize Min-Max (Valor) Diskrepante"
+
+#: gap_analysis
+msgid "Gap Analysis"
+msgstr "Análize Lakuna"
+
+#: followup_analysis
+msgid "Follow-Up Analysis"
+msgstr "Análize Segimentu"
+
+#: validation_rule_analysis
+msgid "Validation Rule Analysis"
+msgstr "Análize Regra Validasaun"
+
+#: result
+msgid "result"
+msgstr "rezultadu"
+
+#: start
+msgid "Start"
+msgstr "Hahú"
+
+#: clear_expression
+msgid "Clear expression"
+msgstr "Hamós expresaun"
+
+#: period_type
+msgid "Period type"
+msgstr "Tipu períodu"
+
+#: available_data_sets
+msgid "Available data sets"
+msgstr "Pakotes dadus disponíveis"
+
+#: selected_data_sets
+msgid "Selected data sets"
+msgstr "Pakotes dadus selesionadus"
+
+#: analysing_data
+msgid "Analysing data"
+msgstr "Analiza daudaun dadus"
+
+#: data_source
+msgid "Data source"
+msgstr "Fonte dadus"
+
+#: use_captured_data
+msgid "Use captured data"
+msgstr "Uza dadus kapturadus"
+
+#: use_aggregated_data
+msgid "Use aggregated data"
+msgstr "Uza dadus agregadus"
+
+#: aggregate_data_info
+msgid "Immediate children of the selected organisation unit will be included"
+msgstr "Sei inklui mós unidade organizasional selesionada nia oan diretu"
+
+#: captured_data_info
+msgid "All children of the selected organisation unit will be included"
+msgstr "Sei inklui mós unidade organizasional selesionada nia oan hotu"
+
+#: method
+msgid "Method"
+msgstr "Métodu"
+
+#: see_statistics
+msgid "See statistics"
+msgstr "Haré estatístikas"
+
+#: description_not_null
+msgctxt "description_not_null"
+msgid "Please specify a description"
+msgstr "Favor espesifika deskrisaun ida"
+
+#: expression_not_null
+msgctxt "expression_not_null"
+msgid "Please specify an expression"
+msgstr "Favor espesifika expresaun ida"
+
+#: number_of_members
+msgid "Number of members"
+msgstr "Númeru membrus"
+
+#: specify_organisationunit_has_children
+msgid "Please specify an organisationunit which has children."
+msgstr ""
+"Favor espesifika unidade organizasional ida ne'ebé iha oan/sanakPlease "
+"specify an organisationunit which has children."
+
+#: get_report_as_xls
+msgid "Download as Excel"
+msgstr "Hatun hanesan Excel"
+
+#: get_report_as_csv
+msgid "Download as CSV"
+msgstr "Hatun hanesan CSV"
+
+#: get_report_as_pdf
+msgid "Download as PDF"
+msgstr "Hatun hanesan PDF"
+
+#: max_values_exceeded
+msgid "More than 500 values found, please narrow the search to see all"
+msgstr "Hetan valores liu 500m favor haklót buska atu haré hotu"
+
+#: specify_dataset
+msgid "Please specify data sets"
+msgstr "Favor espesifika pakotes dadus"
+
+#: analysing_please_wait
+msgid "Analysing data, please wait"
+msgstr "Analiza daudaun dadus, favor hein"
+
+#: skip_for_missing_values
+msgid "Skip for missing values"
+msgstr "Hakat liu valores ne'ebé falta"
+
+#: select_parameters
+msgid "Select parameters"
+msgstr "Hili parámetrus"
+
+#: compulsory_pair
+msgid "Compulsory pair"
+msgstr "Par obrigatóriu"
+
+#: visible_in_validation_alerts
+msgid "visible in validation alerts"
+msgstr "haré hetan iha alertas validasaun"
+
+#: tip
+msgid "Tip"
+msgstr "Dika"
+
+#: use
+msgid "use"
+msgstr "uza"
+
+#: importance
+msgid "Importance"
+msgstr "Importánsia"
+
+#: high
+msgctxt "high"
+msgid "High"
+msgstr "Ás"
+
+#: medium
+msgctxt "medium"
+msgid "Medium"
+msgstr "Médiu"
+
+#: low
+msgctxt "low"
+msgid "Low"
+msgstr "Badak"
+
+#: HIGH
+msgctxt "HIGH"
+msgid "High"
+msgstr ""
+
+#: MEDIUM
+msgctxt "MEDIUM"
+msgid "Medium"
+msgstr ""
+
+#: LOW
+msgctxt "LOW"
+msgid "Low"
+msgstr ""
+
+#: rule_type
+msgid "Rule type"
+msgstr "Tipu regra "
+
+#: surveillance
+msgctxt "surveillance"
+msgid "Surveillance"
+msgstr "Vijilansia"
+
+#: SURVEILLANCE
+msgctxt "SURVEILLANCE"
+msgid "Surveillance"
+msgstr ""
+
+#: attributes
+msgid "Attributes"
+msgstr "Atributus"
+
+#: organisation_unit_level
+msgid "Organisation unit level"
+msgstr "Nível unidade organizasional"
+
+#: select_level
+msgid "Select level"
+msgstr "Hili nível"
+
+#: sequential_sample_count
+msgid "Sequential sample count"
+msgstr "Kontajen amostra sekuensial"
+
+#: annual_sample_count
+msgid "Annual sample count"
+msgstr "Kontajen amostra anual"
+
+#: high_outliers
+msgid "High outliers"
+msgstr "Diskrepantes áas"
+
+#: low_outliers
+msgid "Low outliers"
+msgstr "Diskrepantes badak"
+
+#: number_of_user_groups_to_alert
+msgid "Number of user groups to alert"
+msgstr "Númeru grupus ne'ebé atu alerta"
+
+#: send_alerts
+msgid "Send alerts"
+msgstr "Haruka alertas"
+
+#: visible_when_rule_is_violated
+msgid "visible when rule is violated"
+msgstr "haré hetan wainhira iha valor ne'ebé falta"
+
+#: instruction
+msgid "Instruction"
+msgstr "Instrusaun"
+
+#: skip_if_any_value_is_missing
+msgid "Skip if any value is missing"
+msgstr "Hakat liu wainhira valor ruma falta"
+
+#: skip_if_all_values_are_missing
+msgid "Skip if all values are missing"
+msgstr "Hakat liu wainhira valores hotu falta"
+
+#: never_skip
+msgid "Never skip"
+msgstr "Nunka bele hakat liu"
+
+#: no_organisation_unit_selected
+msgid "No organisation unit selected"
+msgstr "Laiha unidade organizasional selesionada"

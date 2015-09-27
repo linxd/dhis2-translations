@@ -1,0 +1,496 @@
+#. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-dataentry/src/main/resources/org/hisp/dhis/de/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-dataentry/src/main/resources/org/hisp/dhis/de/i18n_module_tet.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-27 09:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: dataelement_comment
+msgid "Comment"
+msgstr "Komentáriu"
+
+#: history_not_valid
+msgid "No history for this data element"
+msgstr "Laiha istóriku ba elementu dadus ida ne'e"
+
+#: data_element
+msgid "Data element"
+msgstr "Elementu dadus"
+
+#: min
+msgid "Min"
+msgstr "Min"
+
+#: entry
+msgid "Entry"
+msgstr "Entrada"
+
+#: max
+msgid "Max"
+msgstr "Max"
+
+#: timestamp
+msgid "Timestamp"
+msgstr "Karimbu tempu"
+
+#: stored_by
+msgid "Stored by"
+msgstr "Armazena husi"
+
+#: stored_date
+msgid "Stored date"
+msgstr "Data Armazenamentu"
+
+#: last_updated
+msgid "Last updated"
+msgstr "Atualizasaun ikus"
+
+#: update
+msgid "Update"
+msgstr "Atualizadu"
+
+#: delete
+msgid "Delete"
+msgstr "Soe"
+
+#: no_value
+msgid "No value"
+msgstr "Laiha valor"
+
+#: maximum
+msgid "Maximum"
+msgstr "Máximu"
+
+#: organisation_unit
+msgid "Organisation Unit"
+msgstr "Unidade Organizasaun"
+
+#: data_set
+msgid "Data Set"
+msgstr "Konjuntu Dadus"
+
+#: select
+msgid "Select"
+msgstr "Selesiona"
+
+#: period
+msgid "Period"
+msgstr "Períodu"
+
+#: form_field
+msgid "Form field"
+msgstr "Kampu formuláriu"
+
+#: filter_on_section
+msgid "Filter on section"
+msgstr "Filtru iha seksaun"
+
+#: filter_in_section
+msgid "Filter in section"
+msgstr "Filtru iha seksaun"
+
+#: show_all_sections
+msgid "Show all sections"
+msgstr "Hatudu seksaun hotu"
+
+#: show_all_items
+msgid "Show all items"
+msgstr "Hatudu item hotu"
+
+#: earlier_periods
+msgid "Earlier periods"
+msgstr "Períodu sira uluk"
+
+#: later_periods
+msgid "Later periods"
+msgstr "Períodu sira ikus"
+
+#: value_of_data_element_less
+msgid ""
+"The value of the following data element is less than the specified minimum "
+"value."
+msgstr "Valor husi elementu dadus tuir mai ne'e kiik liu valor mínimu aseitável"
+
+#: value_of_data_element_greater
+msgid ""
+"The value of the following data element is greater than the specified "
+"maximum value."
+msgstr ""
+"Valor husi elementu dadus tuir mai ne'e boot  liu valor mínimu aseitável"
+
+#: saving_value_failed_status_code
+msgid "Saving value failed with status code"
+msgstr "La konsege rai valor ho kódigu estadu "
+
+#: saving_value_failed_dataset_is_locked
+msgid "Data set is locked, please contact admin"
+msgstr "Konjuntu dadus xave hela, favor kontakta administrador"
+
+#: saving_comment_failed_status_code
+msgid "Saving comment failed with status code"
+msgstr "La konsege rai komentáriu ho kódigu estadu"
+
+#: saving_comment_failed_error_code
+msgid "Saving comment failed with error code"
+msgstr "La konsege rai komentáriu ho kódigu erru"
+
+#: saving_minmax_failed_error_code
+msgid "Saving min/max values failed with error code"
+msgstr "La konsege rai valores max/min ho kódigu erru"
+
+#: move
+msgid "Move"
+msgstr "Muda"
+
+#: date
+msgid "Date"
+msgstr "Data"
+
+#: min_limit
+msgid "Min limit"
+msgstr "Limite mínimu"
+
+#: max_limit
+msgid "Max limit"
+msgstr "Limite máximu"
+
+#: dataelement_history
+msgid "Data element history"
+msgstr "Istóriku elementu dadus"
+
+#: audit_trail
+msgid "Audit trail"
+msgstr "Pista auditoria"
+
+#: nr
+msgid "Nr"
+msgstr "Nr"
+
+#: min_max_limits
+msgid "Min-max limits"
+msgstr "Limites máx-min"
+
+#: run_validation
+msgid "Run validation"
+msgstr "Halao validasaun"
+
+#: validation_result
+msgid "Validation Result"
+msgstr "Rezultadu validasaun"
+
+#: expression
+msgid "Expression"
+msgstr "Expresaun"
+
+#: successful_validation
+msgid "The data entry screen successfully passed validation"
+msgstr "Ékran entrada dadus pasa validasaun ho susesu"
+
+#: data_entry_screen_has_following_errors
+msgid ""
+"The data entry screen has the following validation errors, please correct"
+msgstr ""
+"Ékran entrada dadus iha errus validasaun sira tuir mai ne'e, favor korrije"
+
+#: the_following_values_are_outliers
+msgid ""
+"The following values are considered as outliers (min-max or std dev), please "
+"correct"
+msgstr ""
+"Valor sira tuir mai ne'e konsidera valores extremus (min-max ou desviu "
+"padraun), favor korrije"
+
+#: the_following_fields_require_comment
+msgid "The following input fields require a comment, please enter"
+msgstr "Kampus entrada sira tuir mai ne'e presiza komentáriu, favor hatama"
+
+#: the_following_values_violate_rules
+msgid "The following values violate validation rules"
+msgstr "Valores sira tuir mai ne'e viola regras validasaun"
+
+#: operator
+msgid "Operator"
+msgstr "Operador"
+
+#: no_organisationunit_selected
+msgid "No Organisation Unit Selected"
+msgstr "Laiha Unidade Organizasaun ne'ebé Selesionadu"
+
+#: no_period_selected
+msgid "No Period Selected"
+msgstr "Laiha Períodu Selesionadu"
+
+#: no_dataelement_selected
+msgid "No Data Element Selected"
+msgstr "Laiha Elementu Dadus Selesionadu"
+
+#: dataset_is_locked
+msgid "Data set is locked"
+msgstr "Konjuntu dadus blokeadu"
+
+#: complete
+msgid "Complete"
+msgstr "Kompletu"
+
+#: incomplete
+msgid "Incomplete"
+msgstr "Inkompletu"
+
+#: confirm_complete
+msgid "Are you sure this data set is complete?"
+msgstr "Itabo'ot iha srteza katak konjuntu dadus ne'e kompletu?"
+
+#: confirm_undo
+msgid "Are you sure you will undo the registration?"
+msgstr "Itabo'ot iha serteza atu anula rejistu?"
+
+#: data_entry
+msgid "Data Entry"
+msgstr "Entrada Dadus"
+
+#: followup
+msgid "Follow-up"
+msgstr "Segimentu"
+
+#: validation_rule
+msgid "Validation rule"
+msgstr "Regra validasaun"
+
+#: register_complete_dataset_success
+msgid "Registered complete data set"
+msgstr "Konjuntu dadus kompletu rejistadu"
+
+#: register_complete_dataset_failed
+msgid "Register complete data set failed"
+msgstr "La konsege rejista konjuntu dadus"
+
+#: undo_register_complete_dataset_success
+msgid "Undo register complete data set success"
+msgstr "Susesu iha anulasaun rejistu  konjuntu dadus kompletu"
+
+#: enter_digits
+msgid "Enter digit only."
+msgstr "Hatama díjitus deit."
+
+#: value_is_too_long
+msgid "Value is too long"
+msgstr "Valor naruk demais"
+
+#: field_unallowed_save_zero
+msgid ""
+"This element does not permit 0 values. The original value will not be "
+"affected."
+msgstr "Elementu ida ne'e la permite valor 0. Sei la afeta valor orijinal."
+
+#: datavalue_history
+msgid "Data value history"
+msgstr ""
+
+#: max_must_be_greater_than_min
+msgid "Max must be greater than min"
+msgstr "Tenkiser boot liu min"
+
+#: next
+msgid "Next"
+msgstr "Próximu"
+
+#: prev
+msgid "Prev"
+msgstr "Anterior"
+
+#: select_from_tree
+msgid "Select from tree on the left side"
+msgstr "Hili husi ai-hun iha karuk"
+
+#: select_data_set
+msgid "Select data set"
+msgstr "Hili konjuntu dadus"
+
+#: select_period
+msgid "Select period"
+msgstr "Hili períodu"
+
+#: select_option
+msgid "Select option"
+msgstr "Hili opsaun"
+
+#: change_from
+msgid "change from"
+msgstr "muda husi"
+
+#: modification
+msgid "Modification"
+msgstr "Modifikasaun"
+
+#: modified_by
+msgid "Modified by"
+msgstr "Modifika husi"
+
+#: to
+msgid "to"
+msgstr "bá"
+
+#: on
+msgid "On"
+msgstr "On"
+
+#: value
+msgid "Value"
+msgstr ""
+
+#: no_response_from_server
+msgid "No response from server, please check connectivity and try again"
+msgstr ""
+"Laiha resposta husi servidor, favor verifika  konetividade depois koko fali"
+
+#: save
+msgid "Save"
+msgstr "Rai"
+
+#: save_comment
+msgid "Save comment"
+msgstr "Rai komentáriu"
+
+#: operation_not_available_offline
+msgid "This operation is not available in off-line mode"
+msgstr "Operasaun ida ne'e la disponível iha módulu offline"
+
+#: mark_value_for_followup
+msgid "Mark value for follow-up"
+msgstr "Marka valor atu halo segimentu"
+
+#: unmark_value_for_followup
+msgid "Un-mark value for follow-up"
+msgstr "Desmarka valor atu halo segimentu"
+
+#: completed_by
+msgid "Completed by"
+msgstr "Kompleta husi"
+
+#: at
+msgid "at"
+msgstr "iha"
+
+#: prev_year
+msgid "Prev year"
+msgstr "Tinan kotuk"
+
+#: next_year
+msgid "Next year"
+msgstr "Tinan oin"
+
+#: see_details
+msgid "See details"
+msgstr "Haré detalles"
+
+#: username
+msgid "Username"
+msgstr "Naran uzuáriu"
+
+#: user_roles
+msgid "User roles"
+msgstr "Kompetensia uzuáriu sira"
+
+#: register_complete_failed_dataset_is_locked
+msgid "Data set is locked, registration failed, please contact admin"
+msgstr ""
+"Konjuntu dadus blokeadu, la konsege rejista, favor kontakta administrador"
+
+#: unregister_complete_failed_dataset_is_locked
+msgid "Data set is locked, un-registration failed, please contact admin"
+msgstr ""
+"Konjuntu dadus blokeadu, la konsege anula rejistu, favor kontakta "
+"administrador"
+
+#: dataelement_with_id
+msgid "Data element with identifier"
+msgstr "Elementu dadus ho identifikador"
+
+#: category_option_combo_with_id
+msgid "Category option combination identifier"
+msgstr "Identifikador kombinasaun opsaun kategoria"
+
+#: does_not_exist
+msgid "does not exist"
+msgstr "laiha"
+
+#: does_not_exist_in_data_set
+msgid "does not exist in data set"
+msgstr ""
+
+#: insert_input_fields_into_the_form
+msgid "Insert input fields into the form"
+msgstr "Insere kampus entrada iha formuláriu"
+
+#: select_data_element
+msgid "Select data element"
+msgstr "Selesiona elementu dadus"
+
+#: all_values_for_data_element_must_be_filled
+msgid ""
+"This form requires that all fields for a data element must be filled, please "
+"correct this before continuing."
+msgstr ""
+"Formulariu ida ne'e reker atu preenxe kampu hotu-hotu kada elementu dadus,  "
+"favor korrije nia antes de kontinua."
+
+#: childrens_forms
+msgid "Sub Organisation Units"
+msgstr "Sub Unidades Organizasaun"
+
+#: left_side
+msgid "Left side"
+msgstr "Liman karuk"
+
+#: right_side
+msgid "Right side"
+msgstr "Liman lós"
+
+#: no_periods_click_prev_year_button
+msgid "No periods, click \"Prev year\" button"
+msgstr "Laiha períodus, klik butaun \"Tinan kotuk\""
+
+#: print
+msgid "Print"
+msgstr "Imprime"
+
+#: view_comment
+msgid "View comment"
+msgstr "Haré komentáriu"
+
+#: no_orgunits
+msgid "No organisation unit attached to current user, no data entry possible"
+msgstr ""
+"Laiha unidade organizasaun ligadu ba uzuáriu korrente, labele hatam dadus"
+
+#: validation_rules_are_being_processed_please_wait
+msgid "Validation rules are being processed, please wait"
+msgstr "Sei prosesa daudaun regras validasaun, favor hein"
+
+#: section
+msgid "Section"
+msgstr "Seksaun"
+
+#: print_form
+msgid "Print form"
+msgstr "Imprime formuláriu"
+
+#: print_blank_form
+msgid "Print blank form"
+msgstr "Imprime formuláriu mamuk"
+
+#: instruction
+msgid "Instruction"
+msgstr "Instrusaun"
+
+#: there_is_no_audit_trail_for_this_value
+msgid "There is no audit trail for this value"
+msgstr "Laiha rejistu auditoria ba valor ida ne'e"

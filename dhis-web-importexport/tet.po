@@ -1,0 +1,1808 @@
+#. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-importexport/src/main/resources/org/hisp/dhis/importexport/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-importexport/src/main/resources/org/hisp/dhis/importexport/i18n_module_tet.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-27 09:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: datavalue
+msgctxt "datavalue"
+msgid "Data Value"
+msgstr "Valor Dadus"
+
+#: import
+msgid "Import"
+msgstr ""
+
+#: select
+msgid "Select"
+msgstr "Selesiona"
+
+#: period_type
+msgid "Period Type"
+msgstr "Tipu Períodu"
+
+#: export
+msgid "Export"
+msgstr "Exporta"
+
+#: action
+msgid "Action"
+msgstr "Asaun"
+
+#: from
+msgid "From"
+msgstr "Husi"
+
+#: to
+msgid "To"
+msgstr "Bá"
+
+#: period
+msgid "Period"
+msgstr "Períodu"
+
+#: selected_data_elements
+msgid "Selected data elements"
+msgstr "Elementus dadus selesionadus"
+
+#: available_data_elements
+msgid "Available data elements"
+msgstr "Elementus dadus disponíveis"
+
+#: indicators
+msgid "Indicators"
+msgstr "Indikadores"
+
+#: datavalues
+msgid "Data values"
+msgstr "Valores dadus"
+
+#: available_datasets
+msgid "Available data sets"
+msgstr "Pakotes dadus disponíveis"
+
+#: selected_datasets
+msgid "Selected data sets"
+msgstr "Pakotes dadus selesionadus"
+
+#: available_indicators
+msgid "Available indicators"
+msgstr "Indikadores disponíveis"
+
+#: selected_indicators
+msgid "Selected indicators"
+msgstr "Indikadores selesionadus"
+
+#: level
+msgid "Level"
+msgstr "Nível"
+
+#: clear
+msgid "Clear"
+msgstr "Klaru"
+
+#: dhis14_import
+msgid "DHIS 1.4 Import"
+msgstr "Importa DHIS 1.4"
+
+#: organisation_units
+msgid "Organisation units"
+msgstr "Unidades organizasionais"
+
+#: periods
+msgid "Periods"
+msgstr "Períodus"
+
+#: importing
+msgid "Importing..."
+msgstr "Importa daudaun..."
+
+#: done
+msgid "Done"
+msgstr "Halo hotu ona"
+
+#: compare
+msgid "Compare"
+msgstr "Kompara"
+
+#: source
+msgid "Source"
+msgstr "Fonte"
+
+#: object_type
+msgid "Object type"
+msgstr "Tipu objetu"
+
+#: del
+msgid "Del"
+msgstr "Del"
+
+#: up
+msgid "Up"
+msgstr "Sae"
+
+#: specify_file
+msgid "Please specify a file"
+msgstr "Favor espesifika arkivu ida"
+
+#: data_sets
+msgid "Data sets"
+msgstr "Pakotes dadus"
+
+#: file
+msgid "File"
+msgstr "Arkivu"
+
+#: elements
+msgid "Elements"
+msgstr "Elementus"
+
+#: data
+msgid "Data"
+msgstr "Dadus"
+
+#: import_preview
+msgid "Import Preview"
+msgstr "Prevé Importasaun"
+
+#: select_none
+msgid "Select none"
+msgstr "La hili nein ida"
+
+#: unique
+msgid "Unique"
+msgstr "Úniku"
+
+#: matching
+msgid "Matching"
+msgstr "Korrespondente"
+
+#: preview
+msgid "Preview"
+msgstr ""
+
+#: skip
+msgid "Skip"
+msgstr "Hakat liu"
+
+#: dataelement
+msgctxt "dataelement"
+msgid "Data element"
+msgstr "Elementu dadus"
+
+#: indicator
+msgid "Indicator"
+msgstr "Indikador"
+
+#: indicator_group
+msgid "Indicator group"
+msgstr "Grupu indikadores"
+
+#: dataset
+msgid "Data set"
+msgstr "Pakote dadus"
+
+#: organisationunit
+msgctxt "organisationunit"
+msgid "Organisation unit"
+msgstr "Unidade organizasional"
+
+#: data_element_groups
+msgid "Data element groups"
+msgstr "Grupus elementus dadus"
+
+#: indicator_groups
+msgid "Indicator groups"
+msgstr "Grupus indikadores"
+
+#: organisation_unit
+msgctxt "organisation_unit"
+msgid "Organisation unit"
+msgstr "Unidade organizasional"
+
+#: organisation_unit_groups
+msgid "Organisation unit groups"
+msgstr "Grupus unidades organizasionais"
+
+#: organisation_unit_group_sets
+msgid "Organisation unit group sets"
+msgstr "Pakotes grupu unidades organizasinais"
+
+#: export_to_other_systems
+msgid "Export to other systems"
+msgstr "Exporta ba sistema seluk"
+
+#: import_from_other_systems
+msgid "Import from other systems"
+msgstr "Importa husi sistema seluk"
+
+#: DHIS14_metadata_export
+msgid "DHIS 1.4 Metadata Export"
+msgstr "Exporta Metadata DHIS 1.4"
+
+#: DHIS14_data_export
+msgid "DHIS 1.4 Data Export"
+msgstr "Exporta Dadus DHIS 1.4"
+
+#: accept_incoming_records
+msgid "Accept incoming records"
+msgstr "Simu rejistus ne'ebé tama"
+
+#: include_datavalues
+msgid "Include data values"
+msgstr ""
+
+#: new_and_updates
+msgid "New and Updates"
+msgstr "Foun no Atualizadus"
+
+#: new_no_updates
+msgid "New ( No Updates )"
+msgstr "Foun ( Laiha atualizadus )"
+
+#: data_element
+msgctxt "data_element"
+msgid "Data element"
+msgstr "Elementu dadus"
+
+#: data_element_group
+msgid "Data element group"
+msgstr "Grupu elementu dadus"
+
+#: organisation_unit_group
+msgid "Organisation unit group"
+msgstr "Grupu unidade organizasional"
+
+#: organisation_unit_group_set
+msgid "Organisation unit group set"
+msgstr "Pakote grupu unidade organizasional"
+
+#: category_option
+msgid "Category option"
+msgstr "Opsaun kategoria"
+
+#: category_option_group
+msgid "Category option group"
+msgstr "Grupu opsasun kategoria"
+
+#: option_set
+msgid "Option set"
+msgstr "Pakote opsaun"
+
+#: element
+msgid "Element"
+msgstr ""
+
+#: objects
+msgid "Objects"
+msgstr "Objetus"
+
+#: discard_selected
+msgid "Discard selected"
+msgstr "Soe sira ne'ebe selesionadus"
+
+#: discard_all
+msgid "Discard all"
+msgstr "Soe hotu"
+
+#: match_to_existing
+msgid "Match to existing"
+msgstr "Kombina ho ne'ebé iha ona"
+
+#: compare_to_existing
+msgid "Compare to existing"
+msgstr "Kompara ho ne'ebé iha ona"
+
+#: property
+msgid "Property"
+msgstr "Propriedade"
+
+#: existing_objects
+msgid "Existing objects"
+msgstr "Objetus existentes"
+
+#: discard
+msgid "Discard"
+msgstr "Soe"
+
+#: new_object
+msgid "New object"
+msgstr "Objetu foun"
+
+#: existing_object
+msgid "Existing object"
+msgstr "Objetu ezistenten"
+
+#: file_type_not_allowed
+msgid "File type not allowed"
+msgstr "La permite arkivu tipu ida ne'e"
+
+#: import_all
+msgid "Import all"
+msgstr "Importa hotu"
+
+#: factor
+msgid "Factor"
+msgstr "Faktor"
+
+#: match
+msgid "Match"
+msgstr "Korresponde ba malu"
+
+#: discard_update
+msgid "Discard update"
+msgstr "Soe atualizasaun"
+
+#: show_advanced_options
+msgid "Show advanced options"
+msgstr "Hatudu opsoens avansadas"
+
+#: hide_advanced_options
+msgid "Hide advanced options"
+msgstr "Subar opsoens avansadas"
+
+#: move_selected
+msgid "Move selected"
+msgstr ""
+
+#: move_all
+msgid "Move all"
+msgstr ""
+
+#: remove_selected
+msgid "Remove selected"
+msgstr ""
+
+#: remove_all
+msgid "Remove all"
+msgstr ""
+
+#: pdf_metadata_export
+msgid "PDF Metadata Export"
+msgstr "Exporta Metadata PDF"
+
+#: xls_metadata_export
+msgid "XLS Metadata Export"
+msgstr "Exporta Metadata XLS"
+
+#: version
+msgid "Version"
+msgstr "Versaun"
+
+#: status
+msgid "Status"
+msgstr "Estadu"
+
+#: data_type
+msgid "Data type"
+msgstr "Tipu dadus"
+
+#: validation_rules
+msgid "Validation rules"
+msgstr "Regras validasaun"
+
+#: last_updated
+msgid "Last updated"
+msgstr "Atualiza ikusLast updated"
+
+#: validation_rule
+msgid "Validation rule"
+msgstr "Regra validasaun"
+
+#: operator
+msgid "Operator"
+msgstr "Operador"
+
+#: data_elements
+msgid "Data elements"
+msgstr "Elementus dadus"
+
+#: data_value
+msgctxt "data_value"
+msgid "Data Value"
+msgstr "Valores Dadus"
+
+#: data_value_daily
+msgid "Daily Data Value"
+msgstr "Valor Dadus Diárius"
+
+#: dhis14_file_configuration
+msgid "DHIS 1.4 File Configuration"
+msgstr "Arkivu Konfigurasaun DHIS 1.4"
+
+#: data_file
+msgid "Data file"
+msgstr "Arkivu dadus"
+
+#: user_name
+msgid "Username"
+msgstr "Utilizador"
+
+#: password
+msgid "Password"
+msgstr "Seña"
+
+#: levels
+msgid "Levels"
+msgstr "Níveis"
+
+#: preload_cache
+msgid "Preload cache"
+msgstr "Cache Pre-karga"
+
+#: import_process_done
+msgid "Import successful"
+msgstr "Konsege importa ho susesu"
+
+#: import_process_failed
+msgid "Import process failed - See log for details"
+msgstr "La konsege halo prosesu importansaun - Haré detalles iha log "
+
+#: importing_constants
+msgid "Importing constants"
+msgstr "Importa daudaun konstantes"
+
+#: importing_data_element_category_options
+msgid "Importing data element category options"
+msgstr "Importa daudaun opsoens kategoria elementus dadus"
+
+#: importing_data_element_categories
+msgid "Importing data element categories"
+msgstr "Importa daudaun kategorias elementus dadus"
+
+#: importing_data_element_category_combos
+msgid "Importing data element category combos"
+msgstr "Importa daudaun kombinasaun kategorias elementus dadus"
+
+#: importing_data_element_category_option_combos
+msgid "Importing data element category option combos"
+msgstr "Importa daudaun kombinasan opsoens kategoria elementus dadus"
+
+#: importing_data_element_category_members
+msgid "Importing data element category members"
+msgstr "Importa daudaun membrus kategoria elementus dadus"
+
+#: importing_data_element_category_combo_members
+msgid "Importing data element category combo members"
+msgstr "Importa dadaun membrus kombinasaun kategorias elementus dadus"
+
+#: importing_data_elements
+msgid "Importing data elements"
+msgstr "Importa daudaun elementus dadus"
+
+#: importing_calculated_data_elements
+msgid "Importing calculated data elements"
+msgstr "Importa daudaun elementus dadus ne'ebé kalkula tiha ona"
+
+#: importing_indicator_types
+msgid "Importing indicator types"
+msgstr "Importa daudaun tipu indikadores"
+
+#: importing_indicators
+msgid "Importing indicators"
+msgstr "Importa daudaun indikadores"
+
+#: importing_data_element_groups
+msgid "Importing data element groups"
+msgstr "Importa daudaun grupus elementus dadus"
+
+#: importing_indicator_groups
+msgid "Importing indicator groups"
+msgstr "Importa daudau grupus indikadores"
+
+#: importing_data_element_group_members
+msgid "Importing data element group members"
+msgstr "Importa daudaun membrus grupus elementus dadus"
+
+#: importing_indicator_group_members
+msgid "Importing indicator group members"
+msgstr "Importa daudaun membrus grupus indikadores"
+
+#: importing_data_dictionaries
+msgid "Importing data dictionaries"
+msgstr "Importa daudaun disionárius dadus"
+
+#: importing_data_dictionary_data_elements
+msgid "Importing data dictionary data elements"
+msgstr "Importa daudaun elementus dadus disionáriu dadus"
+
+#: importing_data_dictionary_indicators
+msgid "Importing data dictionary indicators"
+msgstr "Importa daudaun indikadores disionáriu dadus"
+
+#: importing_data_sets
+msgid "Importing data sets"
+msgstr "Importa daudaun pakotes dadus"
+
+#: importing_data_sets_daily_capture
+msgid "Importing data sets daily capture"
+msgstr "Importa daudaun kapturasaun diária pakotes dadus"
+
+#: importing_data_set_members
+msgid "Importing data set members"
+msgstr "Importa daudaun membrus pakote dadus"
+
+#: importing_data_set_source_associations
+msgid "Importing data set source associations"
+msgstr "Importa daudaun asosiasoens pakotes dadus"
+
+#: importing_dataset_data_entry_form_association
+msgid "Importing data set data entry form associations"
+msgstr "Importa daudaun aosiasoens formuláriu entrada pakote dadus"
+
+#: importing_organisation_units
+msgid "Importing organisation units"
+msgstr "Importa daudaun unidades organizasionais"
+
+#: importing_organisation_unit_groups
+msgid "Importing organisation unit groups"
+msgstr "Importa daudaun grupus unidades organizasionais"
+
+#: importing_organisation_unit_group_members
+msgid "Importing organisation unit group members"
+msgstr "Importa daudaun membrus grupus unidades organizasionais"
+
+#: importing_organisation_unit_group_sets
+msgid "Importing organisation unit group sets"
+msgstr "Importa daudaun pakotes grupus unidades organizasionais"
+
+#: importing_organisation_unit_group_set_members
+msgid "Importing organisation unit group set members"
+msgstr "Importa daudaun membrus pakote grupus unidades organizasionais"
+
+#: importing_organisation_unit_structures
+msgid "Importing organisation unit structures"
+msgstr "Importa daudaun estruturas unidades organizasionais"
+
+#: importing_organisation_unit_relationships
+msgid "Importing organisation unit relationships"
+msgstr ""
+
+#: importing_organisation_unit_hierarchy
+msgid "Importing organisation unit hierarchy"
+msgstr "Importa daudaun ierarkia unidades organizasionais"
+
+#: importing_organisation_unit_levels
+msgid "Importing organisation unit levels"
+msgstr "Importa daudaun níveis unidades organizasionais"
+
+#: importing_periods
+msgid "Importing periods"
+msgstr "Importa daudaun períodus"
+
+#: importing_routine_data_values
+msgid "Importing routine data values"
+msgstr "Importa daudaun valores dadus rotina"
+
+#: importing_on_change_periods
+msgid "Importing on-change periods"
+msgstr "Importa daudaun períodus ein-mudansa"
+
+#: importing_semi_permanent_data_values
+msgid "Importing semi-permanent data values"
+msgstr "Importing semi-permanent data values"
+
+#: importing_aggregated_data_values
+msgid "Importing aggregated data values"
+msgstr "Importa daudaun valores dadus"
+
+#: importing_aggregated_indicator_values
+msgid "Importing aggregated indicator values"
+msgstr "Importa daudaun valores indikadores agregadus"
+
+#: importing_validation_rules
+msgid "Importing validation rules"
+msgstr "Importa daudaun regras validasaun"
+
+#: importing_data_values
+msgid "Importing data values"
+msgstr "Importa daudaun valores daudus"
+
+#: importing_previewed_meta_data
+msgid "Importing previewed meta data"
+msgstr "Importa daudaun metadata ne'ebé prevé tiha ona"
+
+#: importing_previewed_data
+msgid "Importing previewed data"
+msgstr "Importa dadaun dadus ne'ebé prevé tiha ona"
+
+#: importing_complete_data_set_registrations
+msgid "Importing complete data set registrations"
+msgstr "Importa daudaun rejistu pakoes dadus kompletu"
+
+#: importing_report_tables
+msgid "Importing report tables"
+msgstr "Importa daudaun tabelas relatórius"
+
+#: importing_olap_urls
+msgid "Importing OLAP URLs"
+msgstr "Importa daudaun OLAP URLs"
+
+#: importing_data_set_organisation_unit_associations
+msgid "Importing data set organisation unit associations"
+msgstr "Importa daudaun asosiasoens unidades organizasoens pakotes dadus"
+
+#: importing_routine_data_daily_capture_periods
+msgid "Importing routine data daily capture periods"
+msgstr "Importa daudaun períodus kaptura dadus rotina"
+
+#: importing_routine_data_daily_capture
+msgid "Importing routine data daily capture"
+msgstr "Importa daudaun kaptura diária dadus rotina"
+
+#: no_import_process_running
+msgid "No import process running"
+msgstr "La iha prosesu importasaun ne'ebé lao daudaun"
+
+#: skip_check_matching
+msgid "Skip check for matching data values"
+msgstr "Hakat liu verifikasaun ba valores dadus ne'ebé konkorda malu"
+
+#: yes_empty_database
+msgid "Yes (empty database)"
+msgstr "Sim (banku dadus mamuk)"
+
+#: report_tables
+msgid "Report tables"
+msgstr "Tabelas relatórius"
+
+#: reports
+msgid "Reports"
+msgstr "Relatórius"
+
+#: charts
+msgid "Charts"
+msgstr "Gráfikus"
+
+#: set_configuration
+msgid "Please set the configuration in order for the import to work properly"
+msgstr ""
+"Favor tau konfigurasaun ein ordem atu prosesu importasaun bele lao ho diak"
+
+#: last_updated_leave_blank_for_all
+msgid "Last updated (Leave blank for all)"
+msgstr "Atualizasaun ikus (Husik mamuk hela ba sira hotu)"
+
+#: organisation_unit_with_children
+msgid "Organisation unit with children"
+msgstr "Unidade organizasional ho oan/sanak"
+
+#: organisation_unit_only
+msgid "Organisation unit only"
+msgstr "Unidade organizasional deit"
+
+#: current_import_file
+msgid "Current import file"
+msgstr "Arkivu importasaun atual"
+
+#: no_current_file
+msgid "No current file"
+msgstr "Laiha arkivu atual"
+
+#: select_organisation_unit
+msgid "Please select at least one organisation unit"
+msgstr "Favor hili pelu menus unidade organizasional ida"
+
+#: select_startdate
+msgid "Please select a start date"
+msgstr "Favor hili data hahú ida"
+
+#: select_enddate
+msgid "Please select an end date"
+msgstr "Favor hili data remata ida"
+
+#: select_datasets
+msgid "Please select at least one data set"
+msgstr "Favor hili pelu menus pakote dadus ida"
+
+#: select_one_or_more_object_types
+msgid "Please select one or more object types"
+msgstr "Favor hili tipu objetu ida ou liu "
+
+#: geo_code
+msgid "Geo code"
+msgstr "Kódigu Jeo"
+
+#: view_all
+msgid "View all"
+msgstr "Haré hotu"
+
+#: data_dictionaries
+msgid "Data dictionaries"
+msgstr "Disionárius dadus"
+
+#: report_table
+msgid "Report table"
+msgstr "Tabela relatóriu"
+
+#: data_dictionary
+msgid "Data dictionary"
+msgstr ""
+
+#: region
+msgid "Region"
+msgstr "Rejiaun"
+
+#: import_process_not_initialized
+msgid "Import process not initialized"
+msgstr "Prosesu importasaun seidauk hahú"
+
+#: aggregated_data
+msgid "Aggregated data"
+msgstr "Dadus agregadus"
+
+#: regular_data
+msgid "Regular data"
+msgstr "Dadus regular"
+
+#: data_source
+msgid "Data source"
+msgstr "Fonte dadus"
+
+#: use_existing_data
+msgid "Use existing data"
+msgstr "Uza dadus ne'ebé iha"
+
+#: generate_data
+msgid "Generate data"
+msgstr "Kria dadus"
+
+#: exporting_data_for_data_elements
+msgid "Exporting data for data elements"
+msgstr "Exporta daudaun dadus ba elementus dadus"
+
+#: exporting_data_for_indicators
+msgid "Exporting data for indicators"
+msgstr "Exporta daudaun dadus ba indikadores"
+
+#: export_process_done
+msgid "Export process done"
+msgstr "Prosesu exportasaun hotu ona"
+
+#: data_file_is_not_valid
+msgid "Data file is not valid"
+msgstr "Arkivu dadus inválidu"
+
+#: analysis
+msgid "Analysis"
+msgstr "Análize"
+
+#: import_analysis
+msgid "Import analysis"
+msgstr "Análize importasaun"
+
+#: unique_constraint_violations
+msgid "Unique constraint violations"
+msgstr "Violasoens restrisaun únika"
+
+#: entity
+msgid "Entity"
+msgstr "Entidade"
+
+#: value
+msgid "Value"
+msgstr "Valor"
+
+#: DHIS14_file_import
+msgid "DHIS 1.4 File Import"
+msgstr "Importa Arkivu DHIS 1.4"
+
+#: DHIS14_xml_import
+msgid "DHIS 1.4 XML Import"
+msgstr "Importa DHIS 1.4 XML "
+
+#: DHIS14_detailed_metadata_export
+msgid "DHIS 1.4 Detailed Metadata Export"
+msgstr "Exporta Metadata Detallada DHIS 1.4"
+
+#: detailed_metadata_export
+msgid "Detailed Metadata Export"
+msgstr "Exporta Metadata Detallada"
+
+#: import_process_started
+msgid "Import process started"
+msgstr "Prosesu importasaun hahú ona"
+
+#: imported_meta_data
+msgid "Imported meta data"
+msgstr "Metada data importada"
+
+#: saved
+msgid "Saved"
+msgstr ""
+
+#: calculated_data_element
+msgid "Calculated data element"
+msgstr "Elementus dadus kalkuladus"
+
+#: DHIS14XML
+msgid "DHIS 1.4 XML"
+msgstr "DHIS 1.4 nia XML"
+
+#: DHIS14FILE
+msgid "DHIS 1.4 File"
+msgstr "Arkivu DHIS 1.4 "
+
+#: DXF
+msgid "DXF"
+msgstr "DXF"
+
+#: PDF
+msgctxt "PDF"
+msgid "PDF"
+msgstr "PDF"
+
+#: XLS
+msgid "XLS"
+msgstr "XLS"
+
+#: url
+msgid "Url"
+msgstr "Url"
+
+#: table_name
+msgid "Table name"
+msgstr "Tabela nia naran"
+
+#: mode
+msgid "Mode"
+msgstr "Modu"
+
+#: reporting_month
+msgid "Reporting month"
+msgstr "Fulan ne'ebé relata"
+
+#: last_3_months
+msgid "Last 3 months"
+msgstr "Fulan 3 ikus"
+
+#: last_6_months
+msgid "Last 6 months"
+msgstr "Fulan 6 ikus"
+
+#: last_12_months
+msgid "Last 12 months"
+msgstr "Fulan 12 ikus"
+
+#: so_far_this_year
+msgid "So far this year"
+msgstr "To'o oras ne'e iha tinan ne'e nia laran"
+
+#: last_3_to_6_months
+msgid "Last 3 to 6 months"
+msgstr "Fulan 3 to'o 6 ikus"
+
+#: last_6_to_9_months
+msgid "Last 6 to 9 months"
+msgstr "Fulan 6 to'o 9 ikus"
+
+#: last_9_to_12_months
+msgid "Last 9 to 12 months"
+msgstr "Fulan 9 to'o 12 ikus"
+
+#: last_12_individual_months
+msgid "Last 12 individual months"
+msgstr "Fulan 12 individual ikus "
+
+#: individual_months_this_year
+msgid "Individual months this year"
+msgstr "Fulan ida-idak tinan ida ne'e"
+
+#: individual_quarters_this_year
+msgid "Individual quarters this year"
+msgstr "Trimestre ida-idak tinan ida ne'e"
+
+#: organisation_unit_levels
+msgid "Organisation unit levels"
+msgstr "Níveis unidades organizasionais"
+
+#: organisation_unit_level
+msgid "Organisation unit level"
+msgstr "Nível unidade organizasional"
+
+#: importing_meta_data
+msgid "Importing meta data"
+msgstr "Importa daudaun meta data"
+
+#: non_existing_data_element_identifiers
+msgid "Non-existing data element identifiers"
+msgstr "Identifikadores elementus dadus ne'ebé laiha"
+
+#: formula
+msgid "Formula"
+msgstr "Fórmula"
+
+#: identifier
+msgid "Identifier"
+msgstr "Identifikador"
+
+#: error_data_elements_with_different_period_types
+msgid ""
+"There are data elements registered for data sets with different period "
+"types, please go to data integrity checks for more information and then "
+"correct this before exporting"
+msgstr ""
+"Iha elementus dadus ne'ebé rejista ba pakote dadus ho tipus períodus la "
+"hanesan, favor halo verifikasaun iha integridade dadus atu hetan informasaun "
+"klean liu hodi korrije situasaun ida ne'e antes de exporta"
+
+#: data_element_group_sets
+msgid "Data element group sets"
+msgstr "Pakotes grupu elementus dadus"
+
+#: indicator_group_sets
+msgid "Indicator group sets"
+msgstr "Pakotes grupus indikadores"
+
+#: data_element_group_set
+msgid "Data element group set"
+msgstr "Pakote grupu elementu dadus"
+
+#: indicator_group_set
+msgid "Indicator group set"
+msgstr "Pakote grupu indikadores"
+
+#: routine_data_contains_values_out_of_range
+msgid "Routine data values out of range (2^31) exist"
+msgstr "Iha valores dadus rotina ne'ebé la tama iha intervalu (2^31)"
+
+#: semi_permanent_data_contains_values_out_of_range
+msgid "Semi-permanent data value out of range (2^31) exist"
+msgstr ""
+"Iha valores valor dadus semi-permanente nee'ebé la tama iha intervalu (2^31)"
+
+#: process_completed
+msgid "Process completed"
+msgstr "Proesu kompleta ona"
+
+#: process_started
+msgid "Process started"
+msgstr "Prosesu hahú ona"
+
+#: process_failed
+msgid "Process failed - See log for details"
+msgstr "La konsege halo prosesu importansaun - Haré detalles iha log"
+
+#: configuration
+msgid "Configuration"
+msgstr ""
+
+#: size
+msgid "Size"
+msgstr "Tamañu"
+
+#: dimension
+msgid "Dimension"
+msgstr "Dimenssaun"
+
+#: hide_legend
+msgid "Hide legend"
+msgstr "Subar lejenda"
+
+#: vertical_labels
+msgid "Vertical labels"
+msgstr "Rótulus vertikais"
+
+#: horizontal_plot_orientation
+msgid "Horizontal plot orientation"
+msgstr "Orientasaun gráfiku plot orizontal"
+
+#: regression
+msgid "Regression"
+msgstr ""
+
+#: design
+msgid "Design"
+msgstr "Dezeñu"
+
+#: report
+msgid "Report"
+msgstr "Relatóriu"
+
+#: chart
+msgid "Chart"
+msgstr "Gráfiku"
+
+#: intro_DHIS14_xml_import
+msgid ""
+"Do an import from an XML based format. DHIS 1.4 is the predecessor of DHIS 2."
+msgstr ""
+"Halo importasaun ida husi formatu bazeia ba XML. DHIS 1.4 mak antesesor ba "
+"DHIS 2."
+
+#: intro_DHIS14_file_import
+msgid ""
+"Do an import from an Access data file. DHIS 1.4 is the predecessor of DHIS 2."
+msgstr ""
+"Halo importasaun ida husi arkivu dadus Access. DHIS 1.4 mak antesesor ba "
+"DHIS 2."
+
+#: intro_DHIS14_metadata_export
+msgid ""
+"Do an export of meta-data or dimensional data describing the facts. DHIS 1.4 "
+"is the predecessor of DHIS 2."
+msgstr ""
+"Halo exportasaun ida ba  meta-data ou dadus dimensional ne'ebé deskreve "
+"faktus. DHIS 1.4 mak antesesor ba DHIS 2"
+
+#: intro_DHIS14_detailed_metadata_export
+msgid ""
+"Do an export of an detailed selection of meta-data. DHIS 1.4 is the "
+"predecessor of DHIS 2."
+msgstr ""
+"Halo exportasaun ida ba seksaun detallada ida husi meta-data. DHIS 1.4 mak "
+"antesesor ba DHIS 2."
+
+#: intro_DHIS14_data_export
+msgid ""
+"Do an export of data values or facts. DHIS 1.4 is the predecessor of DHIS 2."
+msgstr ""
+"Halo exportasaun ida ba faktus ou valores dadus. DHIS 1.4 mak antesesor ba "
+"DHIS 2."
+
+#: intro_pdf_metadata_export
+msgid ""
+"Portable Document Format (PDF) is a commonly used file format for document "
+"exchange."
+msgstr ""
+"Formatu arkivu ne'ebé jeralmente uza ba interkambiu dokumentus mak \""
+"Portable Document Format (PDF)\"."
+
+#: intro_xls_metadata_export
+msgid ""
+"Excel Spreadsheet (XLS) is a commonly used spreadsheet file format from "
+"Microsoft."
+msgstr ""
+"Planilla Excel (XLS) ne'e formatu arkivu planilla husi Microsoft ne'ebé "
+"jeralmente uza. is a commonly used spreadsheet file format from Microsoft."
+
+#: intro_data_import
+msgid ""
+"Import data values on the DXF 2 XML, JSON, CSV and PDF formats. DXF 2 is the "
+"standard exchange format for DHIS 2."
+msgstr ""
+"Valores dadus importasaun iha formatu DXF 2 XML, JSON, CSV no PDF. Formatu "
+"padraun ba interkambiu iha DHIS 2 mak DXF."
+
+#: intro_csv_data_import
+msgid ""
+"Import data values on the CSV format which is used for data exchange by DHIS "
+"2 and other third-party software."
+msgstr ""
+"Valores dadus importasaun iha formatu CSV, ne'ebé uza ba interkambiu dadus "
+"entre DHIS 2 ho software seluk."
+
+#: intro_pdf_data_import
+msgid ""
+"Import data from a PDF data entry form. PDF forms can be generated from the "
+"data set module."
+msgstr ""
+"Dadus importasaun husi formuláriun entrada dadus ho formatu PDF. Formulárius "
+"PDF bele kria husi módulu pakote dadus."
+
+#: intro_event_import
+msgid "Import events for programs, stages and persons on the DXF 2 format."
+msgstr "Eventus importasaun ba programas, estájius no ema iha formatu  DXF 2."
+
+#: intro_dhis14_import
+msgid ""
+"Import data from DHIS 1.4 installations. DHIS 1.4 is the predecessor of DHIS "
+"2."
+msgstr ""
+"Dadus importasaun husi instalasoens DHIS 1.4. DHIS 1.4 mak antesesor ba DHIS "
+"2."
+
+#: intro_data_export
+msgid ""
+"Export data values. This is the regular export function which exports data "
+"to the DHIS 2 exchange format called DXF 2."
+msgstr ""
+"Valores dadus exportasaun. Ida ne'e funsaun exportasaun regular ne'ebé "
+"exporta dadus ba DHIS 2 nia formatu interkambiu ho naran DXF 2."
+
+#: intro_metadata_export
+msgid ""
+"Export meta data like data elements and organisation units to the standard "
+"DHIS 2 exchange format."
+msgstr ""
+"Exporta meta data hanesan elementus dadus no unidades organizasionais ba "
+"DHIS 2 nia formatu interkambiu padraun."
+
+#: intro_export_to_other_systems
+msgid ""
+"Export data and meta data to formats such as PDF, Excel and the DHIS 1.4 "
+"exchange format."
+msgstr ""
+"Exporta dadus no meta data ba formatus sira hanesan PDF, Excel no formatu "
+"interkambiu DHIS 1.4."
+
+#: intro_dhis14_file_configuration
+msgid ""
+"Set the configuration for the DHIS 1.4 file import process, such as the "
+"location of the data file."
+msgstr ""
+"Define konfigurasaun ba prosesu importasaun arkivu DHIS 1.4, hanesan "
+"lokalizasaun arkivu dadus."
+
+#: intro_metadata_import
+msgctxt "intro_metadata_import"
+msgid ""
+"Import meta-data like data elements and organisation units using the "
+"standard DHIS 2 exchange format called DXF 2."
+msgstr ""
+"Importa meta data hanesan elementus dadus no unidades organizasionais uza "
+"DHIS 2 nia formatu interkambiu padraun naran DXF 2."
+
+#: intro_event_export
+msgid "Export event data for programs, stages and persons on the DXF 2 format."
+msgstr "Exporta dadus eventus ba programas, estájius no ema ho formatu DXF 2. "
+
+#: intro_xml_metadata_import
+msgctxt "intro_xml_metadata_import"
+msgid ""
+"Import meta-data like data elements and organisation units using the "
+"standard DHIS 2 exchange format called DXF 2."
+msgstr ""
+"Importa meta-data hanesan elementus dadus no unidades organizasionais ba "
+"DHIS 2 nia formatu interkambiu ho naran DXF 2."
+
+#: intro_csv_metadata_import
+msgid ""
+"Import meta-data using CSV format. Currently only import of data elements is "
+"supported."
+msgstr ""
+"Importa uza formatu  CSV. Atualmente só suporta deit importasaun elementus "
+"dadus."
+
+#: intro_gml_import
+msgid ""
+"Import geographic data for organisation units using GML format. GML is an "
+"XML grammar for expressing geographical features."
+msgstr ""
+"Importa dadus jeográfikus ba unidades organizasinais uza formatu GML. GML "
+"mak gramátika  XML atu expresa karakterístikas jeográfikas."
+
+#: gml_import_info_text
+msgid ""
+"Note: Only import of GML data for existing organisation units is supported."
+msgstr ""
+"Nota: Suporta deit importasaun dadus GML ba unidades organizasinais "
+"ezistentes."
+
+#: no_item_to_match
+msgid "There is no selected item to match"
+msgstr "La iha item selesionadu ida atu kombina."
+
+#: dry_run
+msgid "Dry run"
+msgstr "Ezersísiu"
+
+#: strategy
+msgid "Strategy"
+msgstr "Estratéjia"
+
+#: new_only
+msgid "New only"
+msgstr "Foun eit"
+
+#: updates_only
+msgid "Updates only"
+msgstr "Atualizasaun deit"
+
+#: data_import
+msgid "Data Import"
+msgstr "Importasaun Dadus"
+
+#: import_summary
+msgid "Import summary"
+msgstr "Sumáriu Importasaun"
+
+#: data_set_completed_on
+msgid "Data set completed on"
+msgstr "Pakote dadus kompleta iha"
+
+#: import_count
+msgid "Import count"
+msgstr "Kontajen Importasaun"
+
+#: import_total_count
+msgid "Import total count"
+msgstr "Kontajen total importasaun"
+
+#: imported
+msgid "Imported"
+msgstr "Importadu"
+
+#: updated
+msgid "Updated"
+msgstr "Atualizadu"
+
+#: ignored
+msgid "Ignored"
+msgstr "Ignoradu"
+
+#: conflicts
+msgid "Conflicts"
+msgstr "Konflitus"
+
+#: no_conflicts_found
+msgid "No conflicts found"
+msgstr "La hetan konflitu ida"
+
+#: no_import_summary_available
+msgid "No summary available"
+msgstr ""
+
+#: type
+msgid "Type"
+msgstr "Tipu"
+
+#: count
+msgid "Count"
+msgstr "Kontajen"
+
+#: export_as_xml
+msgid "Export as XML"
+msgstr "Exporta hanesan  XML"
+
+#: export_as_json
+msgid "Export as JSON"
+msgstr "Exporta hanesan JSON"
+
+#: export_as_csv
+msgid "Export as CSV"
+msgstr "Exporta hanesan CSV"
+
+#: csv
+msgid "CSV"
+msgstr "CSV"
+
+#: xml
+msgid "XML"
+msgstr "XML"
+
+#: json
+msgid "JSON"
+msgstr "JSON"
+
+#: pdf
+msgctxt "pdf"
+msgid "PDF"
+msgstr "PDF"
+
+#: xml_data_import
+msgid "XML Data Import"
+msgstr "Importasaun Dadus XML"
+
+#: csv_data_import
+msgid "CSV Data Import"
+msgstr "Importasaun Dadus CSV"
+
+#: pdf_data_import
+msgid "PDF Data Import"
+msgstr "Importasaun Dadus PDF"
+
+#: event_import
+msgid "Event Import"
+msgstr "Importasaun Eventu"
+
+#: event_export
+msgid "Event Export"
+msgstr "Exportasaun Eventu"
+
+#: programs
+msgid "Programs"
+msgstr "Programas"
+
+#: program_stages
+msgid "Program Stages"
+msgstr "Estájius Programas"
+
+#: format
+msgid "Format"
+msgstr "Formatu"
+
+#: skip_first
+msgid "Skip First Row"
+msgstr "Hakat liu Primeira Liña"
+
+#: compression
+msgid "Compression"
+msgstr "Kompresaun"
+
+#: compression_gzip
+msgid "Gzip"
+msgstr "Gzip"
+
+#: compression_zip
+msgid "Zip"
+msgstr "Zip"
+
+#: uncompressed
+msgid "Uncompressed"
+msgstr "Seidauk La komprimidu"
+
+#: no_programs_available
+msgid "No programs available"
+msgstr "La iha programas disponíveis"
+
+#: no_program_stages_available
+msgid "No program stages available"
+msgstr "La iha estájius programas disponíveis"
+
+#: no_data_values_found
+msgid "No data values found"
+msgstr "La iha valores dadus"
+
+#: all_program_stages
+msgid "All program stages"
+msgstr "Estájius programas hotu-hotu"
+
+#: id_scheme
+msgid "ID scheme"
+msgstr "Eskema ID"
+
+#: data_element_id_scheme
+msgid "Data element ID scheme"
+msgstr "Eskema ID elementus dadus"
+
+#: enable
+msgid "Enable"
+msgstr "Posibilita"
+
+#: disable
+msgid "Disable"
+msgstr "Inkapasita"
+
+#: org_unit_id_scheme
+msgid "Org unit ID scheme"
+msgstr "Eskema ID unid org ID "
+
+#: category_id_scheme
+msgid "Category ID scheme"
+msgstr "Eskema ID kategoria "
+
+#: all_objects
+msgid "all objects"
+msgstr "objetus hotu-hotu"
+
+#: uid
+msgid "UID"
+msgstr "UID"
+
+#: name
+msgid "Name"
+msgstr "Naran"
+
+#: code
+msgid "Code"
+msgstr "Kódigu"
+
+#: uuid
+msgid "UUID"
+msgstr "UUID"
+
+#: more_options
+msgid "More options"
+msgstr "Opsoens seluk tan"
+
+#: existing_record_check
+msgid "Existing record check"
+msgstr "Verifikasaun rejistu ezistente"
+
+#: check_safe_recommended
+msgid "Check (safe, recommended)"
+msgstr "Verifika (seguru, rekomendadu)"
+
+#: skip_check_fast
+msgid "Skip check (fast)"
+msgstr "Hakat liu verifikasaun (lalais)"
+
+#: dxf2
+msgid "DXF2"
+msgstr "DXF2"
+
+#: xml_metadata_import
+msgid "XML Meta-Data Import"
+msgstr "Importa Meta-Data XML"
+
+#: csv_metadata_import
+msgid "CSV Meta-Data Import"
+msgstr "Importa Meta-Data CSV "
+
+#: metadata_import
+msgid "Meta-Data Import"
+msgstr "Importa Meta-Data "
+
+#: metadata_export
+msgid "Meta-Data Export"
+msgstr ""
+
+#: gml_import
+msgid "GML Import"
+msgstr "Importa GML"
+
+#: faster_for_small_imports
+msgid "Faster for small imports"
+msgstr "Lalais liu ba importasaun kiik"
+
+#: data_element_or_type_null_or_empty
+msgid "Data element or type is null or empty"
+msgstr "Elementu dadus ou tipu nulu ou mamuk"
+
+#: value_length_greater_than_max_length
+msgid "Value is greater than max length"
+msgstr "Valor bo'ot liu kumprimentu máximu"
+
+#: value_not_numeric
+msgid "Value is not numeric"
+msgstr "Valor laós numériku"
+
+#: value_not_integer
+msgid "Value is not a valid integer"
+msgstr "Valor laós íntegru ida"
+
+#: value_not_positive_integer
+msgid "Value is not a valid positive integer"
+msgstr "Valor laós íntegru pozitivu válidu ida"
+
+#: value_not_negative_integer
+msgid "Value is not a valid negative integer"
+msgstr "Valor laós íntegru negativu válidu ida"
+
+#: value_is_zero_and_not_zero_significant
+msgid "Value is zero and not zero-significant"
+msgstr "Valor zero no laós zero-signifikante"
+
+#: value_not_zero_or_positive_integer
+msgid "Value is not a valid zero or positive integer"
+msgstr "Valor laós zero ou íntegru pozitivu válidu ida"
+
+#: comment_too_long
+msgid "Comment is too long"
+msgstr "Komentáriu naruk demais"
+
+#: intro_filtered_metadata_export
+msgid ""
+"Export filtered meta-data like data elements and organisation units to the "
+"standard DHIS 2 exchange format."
+msgstr ""
+"Exporta meta-data ne'ebé filtru tiha ona hanesan elementus dadus no unidades "
+"organizasionais ba DHIS 2 nia formatu interkambiu."
+
+#: filtered_metadata_export
+msgid "Meta-Data Detailed Export"
+msgstr "Exportasaun Meta-Data Detallada"
+
+#: apply
+msgid "Apply"
+msgstr "Apikla"
+
+#: sort
+msgid "Sort"
+msgstr "Klasifika"
+
+#: options
+msgid "Options"
+msgstr "Opsoens"
+
+#: add_new_filter
+msgid "Add new Filter"
+msgstr "Aumente filtru foun"
+
+#: ad_hoc_export
+msgid "Ad-hoc export"
+msgstr "Exportasaun ad-hoc"
+
+#: create_new_filter
+msgid "Create new Filter"
+msgstr "Kria filtru foun"
+
+#: filter_sort_order
+msgid "Filter sort order"
+msgstr "Filtra ordem klasifikasaun"
+
+#: edit_filter
+msgid "Edit Filter"
+msgstr "Edita Filtru"
+
+#: filter_details
+msgid "Filter Details"
+msgstr "Detalles Filtru"
+
+#: validate_filter
+msgid "Filter name cannot be empty."
+msgstr "Filtru nia naran labele mamuk."
+
+#: export_with_dependencies
+msgid "Export with dependencies"
+msgstr "Exporta ho dependensias"
+
+#: attribute_types
+msgid "Attribute Types"
+msgstr "Tipu Atributu "
+
+#: available_attribute_types
+msgid "Available Attribute Types"
+msgstr "Tipus Atributu Disponíveis"
+
+#: selected_attribute_types
+msgid "Selected Attribute Types"
+msgstr "Tipus Atributu ne'ebé Selesionadu"
+
+#: categories
+msgid "Categories"
+msgstr "Kategorias"
+
+#: available_categories
+msgid "Available Categories"
+msgstr "Kategorias Disponíveis"
+
+#: selected_categories
+msgid "Selected Categories"
+msgstr "Kategorias Selesionadas"
+
+#: category_combos
+msgid "Category Combinations"
+msgstr "Kombinasoens Kategoria"
+
+#: available_category_combos
+msgid "Available Category Combinations"
+msgstr "Kombinasoens Kategoria Disponíveis"
+
+#: selected_category_combos
+msgid "Selected Category Combinations"
+msgstr "Kombinasoens Kategoria Selesionadas"
+
+#: available_charts
+msgid "Available Charts"
+msgstr "Gráfikus Disponíveis"
+
+#: selected_charts
+msgid "Selected Charts"
+msgstr "Gráfikus Selesionadus"
+
+#: available_constants
+msgid "Available Constants"
+msgstr "Konstantes Disponíveis"
+
+#: selected_constants
+msgid "Selected Constants"
+msgstr "Konstantes Selesionadus"
+
+#: available_dataDictionaries
+msgid "Available Data Dictionaries"
+msgstr "Disionárius Dadus Disponíveis"
+
+#: selected_dataDictionaries
+msgid "Selected Data Dictionaries"
+msgstr "Disionárius Dadus Selesionadus"
+
+#: available_dataElementGroupSets
+msgid "Available Data Element Group Sets"
+msgstr "Pakotes Grupu Elementus Dadus Disponíveis"
+
+#: selected_dataElementGroupSets
+msgid "Selected Data Element Group Sets"
+msgstr "Pakotes Grupu Elementus Dadus Selesionadus"
+
+#: available_dataElementGroups
+msgid "Available Data Element Groups"
+msgstr "Grupus Elementus Dadus Disponíveis"
+
+#: selected_dataElementGroups
+msgid "Selected Data Element Groups"
+msgstr "Grupus Elementus Dadus Selesionadus"
+
+#: documents
+msgid "Documents"
+msgstr "Dokumentus"
+
+#: available_documents
+msgid "Available Documents"
+msgstr "Dokumentus Disponíveis"
+
+#: selected_documents
+msgid "Selected Documents"
+msgstr "Dokumentus Selesionadus"
+
+#: available_indicatorGroupSets
+msgid "Available Indicator Group Sets"
+msgstr "Pakotes Grupu Indikador Disponíveis"
+
+#: selected_indicatorGroupSets
+msgid "Selected Indicator Group Sets"
+msgstr "Pakotes Grupu Indikador Selesionadus"
+
+#: available_indicatorGroups
+msgid "Available Indicator Groups"
+msgstr "Grupus Indikador Disponíveis"
+
+#: selected_indicatorGroups
+msgid "Selected Indicator Groups"
+msgstr "Grupus Indikador Selesionadus"
+
+#: indicator_types
+msgid "Indicator types"
+msgstr "Tipus Indikador"
+
+#: available_indicatorTypes
+msgid "Available Indicator Types"
+msgstr "Tipus Indikador Disponíveis"
+
+#: selected_indicatorTypes
+msgid "Selected Indicator Types"
+msgstr "Tipus Indikador Selesionadus"
+
+#: map_legend_sets
+msgid "Map legend sets"
+msgstr "Pakotes Lejenda Mapa "
+
+#: available_mapLegendSets
+msgid "Available Map Legend Sets"
+msgstr "Pakotes Lejenda Mapa Disponíveis"
+
+#: selected_mapLegendSets
+msgid "Selected Map Legend Sets"
+msgstr "Pakotes Lejenda Mapa Selesionadus"
+
+#: maps
+msgid "Maps"
+msgstr "Mapas"
+
+#: available_maps
+msgid "Available Maps"
+msgstr "Mapas Disponíveis"
+
+#: selected_maps
+msgid "Selected Maps"
+msgstr "Mapas Selesionadus"
+
+#: option_sets
+msgid "Option sets"
+msgstr "Pakotes Opsaun"
+
+#: available_optionSets
+msgid "Available Option Sets"
+msgstr "Pakotes Opsaun Disponíveis"
+
+#: selected_optionSets
+msgid "Selected Option Sets"
+msgstr "Pakotes Opsaun Selesionadus"
+
+#: available_organisationUnitGroupSets
+msgid "Available Organisation Unit Group Sets"
+msgstr "Pakotes Grupu Unidade Organizasional Disponíveis"
+
+#: selected_organisationUnitGroupSets
+msgid "Selected Organisation Unit Group Sets"
+msgstr "Pakotes Grupu Unidade Organizasional Selesionadus"
+
+#: available_organisationUnitGroups
+msgid "Available Organisation Unit Groups"
+msgstr "Grupus Unidade Organizasional Disponíveis"
+
+#: selected_organisationUnitGroups
+msgid "Selected Organisation Unit Groups"
+msgstr "Grupus Unidade Organizasional Selesionadus"
+
+#: available_organisationUnitLevels
+msgid "Available Organisation Unit Levels"
+msgstr "Níveis Unidade Organizasional Disponíveis"
+
+#: selected_organisationUnitLevels
+msgid "Selected Organisation Unit Levels"
+msgstr "Níveis Unidade Organizasional Selesionadus"
+
+#: available_organisationUnits
+msgid "Available Organisation Units"
+msgstr "Unidades Organizasionais Disponíveis"
+
+#: selected_organisationUnits
+msgid "Selected Organisation Units"
+msgstr "Unidades Organizasionais Selesionadas"
+
+#: available_reportTables
+msgid "Available Report Tables"
+msgstr "Tabelas Relatóriu Disponíveis"
+
+#: selected_reportTables
+msgid "Selected Report Tables"
+msgstr "Tabelas Relatóriu Selesionadas"
+
+#: available_reports
+msgid "Available Reports"
+msgstr "Relatórius Disponíveis"
+
+#: selected_reports
+msgid "Selected Reports"
+msgstr "Relatórius  Selesionadus"
+
+#: sql_views
+msgid "SQL views"
+msgstr "Vizualizasoens SQL"
+
+#: available_sqlViews
+msgid "Available SQL Views"
+msgstr "Vizualizasoens SQL Disponíveis"
+
+#: selected_sqlViews
+msgid "Selected SQL Views"
+msgstr "Vizualizasoens SQL Selesionadas"
+
+#: available_userGroups
+msgid "Available User Groups"
+msgstr "Grupus Utilizador Disponíveis"
+
+#: selected_userGroups
+msgid "Selected User Groups"
+msgstr "Grupus Utilizador Selesionaduas"
+
+#: available_userRoles
+msgid "Available User Roles"
+msgstr "Funsoens Utilizador Disponíveis"
+
+#: selected_userRoles
+msgid "Selected User Roles"
+msgstr "Funsoens Utilizador Selesionadas"
+
+#: available_users
+msgid "Available Users"
+msgstr "Utilizadores Disponíveis"
+
+#: selected_users
+msgid "Selected Users"
+msgstr "Utilizadores Selesionadus"
+
+#: validation_rule_groups
+msgid "Validation rule groups"
+msgstr "Grupus Regra Validaasaun"
+
+#: available_validationRuleGroups
+msgid "Available Validation Rule Groups"
+msgstr "Grupus Regra Disponíveis"
+
+#: selected_validationRuleGroups
+msgid "Selected Validation Rule Groups"
+msgstr "Grupus Regra Selesionadas"
+
+#: available_validationRules
+msgid "Available Validation Rules"
+msgstr "Regras Validasaun Disponíveis"
+
+#: selected_validationRules
+msgid "Selected Validation Rules"
+msgstr "Regras Validasaun Selesionadas"
+
+#: select_all_values
+msgid "Select All Values"
+msgstr "Selesiona Valorus Hotu-hotu"
+
+#: deselect_all_values
+msgid "Deselect All Values"
+msgstr "Deselesiona Valores Hotu-hotu"
+
+#: inclusion
+msgid "Inclusion"
+msgstr "Inkluzaun"
+
+#: include_selected
+msgid "Selected organisation unit"
+msgstr "Unidade organizasional selesionada"
+
+#: include_children
+msgid "Include children of organisation unit"
+msgstr "Inklui unidade organizasional oan/sanak"
+
+#: include_descendants
+msgid "Include descendants of organisation unit"
+msgstr "Inklui desendentes unidade organizasional"

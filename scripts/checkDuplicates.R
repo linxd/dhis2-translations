@@ -24,15 +24,16 @@
 # (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 require(stringr)
-
+#Set this to suit your needs
 setwd("/home//jason/development/dhis2/dhis-2/")
 wd<-getwd()
 allprops<-dir(wd, pattern = "i18.*\\.properties$", full.names = TRUE, recursive=TRUE)
 allprops<-allprops[grepl("src",allprops)]
 templates<-allprops[grepl("i18n_global\\.|i18n_module\\.|i18n_app\\.",allprops)]
 template.dirs<-gsub("i18n_global\\.properties|i18n_module\\.properties|i18n_app\\.properties","",templates)
-#Loop through each template file, removing duplicate k/v pairs from the templates
-
+#Loop through each template file, identifying duplicate k/v pairs from the templates
+#These need to be removed manually. 
+#The script will exit when a duplicate k/v pair is encountered, and show the name of the offending file
   for (i in 1:length(template.dirs) ) {
     #Start to loop through each template directory
     this.template.file<-templates[i]

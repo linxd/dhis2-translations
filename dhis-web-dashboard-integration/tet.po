@@ -1,0 +1,532 @@
+#. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-dashboard-integration/src/main/resources/org/hisp/dhis/dashboard/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-dashboard-integration/src/main/resources/org/hisp/dhis/dashboard/i18n_module_tet.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-27 09:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: dashboard
+msgid "Dashboard"
+msgstr "Painel Kontrolu"
+
+#: insert
+msgid "Insert"
+msgstr "Insere"
+
+#: close
+msgid "Close"
+msgstr "Taka"
+
+#: clear
+msgid "Clear"
+msgstr "Hamós"
+
+#: rss_health
+msgid "RSS Health"
+msgstr "Saúde RSS"
+
+#: rss_diseases
+msgid "RSS Diseases"
+msgstr "Moras RSS"
+
+#: report
+msgid "Reports"
+msgstr "Relatórius"
+
+#: document
+msgid "Resources"
+msgstr "Rekursus "
+
+#: report_table
+msgid "Report tables"
+msgstr "Tabelas relatórius"
+
+#: map_view
+msgctxt "map_view"
+msgid "Maps"
+msgstr "Mapas"
+
+#: map
+msgctxt "map"
+msgid "Maps"
+msgstr "Mapas"
+
+#: this_is_a_link_area
+msgid "This is a link area"
+msgstr "Ne'e área ligasaun ida"
+
+#: click_insert_and_select_link
+msgid "Click insert and select links"
+msgstr "Klik insere depois hili ligasoens"
+
+#: this_is_a_chart_area
+msgid "This is a chart area"
+msgstr "Ida ne'e area gráfiku"
+
+#: click_insert_and_select_chart
+msgid "Click Insert and select a chart"
+msgstr "Klik insere depois hili gráfiku ida"
+
+#: insert_links_by_going_to
+msgid "Insert links by going to"
+msgstr "Insere ligasoens ho dalan ba iha"
+
+#: messages
+msgid "Messages"
+msgstr "Mensajens"
+
+#: sender
+msgid "Sender"
+msgstr "Remetente"
+
+#: date
+msgid "Date"
+msgstr "Data"
+
+#: subject
+msgid "Subject"
+msgstr "Sujeitu"
+
+#: remove
+msgid "Remove"
+msgstr "Hasai"
+
+#: write_message
+msgid "Write message"
+msgstr "Hakerek mensajen"
+
+#: write_feedback
+msgid "Write feedback"
+msgstr "Hakerek feedback"
+
+#: write_new_message
+msgid "Write new message"
+msgstr "Hakerek mensajen foun"
+
+#: write_new_feedback
+msgid "Write new feedback"
+msgstr "Hakerek feedback foun"
+
+#: recipients
+msgid "Recipients"
+msgstr "Resipientes"
+
+#: mark_unread
+msgid "Mark as unread"
+msgstr "Marka hanesan seidauk le"
+
+#: mark_read
+msgid "Mark as read"
+msgstr "Marka hanesan le tiha ona"
+
+#: mark_followup
+msgid "Mark for followup"
+msgstr ""
+
+#: clear_followup
+msgid "Clear followup"
+msgstr ""
+
+#: read
+msgid "Read"
+msgstr "Le"
+
+#: delete
+msgid "Delete"
+msgstr "Soe"
+
+#: confirm_delete_message
+msgid "Are you sure you want to delete the message?"
+msgstr "Itabo'ot iha serteza atu soe mensajen ida ne'e?"
+
+#: confirm_delete_all_selected_messages
+msgid "Are you sure you want to delete all selected messages?"
+msgstr "Itabo'ot iha serteza atu soe mensajen sira hotu ne'ebé selesiona ona?"
+
+#: no_messages_selected
+msgid "No messages selected"
+msgstr "Laihsa mensajen selesionada ida"
+
+#: unread_messages
+msgid "unread messages"
+msgstr "mensajens  ne'ebé seidauk le"
+
+#: unread_message
+msgid "unread message"
+msgstr "mensajen ne'ebé seidauk le"
+
+#: messages_were_deleted
+msgid "Messages were deleted"
+msgstr "Mensajen sira soe tiha ona"
+
+#: discard
+msgid "Discard"
+msgstr "Soe"
+
+#: enter_subject
+msgid "Please enter a subject"
+msgstr "Favor hatama asuntu"
+
+#: enter_text
+msgid "Please enter text"
+msgstr "Facor hatama textu"
+
+#: reply
+msgid "Reply"
+msgstr "Resposta"
+
+#: username
+msgid "Username"
+msgstr "Naran uzuáriu"
+
+#: user_roles
+msgid "User roles"
+msgstr "Kompetensias uzuáriu"
+
+#: user_usergroups
+msgid "User/User Groups"
+msgstr "Uzuáriu/Grupus Uzuáriu"
+
+#: select_one_or_more_recipients
+msgid "Select one or more recipients"
+msgstr "Hili resipiente ida ou liu"
+
+#: meta_data
+msgid "Meta data"
+msgstr "Meta data"
+
+#: sending_message
+msgid "Sending message"
+msgstr "Haruka daudaun mensajen"
+
+#: explore
+msgid "Explore"
+msgstr "Explora"
+
+#: interpretations
+msgid "Interpretations"
+msgstr "Interpretasoens"
+
+#: share_your_own_interpretations_from
+msgid "Share your own interpretations from"
+msgstr "Partilla itabo'ot nia interpretasoens rasik husi"
+
+#: gis
+msgid "GIS"
+msgstr "GIS"
+
+#: pivot_table
+msgid "Pivot table"
+msgstr "Tabela dinámika"
+
+#: add_a_comment
+msgid "Add a comment"
+msgstr "Aumenta komentáriu"
+
+#: new_interpretations
+msgid "new interpretations"
+msgstr "interpretasoens foun"
+
+#: new_interpretation
+msgid "new interpretation"
+msgstr "interpretasaun foun"
+
+#: click_to_view_report_table
+msgid "Click to view report table"
+msgstr "Klik atu haré tabela relatóriu"
+
+#: click_to_view_in_data_visualizer
+msgid "Click to view in Data Visualizer"
+msgstr "Klik atu haré iha Vizualizador Dadus"
+
+#: click_to_view_in_gis
+msgid "Click to view in GIS"
+msgstr "Klik atu haré iha GIS"
+
+#: click_to_view_data_set_report
+msgid "Click to view data set report"
+msgstr "Klik atu haré relatóriu konjuntu dadus"
+
+#: share
+msgid "Share"
+msgstr "Partilla"
+
+#: write_your_interpretation
+msgid "Write a comment, question or interpretation"
+msgstr "Hakerek komentáriu, pergunta ou interpretasaun"
+
+#: share_your_interpretation_of
+msgid "Share your interpretation of"
+msgstr "Partilla itabo'ot nia interpretasaun konabá"
+
+#: interpretation_was_shared
+msgid "Interpretation was shared"
+msgstr "Interpretasaun partilla tiha ona"
+
+#: viewing
+msgid "Viewing"
+msgstr "Haré daudaun"
+
+#: from
+msgid "From"
+msgstr "Husi"
+
+#: load_favorite_click_share
+msgid "load a favorite and click 'Share' on the top menu"
+msgstr "karrega favoritu ida depois klik \"Partilla\" iha top menu"
+
+#: generate_pivot_table_click_share
+msgid "generate a pivot table and click 'Share' on the top menu"
+msgstr "jera tabela dinamika ida depois klik \"Partilla\" iha top menu"
+
+#: share_interpretation
+msgid "Share interpretation"
+msgstr "Partilla interpretasaun"
+
+#: select_users_and_user_groups
+msgid "Select users and user groups"
+msgstr "Hili uzuárius i grupus uzunáriu"
+
+#: selected_more_than_200_user
+msgid "You have {userCount} recipients, please reduce to 200 or less"
+msgstr ""
+
+#: generate_data_set_report_click_share
+msgid "generate a data set report and click 'Share' on the top menu"
+msgstr "jera relatóriu konjuntu dadus depois klik 'Share' iha top menu"
+
+#: data_visualizer
+msgid "Data visualizer"
+msgstr "Vizualizador dadus"
+
+#: data_set_report
+msgid "Data set report"
+msgstr "Relatóriu konjuntu dadus"
+
+#: search_for_users_charts_maps_reports
+msgid "Search for users, charts, maps, reports and resources"
+msgstr "Buka uzuárius, gráfikus, mapas, relatórius no rekursus"
+
+#: no_hits
+msgid "No hits, try again"
+msgstr "Laiha rezultadu, koko fali"
+
+#: profile
+msgid "Profile"
+msgstr "Perfil"
+
+#: works_as
+msgid "Works as"
+msgstr "Servisu hanesan"
+
+#: employed_at
+msgid "Employed at"
+msgstr "Empregadu iha"
+
+#: interested_in
+msgid "Interested in"
+msgstr "Interesadu iha"
+
+#: speaks
+msgid "Speaks"
+msgstr "Koalia"
+
+#: email
+msgid "Email"
+msgstr "Email"
+
+#: phone_number
+msgid "Phone number"
+msgstr "Númeru telefone"
+
+#: org_units
+msgid "Org units"
+msgstr "Unidades organizasaun"
+
+#: edit_profile
+msgid "Edit profile"
+msgstr "Edita perfil"
+
+#: inbox
+msgid "Inbox"
+msgstr "Inbox"
+
+#: follow_up
+msgid "Follow up"
+msgstr "Segimentu"
+
+#: unread
+msgid "Unread"
+msgstr "Seidauk le"
+
+#: send_message
+msgid "Send message"
+msgstr "Haruka mensajen"
+
+#: to
+msgid "To"
+msgstr "Bá"
+
+#: scroll_down
+msgid "Scroll down"
+msgstr "Rola ba kraik"
+
+#: scroll_up
+msgid "Scroll up"
+msgstr "Rola ba leten"
+
+#: latest_interpretations
+msgid "Latest interpretations"
+msgstr "Interpretasoens ikus"
+
+#: view_full_profile
+msgid "View full profile"
+msgstr "Haré perfil kompletu"
+
+#: view_full_size
+msgid "View full size"
+msgstr "Haré tamañu kompletu"
+
+#: click_to_explore
+msgid "Click to explore"
+msgstr "Klik atu explora"
+
+#: to_org_unit
+msgid "To org unit"
+msgstr "Bá unidade organizasaun"
+
+#: to_user
+msgid "To user"
+msgstr "Bá uzuáriu"
+
+#: update_profile
+msgid "update profile!"
+msgstr "atualiza perfil!"
+
+#: or
+msgid "or"
+msgstr "ou"
+
+#: groups
+msgid "Groups"
+msgstr "Grupus"
+
+#: search
+msgid "Search"
+msgstr "Buka"
+
+#: rename_current_dashboard
+msgid "Rename current dashboard"
+msgstr "Fó naran foun ba painel kontrollu atual"
+
+#: delete_current_dashboard
+msgid "Delete current dashboard"
+msgstr "Soe painel kontrolu atual"
+
+#: add_new
+msgid "Add new"
+msgstr "Aumenta foun"
+
+#: manage
+msgid "Manage"
+msgstr "Jere"
+
+#: sharing
+msgid "Sharing"
+msgstr "Partilla"
+
+#: click_add_new_to_get_started
+msgid "Click 'Add new' to get started"
+msgstr "Klik \"Aumenta foin\" atu hahú"
+
+#: add_stuff_by_searching
+msgid "Add stuff by searching from the search field above"
+msgstr "Aumenta material ho dalan buka iha kampu buska iha leten"
+
+#: arrange_dashboard_by_dragging_and_dropping
+msgid "Then arrange dashboard by dragging and dropping items"
+msgstr "Depois rasta no husik items sira atu organiza painel kontrolu"
+
+#: click_to_explore_drag_to_new_position
+msgid "Click to explore or drag to new position"
+msgstr "Klik atu explora ou dada ba pozisaun foun"
+
+#: click_and_drag_to_new_position
+msgid "Click and drag to new position"
+msgstr ""
+
+#: drag_to_new_position
+msgid "Drag to new position"
+msgstr "Rasta ba pozisaun foun"
+
+#: system_notification
+msgid "System notification"
+msgstr "Notifikasaun sistema"
+
+#: and
+msgid "and"
+msgstr "i"
+
+#: more
+msgid "more"
+msgstr "seluk tan"
+
+#: see_more_hits
+msgid "See more hits"
+msgstr "Haré rezultadu seluk"
+
+#: see_fewer_hits
+msgid "See fewer hits"
+msgstr "Haré rezultadus uitoan liu"
+
+#: add
+msgid "Add"
+msgstr "Aumenta"
+
+#: resize
+msgid "Resize"
+msgstr ""
+
+#: add_items_to_current_dashboard
+msgid "Add items to current dashboard"
+msgstr "Aumenta items ba painel kontrolu atual"
+
+#: could_not_delete_interpretation
+msgid "Could not delete interpretation, please try again later"
+msgstr "La konsege soe interpretasaun, favor koko fali depois"
+
+#: could_not_delete_interpretation_comment
+msgid "Could not delete interpretation comment, please try again later"
+msgstr "La konsege soe komentáriu interpretasaun, favor koko fali depois"
+
+#: could_not_save_interpretation
+msgid "Could not save interpretation, please try again later"
+msgstr "La konsege rai interpretasaun, favor koko fali depois"
+
+#: applies_to_favorites_with_user_org_units_only
+msgid "Applies to favorites with \"user org units\" only"
+msgstr ""
+
+#: user_org_unit_filter
+msgid "User organisation unit filter"
+msgstr ""
+
+#: download
+msgid "Download"
+msgstr ""
+
+#: api_link
+msgid "API link"
+msgstr ""
+
+#: get_as_image
+msgid "Get as image"
+msgstr ""

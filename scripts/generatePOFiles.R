@@ -26,64 +26,67 @@
 require(plyr)
 require(stringr)
 
-wd<-setwd("/home//jason/development/dhis2/dhis-2/")
+source_dir<-"/home/jason/development/dhis2/dhis-2/"
+trans_dir<-"/home/jason/development/dhis2-translations/"
 
-allprops<-dir(wd, pattern = "i18.*\\.properties$", full.names = TRUE, recursive=TRUE)
-allprops<-allprops[grepl("src",allprops)]
-templates<-allprops[grepl("i18n_global\\.|i18n_module\\.|i18n_app\\.",allprops)]
-template.dirs<-gsub("i18n_global\\.properties|i18n_module\\.properties|i18n_app\\.properties","",templates)
+allprops<-dir(source_dir, pattern = "i18.*\\.properties$", full.names = TRUE, recursive=TRUE)
+allprops<-data.frame(file=allprops[grepl("src",allprops)])
+allprops$is_template<-grepl("i18n_global\\.|i18n_module\\.|i18n_app\\.",allprops$file)
+allprops$dir<-gsub("/i.+properties$","/",allprops$file)
 
-translations_files<-list.files(wd, pattern = "^i18.*\\_[a-zA-Z]{2}.properties$", full.names = TRUE, recursive=TRUE)
+props<-allprops[!allprops$is_template,]
+templates<-allprops[allprops$is_template,]
+props<-merge(props,templates[c("file","dir")],by="dir")
+
+props<-props[,c("dir","file.x","file.y")]
+names(props)<-c("dir","prop","template")
 #Extract the last part
-foo<-strsplit(translations_files,"/")
+foo<-strsplit(as.character(props$prop),"/")
 bar<-rep("",length(foo))
 for (i in 1:length(foo)){
   bar[i]<-foo[[i]][length(foo[[i]])] }
 
 bar<-gsub("i18n_(app_|module_|global_)","",bar)
 bar<-gsub("\\.properties","",bar)
+props$lang<-bar
 all_langs<-unique(bar)
 
-trans_files<-data.frame(path=translations_files,lang=bar)
 
 #Create some modules names from the 
-
-modules<-strsplit(template.dirs,"/")
+modules<-strsplit(as.character(props$dir),"/")
 modules_is_module<-lapply(modules,function(x) grepl("dhis-",x))
 modules_is_module<-lapply(modules_is_module,function(x) max(which(x)))
 modules_name<-rep("",length(modules))
 for (i in 1:length(modules)) {
   modules_name[i]<-modules[[i]][modules_is_module[[i]]]}
 
-modules<-data.frame(name=modules_name,path=template.dirs,template=templates)
+props$module_name<-modules_name
 
-#Create all module directories
-setwd("/home//jason/development/dhis2-translations/")
+
+#Create all module directories and init the POT file
+
+modules<-unique(props[,c("module_name","template")])
 for (i in 1:nrow(modules))
 {
-  this_dir<-paste0(getwd(),"/",modules$name[i])
+  this_dir<-paste0(trans_dir,"/",modules$name[i])
   dir.create(this_dir)
+  this_cmd<-paste0("prop2po -P ",modules$template[i]," ", trans_dir, "/", modules$name[i], "/", "en.pot")
+  system(this_cmd)
   
 }
-#Initalize the POT file
 
-for (i in 1:nrow(modules)) {
-  this_cmd<-paste0("prop2po -P ",modules$template[i]," ", getwd(), "/", modules$name[i], "/", "en.pot")
-  system(this_cmd)
-}
 
 #Create the po files for each language and module
 
-for (i in 1:nrow(modules)) {
-  for (j in 1:length(all_langs)){
-  #Get the existing language file if it exists
-  this_trans_file<-list.files(as.character(modules$path[i]),
-             pattern=paste0("^i18n.+",all_langs[j],"\\.properties"),
-             full.names=TRUE)
-  if (length(this_trans_file != 0)) {
-  this_cmd<-paste0("prop2po --duplicates=msgctxt -t ", modules$template[i], " ",this_trans_file, " ",modules$name[i],"/",all_langs[j],".po") }
-  else { this_cmd<-paste0("prop2po ",modules$template[i], " ",modules$name[i],"/",all_langs[j],".po")}
-  system(this_cmd)
-  }
+for (i in 1:nrow(props)) {
+  po_file<-paste0(trans_dir,"/",props$module_name[i],"/",props$lang[i],".po")
+  #If the file does not exist
+  if ( !file.exists(po_file) ) {
+ this_cmd<-paste0("prop2po ",props$template[i], " ",trans_dir,"/",props$module_name[i],"/",props$lang[i],".po") 
+  } else {
+  this_cmd<-paste0("prop2po --duplicates=msgctxt -t ", props$template[i], " ",props$prop[i], " ",trans_dir,"/",props$module_name[i],"/",props$lang[i],".po") 
   
+  }
+ print(this_cmd)
+ system(this_cmd)
 }

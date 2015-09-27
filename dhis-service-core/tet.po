@@ -1,0 +1,3931 @@
+#. #-- Application name -----------------------------------------------------------#
+#. extracted from /home/jason/development/dhis2/dhis-2//dhis-services/dhis-service-core/src/main/resources/i18n_global.properties, /home/jason/development/dhis2/dhis-2//dhis-services/dhis-service-core/src/main/resources/i18n_global_tet.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-27 09:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: district_health_information_software
+msgid "District Health Information Software 2"
+msgstr "Software Sistema Informasaun Munisipiu 2"
+
+#: dhis2
+msgid "DHIS 2"
+msgstr "DIHS 2"
+
+#. #-- dhis-wp --------------------------------------------------------------------#
+#: no_page_specified
+msgid "No page specified"
+msgstr "La espesifika pájina ida"
+
+#: an_exception_occured
+msgid "An exception occurred"
+msgstr "Okorre exepsaun ida"
+
+#: exception_explanation_text
+msgid ""
+"Sorry! The system failed to execute the operation. Usually, no data is lost "
+"and you can continue working by going back to the previous page."
+msgstr ""
+"Deskulpa! Sistema la konsege ezekuta operasaun. Normalmente, dadus la lakon "
+"i itabo'ot bele fila ba pájina anterior atu kontinua servisu."
+
+#: exception
+msgid "Exception"
+msgstr "Exepsaun"
+
+#: caused_by
+msgid "Caused by"
+msgstr "Kauza husi"
+
+#: unknown_source
+msgid "Unknown source"
+msgstr "Fonte deskoñesida"
+
+#: logged_in
+msgid "Logged in"
+msgstr "Log in tiha ona"
+
+#: not_logged_in
+msgid "Not logged in"
+msgstr "Seidauk log in"
+
+#: log_out
+msgid "Log out"
+msgstr "Log out"
+
+#: about
+msgid "About"
+msgstr "Konabá"
+
+#: access_denied
+msgid "Access denied"
+msgstr "Asesu negadu"
+
+#: access_denied_message
+msgid "You don't have sufficient authority to view this page"
+msgstr "Itabo'ot laiha autoridade sufisiente atu haré pájina ida ne'e"
+
+#: create_access_denied_message
+msgid "You don't have create access to object"
+msgstr "Itabo'ot laiha asesu atu kria objetu"
+
+#: read_access_denied_message
+msgid "You don't have read access to object"
+msgstr "Itabo'ot laiha asesu atu le objetu"
+
+#: update_access_denied_message
+msgid "You don't have update access to object"
+msgstr "Itabo'ot laiha asesu atualizadu ba objetu"
+
+#: delete_access_denied_message
+msgid "You don't have delete access to object"
+msgstr "Itabo'ot laiha asesu atu soe objetu"
+
+#: go_back
+msgid "Go back"
+msgstr "Fila ba kotuk"
+
+#: main_menu
+msgid "Main menu"
+msgstr "Menu prinsipal"
+
+#: maintenance
+msgid "Maintenance"
+msgstr "Manutensaun"
+
+#: services
+msgid "Services"
+msgstr "Servisus"
+
+#. #-- dhis-ouwt ------------------------------------------------------------------#
+#: org_unit_tree
+msgid "Organisation Unit Tree"
+msgstr "Ai-hun Unidade Organizasional"
+
+#: specify_organisationunit
+msgid "Please specify an organisation unit"
+msgstr "Favor espesifika unidade organizasional ida"
+
+#: cannot_clear_selected_orgunits
+msgid "Cannot clear the selected organisation units"
+msgstr "Labele hamós unidades organizasionais selesionadas"
+
+#: locate_organisation_unit_by_name
+msgid "Locate organisation unit by name"
+msgstr "Lokaliza unidade organizasional tuir naran"
+
+#: error_occurred
+msgid "An error has occurred."
+msgstr "Akontese erru ida."
+
+#: select_organisationunit
+msgid "You must select an OrganisationUnit from the tree."
+msgstr "Itabo'ot tenki selesiona Unidade Organizasional ida husi ai-hun."
+
+#. #-- Modules --------------------------------------------------------------------#
+#: dhis-web-maintenance-datadictionary
+msgid "Data Elements / Indicators"
+msgstr "Elementus Dadus/ Indikadores"
+
+#: dhis-web-maintenance-dataset
+msgid "Data Sets"
+msgstr "Pakote Dadus"
+
+#: dhis-web-maintenance-organisationunit
+msgid "Organisation Units"
+msgstr "Unidades Organizasionais"
+
+#: dhis-web-maintenance-user
+msgctxt "dhis-web-maintenance-user"
+msgid "Users"
+msgstr "Utilizadores"
+
+#: dhis-web-maintenance-dataadmin
+msgid "Data Administration"
+msgstr "Administrador de Dadus"
+
+#: dhis-web-maintenance-settings
+msgctxt "dhis-web-maintenance-settings"
+msgid "Settings"
+msgstr "Konfigurasaun"
+
+#: dhis-web-maintenance-program
+msgid "Programs / Attributes"
+msgstr "Programas / Atributus"
+
+#: dhis-web-maintenance-mobile
+msgid "Mobile Configuration"
+msgstr "Konfigurasaun Móvel"
+
+#: dhis-web-maintenance-appmanager
+msgid "App Management"
+msgstr "Jestaun App"
+
+#: dhis-web-caseentry
+msgid "Individual Records"
+msgstr "Resjistus Individuais"
+
+#: dhis-web-dataentry
+msgid "Data Entry"
+msgstr "Hatama Dadus"
+
+#: dhis-web-importexport
+msgid "Import-Export"
+msgstr "Importa-Exporta"
+
+#: dhis-web-validationrule
+msgid "Data Quality"
+msgstr "Kualidade Dadus"
+
+#: dhis-web-mapping
+msgid "GIS"
+msgstr "SIJ"
+
+#: dhis-web-event-capture
+msgid "Event Capture"
+msgstr "Kaptura Eventu"
+
+#: dhis-web-event-reports
+msgid "Event Reports"
+msgstr "Relatorius Eventu"
+
+#: dhis-web-event-visualizer
+msgid "Event Visualizer"
+msgstr "Vizualizador Eventu"
+
+#: dhis-web-tracker-capture
+msgid "Tracker Capture"
+msgstr "Rastreador Kaptura"
+
+#: dhis-web-cache-cleaner
+msgid "Browser Cache Cleaner"
+msgstr "Makhamós Cache"
+
+#: dhis-web-reporting
+msgid "Reports"
+msgstr "Relatórius"
+
+#: dhis-web-light
+msgid "Mobile (Light)"
+msgstr "Móvel (Kamán)"
+
+#: dhis-web-mobile
+msgid "Mobile (Smartphone)"
+msgstr "Telemóvel (Smartphone)"
+
+#: dhis-web-dashboard-integration
+msgctxt "dhis-web-dashboard-integration"
+msgid "Dashboard"
+msgstr "Painel Kontrolu"
+
+#: dhis-web-visualizer
+msgid "Data Visualizer"
+msgstr "Vizualizador Dadus"
+
+#: dhis-web-pivot
+msgid "Pivot Table"
+msgstr "Tabela Dinámika"
+
+#: dhis-web-dashboard
+msgid "Data Analyser"
+msgstr "Analizador Dadus"
+
+#: dhis-web-integration
+msgid "NHRM Integration"
+msgstr "Integrasaun NHRM"
+
+#: dhis-web-reports
+msgid "NRHM Reports"
+msgstr "Relatórius NRHM"
+
+#: dhis-web-dataentry-national
+msgid "Linelisting Data Entry"
+msgstr "Entrada Dadus husi Listaliña"
+
+#: dhis-web-validationrule-local-in
+msgid "Validation Analysis"
+msgstr "Análize Validasaun"
+
+#: dhis-web-survey
+msgid "Survey - Target"
+msgstr "Survei - Alvu"
+
+#: dhis-web-spreadsheet-reporting
+msgid "Spreadsheet Reports"
+msgstr "Relatórius Planilla"
+
+#: dhis-web-sms
+msgid "SMS"
+msgstr "SMS"
+
+#: dhis-web-maintenance-in
+msgid "Configuration"
+msgstr "Konfigurasaun"
+
+#: dhis-web-linelisting-mp
+msgid "Manpower"
+msgstr "Maun de obra"
+
+#: dhis-web-maintenance-rbf
+msgid "Maintenance RBF"
+msgstr "RBF Manutensaun"
+
+#. #-- Intro modules -------------------------------------------------------------#
+#: intro_dhis-web-maintenance-datadictionary
+msgid "Maintain data elements, indicators, categories and groups."
+msgstr "Mantein elementus dadus, indikadores, kategorias no grupus."
+
+#: intro_dhis-web-maintenance-dataset
+msgid ""
+"Maintain data sets, custom forms, sections and compulsory data elements."
+msgstr ""
+"Mantein pakote dadus, formulárius personalizadus, seksoens i elementus dadus "
+"obrigatórius."
+
+#: intro_dhis-web-maintenance-organisationunit
+msgid "Maintain organisation units and its hierarchy, groups and group sets."
+msgstr ""
+"Mantein unidades organizasionais ho nia ierarkia, grupus no konjuntu grupus."
+
+#: intro_dhis-web-maintenance-user
+msgid ""
+"Maintain users in terms of authorities and passwords, user roles and groups."
+msgstr ""
+"Mantein utilizadores ein termus de autoridades i señas, kompetensias "
+"utilizador no grupus."
+
+#: intro_dhis-web-maintenance-dataadmin
+msgid ""
+"Maintain resource tables, check data integrity, see statistics and more."
+msgstr ""
+"Mantein tabela rekursus, verifika integridade dadus, haré estatístikas no "
+"seluk tan."
+
+#: intro_dhis-web-maintenance-settings
+msgid ""
+"Maintain user and system settings related to appearance, notifications and "
+"more."
+msgstr ""
+"Mantein utilizador no definisoens sitema ne'ebé relasiona ho aparensia, "
+"notifikasaun no seluk tan."
+
+#: intro_dhis-web-maintenance-program
+msgid ""
+"Maintain tracked entities and programs including attributes and identifiers."
+msgstr ""
+"Mantein entidade no programas rastreadus inklui atributus no identifikadores."
+
+#: intro_dhis-web-maintenance-mobile
+msgid ""
+"Maintain data sets plus settings for mobile reporting and SMS configuration."
+msgstr ""
+"Mantein pakote dadus no mós definisoens ba relatóriu móvel no konfigurasaun "
+"SMS."
+
+#: intro_dhis-web-maintenance-appmanager
+msgid ""
+"Access and upload apps, which are extensions to the standard user interface."
+msgstr ""
+"Asesu no hasae aplikasoens, ne'ebé sai nudar extensaun ba interfase "
+"utilizador padraun."
+
+#: intro_dhis-web-caseentry
+msgid ""
+"Register beneficiaries, enter data for encounters and events and view "
+"reports."
+msgstr ""
+"Rejista benefisiárius, hatama dadus ba enkontrus no eventus i haré "
+"relatórius."
+
+#: intro_dhis-web-dataentry
+msgid ""
+"Enter data for forms either on-line or off-line, validate data and view data "
+"trends."
+msgstr ""
+"Hatama dadus ba formularius online ou offline, valida dadus no haré "
+"tendensia dadus."
+
+#: intro_dhis-web-importexport
+msgid ""
+"Import and export data from DHIS or third-party systems on various formats."
+msgstr "Importa no exporta dadus husi DHIS ou sistemas seluk ho formatus oioin."
+
+#: intro_dhis-web-validationrule
+msgid ""
+"Validate and assess data quality using validation rules or statistical "
+"methods."
+msgstr ""
+"Valida no avalia kualidade dadus uza regras validasaun ou métodus "
+"estatístikus."
+
+#: intro_dhis-web-mapping
+msgid ""
+"Visualize data on maps using polygons, points, symbols in multiple layers."
+msgstr ""
+"Vizualiza dadus iha mapas uza polígonus, pontus, símbolus iha kamadas "
+"múltiplas."
+
+#: intro_dhis-web-reporting
+msgid ""
+"Analyse data and reporting rates using predefined and dynamic report tools."
+msgstr ""
+"Analiza dadus i taxas relatórius uza instrumentus predefenidus no dinámikus."
+
+#: intro_dhis-web-light
+msgid "Access a mobile device optimized version of data entry and analysis."
+msgstr ""
+"Asesu ba versaun entrada no análize dadus optimalizada ba dispozitivu móvel."
+
+#: intro_dhis-web-mobile
+msgid ""
+"Access a smartphone optimized version of data entry, settings, messages."
+msgstr ""
+"Asesu ba versaun entrada dadus, konfigurasaun i mensajens optimalizadu ba "
+"dispozitivu móvel."
+
+#: intro_dhis-web-dashboard-integration
+msgid ""
+"Get an overview of favorite charts, reports and maps and view or write "
+"messages."
+msgstr ""
+"Obtein vizaun jeral gráfikus, relatóriu no mapas  i haré ou hakerek "
+"mensajens."
+
+#: intro_dhis-web-visualizer
+msgid "Create dynamic data visualizations for data elements and indicators."
+msgstr "Kria vizualizadores dadus dinámikus ba elementus dadus no indikadores."
+
+#: intro_dhis-web-pivot
+msgid "Generate flexible pivot tables with data aggregated in all dimensions."
+msgstr ""
+"Kria tabelas dinámikas fleksíveis ho  agregadus dadus iha dimensoens hotu-"
+"hotu."
+
+#: intro_dhis-web-sms
+msgid "Send SMS reminders and notifications manually or as scheduled tasks."
+msgstr ""
+"Haruka lembretes  no notifikasoens liu husi SMS manualmente ou tuir "
+"kalendáriu."
+
+#: intro_dhis-web-spreadsheet-reporting
+msgid "Generate and import data based on predefined Excel templates."
+msgstr "Kria no importa dadus bazeia ba modelus predefinidus iha Excel."
+
+#: intro_dhis-web-event-reports
+msgid "Query for events and create aggregated, dimensional analysis of events."
+msgstr ""
+"Halo kestionáriu konaba eventus i kria análize agregadu no dimensional ba "
+"eventus."
+
+#: intro_dhis-web-event-capture
+msgid "Capture information about single events."
+msgstr "Kapturan informasaun konaba eventus únikus."
+
+#: intro_dhis-web-tracker-capture
+msgid "Capture information about trackable entities."
+msgstr "Kaptura informasaun konaba entidades rastreáveis."
+
+#. #-- Intro functions -------------------------------------------------------------#
+#: intro_help_center
+msgid ""
+"Get help on a various of topics related to setting up and using the DHIS 2."
+msgstr ""
+"Hetan ajuda iha tópiku oioin konabá konfigurasaun no utilizasaun DHIS 2."
+
+#: intro_supportive_software
+msgid ""
+"Get an overview of useful software like report designers mobile clients."
+msgstr ""
+"Hetan vizaun jeral software útil hanesan dezeñadores relatóriu ba kliente "
+"móvel."
+
+#: intro_system_overview
+msgid "Visit the system overview page to get a complete list of modules."
+msgstr ""
+"Vizita pájina vizaun jeral sistema atu haré lista kompleta módulus sira."
+
+#: intro_web_api
+msgid ""
+"Go to the Web API entry point, which is an interface for other computer "
+"systems."
+msgstr ""
+"Bá pontu entrada Web API, ne'ebé sai hanesan interfase ba sistema "
+"komputadores seluk."
+
+#: intro_about_dhis2
+msgid "Get information about the system version and runtime environment."
+msgstr "Hetan informasaun konaba versaun sistema i ambiente tempu ezekusaun. "
+
+#: intro_settings
+msgid ""
+"Set your personal preferences for interface language, style and email "
+"settings."
+msgstr ""
+"Define itabo'ot nia preferensias pesoais ba konfigurasaun idioma interfase, "
+"estilu no email."
+
+#: intro_profile
+msgid ""
+"Set up your personal profile with information like job title and interests."
+msgstr ""
+"Define itabo'ot nia perfil pesoal ho informasaun hanesan títulu servisu no "
+"intereses."
+
+#: intro_account
+msgid "Manage your user account including name, password, email and mobile."
+msgstr "Jere itabo'ot nia konta inklui naran, seña, email no telemóvel."
+
+#: intro_log_out
+msgid ""
+"Go here to log out of the system and deny others to access your user account."
+msgstr ""
+"Mai iha ne'e atu sai husi sistema i evita ema seluk asede itabo'ot nia konta "
+"utilizador."
+
+#. #-- Common ---------------------------------------------------------------------#
+#: offline
+msgid "Offline"
+msgstr "Offline"
+
+#: online
+msgid "Online"
+msgstr "Online"
+
+#: next
+msgid "Next"
+msgstr "Próximu"
+
+#: previous
+msgid "Previous"
+msgstr "Anterior"
+
+#: online_notification
+msgid "You are online"
+msgstr "Itabo'ot online"
+
+#: offline_notification
+msgid "You are offline, data will be stored locally"
+msgstr "Itabo'ot offline, dadus sei armazena lokalmente"
+
+#: need_to_sync_notification
+msgid "There is data stored locally, please upload to server"
+msgstr "Iha dadus ne'ebé sei armazena lokalmente, favor hasae ba server"
+
+#: uploading_data_notification
+msgid "Uploading locally stored data to the server"
+msgstr "Hasae daudaun  dadus ne'ebe armazena lokalmente ba server "
+
+#: sync_now
+msgid "Upload"
+msgstr "Hasae"
+
+#: discard
+msgid "Discard"
+msgstr "Soe"
+
+#: remove_local_data
+msgid "Are you sure you want to remove the locally stored data?"
+msgstr "Itabo'ot iha serteza atu hasai dadus ne'bé armazena lokalmente?"
+
+#: sync_success
+msgid "Upload to server was successful"
+msgstr "Susesu hasae ba server"
+
+#: sync_failed
+msgid "Upload to server failed, please try again later"
+msgstr "La konsege hasae ba server, favor koko fali iha biban seluk"
+
+#: year
+msgid "Year"
+msgstr "Tinan"
+
+#: details
+msgctxt "details"
+msgid "Details"
+msgstr "Detalles"
+
+#: show_details
+msgid "Show details"
+msgstr "Hatudu detalles"
+
+#: hide_details
+msgid "Hide details"
+msgstr "Subar detalles"
+
+#: change_password
+msgid "Change password"
+msgstr "Troka seña"
+
+#: expired_password
+msgid "Your password has expired, please change"
+msgstr "Itabo'ot nia seña expira tiha ona, favor troka"
+
+#: date_selector
+msgid "Choose a date"
+msgstr "Hili data ida"
+
+#: hide_menu
+msgid "Hide menu"
+msgstr "Subar menu"
+
+#: extend_menu
+msgid "Extend menu"
+msgstr "Habelar menu"
+
+#: show_menu
+msgid "Show menu"
+msgstr "Hatudu menu"
+
+#: show_main_menu
+msgid "Show main menu"
+msgstr "Hatudu menu prinsipal"
+
+#: view_home_page
+msgid "View home page"
+msgstr "Hare pájina inisial"
+
+#: view_intepretations
+msgid "View interpretations"
+msgstr "Haré interpretasoens"
+
+#: organisation_unit
+msgid "Organisation unit"
+msgstr "Unidade organizasional"
+
+#: dataelement
+msgid "Data element"
+msgstr "Elementu dadus"
+
+#: start_date
+msgid "Start date"
+msgstr "Data hahú"
+
+#: end_date
+msgid "End date"
+msgstr "Data remata"
+
+#: entry
+msgid "Entry"
+msgstr "Entrada"
+
+#: comment
+msgctxt "comment"
+msgid "Comment"
+msgstr "Komentáriu"
+
+#: operations
+msgid "Operations"
+msgstr "Operasoens"
+
+#: add_new
+msgid "Add new"
+msgstr "Aumenta foun"
+
+#: rename
+msgid "Rename"
+msgstr "Tau naran foun"
+
+#: move
+msgid "Move"
+msgstr "Muda"
+
+#: remove
+msgid "Remove"
+msgstr "Hasai"
+
+#: required
+msgid "Required"
+msgstr "Nesesáriu"
+
+#: all
+msgid "All"
+msgstr "Hotu"
+
+#: save
+msgctxt "save"
+msgid "Save"
+msgstr "Rai"
+
+#: new
+msgid "New"
+msgstr "Foun"
+
+#: back
+msgid "Back"
+msgstr "Ba kotuk"
+
+#: ok
+msgid "OK"
+msgstr "OK"
+
+#: cancel
+msgctxt "cancel"
+msgid "Cancel"
+msgstr "Kansela"
+
+#: clone
+msgid "Clone"
+msgstr "Klone"
+
+#: add
+msgctxt "add"
+msgid "Add"
+msgstr "Aumenta"
+
+#: edit
+msgid "Edit"
+msgstr "Edita"
+
+#: reply
+msgid "Reply"
+msgstr "Hatán"
+
+#: update
+msgid "Update"
+msgstr "Atualiza"
+
+#: delete
+msgid "Delete"
+msgstr "Soe"
+
+#: deleting
+msgid "Deleting"
+msgstr "Soe daudaun"
+
+#: close
+msgid "Close"
+msgstr "Taka"
+
+#: gender_male
+msgctxt "gender_male"
+msgid "Male"
+msgstr "Mane"
+
+#: gender_female
+msgctxt "gender_female"
+msgid "Female"
+msgstr "Feto"
+
+#: gender_other
+msgctxt "gender_other"
+msgid "Other"
+msgstr "Seluk"
+
+#: password
+msgctxt "password"
+msgid "Password"
+msgstr "Seña"
+
+#: confirm_password
+msgid "Confirm password"
+msgstr "Konfirma seña"
+
+#: mobile_phone
+msgid "Mobile phone"
+msgstr "Telemóvel"
+
+#: create_new_account
+msgid "Create a new account"
+msgstr "Kria konta foun"
+
+#: prove_you_are_not_a_robot
+msgid "Prove you are not a robot"
+msgstr "Prova katak itabo'ot laós robot"
+
+#: create
+msgid "Create"
+msgstr "Kria"
+
+#: cant_read_the_words_try_another_one
+msgid "Can't read the words? Try another one"
+msgstr "La konsege le lifuan sira ne'e? Koko fali seluk"
+
+#: restore
+msgid "Restore"
+msgstr "Restaura"
+
+#: restore_account
+msgid "Restore account"
+msgstr "Restaura konta"
+
+#: account_recovery
+msgid "Account recovery"
+msgstr "Restaurasaun konta"
+
+#: recover
+msgid "Recover"
+msgstr "Restaura"
+
+#: code_from_email
+msgid "Code from email"
+msgstr "Kódigu husi email"
+
+#: password_hint
+msgid "Minimum 8 characters, 1 upper-case and 1 digit"
+msgstr "Mínimu karáter 8, maískula 1 no díjitu 1"
+
+#: optional
+msgid "Optional"
+msgstr "Opsional"
+
+#: object_not_deleted_associated_by_objects
+msgid "Object was not deleted because it is used by other objects:"
+msgstr "Objetu  la soe tanba objetu seluk sei uza:"
+
+#: id
+msgid "ID"
+msgstr "ID"
+
+#: name_in_use
+msgid "The name is already in use. Please choose a different name"
+msgstr "Naran n'e uza ona. Favor hili naran seluk"
+
+#: code_in_use
+msgid "The code is already in use. Please choose a different code"
+msgstr "Kódigu ne'e uza ona. Favor hili kódigu seluk"
+
+#: short_name_in_use
+msgid "The short name is already in use. Please choose a different short name"
+msgstr "Naran badak ne'e uza ona. Favor hili naran badak seluk"
+
+#: unsupported_browser
+msgid ""
+"Please upgrade your browser. Internet Explorer version 8 and earlier is not "
+"supported."
+msgstr ""
+"Favor atualiza itabo'ot nia navagador. La suporta Internet Explorer versaun "
+"8 no anteriores."
+
+#: email_not_configured_for_system
+msgid "Email is not configured for the system"
+msgstr "Email la konfigura ba sistema ne'e"
+
+#: no_user_credentials
+msgid "No user credentials"
+msgstr "Laiha kredensiais utilizador"
+
+#: user_does_not_have_valid_email
+msgid "User does not have a valid email"
+msgstr "Utilizador laiha email válidu ida"
+
+#: user_has_critical_authorities
+msgid "User has critical authorities"
+msgstr "Utilizador iha autoridades krítikas"
+
+#: default
+msgid "Default"
+msgstr "Default"
+
+#: left_brackets
+msgid "Left brackets"
+msgstr ""
+
+#: right_brackets
+msgid "Right brackets"
+msgstr ""
+
+#: multiply
+msgid "Multiply"
+msgstr ""
+
+#: divide
+msgid "Divide"
+msgstr ""
+
+#: plus
+msgid "Plus"
+msgstr ""
+
+#: minus
+msgid "Minus"
+msgstr ""
+
+#: no_of_days
+msgid "No of days"
+msgstr ""
+
+#: variables
+msgid "Variables"
+msgstr ""
+
+#: open
+msgid "Open"
+msgstr ""
+
+#: normal
+msgid "Normal"
+msgstr ""
+
+#. #-- Relative periods -----------------------------------------------------------#
+#: LAST_MONTH
+msgid "Last month"
+msgstr "Fulan ikus"
+
+#: LAST_BIMONTH
+msgid "Last bi-month"
+msgstr "Bimensal ikus"
+
+#: LAST_QUARTER
+msgid "Last quarter"
+msgstr "Trimestre ikus"
+
+#: LAST_SIX_MONTH
+msgid "Last six-month"
+msgstr "Fulan-nén ikus"
+
+#: MONTHS_THIS_YEAR
+msgid "Months this year"
+msgstr "Fulan sira tinan ida ne'e"
+
+#: QUARTERS_THIS_YEAR
+msgid "Quarters this year"
+msgstr "Trimestres sira tinan ida ne'e"
+
+#: THIS_YEAR
+msgid "This year"
+msgstr "Tina ida ne'e"
+
+#: MONTHS_LAST_YEAR
+msgid "Months last year"
+msgstr "Fulan sira tinan kotuk"
+
+#: QUARTERS_LAST_YEAR
+msgid "Quarters last year"
+msgstr "Trimestres tinan kotuk"
+
+#: LAST_YEAR
+msgid "Last year"
+msgstr "Tinan kotuk"
+
+#: LAST_5_YEARS
+msgid "Last 5 years"
+msgstr "Tinan 5 kotuk"
+
+#: LAST_12_MONTHS
+msgid "Last 12 months"
+msgstr "Fulan 12 kotuk"
+
+#: LAST_6_MONTHS
+msgid "Last 6 months"
+msgstr "Fulan 6 kotuk"
+
+#: LAST_3_MONTHS
+msgid "Last 3 months"
+msgstr "Fulan 3 kotuk"
+
+#: LAST_6_BIMONTHS
+msgid "Last 6 bi-months"
+msgstr "Bimensal 6 ikus liu"
+
+#: LAST_4_QUARTERS
+msgid "Last 4 quarters"
+msgstr "Trimestre 4 ikus liu"
+
+#: LAST_2_SIXMONTHS
+msgid "Last 2 six-months"
+msgstr "Fulan-nén 2 ikus liu"
+
+#: THIS_FINANCIAL_YEAR
+msgid "This financial year"
+msgstr "Tinan finanseiru ida ne'e"
+
+#: LAST_FINANCIAL_YEAR
+msgid "Last financial year"
+msgstr "Tinan finanseiru kotuk"
+
+#: LAST_5_FINANCIAL_YEARS
+msgid "Last 5 financial years"
+msgstr "Tinan finanseiru 5 ikus"
+
+#: LAST_WEEK
+msgid "Last week"
+msgstr "Semana kotuk"
+
+#: LAST_4_WEEKS
+msgid "Last 4 weeks"
+msgstr "Semana 4 ikus"
+
+#: LAST_12_WEEKS
+msgid "Last 12 weeks"
+msgstr "Semana 12 ikus"
+
+#: LAST_52_WEEKS
+msgid "Last 52 weeks"
+msgstr "Semana 52 ikus"
+
+#. #-- PeriodTypes ----------------------------------------------------------------#
+#: Daily
+msgid "Daily"
+msgstr "Diáriu"
+
+#: Weekly
+msgid "Weekly"
+msgstr "Semanal"
+
+#: Monthly
+msgid "Monthly"
+msgstr "Mensal"
+
+#: BiMonthly
+msgid "Bimonthly"
+msgstr "Bimensal"
+
+#: Quarterly
+msgid "Quarterly"
+msgstr "Trimestral"
+
+#: SixMonthly
+msgid "Six-monthly"
+msgstr "Semestral"
+
+#: SixMonthlyApril
+msgid "Six-monthly April"
+msgstr "Abril semestral"
+
+#: Yearly
+msgid "Yearly"
+msgstr "Anual"
+
+#: TwoYearly
+msgid "Two-yearly"
+msgstr "Bianual"
+
+#: OnChange
+msgid "On-change"
+msgstr "Wainhira-iha-mudansa"
+
+#: Survey
+msgid "Survey"
+msgstr "Survei"
+
+#: Relative
+msgid "Relative"
+msgstr "Relativu"
+
+#: FinancialApril
+msgid "Financial-April"
+msgstr "Abril-Finanseiru"
+
+#: FinancialJuly
+msgid "Financial-July"
+msgstr "Jullu-Finanseiru"
+
+#: FinancialOct
+msgid "Financial-Oct"
+msgstr "Out-Finanseiru"
+
+#. #-- Period formats - Should not be translated ----------------------------------#
+#: format.Daily.startDate
+msgctxt "format.Daily.startDate"
+msgid "yyyy-MM-dd"
+msgstr ""
+
+#: format.Daily.endDate
+msgctxt "format.Daily.endDate"
+msgid ""
+msgstr ""
+
+#: format.Weekly.startDate
+msgid "yyyy 'W' w"
+msgstr ""
+
+#: format.Weekly.endDate
+msgctxt "format.Weekly.endDate"
+msgid ""
+msgstr ""
+
+#: format.Monthly.startDate
+msgid "MMMM yyyy"
+msgstr ""
+
+#: format.Monthly.endDate
+msgctxt "format.Monthly.endDate"
+msgid ""
+msgstr ""
+
+#: format.BiMonthly.startDate
+msgctxt "format.BiMonthly.startDate"
+msgid "MMM 'to '"
+msgstr ""
+
+#: format.BiMonthly.endDate
+msgctxt "format.BiMonthly.endDate"
+msgid "MMM yyyy"
+msgstr ""
+
+#: format.Quarterly.startDate
+msgctxt "format.Quarterly.startDate"
+msgid "MMM 'to '"
+msgstr ""
+
+#: format.Quarterly.endDate
+msgctxt "format.Quarterly.endDate"
+msgid "MMM yyyy"
+msgstr ""
+
+#: format.SixMonthly.startDate
+msgctxt "format.SixMonthly.startDate"
+msgid "MMM 'to '"
+msgstr ""
+
+#: format.SixMonthly.endDate
+msgctxt "format.SixMonthly.endDate"
+msgid "MMM yyyy"
+msgstr ""
+
+#: format.SixMonthlyApril.startDate
+msgctxt "format.SixMonthlyApril.startDate"
+msgid "MMM 'to '"
+msgstr ""
+
+#: format.SixMonthlyApril.endDate
+msgctxt "format.SixMonthlyApril.endDate"
+msgid "MMM yyyy"
+msgstr ""
+
+#: format.Yearly.startDate
+msgctxt "format.Yearly.startDate"
+msgid "yyyy"
+msgstr ""
+
+#: format.Yearly.endDate
+msgctxt "format.Yearly.endDate"
+msgid ""
+msgstr ""
+
+#: format.TwoYearly.startDate
+msgid "yyyy 'and '"
+msgstr ""
+
+#: format.TwoYearly.endDate
+msgctxt "format.TwoYearly.endDate"
+msgid "yyyy"
+msgstr ""
+
+#: format.OnChange.startDate
+msgctxt "format.OnChange.startDate"
+msgid "yyyy-MM-dd '- '"
+msgstr ""
+
+#: format.OnChange.endDate
+msgctxt "format.OnChange.endDate"
+msgid "yyyy-MM-dd"
+msgstr ""
+
+#: format.Survey.startDate
+msgctxt "format.Survey.startDate"
+msgid "yyyy-MM-dd"
+msgstr ""
+
+#: format.Survey.endDate
+msgctxt "format.Survey.endDate"
+msgid ""
+msgstr ""
+
+#: format.Relative.startDate
+msgctxt "format.Relative.startDate"
+msgid "yyyy-MM-dd '- '"
+msgstr ""
+
+#: format.Relative.endDate
+msgctxt "format.Relative.endDate"
+msgid "yyyy-MM-dd"
+msgstr ""
+
+#: format.FinancialApril.startDate
+msgctxt "format.FinancialApril.startDate"
+msgid "MMM yyyy 'to '"
+msgstr ""
+
+#: format.FinancialApril.endDate
+msgctxt "format.FinancialApril.endDate"
+msgid "MMM yyyy"
+msgstr ""
+
+#: format.FinancialJuly.startDate
+msgctxt "format.FinancialJuly.startDate"
+msgid "MMM yyyy 'to '"
+msgstr ""
+
+#: format.FinancialJuly.endDate
+msgctxt "format.FinancialJuly.endDate"
+msgid "MMM yyyy"
+msgstr ""
+
+#: format.FinancialOct.startDate
+msgctxt "format.FinancialOct.startDate"
+msgid "MMM yyyy 'to '"
+msgstr ""
+
+#: format.FinancialOct.endDate
+msgctxt "format.FinancialOct.endDate"
+msgid "MMM yyyy"
+msgstr ""
+
+#. #-- Months and weeks -----------------------------------------------------------#
+#: month.january
+msgid "January"
+msgstr "Janeiru"
+
+#: month.february
+msgid "February"
+msgstr "Fevereiru"
+
+#: month.march
+msgid "March"
+msgstr "Marsu"
+
+#: month.april
+msgid "April"
+msgstr "Abril"
+
+#: month.may
+msgctxt "month.may"
+msgid "May"
+msgstr "Maiu"
+
+#: month.june
+msgid "June"
+msgstr "Juñu"
+
+#: month.july
+msgid "July"
+msgstr "Jullu"
+
+#: month.august
+msgid "August"
+msgstr "Agostu"
+
+#: month.september
+msgid "September"
+msgstr "Setembru"
+
+#: month.october
+msgid "October"
+msgstr "Outubru"
+
+#: month.november
+msgid "November"
+msgstr "Novembru"
+
+#: month.december
+msgid "December"
+msgstr "Dezembru"
+
+#: month.short.january
+msgid "Jan"
+msgstr "Jan"
+
+#: month.short.february
+msgid "Feb"
+msgstr "Fev"
+
+#: month.short.march
+msgid "Mar"
+msgstr "Mar"
+
+#: month.short.april
+msgid "Apr"
+msgstr "Abr"
+
+#: month.short.may
+msgctxt "month.short.may"
+msgid "May"
+msgstr "Mai"
+
+#: month.short.june
+msgid "Jun"
+msgstr "Jun"
+
+#: month.short.july
+msgid "Jul"
+msgstr "Jul"
+
+#: month.short.august
+msgid "Aug"
+msgstr "Ago"
+
+#: month.short.september
+msgid "Sep"
+msgstr "Set"
+
+#: month.short.october
+msgid "Oct"
+msgstr "Out"
+
+#: month.short.november
+msgid "Nov"
+msgstr "Nov"
+
+#: month.short.december
+msgid "Dec"
+msgstr "Dez"
+
+#: weekday.monday
+msgctxt "weekday.monday"
+msgid "Monday"
+msgstr "Segunda"
+
+#: weekday.tuesday
+msgctxt "weekday.tuesday"
+msgid "Tuesday"
+msgstr "Tersa"
+
+#: weekday.wednesday
+msgctxt "weekday.wednesday"
+msgid "Wednesday"
+msgstr "Kuarta"
+
+#: weekday.thursday
+msgctxt "weekday.thursday"
+msgid "Thursday"
+msgstr "Kinta"
+
+#: weekday.friday
+msgctxt "weekday.friday"
+msgid "Friday"
+msgstr "Sexta"
+
+#: weekday.saturday
+msgctxt "weekday.saturday"
+msgid "Saturday"
+msgstr "Sábadu"
+
+#: weekday.sunday
+msgctxt "weekday.sunday"
+msgid "Sunday"
+msgstr "Domingu"
+
+#: weekday.short.monday
+msgctxt "weekday.short.monday"
+msgid "Mon"
+msgstr "Seg"
+
+#: weekday.short.tuesday
+msgctxt "weekday.short.tuesday"
+msgid "Tue"
+msgstr "Ter"
+
+#: weekday.short.wednesday
+msgctxt "weekday.short.wednesday"
+msgid "Wed"
+msgstr "Kua"
+
+#: weekday.short.thursday
+msgctxt "weekday.short.thursday"
+msgid "Thu"
+msgstr "Kin"
+
+#: weekday.short.friday
+msgctxt "weekday.short.friday"
+msgid "Fri"
+msgstr "Sex"
+
+#: weekday.short.saturday
+msgctxt "weekday.short.saturday"
+msgid "Sat"
+msgstr "Sáb"
+
+#: weekday.short.sunday
+msgctxt "weekday.short.sunday"
+msgid "Sun"
+msgstr "Dom"
+
+#. #-- Nepali Calendar Month/Day names -------------------------------------------#
+#. # The keys for months are still based on ISO 8601, the ordering is correct, but the key names are not. Jan-Dec -> 1-12. #
+#: nepali.month.january
+msgctxt "nepali.month.january"
+msgid "Baishak"
+msgstr ""
+
+#: nepali.month.february
+msgctxt "nepali.month.february"
+msgid "Jestha"
+msgstr ""
+
+#: nepali.month.march
+msgctxt "nepali.month.march"
+msgid "Asar"
+msgstr ""
+
+#: nepali.month.april
+msgctxt "nepali.month.april"
+msgid "Shrawan"
+msgstr ""
+
+#: nepali.month.may
+msgctxt "nepali.month.may"
+msgid "Bhadra"
+msgstr ""
+
+#: nepali.month.june
+msgctxt "nepali.month.june"
+msgid "Ashwin"
+msgstr ""
+
+#: nepali.month.july
+msgctxt "nepali.month.july"
+msgid "Kartik"
+msgstr ""
+
+#: nepali.month.august
+msgctxt "nepali.month.august"
+msgid "Mangsir"
+msgstr ""
+
+#: nepali.month.september
+msgctxt "nepali.month.september"
+msgid "Poush"
+msgstr ""
+
+#: nepali.month.october
+msgctxt "nepali.month.october"
+msgid "Magh"
+msgstr ""
+
+#: nepali.month.november
+msgctxt "nepali.month.november"
+msgid "Falgun"
+msgstr ""
+
+#: nepali.month.december
+msgctxt "nepali.month.december"
+msgid "Chaitra"
+msgstr ""
+
+#: nepali.month.short.january
+msgctxt "nepali.month.short.january"
+msgid "Baishak"
+msgstr ""
+
+#: nepali.month.short.february
+msgctxt "nepali.month.short.february"
+msgid "Jestha"
+msgstr ""
+
+#: nepali.month.short.march
+msgctxt "nepali.month.short.march"
+msgid "Asar"
+msgstr ""
+
+#: nepali.month.short.april
+msgctxt "nepali.month.short.april"
+msgid "Shrawan"
+msgstr ""
+
+#: nepali.month.short.may
+msgctxt "nepali.month.short.may"
+msgid "Bhadra"
+msgstr ""
+
+#: nepali.month.short.june
+msgctxt "nepali.month.short.june"
+msgid "Ashwin"
+msgstr ""
+
+#: nepali.month.short.july
+msgctxt "nepali.month.short.july"
+msgid "Kartik"
+msgstr ""
+
+#: nepali.month.short.august
+msgctxt "nepali.month.short.august"
+msgid "Mangsir"
+msgstr ""
+
+#: nepali.month.short.september
+msgctxt "nepali.month.short.september"
+msgid "Poush"
+msgstr ""
+
+#: nepali.month.short.october
+msgctxt "nepali.month.short.october"
+msgid "Magh"
+msgstr ""
+
+#: nepali.month.short.november
+msgctxt "nepali.month.short.november"
+msgid "Falgun"
+msgstr ""
+
+#: nepali.month.short.december
+msgctxt "nepali.month.short.december"
+msgid "Chaitra"
+msgstr ""
+
+#: nepali.weekday.monday
+msgctxt "nepali.weekday.monday"
+msgid "Monday"
+msgstr ""
+
+#: nepali.weekday.tuesday
+msgctxt "nepali.weekday.tuesday"
+msgid "Tuesday"
+msgstr ""
+
+#: nepali.weekday.wednesday
+msgctxt "nepali.weekday.wednesday"
+msgid "Wednesday"
+msgstr ""
+
+#: nepali.weekday.thursday
+msgctxt "nepali.weekday.thursday"
+msgid "Thursday"
+msgstr ""
+
+#: nepali.weekday.friday
+msgctxt "nepali.weekday.friday"
+msgid "Friday"
+msgstr ""
+
+#: nepali.weekday.saturday
+msgctxt "nepali.weekday.saturday"
+msgid "Saturday"
+msgstr ""
+
+#: nepali.weekday.sunday
+msgctxt "nepali.weekday.sunday"
+msgid "Sunday"
+msgstr ""
+
+#: nepali.weekday.short.monday
+msgctxt "nepali.weekday.short.monday"
+msgid "Mon"
+msgstr ""
+
+#: nepali.weekday.short.tuesday
+msgctxt "nepali.weekday.short.tuesday"
+msgid "Tue"
+msgstr ""
+
+#: nepali.weekday.short.wednesday
+msgctxt "nepali.weekday.short.wednesday"
+msgid "Wed"
+msgstr ""
+
+#: nepali.weekday.short.thursday
+msgctxt "nepali.weekday.short.thursday"
+msgid "Thu"
+msgstr ""
+
+#: nepali.weekday.short.friday
+msgctxt "nepali.weekday.short.friday"
+msgid "Fri"
+msgstr ""
+
+#: nepali.weekday.short.saturday
+msgctxt "nepali.weekday.short.saturday"
+msgid "Sat"
+msgstr ""
+
+#: nepali.weekday.short.sunday
+msgctxt "nepali.weekday.short.sunday"
+msgid "Sun"
+msgstr ""
+
+#. #-- Translation page ------------------------------------------------------#
+#: translation_translate
+msgid "Translate"
+msgstr "Traduz"
+
+#: translation_addlocale
+msgid "Add locale"
+msgstr "Aumenta lokalizasaun"
+
+#: translation_details
+msgctxt "translation_details"
+msgid "Details"
+msgstr "Detalles"
+
+#: translation_select_locale
+msgid "[ Select locale ]"
+msgstr "[Selesiona lokalizasaun]"
+
+#: translation_select_ref
+msgid "[ Select reference ]"
+msgstr "[Selesiona referensia]"
+
+#: translation_save
+msgctxt "translation_save"
+msgid "Save"
+msgstr "Rai"
+
+#: translation_label_id
+msgid "Id"
+msgstr "Id"
+
+#: translation_label_name
+msgctxt "translation_label_name"
+msgid "Name"
+msgstr "Naran"
+
+#: translation_label_shortName
+msgctxt "translation_label_shortName"
+msgid "Short name"
+msgstr "Naran badak"
+
+#: translation_label_description
+msgctxt "translation_label_description"
+msgid "Description"
+msgstr "Deskrisaun"
+
+#: translation_label_comment
+msgctxt "translation_label_comment"
+msgid "Comment"
+msgstr "Komentáriu"
+
+#: translation_label_region
+msgid "Region"
+msgstr "Rejiaun"
+
+#: translation_label_title
+msgid "Title"
+msgstr "Títulu"
+
+#: translation_variant
+msgid "Variant"
+msgstr "Variante"
+
+#: translation_countrycode
+msgid "Country code"
+msgstr "Kódigu nasaun"
+
+#: translation_languagecode
+msgid "Language code"
+msgstr "Kódigu idioma"
+
+#: translation_label_numerator_description
+msgctxt "translation_label_numerator_description"
+msgid "Numerator description"
+msgstr "Deskrisaun numerador"
+
+#: translation_label_denominator_description
+msgctxt "translation_label_denominator_description"
+msgid "Denominator description"
+msgstr "Deskrisaun denominador"
+
+#: translation_locale_added
+msgid "Added locale"
+msgstr "Lokalizasaun aumente tiha ona"
+
+#: translation_cancel
+msgctxt "translation_cancel"
+msgid "Cancel"
+msgstr "Kansela"
+
+#: translation_add
+msgctxt "translation_add"
+msgid "Add"
+msgstr "Aumenta"
+
+#: translation_locale
+msgid "Locale"
+msgstr "Lokalizasaun"
+
+#: translation_reference
+msgid "Reference"
+msgstr "Referensia"
+
+#: translation_language_must_be_two_chars
+msgid "Language must be two characters"
+msgstr "Idioma tenki karáter rua"
+
+#: translation_country_must_be_two_chars
+msgid "Country must be two characters"
+msgstr "Nasaun tenki karáter rua"
+
+#: translation_variant_must_be_specified
+msgid "Variant must be specified"
+msgstr "Tenki espesifika variante"
+
+#: translation_locale_already_exists
+msgid "Locale already exists"
+msgstr "Lokal eziste ona"
+
+#: translation_shortname_wellformed
+msgid ""
+"Please verify Letters, Numbers, Underscore and Spaces for short name only"
+msgstr ""
+"Favor verifika Letras, Númerus, Subliñadus no Espasus ba naran badak deit"
+
+#: translation_shortname_length
+msgid "Shortname's maximum length of 25 charaters"
+msgstr "Naran badak nia naruk máximu karáter 25"
+
+#: translation_duplicated_name_with
+msgid "Sorry! You entered a duplicated name with"
+msgstr "Deskulpa! Itabo'ot hatama naran duplikadu hó"
+
+#: translation_duplicated_shortname_with
+msgid "Sorry! You entered a duplicated short name with"
+msgstr "Deskulpa! Itabo'ot hatama naran badak duplikadu hó"
+
+#: translation_label_formName
+msgid "Form name"
+msgstr "Formuláriu nia naran"
+
+#. #-- About ----------------------------------------------------------------------#
+#: name_exists
+msgid "Warning, name already exists"
+msgstr "Atensaun, naran iha tiha ona"
+
+#: name_is_required
+msgid "Error, name is required"
+msgstr "Erru, naran tenki hakerek"
+
+#: version
+msgid "Version"
+msgstr "Versaun"
+
+#: build_revision
+msgid "Build revision"
+msgstr "Versaun konstrusaun"
+
+#: build_date
+msgid "Build date"
+msgstr "Data konstrusaun"
+
+#: user_agent
+msgid "User agent"
+msgstr "Ajente utilizador"
+
+#: external_configuration_directory
+msgid "External configuration directory"
+msgstr "Diresaun konfiguraun externa"
+
+#: environment_variable
+msgid "Environment variable"
+msgstr "Variábel ambiente"
+
+#: database_type
+msgid "Database type"
+msgstr "Tipu banku dadus"
+
+#: database_name
+msgid "Database name"
+msgstr "Banku dadus nia naran"
+
+#: database_user
+msgid "Database user"
+msgstr "Utilizador banku dadus"
+
+#: not_set
+msgid "Not set"
+msgstr "Seidauk define"
+
+#: current_user
+msgid "Current user"
+msgstr "Utilizador atual"
+
+#: dhis2_online
+msgid "DHIS 2 Online"
+msgstr "DHIS 2 Online"
+
+#: home_page
+msgid "Home Page"
+msgstr "Pájina Inisial"
+
+#: launchpad_site
+msgid "Launchpad Site"
+msgstr "Sítiu Lansamentu"
+
+#: message_to_the_dhis2_development_team
+msgid "Message to the DHIS 2 development team"
+msgstr "Mensajen ba ekipa dezenvolvimentu DHIS 2"
+
+#: error_message_stack_trace
+msgid "Error message / Stack trace"
+msgstr "Mensajen de erru / Rastreamentu de pilla"
+
+#: enter_message
+msgid "Enter a message"
+msgstr "Hatama mensajen ida"
+
+#: send
+msgid "Send"
+msgstr "Haruka"
+
+#: help
+msgid "Help"
+msgstr "Ajuda"
+
+#: send_feedback
+msgid "Send feedback"
+msgstr "Haruka feedback"
+
+#: status
+msgid "Status"
+msgstr "Estadu"
+
+#: system_status
+msgid "System status"
+msgstr "Estadu sistema"
+
+#: feedback
+msgid "Feedback"
+msgstr "Feedback"
+
+#: intro
+msgid "Intro"
+msgstr "Intro"
+
+#: help_contents
+msgid "Help Contents"
+msgstr "Kontúdu Ajuda"
+
+#: about_dhis2
+msgid "About DHIS 2"
+msgstr "Konabá DHIS 2"
+
+#: last_name
+msgid "Last name"
+msgstr "Apelidu"
+
+#: unknown
+msgid "Unknown"
+msgstr "Deskoñesidu"
+
+#: java_opts
+msgid "Java opts"
+msgstr "Java opts"
+
+#: java_home
+msgid "Java home"
+msgstr "Java home"
+
+#: java_tmp_dir
+msgid "Java temporary directory"
+msgstr "Diretóriu temporáriu Java"
+
+#: java_version
+msgid "Java version"
+msgstr "Versaun Java"
+
+#: java_vendor
+msgid "Java vendor"
+msgstr "Vendedor Java"
+
+#: os_name
+msgid "OS name"
+msgstr "Naran OS"
+
+#: os_architecture
+msgid "OS architecture"
+msgstr "Arkitetura OS"
+
+#: os_version
+msgid "OS version"
+msgstr "Versaun OS"
+
+#: supportive_software
+msgid "Supportive Software"
+msgstr "Software suportivu"
+
+#: chrome_description
+msgid "Super fast web browser for all platforms"
+msgstr "Navegador internet lalais liu ba plataforma hotu-hotu"
+
+#: foxit_description
+msgid "Free and simple PDF reader for Windows"
+msgstr "Leitor PDF gratuítu no simples ba Windows"
+
+#: web_browser
+msgid "Web browser"
+msgstr "Navegador internet"
+
+#: pdf_reader
+msgid "PDF reader"
+msgstr "Leitor PDF"
+
+#: ireport_description
+msgid "Report designer for standard reports"
+msgstr "Dezeñador relatórius ba relatórius padraun"
+
+#: report_designer
+msgid "Report designer"
+msgstr "Dezenãdor relatorius"
+
+#: my_datamart
+msgid "MyDatamart"
+msgstr "MyDatamart"
+
+#: my_datamart_description
+msgid "Local data mart for off-line data analysis"
+msgstr "Datamart lokal ba análize offline"
+
+#: mobile_client
+msgid "Mobile client"
+msgstr "Kliente móvel"
+
+#: mobile_client_description
+msgid "Client for data capture on mobile devices"
+msgstr "Kliente ba kaptura dadus iha dispozitivus móveis"
+
+#: web_api
+msgid "Web API"
+msgstr "Web API"
+
+#: system_overview
+msgid "System Overview"
+msgstr "Vizaun Jeral Sistema"
+
+#: server_date
+msgid "Server date"
+msgstr "Data Servidor"
+
+#: last_analytics_table_generation
+msgid "Last analytics table generation"
+msgstr ""
+
+#: last_analytics_table_runtime
+msgid "Last analytics table runtime"
+msgstr ""
+
+#: time_since_last_analytics_table_generation
+msgid "Time since last analytics table generation"
+msgstr ""
+
+#: online_release_page
+msgctxt "online_release_page"
+msgid "online release page"
+msgstr "pájina lansamentu online"
+
+#: edit_profile
+msgid "Edit profile"
+msgstr "Edita perfil"
+
+#: view_profile
+msgid "View profile"
+msgstr "Haré perfil"
+
+#: profile_details
+msgid "Profile details"
+msgstr "Detalles perfil"
+
+#: job_title
+msgid "Job title"
+msgstr "Títulu servisu"
+
+#: introduction
+msgid "Introduction"
+msgstr "Introdusaun"
+
+#: gender
+msgid "Gender"
+msgstr "Jéneru"
+
+#: male
+msgctxt "male"
+msgid "Male"
+msgstr "Mane"
+
+#: female
+msgctxt "female"
+msgid "Female"
+msgstr "Feto"
+
+#: other
+msgctxt "other"
+msgid "Other"
+msgstr "Seluk"
+
+#: birthday
+msgid "Birthday"
+msgstr "Loron moris"
+
+#: nationality
+msgid "Nationality"
+msgstr "Nasionalidade"
+
+#: employer
+msgid "Employer"
+msgstr "Empregador"
+
+#: education
+msgid "Education"
+msgstr "Edukasaun"
+
+#: interests
+msgid "Interests"
+msgstr "Intereses"
+
+#: languages
+msgid "Languages"
+msgstr "Idiomas"
+
+#: update_user_profile_success
+msgid "Profile was updated"
+msgstr "Perfil atualiza tiha ona"
+
+#: settings
+msgctxt "settings"
+msgid "Settings"
+msgstr "Definisoens"
+
+#: property_to_display_in_analysis_modules
+msgid "Property to display in analysis modules"
+msgstr "Propriedades atu hatudu iha módulus análize"
+
+#: user_settings
+msgid "User settings"
+msgstr "Definisoens utilizador"
+
+#: general
+msgid "General"
+msgstr "Jeral"
+
+#: message
+msgid "Message"
+msgstr "Mensajen"
+
+#: db_language
+msgid "Database language"
+msgstr "Idioma banku dadus"
+
+#: language
+msgid "Interface language"
+msgstr "Idioma interfase"
+
+#: use_db_locale_no_translation
+msgid "Use database locale / no translation"
+msgstr "Uza lokalizasaun banku dadus / la halo tradusaun"
+
+#: style
+msgid "Style"
+msgstr "Estilu"
+
+#: user_general_settings
+msgid "User General Settings"
+msgstr "Utilizador  nia Definisoens Jerais "
+
+#: user_message_settings
+msgid "User Message Settings"
+msgstr "Utilizador nia Definisoens  Mensajen"
+
+#: enable_message_email_notifications
+msgid "Enable message email notifications"
+msgstr "Ativa notifikasaun mensajens email"
+
+#: enable_message_sms_notifications
+msgid "Enable message SMS notifications"
+msgstr "Ativa notifikasoens SMS"
+
+#: intro_user_general_settings
+msgid ""
+"Customize the system with user specific settings for locale, style and more."
+msgstr ""
+"Personaliza sistema ho definisoens espesífikas utilizador nian ba lokal, "
+"estilu no seluk tan."
+
+#: intro_user_message_settings
+msgid ""
+"Customize the system with user specific settings for message email and sms "
+"notification."
+msgstr ""
+"Personaliza sistema ho definisoens espesífikas utilizador nian ba "
+"notifikassaun husi email no sms."
+
+#: light_blue
+msgid "Light Blue"
+msgstr "Azul Klaru"
+
+#: green
+msgid "Green"
+msgstr "Matak"
+
+#: settings_updated
+msgid "Settings were updated"
+msgstr "Definisoens atualiza tiha ona"
+
+#: dashboard
+msgctxt "dashboard"
+msgid "Dashboard"
+msgstr "Painel Kontrolu"
+
+#: messages
+msgid "Messages"
+msgstr "Mensajens"
+
+#: interpretations
+msgid "Interpretations"
+msgstr "Interpretasoens"
+
+#: interface_style
+msgid "Interface style"
+msgstr "Estilu interfase"
+
+#: server_memory
+msgid "Server memory"
+msgstr "Memória servidor"
+
+#: cpu_cores
+msgid "CPU cores"
+msgstr "CPU nia núkleu"
+
+#: please_select
+msgid "Please select"
+msgstr "Favor  hili"
+
+#: browse_it_here
+msgid "Browse it here"
+msgstr "Buka iha ne'e"
+
+#. #-- Change Log------------------------------------------------------------------#
+#: change_log
+msgid "Change Log"
+msgstr "Muda Log"
+
+#: release
+msgid "Release"
+msgstr "Lansamentu"
+
+#: release_page
+msgctxt "release_page"
+msgid "online release page"
+msgstr "Pájina lansamentu online"
+
+#. #-- Macros ---------------------------------------------------------------------#
+#: yes
+msgctxt "yes"
+msgid "Yes"
+msgstr "Sim"
+
+#: no
+msgctxt "no"
+msgid "No"
+msgstr "Lae"
+
+#: true
+msgctxt "true"
+msgid "Yes"
+msgstr "Sim"
+
+#: false
+msgctxt "false"
+msgid "No"
+msgstr "Lae"
+
+#: sum
+msgid "Sum"
+msgstr "Soma"
+
+#: count
+msgid "Count"
+msgstr "Konta"
+
+#: average
+msgid "Average"
+msgstr "Média"
+
+#: stddev
+msgid "Standard deviation"
+msgstr "Dezviu padraun"
+
+#: variance
+msgid "Variance"
+msgstr "Variasaun"
+
+#: min
+msgid "Min"
+msgstr "Min"
+
+#: max
+msgid "Max"
+msgstr "Max"
+
+#: text
+msgid "Text"
+msgstr "Textu"
+
+#: long_text
+msgid "Long text"
+msgstr ""
+
+#: string
+msgid "String"
+msgstr "String"
+
+#: int
+msgctxt "int"
+msgid "Number"
+msgstr "Númeru"
+
+#: number
+msgctxt "number"
+msgid "Number"
+msgstr "Númeru"
+
+#: positive_integer
+msgid "Positive Integer"
+msgstr ""
+
+#: zero_positive_int
+msgid "Positive or Zero Integer"
+msgstr ""
+
+#: negative_integer
+msgid "Negative Integer"
+msgstr ""
+
+#: unit_interval
+msgid "Unit interval"
+msgstr ""
+
+#: percentage
+msgid "Percentage"
+msgstr ""
+
+#: date
+msgid "Date"
+msgstr "Data"
+
+#: date_time
+msgid "Date & Time"
+msgstr ""
+
+#: yes_no
+msgctxt "yes_no"
+msgid "Yes/No"
+msgstr "Sim/Lae"
+
+#: bool
+msgctxt "bool"
+msgid "Yes/No"
+msgstr "Sim/Lae"
+
+#: none
+msgctxt "none"
+msgid "None"
+msgstr "Nein ida"
+
+#: yes_only
+msgid "Yes Only"
+msgstr "Sim Deit"
+
+#: custom
+msgid "Custom"
+msgstr ""
+
+#. #-- Validation messages -------------------------------------------------------#
+#: value_must_integer
+msgid "Value must be an integer"
+msgstr ""
+
+#: value_must_number
+msgid "Value must be a number"
+msgstr ""
+
+#: value_must_positive_integer
+msgid "Value must be a positive integer"
+msgstr ""
+
+#: value_must_negative_integer
+msgid "Value must be a negative integer"
+msgstr ""
+
+#: value_must_zero_or_positive_integer
+msgid "Value must be zero or a positive integer"
+msgstr ""
+
+#: value_must_unit_interval
+msgid "Value must be a unit interval (between 0 and 1)"
+msgstr ""
+
+#: value_must_percentage
+msgid "Value must be a percentage (between 0 and 100)"
+msgstr ""
+
+#. #-- User account --------------------------------------------------------------#
+#: profile
+msgid "Profile"
+msgstr "Perfil"
+
+#: account
+msgid "Account"
+msgstr "Konta"
+
+#: update_user
+msgid "Update user"
+msgstr "Atualiza utilizador"
+
+#: user_account
+msgid "User account"
+msgstr ""
+
+#: user_name
+msgctxt "user_name"
+"user_name"
+msgid "Username"
+msgstr "Utilizador nia naran"
+
+#: old_password
+msgid "Old password"
+msgstr "Seña tuan"
+
+#: new_password
+msgid "New password"
+msgstr ""
+
+#: retype_new_password
+msgid "Retype new password"
+msgstr "Hakerek seña foun dala ida tan"
+
+#: surname
+msgid "Surname"
+msgstr "Apelidu"
+
+#: first_name
+msgid "First name"
+msgstr "Naran"
+
+#: email
+msgid "E-mail"
+msgstr "Email"
+
+#: openid
+msgid "OpenID"
+msgstr "OpenID"
+
+#: username
+msgctxt "username"
+msgid "Username"
+msgstr "Utilizador nia Naran"
+
+#: phone_number
+msgid "Mobile phone number"
+msgstr "Númeru telemóvel"
+
+#: user_roles
+msgid "User roles"
+msgstr "Utilizador nia  kompetensias"
+
+#: update_user_success
+msgid "Account was updated"
+msgstr "Konta atualiza tiha ona"
+
+#: wrong_password
+msgid "Wrong password"
+msgstr "Seña sala"
+
+#: help_center
+msgid "Help Center"
+msgstr "Sentru Ajuda"
+
+#: help_intro_header
+msgid "Welcome to the DHIS 2 Help Center"
+msgstr "Beinvindu  mai Sentru Ajuda DHIS 2"
+
+#: help_intro_text
+msgid "Please select an item from the menu to the left."
+msgstr "Favor selesiona item ida husi menu liman karuk."
+
+#: please_wait_while_the_system_is_processing
+msgid "Please wait while the system is processing"
+msgstr "Favor hein enkuantu sistema sei prosesa"
+
+#: organisation_unit_required_for_user
+msgid "User must be assigned to at least one organisation unit"
+msgstr "Utilizador tenki atribuídu ba pelu menus unidade organizasional ida"
+
+#. #-- Contact info ---------------------------------------------------------------#
+#: address
+msgid "Address"
+msgstr "Enderesu"
+
+#: contact_details
+msgid "Contact information"
+msgstr "Informasaun kontaktu"
+
+#: contact_person
+msgid "Contact person"
+msgstr "Pesoa kontaktu"
+
+#. #-- Form validation messages --------------------------------------------------#
+#: this_field_is_required
+msgid "This field is required."
+msgstr "Kampu ida ne'e tenki preenxe."
+
+#: please_fix_this_field
+msgid "Please fix this field."
+msgstr "Favor hadia kampu ida ne'e."
+
+#: please_enter_a_valid_email_address
+msgid "Please enter a valid email address."
+msgstr "Favor hatama enderesu email válidu ida."
+
+#: please_enter_a_valid_url
+msgid "Please enter a valid URL."
+msgstr "Favor hatama URL válidu ida."
+
+#: please_enter_a_valid_date
+msgid "Please enter a valid date."
+msgstr "Favor hatama data válida ida."
+
+#: please_enter_a_valid_date_iso
+msgid "Please enter a valid date (e.g. 1990-01-01)."
+msgstr "Favor hatama data válida (ez. 1990-01-01)."
+
+#: please_enter_a_valid_number
+msgctxt "please_enter_a_valid_number"
+msgid "Please enter a valid number."
+msgstr "Favor hatama númeru válidu ida."
+
+#: please_enter_a_valid_digits
+msgid "Please enter only digits."
+msgstr "Favor hatama díjitus deit."
+
+#: please_enter_the_equal_values_again
+msgid "The entered values do not match. Please re-enter the values."
+msgstr "Valores sira hatama ne'e la han malu. Favor hatama fali valores."
+
+#: please_enter_a_value_with_a_valid_expression
+msgid "Please enter a value with a valid extension."
+msgstr "Favor hatama valor ho extensaun válida."
+
+#: first_character_must_be_alphabetical
+msgid "The first character must be a letter."
+msgstr "Karáter dahuluk tenkiser letra ida."
+
+#: please_enter_no_more_than_n_character
+msgid "Please enter no more than {0} characters."
+msgstr "Favor labele hatama liu karáter {0} ."
+
+#: please_enter_at_least_than_n_character
+msgctxt "please_enter_at_least_than_n_character"
+msgid "Please enter at least {0} characters."
+msgstr "Favor hatama pelu menus karáter  {0}."
+
+#: please_enter_a_value_between_n_character
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr "Favor hatama valor ida ho naruk entre {0} i {1}."
+
+#: please_enter_a_value_between_a_and_b
+msgid "Please enter a value between {0} and {1}."
+msgstr "Favor hatama valor entre {0} i {1}."
+
+#: please_enter_a_value_less_than_or_equal_to_n
+msgid "Please enter a value less than or equal to {0}."
+msgstr "Favor hatama valor kiik liu ou hanesan ho {0}."
+
+#: please_enter_a_value_greater_than_or_equal_to_n
+msgid "Please enter a value greater than or equal to {0}."
+msgstr "Favor hatama valor ida boot liu ou hanesan ho{0}."
+
+#: please_enter_a_different_value_to_above
+msgid "Please enter a different value to above."
+msgstr "Favor hatama valor diferente ida ba leten ne'e."
+
+#: digits_decimal_only_please
+msgid ""
+"Please enter digits only. Three digits before decimal point and two after "
+"the decimal point are allowed."
+msgstr ""
+"Favor hatama díjitus deit. Bele hatama díjitus tolu antes pontu desimal no "
+"rua depois de pontu desimal."
+
+#: please_letters_numbers_spaces_underscores_only
+msgid "Only letters, numbers, spaces and underscores are allowed."
+msgstr "Bele deit letras, númerus, espasus i subliñadus."
+
+#: please_letters_numbers_spaces_or_some_special_chars_only
+msgid ""
+"Only letters, numbers, spaces and the characters \n"
+" .,-,(,) are allowed."
+msgstr ""
+"Bele deit letras, númerus, espesus no karáteres \n"
+" .,-,(,)."
+
+#: please_enter_a_value_less_than_or_equal_to
+msgid "Please enter a value less than or equal to {1}"
+msgstr "Favor hatama valor kiik liu ou hanesan ho {1}."
+
+#: please_enter_a_value_greater_than_or_equal_to
+msgid "Please enter a value greater than or equal to {1}"
+msgstr "Favor hatama valor bo'ot liu ou hanesan ho {1}."
+
+#: please_do_not_enter_same_values
+msgid "Please do not enter same values."
+msgstr "Favor labele hatama valores hanesan."
+
+#: letters_or_punctuation_only_please
+msgid "Letters or punctuation only please."
+msgstr "Favor, letras ou pontuasaun deit."
+
+#: please_enter_n_words_or_less
+msgid "Please enter {0} words or less."
+msgstr "Favor hatama lifuan {0} ou menus."
+
+#: please_enter_at_least_n_words
+msgid "Please enter at least {0} words."
+msgstr "Favor hatama pelu menus lia fuan {0}."
+
+#: please_enter_betwwen_a_and_b_words
+msgid "Please enter between {0} and {1} words."
+msgstr "Favor hatama liafuan entre  {0} i {1}."
+
+#: letters_only_please
+msgid "Letters only please."
+msgstr "Letras deit por favor."
+
+#: no_white_space_please
+msgid "No white space please"
+msgstr "Favor labele hatama espasu mamuk."
+
+#: no_start_white_space_please
+msgid "This field cannot start with a space."
+msgstr "Kampu ida ne'e labele hahú ho espasu."
+
+#: ZIP_code_must_be_in_the_range
+msgid "Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx"
+msgstr "Itabo'ot nia kódigu ZIP tenki varia entre 902xx-xxxx to'o 905-xx-xxxx"
+
+#: please_enter_valid_time
+msgid "Please enter a valid time, between 00:00 and 23:59."
+msgstr "Favor hatama tempu válidu ida, entre 00:00 i 23:59."
+
+#: please_enter_valid_phone_number
+msgid "Please specify a valid phone number."
+msgstr "Favor espesifika númeru telfone válidu ida."
+
+#: please_enter_at_least_n_character
+msgctxt "please_enter_at_least_n_character"
+msgid "Please enter at least {0} characters."
+msgstr "Favor hatama pelu menus karáteres {0}."
+
+#: this_date_can_not_be_after_today
+msgid "This date can not be after today."
+msgstr "Data labele depois de ohin."
+
+#: please_fill_out_at_least_one_of_these_fields
+msgid "Please fill out at least one of these fields."
+msgstr "Favor preenxe pelu menus ida husi  kampu sira ne'e. "
+
+#: please_select_at_least_one_option_for_these_fields
+msgid "Please select at least one option for these fields."
+msgstr "Favor selesiona pelu menus opsaun ida ba kampu sira ne'e."
+
+#: password_must_contain_at_least_one_capital_letter_and_one_digit
+msgid "Password must contain at least one capital letter and one digit."
+msgstr "Seña tenki kontein pelu menus letra maískula ida ho díjitu ida."
+
+#: only_digits_are_not_allowed
+msgid "Only digits are not allowed"
+msgstr "Bele deit díjitus"
+
+#: closedDate_should_be_greater_than_openDate
+msgid "The ClosedDate field should be greater than the OpenDate field."
+msgstr "Kampu ClosedData tenkiser bo'ot liu kampu OpenData."
+
+#: please_unicode_chars_only
+msgid "Valid unicode charaters only are allowed."
+msgstr "Permite deit karáteres unikódigu válidus."
+
+#: unrecognized_coordinate_string
+msgid "Unrecognized coordinate string"
+msgstr "Sekuensia koordenadas la rekoñesidu"
+
+#: please_enter_a_letters_or_digits
+msgid "Please enter letters or digits."
+msgstr "Favor hatama letras ou díjitus."
+
+#: please_enter_valid_number
+msgctxt "please_enter_valid_number"
+msgid "Please enter a valid number."
+msgstr "Favor hatama númeru válidu ida."
+
+#: please_enter_valid_integer
+msgid "Please enter a valid integer."
+msgstr "Favor hatama íntegru válidu ida."
+
+#: please_enter_valid_positive_integer
+msgid "Please enter a valid positive integer."
+msgstr "Favor hatama íntegru pozitivu válidu ida."
+
+#: please_enter_valid_negative_integer
+msgid "Please enter a valid negative integer."
+msgstr "Favor hatama íntegru negativu válidu ida."
+
+#: please_enter_name
+msgid "Please enter name!"
+msgstr "Favor hatama naran!"
+
+#: please_select_period
+msgid "Please select period!"
+msgstr "Favor hili períodu!"
+
+#: please_select_dataset
+msgid "Please select dataset!"
+msgstr "Favor hili pakote dadus!"
+
+#: please_select_dataelement
+msgid "Please select data element!"
+msgstr "Favor selesiona elementu dadus!"
+
+#: please_select_indicator
+msgid "Please select indicator!"
+msgstr "Favor selesiona indikador!"
+
+#: please_enter_description
+msgid "Please enter description!"
+msgstr "Favor hatama deskrisaun!"
+
+#: delete_confirm
+msgid "Do you want to delete?"
+msgstr "Hakarak soe?"
+
+#: available
+msgid "Available"
+msgstr "Disponível"
+
+#: selected
+msgid "Selected"
+msgstr "Selesionadu"
+
+#: error
+msgid "Error"
+msgstr "Erru"
+
+#: warning
+msgid "Warning"
+msgstr "Avizu"
+
+#: success
+msgid "Success"
+msgstr "Susesu"
+
+#: waiting
+msgid "Please wait"
+msgstr "Favor hein"
+
+#: invalid_identifiers_in_expression
+msgid "Invalid identifiers in expression"
+msgstr ""
+
+#: filter_not_evaluating_to_true_or_false
+msgid "Filter is not evaluating to true or false"
+msgstr ""
+
+#: locate_by_code
+msgid "Locate by code"
+msgstr "Lokaliza tuir kódigu"
+
+#: select_at_level
+msgid "Select at level"
+msgstr "Hili iha nível"
+
+#: unselect_at_level
+msgid "Un-select at level"
+msgstr "Deselesiona iha nível"
+
+#: unselect_all
+msgid "Un-select all"
+msgstr "Deselesiona hotu"
+
+#: select_all
+msgid "Select all"
+msgstr "Hili hotu"
+
+#: select_in_group
+msgid "Select in group"
+msgstr "Selesiona iha grupu"
+
+#: unselect_in_group
+msgid "Un-select in group"
+msgstr "Deselesiona iha grupu"
+
+#: select_children
+msgid "Select children"
+msgstr "Selesiona sanak"
+
+#: unselect_children
+msgid "Un-select children"
+msgstr "Deselesiona sanak"
+
+#: organisation_unit_selection_tree
+msgid "Organisation Unit Selection"
+msgstr "Selesaun Unidade Organizasional"
+
+#: move_selected
+msgid "Move selected"
+msgstr "Muda ida ne'ebé selesiona"
+
+#: remove_selected
+msgid "Remove selected"
+msgstr "Hasai ida ne'ebé selesiona."
+
+#: move_all
+msgid "Move all"
+msgstr "Muda hotu"
+
+#: remove_all
+msgid "Remove all"
+msgstr "Hasai hotu"
+
+#: move_up
+msgid "Move up"
+msgstr "Muda sae"
+
+#: move_down
+msgid "Move down"
+msgstr "Muda tun"
+
+#: move_to_top
+msgid "Move to top"
+msgstr "Muda ba leten"
+
+#: move_to_bottom
+msgid "Move to bottom"
+msgstr "Muda ba kraik"
+
+#. #-- Paging messages -----------------------------------------------------------#
+#: no_of_pages
+msgid "No. of pages"
+msgstr "Númeru pájinas"
+
+#: rows_in_page
+msgid "No. of rows per page"
+msgstr "Númeru liñas pur pájina"
+
+#: jump_to_page
+msgid "Jump to page"
+msgstr "Haksoit ba pájina"
+
+#: go
+msgid "Go"
+msgstr "Bá"
+
+#: filter_by_name
+msgid "Filter by name"
+msgstr "Filtru tuir naran"
+
+#: filter
+msgid "Filter"
+msgstr "Filtru"
+
+#: clear
+msgid "Clear"
+msgstr "Hamós"
+
+#: find
+msgid "Find"
+msgstr "Buka"
+
+#: delete_success
+msgid "Object deleted"
+msgstr "Objetu soe tiha ona"
+
+#: process
+msgid "Processing..."
+msgstr "Prosesa daudaun..."
+
+#. #-- Export PDF messages -------------------------------------------------------#
+#: get_pdf
+msgid "Get PDF"
+msgstr "Obtein PDF"
+
+#: no_item_to_export
+msgid "There is no item to export"
+msgstr "Laiha item  atu exporta"
+
+#: name
+msgctxt "name"
+msgid "Name"
+msgstr "Naran"
+
+#: short_name
+msgctxt "short_name"
+msgid "Short name"
+msgstr "Naran badak"
+
+#: alternative_name
+msgid "Alternative name"
+msgstr "Naran alternativu"
+
+#: code
+msgid "Code"
+msgstr "Kódigu"
+
+#: description
+msgctxt "description"
+msgid "Description"
+msgstr "Deskrisaun"
+
+#: opening_date
+msgid "Opening date"
+msgstr "Data loke"
+
+#: closed_date
+msgid "Closed date"
+msgstr "Data taka"
+
+#: active
+msgid "Active"
+msgstr "Ativu"
+
+#: type
+msgid "Type"
+msgstr "Tipu"
+
+#: value_type
+msgid "Value Type"
+msgstr "Tipu Valor"
+
+#: actual
+msgid "Actual"
+msgstr "Atual"
+
+#: target
+msgid "Target"
+msgstr "Alvu"
+
+#: percent
+msgid "Percent"
+msgstr "Pursentu"
+
+#: on_time
+msgid "On time"
+msgstr "Pontual"
+
+#: data_dictionary
+msgid "Data Dictionary"
+msgstr "Disionáriu Dadus"
+
+#: data_elements
+msgid "Data elements"
+msgstr "Elementus dadus"
+
+#: data_sets
+msgid "Data sets"
+msgstr "Pakote dadus"
+
+#: indicators
+msgid "Indicators"
+msgstr "Indikadores"
+
+#: indicator_groups
+msgid "Indicator groups"
+msgstr "Grupus indikadores"
+
+#: data_element_groups
+msgid "Data element groups"
+msgstr "Grupus elementus dadus"
+
+#: data_element_concepts
+msgid "Data element concepts"
+msgstr "Konseitus elementus dadus"
+
+#: organisation_units
+msgid "Organisation units"
+msgstr ""
+
+#: organisation_unit_groups
+msgid "Organisation unit groups"
+msgstr "Grupus unidade organizasional"
+
+#: organisation_unit_hierarchy
+msgid "Organisation unit hierarchy"
+msgstr "Ierarkia unidade organizasional"
+
+#: validation_rules
+msgid "Validation rules"
+msgstr "Regras validasaun"
+
+#: period_type
+msgid "Period Type"
+msgstr "Tipu períodu"
+
+#: users
+msgctxt "users"
+msgid "Users"
+msgstr "Utilizadores"
+
+#: user_groups
+msgid "User groups"
+msgstr "Grupus utilizador"
+
+#: pivot_tables
+msgid "Pivot tables"
+msgstr ""
+
+#: charts
+msgid "Charts"
+msgstr ""
+
+#: maps
+msgid "Maps"
+msgstr ""
+
+#: dashboards
+msgid "Dashboards"
+msgstr ""
+
+#: programs
+msgid "Programs"
+msgstr ""
+
+#: events
+msgid "Events"
+msgstr ""
+
+#. #-- Indicator -----------------------------------------------------------------#
+#: expression
+msgid "Expression"
+msgstr "Expresaun"
+
+#: left_expression
+msgid "Left Expression"
+msgstr "Expresaun Liman Karuk"
+
+#: right_expression
+msgid "Right Expression"
+msgstr "Expresaun Liman Lós"
+
+#: indicator_type
+msgid "Indicator Type"
+msgstr "Tipu Indikador"
+
+#: annualized
+msgid "Annualized"
+msgstr "Anualizadu"
+
+#: aggregation_operator
+msgid "Aggregation operator"
+msgstr "Operador agregasaun"
+
+#: numerator
+msgid "Numerator"
+msgstr "Numerador"
+
+#: numerator_formula
+msgid "Numerator formula"
+msgstr "Fórmula numerador"
+
+#: numerator_description
+msgctxt "numerator_description"
+msgid "Numerator description"
+msgstr "Deskrisaun numerador"
+
+#: numerator_aggregation_operator
+msgid "Numerator aggregation operator"
+msgstr "Operador agregasaun numerador"
+
+#: denominator
+msgid "Denominator"
+msgstr "Denominador"
+
+#: denominator_formula
+msgid "Denominator formula"
+msgstr "Fórmula denominador"
+
+#: denominator_description
+msgctxt "denominator_description"
+msgid "Denominator description"
+msgstr "Deskrisaun denominador"
+
+#: denominator_aggregation_operator
+msgid "Denominator aggregation operator"
+msgstr "Operador agregasaun denominador"
+
+#: expression_is_empty
+msgid "Expression is empty"
+msgstr "Expresaun mamuk hela"
+
+#: category_option_combo_does_not_exist
+msgid "Category option combo does not exist"
+msgstr "Kategoria opsaun kombinasaun laiha"
+
+#: data_element_does_not_exist
+msgid "Data element does not exist"
+msgstr "Elementu dadus laiha"
+
+#: constant_does_not_exist
+msgid "Constant does not exist"
+msgstr ""
+
+#: org_unit_group_does_not_exist
+msgid "Organisation unit group does not exist"
+msgstr ""
+
+#: id_not_numeric
+msgid "Identifier is not numeric"
+msgstr "Identifikadores laós numériku"
+
+#: expression_not_well_formed
+msgid "Expression is not well-formed"
+msgstr ""
+
+#: valid
+msgid "Valid"
+msgstr ""
+
+#. #-- Validation Rule -----------------------------------------------------------#
+#: absolute
+msgid "Absolute"
+msgstr "Absolutu"
+
+#: statistical
+msgid "Statistical"
+msgstr "Estatístiku"
+
+#: left_side_description
+msgid "Left side description"
+msgstr "Deskrisaun liman karuk"
+
+#: right_side_description
+msgid "Right side description"
+msgstr "Deskrisaun liman lós"
+
+#: left_side_of_expression
+msgid "Left side of Expression"
+msgstr "Expresaun sorin karuk"
+
+#: right_side_of_expression
+msgid "Right side of Expression"
+msgstr "Expresaun nia sorin lós"
+
+#: operator
+msgid "Operator"
+msgstr "Operador"
+
+#: equal_to_symbol
+msgctxt "equal_to_symbol"
+msgid "=="
+msgstr "=="
+
+#: not_equal_to_symbol
+msgctxt "not_equal_to_symbol"
+msgid "!="
+msgstr "!="
+
+#: greater_than_symbol
+msgctxt "greater_than_symbol"
+msgid ">"
+msgstr ">"
+
+#: greater_than_or_equal_to_symbol
+msgctxt "greater_than_or_equal_to_symbol"
+msgid ">="
+msgstr ">="
+
+#: less_than_symbol
+msgctxt "less_than_symbol"
+msgid "<"
+msgstr "<"
+
+#: less_than_or_equal_to_symbol
+msgctxt "less_than_or_equal_to_symbol"
+msgid "<="
+msgstr "<="
+
+#: equal_to
+msgctxt "equal_to"
+msgid "=="
+msgstr "=="
+
+#: not_equal_to
+msgctxt "not_equal_to"
+msgid "!="
+msgstr "!="
+
+#: greater_than
+msgctxt "greater_than"
+msgid ">"
+msgstr ">"
+
+#: greater_than_or_equal_to
+msgctxt "greater_than_or_equal_to"
+msgid ">="
+msgstr ">="
+
+#: less_than
+msgctxt "less_than"
+msgid "<"
+msgstr "<"
+
+#: less_than_or_equal_to
+msgctxt "less_than_or_equal_to"
+msgid "<="
+msgstr "<="
+
+#: and_title
+msgid "And"
+msgstr ""
+
+#: or_title
+msgid "Or"
+msgstr ""
+
+#: equal_to_title
+msgid "Equal to"
+msgstr ""
+
+#: not_equal_to_title
+msgid "Not equal to"
+msgstr ""
+
+#: less_than_title
+msgid "Less than"
+msgstr ""
+
+#: less_than_or_equal_to_title
+msgid "Less than or equal to"
+msgstr ""
+
+#: greater_than_title
+msgid "Greater than"
+msgstr ""
+
+#: greater_than_or_equal_to_title
+msgid "Greater than or equal to"
+msgstr ""
+
+#. #-- Constant ------------------------------------------------------------------#
+#: constant
+msgid "Constant"
+msgstr "Konstante"
+
+#: constants
+msgid "Constants"
+msgstr "Kontantes"
+
+#: no_constant_to_select
+msgid "No constants to select"
+msgstr "Laiha konstantes atu hili"
+
+#. #-- Dynamic Attributes --------------------------------------------------------#
+#: multiple_choice
+msgid "Multiple Choice"
+msgstr "Eskolla múltipla"
+
+#. #-- Sharing  ------------------------------------------------------------------#
+#: public_access
+msgid "Public access (with login)"
+msgstr "Asesu públiku (hó login)"
+
+#: external_access
+msgid "External access (without login)"
+msgstr "Asesu externu (lalika login)"
+
+#: user_group_access
+msgid "User group access"
+msgstr "Asesu grupu utilizador"
+
+#: ajax_login_failed
+msgid "Login failed, check your username and password and try again"
+msgstr ""
+
+#: group_name
+msgid "Group name"
+msgstr "Grupu nia naran"
+
+#: sharing_settings
+msgid "Sharing settings"
+msgstr "Definisoens partilla"
+
+#: no_access
+msgctxt "no_access"
+msgid "None"
+msgstr "Nein ida"
+
+#: read_only
+msgid "Read only"
+msgstr "Le deit"
+
+#: read_write
+msgid "Read and write"
+msgstr "Le i hakerek"
+
+#: can_edit_and_view
+msgid "Can edit and view"
+msgstr "Bele edita i haré"
+
+#: can_view
+msgid "Can view"
+msgstr "Bele haré"
+
+#: search_for_user_groups
+msgid "Search for user groups"
+msgstr "Buka grupu utilizadores"
+
+#: object_will_created_public
+msgid "This object will be created with public edit and view rights"
+msgstr "Objetu ne'e sei kria ho direitus públikus atu edita no haré"
+
+#: object_will_created_private
+msgid "This object will be private to yourself"
+msgstr "Objetu ne'e privadu ba itabo'ot"
+
+#: created_by
+msgid "Created by"
+msgstr "Kria husi"
+
+#. #-- Countries / flags ---------------------------------------------------------#
+#: afghanistan
+msgid "Afghanistan"
+msgstr "Afeganistaun"
+
+#: africare
+msgid "Africare"
+msgstr ""
+
+#: akros
+msgid "Akros"
+msgstr "Akros"
+
+#: algeria
+msgid "Algeria"
+msgstr "Aljéria"
+
+#: armenia
+msgid "Armenia"
+msgstr "Arménia"
+
+#: bangladesh
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+#: benin
+msgid "Benin"
+msgstr "Benin"
+
+#: bhutan
+msgid "Bhutan"
+msgstr "Butaun"
+
+#: botswana
+msgid "Botswana"
+msgstr "Botswana"
+
+#: burkina_faso
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: burkina_faso_coat_of_arms
+msgid "Burkina Faso Coat of Arms"
+msgstr "Brazaun Burkina Faso nian"
+
+#: burundi
+msgid "Burundi"
+msgstr "Burundi"
+
+#: cambodia
+msgid "Cambodia"
+msgstr "Kamboja"
+
+#: cameroon
+msgid "Cameroon"
+msgstr "Kameiroens"
+
+#: china
+msgid "China"
+msgstr "Xina"
+
+#: colombia
+msgid "Colombia"
+msgstr "Kolombia"
+
+#: demoland
+msgid "Demoland"
+msgstr "Demoland"
+
+#: congo_brazzaville
+msgid "Republic of the Congo"
+msgstr "Repúblika Kongu"
+
+#: congo_kinshasa
+msgid "Democratic Republic of the Congo"
+msgstr "Repúblika Demokrátika  Kongu"
+
+#: east_africa_community
+msgid "East Africa Community"
+msgstr "Komunidade Árika Oriental"
+
+#: ecowas
+msgid "ECOWAS"
+msgstr "ECOWAS"
+
+#: ecuador
+msgid "Ecuador"
+msgstr "Ekuador"
+
+#: egypt
+msgid "Egypt"
+msgstr ""
+
+#: engender_health
+msgid "Engender Health"
+msgstr ""
+
+#: ethiopia
+msgid "Ethiopia"
+msgstr "Etiópia"
+
+#: fhi360
+msgid "FHI360"
+msgstr "FHI360"
+
+#: forut
+msgid "FORUT"
+msgstr "FORUT"
+
+#: gambia
+msgid "Gambia"
+msgstr "Gámbia"
+
+#: ghana
+msgid "Ghana"
+msgstr "Ghana"
+
+#: global_fund
+msgid "Global Fund"
+msgstr "Fundu Global"
+
+#: guinea
+msgid "Guinea"
+msgstr "Guiné"
+
+#: guinea_bissau
+msgid "Guinea Bissau"
+msgstr "Guiné Bisau"
+
+#: haiti
+msgid "Haiti"
+msgstr "Haiti"
+
+#: icap
+msgid "ICAP"
+msgstr ""
+
+#: ippf
+msgid "IPPF"
+msgstr ""
+
+#: india
+msgid "India"
+msgstr ""
+
+#: indonesia
+msgid "Indonesia"
+msgstr "Indonesia"
+
+#: iraq
+msgid "Iraq"
+msgstr ""
+
+#: irc
+msgid "International Rescue Committee"
+msgstr "Kominsaun Internasional ba Resgate"
+
+#: ivory_coast
+msgid "Ivory Coast"
+msgstr "Kosta du Marfin"
+
+#: jhpiego
+msgid "JHPIEGO"
+msgstr "JHPIEGO"
+
+#: kenya
+msgid "Kenya"
+msgstr "Kénia"
+
+#: laos
+msgid "Lao People's Democratic Republic"
+msgstr "Repúblika Popular Demokrátika Laos"
+
+#: lesotho
+msgid "Lesotho"
+msgstr "Lezotu"
+
+#: liberia
+msgid "Liberia"
+msgstr "Libéria"
+
+#: malawi
+msgid "Malawi"
+msgstr "Malawi"
+
+#: mali
+msgid "Mali"
+msgstr "Mali"
+
+#: mongolia
+msgid "Mongolia"
+msgstr ""
+
+#: mozambique
+msgid "Mozambique"
+msgstr "Mosambike"
+
+#: myanmar
+msgid "Myanmar"
+msgstr ""
+
+#: msf
+msgid "MSF"
+msgstr "MSF"
+
+#: msi
+msgid "MSI"
+msgstr ""
+
+#: namibia
+msgid "Namibia"
+msgstr "Namíbia"
+
+#: nepal
+msgid "Nepal"
+msgstr "Nepal"
+
+#: nicaragua
+msgid "Nicaragua"
+msgstr "Nikarágua"
+
+#: niger
+msgid "Niger"
+msgstr "Nijér"
+
+#: nigeria
+msgid "Nigeria"
+msgstr "Nijéria"
+
+#: norway
+msgid "Norway"
+msgstr "Normándia"
+
+#: pakistan
+msgid "Pakistan"
+msgstr ""
+
+#: palestine
+msgid "Palestine"
+msgstr ""
+
+#: paraguay
+msgid "Paraguay"
+msgstr "Paraguai"
+
+#: pepfar
+msgid "PEPFAR"
+msgstr "PEPFAR"
+
+#: peru
+msgid "Peru"
+msgstr "Perú"
+
+#: philippines
+msgid "Philippines"
+msgstr "Filipinas"
+
+#: psi
+msgid "PSI"
+msgstr "PSI"
+
+#: republic_of_trinidad_and_tobago
+msgid "Republic of Trinidad & Tobago"
+msgstr "Repúblika Trindade i Tobagu"
+
+#: rwanda
+msgid "Rwanda"
+msgstr "Ruanda"
+
+#: senegal
+msgid "Senegal"
+msgstr "Senegal"
+
+#: sierra_leone
+msgid "Sierra Leone"
+msgstr "Serra Leoa"
+
+#: sierra_leone_coat_of_arms
+msgid "Sierra Leone Coat of Arms"
+msgstr "Brazaun Sera Leoa"
+
+#: solomon_islands
+msgid "Solomon Islands"
+msgstr "Illas Salomaun"
+
+#: south_africa
+msgid "South Africa"
+msgstr "Árika du Sul"
+
+#: south_africa_department_of_health
+msgid "South Africa Department of Health"
+msgstr "Departamentu Saúde Áfrika du Sul"
+
+#: south_sudan
+msgid "South Sudan"
+msgstr ""
+
+#: sri_lanka
+msgid "Sri Lanka"
+msgstr "Srilanka"
+
+#: sudan
+msgid "Sudan"
+msgstr "Sudaun"
+
+#: swaziland
+msgid "Swaziland"
+msgstr "Suazilándia"
+
+#: tajikistan
+msgid "Tajikistan"
+msgstr "Tajakiztaun"
+
+#: tanzania
+msgid "Tanzania"
+msgstr "Tanzania"
+
+#: timor_leste
+msgid "Timor-Leste"
+msgstr "Timor-Leste"
+
+#: togo
+msgid "Togo"
+msgstr "Togu"
+
+#: uganda
+msgid "Uganda"
+msgstr "Uganda"
+
+#: usaid
+msgid "USAID"
+msgstr "USAID"
+
+#: vanuatu
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: vietnam
+msgid "Vietnam"
+msgstr ""
+
+#: who
+msgid "WHO"
+msgstr "OMS"
+
+#: zambia
+msgid "Zambia"
+msgstr "Zámbia"
+
+#: zanzibar
+msgid "Zanzibar"
+msgstr "Zánzibar"
+
+#: zimbabwe
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+#. #-- Login page ----------------------------------------------------------------#
+#: create_an_account
+msgid "Create an account"
+msgstr "Kria konta"
+
+#: login_password
+msgctxt "login_password"
+msgid "Password"
+msgstr "Seña"
+
+#: login_username
+msgctxt "login_username"
+msgid "Username"
+msgstr "Utilizador nia Naran"
+
+#: forgot_password
+msgid "Forgot password?"
+msgstr "Haluha seña?"
+
+#: wrong_username_or_password
+msgid "Wrong username or password"
+msgstr "Utilizador nia Naran ou seña sala"
+
+#: powered_by
+msgid "Powered by"
+msgstr "Distribuidu husi"
+
+#: sign_in
+msgid "Sign in"
+msgstr "Tama"
+
+#. #-- New User Account page -----------------------------------------------------#
+#: new_user_account_name
+msgctxt "new_user_account_name"
+msgid "Name"
+msgstr "Naran"
+
+#: new_user_account_first_name
+msgid "First"
+msgstr "Dahuluk"
+
+#: new_user_account_last_name
+msgid "Last"
+msgstr "Ikus"
+
+#. #-- Recovery page -------------------------------------------------------------#
+#: recover_success_message
+msgid ""
+"Please check the email account which you registered for this username. We "
+"have sent you instructions on how to restore your password."
+msgstr ""
+"Favor verifika konta email ne'ebé itabo'ot rejista ba utilizador ida ne'e. "
+"Ami haruka tiha ona instrusoens atu oinsá restaura itabo'ot nia seña.\t"
+
+#: recover_error_message
+msgid ""
+"Sorry, we were not able to restore your account. The username might be "
+"invalid, your account might not permit restore or you might have entered an "
+"invalid email address for your account."
+msgstr ""
+"Deskulpa, ami la konsege restaura itabo'ot nia konta. Karik utilizador nia "
+"naran inválidu, itabo'ot nia konta la permite restaurasaun ou itabo'ot "
+"hatama enderesu email inválidu ida ba ita nia konta."
+
+#. #-- App Menu ------------------------------------------------------------------#
+#: applications
+msgctxt "applications"
+msgid "Apps"
+msgstr "Apps"
+
+#: more_applications
+msgid "More apps"
+msgstr "Apps seluk tan"
+
+#: app_manager
+msgctxt "app_manager"
+msgid "Apps"
+msgstr "Jestor apps"
+
+#: app_favorite_description
+msgid ""
+"This icon indicates an app that will be displayed in your dropdown menu."
+msgstr ""
+"Ikone ida ne'e hatudu aplikasaun ida ne'ebé sei mosu iha ita'ot nia menu "
+"dropdown. "
+
+#: app_draggable_description
+msgid ""
+"Items are draggable to change their order, so it's easy to customize your "
+"favorite apps."
+msgstr ""
+"Bele dada items sira  bá mai atu muda sira nia ordem atu personaliza "
+"itabo'ot nia aplikasoens favoritas."
+
+#: app_order_custom
+msgid "My own order"
+msgstr "Hau nia ordem rasik"
+
+#: app_order_name_alpha
+msgid "Alphabetical"
+msgstr "Ordem alfabétiku"
+
+#: app_search_placeholder
+msgid "Search apps"
+msgstr "Buka aplikasoens"
+
+#. #-- Data value error codes ----------------------------------------------------#
+#: data_element_or_type_null_or_empty
+msgid "Data element or type is null or empty"
+msgstr ""
+
+#: value_length_greater_than_max_length
+msgid "Data value is greater than max length"
+msgstr ""
+
+#: value_not_numeric
+msgid "Data value is not numeric"
+msgstr ""
+
+#: value_not_unit_interval
+msgid "Data value is not a unit interval"
+msgstr ""
+
+#: value_not_percentage
+msgid "Data value is not a percentage"
+msgstr ""
+
+#: value_not_integer
+msgid "Data value is not an integer"
+msgstr ""
+
+#: value_not_positive_integer
+msgid "Data value is not a positive integer"
+msgstr ""
+
+#: value_not_negative_integer
+msgid "Data value is not a negative integer"
+msgstr ""
+
+#: value_is_zero_and_not_zero_significant
+msgid "Data value is zero and not zero significant"
+msgstr "Valor dadus zero i laós zero signifikativu"
+
+#: value_not_bool
+msgid "Data value is not a boolean"
+msgstr ""
+
+#: value_not_true_only
+msgid "Data value is not true"
+msgstr ""
+
+#: value_not_valid_date
+msgid "Data value is not a valid date"
+msgstr ""
+
+#: stored_by_length_greater_than_max_length
+msgid "Stored by is greater than max length"
+msgstr ""
+
+#: comment_length_greater_than_max_length
+msgid "Comment is greater than max length"
+msgstr "Komentáriu bo'ot liu kumprimentu máximu"
+
+#. #-- calendars -----------------------------------------------------------------#
+#: islamic
+msgid "Islamic"
+msgstr "Islámiku"
+
+#: nepali
+msgid "Nepali"
+msgstr "Nepalés"
+
+#: julian
+msgid "Julian"
+msgstr "Julianu"
+
+#: gregorian
+msgid "Gregorian"
+msgstr "Grogorianu"
+
+#: ethiopian
+msgid "Ethiopian"
+msgstr "Etiopianu"
+
+#: thai
+msgid "Thai"
+msgstr "Thai"
+
+#: iso8601
+msgid "ISO 8601"
+msgstr "ISO 8601"
+
+#: coptic
+msgid "Coptic"
+msgstr "Kóptu"
+
+#. #-- Email message footer ------------------------------------------------------#
+#: respond_to_this_message
+msgid "Respond to this message"
+msgstr ""
+
+#. #-- Restore emails ------------------------------------------------------------#
+#: email_restore_subject
+msgid "User account restore confirmation at"
+msgstr "Konfirmasaun restaurasaun konta utilizador iha "
+
+#: email_restore_1_1st_paragraph_before_application_title
+msgctxt "email_restore_1_1st_paragraph_before_application_title"
+msgid "Someone, probably you, has asked us to restore your"
+msgstr "Ema ruma, karik itabo'ot rasik, husu atu ami restaura itabo'ot nia"
+
+#: email_restore_1_1st_paragraph_after_application_title
+msgctxt "email_restore_1_1st_paragraph_after_application_title"
+"email_restore_1_1st_paragraph_after_application_title"
+"email_restore_1_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr "konta utilizador"
+
+#: email_restore_1_2nd_paragraph
+msgctxt "email_restore_1_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the first one. Please follow "
+"the link below. In the next step you will be asked to enter a code which has "
+"been sent to you in the other email."
+msgstr ""
+"Haruka emai rua ba itabo'ot, ida ne'e mak primeiru email. Favor tuir link "
+"iha kraik ne'e. Iha pasu tuir mai sei husu ba itabo'ot atu hatama kódigu  "
+"ne'ebé haruka tiha ona ba itabo'ot liu husi email ida seluk."
+
+#: email_restore_1_3rd_paragraph
+msgctxt "email_restore_1_3rd_paragraph"
+msgid ""
+"You must complete the restore process within 1 hour. If you take no action, "
+"your account will not be restored. If you did not request this restore, "
+"please disregard this message."
+msgstr ""
+"Itabo'ot tenki kompleta prosesu restaurasaun iha oras 1 nia laran. Se "
+"itabo'ot la halo buat ida, itabo'ot nia konta sei la restaura. Se itabo'ot "
+"la husu atu halo restaurasaun ida ne'e, favor lalika liga mensajen ida ne'e."
+
+#: email_restore_2_1st_paragraph_before_application_title
+msgctxt "email_restore_2_1st_paragraph_before_application_title"
+msgid "Someone, probably you, has asked us to restore your"
+msgstr "Ema ruma, karik itabo'ot rasik, husu atu ami restaura itabo'ot nia"
+
+#: email_restore_2_1st_paragraph_after_application_title
+msgctxt "email_restore_2_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr "konta utilizador."
+
+#: email_restore_2_2nd_paragraph
+msgctxt "email_restore_2_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the second one. Please read the "
+"first email and follow the instructions. Please use the code below to "
+"complete the new account form."
+msgstr ""
+"Haruka tena email rua ba itabo'ot,  segundu email mak ida ne'e. Favor le "
+"primeiru email no halo tuir instrusoens ne'ebé fo iha ne'ebá. Favor uza "
+"kódigu kraik ne'e atu kompleta formuláriu konta foun."
+
+#: email_restore_2_3rd_paragraph
+msgctxt "email_restore_2_3rd_paragraph"
+msgid ""
+"You must complete the restore process within 1 hour. If you take no action, "
+"your account will not be restored. If you did not request this restore, "
+"please disregard this message."
+msgstr ""
+"Itabo'ot tenki kompleta prosesu restaurasaun ne'e ida oras 1 nia laran. Se "
+"itabo'ot la halo buat ida, itabo'ot nia konta sei la restaura. Se itabo'ot "
+"la husu atau halao prosesu restaurasaun ne'e, favor lalika liga mensajen ida "
+"ne'e."
+
+#. #-- Invite emails -------------------------------------------------------------#
+#: email_invite_subject
+msgid "Invitation to create user account at"
+msgstr "Konvite atu kria konta utilizador iha"
+
+#: email_invite_1_1st_paragraph_before_application_title
+msgctxt "email_invite_1_1st_paragraph_before_application_title"
+msgid "This is an invitation to create a"
+msgstr "Ne'e konvite atu kria"
+
+#: email_invite_1_1st_paragraph_after_application_title
+msgctxt "email_invite_1_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr "konta utilizador."
+
+#: email_invite_1_2nd_paragraph
+msgctxt "email_invite_1_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the first one. Please follow "
+"the link below. In the next step you will be asked to enter a code which has "
+"been sent to you in the other email."
+msgstr ""
+"Haruka tiha ona email rua ba itabo'ot, primeiru email mak ida ne'e. Favor "
+"tuir link kraik ne'e. Iha pasu tuir mai, sei husu ba itabo'ot atu hatama "
+"kódigu ne'ebé haruka tiha ona ba itabo'ot liu husi email ida seluk."
+
+#: email_invite_1_3rd_paragraph
+msgctxt "email_invite_1_3rd_paragraph"
+msgid ""
+"You must respond to this invitation within 3 months. If you take no action, "
+"the invitation will expire at that time."
+msgstr ""
+"Itabo'ot tenki hatán ba konvite ida ne'e iha fulan tolu nia laran. Se "
+"itabo'ot la halo buat ida, konvite ne'e sei expira iha tempu ne'ebá."
+
+#: email_invite_2_1st_paragraph_before_application_title
+msgctxt "email_invite_2_1st_paragraph_before_application_title"
+msgid "This is an invitation to create a"
+msgstr "Ne'e konvite atu kria"
+
+#: email_invite_2_1st_paragraph_after_application_title
+msgctxt "email_invite_2_1st_paragraph_after_application_title"
+msgid "user account."
+msgstr "konta utilizador"
+
+#: email_invite_2_2nd_paragraph
+msgctxt "email_invite_2_2nd_paragraph"
+msgid ""
+"You have been sent two emails, where this is the second one. Please read the "
+"first email and follow the instructions. Please use the code below to "
+"complete the new account form."
+msgstr ""
+"Haruka ona email rua ba itabo'ot, ida ne'e segundu email. Favor le primeiru "
+"email no halo tuir instrusoens ne'ebé fo iha ne'ebá. Favor uza kódigu tuir "
+"mai ne'e atu kompleta formuláriu konta foun."
+
+#: email_invite_2_3rd_paragraph
+msgctxt "email_invite_2_3rd_paragraph"
+msgid ""
+"You must respond to this invitation within 3 months. If you take no action, "
+"the invitation will expire at that time."
+msgstr ""
+"Itabo'ot tenki hatán ba konvite ida ne'e iha fulan tolu nia laran. Se "
+"itabo'ot la halo buat ida, konvite ne'e sei expira iha tempu ne'ebá."
+
+#. #-- Cache strategy display strings --------------------------------------------#
+#: cache_strategy
+msgid "Cache strategy"
+msgstr ""
+
+#: respect_system_setting
+msgid "Respect system setting"
+msgstr ""
+
+#: no_cache
+msgid "No cache"
+msgstr ""
+
+#: cache_until_6am_tomorrow
+msgid "Cache until 6 AM tomorrow"
+msgstr ""
+
+#: cache_for_two_weeks
+msgid "Cache for two weeks"
+msgstr ""
+
+#: cache_for_one_hour
+msgid "Cache for one hour"
+msgstr ""
+
+#. #-- Program indicators --------------------------------------------------------#
+#: execution_date
+msgid "Execution date"
+msgstr ""
+
+#: due_date
+msgid "Due date"
+msgstr ""
+
+#: incident_date
+msgid "Incident date"
+msgstr ""
+
+#: enrollment_date
+msgid "Enrollment date"
+msgstr ""
+
+#: current_date
+msgid "Current date"
+msgstr ""
+
+#: value_count
+msgid "Value count"
+msgstr ""
+
+#: zero_pos_value_count
+msgid "Zero or positive value count"
+msgstr ""
+
+#: event_count
+msgid "Event count"
+msgstr ""
+
+#: enrollment_count
+msgid "Enrollment count"
+msgstr ""
+
+#: tei_count
+msgid "Tracked entity instance count"
+msgstr ""

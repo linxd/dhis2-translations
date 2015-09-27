@@ -1,0 +1,851 @@
+#. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-apps/src/main/webapp/dhis-web-pivot/i18n/i18n_app.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-apps/src/main/webapp/dhis-web-pivot/i18n/i18n_app_tet.properties
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-27 09:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: dimensions
+msgid "Dimensions"
+msgstr "Dimensoens"
+
+#: row
+msgid "Row"
+msgstr "Liña"
+
+#: column
+msgid "Column"
+msgstr "Koluna"
+
+#: filter
+msgid "Filter"
+msgstr "Filtru"
+
+#: table_layout
+msgid "Table layout"
+msgstr "Dispozisaun tabela"
+
+#: show_subtotals
+msgid "Show subtotals"
+msgstr "Hatudu subtotais"
+
+#: hide_empty_rows
+msgid "Hide empty rows"
+msgstr "Hide empty rows"
+
+#: display_density
+msgid "Display density"
+msgstr "Ezibe densidade"
+
+#: font_size
+msgid "Font size"
+msgstr "Letra nia tamañu"
+
+#: digit_group_separator
+msgid "Digit group separator"
+msgstr "Separador grupu díjitu"
+
+#: comfortable
+msgid "Comfortable"
+msgstr "Konfortável"
+
+#: compact
+msgid "Compact"
+msgstr "Kompaktu"
+
+#: large
+msgid "Large"
+msgstr "Bo'ot"
+
+#: small_
+msgid "Small"
+msgstr "Kiik"
+
+#: normal
+msgid "Normal"
+msgstr "Normal"
+
+#: reporting_period
+msgid "Reporting period"
+msgstr "Períodu ne'ebé atu relata"
+
+#: organisation_unit
+msgid "Organisation unit"
+msgstr "Unidade organizasional"
+
+#: organisation_units
+msgid "Organisation units"
+msgstr "Unidades organizasinais"
+
+#: parent_organisation_unit
+msgid "Parent organisation unit"
+msgstr "Unidade organizasional inan"
+
+#: user_organisation_unit
+msgid "User org unit"
+msgstr "Utilizador nia unid org"
+
+#: table_options
+msgid "Table options"
+msgstr "Tabela nia opsoens"
+
+#: create
+msgid "Create"
+msgstr "Kria"
+
+#: update
+msgid "Update"
+msgstr "Atualiza"
+
+#: cancel
+msgid "Cancel"
+msgstr "Kansela"
+
+#: delete_
+msgid "Delete"
+msgstr "Soe"
+
+#: save
+msgid "Save"
+msgstr "Rai"
+
+#: hide
+msgid "Hide"
+msgstr "Subar"
+
+#: add_new
+msgid "Add new"
+msgstr "Aumenta foun"
+
+#: manage_favorites
+msgid "Manage favorites"
+msgstr "Jere favoritus"
+
+#: search_for_favorites
+msgid "Search for favorites"
+msgstr "Buka favoritus"
+
+#: overwrite_favorite
+msgid "Overwrite favorite"
+msgstr "Hakerek sae favoritu nia leten"
+
+#: delete_favorite
+msgid "Delete favorite"
+msgstr "Soe favoritu"
+
+#: prev
+msgid "Prev"
+msgstr "Ant"
+
+#: next
+msgid "Next"
+msgstr "Próx"
+
+#: rename
+msgid "Rename"
+msgstr "Troka naran"
+
+#: overwrite
+msgid "Overwrite"
+msgstr "Hakerek sae leten"
+
+#: share_with_other_people
+msgid "Share with other people"
+msgstr "Partilla ho ema seluk"
+
+#: sharing_settings
+msgid "Sharing settings"
+msgstr "Definisoens partilla"
+
+#: can_view
+msgid "Can view"
+msgstr "Bela haré"
+
+#: can_edit_and_view
+msgid "Can edit and view"
+msgstr "Bele edita no haré"
+
+#: none
+msgid "None"
+msgstr "Nein ida"
+
+#: public_access
+msgid "Public access"
+msgstr "Asesu públiku"
+
+#: search_for_user_groups
+msgid "Search for user groups"
+msgstr "Buka grupu utilizadores"
+
+#: available
+msgid "Available"
+msgstr "Disponível"
+
+#: selected
+msgid "Selected"
+msgstr "Selesionadu"
+
+#: indicators
+msgid "Indicators"
+msgstr "Indikadores"
+
+#: all_indicator_groups
+msgid "All indicator groups"
+msgstr "Grupu indikadores hotu-hotu"
+
+#: select_indicator_group
+msgid "Select indicator group"
+msgstr "Hili grupu indikadores"
+
+#: data_elements
+msgid "Data elements"
+msgstr "Elementus dadus"
+
+#: all_data_element_groups
+msgid "All data element groups"
+msgstr "Grupus elementus dadus hotu-hotu"
+
+#: select_data_element_group
+msgid "Select data element group"
+msgstr "Hili grupu elementus dadus"
+
+#: data_sets
+msgid "Data sets"
+msgstr "Pakote dadus"
+
+#: reporting_rates
+msgid "Reporting rates"
+msgstr "Taxas relatóriu"
+
+#: periods
+msgid "Periods"
+msgstr "Períodus"
+
+#: select_period_type
+msgid "Select period type"
+msgstr "Hili Tipu períodu"
+
+#: weeks
+msgid "Weeks"
+msgstr "Semanas"
+
+#: last_week
+msgid "Last week"
+msgstr "Semana kotuk"
+
+#: last_4_weeks
+msgid "Last 4 weeks"
+msgstr "Semana 4 ikus"
+
+#: last_12_weeks
+msgid "Last 12 weeks"
+msgstr "Semana 12 ikus"
+
+#: months
+msgid "Months"
+msgstr "Fulan"
+
+#: last_month
+msgid "Last month"
+msgstr "Fulan kotuk"
+
+#: last_3_months
+msgid "Last 3 months"
+msgstr "Fulan 3 ikus"
+
+#: last_12_months
+msgid "Last 12 months"
+msgstr "Fulan 12 ikus"
+
+#: bimonths
+msgid "Bi-months"
+msgstr "Bimensal"
+
+#: last_bimonth
+msgid "Last bi-month"
+msgstr "Bimensal kotuk"
+
+#: last_6_bimonths
+msgid "Last 6 bi-months"
+msgstr "Bimensal 6 ikus"
+
+#: quarters
+msgid "Quarters"
+msgstr "Trimestres"
+
+#: last_quarter
+msgid "Last quarter"
+msgstr "Trimestre kotuk"
+
+#: last_4_quarters
+msgid "Last 4 quarters"
+msgstr "Trimestre 4 ikus"
+
+#: sixmonths
+msgid "Six-months"
+msgstr "Fulan-nén"
+
+#: last_sixmonth
+msgid "Last six-month"
+msgstr "Fulan-nén kotuk"
+
+#: last_2_sixmonths
+msgid "Last 2 six-months"
+msgstr "Fulan-nén 2 ikus"
+
+#: years
+msgid "Years"
+msgstr "Tinan"
+
+#: this_year
+msgid "This year"
+msgstr "Tinan ida ne'e"
+
+#: last_year
+msgid "Last year"
+msgstr "Tinan kotuk"
+
+#: last_5_years
+msgid "Last 5 years"
+msgstr "Tinan 5 ikus"
+
+#: financial_years
+msgid "Financial years"
+msgstr "Tinan finanseiru"
+
+#: last_financial_year
+msgid "Last financial year"
+msgstr "Tinan finanseiru kotuk"
+
+#: last_5_financial_years
+msgid "Last 5 financial years"
+msgstr "Tinan finanseiru 5 ikus"
+
+#: prev_year
+msgid "Prev year"
+msgstr "Tinan kotuk"
+
+#: next_year
+msgid "Next year"
+msgstr "Tinan oin"
+
+#: select_all_children
+msgid "Select all children"
+msgstr "Hili sanak/oan hotu"
+
+#: table
+msgid "Table"
+msgstr "Tabela"
+
+#: chart
+msgid "Chart"
+msgstr "Gráfiku"
+
+#: map
+msgid "Map"
+msgstr "Mapa"
+
+#: home
+msgid "Home"
+msgstr "Pájina inisial"
+
+#: data
+msgid "Data"
+msgstr "Dadus"
+
+#: categories
+msgid "Categories"
+msgstr "Kategorias"
+
+#: style
+msgid "Style"
+msgstr "Estilu"
+
+#: parameters
+msgid "Parameters"
+msgstr "Parámetrus"
+
+#: for_standard_reports_only
+msgid "for standard reports only"
+msgstr "ba relatóriu padraun deit"
+
+#: please_create_a_table_first
+msgid "Please create a table first"
+msgstr "Favor kria uluk tabela ida"
+
+#: indicators_cannot_be_specified_as_filter
+msgid "Indicators cannot be specified as report filter"
+msgstr "Labele espesifika Indikador hanesan filtru"
+
+#: categories_cannot_be_specified_as_filter
+msgid "Categories cannot be specified as report filter"
+msgstr "Labele espesifika Kategorias hanesan filtru"
+
+#: data_element_group_sets_cannot_be_specified_together_with_data_sets
+msgid "Data element group sets cannot be specified together with data sets"
+msgstr "Labele esfesifika pakotes grupu elementus hamutuk ho pakote dadus"
+
+#: at_least_one_dimension_must_be_specified_as_row_or_column
+msgid "At least one dimension must be specified as row or column"
+msgstr "Tenki espesifika pelu menus dimensaun ida hanesan liña ou koluna"
+
+#: at_least_one_period_must_be_specified_as_column_row_or_filter
+msgid "At least one period must be specified as column, row or filter"
+msgstr "Tenki espesifika pelu menus períodu ida hanesan koluna, liña ou filtru"
+
+#: example1
+msgid "Creating a pivot table"
+msgstr "Kria daudaun tabela dinámika"
+
+#: example2
+msgid "Select items from any of the dimensions in the left menu"
+msgstr "Gili items naran dimensaun ida iha menu liman karuk"
+
+#: example3
+msgid "Click Layout to arrange your dimensions on table rows and columns"
+msgstr ""
+"Klik Dispozisaun atu organiza itabo'ot nia dimensoens iha tabela nia liñas "
+"no kolunas"
+
+#: example4
+msgid "Click Update to create your table"
+msgstr "Klik Atualiza atu kria itabo'ot nia tabele"
+
+#: example5
+msgid "Working with a pivot table"
+msgstr "Servisu ho tabela dinámika ida"
+
+#: example6
+msgid ""
+"Click Options to hide sub-totals or empty rows, adjust font size and more"
+msgstr ""
+"Klik Opsoens atu subar sub-totais ou linñas mamuk sira, ajusta letra nia "
+"tamañu no seluk tan"
+
+#: example7
+msgid "Click Favorites to save your table for later use"
+msgstr "Klik Favoritus hodi rai itabo'ot nia tabela atu uza iha loron ikus"
+
+#: example8
+msgid "Click Download to save table data to your computer"
+msgstr "Klik Hatun atu rai gráfiku iha itabo'ot nia komputador"
+
+#: layout
+msgid "Layout"
+msgstr "Dispozisaun"
+
+#: options
+msgid "Options"
+msgstr "Opsoens"
+
+#: download
+msgid "Download"
+msgstr "Hatun"
+
+#: favorites
+msgid "Favorites"
+msgstr "Favoritus"
+
+#: include_regression
+msgid "Include regression"
+msgstr "Inklui regresaun"
+
+#: include_cumulative
+msgid "Include cumulative"
+msgstr "Inklui kumulativu"
+
+#: sort_order
+msgid "Sort order"
+msgstr "Ordem klasifikasaun"
+
+#: low_to_high
+msgid "Low to high"
+msgstr "Badak ba ás"
+
+#: high_to_low
+msgid "High to low"
+msgstr "Ás ba badak"
+
+#: top_limit
+msgid "Top limit"
+msgstr "Limite leten"
+
+#: plain_data_sources
+msgid "Plain data source"
+msgstr "Fonte dadus planu"
+
+#: graphics
+msgid "Graphics"
+msgstr "Gráfikus"
+
+#: data_sets_cannot_be_specified_as_filter
+msgid "Data sets cannot be specified as filter"
+msgstr "Labele espesifika Pakotes dadus hanesan filtru"
+
+#: share
+msgid "Share"
+msgstr "Partilla"
+
+#: interpretation
+msgid "interpretation"
+msgstr "interpretasaun"
+
+#: write_your_interpretation
+msgid "Write a comment, question or interpretation"
+msgstr "Hakerek komentáriu, pergunta ou interpretasaun ida"
+
+#: legend_set
+msgid "Legend set"
+msgstr "Pakote lejendas"
+
+#: select_organisation_units
+msgid "Select organisation units"
+msgstr "Hili unidades organizasionais"
+
+#: select_boundaries_and_levels
+msgid "Select boundaries and levels"
+msgstr "Hili fronteiras no níveis"
+
+#: select_organisation_unit_levels
+msgid "Select organisation unit levels"
+msgstr "Hili níveis unidades organizasionais"
+
+#: totals
+msgid "Totals"
+msgstr "Totais"
+
+#: details
+msgid "Details"
+msgstr "Detalles"
+
+#: select_boundaries_and_groups
+msgid "Select boundaries and groups"
+msgstr "Hili fronteiras no grupus"
+
+#: select_organisation_unit_groups
+msgid "Select organisation unit groups"
+msgstr "Hili grupus unidades organizasionais"
+
+#: allow_external_access
+msgid "Allow external access"
+msgstr "Permite asesu externu"
+
+#: show_hierarchy
+msgid "Show hierarchy"
+msgstr "Hatudu ierarkia"
+
+#: all_indicators
+msgid "All indicators"
+msgstr "Indikadores hotu-hotu"
+
+#: all_data_elements
+msgid "All data elements"
+msgstr "Elementus dadus hotu-hotu"
+
+#: daily
+msgid "Daily"
+msgstr "Diáriu"
+
+#: weekly
+msgid "Weekly"
+msgstr "Semanal"
+
+#: monthly
+msgid "Monthly"
+msgstr "Mensal"
+
+#: bimonthly
+msgid "Bi-monthly"
+msgstr "Bi-monthly"
+
+#: quarterly
+msgid "Quarterly"
+msgstr "Trimestral"
+
+#: sixmonthly
+msgid "Six-monthly"
+msgstr "Semestral"
+
+#: sixmonthly_april
+msgid "Six-monthly April"
+msgstr "Abril semestral"
+
+#: yearly
+msgid "Yearly"
+msgstr "Anual"
+
+#: financial_oct
+msgid "Financial October"
+msgstr "Outubru finanseiru"
+
+#: financial_july
+msgid "Financial July"
+msgstr "Jullu finanseiru"
+
+#: financial_april
+msgid "Financial April"
+msgstr "Abril finanseiru"
+
+#: plugin_config
+msgid "Plugin config"
+msgstr "Konfigurasaun Plugin"
+
+#: default_
+msgid "Default"
+msgstr "Default"
+
+#: aggregation_type
+msgid "Aggregation type"
+msgstr "Tipu agregasaun"
+
+#: count
+msgid "Count"
+msgstr "Númeru"
+
+#: sum
+msgid "Sum"
+msgstr "Soma"
+
+#: by_data_element
+msgid "By data element"
+msgstr "Tuir elementu dadus"
+
+#: stddev
+msgid "Standard deviation"
+msgstr "Desvio padraun"
+
+#: variance
+msgid "Variance"
+msgstr "Variansaun"
+
+#: go_to_charts
+msgid "Go to charts"
+msgstr "Bá gráfikus"
+
+#: open_this_table_as_chart
+msgid "Open this table as chart"
+msgstr "Loke tabela ne'e hanesan gráfiku"
+
+#: open_last_chart
+msgid "Open last chart"
+msgstr "Loke gráfiku ikus"
+
+#: go_to_maps
+msgid "Go to maps"
+msgstr "Bá mapas"
+
+#: open_this_table_as_map
+msgid "Open this table as map"
+msgstr "Loke tabela ne'e hanesan mapa"
+
+#: open_last_map
+msgid "Open last map"
+msgstr "Loke mapa ikus"
+
+#: show_row_totals
+msgid "Show row totals"
+msgstr "Hatudu liñas nia total"
+
+#: show_col_totals
+msgid "Show column totals"
+msgstr "Hatudu kolunas nia total"
+
+#: assigned_categories
+msgid "Assigned categories"
+msgstr "Kategorias atribuidas"
+
+#: show_dimension_labels
+msgid "Show dimension labels"
+msgstr "Hatudu rótulus dimensaun"
+
+#: min
+msgid "Min"
+msgstr "Min"
+
+#: max
+msgid "Max"
+msgstr "Max"
+
+#: select_sub_units
+msgid "Select sub-units"
+msgstr "Hilit sub-unidades"
+
+#: you_do_not_have_access_to_all_items_in_this_favorite
+msgid "You do not have access to all items in this favorite"
+msgstr "Itabo'ot la iha asesu ba items hotu iha fovoritu ida ne'e"
+
+#: show
+msgid "Show"
+msgstr "Hatudu"
+
+#: show_col_subtotals
+msgid "Show column sub-totals"
+msgstr "Hatudu kolunas nia subtotais"
+
+#: show_row_subtotals
+msgid "Show row sub-totals"
+msgstr "Hatudu liñas nia subtotias"
+
+#: last_52_weeks
+msgid "Last 52 weeks"
+msgstr "Semana 52 ikus"
+
+#: last_6_months
+msgid "Last 6 months"
+msgstr "Fulan 6 ikus"
+
+#: created_by
+msgid "Created by"
+msgstr "Kria husi"
+
+#: initializing
+msgid "Initializing"
+msgstr "Inisializa daudaun"
+
+#: clear_pivot_table
+msgid "Clear pivot table"
+msgstr "Hamós tabela dinámika"
+
+#: this_financial_year
+msgid "This financial year"
+msgstr "Tinan finanseiru ida ne'e"
+
+#: user_sub_units
+msgid "User sub-units"
+msgstr "Utilizador nia  sub-unidades"
+
+#: user_sub_x2_units
+msgid "User sub-x2-units"
+msgstr "Utilizador nia sub-x2-unidades"
+
+#: metadata_id_scheme
+msgid "Meta-data ID scheme"
+msgstr "Eskema ID Meta-data"
+
+#: this_week
+msgid "This week"
+msgstr ""
+
+#: this_quarter
+msgid "This quarter"
+msgstr ""
+
+#: this_month
+msgid "This month"
+msgstr ""
+
+#: this_sixmonth
+msgid "This six-month"
+msgstr ""
+
+#: this_bimonth
+msgid "This bi-month"
+msgstr ""
+
+#: excluded_dimensions
+msgid "Excluded dimensions"
+msgstr ""
+
+#: column_dimensions
+msgid "Column dimensions"
+msgstr ""
+
+#: row_dimensions
+msgid "Row dimensions"
+msgstr ""
+
+#: report_filter
+msgid "Report filter"
+msgstr ""
+
+#: about
+msgid "About"
+msgstr ""
+
+#: time_since_last_data_update
+msgid "Time since last data update"
+msgstr ""
+
+#: version
+msgid "Version"
+msgstr ""
+
+#: revision
+msgid "Revision"
+msgstr ""
+
+#: build_time
+msgid "Build time"
+msgstr ""
+
+#: username
+msgid "Username"
+msgstr ""
+
+#: error
+msgid "Error"
+msgstr ""
+
+#: warning
+msgid "Warning"
+msgstr ""
+
+#: data_approved_at_level
+msgid "Data approved at level"
+msgstr ""
+
+#: show_all_data
+msgid "Show all data"
+msgstr ""
+
+#: event_data_items
+msgid "Event data items"
+msgstr ""
+
+#: program_indicators
+msgid "Program indicators"
+msgstr ""
+
+#: program
+msgid "Program"
+msgstr ""
+
+#: select_program
+msgid "Select program"
+msgstr ""
+
+#: completed_only
+msgid "Completed only"
+msgstr ""
+
+#: events
+msgid "Events"
+msgstr ""
+
+#: include_only_completed_events_only
+msgid "Include only completed events"
+msgstr ""
+
+#: comma
+msgid "Comma"
+msgstr ""
+
+#: space
+msgid "Space"
+msgstr ""
+
+#: download_data
+msgid "Download data"
+msgstr ""
+
+#: skip_rounding
+msgid "Skip rounding"
+msgstr ""
