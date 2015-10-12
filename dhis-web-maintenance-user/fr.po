@@ -1,18 +1,20 @@
 #. #-- See module privilegies ----------------------------------------------------#
 #. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-user/src/main/resources/org/hisp/dhis/user/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-user/src/main/resources/org/hisp/dhis/user/i18n_module_fr.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-27 09:30+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-10-02 22:42+0000\n"
+"Last-Translator: bpiot <bram.piot@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1443825742.0\n"
 
 #: M_dhis-web-api
 msgid "See API Module"
@@ -154,11 +156,11 @@ msgstr "See Tracker Capture module"
 
 #: M_dhis-web-event-visualizer
 msgid "See Event Visualizer module"
-msgstr ""
+msgstr "Voir module Visualiseur des évènements"
 
 #: M_dhis-web-cache-cleaner
 msgid "See Browser Cache Cleaner module"
-msgstr ""
+msgstr "Voir module Nettoyeur du Cache Navigateur"
 
 #. #-- User action privilegies ---------------------------------------------------#
 #: F_CONCEPT_ADD
@@ -270,10 +272,12 @@ msgstr "Delete Category Option Group Set"
 #: F_CATEGORY_OPTION_COMBO_PUBLIC_ADD
 msgid "Add/Update Public Data Element Category Option Combo"
 msgstr ""
+"Ajouter/Mettre à jour Combo Options Catégories éléments de données (publique)"
 
 #: F_CATEGORY_OPTION_COMBO_PRIVATE_ADD
 msgid "Add/Update Private Data Element Category Option Combo"
 msgstr ""
+"Ajouter/Mettre à jour Combo Options Catégories éléments de données (privé)"
 
 #: F_DATAELEMENTGROUP_PUBLIC_ADD
 msgid "Add/Update Public Data Element Groups"
@@ -461,15 +465,15 @@ msgstr "Lister Groupe d'Utilisateurs"
 
 #: F_USERGROUP_MANAGING_RELATIONSHIPS_ADD
 msgid "Add/Update User Group Managing Relationships"
-msgstr ""
+msgstr "Ajouter/Mettre à jour Groupe Utilisateurs Gestion Relations"
 
 #: F_USERGROUP_MANAGING_RELATIONSHIPS_VIEW
 msgid "View User Group Managing Relationships"
-msgstr ""
+msgstr "Voir Gestion Relations Groupes Utilisateurs"
 
 #: F_USER_GROUPS_READ_ONLY_ADD_MEMBERS
 msgid "Add/Remove Members In Read-Only User Groups"
-msgstr ""
+msgstr "Ajouter/Supprimer Membres dans Groupes Utilisateurs Lecture Seule"
 
 #: F_USER_ADD
 msgid "Add/Update User"
@@ -485,15 +489,15 @@ msgstr "Voir Utilisateurs"
 
 #: F_USER_ADD_WITHIN_MANAGED_GROUP
 msgid "Add/Update User Within Managed Group"
-msgstr ""
+msgstr "Ajouter/Mettre à jour Utilisateurs au sein de Groupe géré"
 
 #: F_USER_DELETE_WITHIN_MANAGED_GROUP
 msgid "Delete User Within Managed Group"
-msgstr ""
+msgstr "Supprimer Utilisateur au sein de Groupe géré"
 
 #: F_USER_VIEW_WITHIN_MANAGED_GROUP
 msgid "View User Within Managed Group"
-msgstr ""
+msgstr "Voir Utilisateur au sein de Groupe géré"
 
 #: F_VALIDATIONRULE_ADD
 msgid "Add/Update Validation Rule"
@@ -641,15 +645,15 @@ msgstr "Change Tracked Entity Instance Location"
 
 #: F_TRACKED_ENTITY_FORM_MANAGEMENT
 msgid "Tracked Entity Form Management"
-msgstr ""
+msgstr "Gestion Formulaires Entités Suivies"
 
 #: F_TRACKED_ENTITY_FORM_ADD
 msgid "Add Tracked Entity Form"
-msgstr ""
+msgstr "Ajouter Formulaire Entités Suivies"
 
 #: F_TRACKED_ENTITY_FORM_DELETE
 msgid "Delete Tracked Entity Form"
-msgstr ""
+msgstr "Supprimer Formulaire Entités Suivies"
 
 #: F_PROGRAM_INSTANCE_MANAGEMENT
 msgid "Program Event Management"
@@ -938,7 +942,7 @@ msgstr "Gestion Vue Sql"
 
 #: F_SQLVIEW_EXTERNAL
 msgid "Sql View External Access"
-msgstr ""
+msgstr "Accès Externe Vue SQL"
 
 #: F_VALIDATIONCRITERIA_ADD
 msgid "Add/Update Validation Criteria"
@@ -1031,15 +1035,15 @@ msgstr "Importer données"
 
 #: F_IMPORT_EVENTS
 msgid "Import events"
-msgstr ""
+msgstr "Importer évènements"
 
 #: F_IMPORT_OTHER_SYSTEMS
 msgid "Import from other systems"
-msgstr ""
+msgstr "Importer depuis d'autres systèmes"
 
 #: F_IMPORT_GML
 msgid "Import GML"
-msgstr ""
+msgstr "Importer GML"
 
 #: F_EXPORT_DATA
 msgid "Export data"
@@ -1047,7 +1051,7 @@ msgstr "Exporter données"
 
 #: F_EXPORT_EVENTS
 msgid "Export events"
-msgstr ""
+msgstr "Exporter évènements"
 
 #: F_METADATA_IMPORT
 msgid "Import meta-Data"
@@ -1123,27 +1127,27 @@ msgstr "Add Option Set"
 
 #: F_INSERT_CUSTOM_JS_CSS
 msgid "Insert custom Java script and CSS"
-msgstr ""
+msgstr "Insérer script Java et CSS personnalisé"
 
 #: F_VIEW_UNAPPROVED_DATA
 msgid "View unapproved data"
-msgstr ""
+msgstr "Voir données non approuvées"
 
 #: F_PROGRAM_RULE_MANAGEMENT
 msgid "Manage Program Rule"
-msgstr ""
+msgstr "Gestion Règles de Programme"
 
 #: F_PROGRAM_RULE_ADD
 msgid "Add Program Rule"
-msgstr ""
+msgstr "Ajouter Règles de Programme"
 
 #: F_PROGRAM_RULE_UPDATE
 msgid "Update Program Rule"
-msgstr ""
+msgstr "Mettre à jour Règles de Programme"
 
 #: F_PROGRAM_DASHBOARD_CONFIG_ADMIN
 msgid "Administer program dashboard configuration"
-msgstr ""
+msgstr "Administrer configuration tableau de bord programme"
 
 #. #-- FRED API module -----------------------------------------------------------#
 #: F_FRED_CREATE
@@ -1419,7 +1423,7 @@ msgstr "User must be assigned to at least one data capture organisation unit"
 
 #: user_must_be_assigned_to_at_least_one_user_group
 msgid "User must be assigned to at least one user group"
-msgstr ""
+msgstr "L'utilisateur doit être assigné à au moins un groupe d'utilisateurs"
 
 #: available_dimension_restrictions_for_data_analytics
 msgid "Available dimension restrictions for data analytics"
@@ -1435,102 +1439,104 @@ msgstr "Show more options"
 
 #: show_fewer_options
 msgid "Show fewer options"
-msgstr ""
+msgstr "Afficher moins d'options"
 
 #: intro_user_group
 msgid ""
 "Create user groups for functionality that should work on a group of users, "
 "like notifications."
 msgstr ""
+"Créez des groupes d'utilisateurs pour des fonctions relatives aux groupes, "
+"telles que les notifications"
 
 #: user_group_management
 msgid "User group management"
-msgstr ""
+msgstr "Gestion des groupes d'utilisateurs"
 
 #: join_group
 msgid "Join group"
-msgstr ""
+msgstr "Rejoindre le groupe"
 
 #: leave_group
 msgid "Leave group"
-msgstr ""
+msgstr "Quitter le groupe"
 
 #: user_group_details
 msgid "User group details"
-msgstr ""
+msgstr "Détails du groupe utilisateurs"
 
 #: edit_user_group
 msgid "Edit user group"
-msgstr ""
+msgstr "Editer groupe utilisateurs"
 
 #: confirm_delete
 msgid "Are you sure you want to delete this user group ?"
-msgstr ""
+msgstr "Êtes-vous certain(e) de vouloir supprimer ce groupe d'utilisateurs ?"
 
 #: add_user_group
 msgid "Add user group"
-msgstr ""
+msgstr "Ajouter groupe d'utilisateurs"
 
 #: no_of_Users
 msgid "Number of users"
-msgstr ""
+msgstr "Nombre d'utilisateurs"
 
 #: user_group
 msgid "User Group"
-msgstr ""
+msgstr "Groupe d'utilisateurs"
 
 #: available_users
 msgid "Available users"
-msgstr ""
+msgstr "Utilisateurs disponibles"
 
 #: group_members
 msgid "Group members"
-msgstr ""
+msgstr "Membres du groupe"
 
 #: available_managed_user_groups
 msgid "Available user groups"
-msgstr ""
+msgstr "Groupes d'utilisateurs disponibles"
 
 #: managed_user_groups
 msgid "Managed user groups"
-msgstr ""
+msgstr "Groupes d'utilisateurs gérés"
 
 #: show_by_inactivity
 msgid "Show by inactivity"
-msgstr ""
+msgstr "Afficher par inactivé"
 
 #: show_invitations
 msgid "Show invitations"
-msgstr ""
+msgstr "Afficher les invitations"
 
 #: all_invitations
 msgid "All invitations"
-msgstr ""
+msgstr "Toutes les invitations"
 
 #: expired_invitations
 msgid "Expired invitations"
-msgstr ""
+msgstr "Invitations périmées"
 
 #: show_self_registrations
 msgid "Show self-registrations"
-msgstr ""
+msgstr "Afficher auto-enregistrements"
 
 #: self_registered_users
 msgid "Self-registered users"
-msgstr ""
+msgstr "Utilisateurs auto-enregistrés"
 
 #: replicate
 msgid "Replicate"
-msgstr ""
+msgstr "Dupliquer"
 
 #: resend_invitation
 msgid "Resend invitation"
-msgstr ""
+msgstr "Renvoyer l'invitation"
 
 #: invitation_sent
 msgid "Invitation sent"
-msgstr ""
+msgstr "L'invitation a été envoyée"
 
 #: programs
 msgid "Programs"
-msgstr ""
+msgstr "Programmes"

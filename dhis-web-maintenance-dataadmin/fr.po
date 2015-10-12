@@ -1,17 +1,19 @@
 #. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-dataadmin/src/main/resources/org/hisp/dhis/dataadmin/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-dataadmin/src/main/resources/org/hisp/dhis/dataadmin/i18n_module_fr.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-27 09:30+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-10-01 22:18+0000\n"
+"Last-Translator: bpiot <bram.piot@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1443737882.0\n"
 
 #: remove_all
 msgid "Remove All Locks"
@@ -592,7 +594,7 @@ msgstr "Sélectionner l'unité d'organisation à maintenir"
 
 #: create_sql_views
 msgid "Create SQL views"
-msgstr ""
+msgstr "Créer vues SQL"
 
 #: merge
 msgid "Merge"
@@ -835,11 +837,11 @@ msgstr "Vue SQL"
 
 #: sql_type
 msgid "SQL type"
-msgstr ""
+msgstr "Type SQL"
 
 #: sql_view_type
 msgid "SQL view"
-msgstr ""
+msgstr "Vue SQL"
 
 #: materialized_sql_view_type
 msgid "Materialized SQL view"
@@ -847,7 +849,7 @@ msgstr ""
 
 #: sql_query_type
 msgid "SQL query"
-msgstr ""
+msgstr "Requête SQL"
 
 #: created_in_database
 msgid "created in database"
@@ -907,7 +909,7 @@ msgstr "Cette expression SQL n'est pas valide."
 
 #: sqlquery_invalid_note
 msgid "Note: Only SELECT query is allowed (without INTO keyword)"
-msgstr ""
+msgstr "Note: seules les requêtes SELECT sont autorisées (sans mot-clé INTO)"
 
 #: sql_view_instance_invalid
 msgid "This resource viewer is invalid or does not exist"
@@ -1082,7 +1084,7 @@ msgstr "Download as XML"
 
 #: get_report_as_json
 msgid "Download as JSON"
-msgstr ""
+msgstr "Télécharger en JSON"
 
 #: data_element_structure
 msgid "Data element structure"
@@ -1130,7 +1132,7 @@ msgstr "Hier"
 
 #: last_2_days
 msgid "Last 2 days"
-msgstr ""
+msgstr "2 derniers jours"
 
 #: last_7_days
 msgid "Last 7 days"
@@ -1190,19 +1192,19 @@ msgstr "Groupe d'utilisateurs"
 
 #: program
 msgid "Program"
-msgstr ""
+msgstr "Programme"
 
 #: program_stage
 msgid "Program Stage"
-msgstr ""
+msgstr "Etape de programme"
 
 #: tracked_entity
 msgid "Tracked Entity"
-msgstr ""
+msgstr "Entité suivie"
 
 #: tracked_entity_attribute
 msgid "Tracked Entity Attribute"
-msgstr ""
+msgstr "Attribut d'entité suivie"
 
 #: integer
 msgid "Integer"
@@ -1234,11 +1236,11 @@ msgstr "Ordre de tri des attributs"
 
 #: data_element_does_not_exist
 msgid "Data element does not exist"
-msgstr ""
+msgstr "L'élément de données n'existe pas"
 
 #: category_option_combo_does_not_exist
 msgid "Category option combo does not exist"
-msgstr ""
+msgstr "La combinaison d'options de catégories n'existe pas"
 
 #: scheduling_is
 msgid "Scheduling is"
@@ -1550,35 +1552,35 @@ msgstr ""
 
 #: show_fewer_options
 msgid "Show fewer options"
-msgstr ""
+msgstr "Afficher moins d'options"
 
 #: show_more_options
 msgid "Show more options"
-msgstr ""
+msgstr "Afficher plus d'options"
 
 #: disabled
 msgid "Disabled"
-msgstr ""
+msgstr "Désactivé"
 
 #: data_synchronization
 msgid "Data synchronization"
-msgstr ""
+msgstr "Synchronisation de données"
 
 #: data_synchronization_strategy
 msgid "Data synchronization strategy"
-msgstr ""
+msgstr "Stratégie de synchronisation de données"
 
 #: enabled
 msgid "Enabled"
-msgstr ""
+msgstr "Activé"
 
 #: last_success
 msgid "Last success"
-msgstr ""
+msgstr "Dernier succès"
 
 #: option_management
 msgid "Option management"
-msgstr ""
+msgstr "Gestion des options"
 
 #: add_option
 msgid "Add option"
@@ -1632,24 +1634,24 @@ msgstr ""
 
 #: view_name
 msgid "View name"
-msgstr ""
+msgstr "Visualiser le nom"
 
 #: user_account_invitations
 msgid "User account invitations"
-msgstr ""
+msgstr "Invitation des comptes utilisateurs"
 
 #: pending_invitations
 msgid "Pending invitations"
-msgstr ""
+msgstr "Invitations en attente"
 
 #: expired_invitations
 msgid "Expired invitations"
-msgstr ""
+msgstr "Invitations périmées"
 
 #: category_option
 msgid "Category Option"
-msgstr ""
+msgstr "Options de catégorie"
 
 #: category_option_group
 msgid "Category Option Group"
-msgstr ""
+msgstr "Groupe d'options de catégorie"

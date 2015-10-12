@@ -1,17 +1,19 @@
 #. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-dataentry/src/main/resources/org/hisp/dhis/de/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-dataentry/src/main/resources/org/hisp/dhis/de/i18n_module_fr.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-27 09:30+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-10-02 09:57+0000\n"
+"Last-Translator: bpiot <bram.piot@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1443779839.0\n"
 
 #: dataelement_comment
 msgid "Comment"
@@ -19,7 +21,7 @@ msgstr "Commentaire"
 
 #: history_not_valid
 msgid "No history for this data element"
-msgstr "Historique non applicable pour cet élément de donnée"
+msgstr "Historique non disponible pour cet élément de donnée"
 
 #: data_element
 msgid "Data element"
@@ -51,15 +53,15 @@ msgstr "Date d'enregistrement"
 
 #: last_updated
 msgid "Last updated"
-msgstr ""
+msgstr "Dernière mise à jour"
 
 #: update
 msgid "Update"
-msgstr ""
+msgstr "Mettre à jour"
 
 #: delete
 msgid "Delete"
-msgstr ""
+msgstr "Supprimer"
 
 #: no_value
 msgid "No value"
@@ -165,11 +167,11 @@ msgstr "Limite supérieure"
 
 #: dataelement_history
 msgid "Data element history"
-msgstr "Historique des éléments de données"
+msgstr "Historique de l'élément de données"
 
 #: audit_trail
 msgid "Audit trail"
-msgstr ""
+msgstr "Trace d'audit"
 
 #: nr
 msgid "Nr"
@@ -297,7 +299,7 @@ msgstr ""
 
 #: datavalue_history
 msgid "Data value history"
-msgstr ""
+msgstr "Historique des valeurs"
 
 #: max_must_be_greater_than_min
 msgid "Max must be greater than min"
@@ -333,11 +335,11 @@ msgstr "Changer à partir de"
 
 #: modification
 msgid "Modification"
-msgstr ""
+msgstr "Modification"
 
 #: modified_by
 msgid "Modified by"
-msgstr ""
+msgstr "Modifié par"
 
 #: to
 msgid "to"
@@ -345,11 +347,11 @@ msgstr "à"
 
 #: on
 msgid "On"
-msgstr "Allumé"
+msgstr "Date et heure"
 
 #: value
 msgid "Value"
-msgstr ""
+msgstr "Valeur"
 
 #: no_response_from_server
 msgid "No response from server, please check connectivity and try again"
@@ -431,7 +433,7 @@ msgstr "n'existe pas"
 
 #: does_not_exist_in_data_set
 msgid "does not exist in data set"
-msgstr ""
+msgstr "N'existe pas dans l'ensemble de données"
 
 #: insert_input_fields_into_the_form
 msgid "Insert input fields into the form"
@@ -500,4 +502,4 @@ msgstr "Instruction"
 
 #: there_is_no_audit_trail_for_this_value
 msgid "There is no audit trail for this value"
-msgstr ""
+msgstr "Il n'y a pas de trace d'audit pour cette valeur"

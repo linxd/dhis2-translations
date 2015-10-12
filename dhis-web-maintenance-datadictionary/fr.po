@@ -1,17 +1,19 @@
 #. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-datadictionary/src/main/resources/org/hisp/dhis/dd/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-datadictionary/src/main/resources/org/hisp/dhis/dd/i18n_module_fr.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-27 09:30+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-10-07 12:49+0000\n"
+"Last-Translator: bpiot <bram.piot@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1444222172.0\n"
 
 #: aggregate
 msgid "Aggregate"
@@ -19,7 +21,7 @@ msgstr "Agrégé"
 
 #: tracker
 msgid "Tracker"
-msgstr ""
+msgstr "Tracker"
 
 #: no_option_assigned
 msgid "Use of category with an empty option is not allowed!"
@@ -330,7 +332,7 @@ msgstr "Indicateurs sélectionnés"
 
 #: available_indicators
 msgid "Available indicators"
-msgstr ""
+msgstr "Indicateurs disponibles"
 
 #: item_deleted_successfully
 msgid "Item deleted successfully"
@@ -342,15 +344,15 @@ msgstr "Valeur"
 
 #: confirm_delete_indicator
 msgid "Do you want to delete indicator?"
-msgstr ""
+msgstr "Voulez-vous supprimer l'indicateur?"
 
 #: adding_indicator_failed
 msgid "Adding indicator failed"
-msgstr ""
+msgstr "Echec de l'ajout de l'indicateur"
 
 #: saving_indicator_failed
 msgid "Saving indicator failed"
-msgstr ""
+msgstr "Echec de la sauvegarde de l'indicateur"
 
 #: translation_translate
 msgid "Translate"
@@ -692,7 +694,7 @@ msgstr "Modifier le concept"
 
 #: concept_name
 msgid "Concept name"
-msgstr ""
+msgstr "Nom du concept"
 
 #: confirm_delete_concept
 msgid "Are you sure you want to delete this concept?"
@@ -739,7 +741,7 @@ msgstr "Type numérique"
 
 #: number
 msgid "Number"
-msgstr ""
+msgstr "Nombre"
 
 #: int
 msgid "Integer"
@@ -803,7 +805,7 @@ msgstr "Gestion d'options de catégorie d'élément de donnée"
 
 #: data_element_category_option_combination_management
 msgid "Data element category option combination management"
-msgstr ""
+msgstr "Gestion des combinaisons d'optios de catégorie d'éléments de données"
 
 #: create_new_data_element_category_option
 msgid "Create new data element category option"
@@ -859,16 +861,16 @@ msgstr "Organisation unit counts"
 
 #: category_option
 msgid "Category Option"
-msgstr ""
+msgstr "Option de catégorie"
 
 #: category
 msgid "Category"
-msgstr ""
+msgstr "Catégorie"
 
 #: category_combo
 msgctxt "category_combo"
 msgid "Category Combination"
-msgstr ""
+msgstr "Combinaison de catégories"
 
 #: category_option_group
 msgid "Category Option Group"
@@ -888,7 +890,7 @@ msgstr "Edit category option group"
 
 #: confirm_delete_category_option_group
 msgid "Are you sure you want to delete this category option group?"
-msgstr ""
+msgstr "Voulez-vous vraiment supprimer ce groupe d'options de catégories?"
 
 #: category_option_group_set
 msgid "Category Option Group Set"
@@ -912,7 +914,7 @@ msgstr "Available category option groups"
 
 #: selected_category_option_groups
 msgid "Selected category option groups"
-msgstr ""
+msgstr "Groupes d'options de catégories sélectionnés"
 
 #: confirm_delete_category_option_group_set
 msgid "Are you sure you want to delete this category option group set?"
@@ -920,58 +922,61 @@ msgstr "Are you sure you want to delete this category option group set?"
 
 #: show_more_options
 msgid "Show more options"
-msgstr ""
+msgstr "Afficher plus d'options"
 
 #: show_fewer_options
 msgid "Show fewer options"
-msgstr ""
+msgstr "Afficher moins d'options"
 
 #: id
 msgid "Id"
-msgstr ""
+msgstr "Id"
 
 #: min
 msgid "Min"
-msgstr ""
+msgstr "Min"
 
 #: max
 msgid "Max"
-msgstr ""
+msgstr "Max"
 
 #: category_option_combo
 msgid "Category Option Combination"
-msgstr ""
+msgstr "Combinaison d'options de catégories"
 
 #: intro_category_option_combo
 msgid ""
 "View and edit data element category option combinations. Category option "
 "combinations are break-downs of category."
 msgstr ""
+"Visualiser et édier combinaison d'options de catégories des éléments de "
+"données. Les combinaisons d'options de catégories fournissent le détail des "
+"catégories."
 
 #: edit_data_element_category_option_combo
 msgid "Edit data element category option combo"
-msgstr ""
+msgstr "Editer combinaison d'options de catégories des éléments de données"
 
 #: average_sum_in_org_unit_hierarchy
 msgid "Average (sum in org unit hierarchy)"
-msgstr ""
+msgstr "Moyenne (somme dans l'hiérarchie organisationnelle)"
 
 #: approve_data
 msgid "Approve data"
-msgstr ""
+msgstr "Approuver les données"
 
 #: decimals_in_data_output
 msgid "Decimals in data output"
-msgstr ""
+msgstr "Décimales dans le résultat"
 
 #: categories
 msgid "Categories"
-msgstr ""
+msgstr "Catégories"
 
 #: ignore_data_approval
 msgid "Ignore data approval"
-msgstr ""
+msgstr "Ignorer approbation de données"
 
 #: data_dimension_type
 msgid "Data dimension type"
-msgstr ""
+msgstr "Type de dimension de données"

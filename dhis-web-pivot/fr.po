@@ -1,17 +1,19 @@
 #. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-apps/src/main/webapp/dhis-web-pivot/i18n/i18n_app.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-apps/src/main/webapp/dhis-web-pivot/i18n/i18n_app_fr.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-27 09:30+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-10-07 10:55+0000\n"
+"Last-Translator: bpiot <bram.piot@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1444215345.0\n"
 
 #: dimensions
 msgid "Dimensions"
@@ -635,75 +637,75 @@ msgstr "Variance"
 
 #: go_to_charts
 msgid "Go to charts"
-msgstr ""
+msgstr "Ouvrir Visualiseur"
 
 #: open_this_table_as_chart
 msgid "Open this table as chart"
-msgstr ""
+msgstr "Ouvrir ce tableau en tant que graphique"
 
 #: open_last_chart
 msgid "Open last chart"
-msgstr ""
+msgstr "Ouvrir dernier graphique"
 
 #: go_to_maps
 msgid "Go to maps"
-msgstr ""
+msgstr "Ouvrir Cartes"
 
 #: open_this_table_as_map
 msgid "Open this table as map"
-msgstr ""
+msgstr "Ouvrir ce tableau en tant que carte"
 
 #: open_last_map
 msgid "Open last map"
-msgstr ""
+msgstr "Ouvrir dernière carte"
 
 #: show_row_totals
 msgid "Show row totals"
-msgstr ""
+msgstr "Afficher totaux des lignes"
 
 #: show_col_totals
 msgid "Show column totals"
-msgstr ""
+msgstr "Afficher totaux des colonnes"
 
 #: assigned_categories
 msgid "Assigned categories"
-msgstr ""
+msgstr "Catégories assignées"
 
 #: show_dimension_labels
 msgid "Show dimension labels"
-msgstr ""
+msgstr "Afficher étiquettes dimensions"
 
 #: min
 msgid "Min"
-msgstr ""
+msgstr "Min"
 
 #: max
 msgid "Max"
-msgstr ""
+msgstr "Max"
 
 #: select_sub_units
 msgid "Select sub-units"
-msgstr ""
+msgstr "Sélectionner sous-unités"
 
 #: you_do_not_have_access_to_all_items_in_this_favorite
 msgid "You do not have access to all items in this favorite"
-msgstr ""
+msgstr "Vous n'avez pas accès à tous les éléments de ce favori"
 
 #: show
 msgid "Show"
-msgstr ""
+msgstr "Afficher"
 
 #: show_col_subtotals
 msgid "Show column sub-totals"
-msgstr ""
+msgstr "Afficher sous-totaux colonnes"
 
 #: show_row_subtotals
 msgid "Show row sub-totals"
-msgstr ""
+msgstr "Afficher sous-totaux lignes"
 
 #: last_52_weeks
 msgid "Last 52 weeks"
-msgstr ""
+msgstr "52 dernières semaines"
 
 #: last_6_months
 msgid "Last 6 months"
@@ -711,19 +713,19 @@ msgstr ""
 
 #: created_by
 msgid "Created by"
-msgstr ""
+msgstr "Créé par"
 
 #: initializing
 msgid "Initializing"
-msgstr ""
+msgstr "Initialisation en cours"
 
 #: clear_pivot_table
 msgid "Clear pivot table"
-msgstr ""
+msgstr "Effacer le tableau croisé"
 
 #: this_financial_year
 msgid "This financial year"
-msgstr ""
+msgstr "Année fiscale en cours"
 
 #: user_sub_units
 msgid "User sub-units"
@@ -735,23 +737,23 @@ msgstr ""
 
 #: metadata_id_scheme
 msgid "Meta-data ID scheme"
-msgstr ""
+msgstr "Schéma ID méta-données"
 
 #: this_week
 msgid "This week"
-msgstr ""
+msgstr "Cette semaine"
 
 #: this_quarter
 msgid "This quarter"
-msgstr ""
+msgstr "Ce trimestre"
 
 #: this_month
 msgid "This month"
-msgstr ""
+msgstr "Ce mois"
 
 #: this_sixmonth
 msgid "This six-month"
-msgstr ""
+msgstr "Ce semestre"
 
 #: this_bimonth
 msgid "This bi-month"
@@ -759,100 +761,100 @@ msgstr ""
 
 #: excluded_dimensions
 msgid "Excluded dimensions"
-msgstr ""
+msgstr "Dimensions exclues"
 
 #: column_dimensions
 msgid "Column dimensions"
-msgstr ""
+msgstr "Dimensions colonnes"
 
 #: row_dimensions
 msgid "Row dimensions"
-msgstr ""
+msgstr "Dimensions lignes"
 
 #: report_filter
 msgid "Report filter"
-msgstr ""
+msgstr "Filtre du rapport"
 
 #: about
 msgid "About"
-msgstr ""
+msgstr "A propos"
 
 #: time_since_last_data_update
 msgid "Time since last data update"
-msgstr ""
+msgstr "Heures depuis dernière MàJ données"
 
 #: version
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 #: revision
 msgid "Revision"
-msgstr ""
+msgstr "Révision"
 
 #: build_time
 msgid "Build time"
-msgstr ""
+msgstr "Date de compilation"
 
 #: username
 msgid "Username"
-msgstr ""
+msgstr "Nom d'utilisateur"
 
 #: error
 msgid "Error"
-msgstr ""
+msgstr "Erreur"
 
 #: warning
 msgid "Warning"
-msgstr ""
+msgstr "Avertissement"
 
 #: data_approved_at_level
 msgid "Data approved at level"
-msgstr ""
+msgstr "Données approuvées au niveau"
 
 #: show_all_data
 msgid "Show all data"
-msgstr ""
+msgstr "Afficher toutes les données"
 
 #: event_data_items
 msgid "Event data items"
-msgstr ""
+msgstr "Eléments données évènements"
 
 #: program_indicators
 msgid "Program indicators"
-msgstr ""
+msgstr "Indicateurs programmes"
 
 #: program
 msgid "Program"
-msgstr ""
+msgstr "Programme"
 
 #: select_program
 msgid "Select program"
-msgstr ""
+msgstr "Sélectionner programme"
 
 #: completed_only
 msgid "Completed only"
-msgstr ""
+msgstr "Uniquement complétés"
 
 #: events
 msgid "Events"
-msgstr ""
+msgstr "Evènements"
 
 #: include_only_completed_events_only
 msgid "Include only completed events"
-msgstr ""
+msgstr "Inclure seulement les évènements complétés"
 
 #: comma
 msgid "Comma"
-msgstr ""
+msgstr "Virgule"
 
 #: space
 msgid "Space"
-msgstr ""
+msgstr "Espace"
 
 #: download_data
 msgid "Download data"
-msgstr ""
+msgstr "Télécharger données"
 
 #: skip_rounding
 msgid "Skip rounding"
-msgstr ""
+msgstr "Ne pas arondir"

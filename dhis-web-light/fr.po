@@ -1,17 +1,19 @@
 #. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-light/src/main/resources/org/hisp/dhis/light/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-light/src/main/resources/org/hisp/dhis/light/i18n_module_fr.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-27 09:30+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-10-01 22:17+0000\n"
+"Last-Translator: bpiot <bram.piot@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1443737856.0\n"
 
 #: DHIS_2
 msgid "DHIS2"
@@ -569,60 +571,60 @@ msgstr "Tracked entity"
 
 #: write
 msgid "Write"
-msgstr ""
+msgstr "Écrire"
 
 #: write_message
 msgid "Write Message"
-msgstr ""
+msgstr "Écrire un message"
 
 #: write_feedback
 msgid "Write Feedback"
-msgstr ""
+msgstr "Ecrire Feedback"
 
 #: write_new_message
 msgid "Write new message"
-msgstr ""
+msgstr "Écrire un nouveau message"
 
 #: write_to_users
 msgid "To User(s):"
-msgstr ""
+msgstr "Aux utilisateur(s):"
 
 #: write_add_to_recipients
 msgid "Add to Recipient(s)"
-msgstr ""
+msgstr "Ajouter aux récipiendaire(s)"
 
 #: interpretations
 msgid "Interpretations"
-msgstr ""
+msgstr "Interprétations"
 
 #: interpretation
 msgid "Interpretation"
-msgstr ""
+msgstr "Interprétation"
 
 #: interpretations_support
 msgid "Only charts are currently supported for interpretations."
-msgstr ""
+msgstr "Seuls les graphiques peuvent être utilisés pour les interprétations"
 
 #: interpretation_comment
 msgid "Comment(s):"
-msgstr ""
+msgstr "Commentaire(s) :"
 
 #: interpretation_add_comment
 msgid "Add a comment"
-msgstr ""
+msgstr "Ajouter un commentaire"
 
 #: interpretation_post_comment
 msgid "Post comment"
-msgstr ""
+msgstr "Publier commentaire"
 
 #: interpretation_share
 msgid "Share interpretation"
-msgstr ""
+msgstr "Partager interprétation"
 
 #: share
 msgid "Share"
-msgstr ""
+msgstr "Partager"
 
 #: chart
 msgid "Chart"
-msgstr ""
+msgstr "Graphique"

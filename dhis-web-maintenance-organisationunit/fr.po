@@ -1,17 +1,19 @@
 #. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-organisationunit/src/main/resources/org/hisp/dhis/oum/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-organisationunit/src/main/resources/org/hisp/dhis/oum/i18n_module_fr.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-27 09:30+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-10-01 21:15+0000\n"
+"Last-Translator: bpiot <bram.piot@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1443734143.0\n"
 
 #: create_new_root
 msgid "Are you sure you want to create a new root organisation unit?"
@@ -149,7 +151,7 @@ msgstr "L'unité de l'organisation à se déplacer est approuvée"
 
 #: not_selected_moved_to_root_position
 msgid "Not selected, moved to root position"
-msgstr ""
+msgstr "Non sélectioné, déplacer vers racine"
 
 #: verification_of_the_new_parent_org_unit_failed
 msgid ""
@@ -210,7 +212,7 @@ msgstr "Exclusif"
 
 #: create_new_org_unit_group_set
 msgid "Create new organisation unit group set"
-msgstr ""
+msgstr "Créer nouvel ensemble de groupes d'unités d'organisation"
 
 #: edit_org_unit_group_set
 msgid "Edit organisation unit group set"
@@ -399,7 +401,7 @@ msgstr "Trouvé"
 
 #: all
 msgid "All"
-msgstr ""
+msgstr "Tous"
 
 #: please_select_from_tree
 msgid "Please select from tree (optional)"
@@ -415,7 +417,7 @@ msgstr "Point"
 
 #: offline_levels
 msgid "Offline levels"
-msgstr ""
+msgstr "Niveaux en mode offline"
 
 #: available_data_sets
 msgid "Available data sets"
@@ -496,3 +498,5 @@ msgstr "Afficher toutes les sections"
 #: org_unit_levels_not_yet_saved
 msgid "Organisation unit level is not yet saved, please save"
 msgstr ""
+"Le niveau d'unité d'organisation n'a pas encore été enregistré, veuillez "
+"enregistrer"

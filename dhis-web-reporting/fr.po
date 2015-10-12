@@ -1,17 +1,19 @@
 #. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-reporting/src/main/resources/org/hisp/dhis/reporting/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-reporting/src/main/resources/org/hisp/dhis/reporting/i18n_module_fr.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-27 09:30+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-10-07 11:09+0000\n"
+"Last-Translator: bpiot <bram.piot@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1444216156.0\n"
 
 #: please_select_org_unit
 msgctxt "please_select_org_unit"
@@ -355,11 +357,11 @@ msgstr "Eléments de données disponibles"
 
 #: select_dataelementgroup_all
 msgid "Select data element group / View all"
-msgstr ""
+msgstr "Sélectionner groupe d'éléments de donneés / Afficher tout"
 
 #: selected_dataelements
 msgid "Selected data elements"
-msgstr ""
+msgstr "Eléments de données sélectionnés"
 
 #: dataelements
 msgid "Data elements"
@@ -371,11 +373,11 @@ msgstr "Paramètres du tableau de rapport"
 
 #: months_this_year
 msgid "Months this year"
-msgstr ""
+msgstr "Mois cette année"
 
 #: quarters_this_year
 msgid "Quarters this year"
-msgstr ""
+msgstr "Trimestres cette année"
 
 #: add_report_table
 msgid "Add Report Table"
@@ -595,7 +597,7 @@ msgstr "Afficher d'autres options"
 
 #: show_fewer_options
 msgid "Show fewer options"
-msgstr ""
+msgstr "Afficher moins d'options"
 
 #: generate_before_export
 msgid "Please generate table before exporting"
@@ -721,7 +723,7 @@ msgstr "Sélectionner unité d'organisation"
 
 #: get_report
 msgid "Get report"
-msgstr ""
+msgstr "Obtenir rapport"
 
 #: get_report_as_xls
 msgid "Download as Excel"
@@ -745,7 +747,7 @@ msgstr "Télécharger en JRXML"
 
 #: select_category_combo
 msgid "Select category combination"
-msgstr ""
+msgstr "Sélectionner combinaison de catégories"
 
 #: sort_order
 msgid "Sort order"
@@ -853,11 +855,11 @@ msgstr "Groupes sélectionnés d'unité d'organisation"
 
 #: start_date
 msgid "Start date"
-msgstr ""
+msgstr "Date de début"
 
 #: end_date
 msgid "End date"
-msgstr ""
+msgstr "Date de fin"
 
 #: start_export
 msgid "Start export"
@@ -881,7 +883,7 @@ msgstr "Imprimer"
 
 #: reporting_period
 msgid "Reporting period"
-msgstr ""
+msgstr "Période de rapportage"
 
 #: completed_by
 msgid "Completed by"
@@ -993,7 +995,7 @@ msgstr "Obtenir le modèle de rapport HTML"
 
 #: analytics_tables_management
 msgid "Analytics tables management"
-msgstr ""
+msgstr "Gestion des tables analytiques"
 
 #: analytics_tables
 msgid "Analytics tables"
@@ -1009,7 +1011,7 @@ msgstr "Types de période d'agrégation"
 
 #: analytics
 msgid "Analytics"
-msgstr ""
+msgstr "Analytiques"
 
 #: approve
 msgid "Approve"
@@ -1033,7 +1035,7 @@ msgstr "Waiting for lower level org units to approve"
 
 #: approved_at_a_higher_level
 msgid "Approved at a higher level"
-msgstr ""
+msgstr "Approuvé au niveau supérieur"
 
 #: approved
 msgid "Approved"
@@ -1045,7 +1047,7 @@ msgstr "Approved and accepted"
 
 #: ready_for_approval_at_a_higher_level
 msgid "Ready for approval at a higher level"
-msgstr ""
+msgstr "Prêt pour approbation au niveau supérieur"
 
 #: ready_for_approval
 msgid "Ready for approval"
@@ -1053,35 +1055,35 @@ msgstr "Ready for approval"
 
 #: approval_not_relevant
 msgid "Approval not relevant"
-msgstr ""
+msgstr "Approbation non pertinente"
 
 #: waiting_for_approval_elsewhere
 msgid "Waiting for approval elsewhere"
-msgstr ""
+msgstr "En attente d'approbation ailleurs"
 
 #: approved_elsewhere
 msgid "Approved elsewhere"
-msgstr ""
+msgstr "Approuvé ailleurs"
 
 #: accepted_elsewhere
 msgid "Accepted elsewhere"
-msgstr ""
+msgstr "Accepté ailleurs"
 
 #: approved_for_part_of_this_period
 msgid "Approved for part of this period"
-msgstr ""
+msgstr "Approuvé pour une partie de la période"
 
 #: accepted_for_part_of_this_period
 msgid "Accepted for part of this period"
-msgstr ""
+msgstr "Accepté pour cette partie de la période"
 
 #: approved_elsewhere_for_part_of_this_period
 msgid "Approved elsewhere for part of this period"
-msgstr ""
+msgstr "Approuvé ailleurs pour cette partie de la période"
 
 #: accepted_elsewhere_for_part_of_this_period
 msgid "Accepted elsewhere for part of this period"
-msgstr ""
+msgstr "Accepté ailleurs pour une partie de la période"
 
 #: confirm_approval
 msgid "Are you sure you want to approve this data set?"
@@ -1113,4 +1115,4 @@ msgstr "Please make a selection below"
 
 #: data_criteria
 msgid "Data criteria"
-msgstr ""
+msgstr "Critères de données"

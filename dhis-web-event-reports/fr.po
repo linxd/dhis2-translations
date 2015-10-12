@@ -1,265 +1,267 @@
 #. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-apps/src/main/webapp/dhis-web-event-reports/i18n/i18n_app.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-10-01 23:16+0000\n"
+"Last-Translator: bpiot <bram.piot@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1443741395.0\n"
 
 #: dimensions
 msgid "Dimensions"
-msgstr ""
+msgstr "Dimensions"
 
 #: table_layout
 msgid "Table layout"
-msgstr ""
+msgstr "Mise en page du tableau"
 
 #: show_totals
 msgid "Show totals"
-msgstr ""
+msgstr "Afficher les totaux"
 
 #: show_subtotals
 msgid "Show sub-totals"
-msgstr ""
+msgstr "Afficher sous-totaux"
 
 #: hide_empty_rows
 msgid "Hide empty rows"
-msgstr ""
+msgstr "Cacher lignes vides"
 
 #: display_density
 msgid "Display density"
-msgstr ""
+msgstr "Afficher densité"
 
 #: font_size
 msgid "Font size"
-msgstr ""
+msgstr "Taille de la police"
 
 #: digit_group_separator
 msgid "Digit group separator"
-msgstr ""
+msgstr "Séparateur des groupe de chiffres"
 
 #: comfortable
 msgid "Comfortable"
-msgstr ""
+msgstr "Comfortable"
 
 #: compact
 msgid "Compact"
-msgstr ""
+msgstr "Compact"
 
 #: large
 msgid "Large"
-msgstr ""
+msgstr "Grand"
 
 #: small_
 msgid "Small"
-msgstr ""
+msgstr "Petit"
 
 #: normal
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #: reporting_period
 msgid "Reporting period"
-msgstr ""
+msgstr "Période de rapportage"
 
 #: organisation_unit
 msgid "Organisation unit"
-msgstr ""
+msgstr "Unité d'organisation"
 
 #: organisation_units
 msgid "Organisation units"
-msgstr ""
+msgstr "Unités d'organisation"
 
 #: parent_organisation_unit
 msgid "Parent organisation unit"
-msgstr ""
+msgstr "Unité d'organisation parent"
 
 #: user_organisation_unit
 msgid "User org unit"
-msgstr ""
+msgstr "Unité d'organisation utilisateur"
 
 #: table_options
 msgid "Table options"
-msgstr ""
+msgstr "Options de la table"
 
 #: create
 msgid "Create"
-msgstr ""
+msgstr "Créer"
 
 #: update
 msgid "Update"
-msgstr ""
+msgstr "Mettre à jour"
 
 #: cancel
 msgid "Cancel"
-msgstr ""
+msgstr "Annuler"
 
 #: delete_
 msgid "Delete"
-msgstr ""
+msgstr "Supprimer"
 
 #: save
 msgid "Save"
-msgstr ""
+msgstr "Enregistrer"
 
 #: hide
 msgid "Hide"
-msgstr ""
+msgstr "Masquer"
 
 #: add_new
 msgid "Add new"
-msgstr ""
+msgstr "Ajouter nouveau"
 
 #: manage_favorites
 msgid "Manage favorites"
-msgstr ""
+msgstr "Gérer les favoris"
 
 #: search_for_favorites
 msgid "Search for favorites"
-msgstr ""
+msgstr "Chercher les favoris"
 
 #: overwrite_favorite
 msgid "Overwrite favorite"
-msgstr ""
+msgstr "Ecraser favori"
 
 #: delete_favorite
 msgid "Delete favorite"
-msgstr ""
+msgstr "Supprimer favori"
 
 #: prev
 msgid "Prev"
-msgstr ""
+msgstr "Préc."
 
 #: next
 msgid "Next"
-msgstr ""
+msgstr "Suivant"
 
 #: rename
 msgid "Rename"
-msgstr ""
+msgstr "Renommer"
 
 #: overwrite
 msgid "Overwrite"
-msgstr ""
+msgstr "Écraser"
 
 #: share_with_other_people
 msgid "Share with other people"
-msgstr ""
+msgstr "Partager avec d'autres personnes"
 
 #: sharing_settings
 msgid "Sharing settings"
-msgstr ""
+msgstr "Paramètres de partage"
 
 #: can_view
 msgid "Can view"
-msgstr ""
+msgstr "Peut afficher"
 
 #: can_edit_and_view
 msgid "Can edit and view"
-msgstr ""
+msgstr "Peut éditer et afficher"
 
 #: none
 msgid "None"
-msgstr ""
+msgstr "Aucun"
 
 #: public_access
 msgid "Public access"
-msgstr ""
+msgstr "Accès public"
 
 #: search_for_user_groups
 msgid "Search for user groups"
-msgstr ""
+msgstr "Chercher les groupes d'utilisateurs"
 
 #: available
 msgid "Available"
-msgstr ""
+msgstr "Disponible"
 
 #: selected
 msgid "Selected"
-msgstr ""
+msgstr "Sélectionné"
 
 #: indicators
 msgid "Indicators"
-msgstr ""
+msgstr "Indicateurs"
 
 #: all_indicator_groups
 msgid "All indicator groups"
-msgstr ""
+msgstr "Tous les groupes d'indicateurs"
 
 #: select_indicator_group
 msgid "Select indicator group"
-msgstr ""
+msgstr "Sélectionner groupe d'indicateurs"
 
 #: data_elements
 msgid "Data elements"
-msgstr ""
+msgstr "Eléments de données"
 
 #: all_data_element_groups
 msgid "All data element groups"
-msgstr ""
+msgstr "Tous les groupes d'éléments de données"
 
 #: select_data_element_group
 msgid "Select data element group"
-msgstr ""
+msgstr "Sélectionner groupe d'éléments de données"
 
 #: data_sets
 msgid "Data sets"
-msgstr ""
+msgstr "Ensemble de données"
 
 #: reporting_rates
 msgid "Reporting rates"
-msgstr ""
+msgstr "Taux de rapportage"
 
 #: periods
 msgid "Periods"
-msgstr ""
+msgstr "Périodes"
 
 #: select_period_type
 msgid "Select period type"
-msgstr ""
+msgstr "Sélectionner le type de période"
 
 #: weeks
 msgid "Weeks"
-msgstr ""
+msgstr "Semaines"
 
 #: last_week
 msgid "Last week"
-msgstr ""
+msgstr "Semaine dernière"
 
 #: last_4_weeks
 msgid "Last 4 weeks"
-msgstr ""
+msgstr "4 dernières semaines"
 
 #: last_12_weeks
 msgid "Last 12 weeks"
-msgstr ""
+msgstr "12 dernières semaines"
 
 #: months
 msgid "Months"
-msgstr ""
+msgstr "Mois"
 
 #: last_month
 msgid "Last month"
-msgstr ""
+msgstr "Mois dernier"
 
 #: last_3_months
 msgid "Last 3 months"
-msgstr ""
+msgstr "3 derniers mois"
 
 #: last_12_months
 msgid "Last 12 months"
-msgstr ""
+msgstr "12 derniers mois"
 
 #: bimonths
 msgid "Bi-months"
-msgstr ""
+msgstr "Bimensuel"
 
 #: last_bimonth
 msgid "Last bi-month"
@@ -271,508 +273,514 @@ msgstr ""
 
 #: quarters
 msgid "Quarters"
-msgstr ""
+msgstr "Trimestres"
 
 #: last_quarter
 msgid "Last quarter"
-msgstr ""
+msgstr "Trimestre précédent"
 
 #: last_4_quarters
 msgid "Last 4 quarters"
-msgstr ""
+msgstr "4 derniers trimestres"
 
 #: sixmonths
 msgid "Six-months"
-msgstr ""
+msgstr "Semestres"
 
 #: last_sixmonth
 msgid "Last six-month"
-msgstr ""
+msgstr "Dernier semestre"
 
 #: last_2_sixmonths
 msgid "Last 2 six-months"
-msgstr ""
+msgstr "2 derniers semestres"
 
 #: years
 msgid "Years"
-msgstr ""
+msgstr "Années"
 
 #: this_year
 msgid "This year"
-msgstr ""
+msgstr "Cette année"
 
 #: last_year
 msgid "Last year"
-msgstr ""
+msgstr "Année dernière"
 
 #: last_5_years
 msgid "Last 5 years"
-msgstr ""
+msgstr "5 dernières années"
 
 #: financial_years
 msgid "Financial years"
-msgstr ""
+msgstr "Années financières"
 
 #: last_financial_year
 msgid "Last financial year"
-msgstr ""
+msgstr "Année fiscale précédente"
 
 #: last_5_financial_years
 msgid "Last 5 financial years"
-msgstr ""
+msgstr "5 années fiscales précédentes"
 
 #: prev_year
 msgid "Prev year"
-msgstr ""
+msgstr "Année passée"
 
 #: next_year
 msgid "Next year"
-msgstr ""
+msgstr "Année suivante"
 
 #: select_all_children
 msgid "Select all children"
-msgstr ""
+msgstr "Sélectionner tous les enfants"
 
 #: table
 msgid "Table"
-msgstr ""
+msgstr "Tableau"
 
 #: chart
 msgid "Chart"
-msgstr ""
+msgstr "Graphique"
 
 #: map
 msgid "Map"
-msgstr ""
+msgstr "Carte"
 
 #: home
 msgid "Home"
-msgstr ""
+msgstr "Accueil"
 
 #: data
 msgid "Data"
-msgstr ""
+msgstr "Données"
 
 #: categories
 msgid "Categories"
-msgstr ""
+msgstr "Catégories"
 
 #: style
 msgid "Style"
-msgstr ""
+msgstr "Style"
 
 #: parameters
 msgid "Parameters"
-msgstr ""
+msgstr "Paramètres"
 
 #: for_standard_reports_only
 msgid "for standard reports only"
-msgstr ""
+msgstr "pour rapports standards seuls"
 
 #: please_create_a_table_first
 msgid "Please create a table first"
-msgstr ""
+msgstr "Veuillez d'abord créer un tableau"
 
 #: indicators_cannot_be_specified_as_filter
 msgid "Indicators cannot be specified as filter"
-msgstr ""
+msgstr "Les indicateurs ne peuvent être spécifiés comme filtre"
 
 #: categories_cannot_be_specified_as_filter
 msgid "Categories cannot be specified as filter"
-msgstr ""
+msgstr "Les catégories ne peuvent être spécifiés comme filtre"
 
 #: data_element_group_sets_cannot_be_specified_together_with_data_sets
 msgid "Data element group sets cannot be specified together with data sets"
 msgstr ""
+"Les groupes d'éléments de données ne peuvent être spécifiés en même temps "
+"que les ensembles de données"
 
 #: at_least_one_dimension_must_be_specified_as_row_or_column
 msgid "At least one dimension must be specified as row or column"
-msgstr ""
+msgstr "Au moins une dimension doit être spécifiée comme ligne ou colonne"
 
 #: at_least_one_period_must_be_specified_as_column_row_or_filter
 msgid "At least one period must be specified as column row or filter"
-msgstr ""
+msgstr "Au moins une période doit être spécifiée comme ligne, colonne ou filtre"
 
 #: example1
 msgid "Creating an event report"
-msgstr ""
+msgstr "Créer un rapport d'évènements"
 
 #: example2
 msgid "Select items from any of the dimensions in the left menu"
-msgstr ""
+msgstr "Sélectionner des éléments des dimensions dans le menu de gauche"
 
 #: example3
 msgid "Click Layout to arrange your dimensions on table rows and columns"
 msgstr ""
+"Cliquer Mise en page pour réarrange les dimensions comme lignes ou colonnes"
 
 #: example4
 msgid "Click Update to create your table"
-msgstr ""
+msgstr "Cliquer Mettre à jour pour créer la table"
 
 #: example5
 msgid "Working with an event report"
-msgstr ""
+msgstr "Créer les rapports d'évènements"
 
 #: example6
 msgid ""
 "Click Options to hide sub-totals or empty rows adjust font size and more"
 msgstr ""
+"Cliquer Options pour masquer les sous-totaux ou lignes vides, ajuster taille "
+"de police et autres"
 
 #: example7
 msgid "Click Favorites to save your table for later use"
 msgstr ""
+"Cliquer Favoris pour enregistrer votre tableau pour utilisation ultérieure"
 
 #: example8
 msgid "Click Download to save table data to your computer"
-msgstr ""
+msgstr "Cliquer Télécharger pour enregistrer les données du tableau"
 
 #: layout
 msgid "Layout"
-msgstr ""
+msgstr "Mise en page"
 
 #: options
 msgid "Options"
-msgstr ""
+msgstr "Options"
 
 #: download
 msgid "Download"
-msgstr ""
+msgstr "Télécharger"
 
 #: favorites
 msgid "Favorites"
-msgstr ""
+msgstr "Favoris"
 
 #: include_regression
 msgid "Include regression"
-msgstr ""
+msgstr "Inclure régression"
 
 #: include_cumulative
 msgid "Include cumulative"
-msgstr ""
+msgstr "Inclure cumul"
 
 #: sort_order
 msgid "Sort order"
-msgstr ""
+msgstr "Ordre de tri"
 
 #: low_to_high
 msgid "Low to high"
-msgstr ""
+msgstr "Valeurs basses vers élevées"
 
 #: high_to_low
 msgid "High to low"
-msgstr ""
+msgstr "Valeurs élevées vers basses"
 
 #: top_limit
 msgid "Top limit"
-msgstr ""
+msgstr "Limite supérieure"
 
 #: plain_data_sources
 msgid "Plain data source"
-msgstr ""
+msgstr "Sourc de données brutes"
 
 #: graphics
 msgid "Graphics"
-msgstr ""
+msgstr "Graphisme"
 
 #: data_sets_cannot_be_specified_as_filter
 msgid "Data sets cannot be specified as filter"
-msgstr ""
+msgstr "Les ensembles de données ne peuvent être spécifiées comme filtre"
 
 #: share
 msgid "Share"
-msgstr ""
+msgstr "Partager"
 
 #: interpretation
 msgid "interpretation"
-msgstr ""
+msgstr "interprétation"
 
 #: write_your_interpretation
 msgid "Write a comment question or interpretation"
-msgstr ""
+msgstr "Ecrire un commentaire, question ou interprétation"
 
 #: legend_set
 msgid "Legend set"
-msgstr ""
+msgstr "Jeu de légende"
 
 #: select_organisation_units
 msgid "Select organisation units"
-msgstr ""
+msgstr "Sélectionner unités d'organisation"
 
 #: select_boundaries_and_levels
 msgid "Select boundaries and levels"
-msgstr ""
+msgstr "Sélectionner frontières et niveaux"
 
 #: select_organisation_unit_levels
 msgid "Select organisation unit levels"
-msgstr ""
+msgstr "Sélectionner niveaux d'unités d'organisation"
 
 #: totals
 msgid "Totals"
-msgstr ""
+msgstr "Totaux"
 
 #: details
 msgid "Details"
-msgstr ""
+msgstr "Détails"
 
 #: select_boundaries_and_groups
 msgid "Select boundaries and groups"
-msgstr ""
+msgstr "Sélectionner frontières et groupes "
 
 #: select_organisation_unit_groups
 msgid "Select organisation unit groups"
-msgstr ""
+msgstr "Sélectionner groupes d'unités d'organisation"
 
 #: allow_external_access
 msgid "Allow external access"
-msgstr ""
+msgstr "Permettre l'accès externe"
 
 #: show_hierarchy
 msgid "Show hierarchy"
-msgstr ""
+msgstr "Afficher l'hiérarchie"
 
 #: all_indicators
 msgid "All indicators"
-msgstr ""
+msgstr "Tous les indicateurs"
 
 #: all_data_elements
 msgid "All data elements"
-msgstr ""
+msgstr "Tous les éléments de données"
 
 #: daily
 msgid "Daily"
-msgstr ""
+msgstr "Quotidien"
 
 #: weekly
 msgid "Weekly"
-msgstr ""
+msgstr "Hebdomadaire"
 
 #: monthly
 msgid "Monthly"
-msgstr ""
+msgstr "Mensuel"
 
 #: bimonthly
 msgid "Bi-monthly"
-msgstr ""
+msgstr "Bimensuel"
 
 #: quarterly
 msgid "Quarterly"
-msgstr ""
+msgstr "Trimestriel"
 
 #: sixmonthly
 msgid "Six-monthly"
-msgstr ""
+msgstr "Semestre"
 
 #: sixmonthly_april
 msgid "Six-monthly April"
-msgstr ""
+msgstr "Semestre avril"
 
 #: yearly
 msgid "Yearly"
-msgstr ""
+msgstr "Annuel"
 
 #: financial_oct
 msgid "Financial October"
-msgstr ""
+msgstr "Fiscale octobre"
 
 #: financial_july
 msgid "Financial July"
-msgstr ""
+msgstr "Fiscale juillet"
 
 #: financial_april
 msgid "Financial April"
-msgstr ""
+msgstr "Fiscale avril"
 
 #: plugin_config
 msgid "Plugin config"
-msgstr ""
+msgstr "Plugin config"
 
 #: default_
 msgid "Default"
-msgstr ""
+msgstr "Par défaut"
 
 #: aggregation_type
 msgid "Aggregation type"
-msgstr ""
+msgstr "Type d'agrégation"
 
 #: relative_periods
 msgid "Relative periods"
-msgstr ""
+msgstr "Périodes relatives"
 
 #: start_end_dates
 msgid "Start-end dates"
-msgstr ""
+msgstr "Dates début-fin"
 
 #: top
 msgid "Top"
-msgstr ""
+msgstr "Haut"
 
 #: bottom
 msgid "Bottom"
-msgstr ""
+msgstr "Bas"
 
 #: limit
 msgid "Limit"
-msgstr ""
+msgstr "Limite"
 
 #: go_to_event_charts
 msgid "Go to event charts"
-msgstr ""
+msgstr "Aller dans le visualiseur d'évènements"
 
 #: open_this_table_as_chart
 msgid "Open this table as chart"
-msgstr ""
+msgstr "Ouvrir ce tableau sous forme de graphique"
 
 #: open_last_chart
 msgid "Open last chart"
-msgstr ""
+msgstr "Ouvrir dernier graphique"
 
 #: show_dimension_labels
 msgid "Show dimension labels"
-msgstr ""
+msgstr "Afficher étiquettes dimensions"
 
 #: show_col_totals
 msgid "Show column totals"
-msgstr ""
+msgstr "Afficher totaux par colonne"
 
 #: show_row_totals
 msgid "Show row totals"
-msgstr ""
+msgstr "Afficher totaux par ligne"
 
 #: select_sub_units
 msgid "Select sub-units"
-msgstr ""
+msgstr "Sélectionner sous-unités"
 
 #: you_do_not_have_access_to_all_items_in_this_favorite
 msgid "You do not have access to all items in this favorite"
-msgstr ""
+msgstr "Vous n'avez pas accès à tous les éléments de ce favori"
 
 #: show_col_subtotals
 msgid "Show column sub-totals"
-msgstr ""
+msgstr "Afficher sous-totaux par colonne"
 
 #: show_row_subtotals
 msgid "Show row sub-totals"
-msgstr ""
+msgstr "Afficher sous-totaux par ligne"
 
 #: last_52_weeks
 msgid "Last 52 weeks"
-msgstr ""
+msgstr "52 dernières semaines"
 
 #: last_6_months
 msgid "Last 6 months"
-msgstr ""
+msgstr "6 derniers mois"
 
 #: initializing
 msgid "Initializing"
-msgstr ""
+msgstr "Initialisation en cours"
 
 #: created_by
 msgid "Created by"
-msgstr ""
+msgstr "Créé par"
 
 #: clear_event_report
 msgid "Clear event report"
-msgstr ""
+msgstr "Effacer rapport des événements"
 
 #: yes
 msgid "Yes"
-msgstr ""
+msgstr "Oui"
 
 #: no
 msgid "No"
-msgstr ""
+msgstr "Non"
 
 #: output_type
 msgid "Output type"
-msgstr ""
+msgstr "Type de sortie"
 
 #: event
 msgid "Event"
-msgstr ""
+msgstr "Évènement"
 
 #: tracked_entity_instance
 msgid "Tracked entity instance"
-msgstr ""
+msgstr "Instance d'entité suivie"
 
 #: enrollment
 msgid "Enrollment"
-msgstr ""
+msgstr "Enrôlement"
 
 #: column_dimensions
 msgid "Column dimensions"
-msgstr ""
+msgstr "Dimensions de colonnes"
 
 #: row_dimensions
 msgid "Row dimensions"
-msgstr ""
+msgstr "Dimensions des lignes"
 
 #: report_filter
 msgid "Report filter"
-msgstr ""
+msgstr "Filtre du rapport"
 
 #: value
 msgid "Value"
-msgstr ""
+msgstr "Valeur"
 
 #: average
 msgid "Average"
-msgstr ""
+msgstr "Moyenne"
 
 #: count
 msgid "Count"
-msgstr ""
+msgstr "Compte"
 
 #: sum
 msgid "Sum"
-msgstr ""
+msgstr "Somme"
 
 #: by_data_element
 msgid "By data element"
-msgstr ""
+msgstr "Par éléments de données"
 
 #: stddev
 msgid "Std Dev"
-msgstr ""
+msgstr "Dev. Std."
 
 #: variance
 msgid "Variance"
-msgstr ""
+msgstr "Variance"
 
 #: min
 msgid "Min"
-msgstr ""
+msgstr "Min"
 
 #: max
 msgid "Max"
-msgstr ""
+msgstr "Max"
 
 #: number_of_events
 msgid "Number of events"
-msgstr ""
+msgstr "Nombre d'événements"
 
 #: this_financial_year
 msgid "This financial year"
-msgstr ""
+msgstr "Année fiscale en cours"
 
 #: duplicate
 msgid "Duplicate"
-msgstr ""
+msgstr "Dupliquer"
 
 #: remove
 msgid "Remove"
-msgstr ""
+msgstr "Supprimer"
 
 #: select
 msgid "Select"
-msgstr ""
+msgstr "Sélectionner"
 
 #: user_sub_units
 msgid "User sub-units"
-msgstr ""
+msgstr "Sous-unités de l'utilisateur"
 
 #: user_sub_x2_units
 msgid "User sub-x2-units"
-msgstr ""
+msgstr "Sous-unités de l'utilisateur x2"
 
 #: collapse_data_dimensions
 msgid "Collapse data dimensions"
@@ -780,23 +788,23 @@ msgstr ""
 
 #: hide_na_data
 msgid "Hide n/a data"
-msgstr ""
+msgstr "Masquer données n/a"
 
 #: this_week
 msgid "This week"
-msgstr ""
+msgstr "Cette semaine"
 
 #: this_quarter
 msgid "This quarter"
-msgstr ""
+msgstr "Ce trimestre"
 
 #: this_month
 msgid "This month"
-msgstr ""
+msgstr "Ce mois"
 
 #: this_sixmonth
 msgid "This six-month"
-msgstr ""
+msgstr "Ce semestre"
 
 #: this_bimonth
 msgid "This bi-month"
@@ -804,52 +812,52 @@ msgstr ""
 
 #: about
 msgid "About"
-msgstr ""
+msgstr "A propos"
 
 #: time_since_last_data_update
 msgid "Time since last data update"
-msgstr ""
+msgstr "Temps écoulé depuis dernière mise à jour données"
 
 #: version
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 #: revision
 msgid "Revision"
-msgstr ""
+msgstr "Révision"
 
 #: build_time
 msgid "Build time"
-msgstr ""
+msgstr "Date de compilation"
 
 #: username
 msgid "Username"
-msgstr ""
+msgstr "Nom d'utilisateur"
 
 #: no_values_found_for_current_selection
 msgid "No values found for the current selection"
-msgstr ""
+msgstr "Pas de valeurs trouvées pour la sélection"
 
 #: error
 msgid "Error"
-msgstr ""
+msgstr "Erreur"
 
 #: warning
 msgid "Warning"
-msgstr ""
+msgstr "Avertissement"
 
 #: excluded_dimensions
 msgid "Excluded dimensions"
-msgstr ""
+msgstr "Exclure dimensions"
 
 #: completed_only
 msgid "Completed only"
-msgstr ""
+msgstr "Seulement complétés"
 
 #: include_only_completed_events_only
 msgid "Include only completed events"
-msgstr ""
+msgstr "Inclure seulement les évènements complétés"
 
 #: space
 msgid "Space"
-msgstr ""
+msgstr "Espace"

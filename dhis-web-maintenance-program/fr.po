@@ -1,17 +1,19 @@
 #. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-program/src/main/resources/org/hisp/dhis/trackedentity/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-program/src/main/resources/org/hisp/dhis/trackedentity/i18n_module_fr.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-27 09:30+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-10-09 14:58+0000\n"
+"Last-Translator: bpiot <bram.piot@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1444402739.0\n"
 
 #: groupBy
 msgid "Group by"
@@ -25,7 +27,7 @@ msgstr "="
 #: greater_than
 msgctxt "greater_than"
 msgid ">"
-msgstr ""
+msgstr ">"
 
 #: greater_than_or_equal_to
 msgid ">="
@@ -34,15 +36,15 @@ msgstr ">="
 #: less_than
 msgctxt "less_than"
 msgid "<"
-msgstr ""
+msgstr "<"
 
 #: less_than_or_equal_to
 msgid "<="
-msgstr ""
+msgstr "<="
 
 #: is_equal_to_tracked_entity_domain
 msgid "Is equal to tracked entity domain"
-msgstr ""
+msgstr "Egal au domaine d'entité suivi"
 
 #: group
 msgid "Group"
@@ -74,7 +76,7 @@ msgstr "Description de la relation (par ex. Mère-Enfant)"
 
 #: relationship_type
 msgid "Relationship type"
-msgstr ""
+msgstr "Type de relation"
 
 #: relationship_type_details
 msgid "Relationship type details"
@@ -118,7 +120,7 @@ msgstr "Stade de Programme"
 
 #: section_details
 msgid "Section details"
-msgstr ""
+msgstr "Détails de la section"
 
 #: close
 msgid "Close"
@@ -126,7 +128,7 @@ msgstr "Fermer"
 
 #: edit_tracked_entity_attribute
 msgid "Edit tracked entity attribute"
-msgstr ""
+msgstr "Editer attribut d'entité suivie"
 
 #: attribute
 msgctxt "attribute"
@@ -139,19 +141,19 @@ msgstr "Type de valeur"
 
 #: legend_set
 msgid "Legend set"
-msgstr ""
+msgstr "Jeu de légende"
 
 #: create_new_tracked_entity_attribute
 msgid "Create new tracked entity attribute"
-msgstr ""
+msgstr "Créer nouvel attribut d'entité suivie"
 
 #: confirm_delete_tracked_entity_attribute
 msgid "Are you sure you want to delete this tracked entity attribute?"
-msgstr ""
+msgstr "Voulez-vous vraiment supprimer cet attribut d'entité suivie?"
 
 #: tracked_entity_attribute_management
 msgid "Tracked entity attribute management"
-msgstr ""
+msgstr "Gestion des attributs d'entités suivies"
 
 #: name_in_use
 msgid "Name is in use"
@@ -159,11 +161,11 @@ msgstr "Le nom existe déjà"
 
 #: short_name_in_use
 msgid "Short name in use"
-msgstr ""
+msgstr "Nom court déjà utilisé"
 
 #: code_in_use
 msgid "Code is in use"
-msgstr ""
+msgstr "Code déjà utilisé"
 
 #: sort
 msgid "Sort"
@@ -281,7 +283,7 @@ msgstr "Tout est OK"
 #: tracked_entity_attribute
 msgctxt "tracked_entity_attribute"
 msgid "Attribute"
-msgstr ""
+msgstr "Attribut"
 
 #: program
 msgid "Program"
@@ -293,7 +295,7 @@ msgstr "Constructeur de requête d'agrégation"
 
 #: tracked_entity_aggregation_query_builder_management
 msgid "Aggregation query builder management"
-msgstr ""
+msgstr "Gestion des requêtes d'agrégation"
 
 #: dataelements
 msgid "Data elements"
@@ -302,7 +304,7 @@ msgstr "Eléments de donnée"
 #: tracked_entity_attributes
 msgctxt "tracked_entity_attributes"
 msgid "Attributes"
-msgstr ""
+msgstr "Attributs"
 
 #: operator
 msgid "Operator"
@@ -322,7 +324,7 @@ msgstr "Détails du formaulaire"
 
 #: data_entry_form
 msgid "Data entry form"
-msgstr ""
+msgstr "Formulaire de saisie de donneés"
 
 #: blood_group
 msgid "Blood group"
@@ -342,7 +344,7 @@ msgstr "Obligatoire"
 
 #: tracked_entity_attribute_group_management
 msgid "Tracked entity attribute group management"
-msgstr ""
+msgstr "Gestion des groupes d'attributs d'entités suivies"
 
 #: move_selected
 msgid "Move selected items"
@@ -363,20 +365,20 @@ msgstr "Attributs sélectionnés"
 
 #: tracked_entity_attribute_group_deltails
 msgid "Tracked entity attribute group details"
-msgstr ""
+msgstr "Détails des groupes d'attributs d'entités suivies"
 
 #: tracked_entity_attribute_group
 msgctxt "tracked_entity_attribute_group"
 msgid "Attribute Group"
-msgstr ""
+msgstr "Groupe d'attributs"
 
 #: edit_tracked_entity_attribute_group
 msgid "Edit tracked entity attribute group"
-msgstr ""
+msgstr "Editer groupe d'attributs d'éntités suivies"
 
 #: create_new_tracked_entity_attribute_group
 msgid "Create new tracked entity attribute group"
-msgstr ""
+msgstr "Créer nouveau group d'attributs d'entités suivies"
 
 #: delete_successfull
 msgid "Deleted successfully"
@@ -385,14 +387,15 @@ msgstr "Supprimé avec succès"
 #: warning_delete_tracked_entity_attribute_option
 msgid "This option has relationship with tracked entity attribute values"
 msgstr ""
+"Cette option a une relation avec les valeurs d'attributs d'entités suivies"
 
 #: success_delete_tracked_entity_attribute_option
 msgid "Deleted tracked entity attribute option successfully"
-msgstr ""
+msgstr "Option d'attribut d'entité suivie supprimée avec succès"
 
 #: error_delete_tracked_entity_attribute_option
 msgid "Can not find tracked entity attribute option to delete"
-msgstr ""
+msgstr "Impossible de trouver l'optiond d'attribut d'entité suivie à supprimer"
 
 #: combo
 msgid "Predefined value"
@@ -413,12 +416,12 @@ msgstr "Modifier le critère de validation"
 #: attribute_group
 msgctxt "attribute_group"
 msgid "Attribute Group"
-msgstr ""
+msgstr "Groupe d'attributs"
 
 #: attribute_visit_schedule
 msgctxt "attribute_visit_schedule"
 msgid "Attribute Visit Schedule"
-msgstr ""
+msgstr "Planification visite attributs"
 
 #: create_validation_criteria
 msgid "Create validation criteria"
@@ -500,7 +503,7 @@ msgstr "Héritable"
 
 #: tracked_entity_attribute_details
 msgid "Tracked entity attribute details"
-msgstr ""
+msgstr "D'atils des attributs d'entités suivies"
 
 #: search_result
 msgid "Search result"
@@ -513,17 +516,17 @@ msgstr "Critère"
 #: operator_less_then
 msgctxt "operator_less_then"
 msgid "<"
-msgstr ""
+msgstr "<"
 
 #: operator_equal_to
 msgctxt "operator_equal_to"
 msgid "="
-msgstr ""
+msgstr "="
 
 #: operator_greater_then
 msgctxt "operator_greater_then"
 msgid ">"
-msgstr ""
+msgstr ">"
 
 #: left_side
 msgid "Left side"
@@ -535,7 +538,7 @@ msgstr "Côté droit"
 
 #: validation
 msgid "Validation"
-msgstr ""
+msgstr "Validation"
 
 #: field_is_required
 msgid "This field is required"
@@ -575,7 +578,7 @@ msgstr "Terminé"
 
 #: decimals_in_data_output
 msgid "Decimals in data output"
-msgstr ""
+msgstr "Décimaux dans le résultat"
 
 #: other_program_stage_data_element
 msgid "Other program stage data element"
@@ -637,7 +640,7 @@ msgstr "Importer les données"
 
 #: configuration
 msgid "Configuration"
-msgstr ""
+msgstr "Configuration"
 
 #: row
 msgid "Row"
@@ -697,7 +700,7 @@ msgstr "Détails de règles de validation de programme"
 
 #: view_validation_rules
 msgid "View validation rules"
-msgstr ""
+msgstr "Voir les règles de validation"
 
 #: scheduled_days_from_start
 msgid "Scheduled days from start"
@@ -741,7 +744,7 @@ msgstr "Evènement unique"
 
 #: tracked_entity_instances
 msgid "Tracked entity instances"
-msgstr ""
+msgstr "Instances d'entités suivies"
 
 #: dob_type
 msgid "DOB type"
@@ -827,7 +830,7 @@ msgstr "Modifier la règle de validation de programme"
 #: age
 msgctxt "age"
 msgid "Age(years)"
-msgstr ""
+msgstr "Age (années)"
 
 #: assign_validation_for_programs
 msgid "Assign validation for programs"
@@ -879,7 +882,7 @@ msgstr "Elément de données"
 
 #: condition
 msgid "Condition"
-msgstr ""
+msgstr "Condition"
 
 #: no_date_data_element_in_selected_program_stage
 msgid "No data elements of type date in the selected program stage"
@@ -928,7 +931,7 @@ msgstr ""
 
 #: without_registration
 msgid "Without registration"
-msgstr ""
+msgstr "Sans enrôlement"
 
 #: for
 msgid "for"
@@ -948,15 +951,15 @@ msgstr "Date d'échéance"
 
 #: stage_visited
 msgid "Stage visited"
-msgstr ""
+msgstr "Etape visitée"
 
 #: report_date
 msgid "Report date"
-msgstr ""
+msgstr "Date du rapport"
 
 #: program_stage_properties
 msgid "Program stage properties"
-msgstr ""
+msgstr "Propriétés de l'étape de programme"
 
 #: allow_provided_elsewhere
 msgid "Allow provided elsewhere"
@@ -972,23 +975,23 @@ msgstr ""
 
 #: assign_program_to_orgunits_for_registering
 msgid "Assign program to organisation units for registering"
-msgstr ""
+msgstr "Assigner le programme aux unités d'organisation pour l'enrôlement"
 
 #: visited_program_stage
 msgid "Visited program stage"
-msgstr ""
+msgstr "Etape de programme visitée"
 
 #: number_of_tracked_entity_instances
 msgid "Number of tracked entity instances"
-msgstr ""
+msgstr "Nombre d'instances d'entités suivies"
 
 #: number_of_visits
 msgid "Number of visits"
-msgstr ""
+msgstr "Nombre de visites"
 
 #: insert
 msgid "Insert "
-msgstr ""
+msgstr "Insérer "
 
 #: visit_selected_program_stage
 msgid "Visited selected program stage"
@@ -1002,15 +1005,15 @@ msgstr ""
 
 #: show_incident_date
 msgid "Show incidence date"
-msgstr ""
+msgstr "Montrer date d'incident"
 
 #: display_date_of_incident
 msgid "Display date of incident"
-msgstr ""
+msgstr "Afficher date d'incident"
 
 #: tracked_entity_attribute_group_sort_order
 msgid "Tracked entity attribute group sort order"
-msgstr ""
+msgstr "Ordre de tri des groupes d'attributs d'entités suivies"
 
 #: visit_selected_program_stage_x_th_time
 msgid "Visit selected program stage n(th) time"
@@ -1018,36 +1021,36 @@ msgstr ""
 
 #: program_stage_section
 msgid "Program stage section"
-msgstr ""
+msgstr "Section d'étape de programme"
 
 #: create_new_program_stage_section
 msgid "Create new program stage section"
-msgstr ""
+msgstr "Créer nouvelle section d'étape de programme"
 
 #: update_program_stage_section
 msgid "Update program stage section"
-msgstr ""
+msgstr "Mettre à jour section d'étape de programme"
 
 #: section_management
 msgid "Section management"
-msgstr ""
+msgstr "Gesion des sections"
 
 #: program_stage_section_sort_order
 msgid "Program stage section sort order"
-msgstr ""
+msgstr "Ordre de tri des sections de l'étape de programme"
 
 #: add_selected
 msgid "Add selected"
-msgstr ""
+msgstr "Ajouter la sélection"
 
 #: add_all
 msgid "Add all"
-msgstr ""
+msgstr "Ajouter tout"
 
 #: available_attributes
 msgctxt "available_attributes"
 msgid "Available attributes"
-msgstr ""
+msgstr "Attributs disponibles"
 
 #: select_attributes
 msgid "Select attributes"
@@ -1067,119 +1070,119 @@ msgstr ""
 
 #: message
 msgid "Message"
-msgstr ""
+msgstr "Message"
 
 #: params
 msgid "Parameters"
-msgstr ""
+msgstr "Paramètres"
 
 #: program_name
 msgid "Program name"
-msgstr ""
+msgstr "Nom du programme"
 
 #: program_stage_name
 msgid "Program stage name"
-msgstr ""
+msgstr "Nom de l'étape du programme"
 
 #: orgunit_name
 msgid "Organisation unit name"
-msgstr ""
+msgstr "Nom de l'unité d'organisation"
 
 #: days_since_due_date
 msgid "Days since due date"
-msgstr ""
+msgstr "Jours depuis la date d'échéance"
 
 #: scheduling
 msgid "Scheduling"
-msgstr ""
+msgstr "Planification"
 
 #: schedule_automated_message_reminder
 msgid "Automated Message Reminder"
-msgstr ""
+msgstr "Message de rappel automatique"
 
 #: schedule
 msgid "Schedule"
-msgstr ""
+msgstr "Planning"
 
 #: start
 msgid "Start"
-msgstr ""
+msgstr "Démarrer"
 
 #: stop
 msgid "Stop"
-msgstr ""
+msgstr "Arrêter"
 
 #: scheduling_is
 msgid "Scheduling is"
-msgstr ""
+msgstr "Planification"
 
 #: not_started
 msgid "not started"
-msgstr ""
+msgstr "non démarrée"
 
 #: running
 msgid "active"
-msgstr ""
+msgstr "active"
 
 #: gateway_type
 msgid "Gateway type"
-msgstr ""
+msgstr "Type de passerelle"
 
 #: execute
 msgid "Execute"
-msgstr ""
+msgstr "Exécuter"
 
 #: time_for_sending_message
 msgid "Time for sending message"
-msgstr ""
+msgstr "Heure pour envoi du message"
 
 #: number_of_attributes
 msgid "The number of attributes"
-msgstr ""
+msgstr "Nombre d'attributs"
 
 #: reminder
 msgid "Reminder"
-msgstr ""
+msgstr "Rappel"
 
 #: remove_reminder
 msgid "Remove reminder"
-msgstr ""
+msgstr "Supprimer l'en-tête"
 
 #: add_more
 msgid "Add more"
-msgstr ""
+msgstr "Ajouter plus"
 
 #: inherit
 msgid "Inherit"
-msgstr ""
+msgstr "Hériter"
 
 #: auto_generate_event
 msgid "Auto-generate event"
-msgstr ""
+msgstr "Création automatique de l'évènement"
 
 #: generate_events_based_on_enrollment_date
 msgid "Generate events based on enrollment date"
-msgstr ""
+msgstr "Générer les évènements sur la base de la date d'enrôlement"
 
 #: not_incident_date
 msgid "not incident date"
-msgstr ""
+msgstr "Pas de date d'évènement"
 
 #: execute_success
 msgid "Executed successfully"
-msgstr ""
+msgstr "Exécuté avec succès"
 
 #: plus
 msgid "Plus"
-msgstr ""
+msgstr "Plus"
 
 #: diff_from
 msgid "Different from"
-msgstr ""
+msgstr "Différent de"
 
 #: not_null
 msgid "Not null"
-msgstr ""
+msgstr "non nul"
 
 #: confirm_delete_prorgam_stage_section
 msgid "Are you sure you want to delete this program stage section ?"
@@ -1187,12 +1190,12 @@ msgstr ""
 
 #: form_details
 msgid "Form details"
-msgstr ""
+msgstr "Détails du formulaire"
 
 #: enrollment_details
 msgctxt "enrollment_details"
 msgid "Enrollment"
-msgstr ""
+msgstr "Enrôlement"
 
 #: repeatable_program_stage_details
 msgid "Repeatable program stage details"
@@ -1200,7 +1203,7 @@ msgstr ""
 
 #: schedule_automated_aggregation
 msgid "Automated Aggregation"
-msgstr ""
+msgstr "Agrégation automatisé"
 
 #: schedule_automated_aggregation_form
 msgid "Schedule automated aggregation"
@@ -1223,56 +1226,56 @@ msgstr ""
 
 #: executing
 msgid "Executing"
-msgstr ""
+msgstr "En cours d'exécution"
 
 #: add_single_rule
 msgid "Add single rule"
-msgstr ""
+msgstr "Ajouter règle simple"
 
 #: add_multi_rule
 msgid "Add multi rule"
-msgstr ""
+msgstr "Ajouter règle multiple"
 
 #: no_aggregation
 msgid "No aggregation"
-msgstr ""
+msgstr "Pas d'agrégation"
 
 #: age_at_visit_days_since_birth
 msgid "Age at visit (days since birth)"
-msgstr ""
+msgstr "Age lors de la visite (jours depuis naissance)"
 
 #: formula
 msgid "Formula"
-msgstr ""
+msgstr "Formule"
 
 #: schedule_automated_message_reminder_form
 msgid "Schedule automated message reminder"
-msgstr ""
+msgstr "Planification du message de rappel automatique"
 
 #: display_in_reports
 msgid "Display in reports"
-msgstr ""
+msgstr "Afficher dans les rapports"
 
 #: edit_left_side
 msgid "Edit left side"
-msgstr ""
+msgstr "Editer côté gauche"
 
 #: edit_right_side
 msgid "Edit right side"
-msgstr ""
+msgstr "Editer côté droite"
 
 #: update_program_validation_rule
 msgctxt "update_program_validation_rule"
 msgid "Edit program validation rule"
-msgstr ""
+msgstr "Editer règle de validation de programme"
 
 #: description_not_null
 msgid "Description is not null"
-msgstr ""
+msgstr "La description n'est pas nulle"
 
 #: expression_not_null
 msgid "Expression is not null"
-msgstr ""
+msgstr "L'expression n'est pas nulle"
 
 #: complete_allowed_only_if_validation_passes
 msgid "Complete allowed only if validation passes"
@@ -1292,31 +1295,32 @@ msgstr ""
 
 #: calculated
 msgid "Calculated"
-msgstr ""
+msgstr "Calculé"
 
 #: display_name
 msgid "Display name"
-msgstr ""
+msgstr "Affiche le nom"
 
 #: code_and_name
 msgid "Code and Name"
-msgstr ""
+msgstr "Code et nom"
 
 #: sort_by
 msgid "Sort by"
-msgstr ""
+msgstr "Trier par"
 
 #: block_entry_form_after_completed
 msgid "Block entry form after completed"
-msgstr ""
+msgstr "Bloquer la saisie après complétion"
 
 #: select_operator_number_of_visits_for_this_condition
 msgid "Please select operator number of visit for this condition"
 msgstr ""
+"Veuillez sélectionner l'opérateur nombre de visites pour cette condition"
 
 #: design_prorgam_entry_form
 msgid "Design program entry form"
-msgstr ""
+msgstr "Concevoir formulaire de saisie de programme"
 
 #: intro_tracked_entity_form
 msgid ""
@@ -1326,19 +1330,19 @@ msgstr ""
 
 #: properties
 msgid "Properties"
-msgstr ""
+msgstr "Propriétés"
 
 #: full_name
 msgid "Full name"
-msgstr ""
+msgstr "Nom complet"
 
 #: birth_date
 msgid "Date of birth"
-msgstr ""
+msgstr "Date de naissance"
 
 #: death_date
 msgid "Date of death"
-msgstr ""
+msgstr "Date de décès"
 
 #: registration_date
 msgctxt "registration_date"
@@ -1347,19 +1351,19 @@ msgstr ""
 
 #: is_dead
 msgid "Is dead"
-msgstr ""
+msgstr "Est décédé"
 
 #: phone_number
 msgid "Phone number"
-msgstr ""
+msgstr "Numéro de téléphone"
 
 #: email
 msgid "Email"
-msgstr ""
+msgstr "Adresse e-mail"
 
 #: prorgam_entry_form_details
 msgid "Program entry form details"
-msgstr ""
+msgstr "Détails du formalaire de saisie du programme"
 
 #: design_prorgam_entry_form_form
 msgid "Design program entry form  form"
@@ -1371,64 +1375,64 @@ msgstr ""
 
 #: fixed_attributes
 msgid "Fixed attributes"
-msgstr ""
+msgstr "Attributs fixes"
 
 #: attributes
 msgctxt "attributes"
 msgid "Attributes"
-msgstr ""
+msgstr "Attributs"
 
 #: left_side_expression
 msgid "Left side expression"
-msgstr ""
+msgstr "Côté gauche de l'expression"
 
 #: right_side_expression
 msgid "Right side expression"
-msgstr ""
+msgstr "Côté droite de l'expression"
 
 #: sum_dataelement_value
 msgid "Sum of data element values"
-msgstr ""
+msgstr "Somme des valeurs des éléments de données"
 
 #: data_element_for_sum_avg_min_max
 msgid "Data element for sum/average/min/max"
-msgstr ""
+msgstr "Element de données pour somme/moyenne/min/max"
 
 #: avg_dataelement_value
 msgid "Average of data element values"
-msgstr ""
+msgstr "Moyenne des valeurs de l'élément de données"
 
 #: min_dataelement_value
 msgid "Minimum of data element values"
-msgstr ""
+msgstr "Minimum des valeurs de l'élément de données"
 
 #: max_dataelement_value
 msgid "Maximum of data element values"
-msgstr ""
+msgstr "Maximum des valeurs de l'élément de données"
 
 #: property_is_inserted
 msgid "Property already exists in form"
-msgstr ""
+msgstr "La propriété existe déjà dans le formulaire"
 
 #: please_insert_all_required_fields
 msgid "Please insert all required fields"
-msgstr ""
+msgstr "Veuillez insérer tous les champs requis"
 
 #: required_fields_valivation
 msgid "Required fields validation"
-msgstr ""
+msgstr "Validation des champs obligatoires"
 
 #: insert_properties
 msgid "Insert properties"
-msgstr ""
+msgstr "Insérer propriétés"
 
 #: insert_images
 msgid "Insert images"
-msgstr ""
+msgstr "Insérer images"
 
 #: insert_data_elements
 msgid "Insert data elements"
-msgstr ""
+msgstr "Insérer éléments de données"
 
 #: only_enroll_once
 msgid "Only enroll once (per tracked entity instance lifetime)"
@@ -1440,15 +1444,15 @@ msgstr ""
 
 #: capture_coordinates
 msgid "Capture coordinates"
-msgstr ""
+msgstr "Enregistrer les coordonnées"
 
 #: task_stragely
 msgid "Task strategy"
-msgstr ""
+msgstr "Stratégie des tâches"
 
 #: last_month
 msgid "Last month"
-msgstr ""
+msgstr "Mois dernier"
 
 #: pdf_data_entry_form
 msgid "Get PDF for Data Entry"
@@ -1456,67 +1460,70 @@ msgstr "Obtenir le PDF pour la saisie de données"
 
 #: last_3_month
 msgid "Last 3 months"
-msgstr ""
+msgstr "3 derniers mois"
 
 #: last_6_month
 msgid "Last 6 months"
-msgstr ""
+msgstr "6 derniers mois"
 
 #: last_12_month
 msgid "Last 12 months"
-msgstr ""
+msgstr "12 derniers mois"
 
 #: auto_save_data_entry_forms
 msgid "Auto save data entry forms"
-msgstr ""
+msgstr "Enregistrement automatique des formulaires de saisie"
 
 #: save_and_close
 msgid "Save and close"
-msgstr ""
+msgstr "Enregistrer et fermer"
 
 #: delete_this_form
 msgid "Delete this form"
-msgstr ""
+msgstr "Supprimer ce formulaire"
 
 #: auto_save_tracked_entity_forms
 msgid "Auto save tracked entity forms"
-msgstr ""
+msgstr "Auto-enregistrer les formulaires d'entités suivies"
 
 #: enter_a_name
 msgid "Please enter a name between 4 and 150 characters long"
 msgstr ""
+"Veuillez saisir un nom d'une longueur comprise entre 4 et 150 caractères"
 
 #: save_unsuccess
 msgid "Save unsuccessfully"
-msgstr ""
+msgstr "Echec de la sauvegarde"
 
 #: validate_form
 msgid "Validate form"
-msgstr ""
+msgstr "Valider le formulaire"
 
 #: validate_success
 msgid "The registration form passed validation successfully"
-msgstr ""
+msgstr "Le formulaire d'enregistrement a passé la validation avec succès"
 
 #: ask_user_to_complete_program_when_stage_complete
 msgid "Ask user to complete program when stage is complete"
 msgstr ""
+"Demander l'utilisateur de compléter le programme lorsque le stade est "
+"complété"
 
 #: days_since_enrollment_date
 msgid "Days since enrollment date"
-msgstr ""
+msgstr "Jours depuis la date d'enrôlement"
 
 #: date_to_compare
 msgid "Date to compare"
-msgstr ""
+msgstr "Date à comparer"
 
 #: program_indicator_management
 msgid "Program Indicator Management"
-msgstr ""
+msgstr "Gestion des indicateurs de programme"
 
 #: view_program_indicators
 msgid "View program indicators"
-msgstr ""
+msgstr "Visualiser les indicateurs de programme"
 
 #: confirm_delete_prorgam_indicator
 msgid "Are you sure you want to delete this program indicator?"
@@ -1524,83 +1531,83 @@ msgstr "Etes-vous sûr de vouloir supprimer cet indicateur de programme?"
 
 #: program_indicator_details
 msgid "Program indicator details"
-msgstr ""
+msgstr "Détails de l'indicateur de programme"
 
 #: date_for_calculating
 msgid "Date for calculating"
-msgstr ""
+msgstr "Date pour le calcul"
 
 #: create_new_program_indicator
 msgid "Create new program indicator"
-msgstr ""
+msgstr "Créer nouvel indicateur de programme"
 
 #: update_program_indicator
 msgid "Edit program indicator"
-msgstr ""
+msgstr "Editer indicateur de programme"
 
 #: disable_registration_fields
 msgid "Disable registration fields"
-msgstr ""
+msgstr "Désactiver champs d'enrôlement"
 
 #: data_entry
 msgid "Data entry"
-msgstr ""
+msgstr "Saisie de données"
 
 #: combine
 msgid "Combine"
-msgstr ""
+msgstr "Combiner"
 
 #: completed
 msgid "Completed"
-msgstr ""
+msgstr "Terminé"
 
 #: events
 msgid "Events"
-msgstr ""
+msgstr "Évènements"
 
 #: allow_enrollment_at_all_orgunits
 msgid "Allow enrollment at all org units"
-msgstr ""
+msgstr "Permettre l'enrôlement dans toutes les unités d'organisation"
 
 #: other_program_stages
 msgid "Other program stages"
-msgstr ""
+msgstr "Autres étapes de programme"
 
 #: minus
 msgid "Minus"
-msgstr ""
+msgstr "Moins"
 
 #: and_operator
 msgid "AND"
-msgstr ""
+msgstr "AND"
 
 #: or_operator
 msgid "OR"
-msgstr ""
+msgstr "OR"
 
 #: combine_operator
 msgid "COMBINE"
-msgstr ""
+msgstr "COMBINE"
 
 #: filter_by_type
 msgid "Filter by type"
-msgstr ""
+msgstr "Filtrer par type"
 
 #: orgunit_group
 msgid "Organisation unit group"
-msgstr ""
+msgstr "Groupe d'unités d'organisation"
 
 #: enrollement_date
 msgid "Enrollment date"
-msgstr ""
+msgstr "Date d'enrôlement"
 
 #: days_since_incident_date
 msgid "Days since incident date"
-msgstr ""
+msgstr "Jours depuis la date d'incident"
 
 #: view_all
 msgid "View all"
-msgstr ""
+msgstr "Afficher tout"
 
 #: tracked_entity_attribute_visit_schedule
 msgctxt "tracked_entity_attribute_visit_schedule"
@@ -1619,44 +1626,44 @@ msgstr ""
 
 #: selected_program_stages
 msgid "Selected program stages"
-msgstr ""
+msgstr "Sélectionner les stades de programme"
 
 #: orgunit_registered
 msgid "Organisation unit phone number"
-msgstr ""
+msgstr "Numéro de téléphone de l'unité d'organisation"
 
 #: all_users_in_orgunit_registered
 msgid "All users in organisation unit registered"
-msgstr ""
+msgstr "Tous les utilisateurs enregistrés dans l'unité d'organisation"
 
 #: date_in_future
 msgid "Date in future"
-msgstr ""
+msgstr "Date dans le futur"
 
 #: age_years
 msgctxt "age_years"
 msgid "Age(years)"
-msgstr ""
+msgstr "Age (années)"
 
 #: complete_event
 msgid "Complete event"
-msgstr ""
+msgstr "Evènement complété"
 
 #: send_to
 msgid "Send to"
-msgstr ""
+msgstr "Envoyer à"
 
 #: complete_program
 msgid "Complete program"
-msgstr ""
+msgstr "Programme complété"
 
 #: complete_program_stage
 msgid "Complete program stage"
-msgstr ""
+msgstr "Etape de programme complété"
 
 #: user_group
 msgid "User group"
-msgstr ""
+msgstr "Groupe d'utilisateurs"
 
 #: from_the_day_set
 msgid "From the day set"
@@ -1664,28 +1671,28 @@ msgstr ""
 
 #: orgunit_count
 msgid "Organisation unit count"
-msgstr ""
+msgstr "Compte d'unités d'organisation"
 
 #: default_registration_form
 msgid "Default registration form"
-msgstr ""
+msgstr "Formulaire d'enrôlement par défaut"
 
 #: available_dynamic_attributes
 msgid "Available dynamic attributes"
-msgstr ""
+msgstr "Attributs dynamiques disponibles"
 
 #: selected_dynamic_attributes
 msgid "Selected dynamic attributes"
-msgstr ""
+msgstr "Sélectionner les attributs dynamiques"
 
 #: registrationDate
 msgctxt "registrationDate"
 msgid "Registration date"
-msgstr ""
+msgstr "Données d'enregistrement"
 
 #: create_default_registration_form
 msgid "Create default registration form"
-msgstr ""
+msgstr "Créer un formulaire d'enregistrement par défaut"
 
 #: use_birth_date_as_incident_date
 msgid "Set incidence date to date of birth"
@@ -1697,11 +1704,11 @@ msgstr ""
 
 #: default_form_name
 msgid "Default form name"
-msgstr ""
+msgstr "Nom du formulaire par défaut"
 
 #: custom_form_name
 msgid "Custom form name"
-msgstr ""
+msgstr "Nom du formulaire personnalisé"
 
 #: allow_select_enrollment_dates_in_future
 msgid "Allow selecting enrollment dates in future"
@@ -1709,19 +1716,19 @@ msgstr ""
 
 #: allow_select_enrollment_date_in_future
 msgid "Allow future enrollment dates"
-msgstr ""
+msgstr "Permettre dates d'enrôlement futures"
 
 #: allow_select_incident_date_in_future
 msgid "Allow future incidence dates"
-msgstr ""
+msgstr "Permettre dates d'évènement futures"
 
 #: relationship_text
 msgid "Relationship text"
-msgstr ""
+msgstr "Texte relation"
 
 #: relationship_details
 msgid "Relationship details"
-msgstr ""
+msgstr "Détails relation"
 
 #: program_related
 msgid "Program related"
@@ -1729,15 +1736,15 @@ msgstr ""
 
 #: no_program
 msgid "No program"
-msgstr ""
+msgstr "Aucun programme"
 
 #: display_as_radio_button
 msgid "Display as radio button"
-msgstr ""
+msgstr "Afficher en tant que boutons radio"
 
 #: days_scheduled
 msgid "Days scheduled"
-msgstr ""
+msgstr "Jours planifiés"
 
 #: tracked_entity_sms_only
 msgid "Tracked entity instance (SMS only)"
@@ -1753,71 +1760,73 @@ msgstr ""
 
 #: all_users_at_orgunit
 msgid "All users at organisation unit"
-msgstr ""
+msgstr "Tous les utilisateurs rattachés à l'unité d'organisation"
 
 #: send_base_on
 msgid "Send base on"
-msgstr ""
+msgstr "Envoyer sur la base de"
 
 #: characters_without_params
 msgid "Characters without params"
-msgstr ""
+msgstr "Caractères sans les paramètres"
 
 #: scheduled_date
 msgid "scheduled date"
-msgstr ""
+msgstr "date prévue"
 
 #: send_message
 msgid "Send message"
-msgstr ""
+msgstr "Envoyer message"
 
 #: message_is_sent
 msgid "Message is sent"
-msgstr ""
+msgstr "Le message a été envoyé"
 
 #: recipients
 msgid "Recipients"
-msgstr ""
+msgstr "Destinataires"
 
 #: message_type
 msgid "Message type"
-msgstr ""
+msgstr "Type de message"
 
 #: both
 msgid "Both"
-msgstr ""
+msgstr "Les deux"
 
 #: direct_sms
 msgid "Direct SMS"
-msgstr ""
+msgstr "SMS direct"
 
 #: ask_user_to_create_new_event_when_stage_complete
 msgid "Ask user to create new event when stage is complete"
 msgstr ""
+"Demander à l'utilisateur de créer un nouvel évènement lorsque le stade est "
+"complété"
 
 #: data_entry_method
 msgid "Data entry method"
-msgstr ""
+msgstr "Mode de saisie de données"
 
 #: local_identifier
 msgid "Local identifier"
-msgstr ""
+msgstr "Identifiant local"
 
 #: scope
 msgid "Scope"
-msgstr ""
+msgstr "Étendue"
 
 #: drop_down_lists
 msgid "Drop-down lists"
-msgstr ""
+msgstr "Listes déroulantes"
 
 #: radio_buttons
 msgid "Radio buttons"
-msgstr ""
+msgstr "Boutons radio"
 
 #: open_data_entry_form_after_enrolment
 msgid "Open data entry form after enrollment"
-msgstr ""
+msgstr "Ouvrir le formulaire de saisie après enrôlement"
 
 #: report_date_to_use
 msgid "Report date to use"
@@ -1847,11 +1856,11 @@ msgstr ""
 
 #: is_hidden
 msgid "Is hidden ?"
-msgstr ""
+msgstr "Est caché ?"
 
 #: default_value
 msgid "Default value"
-msgstr ""
+msgstr "Valeur par défaut"
 
 #: dashboard_shortcut_to_add_relative
 msgid "Shortcut link to add a relative"
@@ -1863,7 +1872,7 @@ msgstr ""
 
 #: relationship
 msgid "Relationship"
-msgstr ""
+msgstr "Relation"
 
 #: select_at_least_one_scope
 msgid "Select at least one scope for local id"
@@ -1879,7 +1888,7 @@ msgstr ""
 
 #: view_validation_criteria
 msgid "View validation criteria"
-msgstr ""
+msgstr "Visualiser critères de validation"
 
 #: define_registration_form
 msgid "Define registration form"
@@ -1911,11 +1920,11 @@ msgstr ""
 
 #: data_entry_method_for_option_sets
 msgid "Data entry method for option sets"
-msgstr ""
+msgstr "Mode de saisie pour ensembles d'options"
 
 #: users
 msgid "Users"
-msgstr ""
+msgstr "Utilisateurs"
 
 #: attribute_users
 msgid "Attribute users"
@@ -1943,7 +1952,7 @@ msgstr ""
 
 #: unique
 msgid "Unique"
-msgstr ""
+msgstr "Unique"
 
 #: tracked_entity
 msgid "Tracked Entity"
@@ -1959,11 +1968,11 @@ msgstr ""
 
 #: tracked_entity_details
 msgid "Tracked entity details"
-msgstr ""
+msgstr "Détails d'entité suivie"
 
 #: edit_tracked_entity
 msgid "Edit tracked entity"
-msgstr ""
+msgstr "Editer entité suivie"
 
 #: confirm_delete_tracked_entity
 msgid "Are you sure you want to delete this tracked entity?"
@@ -1971,7 +1980,7 @@ msgstr ""
 
 #: option_set
 msgid "Option set"
-msgstr ""
+msgstr "Ensemble d'options"
 
 #: number_of_tracked_entities
 msgid "Number of tracked entities"
@@ -1979,11 +1988,11 @@ msgstr ""
 
 #: incident_date
 msgid "Incident Date"
-msgstr ""
+msgstr "Date d'évènement"
 
 #: enrollment_date
 msgid "Enrollment Date"
-msgstr ""
+msgstr "Date d'enrôlement"
 
 #: please_select_at_least_attribute_for_displaying_in_list
 msgid "Please select at least one attribute to display in list"
@@ -1991,16 +2000,16 @@ msgstr ""
 
 #: in
 msgid "in"
-msgstr ""
+msgstr "dans"
 
 #: whole_system
 msgid "Whole system"
-msgstr ""
+msgstr "Système entier"
 
 #: orgunit
 msgctxt "orgunit"
 msgid "Organisation unit"
-msgstr "Unité de l'Organisation"
+msgstr "Programme au sein de l'unité d'organisation"
 
 #: program_within_orgunit
 msgid "Program within organisation unit"

@@ -1,17 +1,19 @@
 #. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-apps/src/main/webapp/dhis-web-visualizer/i18n/i18n_app.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-apps/src/main/webapp/dhis-web-visualizer/i18n/i18n_app_fr.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-27 09:30+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-10-07 13:57+0000\n"
+"Last-Translator: bpiot <bram.piot@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1444226274.0\n"
 
 #: title
 msgid "DHIS 2 Data Visualizer"
@@ -352,7 +354,7 @@ msgstr "Les ensembles de données"
 #: data_sets
 msgctxt "data_sets"
 msgid "Data sets"
-msgstr ""
+msgstr "Ensembles de données"
 
 #: reporting_rates
 msgid "Reporting rates"
@@ -564,7 +566,7 @@ msgstr "Périodes relatives"
 
 #: periods
 msgid "Periods"
-msgstr ""
+msgstr "Périodes"
 
 #: select_type
 msgid "Select type"
@@ -714,11 +716,11 @@ msgstr "Options"
 
 #: download
 msgid "Download"
-msgstr ""
+msgstr "Télécharger"
 
 #: favorites
 msgid "Favorites"
-msgstr ""
+msgstr "Favoris"
 
 #: chart_title
 msgid "Chart title"
@@ -804,7 +806,7 @@ msgstr "Graphique"
 
 #: write_your_interpretation
 msgid "Write a comment, question or interpretation"
-msgstr ""
+msgstr "Ecrire un commentaire, question ou interprétation"
 
 #: sharing_settings
 msgid "Sharing settings"
@@ -900,51 +902,51 @@ msgstr "Général"
 
 #: go_to_pivot_tables
 msgid "Go to pivot tables"
-msgstr ""
+msgstr "Ouvrir tableaux croisés"
 
 #: open_this_chart_as_table
 msgid "Open this chart as table"
-msgstr ""
+msgstr "Ouvrir ce graphique en tant que tableau"
 
 #: open_last_pivot_table
 msgid "Open last table"
-msgstr ""
+msgstr "Ouvrir dernier tableau"
 
 #: go_to_maps
 msgid "Go to maps"
-msgstr ""
+msgstr "Ouvrir Cartes"
 
 #: open_this_chart_as_map
 msgid "Open this chart as map"
-msgstr ""
+msgstr "Ouvrir ce graphique en tant que carte"
 
 #: open_last_map
 msgid "Open last map"
-msgstr ""
+msgstr "Ouvrir dernière carte"
 
 #: dimensions
 msgid "Dimensions"
-msgstr ""
+msgstr "Dimensions"
 
 #: assigned_categories
 msgid "Assigned categories"
-msgstr ""
+msgstr "Catégories assignées"
 
 #: table_layout
 msgid "Table layout"
-msgstr ""
+msgstr "Mise en page du tableau"
 
 #: type
 msgid "Type"
-msgstr ""
+msgstr "Type"
 
 #: select_sub_units
 msgid "Select sub-units"
-msgstr ""
+msgstr "Sélectionner sous-unités"
 
 #: you_do_not_have_access_to_all_items_in_this_favorite
 msgid "You do not have access to all items in this favorite"
-msgstr ""
+msgstr "Vous n'avez pas accès à tous les éléments de ce favori"
 
 #: meter_chart
 msgid "Meter chart"
@@ -952,135 +954,140 @@ msgstr ""
 
 #: example1
 msgid "Creating a chart"
-msgstr ""
+msgstr "Créer un graphique"
 
 #: example2
 msgid "Select items from any of the dimensions in the left menu"
-msgstr ""
+msgstr "Sélectionner des éléments parmi les dimensions dans le menu de gauche"
 
 #: example3
 msgid "Click Layout to arrange your dimensions on table rows and columns"
 msgstr ""
+"Cliquer Mise en page pour réarranger les dimensions des lignes et colonnes "
+"du tableau"
 
 #: example4
 msgid "Click Update to create your table"
-msgstr ""
+msgstr "Cliquer Mettre à jour pour créer votre tableau"
 
 #: example5
 msgid "Working with a chart"
-msgstr ""
+msgstr "Gestion des graphiques"
 
 #: example6
 msgid "Click Options to show trend lines, target lines, axis titles and more"
-msgstr ""
+msgstr "Cliquer Options pour afficher les lignes de tendance, titres et plus"
 
 #: example7
 msgid "Click Favorites to save your chart for later use"
 msgstr ""
+"Cliquer Favoris pour enregistrer votre graphique pour utilisation ultérieure"
 
 #: example8
 msgid "Click Download to save chart graphics to your computer"
 msgstr ""
+"Cliquer Télécharger pour enregistrer l'image du graphique sur votre "
+"ordinateur"
 
 #: low_to_high
 msgid "Low to high"
-msgstr ""
+msgstr "Bas vers haut"
 
 #: high_to_low
 msgid "High to low"
-msgstr ""
+msgstr "Haut vers bas"
 
 #: sort_order
 msgid "Sort order"
-msgstr ""
+msgstr "Ordre de tri"
 
 #: last_52_weeks
 msgid "Last 52 weeks"
-msgstr ""
+msgstr "52 dernières semaines"
 
 #: last_6_months
 msgid "Last 6 months"
-msgstr ""
+msgstr "6 derniers mois"
 
 #: created_by
 msgid "Created by"
-msgstr ""
+msgstr "Créé par"
 
 #: initializing
 msgid "Initializing"
-msgstr ""
+msgstr "Initialisation en cours"
 
 #: clear_chart
 msgid "Clear chart"
-msgstr ""
+msgstr "Effacer le graphique"
 
 #: this_financial_year
 msgid "This financial year"
-msgstr ""
+msgstr "Année fiscale en cours"
 
 #: user_sub_units
 msgid "User sub-units"
-msgstr ""
+msgstr "Sous-unités utilisateur"
 
 #: user_sub_x2_units
 msgid "User sub-x2-units"
-msgstr ""
+msgstr "Sous-unités utilisateur x2"
 
 #: metadata_id_scheme
 msgid "Meta-data ID scheme"
-msgstr ""
+msgstr "Schéma ID méta-données"
 
 #: chart_layout
 msgid "Chart layout"
-msgstr ""
+msgstr "Mise en page du graphique"
 
 #: aggregation_type
 msgid "Aggregation type"
-msgstr ""
+msgstr "Type d'agrégation"
 
 #: by_data_element
 msgid "By data element"
-msgstr ""
+msgstr "Par élément de données"
 
 #: count
 msgid "Count"
-msgstr ""
+msgstr "Compte"
 
 #: sum
 msgid "Sum"
-msgstr ""
+msgstr "Somme"
 
 #: stddev
 msgid "Standard deviation"
-msgstr ""
+msgstr "Écart-type"
 
 #: variance
 msgid "Variance"
-msgstr ""
+msgstr "Variance"
 
 #: min
 msgid "Min"
-msgstr ""
+msgstr "Min"
 
 #: max
 msgid "Max"
-msgstr ""
+msgstr "Max"
 
 #: this_week
 msgid "This week"
-msgstr ""
+msgstr "Cette semaine"
 
 #: this_quarter
 msgid "This quarter"
-msgstr ""
+msgstr "Ce trimestre"
 
 #: this_month
 msgid "This month"
-msgstr ""
+msgstr "Ce mois"
 
 #: this_sixmonth
 msgid "This six-month"
-msgstr ""
+msgstr "Ce semestre"
 
 #: this_bimonth
 msgid "This bi-month"
@@ -1088,80 +1095,80 @@ msgstr ""
 
 #: excluded_dimensions
 msgid "Excluded dimensions"
-msgstr ""
+msgstr "Dimensions exclues"
 
 #: series_dimensions
 msgid "Series dimensions"
-msgstr ""
+msgstr "Dimension des séries"
 
 #: category_dimensions
 msgid "Category dimensions"
-msgstr ""
+msgstr "Dimensions des catégories"
 
 #: report_filter
 msgid "Report filter"
-msgstr ""
+msgstr "Filtre du rapport"
 
 #: about
 msgid "About"
-msgstr ""
+msgstr "A propos"
 
 #: time_since_last_data_update
 msgid "Time since last data update"
-msgstr ""
+msgstr "Heures depuis dernière MàJ"
 
 #: version
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 #: revision
 msgid "Revision"
-msgstr ""
+msgstr "Révision"
 
 #: build_time
 msgid "Build time"
-msgstr ""
+msgstr "Date de compilation"
 
 #: username
 msgid "Username"
-msgstr ""
+msgstr "Nom d'utilisateur"
 
 #: no_values_found_for_current_selection
 msgid "No values found for the current selection"
-msgstr ""
+msgstr "Pas de valeurs trouvées pour la sélection en cours"
 
 #: error
 msgid "Error"
-msgstr ""
+msgstr "Erreur"
 
 #: warning
 msgid "Warning"
-msgstr ""
+msgstr "Avertissement"
 
 #: event_data_items
 msgid "Event data items"
-msgstr ""
+msgstr "Elements de données évènements"
 
 #: program_indicators
 msgid "Program indicators"
-msgstr ""
+msgstr "Indicateurs de programme"
 
 #: program
 msgid "Program"
-msgstr ""
+msgstr "Programme"
 
 #: select_program
 msgid "Select program"
-msgstr ""
+msgstr "Sélectionner un programme"
 
 #: completed_only
 msgid "Completed only"
-msgstr ""
+msgstr "Uniquement complétés"
 
 #: events
 msgid "Events"
-msgstr ""
+msgstr "Évènements"
 
 #: include_only_completed_events_only
 msgid "Include only completed events"
-msgstr ""
+msgstr "Inclure seulement les évènements complétés"

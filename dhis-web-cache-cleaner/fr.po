@@ -1,17 +1,19 @@
 #. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-apps/src/main/webapp/dhis-web-cache-cleaner/i18n/i18n_app.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-apps/src/main/webapp/dhis-web-cache-cleaner/i18n/i18n_app_fr.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-27 09:30+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-10-01 17:12+0000\n"
+"Last-Translator: bpiot <bram.piot@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1443719538.0\n"
 
 #: home
 msgid "Home"
@@ -27,88 +29,88 @@ msgstr "Accueil DHIS 2"
 
 #: profile
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 #: applications
 msgid "Apps"
-msgstr ""
+msgstr "Applications"
 
 #: more_applications
 msgid "More apps"
-msgstr ""
+msgstr "Plus d'applis"
 
 #: search_apps
 msgid "Search apps"
-msgstr ""
+msgstr "Chercher applications"
 
 #: settings
 msgid "Settings"
-msgstr ""
+msgstr "Paramètres"
 
 #: account
 msgid "Account"
-msgstr ""
+msgstr "Compte"
 
 #: log_out
 msgid "Log out"
-msgstr ""
+msgstr "Déconnexion"
 
 #: about_dhis2
 msgid "About DHIS 2"
-msgstr ""
+msgstr "A propos de DHIS2"
 
 #: session_storage
 msgid "Session Storage"
-msgstr ""
+msgstr "Stockate de session"
 
 #: local_storage
 msgid "Local Storage"
-msgstr ""
+msgstr "Stockage local"
 
 #: indexed_db
 msgid "IndexedDB"
-msgstr ""
+msgstr "IndexedDB"
 
 #: clearing_dhis2_browser_cache
 msgid "DHIS 2 browser cache cleaner"
-msgstr ""
+msgstr "Videur du cache navigateur DHIS2"
 
 #: clears_local_cache
 msgid "This clears selected items from your browser cache"
-msgstr ""
+msgstr "Ceci efface les éléments sélectionnés de votre cache navigateur"
 
 #: proceed_cleaning
 msgid "Are your sure you want to proceed with the cleaning?"
-msgstr ""
+msgstr "Êtes-vous sûr de vouloir procéder au nettoyage ?"
 
 #: cache_cleared
 msgid "Browser cache is cleared."
-msgstr ""
+msgstr "Cache du navigateur vidé"
 
 #: nothing_to_clear
 msgid "Browser cache is empty. Nothing to clear."
-msgstr ""
+msgstr "Le cache du navigateur est vide. Rien à vider."
 
 #: clearing_cache
 msgid "Clearing cache"
-msgstr ""
+msgstr "Vidange du cache"
 
 #: proceed
 msgid "Proceed"
-msgstr ""
+msgstr "Poursuivre"
 
 #: select_all
 msgid "Select all"
-msgstr ""
+msgstr "Sélectionner tout"
 
 #: unselect_all
 msgid "Unselect all"
-msgstr ""
+msgstr "Désélectionner tout"
 
 #: cancel
 msgid "Cancel"
-msgstr ""
+msgstr "Annuler"
 
 #: clear
 msgid "Clear"
-msgstr ""
+msgstr "Effacer"
