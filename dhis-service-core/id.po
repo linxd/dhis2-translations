@@ -1,18 +1,20 @@
 #. #-- Application name -----------------------------------------------------------#
 #. extracted from /home/jason/development/dhis2/dhis-2//dhis-services/dhis-service-core/src/main/resources/i18n_global.properties, /home/jason/development/dhis2/dhis-2//dhis-services/dhis-service-core/src/main/resources/i18n_global_id.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-04 06:50+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-11-30 15:12+0000\n"
+"Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1448896368.0\n"
 
 #: district_health_information_software
 msgid "District Health Information Software 2"
@@ -54,7 +56,7 @@ msgstr "Sumber tidak kenal"
 
 #: logged_in
 msgid "Logged in"
-msgstr "Logged in"
+msgstr "Login"
 
 #: not_logged_in
 msgid "Not logged in"
@@ -106,7 +108,7 @@ msgstr "Maintenance"
 
 #: services
 msgid "Services"
-msgstr "Services"
+msgstr "Layanan"
 
 #. #-- dhis-ouwt ------------------------------------------------------------------#
 #: org_unit_tree
@@ -131,7 +133,7 @@ msgstr "Terjadi kesalahan"
 
 #: select_organisationunit
 msgid "You must select an OrganisationUnit from the tree."
-msgstr "Anda harus memilih Organisasi Unit dari pohon"
+msgstr "Anda harus memilih Unit Organisasi dari struktur "
 
 #. #-- Modules --------------------------------------------------------------------#
 #: dhis-web-maintenance-datadictionary
@@ -155,23 +157,22 @@ msgstr "pengguna"
 msgid "Data Administration"
 msgstr "administrasi data"
 
-#: dhis-web-maintenance-settings
-msgctxt "dhis-web-maintenance-settings"
-"dhis-web-maintenance-settings"
-msgid "Settings"
-msgstr "pengaturan"
+#~ msgctxt "dhis-web-maintenance-settings"
+#~ "dhis-web-maintenance-settings"
+#~ msgid "Settings"
+#~ msgstr "pengaturan"
 
 #: dhis-web-maintenance-program
 msgid "Programs / Attributes"
-msgstr ""
+msgstr "Program"
 
 #: dhis-web-maintenance-mobile
 msgid "Mobile Configuration"
-msgstr "konfigurasi mobil"
+msgstr "konfigurasi mobile"
 
 #: dhis-web-maintenance-appmanager
 msgid "App Management"
-msgstr ""
+msgstr "Manajemen Apps"
 
 #: dhis-web-caseentry
 msgid "Individual Records"
@@ -195,15 +196,15 @@ msgstr "SIG"
 
 #: dhis-web-event-capture
 msgid "Event Capture"
-msgstr ""
+msgstr "Kegiatan"
 
 #: dhis-web-event-reports
 msgid "Event Reports"
-msgstr ""
+msgstr "Laporan Kegiatan"
 
 #: dhis-web-event-visualizer
 msgid "Event Visualizer"
-msgstr ""
+msgstr "Tampilan Aktivitas Kegiatan"
 
 #: dhis-web-tracker-capture
 msgid "Tracker Capture"
@@ -280,7 +281,7 @@ msgstr "Tenaga manusia"
 
 #: dhis-web-maintenance-rbf
 msgid "Maintenance RBF"
-msgstr ""
+msgstr "Pemeliharaan RBF"
 
 #. #-- Intro modules -------------------------------------------------------------#
 #: intro_dhis-web-maintenance-datadictionary
@@ -339,7 +340,7 @@ msgstr ""
 #: intro_dhis-web-maintenance-appmanager
 msgid ""
 "Access and upload apps, which are extensions to the standard user interface."
-msgstr ""
+msgstr "Akses dan upload apps, yang diperluas ke standar pengguna"
 
 #: intro_dhis-web-caseentry
 msgid ""
@@ -437,7 +438,7 @@ msgstr ""
 
 #: intro_dhis-web-event-capture
 msgid "Capture information about single events."
-msgstr ""
+msgstr "Menangkap informasi mengenai suatu kegiatan "
 
 #: intro_dhis-web-tracker-capture
 msgid "Capture information about trackable entities."
@@ -517,11 +518,11 @@ msgstr "online"
 
 #: next
 msgid "Next"
-msgstr ""
+msgstr "Selanjutnya"
 
 #: previous
 msgid "Previous"
-msgstr ""
+msgstr "Sebelumnya"
 
 #: online_notification
 msgid "You are online"
@@ -537,7 +538,7 @@ msgstr "Terdapat data tersimpan di tempat lokal, mohon unggah ke server"
 
 #: uploading_data_notification
 msgid "Uploading locally stored data to the server"
-msgstr ""
+msgstr "Unggah data lokal ke server"
 
 #: sync_now
 msgid "Upload"
@@ -545,11 +546,11 @@ msgstr "unggah"
 
 #: discard
 msgid "Discard"
-msgstr ""
+msgstr "Dibatalkan"
 
 #: remove_local_data
 msgid "Are you sure you want to remove the locally stored data?"
-msgstr ""
+msgstr "Apakah anda yakin ingin menghapus data?"
 
 #: sync_success
 msgid "Upload to server was successful"
@@ -582,7 +583,7 @@ msgstr "Ubah kata kunci"
 
 #: expired_password
 msgid "Your password has expired, please change"
-msgstr ""
+msgstr "Password telah kadaluarsa, Mohon diganti "
 
 #: date_selector
 msgid "Choose a date"
@@ -594,7 +595,7 @@ msgstr "Sembunyikan menu"
 
 #: extend_menu
 msgid "Extend menu"
-msgstr ""
+msgstr "Menu lanjutan"
 
 #: show_menu
 msgid "Show menu"
@@ -689,7 +690,7 @@ msgstr "batal"
 
 #: clone
 msgid "Clone"
-msgstr ""
+msgstr "Penggandaan"
 
 #: add
 msgctxt "add"
@@ -714,7 +715,7 @@ msgstr "hapus"
 
 #: deleting
 msgid "Deleting"
-msgstr ""
+msgstr "Menghapus"
 
 #: close
 msgid "Close"
@@ -798,37 +799,39 @@ msgstr "obyek tidak dihapus karena sedang digunakan obyek lain"
 
 #: id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: name_in_use
 msgid "The name is already in use. Please choose a different name"
-msgstr ""
+msgstr "Nama tersebut telah digunakan. Silakan pilih nama yang lain"
 
 #: code_in_use
 msgid "The code is already in use. Please choose a different code"
-msgstr ""
+msgstr "Kode telah digunakan. Silakan pilih kode yang lain"
 
 #: short_name_in_use
 msgid "The short name is already in use. Please choose a different short name"
-msgstr ""
+msgstr "Nama tersebut sudah digunakan. Silakan pilih nama yang lain"
 
 #: unsupported_browser
 msgid ""
 "Please upgrade your browser. Internet Explorer version 8 and earlier is not "
 "supported."
 msgstr ""
+"Upgrade browser anda. Internet explorer versi 8 dan versi sebelumnya tidak "
+"mendukung sistem ini."
 
 #: email_not_configured_for_system
 msgid "Email is not configured for the system"
-msgstr ""
+msgstr "Email ini tidak dikonfigurasikan sesuai dengan sistem ini "
 
 #: no_user_credentials
 msgid "No user credentials"
-msgstr ""
+msgstr "Tidak adanya jaminan keamanan identitas pengguna"
 
 #: user_does_not_have_valid_email
 msgid "User does not have a valid email"
-msgstr ""
+msgstr "Pengguna tidak memiliki email yang valid"
 
 #: user_has_critical_authorities
 msgid "User has critical authorities"
@@ -836,15 +839,15 @@ msgstr ""
 
 #: default
 msgid "Default"
-msgstr ""
+msgstr "Otomatis sesuai dengan bawaan"
 
 #: left_brackets
 msgid "Left brackets"
-msgstr ""
+msgstr "Kurung sebelah kiri"
 
 #: right_brackets
 msgid "Right brackets"
-msgstr ""
+msgstr "Kurung sebelah kanan"
 
 #: multiply
 msgid "Multiply"
@@ -2809,9 +2812,8 @@ msgstr "Aktif"
 msgid "Type"
 msgstr "Tipe"
 
-#: value_type
-msgid "Value type"
-msgstr "Tipe Nilai"
+#~ msgid "Value type"
+#~ msgstr "Tipe Nilai"
 
 #: actual
 msgid "Actual"
@@ -3937,7 +3939,15 @@ msgstr ""
 msgid "Tracked entity instance count"
 msgstr ""
 
-#: dhis-web-settings
-msgctxt "dhis-web-settings"
+#~ msgctxt "dhis-web-settings"
+#~ msgid "Settings"
+#~ msgstr "pengaturan"
+
+#: dhis-web-maintenance-settings
+msgctxt "dhis-web-maintenance-settings"
 msgid "Settings"
 msgstr "pengaturan"
+
+#: value_type
+msgid "Value Type"
+msgstr "Tipe Nilai"
