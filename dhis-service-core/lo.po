@@ -1,18 +1,20 @@
 #. #-- Application name -----------------------------------------------------------#
 #. extracted from /home/jason/development/dhis2/dhis-2//dhis-services/dhis-service-core/src/main/resources/i18n_global.properties, /home/jason/development/dhis2/dhis-2//dhis-services/dhis-service-core/src/main/resources/i18n_global_lo.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-04 06:50+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-10-20 02:48+0000\n"
+"Last-Translator: viengthong <v.chongwaxiong@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: lo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1445309326.0\n"
 
 #: district_health_information_software
 msgid "District Health Information Software 2"
@@ -156,11 +158,10 @@ msgstr "ຜູ້ນໍາໃຊ້"
 msgid "Data Administration"
 msgstr "ຜູ້ບໍລິຫານຈັດການຂໍ້ມູນ"
 
-#: dhis-web-maintenance-settings
-msgctxt "dhis-web-maintenance-settings"
-"dhis-web-maintenance-settings"
-msgid "Settings"
-msgstr "ຕັ້ງຄ່າ"
+#~ msgctxt "dhis-web-maintenance-settings"
+#~ "dhis-web-maintenance-settings"
+#~ msgid "Settings"
+#~ msgstr "ຕັ້ງຄ່າ"
 
 #: dhis-web-maintenance-program
 msgid "Programs / Attributes"
@@ -212,7 +213,7 @@ msgstr "​ການ​ຕິດ​ຕາມ​ການ​ເກັບ​ກຳ
 
 #: dhis-web-cache-cleaner
 msgid "Browser Cache Cleaner"
-msgstr ""
+msgstr "ລ້າງຂໍ້ມູນໃນ Browser"
 
 #: dhis-web-reporting
 msgid "Reports"
@@ -784,15 +785,15 @@ msgstr "ID"
 
 #: name_in_use
 msgid "The name is already in use. Please choose a different name"
-msgstr ""
+msgstr "ຊື່ນີ້ມີແລ້ວ. ກະລຸນາເລືອກຊື່ອື່ນ"
 
 #: code_in_use
 msgid "The code is already in use. Please choose a different code"
-msgstr ""
+msgstr "ລະຫັດນີ້ມີແລ້ວ. ກະລຸນາເລືອກລະຫັດອື່ນ"
 
 #: short_name_in_use
 msgid "The short name is already in use. Please choose a different short name"
-msgstr ""
+msgstr "ຊື່ສັ້ນນີ້ມີແລ້ວ. ກະລຸນາເລືອກຊື່ອື່ນ"
 
 #: unsupported_browser
 msgid ""
@@ -818,7 +819,7 @@ msgstr ""
 
 #: default
 msgid "Default"
-msgstr ""
+msgstr "ຄ່າຕັ້ງຕົ້ນ"
 
 #: left_brackets
 msgid "Left brackets"
@@ -858,12 +859,12 @@ msgstr ""
 
 #: normal
 msgid "Normal"
-msgstr ""
+msgstr "ປົກກະຕິ"
 
 #. #-- Relative periods -----------------------------------------------------------#
 #: LAST_MONTH
 msgid "Last month"
-msgstr ""
+msgstr "ເດືອນຜ່ານມາ"
 
 #: LAST_BIMONTH
 msgid "Last bi-month"
@@ -871,7 +872,7 @@ msgstr ""
 
 #: LAST_QUARTER
 msgid "Last quarter"
-msgstr ""
+msgstr "ໄຕມາດຜ່ານມາ"
 
 #: LAST_SIX_MONTH
 msgid "Last six-month"
@@ -887,7 +888,7 @@ msgstr ""
 
 #: THIS_YEAR
 msgid "This year"
-msgstr ""
+msgstr "ປີນີ້"
 
 #: MONTHS_LAST_YEAR
 msgid "Months last year"
@@ -903,19 +904,19 @@ msgstr ""
 
 #: LAST_5_YEARS
 msgid "Last 5 years"
-msgstr ""
+msgstr "5 ປີຜ່ານມາ"
 
 #: LAST_12_MONTHS
 msgid "Last 12 months"
-msgstr ""
+msgstr "12 ເດືອນຜ່ານມາ"
 
 #: LAST_6_MONTHS
 msgid "Last 6 months"
-msgstr ""
+msgstr "6 ເດືອນຜ່ານມາ"
 
 #: LAST_3_MONTHS
 msgid "Last 3 months"
-msgstr ""
+msgstr "3 ເດືອນຜ່ານມາ"
 
 #: LAST_6_BIMONTHS
 msgid "Last 6 bi-months"
@@ -923,7 +924,7 @@ msgstr ""
 
 #: LAST_4_QUARTERS
 msgid "Last 4 quarters"
-msgstr ""
+msgstr "4 ໄຕມາດຜ່ານມາ"
 
 #: LAST_2_SIXMONTHS
 msgid "Last 2 six-months"
@@ -2190,7 +2191,7 @@ msgstr "ວັນທີ່"
 
 #: date_time
 msgid "Date & Time"
-msgstr ""
+msgstr "ວັນທີ່ & ເວລາ"
 
 #: yes_no
 msgctxt "yes_no"
@@ -2222,15 +2223,15 @@ msgstr ""
 #. #-- Validation messages -------------------------------------------------------#
 #: value_must_integer
 msgid "Value must be an integer"
-msgstr ""
+msgstr "ຄ່າຕ້ອງເປັນຈຳນວນຖ້ວນ"
 
 #: value_must_number
 msgid "Value must be a number"
-msgstr ""
+msgstr "ຄ່າຕ້ອງເປັນຕົວເລກ"
 
 #: value_must_positive_integer
 msgid "Value must be a positive integer"
-msgstr ""
+msgstr "ຄ່າຕ້ອງເປັນຈຳນວນບວກ"
 
 #: value_must_negative_integer
 msgid "Value must be a negative integer"
@@ -2242,7 +2243,7 @@ msgstr ""
 
 #: value_must_unit_interval
 msgid "Value must be a unit interval (between 0 and 1)"
-msgstr ""
+msgstr "ຄ່າຕ້ອງຢູ່ໃນລະຫວ່າງ 0 ແລະ 1"
 
 #: value_must_percentage
 msgid "Value must be a percentage (between 0 and 100)"
@@ -2281,7 +2282,7 @@ msgstr "Old password"
 
 #: new_password
 msgid "New password"
-msgstr ""
+msgstr "ລະຫັດໃໝ່"
 
 #: retype_new_password
 msgid "Retype new password"
@@ -2318,7 +2319,7 @@ msgstr "ສິດທີ່ຜູ້ໃຊ້"
 
 #: update_user_success
 msgid "Account was updated"
-msgstr "ບັນຊີຜູ້ໃຊ້ບໍ່ໄດ້ປັບປຸງເທື່ອ"
+msgstr "ບັນຊີທ່ານໄດ້ຮັບການປັບປຸງແລ້ວ"
 
 #: wrong_password
 msgid "Wrong password"
@@ -2785,9 +2786,8 @@ msgstr "Active"
 msgid "Type"
 msgstr "ປະເພດ"
 
-#: value_type
-msgid "Value type"
-msgstr "Value Type"
+#~ msgid "Value type"
+#~ msgstr "Value Type"
 
 #: actual
 msgid "Actual"
@@ -2835,7 +2835,7 @@ msgstr "Data element concepts"
 
 #: organisation_units
 msgid "Organisation units"
-msgstr ""
+msgstr "ໂຄງຮ່າງການຈັດຕັ້ງ"
 
 #: organisation_unit_groups
 msgid "Organisation unit groups"
@@ -2963,7 +2963,7 @@ msgstr ""
 
 #: org_unit_group_does_not_exist
 msgid "Organisation unit group does not exist"
-msgstr ""
+msgstr "ບໍ່ມີກຸ່ມຂອງໂຄງຮ່າງການຈັດຕັ້ງ"
 
 #: id_not_numeric
 msgid "Identifier is not numeric"
@@ -3068,19 +3068,19 @@ msgstr "<="
 
 #: and_title
 msgid "And"
-msgstr ""
+msgstr "ແລະ"
 
 #: or_title
 msgid "Or"
-msgstr ""
+msgstr "ຫຼື"
 
 #: equal_to_title
 msgid "Equal to"
-msgstr ""
+msgstr "ເທົ່າກັບ"
 
 #: not_equal_to_title
 msgid "Not equal to"
-msgstr ""
+msgstr "ບໍ່ເທົ່າ"
 
 #: less_than_title
 msgid "Less than"
@@ -3096,7 +3096,7 @@ msgstr ""
 
 #: greater_than_or_equal_to_title
 msgid "Greater than or equal to"
-msgstr ""
+msgstr "ໃຫ່ຍກວ່າຫຼືເທົ່າກັບ"
 
 #. #-- Constant ------------------------------------------------------------------#
 #: constant
@@ -3178,7 +3178,7 @@ msgstr "This object will be private to yourself"
 
 #: created_by
 msgid "Created by"
-msgstr ""
+msgstr "ສ້າງໂດຍ"
 
 #. #-- Countries / flags ---------------------------------------------------------#
 #: afghanistan
@@ -3758,7 +3758,7 @@ msgstr ""
 #: email_restore_1_1st_paragraph_after_application_title
 msgctxt "email_restore_1_1st_paragraph_after_application_title"
 msgid "user account."
-msgstr ""
+msgstr "ບັນຊີຜູ້ໃຊ້"
 
 #: email_restore_1_2nd_paragraph
 msgctxt "email_restore_1_2nd_paragraph"
@@ -3784,7 +3784,7 @@ msgstr ""
 #: email_restore_2_1st_paragraph_after_application_title
 msgctxt "email_restore_2_1st_paragraph_after_application_title"
 msgid "user account."
-msgstr ""
+msgstr "ບັນຊີຜູ້ໃຊ້"
 
 #: email_restore_2_2nd_paragraph
 msgctxt "email_restore_2_2nd_paragraph"
@@ -3815,7 +3815,7 @@ msgstr ""
 #: email_invite_1_1st_paragraph_after_application_title
 msgctxt "email_invite_1_1st_paragraph_after_application_title"
 msgid "user account."
-msgstr ""
+msgstr "ບັນຊີຜູ້ໃຊ້"
 
 #: email_invite_1_2nd_paragraph
 msgctxt "email_invite_1_2nd_paragraph"
@@ -3840,7 +3840,7 @@ msgstr ""
 #: email_invite_2_1st_paragraph_after_application_title
 msgctxt "email_invite_2_1st_paragraph_after_application_title"
 msgid "user account."
-msgstr ""
+msgstr "ບັນຊີຜູ້ໃຊ້"
 
 #: email_invite_2_2nd_paragraph
 msgctxt "email_invite_2_2nd_paragraph"
@@ -3923,7 +3923,15 @@ msgstr ""
 msgid "Tracked entity instance count"
 msgstr ""
 
-#: dhis-web-settings
-msgctxt "dhis-web-settings"
+#~ msgctxt "dhis-web-settings"
+#~ msgid "Settings"
+#~ msgstr "ຕັ້ງຄ່າ"
+
+#: dhis-web-maintenance-settings
+msgctxt "dhis-web-maintenance-settings"
 msgid "Settings"
 msgstr "ຕັ້ງຄ່າ"
+
+#: value_type
+msgid "Value Type"
+msgstr "Value Type"

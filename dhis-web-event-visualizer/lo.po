@@ -1,17 +1,19 @@
 #. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-apps/src/main/webapp/dhis-web-event-visualizer/i18n/i18n_app.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-10-20 05:37+0000\n"
+"Last-Translator: viengthong <v.chongwaxiong@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: lo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1445319437.0\n"
 
 #: dimensions
 msgid "Dimensions"
@@ -23,7 +25,7 @@ msgstr ""
 
 #: show_totals
 msgid "Show totals"
-msgstr ""
+msgstr "ສະແດງຜົນລວມ"
 
 #: show_subtotals
 msgid "Show sub-totals"
@@ -39,7 +41,7 @@ msgstr ""
 
 #: font_size
 msgid "Font size"
-msgstr ""
+msgstr "ຂະໜາດຕົວອັກສອນ"
 
 #: digit_group_separator
 msgid "Digit group separator"
@@ -71,11 +73,11 @@ msgstr ""
 
 #: organisation_unit
 msgid "Organisation unit"
-msgstr ""
+msgstr "ໂຄງຮ່າງການຈັດຕັ້ງ"
 
 #: organisation_units
 msgid "Organisation units"
-msgstr ""
+msgstr "ໂຄງຮ່າງການຈັດຕັ້ງ"
 
 #: parent_organisation_unit
 msgid "Parent organisation unit"
@@ -91,19 +93,19 @@ msgstr ""
 
 #: create
 msgid "Create"
-msgstr ""
+msgstr "ສ້າງ"
 
 #: update
 msgid "Update"
-msgstr ""
+msgstr "ປັບປຸງ"
 
 #: cancel
 msgid "Cancel"
-msgstr ""
+msgstr "ຍົກເລີກ"
 
 #: delete_
 msgid "Delete"
-msgstr ""
+msgstr "ລົບ"
 
 #: save
 msgid "Save"
@@ -123,15 +125,15 @@ msgstr ""
 
 #: search_for_favorites
 msgid "Search for favorites"
-msgstr ""
+msgstr "ຊອກຫາ"
 
 #: overwrite_favorite
 msgid "Overwrite favorite"
-msgstr ""
+msgstr "ຂຽນທັບ"
 
 #: delete_favorite
 msgid "Delete favorite"
-msgstr ""
+msgstr "ລົບ"
 
 #: prev
 msgid "Prev"
@@ -139,15 +141,15 @@ msgstr ""
 
 #: next
 msgid "Next"
-msgstr ""
+msgstr "ຕໍ່ໄປ"
 
 #: rename
 msgid "Rename"
-msgstr ""
+msgstr "ປ່ຽນຊື່"
 
 #: overwrite
 msgid "Overwrite"
-msgstr ""
+msgstr "ຂຽນທັບ"
 
 #: share_with_other_people
 msgid "Share with other people"
@@ -183,23 +185,23 @@ msgstr ""
 
 #: selected
 msgid "Selected"
-msgstr ""
+msgstr "ເລືອກແລ້ວ"
 
 #: indicators
 msgid "Indicators"
-msgstr ""
+msgstr "ຕົວຊີ້ວັດ"
 
 #: all_indicator_groups
 msgid "All indicator groups"
-msgstr ""
+msgstr "ກຸ່ມຕົວຊີ້ວັດທັງໝົດ"
 
 #: select_indicator_group
 msgid "Select indicator group"
-msgstr ""
+msgstr "ເລືອກກຸ່ມຕົວຊີ້ວັດ"
 
 #: data_elements
 msgid "Data elements"
-msgstr ""
+msgstr "ອົງປະກອບຂໍ້ມູນ"
 
 #: all_data_element_groups
 msgid "All data element groups"
@@ -207,15 +209,15 @@ msgstr ""
 
 #: select_data_element_group
 msgid "Select data element group"
-msgstr ""
+msgstr "ເລືອກກຸ່ມອົງປະກອບຂໍ້ມູນ"
 
 #: data_sets
 msgid "Data sets"
-msgstr ""
+msgstr "ຊຸດຂໍ້ມູນ"
 
 #: reporting_rates
 msgid "Reporting rates"
-msgstr ""
+msgstr "ອັດຕາການລາຍງານ"
 
 #: periods
 msgid "Periods"
@@ -243,19 +245,19 @@ msgstr ""
 
 #: months
 msgid "Months"
-msgstr ""
+msgstr "ເດືອນ"
 
 #: last_month
 msgid "Last month"
-msgstr ""
+msgstr "ເດືອນຜ່ານມາ"
 
 #: last_3_months
 msgid "Last 3 months"
-msgstr ""
+msgstr "3 ເດືອນຜ່ານມາ"
 
 #: last_12_months
 msgid "Last 12 months"
-msgstr ""
+msgstr "12 ເດືອນຜ່ານມາ"
 
 #: bimonths
 msgid "Bi-months"
@@ -271,11 +273,11 @@ msgstr ""
 
 #: quarters
 msgid "Quarters"
-msgstr ""
+msgstr "ໄຕມາດ"
 
 #: last_quarter
 msgid "Last quarter"
-msgstr ""
+msgstr "ໄຕມາດຜ່ານມາ"
 
 #: last_4_quarters
 msgid "Last 4 quarters"
@@ -323,11 +325,11 @@ msgstr ""
 
 #: prev_year
 msgid "Prev year"
-msgstr ""
+msgstr "ປີກາຍ"
 
 #: next_year
 msgid "Next year"
-msgstr ""
+msgstr "ປີຕໍ່ໄປ"
 
 #: select_all_children
 msgid "Select all children"
@@ -335,15 +337,15 @@ msgstr ""
 
 #: table
 msgid "Table"
-msgstr ""
+msgstr "ຕາຕະລາງ"
 
 #: chart
 msgid "Chart"
-msgstr ""
+msgstr "ແທ່ງ"
 
 #: map
 msgid "Map"
-msgstr ""
+msgstr "ແຜນທີ່"
 
 #: home
 msgid "Home"
@@ -399,7 +401,7 @@ msgstr ""
 
 #: options
 msgid "Options"
-msgstr ""
+msgstr "ທາງເລືອກ"
 
 #: download
 msgid "Download"
@@ -423,11 +425,11 @@ msgstr ""
 
 #: low_to_high
 msgid "Low to high"
-msgstr ""
+msgstr "ນ້ອຍ ຫາ ໃຫຍ່"
 
 #: high_to_low
 msgid "High to low"
-msgstr ""
+msgstr "ໃຫຍ່ ຫາ ນ້ອຍ"
 
 #: top_limit
 msgid "Top limit"
@@ -451,7 +453,7 @@ msgstr ""
 
 #: interpretation
 msgid "interpretation"
-msgstr ""
+msgstr "ການແປຜົນ"
 
 #: write_your_interpretation
 msgid "Write a comment question or interpretation"
@@ -475,19 +477,19 @@ msgstr ""
 
 #: totals
 msgid "Totals"
-msgstr ""
+msgstr "ລວມ"
 
 #: details
 msgid "Details"
-msgstr ""
+msgstr "ລາຍລະອຽດ"
 
 #: select_boundaries_and_groups
 msgid "Select boundaries and groups"
-msgstr ""
+msgstr "ເລືອກຂອບເຂດ ແລະ ກຸ່ມ"
 
 #: select_organisation_unit_groups
 msgid "Select organisation unit groups"
-msgstr ""
+msgstr "ເລືອກກຸ່ມໂຄງຮ່າງການຈັດຕັ້ງ"
 
 #: allow_external_access
 msgid "Allow external access"
@@ -499,7 +501,7 @@ msgstr ""
 
 #: all_indicators
 msgid "All indicators"
-msgstr ""
+msgstr "ຕົວຊີ້ວັດທັງໝົດ"
 
 #: all_data_elements
 msgid "All data elements"
@@ -515,7 +517,7 @@ msgstr ""
 
 #: monthly
 msgid "Monthly"
-msgstr ""
+msgstr "ລາຍເດືອນ"
 
 #: bimonthly
 msgid "Bi-monthly"
@@ -523,7 +525,7 @@ msgstr ""
 
 #: quarterly
 msgid "Quarterly"
-msgstr ""
+msgstr "ໄຕມາດ"
 
 #: sixmonthly
 msgid "Six-monthly"
@@ -535,7 +537,7 @@ msgstr ""
 
 #: yearly
 msgid "Yearly"
-msgstr ""
+msgstr "ລາຍປີ"
 
 #: financial_oct
 msgid "Financial October"
@@ -571,11 +573,11 @@ msgstr ""
 
 #: top
 msgid "Top"
-msgstr ""
+msgstr "ເທິງ"
 
 #: bottom
 msgid "Bottom"
-msgstr ""
+msgstr "ລຸ່ມ"
 
 #: limit
 msgid "Limit"
@@ -667,7 +669,7 @@ msgstr ""
 
 #: show_values
 msgid "Show values"
-msgstr ""
+msgstr "ສະແດງຄ່າ"
 
 #: hide_empty_category_items
 msgid "Hide empty category items"
@@ -691,7 +693,7 @@ msgstr ""
 
 #: axes
 msgid "Axes"
-msgstr ""
+msgstr "ລວງນອນ"
 
 #: general
 msgid "General"
@@ -703,7 +705,7 @@ msgstr ""
 
 #: open_this_chart_as_table
 msgid "Open this chart as table"
-msgstr ""
+msgstr "ປ່ຽນໄປຫາຕາຕະລາງ"
 
 #: open_last_table
 msgid "Open last table"
@@ -751,7 +753,7 @@ msgstr ""
 
 #: example8
 msgid "Click Download to save chart graphics to your computer"
-msgstr ""
+msgstr "ກົດປຸ່ມ ດາວໂຫຼດ ເພື່ອບັນທຶກເຂົ້າເຄື່ອງຄອມພິວຂອງທ່ານ"
 
 #: last_52_weeks
 msgid "Last 52 weeks"
@@ -759,7 +761,7 @@ msgstr ""
 
 #: last_6_months
 msgid "Last 6 months"
-msgstr ""
+msgstr "6 ເດືອນຜ່ານມາ"
 
 #: initializing
 msgid "Initializing"
@@ -767,7 +769,7 @@ msgstr ""
 
 #: created_by
 msgid "Created by"
-msgstr ""
+msgstr "ສ້າງໂດຍ"
 
 #: clear_event_chart
 msgid "Clear event chart"
@@ -779,7 +781,7 @@ msgstr ""
 
 #: no
 msgid "No"
-msgstr ""
+msgstr "ບໍ່"
 
 #: output_type
 msgid "Output type"
@@ -843,11 +845,11 @@ msgstr ""
 
 #: min
 msgid "Min"
-msgstr ""
+msgstr "ນ້ອຍສຸດ"
 
 #: max
 msgid "Max"
-msgstr ""
+msgstr "ໃຫຍ່ສຸດ"
 
 #: number_of_events
 msgid "Number of events"
@@ -871,15 +873,15 @@ msgstr ""
 
 #: duplicate
 msgid "Duplicate"
-msgstr ""
+msgstr "ຊ້ຳ"
 
 #: remove
 msgid "Remove"
-msgstr ""
+msgstr "ລົບ"
 
 #: select
 msgid "Select"
-msgstr ""
+msgstr "ເລືອກ"
 
 #: this_week
 msgid "This week"
@@ -891,7 +893,7 @@ msgstr ""
 
 #: this_month
 msgid "This month"
-msgstr ""
+msgstr "ເດືອນນີ້"
 
 #: this_sixmonth
 msgid "This six-month"
@@ -923,7 +925,7 @@ msgstr ""
 
 #: username
 msgid "Username"
-msgstr ""
+msgstr "ຊື່ຜູ້ໃຊ້"
 
 #: no_values_found_for_current_selection
 msgid "No values found for the current selection"
@@ -931,11 +933,11 @@ msgstr ""
 
 #: error
 msgid "Error"
-msgstr ""
+msgstr "ຜິດພາດ"
 
 #: warning
 msgid "Warning"
-msgstr ""
+msgstr "ແຈ້ງເຕືອນ"
 
 #: completed_only
 msgid "Completed only"

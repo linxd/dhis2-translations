@@ -1,17 +1,19 @@
 #. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-dashboard-integration/src/main/resources/org/hisp/dhis/dashboard/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-dashboard-integration/src/main/resources/org/hisp/dhis/dashboard/i18n_module_lo.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-04 06:50+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-10-20 02:58+0000\n"
+"Last-Translator: viengthong <v.chongwaxiong@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: lo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1445309921.0\n"
 
 #: dashboard
 msgid "Dashboard"
@@ -129,11 +131,11 @@ msgstr ""
 
 #: mark_followup
 msgid "Mark for followup"
-msgstr ""
+msgstr "ໝາຍເພື່ອຕິດຕາມ"
 
 #: clear_followup
 msgid "Clear followup"
-msgstr ""
+msgstr "ລຶບການຕິດຕາມ"
 
 #: read
 msgid "Read"
@@ -141,7 +143,7 @@ msgstr "ອ່ານ"
 
 #: delete
 msgid "Delete"
-msgstr ""
+msgstr "ລົບ"
 
 #: confirm_delete_message
 msgid "Are you sure you want to delete the message?"
@@ -149,7 +151,7 @@ msgstr "ທ່ານແນ່ໃຈແລ້ວບໍ່ທີ່ຈະລົບ
 
 #: confirm_delete_all_selected_messages
 msgid "Are you sure you want to delete all selected messages?"
-msgstr ""
+msgstr "ທ່ານແນ່ໃຈທີ່ຈະລົບຂໍ້ຄວາມອອກບໍ?"
 
 #: no_messages_selected
 msgid "No messages selected"
@@ -165,7 +167,7 @@ msgstr "ຂໍ້ຄວາມທີ່ຍັງບໍ່ທັນໄດ້ອ່
 
 #: messages_were_deleted
 msgid "Messages were deleted"
-msgstr ""
+msgstr "ຂໍ້ຄວາມຖືກລົບແລ້ວ"
 
 #: discard
 msgid "Discard"
@@ -526,7 +528,7 @@ msgstr ""
 
 #: download
 msgid "Download"
-msgstr ""
+msgstr "ດາວໂຫຼດ"
 
 #: api_link
 msgid "API link"

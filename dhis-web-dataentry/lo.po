@@ -1,17 +1,19 @@
 #. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-dataentry/src/main/resources/org/hisp/dhis/de/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-dataentry/src/main/resources/org/hisp/dhis/de/i18n_module_lo.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-04 06:50+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-10-20 02:59+0000\n"
+"Last-Translator: viengthong <v.chongwaxiong@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: lo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1445309998.0\n"
 
 #: dataelement_comment
 msgid "Comment"
@@ -340,7 +342,7 @@ msgstr "ເທີງ"
 
 #: value
 msgid "Value"
-msgstr ""
+msgstr "ຄ່າ"
 
 #: no_response_from_server
 msgid "No response from server, please check connectivity and try again"
@@ -416,7 +418,7 @@ msgstr "ບໍ່ມີໃນລະບົບ"
 
 #: does_not_exist_in_data_set
 msgid "does not exist in data set"
-msgstr ""
+msgstr "ບໍ່ມີຢູ່ໃນຊຸດຂໍ້ມູນ"
 
 #: insert_input_fields_into_the_form
 msgid "Insert input fields into the form"
