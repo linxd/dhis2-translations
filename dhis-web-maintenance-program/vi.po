@@ -1,17 +1,19 @@
 #. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-program/src/main/resources/org/hisp/dhis/trackedentity/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-program/src/main/resources/org/hisp/dhis/trackedentity/i18n_module_vi.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-04 06:51+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-09-26 16:01+0000\n"
+"Last-Translator: Administrator <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1443283271.0\n"
 
 #: groupBy
 msgid "Group by"
@@ -2251,4 +2253,32 @@ msgstr ""
 
 #: display_front_page_list
 msgid "Display front page list"
+msgstr ""
+
+#: show_incident_date
+msgid "Show incidence date"
+msgstr ""
+
+#: add_single_rule
+msgid "Add single rule"
+msgstr ""
+
+#: add_multi_rule
+msgid "Add multi rule"
+msgstr ""
+
+#: use_birth_date_as_incident_date
+msgid "Set incidence date to date of birth"
+msgstr ""
+
+#: allow_select_incident_date_in_future
+msgid "Allow future incidence dates"
+msgstr ""
+
+#: view_reminder_message_templates
+msgid "View reminder message templatess"
+msgstr ""
+
+#: expression_is_not_well_formed
+msgid "Expression is not well-formed"
 msgstr ""

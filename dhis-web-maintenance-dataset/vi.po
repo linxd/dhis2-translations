@@ -1,17 +1,19 @@
 #. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-dataset/src/main/resources/org/hisp/dhis/dataset/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-dataset/src/main/resources/org/hisp/dhis/dataset/i18n_module_vi.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-04 06:50+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-09-26 16:01+0000\n"
+"Last-Translator: Administrator <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1443283270.0\n"
 
 #: available_for_mobile_reporting
 msgid "Available for mobile reporting"
@@ -374,7 +376,7 @@ msgstr ""
 
 #: none
 msgid "None"
-msgstr "Không chia sẻ"
+msgstr "Hoàn tất"
 
 #: allow_future_periods
 msgid "Allow future periods"
@@ -490,4 +492,8 @@ msgstr ""
 
 #: open_future_periods_for_data_entry
 msgid "Open future periods for data entry"
+msgstr ""
+
+#: approve_data
+msgid "Approve data"
 msgstr ""

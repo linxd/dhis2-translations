@@ -1,18 +1,20 @@
 #. #-- Application name -----------------------------------------------------------#
 #. extracted from /home/jason/development/dhis2/dhis-2//dhis-services/dhis-service-core/src/main/resources/i18n_global.properties, /home/jason/development/dhis2/dhis-2//dhis-services/dhis-service-core/src/main/resources/i18n_global_vi.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-04 06:50+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-12-04 06:02+0000\n"
+"Last-Translator: Administrator <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1449208952.0\n"
 
 #: district_health_information_software
 msgid "District Health Information Software 2"
@@ -154,11 +156,10 @@ msgstr "Quản trị người dùng"
 msgid "Data Administration"
 msgstr "Quản trị dữ liệu"
 
-#: dhis-web-maintenance-settings
-msgctxt "dhis-web-maintenance-settings"
-"dhis-web-maintenance-settings"
-msgid "Settings"
-msgstr "Các thiết lập"
+#~ msgctxt "dhis-web-maintenance-settings"
+#~ "dhis-web-maintenance-settings"
+#~ msgid "Settings"
+#~ msgstr "Các thiết lập"
 
 #: dhis-web-maintenance-program
 msgid "Programs / Attributes"
@@ -830,43 +831,43 @@ msgstr "Mặc định"
 
 #: left_brackets
 msgid "Left brackets"
-msgstr ""
+msgstr "Khung bên trái"
 
 #: right_brackets
 msgid "Right brackets"
-msgstr ""
+msgstr "Khung bên phải"
 
 #: multiply
 msgid "Multiply"
-msgstr ""
+msgstr "Nhân"
 
 #: divide
 msgid "Divide"
-msgstr ""
+msgstr "Chia"
 
 #: plus
 msgid "Plus"
-msgstr ""
+msgstr "Cộng"
 
 #: minus
 msgid "Minus"
-msgstr ""
+msgstr "Trừ"
 
 #: no_of_days
 msgid "No of days"
-msgstr ""
+msgstr "Số ngày"
 
 #: variables
 msgid "Variables"
-msgstr ""
+msgstr "Biến"
 
 #: open
 msgid "Open"
-msgstr ""
+msgstr "Mở"
 
 #: normal
 msgid "Normal"
-msgstr ""
+msgstr "Thường"
 
 #. #-- Relative periods -----------------------------------------------------------#
 #: LAST_MONTH
@@ -1896,7 +1897,7 @@ msgstr ""
 
 #: time_since_last_analytics_table_generation
 msgid "Time since last analytics table generation"
-msgstr "Thời gian bảng phân tích mới nhất được xuất ra "
+msgstr ""
 
 #: online_release_page
 msgctxt "online_release_page"
@@ -2190,7 +2191,7 @@ msgstr ""
 
 #: percentage
 msgid "Percentage"
-msgstr ""
+msgstr "Phần trăm"
 
 #: date
 msgid "Date"
@@ -2793,9 +2794,8 @@ msgstr "Hoạt động "
 msgid "Type"
 msgstr "Loại "
 
-#: value_type
-msgid "Value type"
-msgstr "Loại giá trị "
+#~ msgid "Value type"
+#~ msgstr "Loại giá trị "
 
 #: actual
 msgid "Actual"
@@ -3951,7 +3951,15 @@ msgstr ""
 msgid "Tracked entity instance count"
 msgstr ""
 
-#: dhis-web-settings
-msgctxt "dhis-web-settings"
+#~ msgctxt "dhis-web-settings"
+#~ msgid "Settings"
+#~ msgstr "Các thiết lập"
+
+#: dhis-web-maintenance-settings
+msgctxt "dhis-web-maintenance-settings"
 msgid "Settings"
 msgstr "Các thiết lập"
+
+#: value_type
+msgid "Value Type"
+msgstr "Loại giá trị "
