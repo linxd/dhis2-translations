@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-27 09:30+0200\n"
+"POT-Creation-Date: 2015-12-04 06:51+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1011,7 +1011,7 @@ msgstr ""
 "aggregation system"
 
 #: show_incident_date
-msgid "Show incidence date"
+msgid "Show incident date"
 msgstr "Show incidence date"
 
 #: display_date_of_incident
@@ -1235,14 +1235,6 @@ msgstr ""
 #: executing
 msgid "Executing"
 msgstr "Executing"
-
-#: add_single_rule
-msgid "Add single rule"
-msgstr "Add single rule"
-
-#: add_multi_rule
-msgid "Add multi rule"
-msgstr "Add multi rule"
 
 #: no_aggregation
 msgid "No aggregation"
@@ -1702,10 +1694,6 @@ msgstr "Registration date"
 msgid "Create default registration form"
 msgstr "Create default registration form"
 
-#: use_birth_date_as_incident_date
-msgid "Set incidence date to date of birth"
-msgstr "Set incidence date to date of birth"
-
 #: use_birth_date_as_enrollment_date
 msgid "Set enrollment date to date of birth"
 msgstr "Set enrollment date to date of birth"
@@ -1727,7 +1715,7 @@ msgid "Allow future enrollment dates"
 msgstr "Allow future enrollment dates"
 
 #: allow_select_incident_date_in_future
-msgid "Allow future incidence dates"
+msgid "Allow future incident dates"
 msgstr "Allow future incidence dates"
 
 #: relationship_text
@@ -1939,7 +1927,7 @@ msgid "Attribute users"
 msgstr "Attribute users"
 
 #: view_reminder_message_templates
-msgid "View reminder message templatess"
+msgid "View reminder message templates"
 msgstr "View template reminder messages"
 
 #: display_in_list_no_program
@@ -2082,10 +2070,6 @@ msgstr "Program Stage Sort Order"
 #: sort_order
 msgid "Sort order"
 msgstr "Sort order"
-
-#: expression_is_not_well_formed
-msgid "Expression is not well-formed"
-msgstr ""
 
 #: program_variables
 msgid "Program variables"
@@ -2278,4 +2262,16 @@ msgstr ""
 
 #: missing_value_replacement
 msgid "Missing value replacement"
+msgstr ""
+
+#: skip_offline
+msgid "Skip offline"
+msgstr ""
+
+#: data_approval_workflow
+msgid "Data approval workflow"
+msgstr ""
+
+#: display_front_page_list
+msgid "Display front page list"
 msgstr ""

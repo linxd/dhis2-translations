@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-27 09:30+0200\n"
+"POT-Creation-Date: 2015-12-04 06:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,6 +12,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: tracker_capture
+msgid "Tracker capture"
+msgstr ""
 
 #: online_notification
 msgid "You are online"
@@ -38,11 +42,11 @@ msgid "Program"
 msgstr "برنامج"
 
 #: tracked_entity
-msgid "Tracked Entity"
+msgid "Tracked entity"
 msgstr ""
 
 #: tracked_entity_attribute
-msgid "Tracked Entity Attribute"
+msgid "Tracked entity attribute"
 msgstr ""
 
 #: select_or_search
@@ -62,11 +66,11 @@ msgid "[No program exists]"
 msgstr "لايوجد برنامج"
 
 #: please_select_a_program_for_enrollment
-msgid "Please select a program for enrollment."
+msgid "Please select a program for enrollment"
 msgstr "رجاءً اختر برنامجاً للتسجيل"
 
 #: please_select_program_report
-msgid "Please select a program for reporting."
+msgid "Please select a program for reporting"
 msgstr "رجاءً اختر برنامجاً للإعداد"
 
 #: please_select_a_relationship
@@ -74,19 +78,19 @@ msgid "Please select a relationship"
 msgstr "رجاءً اختر علاقة"
 
 #: no_relationship
-msgid "No relationship exists."
+msgid "No relationships exist"
 msgstr "لاتوجد علاقة"
 
 #: relationship_not_possible
-msgid "No tracked entity instance, relationship not possible."
+msgid "No tracked entity instances, relationship not possible"
 msgstr "لا يوجد مثال لكيان متبع . العلاقة غير ممكنة"
 
 #: no_program_exists_enrollment
-msgid "No program exists for the selected org unit. Enrollment not possible."
+msgid "No programs exist for the selected org unit. Enrollment not possible."
 msgstr "لايوجد برنامج لعلاقة التنظيم المختارة . التسجيل غير ممكن"
 
 #: no_program_exists_report
-msgid "No program exists for the selected org unit. Reporting not possible."
+msgid "No programs exist for the selected org unit. Reporting not possible."
 msgstr "لايوجد برنامج لعلاقة التنظيم المختارة . الاعداد غير ممكن"
 
 #: not_yet_enrolled_data_entry
@@ -98,7 +102,7 @@ msgid "Not yet enrolled. Please enroll."
 msgstr "غير مسجل حتى اللآن . رجاءً سجل"
 
 #: no_active_enrollment_exists
-msgid "No active enrollment exists for the selected program"
+msgid "No active enrollments exist for the selected program"
 msgstr ""
 
 #: not_yet_enrolled_note
@@ -106,23 +110,23 @@ msgid "Not yet enrolled. Note recording not possible."
 msgstr "غير مسجل حتى الآن . تسجيل الملاحظة غير ممكن"
 
 #: not_yet_enrolled_report
-msgid "Not yet enrolled. Reporting not possible"
+msgid "Not yet enrolled. Reporting not possible."
 msgstr "غير مسجل حتى الآن . الاعداد غير ممكن"
 
 #: no_data_report
-msgid "No record exists for reporting"
+msgid "No records exist for reporting"
 msgstr "لايوجد تسجيل ليتم الاعداد"
 
-#: empty_notes
-msgid "Empty notes list."
-msgstr "لائحة الملاحظات الفارغة"
+#: no_notes_exist
+msgid "No notes exist"
+msgstr ""
 
 #: event
 msgid "Event"
 msgstr ""
 
 #: no_event_is_yet_created
-msgid "No event is available for data entry. Please create one."
+msgid "No events are available for data entry. Please create one."
 msgstr "لايوجد حدث متوفر لادخال البيانات . رجاءً انشئ واحداً"
 
 #: event_creation
@@ -158,7 +162,7 @@ msgid "Invalid"
 msgstr "غير صالح"
 
 #: selected_tei_is_invalid
-msgid "Selected tracked entity instance is invalid."
+msgid "Selected tracked entity instance is invalid"
 msgstr ""
 
 #: required
@@ -261,28 +265,28 @@ msgstr "قيد العمل"
 msgid "Registered entities"
 msgstr "كيانات مسجلة"
 
-#: empty_entity_list
-msgid "There are no registered entities"
-msgstr "لاتوجد كيانات مسجلة"
-
 #: empty
 msgid "Empty"
 msgstr "فارغ"
 
 #: form_is_empty_fill_at_least_one
-msgid "Form is empty, please fill at least one."
+msgid "Form is empty, please fill at least one"
 msgstr "الاستمارة فارغة . رجاءً املأ واحدة على الأقل"
+
+#: no_events_exist
+msgid "No events exist"
+msgstr ""
 
 #: total
 msgid "Total"
 msgstr ""
 
 #: total_number_of_pages
-msgid "No. of pages"
+msgid "No of pages"
 msgstr "عدد الصفحات"
 
 #: rows_per_page
-msgid "No. of rows per page"
+msgid "No of rows per page"
 msgstr "عدد الصفوف في كل صفحة"
 
 #: jump_to_page
@@ -410,7 +414,7 @@ msgid "Validate"
 msgstr "تحقق من الصحة"
 
 #: validation_result
-msgid "Validation Result"
+msgid "Validation result"
 msgstr ""
 
 #: status
@@ -510,7 +514,7 @@ msgid "Enrollment"
 msgstr "تسجيل"
 
 #: enrolling_orgunit
-msgid "Enrolling orgunit"
+msgid "Enrolling organisation unit"
 msgstr ""
 
 #: delete_enrollment
@@ -581,9 +585,17 @@ msgstr "ادخال البيانات"
 msgid "Indicators"
 msgstr "المؤشرات ( جوجل ترجمة )"
 
+#: no_indicators_exist
+msgid "No indicators exist"
+msgstr ""
+
 #: feedback
 msgid "Feedback"
 msgstr "ردود الفعل (جوجل ترجمة )"
+
+#: no_feedback_exist
+msgid "No feedback exist"
+msgstr ""
 
 #: custom_form
 msgid "Custom form"
@@ -740,7 +752,7 @@ msgid "Registered data"
 msgstr "قيمة مسجلة"
 
 #: no_value
-msgid "NO_VALUE"
+msgid "No value"
 msgstr "لا قيمة"
 
 #: no_data_found
@@ -785,6 +797,14 @@ msgstr "الاختيارات الحالية"
 
 #: activePrograms
 msgid "Active programs"
+msgstr ""
+
+#: set_as_current
+msgid "Set as current"
+msgstr ""
+
+#: no_active_programs_exist
+msgid "No active programs exist"
 msgstr ""
 
 #: org_unit
@@ -896,6 +916,10 @@ msgstr "تاريخ الاستحقاق"
 msgid "Event date"
 msgstr "تاريخ الحدث"
 
+#: report_date
+msgid "Report date"
+msgstr ""
+
 #: enable_rescheduling
 msgid "Enable rescheduling"
 msgstr "تمكين اعادة الجدولة"
@@ -933,7 +957,7 @@ msgid "Rescheduling"
 msgstr "اعد جدولة"
 
 #: scheduling_messaging
-msgid "Scheduling and Messaging"
+msgid "Scheduling and messaging"
 msgstr "الجدولة و الرسائل"
 
 #: not_yet_enrolled_scheduling
@@ -945,7 +969,7 @@ msgid "Schedule details"
 msgstr "تفاصيل الجدول"
 
 #: no_event_to_schedule
-msgid "No event to schedule"
+msgid "No events to schedule"
 msgstr "لا توجد أحداث لجدولتها"
 
 #: enroll
@@ -1112,12 +1136,32 @@ msgstr "خطاً في مهمة / وظيفة العلاقة"
 msgid "Error in tracker associate assignment"
 msgstr ""
 
+#: searching_error
+msgid "Searching Error"
+msgstr ""
+
+#: no_enity_for_tracker_associate_attribute
+msgid "Selected attribute has invalid tracked entity"
+msgstr ""
+
 #: error
 msgid "Error"
 msgstr ""
 
 #: success
 msgid "Success"
+msgstr ""
+
+#: unable_to_fetch_data_from_server
+msgid "Unable to fetch data from server."
+msgstr ""
+
+#: access_denied
+msgid "Access is Denied"
+msgstr ""
+
+#: registration_complete
+msgid "Registration is completed"
 msgstr ""
 
 #: validation_error
@@ -1129,7 +1173,7 @@ msgid "Validation Warnings"
 msgstr ""
 
 #: dashboard_layout_saved
-msgid "Dashboard layout saved as default."
+msgid "Dashboard layout saved as default"
 msgstr ""
 
 #: event_orgunit_name
@@ -1177,6 +1221,10 @@ msgstr "ارجع للخلف"
 msgid "Cancel"
 msgstr "الغِ"
 
+#: errors
+msgid "Errors"
+msgstr "الأخطاء"
+
 #: are_you_sure_to_delete_relationship
 msgid "Are you sure you want to delete the relationship?"
 msgstr ""
@@ -1205,8 +1253,13 @@ msgstr "هل أنت متأكد من أنك ترغب في حذف الحدث ال�
 msgid "Are you sure you want to complete the selected event?"
 msgstr "هل أنت متأكد من أنك ترغب في اكمال الحدث المختار ؟"
 
+#: please_fix_errors_before_completing
+msgid ""
+"Please review and fix the following error(s) before completing the event:"
+msgstr "الرجاء مراجعة و تصحيح الاخطاء التالية قبل الاستمرار"
+
 #: are_you_sure_to_incomplete_event
-msgid "Are you sure you want to incomplete the selected event?"
+msgid "Are you sure you want to edit the selected event? "
 msgstr "هل أنت متأكد من أنك ترغب في عدم اكمال الحدث المختار ؟"
 
 #: are_you_sure_to_skip_event
@@ -1222,7 +1275,7 @@ msgid "Do you want to proceed with invalid criteria?"
 msgstr ""
 
 #: are_you_sure_to_proceed
-msgid "Are you sure to proceed?"
+msgid "Are you sure you want to proceed?"
 msgstr ""
 
 #: more
@@ -1230,7 +1283,7 @@ msgid "More"
 msgstr "مزيد"
 
 #: under_construction
-msgid "Under construction.    "
+msgid "Under construction"
 msgstr "مازال قيد الانشاء"
 
 #: advanced_search
@@ -1280,7 +1333,7 @@ msgid ""
 msgstr ""
 
 #: loading_tree
-msgid "Loading orgunit tree"
+msgid "Loading organisation unit tree"
 msgstr ""
 
 #: loading_metadata
@@ -1328,7 +1381,7 @@ msgid "Dashboard layout not saved"
 msgstr ""
 
 #: ou_search_scope
-msgid "Orgunit scope to use"
+msgid "Organisation unit scope to use"
 msgstr ""
 
 #: zoom_in
@@ -1464,11 +1517,11 @@ msgid "Inactive"
 msgstr ""
 
 #: activate_tei
-msgid "Set TEI to active"
+msgid "Activate"
 msgstr ""
 
 #: deactivate_tei
-msgid "Set TEI to inactive"
+msgid "Deactivate"
 msgstr ""
 
 #: tei_inactive_only_read
@@ -1485,4 +1538,44 @@ msgstr ""
 
 #: show_main_menu
 msgid "Show main menu"
+msgstr ""
+
+#: stick_right_widgets
+msgid "Stick right side widgets"
+msgstr ""
+
+#: unstick_right_widgets
+msgid "Unstick right side widgets"
+msgstr ""
+
+#: existing_associate
+msgid "Existing associate"
+msgstr ""
+
+#: value_not_unique
+msgid "Value not unique"
+msgstr ""
+
+#: custom_form_has_invalid_attribute
+msgid "Custom form has invalid attribute."
+msgstr ""
+
+#: custom_form_has_invalid_dataelement
+msgid "Custom form has invalid data element."
+msgstr ""
+
+#: has_no_dataelements
+msgid "has no dataelements."
+msgstr ""
+
+#: section
+msgid "Section"
+msgstr ""
+
+#: display_mode
+msgid "Display mode"
+msgstr ""
+
+#: tracker_capture_display_mode
+msgid "Tracker capture display mode"
 msgstr ""

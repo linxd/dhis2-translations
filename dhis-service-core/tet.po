@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-27 09:30+0200\n"
+"POT-Creation-Date: 2015-12-04 06:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -156,6 +156,7 @@ msgstr "Administrador de Dadus"
 
 #: dhis-web-maintenance-settings
 msgctxt "dhis-web-maintenance-settings"
+"dhis-web-maintenance-settings"
 msgid "Settings"
 msgstr "Konfigurasaun"
 
@@ -311,7 +312,7 @@ msgstr ""
 "Mantein tabela rekursus, verifika integridade dadus, haré estatístikas no "
 "seluk tan."
 
-#: intro_dhis-web-maintenance-settings
+#: intro_dhis-web-settings
 msgid ""
 "Maintain user and system settings related to appearance, notifications and "
 "more."
@@ -2173,6 +2174,10 @@ msgstr ""
 msgid "Positive or Zero Integer"
 msgstr ""
 
+#: coordinate
+msgid "Coordinate"
+msgstr ""
+
 #: negative_integer
 msgid "Negative Integer"
 msgstr ""
@@ -2216,6 +2221,10 @@ msgstr "Sim Deit"
 msgid "Custom"
 msgstr ""
 
+#: file
+msgid "File"
+msgstr ""
+
 #. #-- Validation messages -------------------------------------------------------#
 #: value_must_integer
 msgid "Value must be an integer"
@@ -2243,6 +2252,10 @@ msgstr ""
 
 #: value_must_percentage
 msgid "Value must be a percentage (between 0 and 100)"
+msgstr ""
+
+#: value_must_coordinate
+msgid "Value must be a coordinate (longitude, latitude)"
 msgstr ""
 
 #. #-- User account --------------------------------------------------------------#
@@ -2615,6 +2628,10 @@ msgstr ""
 msgid "Filter is not evaluating to true or false"
 msgstr ""
 
+#: expression_not_valid
+msgid "Expression is not valid"
+msgstr ""
+
 #: locate_by_code
 msgid "Locate by code"
 msgstr "Lokaliza tuir kódigu"
@@ -2777,7 +2794,7 @@ msgid "Type"
 msgstr "Tipu"
 
 #: value_type
-msgid "Value Type"
+msgid "Value type"
 msgstr "Tipu Valor"
 
 #: actual
@@ -3266,6 +3283,10 @@ msgstr ""
 msgid "Engender Health"
 msgstr ""
 
+#: eritrea
+msgid "Eritrea"
+msgstr ""
+
 #: ethiopia
 msgid "Ethiopia"
 msgstr "Etiópia"
@@ -3337,6 +3358,10 @@ msgstr "JHPIEGO"
 #: kenya
 msgid "Kenya"
 msgstr "Kénia"
+
+#: kurdistan
+msgid "Kurdistan"
+msgstr ""
 
 #: laos
 msgid "Lao People's Democratic Republic"
@@ -3929,3 +3954,8 @@ msgstr ""
 #: tei_count
 msgid "Tracked entity instance count"
 msgstr ""
+
+#: dhis-web-settings
+msgctxt "dhis-web-settings"
+msgid "Settings"
+msgstr "Konfigurasaun"

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-27 09:30+0200\n"
+"POT-Creation-Date: 2015-12-04 06:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -63,7 +63,7 @@ msgstr "Название"
 
 #: category_combo
 msgid "Combination of categories"
-msgstr ""
+msgstr "Комбинация категорий"
 
 #: add_dataset
 msgid "Add data set"
@@ -451,8 +451,8 @@ msgstr "Автосохранение форм ввода данных"
 msgid "Send notification to completing user"
 msgstr "Отправить извещения заполняющему пользователю"
 
-#: approve_data
-msgid "Approve data"
+#: data_approval_workflow
+msgid "Data approval workflow"
 msgstr ""
 
 #: insert_images

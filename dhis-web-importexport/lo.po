@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-27 09:30+0200\n"
+"POT-Creation-Date: 2015-12-04 06:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1795,3 +1795,7 @@ msgstr "Include children of organisation unit"
 #: include_descendants
 msgid "Include descendants of organisation unit"
 msgstr "Include descendants of organisation unit"
+
+#: data_export
+msgid "Data Export"
+msgstr "Data Export"

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-27 09:30+0200\n"
+"POT-Creation-Date: 2015-12-04 06:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,11 +18,11 @@ msgid "Home"
 msgstr "الصفحة الرئيسية"
 
 #: dhis2
-msgid "DHIS2"
+msgid "DHIS 2"
 msgstr "DHIS2"
 
 #: dhis2_home
-msgid "DHIS2 Home"
+msgid "DHIS 2 Home"
 msgstr "DHIS2 الصفحة الرئيسية لـ"
 
 #: event_capture
@@ -46,7 +46,7 @@ msgid "Event details"
 msgstr "تفاصيل حدث"
 
 #: no_registered_event
-msgid "There are no registered events."
+msgid "There are no registered events"
 msgstr "لا توجد أحداث مسجلة"
 
 #: event_registration_error
@@ -54,7 +54,11 @@ msgid "Error in event registration"
 msgstr "خطأ في تسجيل الحدث"
 
 #: validation_error
-msgid "Validation Error"
+msgid "Validation error"
+msgstr ""
+
+#: error
+msgid "Error"
 msgstr ""
 
 #: help
@@ -109,9 +113,17 @@ msgstr "احفظ و أغلق"
 msgid "Save and go back"
 msgstr "احفظ و ارجع للخلف"
 
+#: upload
+msgid "Upload"
+msgstr ""
+
 #: delete
 msgid "Delete"
 msgstr "احذف"
+
+#: delete_file
+msgid "Delete file"
+msgstr ""
 
 #: cancel
 msgid "Cancel"
@@ -137,6 +149,10 @@ msgstr "ارجع للخلف"
 msgid "Section"
 msgstr ""
 
+#: has_no_dataelements
+msgid "has no dataelements."
+msgstr ""
+
 #: form_invalid
 msgid "Form is invalid. Please check for required fields."
 msgstr "الشكل غير صالح . رجاءً افحص الحقول المطلوبة"
@@ -158,7 +174,7 @@ msgid "Value must be date"
 msgstr "يجب أن تكون القيمة تاريخاً"
 
 #: bool_required
-msgid "Value must be true/false."
+msgid "Value must be true or false"
 msgstr "يجب أن تكون القيمة رمز عد ثنائي"
 
 #: option_required
@@ -166,7 +182,7 @@ msgid "Option is required. Please select one."
 msgstr "يجب أن تكون القيمة مختارةً من قائمة الخيارات"
 
 #: ok
-msgid "Ok"
+msgid "OK"
 msgstr "موافق"
 
 #: find
@@ -262,8 +278,16 @@ msgid "Show comments"
 msgstr "اظهر التعليقات"
 
 #: new_event
-msgid "New Event"
+msgid "New event"
 msgstr "حدث جديد"
+
+#: completed_event
+msgid "Event completion status"
+msgstr ""
+
+#: is_event_complete
+msgid "Completed"
+msgstr ""
 
 #: data_element
 msgid "Data element"
@@ -286,11 +310,11 @@ msgid "Total"
 msgstr ""
 
 #: total_number_of_pages
-msgid "No. of pages"
+msgid "No of pages"
 msgstr "عدد الصفحات"
 
 #: rows_per_page
-msgid "No. of rows per page"
+msgid "No of rows per page"
 msgstr "عدد الصفوف في كل صفحة"
 
 #: jump_to_page
@@ -318,11 +342,11 @@ msgid "Last"
 msgstr "أخير"
 
 #: org_units
-msgid "Organisation Units"
+msgid "Organisation units"
 msgstr "وحدات التنظيم"
 
 #: org_unit
-msgid "Organisation Unit"
+msgid "Organisation unit"
 msgstr "وحدة التنظيم"
 
 #: programs
@@ -382,7 +406,7 @@ msgid "NOT_SELECTED"
 msgstr "غير محدد"
 
 #: no_value
-msgid "NO_VALUE"
+msgid "No value"
 msgstr "لا توجد قيمة"
 
 #: search
@@ -494,11 +518,11 @@ msgid "About DHIS 2 "
 msgstr "حول DHIS 2"
 
 #: update_event
-msgid "Update Event"
+msgid "Update event"
 msgstr "تحديث الحالة"
 
 #: missing_translation_file
-msgid "Missing Translation File"
+msgid "Missing translation file"
 msgstr ""
 
 #: missing_translation_using_default
@@ -536,15 +560,15 @@ msgid "Value must be integer "
 msgstr ""
 
 #: posInt
-msgid "Positive Integer"
+msgid "Positive integer"
 msgstr ""
 
 #: negInt
-msgid "Negative Integer"
+msgid "Negative integer"
 msgstr ""
 
 #: zeroPositiveInt
-msgid "Zero or Positive Integer"
+msgid "Zero or positive integer"
 msgstr ""
 
 #: latitude_required
@@ -556,7 +580,7 @@ msgid "Value must be between [-180 ... 180]"
 msgstr ""
 
 #: loading_tree
-msgid "Loading orgunit tree"
+msgid "Loading organisation unit tree"
 msgstr "تحميل شجرة وحدة المنظمة"
 
 #: loading_metadata
@@ -568,8 +592,7 @@ msgid "Future date is not allowed"
 msgstr ""
 
 #: validation_warnings
-msgctxt "validation_warnings"
-msgid ""
+msgid "Validation warnings"
 msgstr ""
 
 #: unsaved_data_exists_proceed
@@ -581,7 +604,7 @@ msgid "Proceed"
 msgstr ""
 
 #: lacking_required_authority_to_add_update_event
-msgid "Lacking required authority to add/update event."
+msgid "Lacking required authority to add or update event"
 msgstr ""
 
 #: select_or_search
@@ -606,4 +629,22 @@ msgstr ""
 
 #: close_editing
 msgid "Close editing"
+msgstr ""
+
+#: fill_all_category_options
+msgid "Please fill all category options"
+msgstr ""
+
+#: custom_form_has_invalid_dataelement
+msgid "Custom form has invalid data element."
+msgstr ""
+
+#: offline
+msgid "Offline"
+msgstr ""
+
+#: program_is_skip_offline
+msgid ""
+"You are currently offline. But program is configured to be skipped during "
+"offline."
 msgstr ""

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-27 09:30+0200\n"
+"POT-Creation-Date: 2015-12-04 06:51+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1000,7 +1000,7 @@ msgid ""
 msgstr ""
 
 #: show_incident_date
-msgid "Show incidence date"
+msgid "Show incident date"
 msgstr "Показать дату проишествия"
 
 #: display_date_of_incident
@@ -1225,14 +1225,6 @@ msgstr ""
 #: executing
 msgid "Executing"
 msgstr "Выполняется"
-
-#: add_single_rule
-msgid "Add single rule"
-msgstr "Добавить одиничное правило"
-
-#: add_multi_rule
-msgid "Add multi rule"
-msgstr "Добавить несколько правил"
 
 #: no_aggregation
 msgid "No aggregation"
@@ -1688,10 +1680,6 @@ msgstr "Дата регистрации"
 msgid "Create default registration form"
 msgstr "Создать стандартную форму регистрации"
 
-#: use_birth_date_as_incident_date
-msgid "Set incidence date to date of birth"
-msgstr "Использовать дату рождения как дату происшествия"
-
 #: use_birth_date_as_enrollment_date
 msgid "Set enrollment date to date of birth"
 msgstr "Использовать дату рождения как дату включения"
@@ -1713,7 +1701,7 @@ msgid "Allow future enrollment dates"
 msgstr "Разрешить выобр даты включения в будущем"
 
 #: allow_select_incident_date_in_future
-msgid "Allow future incidence dates"
+msgid "Allow future incident dates"
 msgstr "Разрешить выбор даты происшествия в будущем"
 
 #: relationship_text
@@ -1923,7 +1911,7 @@ msgid "Attribute users"
 msgstr ""
 
 #: view_reminder_message_templates
-msgid "View reminder message templatess"
+msgid "View reminder message templates"
 msgstr ""
 
 #: display_in_list_no_program
@@ -2066,10 +2054,6 @@ msgstr "Порядок сортирования стадии программы"
 #: sort_order
 msgid "Sort order"
 msgstr "Последовательность сортировки"
-
-#: expression_is_not_well_formed
-msgid "Expression is not well-formed"
-msgstr ""
 
 #: program_variables
 msgid "Program variables"
@@ -2262,4 +2246,16 @@ msgstr ""
 
 #: missing_value_replacement
 msgid "Missing value replacement"
+msgstr ""
+
+#: skip_offline
+msgid "Skip offline"
+msgstr ""
+
+#: data_approval_workflow
+msgid "Data approval workflow"
+msgstr ""
+
+#: display_front_page_list
+msgid "Display front page list"
 msgstr ""

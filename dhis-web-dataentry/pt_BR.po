@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-27 09:30+0200\n"
+"POT-Creation-Date: 2015-12-04 06:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -496,4 +496,20 @@ msgstr ""
 
 #: there_is_no_audit_trail_for_this_value
 msgid "There is no audit trail for this value"
+msgstr ""
+
+#: are_you_sure_you_want_to_delete_this_file
+msgid "Are you sure you want to delete this file?"
+msgstr ""
+
+#: confirm_deletion
+msgid "Confirm deletion"
+msgstr ""
+
+#: file_upload_failed
+msgid "File upload failed"
+msgstr ""
+
+#: loading_file_info_failed
+msgid "Loading file info failed"
 msgstr ""

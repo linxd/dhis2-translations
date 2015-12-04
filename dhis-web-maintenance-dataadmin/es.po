@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-27 09:30+0200\n"
+"POT-Creation-Date: 2015-12-04 06:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1144,6 +1144,10 @@ msgstr "Tipo de valor"
 msgid "Mandatory"
 msgstr "Obligatorio"
 
+#: unique
+msgid "Unique"
+msgstr "Unique"
+
 #: indicator
 msgid "Indicator"
 msgstr "Indicador"
@@ -1636,3 +1640,7 @@ msgstr ""
 #: category_option_group
 msgid "Category Option Group"
 msgstr ""
+
+#: document
+msgid "Document"
+msgstr "Document"

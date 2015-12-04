@@ -1,20 +1,18 @@
 #. #-- Application name -----------------------------------------------------------#
 #. extracted from /home/jason/development/dhis2/dhis-2//dhis-services/dhis-service-core/src/main/resources/i18n_global.properties, /home/jason/development/dhis2/dhis-2//dhis-services/dhis-service-core/src/main/resources/i18n_global_fr.properties
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-27 09:30+0200\n"
-"PO-Revision-Date: 2015-10-31 18:13+0000\n"
-"Last-Translator: bpiot <bram.piot@gmail.com>\n"
+"POT-Creation-Date: 2015-12-04 06:50+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1446315195.0\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
 
 #: district_health_information_software
 msgid "District Health Information Software 2"
@@ -318,13 +316,13 @@ msgstr ""
 "Gérer les tables de ressources, vérifier l'intégrité des données, voir les "
 "statistiques et plus."
 
-#: intro_dhis-web-maintenance-settings
+#: intro_dhis-web-settings
 msgid ""
 "Maintain user and system settings related to appearance, notifications and "
 "more."
 msgstr ""
-"Gérer les paramètres utilisateur et système liés à l'apparence, "
-"notifications et autres."
+"Maintain user and system settings related to appearance, notifications and "
+"more."
 
 #: intro_dhis-web-maintenance-program
 msgid ""
@@ -1050,149 +1048,149 @@ msgstr "Financière-Oct"
 #: format.Daily.startDate
 msgctxt "format.Daily.startDate"
 msgid "yyyy-MM-dd"
-msgstr "yyyy-MM-dd"
+msgstr ""
 
 #: format.Daily.endDate
 msgctxt "format.Daily.endDate"
 msgid ""
-msgstr "yyyy-MM-dd"
+msgstr ""
 
 #: format.Weekly.startDate
 msgid "yyyy 'W' w"
-msgstr "yyyy 'S' w"
+msgstr ""
 
 #: format.Weekly.endDate
 msgctxt "format.Weekly.endDate"
 msgid ""
-msgstr "yyyy 'S' w"
+msgstr ""
 
 #: format.Monthly.startDate
 msgid "MMMM yyyy"
-msgstr "MMMM yyyy"
+msgstr ""
 
 #: format.Monthly.endDate
 msgctxt "format.Monthly.endDate"
 msgid ""
-msgstr "MMMM yyyy"
+msgstr ""
 
 #: format.BiMonthly.startDate
 msgctxt "format.BiMonthly.startDate"
 msgid "MMM 'to '"
-msgstr "MMM 'à '"
+msgstr ""
 
 #: format.BiMonthly.endDate
 msgctxt "format.BiMonthly.endDate"
 msgid "MMM yyyy"
-msgstr "MMM yyyy"
+msgstr ""
 
 #: format.Quarterly.startDate
 msgctxt "format.Quarterly.startDate"
 msgid "MMM 'to '"
-msgstr "MMM 'à '"
+msgstr ""
 
 #: format.Quarterly.endDate
 msgctxt "format.Quarterly.endDate"
 msgid "MMM yyyy"
-msgstr "MMM yyyy"
+msgstr ""
 
 #: format.SixMonthly.startDate
 msgctxt "format.SixMonthly.startDate"
 msgid "MMM 'to '"
-msgstr "MMM 'à '"
+msgstr ""
 
 #: format.SixMonthly.endDate
 msgctxt "format.SixMonthly.endDate"
 msgid "MMM yyyy"
-msgstr "MMM yyyy"
+msgstr ""
 
 #: format.SixMonthlyApril.startDate
 msgctxt "format.SixMonthlyApril.startDate"
 msgid "MMM 'to '"
-msgstr "MMM 'à '"
+msgstr ""
 
 #: format.SixMonthlyApril.endDate
 msgctxt "format.SixMonthlyApril.endDate"
 msgid "MMM yyyy"
-msgstr "MMM yyyy"
+msgstr ""
 
 #: format.Yearly.startDate
 msgctxt "format.Yearly.startDate"
 msgid "yyyy"
-msgstr "yyyy"
+msgstr ""
 
 #: format.Yearly.endDate
 msgctxt "format.Yearly.endDate"
 msgid ""
-msgstr "yyyy"
+msgstr ""
 
 #: format.TwoYearly.startDate
 msgid "yyyy 'and '"
-msgstr "yyyy 'et '"
+msgstr ""
 
 #: format.TwoYearly.endDate
 msgctxt "format.TwoYearly.endDate"
 msgid "yyyy"
-msgstr "yyyy"
+msgstr ""
 
 #: format.OnChange.startDate
 msgctxt "format.OnChange.startDate"
 msgid "yyyy-MM-dd '- '"
-msgstr "yyyy-MM-dd '- '"
+msgstr ""
 
 #: format.OnChange.endDate
 msgctxt "format.OnChange.endDate"
 msgid "yyyy-MM-dd"
-msgstr "yyyy-MM-dd"
+msgstr ""
 
 #: format.Survey.startDate
 msgctxt "format.Survey.startDate"
 msgid "yyyy-MM-dd"
-msgstr "yyyy-MM-dd"
+msgstr ""
 
 #: format.Survey.endDate
 msgctxt "format.Survey.endDate"
 msgid ""
-msgstr "yyyy-MM-dd"
+msgstr ""
 
 #: format.Relative.startDate
 msgctxt "format.Relative.startDate"
 msgid "yyyy-MM-dd '- '"
-msgstr "yyyy-MM-dd '-'"
+msgstr ""
 
 #: format.Relative.endDate
 msgctxt "format.Relative.endDate"
 msgid "yyyy-MM-dd"
-msgstr "aaaa-mm-jj"
+msgstr ""
 
 #: format.FinancialApril.startDate
 msgctxt "format.FinancialApril.startDate"
 msgid "MMM yyyy 'to '"
-msgstr "MMM yyyy 'à '"
+msgstr ""
 
 #: format.FinancialApril.endDate
 msgctxt "format.FinancialApril.endDate"
 msgid "MMM yyyy"
-msgstr "MMM yyyy"
+msgstr ""
 
 #: format.FinancialJuly.startDate
 msgctxt "format.FinancialJuly.startDate"
 msgid "MMM yyyy 'to '"
-msgstr "MMM yyyy 'à '"
+msgstr ""
 
 #: format.FinancialJuly.endDate
 msgctxt "format.FinancialJuly.endDate"
 msgid "MMM yyyy"
-msgstr "MMM yyyy"
+msgstr ""
 
 #: format.FinancialOct.startDate
 msgctxt "format.FinancialOct.startDate"
 msgid "MMM yyyy 'to '"
-msgstr "MMM yyyy 'à '"
+msgstr ""
 
 #: format.FinancialOct.endDate
 msgctxt "format.FinancialOct.endDate"
 msgid "MMM yyyy"
-msgstr "MMM yyyy"
+msgstr ""
 
 #. #-- Months and weeks -----------------------------------------------------------#
 #: month.january
@@ -2196,6 +2194,10 @@ msgstr "Entier positif"
 msgid "Positive or Zero Integer"
 msgstr "Nombre positif ou zéro"
 
+#: coordinate
+msgid "Coordinate"
+msgstr "Coordinate"
+
 #: negative_integer
 msgid "Negative Integer"
 msgstr "Nombre négatif"
@@ -2239,6 +2241,10 @@ msgstr "Oui seulement"
 msgid "Custom"
 msgstr "Personnalisé"
 
+#: file
+msgid "File"
+msgstr "File"
+
 #. #-- Validation messages -------------------------------------------------------#
 #: value_must_integer
 msgid "Value must be an integer"
@@ -2267,6 +2273,10 @@ msgstr "La valeur doit être une intervalle d'unité (entre 0 et 1)"
 #: value_must_percentage
 msgid "Value must be a percentage (between 0 and 100)"
 msgstr "La valeur doit être un pourcentage (entre 0 et 100)"
+
+#: value_must_coordinate
+msgid "Value must be a coordinate (longitude, latitude)"
+msgstr "Value must be a coordinate (longitude, latitude)"
 
 #. #-- User account --------------------------------------------------------------#
 #: profile
@@ -2642,6 +2652,10 @@ msgstr "Identifiants non valides dans l'expression"
 msgid "Filter is not evaluating to true or false"
 msgstr "Le filtre n'évalue pas True ou False"
 
+#: expression_not_valid
+msgid "Expression is not valid"
+msgstr "Expression is not valid"
+
 #: locate_by_code
 msgid "Locate by code"
 msgstr "Localiser par code"
@@ -2804,7 +2818,7 @@ msgid "Type"
 msgstr "Type"
 
 #: value_type
-msgid "Value Type"
+msgid "Value type"
 msgstr "Type de valeur"
 
 #: actual
@@ -3296,6 +3310,10 @@ msgstr "Égypte"
 msgid "Engender Health"
 msgstr "EngenderHealth"
 
+#: eritrea
+msgid "Eritrea"
+msgstr "Eritrea"
+
 #: ethiopia
 msgid "Ethiopia"
 msgstr "Ethiopie"
@@ -3367,6 +3385,10 @@ msgstr "JHPIEGO"
 #: kenya
 msgid "Kenya"
 msgstr "Kénya"
+
+#: kurdistan
+msgid "Kurdistan"
+msgstr "Kurdistan"
 
 #: laos
 msgid "Lao People's Democratic Republic"
@@ -3771,6 +3793,8 @@ msgstr "Quelqu'un (probablement vous) nous a demande de réactiver votre"
 
 #: email_restore_1_1st_paragraph_after_application_title
 msgctxt "email_restore_1_1st_paragraph_after_application_title"
+"email_restore_1_1st_paragraph_after_application_title"
+"email_restore_1_1st_paragraph_after_application_title"
 msgid "user account."
 msgstr "compte utilisateur"
 
@@ -3958,3 +3982,8 @@ msgstr "Nombre d'enregistrements"
 #: tei_count
 msgid "Tracked entity instance count"
 msgstr "Nombre d'entités suivies"
+
+#: dhis-web-settings
+msgctxt "dhis-web-settings"
+msgid "Settings"
+msgstr ""

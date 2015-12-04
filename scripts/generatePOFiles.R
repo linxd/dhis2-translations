@@ -29,9 +29,10 @@ require(stringr)
 source_dir<-"/home/jason/development/dhis2/dhis-2/"
 trans_dir<-"/home/jason/development/dhis2-translations/"
 
+
 allprops<-dir(source_dir, pattern = "i18.*\\.properties$", full.names = TRUE, recursive=TRUE)
 allprops<-data.frame(file=allprops[grepl("src",allprops)])
-allprops$is_template<-grepl("i18n_global\\.|i18n_module\\.|i18n_app\\.",allprops$file)
+allprops$is_template<-grepl("(i18n_global\\.|i18n_module\\.|i18n_app\\.)(_en)?",allprops$file)
 allprops$dir<-gsub("/i.+properties$","/",allprops$file)
 
 props<-allprops[!allprops$is_template,]

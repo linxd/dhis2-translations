@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-27 09:30+0200\n"
+"POT-Creation-Date: 2015-12-04 06:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -104,3 +104,13 @@ msgstr ""
 #: appmanager_set_to_default
 msgid "Set to default"
 msgstr ""
+
+#: appmanager_namespace_taken
+msgid ""
+"The namespace defined in manifest.webapp is already protected by another app"
+msgstr ""
+"The namespace defined in manifest.webapp is already protected by another app"
+
+#: appmanager_zip_unreadable
+msgid "The zip-archive uploaded could not be read"
+msgstr "The zip-archive uploaded could not be read"
