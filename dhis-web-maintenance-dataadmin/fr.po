@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-27 09:30+0200\n"
-"PO-Revision-Date: 2015-10-01 22:18+0000\n"
-"Last-Translator: bpiot <bram.piot@gmail.com>\n"
+"PO-Revision-Date: 2015-11-22 20:42+0000\n"
+"Last-Translator: aleglise <alexandre.leglise@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1443737882.0\n"
+"X-POOTLE-MTIME: 1448224966.0\n"
 
 #: remove_all
 msgid "Remove All Locks"
@@ -141,7 +141,7 @@ msgstr ""
 
 #: hit_count
 msgid "Hit count"
-msgstr ""
+msgstr "Nombre d'accès"
 
 #: miss_count
 msgid "Miss count"
@@ -845,7 +845,7 @@ msgstr "Vue SQL"
 
 #: materialized_sql_view_type
 msgid "Materialized SQL view"
-msgstr ""
+msgstr "Vue SQL matérialisée"
 
 #: sql_query_type
 msgid "SQL query"
@@ -853,15 +853,15 @@ msgstr "Requête SQL"
 
 #: created_in_database
 msgid "created in database"
-msgstr ""
+msgstr "créés en base de données"
 
 #: materialized_in_database
 msgid "materialized in database"
-msgstr ""
+msgstr "matérialisés en base de données"
 
 #: allows_for_variables
 msgid "allows for variables"
-msgstr ""
+msgstr "Autoriser les variables"
 
 #: sql_statement
 msgid "SQL Statement"
@@ -889,7 +889,7 @@ msgstr "Le Nom ne peut être nul"
 
 #: name_in_use
 msgid "Name is in use"
-msgstr ""
+msgstr "Le nom est déjà utilisé"
 
 #: code_in_use
 msgid "Code is in use"
@@ -1468,7 +1468,7 @@ msgstr "Génération de valeurs min-max"
 
 #: done
 msgid "Done"
-msgstr ""
+msgstr "Terminé"
 
 #: period_structure
 msgid "Period structure"
@@ -1484,7 +1484,7 @@ msgstr "Mettre à jour les combinaisons d'option de catégorie"
 
 #: update_organisation_unit_paths
 msgid "Update organisation unit paths"
-msgstr ""
+msgstr "Mettre à jour les chemins d'accès des unités d'organisation"
 
 #: date_period_structure
 msgid "Date period structure"
@@ -1588,49 +1588,51 @@ msgstr "Ajouter Option"
 
 #: edit_option
 msgid "Edit option"
-msgstr ""
+msgstr "Éditer l'option"
 
 #: sort_options
 msgid "Sort options"
-msgstr ""
+msgstr "Trier les options"
 
 #: available_options
 msgid "Available options"
-msgstr ""
+msgstr "Options disponibles"
 
 #: please_select_a_dataset
 msgctxt "please_select_a_dataset"
 msgid "Please select a data set"
-msgstr ""
+msgstr "Veuillez sélectionner un ensemble de données"
 
 #: please_select_an_organisation_unit
 msgctxt "please_select_an_organisation_unit"
 msgid "Please select an organisation unit"
-msgstr ""
+msgstr "Veuillez sélectionner une unité d'organisation"
 
 #: prev_year
 msgid "Prev year"
-msgstr ""
+msgstr "Année préc."
 
 #: next_year
 msgid "Next year"
-msgstr ""
+msgstr "Année suivante"
 
 #: update_the_data_elements_and_option_combos_in_expression
 msgid "Update the data elements and option combos in expression"
 msgstr ""
+"Mettre à jour les éléments de données et combinaisons de catégories dans "
+"l'expression"
 
 #: org_unit_group_does_not_exist
 msgid "Org unit group does not exist"
-msgstr ""
+msgstr "Le groupe d'unités d'organisation n'existe pas"
 
 #: duplicate_periods
 msgid "Duplicate periods"
-msgstr ""
+msgstr "Périodes dupliquées"
 
 #: remove_expired_invitations
 msgid "Remove expired invitations"
-msgstr ""
+msgstr "Supprimer les invitations périmées"
 
 #: view_name
 msgid "View name"

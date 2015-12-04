@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2015-10-02 22:44+0000\n"
+"PO-Revision-Date: 2015-10-31 18:14+0000\n"
 "Last-Translator: bpiot <bram.piot@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1443825888.0\n"
+"X-POOTLE-MTIME: 1446315288.0\n"
 
 #: dimensions
 msgid "Dimensions"
@@ -261,15 +261,15 @@ msgstr "12 derniers mois"
 
 #: bimonths
 msgid "Bi-months"
-msgstr ""
+msgstr "Bi-mestres"
 
 #: last_bimonth
 msgid "Last bi-month"
-msgstr ""
+msgstr "Dernier bi-mestre"
 
 #: last_6_bimonths
 msgid "Last 6 bi-months"
-msgstr ""
+msgstr "6 derniers bi-mestres"
 
 #: quarters
 msgid "Quarters"
@@ -904,11 +904,11 @@ msgstr "Ce mois"
 
 #: this_sixmonth
 msgid "This six-month"
-msgstr ""
+msgstr "Six-mois en cours"
 
 #: this_bimonth
 msgid "This bi-month"
-msgstr ""
+msgstr "Ce bi-mestre"
 
 #: about
 msgid "About"

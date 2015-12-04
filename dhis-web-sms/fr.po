@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-27 09:30+0200\n"
-"PO-Revision-Date: 2015-10-07 10:44+0000\n"
+"PO-Revision-Date: 2015-10-12 10:29+0000\n"
 "Last-Translator: bpiot <bram.piot@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1444214665.0\n"
+"X-POOTLE-MTIME: 1444645756.0\n"
 
 #: DHIS_2
 msgid "DHIS2"
@@ -121,7 +121,7 @@ msgstr "n'est pas un booléen valide"
 
 #: is_invalid_date
 msgid "is not a valid date (yyyy-MM-dd)"
-msgstr "n'est pas une date valide (aaaa-MM-jj)"
+msgstr "n'est pas une date valide (yyyy-MM-dd)"
 
 #: is_invalid_number
 msgid "is not a valid number"

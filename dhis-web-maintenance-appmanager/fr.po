@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-27 09:30+0200\n"
-"PO-Revision-Date: 2015-10-01 18:40+0000\n"
+"PO-Revision-Date: 2015-10-31 21:33+0000\n"
 "Last-Translator: bpiot <bram.piot@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1443724843.0\n"
+"X-POOTLE-MTIME: 1446327182.0\n"
 
 #: appmanager_list_app
 msgid "Installed Apps"
@@ -78,6 +78,8 @@ msgstr "Syntaxe JSON invalide dans le fichier manifeste"
 #: appmanager_could_not_read_file_check_server_permissions
 msgid "Could not read app files, check server permissions"
 msgstr ""
+"Impossible de lire les fichiers d'application, veuillez vérifier les "
+"autorisations serveur"
 
 #: appmanager_delete_success
 msgid "App deleted successfully"

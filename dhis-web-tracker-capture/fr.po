@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2015-10-01 16:14+0000\n"
+"PO-Revision-Date: 2015-10-31 21:37+0000\n"
 "Last-Translator: bpiot <bram.piot@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1443716069.0\n"
+"X-POOTLE-MTIME: 1446327456.0\n"
 
 #: online_notification
 msgid "You are online"
@@ -609,7 +609,7 @@ msgstr ""
 
 #: registration_and_data_entry
 msgid "Registration and Data Entry"
-msgstr ""
+msgstr "Enrôlement et saisie de données"
 
 #: program_summary_report
 msgid "Program Summary Report"
@@ -1066,11 +1066,11 @@ msgstr ""
 
 #: registration
 msgid "Registration"
-msgstr ""
+msgstr "Enrôlement"
 
 #: registration_date
 msgid "Registration date"
-msgstr ""
+msgstr "Date d'enrôlement"
 
 #: register
 msgid "Register"
@@ -1086,11 +1086,11 @@ msgstr ""
 
 #: registration_error
 msgid "Error in registration"
-msgstr ""
+msgstr "Erreur d'enrôlement"
 
 #: update_error
 msgid "Error in update"
-msgstr ""
+msgstr "Erreur d'enrôlement"
 
 #: event_creation_error
 msgid "Error in event creation"

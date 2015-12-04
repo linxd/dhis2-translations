@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-27 09:30+0200\n"
-"PO-Revision-Date: 2015-10-02 11:14+0000\n"
-"Last-Translator: bpiot <bram.piot@gmail.com>\n"
+"PO-Revision-Date: 2015-11-22 20:35+0000\n"
+"Last-Translator: aleglise <alexandre.leglise@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1443784496.0\n"
+"X-POOTLE-MTIME: 1448224556.0\n"
 
 #: datavalue
 msgctxt "datavalue"
@@ -1073,6 +1073,8 @@ msgid ""
 "Import data values on the DXF 2 XML, JSON, CSV and PDF formats. DXF 2 is the "
 "standard exchange format for DHIS 2."
 msgstr ""
+"Importer les valeurs de données en format DXF 2, XML, JSON, CSV et PDF. DXF "
+"2 est le format d'échange standard de DHIS2"
 
 #: intro_csv_data_import
 msgid ""
@@ -1149,6 +1151,8 @@ msgstr ""
 #: intro_event_export
 msgid "Export event data for programs, stages and persons on the DXF 2 format."
 msgstr ""
+"Exporter les données d'évènements pour les programmes, stades et personnes "
+"en format DXF 2."
 
 #: intro_xml_metadata_import
 msgctxt "intro_xml_metadata_import"
@@ -1172,11 +1176,16 @@ msgid ""
 "Import geographic data for organisation units using GML format. GML is an "
 "XML grammar for expressing geographical features."
 msgstr ""
+"Importer les données géographiques pour les unités d'organisation depuis le "
+"format GML. Ce format est une grammaire XML pour les éléments géographiques."
 
 #: gml_import_info_text
+#, fuzzy
 msgid ""
 "Note: Only import of GML data for existing organisation units is supported."
 msgstr ""
+"Note : L'import de données au format \"langage de balisage géographique\" "
+"(GML) n'est possible que pour des unités organisationnelles déjà existantes."
 
 #: no_item_to_match
 msgid "There is no selected item to match"
@@ -1373,7 +1382,7 @@ msgstr ""
 
 #: all_objects
 msgid "all objects"
-msgstr ""
+msgstr "Tous les objets"
 
 #: uid
 msgid "UID"
@@ -1389,7 +1398,7 @@ msgstr "Code"
 
 #: uuid
 msgid "UUID"
-msgstr ""
+msgstr "UUID"
 
 #: more_options
 msgid "More options"
@@ -1425,7 +1434,7 @@ msgstr "Importation de métadonnées"
 
 #: metadata_export
 msgid "Meta-Data Export"
-msgstr ""
+msgstr "Exportation de méta-données"
 
 #: gml_import
 msgid "GML Import"
@@ -1433,7 +1442,7 @@ msgstr "Importation GML"
 
 #: faster_for_small_imports
 msgid "Faster for small imports"
-msgstr ""
+msgstr "Plus rapide pour importations de petite taille"
 
 #: data_element_or_type_null_or_empty
 msgid "Data element or type is null or empty"

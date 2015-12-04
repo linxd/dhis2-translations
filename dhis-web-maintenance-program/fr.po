@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-27 09:30+0200\n"
-"PO-Revision-Date: 2015-10-09 14:58+0000\n"
-"Last-Translator: bpiot <bram.piot@gmail.com>\n"
+"PO-Revision-Date: 2015-11-22 20:44+0000\n"
+"Last-Translator: aleglise <alexandre.leglise@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1444402739.0\n"
+"X-POOTLE-MTIME: 1448225063.0\n"
 
 #: groupBy
 msgid "Group by"
@@ -432,18 +432,25 @@ msgid ""
 "Create, modify and view tracked entity attributes. An attribute can be used "
 "to register extra information for a tracked entity."
 msgstr ""
+"Créer, modifier et voir les attributs d'entités suivies. Un attribut peut "
+"être utilisé pour renseigner des informations supplémentaires pour l'entité "
+"suivie."
 
 #: intro_attribute_group
 msgid ""
 "Create, modify and view tracked entity attribute groups. Groups makes it "
 "more convenient to add attributes to a tracked entity."
 msgstr ""
+"Créer, modifier et voir les groupes d'attributs d'entités suivies. Un groupe "
+"permet d'assigner de multiples attributs à l'entité suivie."
 
 #: intro_attribute_visit_schedule
 msgid ""
 "Define which attributes to use in messages sent to clients regarding "
 "scheduled visits."
 msgstr ""
+"Définissez ici quels attributs sont à utiliser dans les messages envoyés aux "
+"clients à propos des visites prévues."
 
 #: intro_relationship_type
 msgid ""
@@ -466,6 +473,8 @@ msgid ""
 "Set up aggregation rules for the process of aggregating tracked entity data "
 "to statistical data."
 msgstr ""
+"Mettez en place ici les règles d'agrégation des entités suivies vers les "
+"données agrégées."
 
 #: intro_schedule_automated_message_reminder
 msgid ""
@@ -496,6 +505,8 @@ msgid ""
 "Define types of entities which can be tracked through the system, which can "
 "be anything from persons to commodities."
 msgstr ""
+"Définir les types d'entités qui peuvent être suivies à travers le système, "
+"soit n'importe quel type (personnes, produits, etc.)"
 
 #: inheritable
 msgid "Inheritable"
@@ -927,7 +938,7 @@ msgstr "Afficher tous les éléments"
 
 #: with_registration
 msgid "With registration"
-msgstr ""
+msgstr "Avec l'inscription"
 
 #: without_registration
 msgid "Without registration"
@@ -995,13 +1006,13 @@ msgstr "Insérer "
 
 #: visit_selected_program_stage
 msgid "Visited selected program stage"
-msgstr ""
+msgstr "Stade de programme sélectionné visité"
 
 #: intro_tracked_entity_aggregation_query_builder
 msgid ""
 "Define formulas, expressions, rules for aggregation data from name-based to "
 "aggregation system"
-msgstr ""
+msgstr "Définir les formules, expressions, règles d'agrégation des données"
 
 #: show_incident_date
 msgid "Show incidence date"
@@ -1054,19 +1065,19 @@ msgstr "Attributs disponibles"
 
 #: select_attributes
 msgid "Select attributes"
-msgstr ""
+msgstr "Sélectionner attributs"
 
 #: displayed_in_list
 msgid "Display in list"
-msgstr ""
+msgstr "Afficher dans la liste"
 
 #: report_date_description
 msgid "Description of report date"
-msgstr ""
+msgstr "Description de la date de rapport"
 
 #: reminder_message_template
 msgid "Reminder message templates"
-msgstr ""
+msgstr "Modèles de messages de rappel"
 
 #: message
 msgid "Message"
@@ -1187,6 +1198,7 @@ msgstr "non nul"
 #: confirm_delete_prorgam_stage_section
 msgid "Are you sure you want to delete this program stage section ?"
 msgstr ""
+"Êtes-vous sûr(e) de vouloir supprimer cette section de stade de programme?"
 
 #: form_details
 msgid "Form details"
@@ -1199,15 +1211,16 @@ msgstr "Enrôlement"
 
 #: repeatable_program_stage_details
 msgid "Repeatable program stage details"
-msgstr ""
+msgstr "Détails du stade de programme répétable"
 
 #: schedule_automated_aggregation
 msgid "Automated Aggregation"
 msgstr "Agrégation automatisé"
 
 #: schedule_automated_aggregation_form
+#, fuzzy
 msgid "Schedule automated aggregation"
-msgstr ""
+msgstr "Planifier l'agrégation automatisée "
 
 #: intro_schedule_automated_aggregation
 msgid ""
@@ -1279,7 +1292,7 @@ msgstr "L'expression n'est pas nulle"
 
 #: complete_allowed_only_if_validation_passes
 msgid "Complete allowed only if validation passes"
-msgstr ""
+msgstr "Terminer seulement permis si la validation est réussie"
 
 #: skip_to_generate_overdue_events
 msgid "Skip generation of events that are overdue (before enrollment date)"
@@ -1347,7 +1360,7 @@ msgstr "Date de décès"
 #: registration_date
 msgctxt "registration_date"
 msgid "Registration date"
-msgstr ""
+msgstr "Date d'enregistrement"
 
 #: is_dead
 msgid "Is dead"
@@ -1440,7 +1453,7 @@ msgstr ""
 
 #: insert_a_due_date
 msgid "Please insert a due-date"
-msgstr ""
+msgstr "Veuillez insérer une date prévue"
 
 #: capture_coordinates
 msgid "Capture coordinates"
@@ -1696,11 +1709,11 @@ msgstr "Créer un formulaire d'enregistrement par défaut"
 
 #: use_birth_date_as_incident_date
 msgid "Set incidence date to date of birth"
-msgstr ""
+msgstr "Définir la date d'incidence comme date de naissance"
 
 #: use_birth_date_as_enrollment_date
 msgid "Set enrollment date to date of birth"
-msgstr ""
+msgstr "Définir la date d'enrôlement comme date de naissance"
 
 #: default_form_name
 msgid "Default form name"
@@ -1712,7 +1725,7 @@ msgstr "Nom du formulaire personnalisé"
 
 #: allow_select_enrollment_dates_in_future
 msgid "Allow selecting enrollment dates in future"
-msgstr ""
+msgstr "Permettre la date d'enrôlement dans le futur"
 
 #: allow_select_enrollment_date_in_future
 msgid "Allow future enrollment dates"
@@ -1892,11 +1905,11 @@ msgstr "Visualiser critères de validation"
 
 #: define_registration_form
 msgid "Define registration form"
-msgstr ""
+msgstr "Définir le formulaire d'enrôlement"
 
 #: reminder_message_template_details
 msgid "Reminder message template details"
-msgstr ""
+msgstr "Détails du modèle du message de rappel"
 
 #: edit_reminder_message_template
 msgid "Edit reminder message template"
@@ -1912,11 +1925,11 @@ msgstr ""
 
 #: days_before
 msgid "day(s) before"
-msgstr ""
+msgstr "jour(s) avant"
 
 #: days_after
 msgid "day(s) after"
-msgstr ""
+msgstr "jour(s) après"
 
 #: data_entry_method_for_option_sets
 msgid "Data entry method for option sets"

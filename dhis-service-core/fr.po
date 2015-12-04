@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-27 09:30+0200\n"
-"PO-Revision-Date: 2015-10-07 14:30+0000\n"
+"PO-Revision-Date: 2015-10-31 18:13+0000\n"
 "Last-Translator: bpiot <bram.piot@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1444228208.0\n"
+"X-POOTLE-MTIME: 1446315195.0\n"
 
 #: district_health_information_software
 msgid "District Health Information Software 2"
@@ -895,7 +895,7 @@ msgstr "Le mois dernier"
 
 #: LAST_BIMONTH
 msgid "Last bi-month"
-msgstr ""
+msgstr "Dernier bi-mestre"
 
 #: LAST_QUARTER
 msgid "Last quarter"
@@ -947,7 +947,7 @@ msgstr "3 derniers mois"
 
 #: LAST_6_BIMONTHS
 msgid "Last 6 bi-months"
-msgstr ""
+msgstr "6 derniers bi-mestres"
 
 #: LAST_4_QUARTERS
 msgid "Last 4 quarters"
@@ -1050,30 +1050,30 @@ msgstr "Financière-Oct"
 #: format.Daily.startDate
 msgctxt "format.Daily.startDate"
 msgid "yyyy-MM-dd"
-msgstr "aaaa-mm-jj"
+msgstr "yyyy-MM-dd"
 
 #: format.Daily.endDate
 msgctxt "format.Daily.endDate"
 msgid ""
-msgstr "aaaa-mm-jj"
+msgstr "yyyy-MM-dd"
 
 #: format.Weekly.startDate
 msgid "yyyy 'W' w"
-msgstr "aaaa 'S' s"
+msgstr "yyyy 'S' w"
 
 #: format.Weekly.endDate
 msgctxt "format.Weekly.endDate"
 msgid ""
-msgstr ""
+msgstr "yyyy 'S' w"
 
 #: format.Monthly.startDate
 msgid "MMMM yyyy"
-msgstr "mmmm aaaa"
+msgstr "MMMM yyyy"
 
 #: format.Monthly.endDate
 msgctxt "format.Monthly.endDate"
 msgid ""
-msgstr "MMMM aaaa"
+msgstr "MMMM yyyy"
 
 #: format.BiMonthly.startDate
 msgctxt "format.BiMonthly.startDate"
@@ -1083,7 +1083,7 @@ msgstr "MMM 'à '"
 #: format.BiMonthly.endDate
 msgctxt "format.BiMonthly.endDate"
 msgid "MMM yyyy"
-msgstr "MMM aaaa"
+msgstr "MMM yyyy"
 
 #: format.Quarterly.startDate
 msgctxt "format.Quarterly.startDate"
@@ -1093,7 +1093,7 @@ msgstr "MMM 'à '"
 #: format.Quarterly.endDate
 msgctxt "format.Quarterly.endDate"
 msgid "MMM yyyy"
-msgstr "MMM aaaa"
+msgstr "MMM yyyy"
 
 #: format.SixMonthly.startDate
 msgctxt "format.SixMonthly.startDate"
@@ -1103,7 +1103,7 @@ msgstr "MMM 'à '"
 #: format.SixMonthly.endDate
 msgctxt "format.SixMonthly.endDate"
 msgid "MMM yyyy"
-msgstr "MMM aaaa"
+msgstr "MMM yyyy"
 
 #: format.SixMonthlyApril.startDate
 msgctxt "format.SixMonthlyApril.startDate"
@@ -1113,51 +1113,51 @@ msgstr "MMM 'à '"
 #: format.SixMonthlyApril.endDate
 msgctxt "format.SixMonthlyApril.endDate"
 msgid "MMM yyyy"
-msgstr "MMM aaaa"
+msgstr "MMM yyyy"
 
 #: format.Yearly.startDate
 msgctxt "format.Yearly.startDate"
 msgid "yyyy"
-msgstr "aaaa"
+msgstr "yyyy"
 
 #: format.Yearly.endDate
 msgctxt "format.Yearly.endDate"
 msgid ""
-msgstr "aaaa"
+msgstr "yyyy"
 
 #: format.TwoYearly.startDate
 msgid "yyyy 'and '"
-msgstr "aaaa 'et '"
+msgstr "yyyy 'et '"
 
 #: format.TwoYearly.endDate
 msgctxt "format.TwoYearly.endDate"
 msgid "yyyy"
-msgstr "aaaa"
+msgstr "yyyy"
 
 #: format.OnChange.startDate
 msgctxt "format.OnChange.startDate"
 msgid "yyyy-MM-dd '- '"
-msgstr "aaaa-MM-jj '- '"
+msgstr "yyyy-MM-dd '- '"
 
 #: format.OnChange.endDate
 msgctxt "format.OnChange.endDate"
 msgid "yyyy-MM-dd"
-msgstr "aaaa-mm-jj"
+msgstr "yyyy-MM-dd"
 
 #: format.Survey.startDate
 msgctxt "format.Survey.startDate"
 msgid "yyyy-MM-dd"
-msgstr "aaaa-mm-jj"
+msgstr "yyyy-MM-dd"
 
 #: format.Survey.endDate
 msgctxt "format.Survey.endDate"
 msgid ""
-msgstr "aaaa-mm-jj"
+msgstr "yyyy-MM-dd"
 
 #: format.Relative.startDate
 msgctxt "format.Relative.startDate"
 msgid "yyyy-MM-dd '- '"
-msgstr "aaaa-mm-jj '-'"
+msgstr "yyyy-MM-dd '-'"
 
 #: format.Relative.endDate
 msgctxt "format.Relative.endDate"
@@ -1167,32 +1167,32 @@ msgstr "aaaa-mm-jj"
 #: format.FinancialApril.startDate
 msgctxt "format.FinancialApril.startDate"
 msgid "MMM yyyy 'to '"
-msgstr "MMM aaaa 'à '"
+msgstr "MMM yyyy 'à '"
 
 #: format.FinancialApril.endDate
 msgctxt "format.FinancialApril.endDate"
 msgid "MMM yyyy"
-msgstr "MMM aaaa"
+msgstr "MMM yyyy"
 
 #: format.FinancialJuly.startDate
 msgctxt "format.FinancialJuly.startDate"
 msgid "MMM yyyy 'to '"
-msgstr "MMM aaaa 'à '"
+msgstr "MMM yyyy 'à '"
 
 #: format.FinancialJuly.endDate
 msgctxt "format.FinancialJuly.endDate"
 msgid "MMM yyyy"
-msgstr "MMM aaaa"
+msgstr "MMM yyyy"
 
 #: format.FinancialOct.startDate
 msgctxt "format.FinancialOct.startDate"
 msgid "MMM yyyy 'to '"
-msgstr "MMM aaaa 'à '"
+msgstr "MMM yyyy 'à '"
 
 #: format.FinancialOct.endDate
 msgctxt "format.FinancialOct.endDate"
 msgid "MMM yyyy"
-msgstr "MMM aaaa"
+msgstr "MMM yyyy"
 
 #. #-- Months and weeks -----------------------------------------------------------#
 #: month.january
@@ -2648,11 +2648,11 @@ msgstr "Localiser par code"
 
 #: select_at_level
 msgid "Select at level"
-msgstr "Sélectionner à tous les niveaux"
+msgstr "Sélectionner au niveau"
 
 #: unselect_at_level
 msgid "Un-select at level"
-msgstr "Désélectionner au niveau"
+msgstr "Désélectionner niveau"
 
 #: unselect_all
 msgid "Un-select all"
@@ -2664,19 +2664,19 @@ msgstr "Sélectionner tout"
 
 #: select_in_group
 msgid "Select in group"
-msgstr "Sélectionner dans le groupe"
+msgstr "Sélectionner groupe"
 
 #: unselect_in_group
 msgid "Un-select in group"
-msgstr "Desélectionner dans le groupe"
+msgstr "Désélectionner groupe"
 
 #: select_children
 msgid "Select children"
-msgstr "Sélectionner les enfants"
+msgstr "Sélectionner enfants"
 
 #: unselect_children
 msgid "Un-select children"
-msgstr "Désélectionner les enfants"
+msgstr "Désélectionner enfants"
 
 #: organisation_unit_selection_tree
 msgid "Organisation Unit Selection"
