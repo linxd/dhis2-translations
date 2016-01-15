@@ -1,946 +1,951 @@
 #. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-apps/src/main/webapp/dhis-web-event-visualizer/i18n/i18n_app.properties
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-12-26 22:12+0000\n"
+"Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1451167940.0\n"
 
 #: dimensions
 msgid "Dimensions"
-msgstr ""
+msgstr "Dimensi"
 
 #: table_layout
 msgid "Table layout"
-msgstr ""
+msgstr "Layout Tabel"
 
 #: show_totals
 msgid "Show totals"
-msgstr ""
+msgstr "Tampilkan jumlah total"
 
 #: show_subtotals
 msgid "Show sub-totals"
-msgstr ""
+msgstr "Tampilkan jumlah sub-total"
 
 #: hide_empty_rows
 msgid "Hide empty rows"
-msgstr ""
+msgstr "Sembunyikan baris yang kosong"
 
 #: display_density
 msgid "Display density"
-msgstr ""
+msgstr "Display density"
 
 #: font_size
 msgid "Font size"
-msgstr ""
+msgstr "Ukuran font"
 
 #: digit_group_separator
 msgid "Digit group separator"
-msgstr ""
+msgstr "Digit group separator"
 
 #: comfortable
 msgid "Comfortable"
-msgstr ""
+msgstr "Comfortable"
 
 #: compact
 msgid "Compact"
-msgstr ""
+msgstr "Compact"
 
 #: large
 msgid "Large"
-msgstr ""
+msgstr "Large"
 
 #: small_
 msgid "Small"
-msgstr ""
+msgstr "Small"
 
 #: normal
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #: reporting_period
 msgid "Reporting period"
-msgstr ""
+msgstr "Reporting period"
 
 #: organisation_unit
 msgid "Organisation unit"
-msgstr ""
+msgstr "Unit organisasi"
 
 #: organisation_units
 msgid "Organisation units"
-msgstr ""
+msgstr "Unit-unit organisasi"
 
 #: parent_organisation_unit
 msgid "Parent organisation unit"
-msgstr ""
+msgstr "Induk unit organisasi"
 
 #: user_organisation_unit
 msgid "User org unit"
-msgstr ""
+msgstr "User org unit"
 
 #: table_options
 msgid "Table options"
-msgstr ""
+msgstr "Pilihan tabel"
 
 #: create
 msgid "Create"
-msgstr ""
+msgstr "Buat"
 
 #: update
 msgid "Update"
-msgstr ""
+msgstr "Update"
 
 #: cancel
 msgid "Cancel"
-msgstr ""
+msgstr "Batal"
 
 #: delete_
 msgid "Delete"
-msgstr ""
+msgstr "Hapus"
 
 #: save
 msgid "Save"
-msgstr ""
+msgstr "Simpan"
 
 #: hide
 msgid "Hide"
-msgstr ""
+msgstr "Sembunyikan"
 
 #: add_new
 msgid "Add new"
-msgstr ""
+msgstr "Tambah baru"
 
 #: manage_favorites
 msgid "Manage favorites"
-msgstr ""
+msgstr "Manage favorites"
 
 #: search_for_favorites
 msgid "Search for favorites"
-msgstr ""
+msgstr "Search for favorites"
 
 #: overwrite_favorite
 msgid "Overwrite favorite"
-msgstr ""
+msgstr "Overwrite favorite"
 
 #: delete_favorite
 msgid "Delete favorite"
-msgstr ""
+msgstr "Delete favorite"
 
 #: prev
 msgid "Prev"
-msgstr ""
+msgstr "Sebelumnya"
 
 #: next
 msgid "Next"
-msgstr ""
+msgstr "Lanjut"
 
 #: rename
 msgid "Rename"
-msgstr ""
+msgstr "Ubah nama"
 
 #: overwrite
 msgid "Overwrite"
-msgstr ""
+msgstr "Overwrite"
 
 #: share_with_other_people
 msgid "Share with other people"
-msgstr ""
+msgstr "Bagikan dengan orang lain "
 
 #: sharing_settings
 msgid "Sharing settings"
-msgstr ""
+msgstr "Sharing settings"
 
 #: can_view
 msgid "Can view"
-msgstr ""
+msgstr "Dapat ditampilkan"
 
 #: can_edit_and_view
 msgid "Can edit and view"
-msgstr ""
+msgstr "Dapat diedit dan ditampilkan"
 
 #: none
 msgid "None"
-msgstr ""
+msgstr "Tidak ada"
 
 #: public_access
 msgid "Public access"
-msgstr ""
+msgstr "Public access"
 
 #: search_for_user_groups
 msgid "Search for user groups"
-msgstr ""
+msgstr "Search for user groups"
 
 #: available
 msgid "Available"
-msgstr ""
+msgstr "Tersedia"
 
 #: selected
 msgid "Selected"
-msgstr ""
+msgstr "Terpilih"
 
 #: indicators
 msgid "Indicators"
-msgstr ""
+msgstr "Indikator-indikator"
 
 #: all_indicator_groups
 msgid "All indicator groups"
-msgstr ""
+msgstr "Semua kelompok indikator"
 
 #: select_indicator_group
 msgid "Select indicator group"
-msgstr ""
+msgstr "Pilih kelompok indikator"
 
 #: data_elements
 msgid "Data elements"
-msgstr ""
+msgstr "Elemen data"
 
 #: all_data_element_groups
 msgid "All data element groups"
-msgstr ""
+msgstr "Semua kelompok elemen data"
 
 #: select_data_element_group
 msgid "Select data element group"
-msgstr ""
+msgstr "Pilih kelompok elemen data"
 
 #: data_sets
 msgid "Data sets"
-msgstr ""
+msgstr "Set data"
 
 #: reporting_rates
 msgid "Reporting rates"
-msgstr ""
+msgstr "Reporting rates"
 
 #: periods
 msgid "Periods"
-msgstr ""
+msgstr "Periode"
 
 #: select_period_type
 msgid "Select period type"
-msgstr ""
+msgstr "Pilih periode"
 
 #: weeks
 msgid "Weeks"
-msgstr ""
+msgstr "Minggu"
 
 #: last_week
 msgid "Last week"
-msgstr ""
+msgstr "Minggu lalu"
 
 #: last_4_weeks
 msgid "Last 4 weeks"
-msgstr ""
+msgstr "4 minggu yang lalu"
 
 #: last_12_weeks
 msgid "Last 12 weeks"
-msgstr ""
+msgstr "12 minggu yang lalu"
 
 #: months
 msgid "Months"
-msgstr ""
+msgstr "Bulan"
 
 #: last_month
 msgid "Last month"
-msgstr ""
+msgstr "Bulan lalu"
 
 #: last_3_months
 msgid "Last 3 months"
-msgstr ""
+msgstr "3 bulan yang lalu"
 
 #: last_12_months
 msgid "Last 12 months"
-msgstr ""
+msgstr "12 bulan yang lalu"
 
 #: bimonths
 msgid "Bi-months"
-msgstr ""
+msgstr "Tiap 2 bulan"
 
 #: last_bimonth
 msgid "Last bi-month"
-msgstr ""
+msgstr "2 bulan yang lalu"
 
 #: last_6_bimonths
 msgid "Last 6 bi-months"
-msgstr ""
+msgstr "6 kali 2 bulan terakhir"
 
 #: quarters
 msgid "Quarters"
-msgstr ""
+msgstr "Triwulan"
 
 #: last_quarter
 msgid "Last quarter"
-msgstr ""
+msgstr "Triwulan terakhir"
 
 #: last_4_quarters
 msgid "Last 4 quarters"
-msgstr ""
+msgstr "4 triwulan terakhir"
 
 #: sixmonths
 msgid "Six-months"
-msgstr ""
+msgstr "6 bulan"
 
 #: last_sixmonth
 msgid "Last six-month"
-msgstr ""
+msgstr "6 bulan terakhir"
 
 #: last_2_sixmonths
 msgid "Last 2 six-months"
-msgstr ""
+msgstr "2 kali 6 bulan terakhir"
 
 #: years
 msgid "Years"
-msgstr ""
+msgstr "Tahun"
 
 #: this_year
 msgid "This year"
-msgstr ""
+msgstr "Tahun ini"
 
 #: last_year
 msgid "Last year"
-msgstr ""
+msgstr "Tahun lalu"
 
 #: last_5_years
 msgid "Last 5 years"
-msgstr ""
+msgstr "5 tahun terakhir"
 
 #: financial_years
 msgid "Financial years"
-msgstr ""
+msgstr "Financial years"
 
 #: last_financial_year
 msgid "Last financial year"
-msgstr ""
+msgstr "Last financial year"
 
 #: last_5_financial_years
 msgid "Last 5 financial years"
-msgstr ""
+msgstr "Last 5 financial years"
 
 #: prev_year
 msgid "Prev year"
-msgstr ""
+msgstr "Tahun sebelumnya"
 
 #: next_year
 msgid "Next year"
-msgstr ""
+msgstr "Tahun depan"
 
 #: select_all_children
 msgid "Select all children"
-msgstr ""
+msgstr "Select all children"
 
 #: table
 msgid "Table"
-msgstr ""
+msgstr "Tabel"
 
 #: chart
 msgid "Chart"
-msgstr ""
+msgstr "Chart"
 
 #: map
 msgid "Map"
-msgstr ""
+msgstr "Map"
 
 #: home
 msgid "Home"
-msgstr ""
+msgstr "Beranda"
 
 #: data
 msgid "Data"
-msgstr ""
+msgstr "Data"
 
 #: categories
 msgid "Categories"
-msgstr ""
+msgstr "Kategori"
 
 #: style
 msgid "Style"
-msgstr ""
+msgstr "Style"
 
 #: parameters
 msgid "Parameters"
-msgstr ""
+msgstr "Parameter"
 
 #: for_standard_reports_only
 msgid "for standard reports only"
-msgstr ""
+msgstr "for standard reports only"
 
 #: please_create_a_table_first
 msgid "Please create a table first"
-msgstr ""
+msgstr "Silakan buat tabel terlebih dahulu"
 
 #: indicators_cannot_be_specified_as_filter
 msgid "Indicators cannot be specified as filter"
-msgstr ""
+msgstr "Indikator tidak dapat ditetapkan sebagai filter"
 
 #: categories_cannot_be_specified_as_filter
 msgid "Categories cannot be specified as filter"
-msgstr ""
+msgstr "Kategori tidak dapat ditetapkan sebagai filter"
 
 #: data_element_group_sets_cannot_be_specified_together_with_data_sets
 msgid "Data element group sets cannot be specified together with data sets"
 msgstr ""
+"Kelompok elemen data set tidak dapat ditetapkan bersama dengan set data  "
 
 #: at_least_one_dimension_must_be_specified_as_row_or_column
 msgid "At least one dimension must be specified as row or column"
-msgstr ""
+msgstr "Paling tidak ada 1 dimensi yang ditetapkan sebagai baris atau kolom"
 
 #: at_least_one_period_must_be_specified_as_column_row_or_filter
 msgid "At least one period must be specified as column row or filter"
 msgstr ""
+"Paling tidak ada 1 periode yang ditetapkan sebagai kolom, baris atau filter"
 
 #: layout
 msgid "Layout"
-msgstr ""
+msgstr "Layout"
 
 #: options
 msgid "Options"
-msgstr ""
+msgstr "Options"
 
 #: download
 msgid "Download"
-msgstr ""
+msgstr "Download"
 
 #: favorites
 msgid "Favorites"
-msgstr ""
+msgstr "Favorites"
 
 #: include_regression
 msgid "Include regression"
-msgstr ""
+msgstr "Include regression"
 
 #: include_cumulative
 msgid "Include cumulative"
-msgstr ""
+msgstr "Include cumulative"
 
 #: sort_order
 msgid "Sort order"
-msgstr ""
+msgstr "Sort order"
 
 #: low_to_high
 msgid "Low to high"
-msgstr ""
+msgstr "Rendah ke tinggi"
 
 #: high_to_low
 msgid "High to low"
-msgstr ""
+msgstr "Tinggi ke rendah"
 
 #: top_limit
 msgid "Top limit"
-msgstr ""
+msgstr "Batas atas"
 
 #: plain_data_sources
 msgid "Plain data source"
-msgstr ""
+msgstr "Plain data source"
 
 #: graphics
 msgid "Graphics"
-msgstr ""
+msgstr "Graphics"
 
 #: data_sets_cannot_be_specified_as_filter
 msgid "Data sets cannot be specified as filter"
-msgstr ""
+msgstr "Set data tidak dapat ditetapkan sebagai filter"
 
 #: share
 msgid "Share"
-msgstr ""
+msgstr "Bagikan"
 
 #: interpretation
 msgid "interpretation"
-msgstr ""
+msgstr "Interpretasi"
 
 #: write_your_interpretation
 msgid "Write a comment question or interpretation"
-msgstr ""
+msgstr "Tulis komentar, pertanyaan atau interpretasi"
 
 #: legend_set
 msgid "Legend set"
-msgstr ""
+msgstr "Legend set"
 
 #: select_organisation_units
 msgid "Select organisation units"
-msgstr ""
+msgstr "Pilih unit organisasi"
 
 #: select_boundaries_and_levels
 msgid "Select boundaries and levels"
-msgstr ""
+msgstr "Select boundaries and levels"
 
 #: select_organisation_unit_levels
 msgid "Select organisation unit levels"
-msgstr ""
+msgstr "Pilih level unit organisasi"
 
 #: totals
 msgid "Totals"
-msgstr ""
+msgstr "Total"
 
 #: details
 msgid "Details"
-msgstr ""
+msgstr "Detail"
 
 #: select_boundaries_and_groups
 msgid "Select boundaries and groups"
-msgstr ""
+msgstr "Select boundaries and groups"
 
 #: select_organisation_unit_groups
 msgid "Select organisation unit groups"
-msgstr ""
+msgstr "Pilih kelompok unit organisasi"
 
 #: allow_external_access
 msgid "Allow external access"
-msgstr ""
+msgstr "Allow external access"
 
 #: show_hierarchy
 msgid "Show hierarchy"
-msgstr ""
+msgstr "Tampilkan hierarki"
 
 #: all_indicators
 msgid "All indicators"
-msgstr ""
+msgstr "Semua indikator"
 
 #: all_data_elements
 msgid "All data elements"
-msgstr ""
+msgstr "Semua data elemen"
 
 #: daily
 msgid "Daily"
-msgstr ""
+msgstr "Harian"
 
 #: weekly
 msgid "Weekly"
-msgstr ""
+msgstr "Mingguan"
 
 #: monthly
 msgid "Monthly"
-msgstr ""
+msgstr "Bulanan"
 
 #: bimonthly
 msgid "Bi-monthly"
-msgstr ""
+msgstr "Tiap dua bulan"
 
 #: quarterly
 msgid "Quarterly"
-msgstr ""
+msgstr "Tiap triwulan"
 
 #: sixmonthly
 msgid "Six-monthly"
-msgstr ""
+msgstr "Tiap 6 bulan"
 
 #: sixmonthly_april
 msgid "Six-monthly April"
-msgstr ""
+msgstr "Tiap 6 bulan di bulan April"
 
 #: yearly
 msgid "Yearly"
-msgstr ""
+msgstr "Tiap tahun"
 
 #: financial_oct
 msgid "Financial October"
-msgstr ""
+msgstr "Financial October"
 
 #: financial_july
 msgid "Financial July"
-msgstr ""
+msgstr "Financial July"
 
 #: financial_april
 msgid "Financial April"
-msgstr ""
+msgstr "Financial April"
 
 #: plugin_config
 msgid "Plugin config"
-msgstr ""
+msgstr "Plugin config"
 
 #: default_
 msgid "Default"
-msgstr ""
+msgstr "Default"
 
 #: aggregation_type
 msgid "Aggregation type"
-msgstr ""
+msgstr "Aggregation type"
 
 #: relative_periods
 msgid "Relative periods"
-msgstr ""
+msgstr "Relative periods"
 
 #: start_end_dates
 msgid "Start-end dates"
-msgstr ""
+msgstr "Tanggal dari mulai sampai terakhir"
 
 #: top
 msgid "Top"
-msgstr ""
+msgstr "Atas"
 
 #: bottom
 msgid "Bottom"
-msgstr ""
+msgstr "Bawah"
 
 #: limit
 msgid "Limit"
-msgstr ""
+msgstr "Limit"
 
 #: title
 msgid "DHIS 2 Event Visualizer"
-msgstr ""
+msgstr "DHIS 2 Event Visualizer"
 
 #: chart_type
 msgid "Chart type"
-msgstr ""
+msgstr "Jenis Diagram"
 
 #: column_chart
 msgid "Column chart"
-msgstr ""
+msgstr "Diagram kolom"
 
 #: stacked_column_chart
 msgid "Stacked column chart"
-msgstr ""
+msgstr "Stacked column chart"
 
 #: bar_chart
 msgid "Bar chart"
-msgstr ""
+msgstr "Diagram batang"
 
 #: stacked_bar_chart
 msgid "Stacked bar chart"
-msgstr ""
+msgstr "Stacked bar chart"
 
 #: line_chart
 msgid "Line chart"
-msgstr ""
+msgstr "Diagram garis"
 
 #: area_chart
 msgid "Area chart"
-msgstr ""
+msgstr "Area chart"
 
 #: pie_chart
 msgid "Pie chart"
-msgstr ""
+msgstr "Pie chart"
 
 #: radar_chart
 msgid "Radar chart"
-msgstr ""
+msgstr "Radar chart"
 
 #: events
 msgid "Events"
-msgstr ""
+msgstr "Events"
 
 #: tracked_entity_instances
 msgid "Tracked entity instances"
-msgstr ""
+msgstr "Tracked entity instances"
 
 #: count_type
 msgid "Count type"
-msgstr ""
+msgstr "Count type"
 
 #: trend_line
 msgid "Show trend lines"
-msgstr ""
+msgstr "Show trend lines"
 
 #: hide_subtitle
 msgid "Hide chart subtitle"
-msgstr ""
+msgstr "Hide chart subtitle"
 
 #: hide_legend
 msgid "Hide chart legend"
-msgstr ""
+msgstr "Hide chart legend"
 
 #: domain_axis_label
 msgid "Domain axis title"
-msgstr ""
+msgstr "Domain axis title"
 
 #: range_axis_label
 msgid "Range axis title"
-msgstr ""
+msgstr "Range axis title"
 
 #: target
 msgid "Target"
-msgstr ""
+msgstr "Target"
 
 #: target_line_value
 msgid "Target line value"
-msgstr ""
+msgstr "Target line value"
 
 #: target_line_label
 msgid "Target line label"
-msgstr ""
+msgstr "Target line label"
 
 #: show_values
 msgid "Show values"
-msgstr ""
+msgstr "Tampilkan value"
 
 #: hide_empty_category_items
 msgid "Hide empty category items"
-msgstr ""
+msgstr "Hide empty category items"
 
 #: chart_title
 msgid "Chart title"
-msgstr ""
+msgstr "Judul Diagram"
 
 #: hide_chart_title
 msgid "Hide chart title"
-msgstr ""
+msgstr "Sembunyikan judul diagram"
 
 #: trend
 msgid "Trend"
-msgstr ""
+msgstr "Trend"
 
 #: base
 msgid "Base"
-msgstr ""
+msgstr "Base"
 
 #: axes
 msgid "Axes"
-msgstr ""
+msgstr "Sumbu"
 
 #: general
 msgid "General"
-msgstr ""
+msgstr "General"
 
 #: go_to_event_reports
 msgid "Go to event reports"
-msgstr ""
+msgstr "Go to event reports"
 
 #: open_this_chart_as_table
 msgid "Open this chart as table"
-msgstr ""
+msgstr "Tampilkan diagram ini dalam bentuk tabel"
 
 #: open_last_table
 msgid "Open last table"
-msgstr ""
+msgstr "Buka tabel terakhir"
 
 #: chart_options
 msgid "Chart options"
-msgstr ""
+msgstr "Chart options"
 
 #: select_sub_units
 msgid "Select sub-units"
-msgstr ""
+msgstr "Pilih sub-unit"
 
 #: you_do_not_have_access_to_all_items_in_this_favorite
 msgid "You do not have access to all items in this favorite"
-msgstr ""
+msgstr "Anda tidak memiliki akses untuk semua item di favorite"
 
 #: example1
 msgid "Creating a chart"
-msgstr ""
+msgstr "Buat sebuah diagram"
 
 #: example2
 msgid "Select items from any of the dimensions in the left menu"
-msgstr ""
+msgstr "Pilih item dari beberapa dimensi di menu sebelah kiri"
 
 #: example3
 msgid "Click Layout to arrange your dimensions on chart series and categories"
-msgstr ""
+msgstr "Klik Layout untuk menyusun dimensi pada diagram dan kategori"
 
 #: example4
 msgid "Click Update to create your chart"
-msgstr ""
+msgstr "Klik Update untuk membuat diagram"
 
 #: example5
 msgid "Working with a chart"
-msgstr ""
+msgstr "Working with a chart"
 
 #: example6
 msgid "Click Options to show trend lines, target lines, axis titles and more"
 msgstr ""
+"Klik option untuk melihat trend lines, target lines, axis titles dan lainnya"
 
 #: example7
 msgid "Click Favorites to save your chart for later use"
-msgstr ""
+msgstr "Klik Favorites untuk menyimpan diagram"
 
 #: example8
 msgid "Click Download to save chart graphics to your computer"
-msgstr ""
+msgstr "Klik Download untuk menyimpan chart graphics "
 
 #: last_52_weeks
 msgid "Last 52 weeks"
-msgstr ""
+msgstr "52 minggu yang lalu"
 
 #: last_6_months
 msgid "Last 6 months"
-msgstr ""
+msgstr "6 bulan yang lalu"
 
 #: initializing
 msgid "Initializing"
-msgstr ""
+msgstr "Initializing"
 
 #: created_by
 msgid "Created by"
-msgstr ""
+msgstr "Dibuat oleh"
 
 #: clear_event_chart
 msgid "Clear event chart"
-msgstr ""
+msgstr "Clear event chart"
 
 #: yes
 msgid "Yes"
-msgstr ""
+msgstr "Ya"
 
 #: no
 msgid "No"
-msgstr ""
+msgstr "Tidak"
 
 #: output_type
 msgid "Output type"
-msgstr ""
+msgstr "Output type"
 
 #: event
 msgid "Event"
-msgstr ""
+msgstr "Event"
 
 #: tracked_entity_instance
 msgid "Tracked entity instance"
-msgstr ""
+msgstr "Tracked entity instance"
 
 #: enrollment
 msgid "Enrollment"
-msgstr ""
+msgstr "Enrollment"
 
 #: series_dimension
 msgid "Series dimension"
-msgstr ""
+msgstr "Series dimension"
 
 #: category_dimension
 msgid "Category dimension"
-msgstr ""
+msgstr "Category dimension"
 
 #: chart_filter
 msgid "Chart filter"
-msgstr ""
+msgstr "Chart filter"
 
 #: report_filter
 msgid "Report filter"
-msgstr ""
+msgstr "Report filter"
 
 #: value
 msgid "Value"
-msgstr ""
+msgstr "Value"
 
 #: average
 msgid "Average"
-msgstr ""
+msgstr "Rata-rata"
 
 #: count
 msgid "Count"
-msgstr ""
+msgstr "Hitung"
 
 #: sum
 msgid "Sum"
-msgstr ""
+msgstr "Jumlah"
 
 #: by_data_element
 msgid "By data element"
-msgstr ""
+msgstr "By data element"
 
 #: stddev
 msgid "Std Dev"
-msgstr ""
+msgstr "Std Dev"
 
 #: variance
 msgid "Variance"
-msgstr ""
+msgstr "Varian"
 
 #: min
 msgid "Min"
-msgstr ""
+msgstr "Min"
 
 #: max
 msgid "Max"
-msgstr ""
+msgstr "Maks"
 
 #: number_of_events
 msgid "Number of events"
-msgstr ""
+msgstr "Jumlah Events"
 
 #: this_financial_year
 msgid "This financial year"
-msgstr ""
+msgstr "This financial year"
 
 #: user_sub_units
 msgid "User sub-units"
-msgstr ""
+msgstr "User sub-units"
 
 #: user_sub_x2_units
 msgid "User sub-x2-units"
-msgstr ""
+msgstr "User sub-x2-units"
 
 #: hide_na_data
 msgid "Hide n/a data"
-msgstr ""
+msgstr "Hide n/a data"
 
 #: duplicate
 msgid "Duplicate"
-msgstr ""
+msgstr "Duplicate"
 
 #: remove
 msgid "Remove"
-msgstr ""
+msgstr "Hapus"
 
 #: select
 msgid "Select"
-msgstr ""
+msgstr "Pilih"
 
 #: this_week
 msgid "This week"
-msgstr ""
+msgstr "Minggu ini"
 
 #: this_quarter
 msgid "This quarter"
-msgstr ""
+msgstr "Triwulan ini"
 
 #: this_month
 msgid "This month"
-msgstr ""
+msgstr "Bulan ini"
 
 #: this_sixmonth
 msgid "This six-month"
-msgstr ""
+msgstr "6 bulan ini"
 
 #: this_bimonth
 msgid "This bi-month"
-msgstr ""
+msgstr "2 bulan ini"
 
 #: about
 msgid "About"
-msgstr ""
+msgstr "Tentang"
 
 #: time_since_last_data_update
 msgid "Time since last data update"
-msgstr ""
+msgstr "Time since last data update"
 
 #: version
 msgid "Version"
-msgstr ""
+msgstr "Versi"
 
 #: revision
 msgid "Revision"
-msgstr ""
+msgstr "Revisi"
 
 #: build_time
 msgid "Build time"
-msgstr ""
+msgstr "Build time"
 
 #: username
 msgid "Username"
-msgstr ""
+msgstr "Username"
 
 #: no_values_found_for_current_selection
 msgid "No values found for the current selection"
-msgstr ""
+msgstr "No values found for the current selection"
 
 #: error
 msgid "Error"
-msgstr ""
+msgstr "Error"
 
 #: warning
 msgid "Warning"
-msgstr ""
+msgstr "Peringatan"
 
 #: completed_only
 msgid "Completed only"
-msgstr ""
+msgstr "Completed only"
 
 #: include_only_completed_events_only
 msgid "Include only completed events"
-msgstr ""
+msgstr "Include only completed events"

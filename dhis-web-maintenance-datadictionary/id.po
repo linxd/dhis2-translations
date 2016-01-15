@@ -1,10 +1,10 @@
-#. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-datadictionary/src/main/resources/org/hisp/dhis/dd/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-datadictionary/src/main/resources/org/hisp/dhis/dd/i18n_module_id.properties
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-datadictionary/src/main/resources/org/hisp/dhis/dd/i18n_module.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-04 06:50+0200\n"
-"PO-Revision-Date: 2015-09-26 15:59+0000\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
+"PO-Revision-Date: 2016-01-02 04:53+0000\n"
 "Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1443283176.0\n"
+"X-POOTLE-MTIME: 1451710398.0\n"
 
 #: aggregate
 msgid "Aggregate"
@@ -21,7 +21,7 @@ msgstr "Aggregate"
 
 #: tracker
 msgid "Tracker"
-msgstr ""
+msgstr "Tracker"
 
 #: no_option_assigned
 msgid "Use of category with an empty option is not allowed!"
@@ -118,7 +118,7 @@ msgstr "Data Element Groups"
 
 #: data_elements
 msgid "Data elements"
-msgstr ""
+msgstr "Elemen data"
 
 #: indicator
 msgid "Indicator"
@@ -136,8 +136,9 @@ msgstr "Indicator Groups"
 msgid "Create new data element"
 msgstr "Create new data element"
 
-#~ msgid "Domain type"
-#~ msgstr "Domain Type"
+#: domain_type
+msgid "Domain Type"
+msgstr "Domain Type"
 
 #: create_new_data_element_group
 msgid "Create new data element group"
@@ -305,7 +306,7 @@ msgstr "Region"
 
 #: select_domain_type
 msgid "Select domain type"
-msgstr ""
+msgstr "Pilih tipe domain"
 
 #: current
 msgid "Current"
@@ -313,7 +314,7 @@ msgstr "Current"
 
 #: date
 msgid "Date"
-msgstr ""
+msgstr "Tanggal"
 
 #: selected_data_elements
 msgid "Selected data elements"
@@ -325,7 +326,7 @@ msgstr "Selected indicators"
 
 #: available_indicators
 msgid "Available indicators"
-msgstr ""
+msgstr "Indikator yang tersedia"
 
 #: item_deleted_successfully
 msgid "Item deleted successfully"
@@ -337,15 +338,15 @@ msgstr "Value"
 
 #: confirm_delete_indicator
 msgid "Do you want to delete indicator?"
-msgstr ""
+msgstr "Apakah anda ingin menghapus indikator?"
 
 #: adding_indicator_failed
 msgid "Adding indicator failed"
-msgstr ""
+msgstr "Penambahan indikator yang gagal"
 
 #: saving_indicator_failed
 msgid "Saving indicator failed"
-msgstr ""
+msgstr "Menyimpan indikator yang gagal"
 
 #: translation_translate
 msgid "Translate"
@@ -560,28 +561,38 @@ msgid ""
 "Create, modify, view and delete data element category options. Category "
 "options are options with in category."
 msgstr ""
+"Buat, modifikasi, tampilkan dan hapus elemen data category option. Category "
+"options merupakan pilihan-pilihan dalam kategori"
 
 #: intro_category
 msgid ""
 "Create, modify, view and delete data element categories. Categories are used "
 "for disaggregation of data elements."
 msgstr ""
+"Buat, modifikasi, tampilkan dan hapus kategori data elemen. Kategori-"
+"kategori digunakan untuk disagregasi elemen data"
 
 #: intro_category_combo
 msgid "Create, modify, view and delete data element category combinations."
 msgstr ""
+"Buat, modifikasi, tampilkan dan hapus elemen data kombinasi-kombinasi "
+"kategori"
 
 #: intro_category_option_group
 msgid ""
 "Create, modify, view and delete category option groups, which can be used to "
 "classify category options."
 msgstr ""
+"Buat, modifikasi, tampilkan dan hapus grup category option, yang dapat "
+"digunakan untuk mengklasifikasi category options. "
 
 #: intro_category_option_group_set
 msgid ""
 "Create, modify, view and delete category option group sets, which can be "
 "used for improved data analysis."
 msgstr ""
+"Buat, modifikasi, tampilkan dan hapus grup category option, yang dapat "
+"digunakan untuk meningkatkan analisis data"
 
 #: intro_indicator
 msgid ""
@@ -677,7 +688,7 @@ msgstr "Edit concept"
 
 #: concept_name
 msgid "Concept name"
-msgstr ""
+msgstr "Konsep nama"
 
 #: confirm_delete_concept
 msgid "Are you sure you want to delete this concept?"
@@ -723,7 +734,7 @@ msgstr "Number type"
 
 #: number
 msgid "Number"
-msgstr ""
+msgstr "Nomor"
 
 #: int
 msgid "Integer"
@@ -751,7 +762,7 @@ msgstr "Compulsory"
 
 #: data_dimension
 msgid "Data Dimension"
-msgstr ""
+msgstr "Dimensi data"
 
 #: select_group
 msgid "Select group"
@@ -787,7 +798,7 @@ msgstr "Data element category option management"
 
 #: data_element_category_option_combination_management
 msgid "Data element category option combination management"
-msgstr ""
+msgstr "Data element category option combination management"
 
 #: create_new_data_element_category_option
 msgid "Create new data element category option"
@@ -807,39 +818,39 @@ msgstr "Selected category options"
 
 #: use_as_data_dimension
 msgid "Use as data dimension"
-msgstr ""
+msgstr "Gunakan sebagai dimensi data "
 
 #: tip
 msgid "Tip"
-msgstr ""
+msgstr "Tip"
 
 #: use
 msgid "use"
-msgstr ""
+msgstr "gunakan"
 
 #: dimension_type
 msgid "Dimension type"
-msgstr ""
+msgstr "Tipe dimensi"
 
 #: disaggregation
 msgid "Disaggregation"
-msgstr ""
+msgstr "Disagregasi"
 
 #: attribute
 msgid "Attribute"
-msgstr ""
+msgstr "Attribute"
 
 #: option_set_for_data_values
 msgid "Option set for data values"
-msgstr ""
+msgstr "Option untuk nilai data"
 
 #: option_set_for_comments
 msgid "Option set for comments"
-msgstr ""
+msgstr "Option untuk komentar"
 
 #: organisation_unit_counts
 msgid "Organisation unit counts"
-msgstr ""
+msgstr "Penghitungan unit organisasi"
 
 #: category_option
 msgid "Category Option"
@@ -856,110 +867,111 @@ msgstr "Combination of categories"
 
 #: category_option_group
 msgid "Category Option Group"
-msgstr ""
+msgstr "Grup Category Option"
 
 #: category_option_group_management
 msgid "Category option group management"
-msgstr ""
+msgstr "Manajemen grup category option"
 
 #: create_new_category_option_group
 msgid "Create new category option group"
-msgstr ""
+msgstr "Buat grup category option"
 
 #: edit_category_option_group
 msgid "Edit category option group"
-msgstr ""
+msgstr "Edit grup category option"
 
 #: confirm_delete_category_option_group
 msgid "Are you sure you want to delete this category option group?"
-msgstr ""
+msgstr "Apakah anda yakin ingin menghapus grup category option ini?"
 
 #: category_option_group_set
 msgid "Category Option Group Set"
-msgstr ""
+msgstr "Grup Category Option"
 
 #: category_option_group_set_management
 msgid "Category option group set management"
-msgstr ""
+msgstr "Manajemen grup Category Option"
 
 #: create_new_category_option_group_set
 msgid "Create new category option group set"
-msgstr ""
+msgstr "Buat grup category option baru"
 
 #: edit_category_option_group_set
 msgid "Edit category option group set"
-msgstr ""
+msgstr "Edit grup category option"
 
 #: available_category_option_groups
 msgid "Available category option groups"
-msgstr ""
+msgstr "Grup category option yang tersedia"
 
 #: selected_category_option_groups
 msgid "Selected category option groups"
-msgstr ""
+msgstr "Grup category option yang terpilih"
 
 #: confirm_delete_category_option_group_set
 msgid "Are you sure you want to delete this category option group set?"
-msgstr ""
+msgstr "Apakah anda yakin ingin menghapus grup category option?"
 
 #: show_more_options
 msgid "Show more options"
-msgstr ""
+msgstr "Tampilkan more options"
 
 #: show_fewer_options
 msgid "Show fewer options"
-msgstr ""
+msgstr "Tampilkan fewer options "
 
 #: id
 msgid "Id"
-msgstr ""
+msgstr "Id"
 
 #: min
 msgid "Min"
-msgstr ""
+msgstr "Min"
 
 #: max
 msgid "Max"
-msgstr ""
+msgstr "Maks"
 
 #: category_option_combo
 msgid "Category Option Combination"
-msgstr ""
+msgstr "Kombinasi Category Option"
 
 #: intro_category_option_combo
 msgid ""
 "View and edit data element category option combinations. Category option "
 "combinations are break-downs of category."
 msgstr ""
+"Tampilkan dan edit elemen data kombinasi options. Kombinasi category option "
+"merupakan penjabaran kategori "
 
 #: edit_data_element_category_option_combo
 msgid "Edit data element category option combo"
-msgstr ""
+msgstr "Edit data element category option combo"
 
 #: average_sum_in_org_unit_hierarchy
 msgid "Average (sum in org unit hierarchy)"
-msgstr ""
+msgstr "Rata-rata (jumlah hierarki unit organisasi)"
 
 #: approve_data
 msgid "Approve data"
-msgstr ""
+msgstr "Menyetujui data"
 
 #: decimals_in_data_output
 msgid "Decimals in data output"
-msgstr ""
+msgstr "Desimal dalam output data"
 
 #: categories
 msgid "Categories"
-msgstr ""
+msgstr "Kategori-kategori"
 
 #: ignore_data_approval
 msgid "Ignore data approval"
-msgstr ""
+msgstr "Hiraukan persetujuan data "
 
 #: data_dimension_type
 msgid "Data dimension type"
-msgstr ""
+msgstr "Tipe dimensi data"
 
-#: domain_type
-msgid "Domain Type"
-msgstr "Domain Type"
+#~ msgid "Domain type"
+#~ msgstr "Domain Type"

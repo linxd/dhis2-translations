@@ -1,11 +1,11 @@
-#. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-light/src/main/resources/org/hisp/dhis/light/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-light/src/main/resources/org/hisp/dhis/light/i18n_module_id.properties
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-light/src/main/resources/org/hisp/dhis/light/i18n_module.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-04 06:50+0200\n"
-"PO-Revision-Date: 2015-11-18 08:47+0000\n"
-"Last-Translator: Annisa Ristya <annisaristya@gmail.com>\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
+"PO-Revision-Date: 2015-12-31 06:59+0000\n"
+"Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1447836424.0\n"
+"X-POOTLE-MTIME: 1451545186.0\n"
 
 #: DHIS_2
 msgid "DHIS2"
@@ -567,7 +567,7 @@ msgstr "Pilih attribut"
 
 #: tracked_entity
 msgid "Tracked entity"
-msgstr ""
+msgstr "Tracked entity"
 
 #: write
 msgid "Write"

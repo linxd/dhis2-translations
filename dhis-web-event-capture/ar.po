@@ -1,13 +1,13 @@
-#. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-apps/src/main/webapp/dhis-web-event-capture/i18n/i18n_app.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-apps/src/main/webapp/dhis-web-event-capture/i18n/i18n_app_ar.properties
-#, fuzzy
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-apps/src/main/webapp/dhis-web-event-capture/i18n/i18n_app.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-04 06:50+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,12 +18,12 @@ msgid "Home"
 msgstr "الصفحة الرئيسية"
 
 #: dhis2
-msgid "DHIS 2"
-msgstr "DHIS2"
+msgid "DHIS2"
+msgstr ""
 
 #: dhis2_home
-msgid "DHIS 2 Home"
-msgstr "DHIS2 الصفحة الرئيسية لـ"
+msgid "DHIS2 Home"
+msgstr ""
 
 #: event_capture
 msgid "Event capture"
@@ -46,19 +46,15 @@ msgid "Event details"
 msgstr "تفاصيل حدث"
 
 #: no_registered_event
-msgid "There are no registered events"
-msgstr "لا توجد أحداث مسجلة"
+msgid "There are no registered events."
+msgstr ""
 
 #: event_registration_error
 msgid "Error in event registration"
 msgstr "خطأ في تسجيل الحدث"
 
 #: validation_error
-msgid "Validation error"
-msgstr ""
-
-#: error
-msgid "Error"
+msgid "Validation Error"
 msgstr ""
 
 #: help
@@ -113,17 +109,9 @@ msgstr "احفظ و أغلق"
 msgid "Save and go back"
 msgstr "احفظ و ارجع للخلف"
 
-#: upload
-msgid "Upload"
-msgstr ""
-
 #: delete
 msgid "Delete"
 msgstr "احذف"
-
-#: delete_file
-msgid "Delete file"
-msgstr ""
 
 #: cancel
 msgid "Cancel"
@@ -149,10 +137,6 @@ msgstr "ارجع للخلف"
 msgid "Section"
 msgstr ""
 
-#: has_no_dataelements
-msgid "has no dataelements."
-msgstr ""
-
 #: form_invalid
 msgid "Form is invalid. Please check for required fields."
 msgstr "الشكل غير صالح . رجاءً افحص الحقول المطلوبة"
@@ -174,16 +158,16 @@ msgid "Value must be date"
 msgstr "يجب أن تكون القيمة تاريخاً"
 
 #: bool_required
-msgid "Value must be true or false"
-msgstr "يجب أن تكون القيمة رمز عد ثنائي"
+msgid "Value must be true/false."
+msgstr ""
 
 #: option_required
 msgid "Option is required. Please select one."
 msgstr "يجب أن تكون القيمة مختارةً من قائمة الخيارات"
 
 #: ok
-msgid "OK"
-msgstr "موافق"
+msgid "Ok"
+msgstr ""
 
 #: find
 msgid "Find"
@@ -278,15 +262,7 @@ msgid "Show comments"
 msgstr "اظهر التعليقات"
 
 #: new_event
-msgid "New event"
-msgstr "حدث جديد"
-
-#: completed_event
-msgid "Event completion status"
-msgstr ""
-
-#: is_event_complete
-msgid "Completed"
+msgid "New Event"
 msgstr ""
 
 #: data_element
@@ -310,12 +286,12 @@ msgid "Total"
 msgstr ""
 
 #: total_number_of_pages
-msgid "No of pages"
-msgstr "عدد الصفحات"
+msgid "No. of pages"
+msgstr ""
 
 #: rows_per_page
-msgid "No of rows per page"
-msgstr "عدد الصفوف في كل صفحة"
+msgid "No. of rows per page"
+msgstr ""
 
 #: jump_to_page
 msgid "Jump to page"
@@ -342,12 +318,12 @@ msgid "Last"
 msgstr "أخير"
 
 #: org_units
-msgid "Organisation units"
-msgstr "وحدات التنظيم"
+msgid "Organisation Units"
+msgstr ""
 
 #: org_unit
-msgid "Organisation unit"
-msgstr "وحدة التنظيم"
+msgid "Organisation Unit"
+msgstr ""
 
 #: programs
 msgid "Programs"
@@ -406,8 +382,8 @@ msgid "NOT_SELECTED"
 msgstr "غير محدد"
 
 #: no_value
-msgid "No value"
-msgstr "لا توجد قيمة"
+msgid "NO_VALUE"
+msgstr ""
 
 #: search
 msgid "Search"
@@ -518,11 +494,11 @@ msgid "About DHIS 2 "
 msgstr "حول DHIS 2"
 
 #: update_event
-msgid "Update event"
-msgstr "تحديث الحالة"
+msgid "Update Event"
+msgstr ""
 
 #: missing_translation_file
-msgid "Missing translation file"
+msgid "Missing Translation File"
 msgstr ""
 
 #: missing_translation_using_default
@@ -560,15 +536,15 @@ msgid "Value must be integer "
 msgstr ""
 
 #: posInt
-msgid "Positive integer"
+msgid "Positive Integer"
 msgstr ""
 
 #: negInt
-msgid "Negative integer"
+msgid "Negative Integer"
 msgstr ""
 
 #: zeroPositiveInt
-msgid "Zero or positive integer"
+msgid "Zero or Positive Integer"
 msgstr ""
 
 #: latitude_required
@@ -580,8 +556,8 @@ msgid "Value must be between [-180 ... 180]"
 msgstr ""
 
 #: loading_tree
-msgid "Loading organisation unit tree"
-msgstr "تحميل شجرة وحدة المنظمة"
+msgid "Loading orgunit tree"
+msgstr ""
 
 #: loading_metadata
 msgid "Loading meta-data"
@@ -592,7 +568,8 @@ msgid "Future date is not allowed"
 msgstr ""
 
 #: validation_warnings
-msgid "Validation warnings"
+msgctxt "validation_warnings"
+msgid ""
 msgstr ""
 
 #: unsaved_data_exists_proceed
@@ -604,7 +581,7 @@ msgid "Proceed"
 msgstr ""
 
 #: lacking_required_authority_to_add_update_event
-msgid "Lacking required authority to add or update event"
+msgid "Lacking required authority to add/update event."
 msgstr ""
 
 #: select_or_search
@@ -631,20 +608,41 @@ msgstr ""
 msgid "Close editing"
 msgstr ""
 
-#: fill_all_category_options
-msgid "Please fill all category options"
-msgstr ""
+#~ msgid "DHIS 2"
+#~ msgstr "DHIS2"
 
-#: custom_form_has_invalid_dataelement
-msgid "Custom form has invalid data element."
-msgstr ""
+#~ msgid "DHIS 2 Home"
+#~ msgstr "DHIS2 الصفحة الرئيسية لـ"
 
-#: offline
-msgid "Offline"
-msgstr ""
+#~ msgid "There are no registered events"
+#~ msgstr "لا توجد أحداث مسجلة"
 
-#: program_is_skip_offline
-msgid ""
-"You are currently offline. But program is configured to be skipped during "
-"offline."
-msgstr ""
+#~ msgid "Value must be true or false"
+#~ msgstr "يجب أن تكون القيمة رمز عد ثنائي"
+
+#~ msgid "OK"
+#~ msgstr "موافق"
+
+#~ msgid "New event"
+#~ msgstr "حدث جديد"
+
+#~ msgid "No of pages"
+#~ msgstr "عدد الصفحات"
+
+#~ msgid "No of rows per page"
+#~ msgstr "عدد الصفوف في كل صفحة"
+
+#~ msgid "Organisation units"
+#~ msgstr "وحدات التنظيم"
+
+#~ msgid "Organisation unit"
+#~ msgstr "وحدة التنظيم"
+
+#~ msgid "No value"
+#~ msgstr "لا توجد قيمة"
+
+#~ msgid "Update event"
+#~ msgstr "تحديث الحالة"
+
+#~ msgid "Loading organisation unit tree"
+#~ msgstr "تحميل شجرة وحدة المنظمة"

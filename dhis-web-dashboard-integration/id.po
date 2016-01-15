@@ -1,17 +1,19 @@
-#. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-dashboard-integration/src/main/resources/org/hisp/dhis/dashboard/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-dashboard-integration/src/main/resources/org/hisp/dhis/dashboard/i18n_module_id.properties
-#, fuzzy
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-dashboard-integration/src/main/resources/org/hisp/dhis/dashboard/i18n_module.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-04 06:50+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
+"PO-Revision-Date: 2015-12-31 06:34+0000\n"
+"Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1451543692.0\n"
 
 #: dashboard
 msgid "Dashboard"
@@ -47,7 +49,7 @@ msgstr "Sumber Data"
 
 #: report_table
 msgid "Report tables"
-msgstr ""
+msgstr "Report tables"
 
 #: map_view
 msgctxt "map_view"
@@ -125,15 +127,15 @@ msgstr "Menandai yang belum terbaca"
 
 #: mark_read
 msgid "Mark as read"
-msgstr ""
+msgstr "Menandai yang sudah terbaca"
 
 #: mark_followup
 msgid "Mark for followup"
-msgstr ""
+msgstr "Menandai untuk dilakukan follow up"
 
 #: clear_followup
 msgid "Clear followup"
-msgstr ""
+msgstr "Hapus followup"
 
 #: read
 msgid "Read"
@@ -141,7 +143,7 @@ msgstr "Baca"
 
 #: delete
 msgid "Delete"
-msgstr ""
+msgstr "Hapus"
 
 #: confirm_delete_message
 msgid "Are you sure you want to delete the message?"
@@ -149,11 +151,11 @@ msgstr "Apakah Anda yakin akan menghapus pesan ini?"
 
 #: confirm_delete_all_selected_messages
 msgid "Are you sure you want to delete all selected messages?"
-msgstr ""
+msgstr "Apakah Anda yakin akan menghapus semua pesan ini?"
 
 #: no_messages_selected
 msgid "No messages selected"
-msgstr ""
+msgstr "Tidak ada pesan yang dipilih"
 
 #: unread_messages
 msgid "unread messages"
@@ -165,7 +167,7 @@ msgstr "Pesan yang belum terbaca"
 
 #: messages_were_deleted
 msgid "Messages were deleted"
-msgstr ""
+msgstr "Pesan telah dihapus"
 
 #: discard
 msgid "Discard"
@@ -225,7 +227,7 @@ msgstr "SIG"
 
 #: pivot_table
 msgid "Pivot table"
-msgstr ""
+msgstr "Tabel Pivot"
 
 #: add_a_comment
 msgid "Add a comment"
@@ -285,7 +287,7 @@ msgstr "Tampilkan favorit dan klik 'bagikan' pada tampilan atas menu"
 
 #: generate_pivot_table_click_share
 msgid "generate a pivot table and click 'Share' on the top menu"
-msgstr ""
+msgstr "Buat laporan data set dan klik 'bagikan pada tampilan atas menu"
 
 #: share_interpretation
 msgid "Share interpretation"
@@ -298,6 +300,8 @@ msgstr "Pilih pengguna dan grup pengguna"
 #: selected_more_than_200_user
 msgid "You have {userCount} recipients, please reduce to 200 or less"
 msgstr ""
+"Anda memiliki penerima {userCount}, silakan kurangi sampai 200 atau kurang "
+"dari itu"
 
 #: generate_data_set_report_click_share
 msgid "generate a data set report and click 'Share' on the top menu"
@@ -305,7 +309,7 @@ msgstr "Buat laporan data set dan klik 'bagikan pada tampilan atas menu"
 
 #: data_visualizer
 msgid "Data visualizer"
-msgstr ""
+msgstr "Data visualizer"
 
 #: data_set_report
 msgid "Data set report"
@@ -421,112 +425,112 @@ msgstr "Grup"
 
 #: search
 msgid "Search"
-msgstr ""
+msgstr "Cari"
 
 #: rename_current_dashboard
 msgid "Rename current dashboard"
-msgstr ""
+msgstr "Ganti nama dashboard"
 
 #: delete_current_dashboard
 msgid "Delete current dashboard"
-msgstr ""
+msgstr "Hapus dashboard"
 
 #: add_new
 msgid "Add new"
-msgstr ""
+msgstr "Tambah baru"
 
 #: manage
 msgid "Manage"
-msgstr ""
+msgstr "Atur"
 
 #: sharing
 msgid "Sharing"
-msgstr ""
+msgstr "Bagikan"
 
 #: click_add_new_to_get_started
 msgid "Click 'Add new' to get started"
-msgstr ""
+msgstr "Klik 'Tambah Baru' untuk mulai"
 
 #: add_stuff_by_searching
 msgid "Add stuff by searching from the search field above"
-msgstr ""
+msgstr "Add stuff by searching from the search field above"
 
 #: arrange_dashboard_by_dragging_and_dropping
 msgid "Then arrange dashboard by dragging and dropping items"
-msgstr ""
+msgstr "Then arrange dashboard by dragging and dropping items"
 
 #: click_to_explore_drag_to_new_position
 msgid "Click to explore or drag to new position"
-msgstr ""
+msgstr "Klik untuk eksplor atau drag ke posisi yang baru"
 
 #: click_and_drag_to_new_position
 msgid "Click and drag to new position"
-msgstr ""
+msgstr "Klik dan drag ke posisi yang baru"
 
 #: drag_to_new_position
 msgid "Drag to new position"
-msgstr ""
+msgstr "Drag ke posisi yang baru"
 
 #: system_notification
 msgid "System notification"
-msgstr ""
+msgstr "Sistem notifikasi"
 
 #: and
 msgid "and"
-msgstr ""
+msgstr "dan"
 
 #: more
 msgid "more"
-msgstr ""
+msgstr "more"
 
 #: see_more_hits
 msgid "See more hits"
-msgstr ""
+msgstr "See more hits"
 
 #: see_fewer_hits
 msgid "See fewer hits"
-msgstr ""
+msgstr "See fewer hits"
 
 #: add
 msgid "Add"
-msgstr ""
+msgstr "Tambah"
 
 #: resize
 msgid "Resize"
-msgstr ""
+msgstr "Ubah ukuran"
 
 #: add_items_to_current_dashboard
 msgid "Add items to current dashboard"
-msgstr ""
+msgstr "Tambahkan item pada dashboard"
 
 #: could_not_delete_interpretation
 msgid "Could not delete interpretation, please try again later"
-msgstr ""
+msgstr "Tidak dapat menghapus interpretasi, silakan coba kembali"
 
 #: could_not_delete_interpretation_comment
 msgid "Could not delete interpretation comment, please try again later"
-msgstr ""
+msgstr "Tidak dapat menghapus komentar interpretasi, silakan coba kembali"
 
 #: could_not_save_interpretation
 msgid "Could not save interpretation, please try again later"
-msgstr ""
+msgstr "Tidak dapat menyimpan interpretasi, silakan dicoba kembali"
 
 #: applies_to_favorites_with_user_org_units_only
 msgid "Applies to favorites with \"user org units\" only"
-msgstr ""
+msgstr "Applies to favorites with \"user org units\" only"
 
 #: user_org_unit_filter
 msgid "User organisation unit filter"
-msgstr ""
+msgstr "Filter user organisasi unit"
 
 #: download
 msgid "Download"
-msgstr ""
+msgstr "Download"
 
 #: api_link
 msgid "API link"
-msgstr ""
+msgstr "API link"
 
 #: get_as_image
 msgid "Get as image"
-msgstr ""
+msgstr "Dapatkan gambar"

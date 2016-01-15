@@ -1,17 +1,19 @@
-#. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-sms/src/main/resources/org/hisp/dhis/sms/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-sms/src/main/resources/org/hisp/dhis/sms/i18n_module_id.properties
-#, fuzzy
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-sms/src/main/resources/org/hisp/dhis/sms/i18n_module.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-04 06:51+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
+"PO-Revision-Date: 2015-12-26 06:34+0000\n"
+"Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1451111644.0\n"
 
 #: DHIS_2
 msgid "DHIS2"
@@ -375,11 +377,11 @@ msgstr "Detail pencarian"
 
 #: male
 msgid "Male"
-msgstr ""
+msgstr "Laki-laki"
 
 #: female
 msgid "Female"
-msgstr ""
+msgstr "Perempuan"
 
 #: age
 msgid "Age"
@@ -387,7 +389,7 @@ msgstr "Usia"
 
 #: full_name
 msgid "Full name"
-msgstr ""
+msgstr "Nama lengkap"
 
 #: no_phone
 msgid "No phone"
@@ -483,4 +485,4 @@ msgstr "Usia (th)"
 
 #: org_unit_phone_number
 msgid "Organisation unit phone number"
-msgstr ""
+msgstr "Telepon unit organisasi"

@@ -1,10 +1,10 @@
-#. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-importexport/src/main/resources/org/hisp/dhis/importexport/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-importexport/src/main/resources/org/hisp/dhis/importexport/i18n_module_id.properties
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-importexport/src/main/resources/org/hisp/dhis/importexport/i18n_module.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-04 06:50+0200\n"
-"PO-Revision-Date: 2015-09-26 15:59+0000\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
+"PO-Revision-Date: 2016-01-02 10:34+0000\n"
 "Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1443283174.0\n"
+"X-POOTLE-MTIME: 1451730889.0\n"
 
 #: datavalue
 msgctxt "datavalue"
@@ -22,7 +22,7 @@ msgstr "Nilai Data"
 
 #: import
 msgid "Import"
-msgstr ""
+msgstr "Impor"
 
 #: select
 msgid "Select"
@@ -122,7 +122,7 @@ msgstr "Sumber"
 
 #: object_type
 msgid "Object type"
-msgstr ""
+msgstr "Tipe Objek"
 
 #: del
 msgid "Del"
@@ -150,7 +150,7 @@ msgstr "Elemen"
 
 #: data
 msgid "Data"
-msgstr ""
+msgstr "Data"
 
 #: import_preview
 msgid "Import Preview"
@@ -170,7 +170,7 @@ msgstr "Matching"
 
 #: preview
 msgid "Preview"
-msgstr ""
+msgstr "Preview"
 
 #: skip
 msgid "Skip"
@@ -225,7 +225,7 @@ msgstr "Eksport ke sistem yang lain"
 
 #: import_from_other_systems
 msgid "Import from other systems"
-msgstr ""
+msgstr "Impor dari sistem yang lain"
 
 #: DHIS14_metadata_export
 msgid "DHIS 1.4 Metadata Export"
@@ -241,7 +241,7 @@ msgstr "Menerima pencatatan masuk"
 
 #: include_datavalues
 msgid "Include data values"
-msgstr ""
+msgstr "Termasuk nilai data"
 
 #: new_and_updates
 msgid "New and Updates"
@@ -270,19 +270,19 @@ msgstr "Set kelompok unit organisasi"
 
 #: category_option
 msgid "Category option"
-msgstr ""
+msgstr "Pilihan kategori"
 
 #: category_option_group
 msgid "Category option group"
-msgstr ""
+msgstr "Grup pilihan kategori"
 
 #: option_set
 msgid "Option set"
-msgstr ""
+msgstr "Option set"
 
 #: element
 msgid "Element"
-msgstr ""
+msgstr "Elemen"
 
 #: objects
 msgid "Objects"
@@ -354,19 +354,19 @@ msgstr "Sembunyikan opsi lanjut"
 
 #: move_selected
 msgid "Move selected"
-msgstr ""
+msgstr "Pindahkan poin terpilih"
 
 #: move_all
 msgid "Move all"
-msgstr ""
+msgstr "Pindahkan semuanya"
 
 #: remove_selected
 msgid "Remove selected"
-msgstr ""
+msgstr "Hapus poin yang terpilih"
 
 #: remove_all
 msgid "Remove all"
-msgstr ""
+msgstr "Hapus semua"
 
 #: pdf_metadata_export
 msgid "PDF Metadata Export"
@@ -411,11 +411,11 @@ msgstr "Elemen data"
 #: data_value
 msgctxt "data_value"
 msgid "Data Value"
-msgstr ""
+msgstr "Nilai Data"
 
 #: data_value_daily
 msgid "Daily Data Value"
-msgstr ""
+msgstr "Nilai data harian"
 
 #: dhis14_file_configuration
 msgid "DHIS 1.4 File Configuration"
@@ -439,7 +439,7 @@ msgstr "Level"
 
 #: preload_cache
 msgid "Preload cache"
-msgstr ""
+msgstr "Preload cache"
 
 #: import_process_done
 msgid "Import successful"
@@ -527,7 +527,7 @@ msgstr "Import data set"
 
 #: importing_data_sets_daily_capture
 msgid "Importing data sets daily capture"
-msgstr ""
+msgstr "Impor data set setiap hari"
 
 #: importing_data_set_members
 msgid "Importing data set members"
@@ -567,7 +567,7 @@ msgstr "Import struktur unit organisasi"
 
 #: importing_organisation_unit_relationships
 msgid "Importing organisation unit relationships"
-msgstr ""
+msgstr "Import hubungan grup unit organisasi"
 
 #: importing_organisation_unit_hierarchy
 msgid "Importing organisation unit hierarchy"
@@ -635,11 +635,11 @@ msgstr "Import data set asosiasi unit organisasi"
 
 #: importing_routine_data_daily_capture_periods
 msgid "Importing routine data daily capture periods"
-msgstr ""
+msgstr "Impor data rutin setiap periode harian"
 
 #: importing_routine_data_daily_capture
 msgid "Importing routine data daily capture"
-msgstr ""
+msgstr "Impor data rutin harian"
 
 #: no_import_process_running
 msgid "No import process running"
@@ -728,7 +728,7 @@ msgstr "Tabel laporan"
 
 #: data_dictionary
 msgid "Data dictionary"
-msgstr ""
+msgstr "Kamus data"
 
 #: region
 msgid "Region"
@@ -820,7 +820,7 @@ msgstr "Import meta data"
 
 #: saved
 msgid "Saved"
-msgstr ""
+msgstr "Tersimpan"
 
 #: calculated_data_element
 msgid "Calculated data element"
@@ -975,7 +975,7 @@ msgstr "Proses gagal - Silakan lihat log untuk melihat detail"
 
 #: configuration
 msgid "Configuration"
-msgstr ""
+msgstr "Konfigurasi"
 
 #: size
 msgid "Size"
@@ -999,7 +999,7 @@ msgstr "Orientasi plot horizontal"
 
 #: regression
 msgid "Regression"
-msgstr ""
+msgstr "Regresi"
 
 #: design
 msgid "Design"
@@ -1066,6 +1066,8 @@ msgid ""
 "Import data values on the DXF 2 XML, JSON, CSV and PDF formats. DXF 2 is the "
 "standard exchange format for DHIS 2."
 msgstr ""
+"Impor nilai data pada format DXF 2 XML, JSON, CSV dan PDF. DXF 2 merupakan "
+"standar format perubahanuntuk DHIS 2"
 
 #: intro_csv_data_import
 msgid ""
@@ -1080,10 +1082,12 @@ msgid ""
 "Import data from a PDF data entry form. PDF forms can be generated from the "
 "data set module."
 msgstr ""
+"Impor data dari formulir data entri PDF. Formulir PDF dapat digeneralisasi "
+"dari modul data set. "
 
 #: intro_event_import
 msgid "Import events for programs, stages and persons on the DXF 2 format."
-msgstr ""
+msgstr "Impor events untuk program, stage dan orang-orang dalam format DXF 2."
 
 #: intro_dhis14_import
 msgid ""
@@ -1133,7 +1137,7 @@ msgstr ""
 
 #: intro_event_export
 msgid "Export event data for programs, stages and persons on the DXF 2 format."
-msgstr ""
+msgstr "Ekspor data event untuk program, stages dan persons dalam format DXF 2."
 
 #: intro_xml_metadata_import
 msgctxt "intro_xml_metadata_import"
@@ -1141,23 +1145,29 @@ msgid ""
 "Import meta-data like data elements and organisation units using the "
 "standard DHIS 2 exchange format called DXF 2."
 msgstr ""
+"Impor meta-data seperti elemen data dan unit-unit organisasi menggunakan "
+"standar DHIS 2 yang sudah diubah formatnya, hal ini disebut DXF 2 "
 
 #: intro_csv_metadata_import
 msgid ""
 "Import meta-data using CSV format. Currently only import of data elements is "
 "supported."
 msgstr ""
+"Impor meta-data menggunakan format CSV. Saat ini hanya impor elemen data "
+"yang diperbolehkan"
 
 #: intro_gml_import
 msgid ""
 "Import geographic data for organisation units using GML format. GML is an "
 "XML grammar for expressing geographical features."
 msgstr ""
+"Impor data geografis untuk unit-unit organisasi menggunakan format GML. GML "
+"adalah XML grammer untuk menerjemahkan gambar-gambar geografis."
 
 #: gml_import_info_text
 msgid ""
 "Note: Only import of GML data for existing organisation units is supported."
-msgstr ""
+msgstr "Catatan : Hanya impor data GML untuk unit-unit organisasi yang didukung"
 
 #: no_item_to_match
 msgid "There is no selected item to match"
@@ -1197,7 +1207,7 @@ msgstr "Import jumlah"
 
 #: import_total_count
 msgid "Import total count"
-msgstr ""
+msgstr "Impor jumlah hitungan total"
 
 #: imported
 msgid "Imported"
@@ -1221,7 +1231,7 @@ msgstr "Tidak ada pelanggaran yang ditemukan"
 
 #: no_import_summary_available
 msgid "No summary available"
-msgstr ""
+msgstr "Tidak tersedia rangkuman"
 
 #: type
 msgid "Type"
@@ -1237,7 +1247,7 @@ msgstr "Eksport dalam bentuk XML"
 
 #: export_as_json
 msgid "Export as JSON"
-msgstr ""
+msgstr "Ekspor sebagai JSON"
 
 #: export_as_csv
 msgid "Export as CSV"
@@ -1253,12 +1263,12 @@ msgstr "XML"
 
 #: json
 msgid "JSON"
-msgstr ""
+msgstr "JSON"
 
 #: pdf
 msgctxt "pdf"
 msgid "PDF"
-msgstr ""
+msgstr "PDF"
 
 #: xml_data_import
 msgid "XML Data Import"
@@ -1270,55 +1280,55 @@ msgstr "Import Data CSV"
 
 #: pdf_data_import
 msgid "PDF Data Import"
-msgstr ""
+msgstr "Data Impor PDF"
 
 #: event_import
 msgid "Event Import"
-msgstr ""
+msgstr "Impor Event"
 
 #: event_export
 msgid "Event Export"
-msgstr ""
+msgstr "Ekspor Event"
 
 #: programs
 msgid "Programs"
-msgstr ""
+msgstr "Program-program"
 
 #: program_stages
 msgid "Program Stages"
-msgstr ""
+msgstr "Program Stages"
 
 #: format
 msgid "Format"
-msgstr ""
+msgstr "Format"
 
 #: skip_first
 msgid "Skip First Row"
-msgstr ""
+msgstr "Lewati baris pertama"
 
 #: compression
 msgid "Compression"
-msgstr ""
+msgstr "Kompresi"
 
 #: compression_gzip
 msgid "Gzip"
-msgstr ""
+msgstr "Gzip"
 
 #: compression_zip
 msgid "Zip"
-msgstr ""
+msgstr "Zip"
 
 #: uncompressed
 msgid "Uncompressed"
-msgstr ""
+msgstr "Uncompressed"
 
 #: no_programs_available
 msgid "No programs available"
-msgstr ""
+msgstr "Tidak ada program yang tersedia"
 
 #: no_program_stages_available
 msgid "No program stages available"
-msgstr ""
+msgstr "Tidak ada program stages yang tersedia"
 
 #: no_data_values_found
 msgid "No data values found"
@@ -1326,11 +1336,11 @@ msgstr "Tidak ada nilai data ditemukan"
 
 #: all_program_stages
 msgid "All program stages"
-msgstr ""
+msgstr "Semua program stages"
 
 #: id_scheme
 msgid "ID scheme"
-msgstr ""
+msgstr "Skema ID"
 
 #: data_element_id_scheme
 msgid "Data element ID scheme"
@@ -1350,11 +1360,11 @@ msgstr "Org unit ID scheme"
 
 #: category_id_scheme
 msgid "Category ID scheme"
-msgstr ""
+msgstr "Kategori skema ID"
 
 #: all_objects
 msgid "all objects"
-msgstr ""
+msgstr "Semua objek"
 
 #: uid
 msgid "UID"
@@ -1370,7 +1380,7 @@ msgstr "Kode"
 
 #: uuid
 msgid "UUID"
-msgstr ""
+msgstr "UUID"
 
 #: more_options
 msgid "More options"
@@ -1394,11 +1404,11 @@ msgstr "DXF2"
 
 #: xml_metadata_import
 msgid "XML Meta-Data Import"
-msgstr ""
+msgstr "Impor XML Meta-Data"
 
 #: csv_metadata_import
 msgid "CSV Meta-Data Import"
-msgstr ""
+msgstr "Impor Meta-Data CSV"
 
 #: metadata_import
 msgid "Meta-Data Import"
@@ -1406,386 +1416,384 @@ msgstr "Import Meta-Data"
 
 #: metadata_export
 msgid "Meta-Data Export"
-msgstr ""
+msgstr "Ekspor Meta-Data"
 
 #: gml_import
 msgid "GML Import"
-msgstr ""
+msgstr "Impor GML"
 
 #: faster_for_small_imports
 msgid "Faster for small imports"
-msgstr ""
+msgstr "Lebih cepat untuk impor yang kecil"
 
 #: data_element_or_type_null_or_empty
 msgid "Data element or type is null or empty"
-msgstr ""
+msgstr "Elemen data atau tipenya nol atau kosong"
 
 #: value_length_greater_than_max_length
 msgid "Value is greater than max length"
-msgstr ""
+msgstr "Nilai lebih besar dari panjang maksimal"
 
 #: value_not_numeric
 msgid "Value is not numeric"
-msgstr ""
+msgstr "Nilainya tidak dalam angka (tidak numerik)"
 
 #: value_not_integer
 msgid "Value is not a valid integer"
-msgstr ""
+msgstr "Nilainya bukan merupakan bilangan bulat yang valid"
 
 #: value_not_positive_integer
 msgid "Value is not a valid positive integer"
-msgstr ""
+msgstr "Nilainya bukan nilai bilangan bulat yang positif"
 
 #: value_not_negative_integer
 msgid "Value is not a valid negative integer"
-msgstr ""
+msgstr "Nilai tidak valid bilangan bulat negatif"
 
 #: value_is_zero_and_not_zero_significant
 msgid "Value is zero and not zero-significant"
-msgstr ""
+msgstr "Nilainya adalah nol dan tidak nol-signifikan"
 
 #: value_not_zero_or_positive_integer
 msgid "Value is not a valid zero or positive integer"
-msgstr ""
+msgstr "Nilai tidak valid nol atau bilangan bulat positif"
 
 #: comment_too_long
 msgid "Comment is too long"
-msgstr ""
+msgstr "Komentar terlalu panjang"
 
 #: intro_filtered_metadata_export
 msgid ""
 "Export filtered meta-data like data elements and organisation units to the "
 "standard DHIS 2 exchange format."
 msgstr ""
+"Ekspor filter meta-data seperti elemen data dan unit-unit organisasi ke "
+"format standar DHIS 2 yang sudah diubah  "
 
 #: filtered_metadata_export
 msgid "Meta-Data Detailed Export"
-msgstr ""
+msgstr "Detail ekspor meta-data"
 
 #: apply
 msgid "Apply"
-msgstr ""
+msgstr "Terapkan"
 
 #: sort
 msgid "Sort"
-msgstr ""
+msgstr "Sort"
 
 #: options
 msgid "Options"
-msgstr ""
+msgstr "Options"
 
 #: add_new_filter
 msgid "Add new Filter"
-msgstr ""
+msgstr "Tambah Filter baru"
 
 #: ad_hoc_export
 msgid "Ad-hoc export"
-msgstr ""
+msgstr "Ekspor Ad-hoc"
 
 #: create_new_filter
 msgid "Create new Filter"
-msgstr ""
+msgstr "Buat filter baru"
 
 #: filter_sort_order
 msgid "Filter sort order"
-msgstr ""
+msgstr "Filter sort order"
 
 #: edit_filter
 msgid "Edit Filter"
-msgstr ""
+msgstr "Edit Filter"
 
 #: filter_details
 msgid "Filter Details"
-msgstr ""
+msgstr "Detail Filter"
 
 #: validate_filter
 msgid "Filter name cannot be empty."
-msgstr ""
+msgstr "Nama filter tidak boleh kosong."
 
 #: export_with_dependencies
 msgid "Export with dependencies"
-msgstr ""
+msgstr "Ekspor dengan ketergantungan"
 
 #: attribute_types
 msgid "Attribute Types"
-msgstr ""
+msgstr "Tipe Attribute"
 
 #: available_attribute_types
 msgid "Available Attribute Types"
-msgstr ""
+msgstr "Ketersediaan tipe Attribute"
 
 #: selected_attribute_types
 msgid "Selected Attribute Types"
-msgstr ""
+msgstr "Tipe Attribute terpilih"
 
 #: categories
 msgid "Categories"
-msgstr ""
+msgstr "Kategori-kategori"
 
 #: available_categories
 msgid "Available Categories"
-msgstr ""
+msgstr "Kategori yang tersedia"
 
 #: selected_categories
 msgid "Selected Categories"
-msgstr ""
+msgstr "Kategori yang terpilih"
 
 #: category_combos
 msgid "Category Combinations"
-msgstr ""
+msgstr "Kombinasi-kombinasi kategori"
 
 #: available_category_combos
 msgid "Available Category Combinations"
-msgstr ""
+msgstr "Kombinasi-kombinasi kategori yang tersedia"
 
 #: selected_category_combos
 msgid "Selected Category Combinations"
-msgstr ""
+msgstr "Kombinasi-kombinasi kategori terpilih"
 
 #: available_charts
 msgid "Available Charts"
-msgstr ""
+msgstr "Diagram yang tersedia"
 
 #: selected_charts
 msgid "Selected Charts"
-msgstr ""
+msgstr "Diagram yang terpilih"
 
 #: available_constants
 msgid "Available Constants"
-msgstr ""
+msgstr "Konstanta yang tersedia"
 
 #: selected_constants
 msgid "Selected Constants"
-msgstr ""
+msgstr "Konstanta yang terpilih"
 
 #: available_dataDictionaries
 msgid "Available Data Dictionaries"
-msgstr ""
+msgstr "Kamus data yang tersedia"
 
 #: selected_dataDictionaries
 msgid "Selected Data Dictionaries"
-msgstr ""
+msgstr "Kamus data yang terpilih"
 
 #: available_dataElementGroupSets
 msgid "Available Data Element Group Sets"
-msgstr ""
+msgstr "Grup Elemen data yang tersedia"
 
 #: selected_dataElementGroupSets
 msgid "Selected Data Element Group Sets"
-msgstr ""
+msgstr "Grup Elemen data yang terpilih"
 
 #: available_dataElementGroups
 msgid "Available Data Element Groups"
-msgstr ""
+msgstr "Grup elemen data yang tersedia"
 
 #: selected_dataElementGroups
 msgid "Selected Data Element Groups"
-msgstr ""
+msgstr "Grup elemen data yang terpilih"
 
 #: documents
 msgid "Documents"
-msgstr ""
+msgstr "Dokumen"
 
 #: available_documents
 msgid "Available Documents"
-msgstr ""
+msgstr "Dokumen yang tersedia"
 
 #: selected_documents
 msgid "Selected Documents"
-msgstr ""
+msgstr "Dokumen yang terpilih"
 
 #: available_indicatorGroupSets
 msgid "Available Indicator Group Sets"
-msgstr ""
+msgstr "Grup indikator yang tersedia"
 
 #: selected_indicatorGroupSets
 msgid "Selected Indicator Group Sets"
-msgstr ""
+msgstr "Grup Indikator Terpilih"
 
 #: available_indicatorGroups
 msgid "Available Indicator Groups"
-msgstr ""
+msgstr "Grup indikator yang tersedia"
 
 #: selected_indicatorGroups
 msgid "Selected Indicator Groups"
-msgstr ""
+msgstr "Grup Indikator Terpilih"
 
 #: indicator_types
 msgid "Indicator types"
-msgstr ""
+msgstr "Tipe-tipe indikator"
 
 #: available_indicatorTypes
 msgid "Available Indicator Types"
-msgstr ""
+msgstr "Tipe Indikator yang Tersedia"
 
 #: selected_indicatorTypes
 msgid "Selected Indicator Types"
-msgstr ""
+msgstr "Tipe indikator yang terpilih"
 
 #: map_legend_sets
 msgid "Map legend sets"
-msgstr ""
+msgstr "Legenda Peta"
 
 #: available_mapLegendSets
 msgid "Available Map Legend Sets"
-msgstr ""
+msgstr "Tersedia Legenda Peta"
 
 #: selected_mapLegendSets
 msgid "Selected Map Legend Sets"
-msgstr ""
+msgstr "Legenda Peta yang terpilih"
 
 #: maps
 msgid "Maps"
-msgstr ""
+msgstr "Peta"
 
 #: available_maps
 msgid "Available Maps"
-msgstr ""
+msgstr "Peta-peta yang tersedia"
 
 #: selected_maps
 msgid "Selected Maps"
-msgstr ""
+msgstr "Peta-peta yang terpilih"
 
 #: option_sets
 msgid "Option sets"
-msgstr ""
+msgstr "Option sets"
 
 #: available_optionSets
 msgid "Available Option Sets"
-msgstr ""
+msgstr "Option sets yang tersedia"
 
 #: selected_optionSets
 msgid "Selected Option Sets"
-msgstr ""
+msgstr "Option terpilih"
 
 #: available_organisationUnitGroupSets
 msgid "Available Organisation Unit Group Sets"
-msgstr ""
+msgstr "Grup unit organisasi yang tersedia"
 
 #: selected_organisationUnitGroupSets
 msgid "Selected Organisation Unit Group Sets"
-msgstr ""
+msgstr "Grup unit organisasi yang terpilih"
 
 #: available_organisationUnitGroups
 msgid "Available Organisation Unit Groups"
-msgstr ""
+msgstr "Grup unit organisasi yang tersedia"
 
 #: selected_organisationUnitGroups
 msgid "Selected Organisation Unit Groups"
-msgstr ""
+msgstr "Grup unit organisasi yang terpilih"
 
 #: available_organisationUnitLevels
 msgid "Available Organisation Unit Levels"
-msgstr ""
+msgstr "Tingkat unit organisasi yang tersedia"
 
 #: selected_organisationUnitLevels
 msgid "Selected Organisation Unit Levels"
-msgstr ""
+msgstr "Tingkat unit organisasi yang terpilih"
 
 #: available_organisationUnits
 msgid "Available Organisation Units"
-msgstr ""
+msgstr "Unit organisasi yang tersedia"
 
 #: selected_organisationUnits
 msgid "Selected Organisation Units"
-msgstr ""
+msgstr "Unit organisasi yang terpilih"
 
 #: available_reportTables
 msgid "Available Report Tables"
-msgstr ""
+msgstr "Tabel laporan yang tersedia"
 
 #: selected_reportTables
 msgid "Selected Report Tables"
-msgstr ""
+msgstr "Tabel laporan yang terpilih"
 
 #: available_reports
 msgid "Available Reports"
-msgstr ""
+msgstr "Laporan yang tersedia"
 
 #: selected_reports
 msgid "Selected Reports"
-msgstr ""
+msgstr "Laporan yang terpilih"
 
 #: sql_views
 msgid "SQL views"
-msgstr ""
+msgstr "Tampilan SQL"
 
 #: available_sqlViews
 msgid "Available SQL Views"
-msgstr ""
+msgstr "Tersedia Tampilan SQL"
 
 #: selected_sqlViews
 msgid "Selected SQL Views"
-msgstr ""
+msgstr "Tampilan SQL yang terpilih"
 
 #: available_userGroups
 msgid "Available User Groups"
-msgstr ""
+msgstr "Grup User yang tersedia"
 
 #: selected_userGroups
 msgid "Selected User Groups"
-msgstr ""
+msgstr "Grup User yang terpilih"
 
 #: available_userRoles
 msgid "Available User Roles"
-msgstr ""
+msgstr "Available User Roles"
 
 #: selected_userRoles
 msgid "Selected User Roles"
-msgstr ""
+msgstr "Selected User Roles"
 
 #: available_users
 msgid "Available Users"
-msgstr ""
+msgstr "User yang tersedia"
 
 #: selected_users
 msgid "Selected Users"
-msgstr ""
+msgstr "User yang terpilih"
 
 #: validation_rule_groups
 msgid "Validation rule groups"
-msgstr ""
+msgstr "Validation rule groups"
 
 #: available_validationRuleGroups
 msgid "Available Validation Rule Groups"
-msgstr ""
+msgstr "Available Validation Rule Groups"
 
 #: selected_validationRuleGroups
 msgid "Selected Validation Rule Groups"
-msgstr ""
+msgstr "Selected Validation Rule Groups"
 
 #: available_validationRules
 msgid "Available Validation Rules"
-msgstr ""
+msgstr "Available Validation Rules"
 
 #: selected_validationRules
 msgid "Selected Validation Rules"
-msgstr ""
+msgstr "Selected Validation Rules"
 
 #: select_all_values
 msgid "Select All Values"
-msgstr ""
+msgstr "Pilih semua nilai"
 
 #: deselect_all_values
 msgid "Deselect All Values"
-msgstr ""
+msgstr "Tidak memilih semua nilai"
 
 #: inclusion
 msgid "Inclusion"
-msgstr ""
+msgstr "Inklusi"
 
 #: include_selected
 msgid "Selected organisation unit"
-msgstr ""
+msgstr "Unit organisasi yang terpilih"
 
 #: include_children
 msgid "Include children of organisation unit"
-msgstr ""
+msgstr "Termasuk anak dari unit organisasi"
 
 #: include_descendants
 msgid "Include descendants of organisation unit"
-msgstr ""
-
-#: data_export
-msgid "Data Export"
-msgstr ""
+msgstr "Include descendants of organisation unit"

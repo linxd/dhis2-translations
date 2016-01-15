@@ -1,9 +1,9 @@
-#. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-dataadmin/src/main/resources/org/hisp/dhis/dataadmin/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-dataadmin/src/main/resources/org/hisp/dhis/dataadmin/i18n_module_vi.properties
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-dataadmin/src/main/resources/org/hisp/dhis/dataadmin/i18n_module.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-04 06:50+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: 2015-09-26 16:01+0000\n"
 "Last-Translator: Administrator <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.5.0\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
 "X-POOTLE-MTIME: 1443283270.0\n"
 
 #: remove_all
@@ -1143,10 +1143,6 @@ msgstr "Loại giá trị"
 msgid "Mandatory"
 msgstr "bắt buộc"
 
-#: unique
-msgid "Unique"
-msgstr ""
-
 #: indicator
 msgid "Indicator"
 msgstr "Chỉ số"
@@ -1636,8 +1632,4 @@ msgstr ""
 
 #: category_option_group
 msgid "Category Option Group"
-msgstr ""
-
-#: document
-msgid "Document"
 msgstr ""

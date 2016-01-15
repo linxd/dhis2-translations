@@ -1,17 +1,19 @@
-#. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-settings/src/main/resources/org/hisp/dhis/settings/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-settings/src/main/resources/org/hisp/dhis/settings/i18n_module_id.properties
-#, fuzzy
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-settings/src/main/resources/org/hisp/dhis/settings/i18n_module.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-27 09:30+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
+"PO-Revision-Date: 2016-01-02 18:33+0000\n"
+"Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1451759636.0\n"
 
 #: omit_indicators_zero_numerator_data_mart
 msgid "Omit indicator values with zero numerator in data mart"
@@ -48,11 +50,11 @@ msgstr "Password"
 
 #: refresh_token
 msgid "Refresh token"
-msgstr ""
+msgstr "Refresh token"
 
 #: authorization_code
 msgid "Authorization code"
-msgstr ""
+msgstr "Authorization code"
 
 #: application_title
 msgid "Application title"
@@ -91,46 +93,62 @@ msgid ""
 "Customize the system behavior with regard to aggregation strategy, "
 "infrastructural data elements and more."
 msgstr ""
+"Menyesuaikan perilaku sistem yang berkaitan dengan strategi agregasi, elemen "
+"infrastruktur data dan lainnya"
 
 #: intro_appearance_settings
 msgid ""
 "Customize the system behavior with regard to application title, style, flag, "
 "start page."
 msgstr ""
+"Menyesuaikan sistem perilaku yang berkaitan dengan judul aplikasi, style, "
+"bendera, dan halaman depan"
 
 #: intro_email_settings
 msgid ""
 "Configure the email SMTP setup with regard to host name, user name and "
 "password."
 msgstr ""
+"Mengkonfigurasi email SMTP setup berkaitan dengan nama host, username dan "
+"password."
 
 #: intro_approval_settings
 msgid ""
 "Configure the levels at which data is approved according to organisation "
 "unit level and category option group."
 msgstr ""
+"Mengkonfigurasi tingkat dimana data telah disetuji berdasarkan tingkat unit "
+"organisasi dan grup category option."
 
 #: intro_access_settings
 msgid ""
 "Configure access to the system, like which user role should be used for user "
 "self registration."
 msgstr ""
+"Mengkonfigurasi akses ke sistem, seperti peran user yang seharusnya "
+"digunakan pada pendaftaran mandiri."
 
 #: intro_data_synchronization
 msgid ""
 "Configure remote server URL and authentication for automatic synchronization "
 "of data."
 msgstr ""
+"Mengkonfigurasi URL remote server dan otentikasi untuk sinkronisasi otomatis "
+"data."
 
 #: intro_calendar_settings
 msgid ""
 "Configure the system calendar and date format. The system supports a wide "
 "range of calendars."
 msgstr ""
+"Mengkonfigurasi sistem kalender dan format tanggal. Sistem menyediakan "
+"berbagai jenis kalender."
 
 #: intro_oauth2_clients
 msgid "Configure which clients are allowed to access this system using OAuth2."
 msgstr ""
+"Mengkonfigurasi klien yang diperbolehkan untuk mengakses sistem ini "
+"menggunakan OAuth2."
 
 #: general_settings
 msgid "General Settings"
@@ -142,15 +160,15 @@ msgstr "Setting tampilan"
 
 #: email_settings
 msgid "Email Settings"
-msgstr ""
+msgstr "Setting email"
 
 #: approval_settings
 msgid "Approval Settings"
-msgstr ""
+msgstr "Approval Settings"
 
 #: calendar_settings
 msgid "Calendar Settings"
-msgstr ""
+msgstr "Setting Kalender"
 
 #: access_settings
 msgid "Access Settings"
@@ -158,7 +176,7 @@ msgstr "Pengaturan akses"
 
 #: data_synchronization
 msgid "Data Synchronization"
-msgstr ""
+msgstr "Sinkronisasi data"
 
 #: general
 msgid "General"
@@ -174,17 +192,19 @@ msgstr "Email"
 
 #: send_test_email
 msgid "Send me a test email"
-msgstr ""
+msgstr "Kirimi saya sebuah email tes "
 
 #: info_send_test_email
 msgid ""
 "Send an automatically generated email using the supplied SMTP settings to "
 "your email address"
 msgstr ""
+"Kirim email secara otomatis menggunakan  SMTP settings yang disediakan untuk "
+"alamat email anda"
 
 #: approval
 msgid "Approval"
-msgstr ""
+msgstr "Persetujuan"
 
 #: message
 msgid "Message"
@@ -192,71 +212,71 @@ msgstr "Pesan"
 
 #: hide_unapproved_data_in_analytics
 msgid "Hide unapproved data in analytics"
-msgstr ""
+msgstr "Sembunyikan data yang tidak disetujui dalam analisis"
 
 #: data_approval_levels
 msgid "Data approval levels"
-msgstr ""
+msgstr "Tingkat persetujuan data"
 
 #: approval_level
 msgid "Approval level"
-msgstr ""
+msgstr "Tingkat persetujuan"
 
 #: organisation_unit_level
 msgid "Organisation unit level"
-msgstr ""
+msgstr "Tingkat unit organisasi"
 
 #: select_level
 msgid "Select level"
-msgstr ""
+msgstr "Pilih level"
 
 #: select_set
 msgid "Select set"
-msgstr ""
+msgstr "Pilih set"
 
 #: category_option_group_set
 msgid "Category option group set"
-msgstr ""
+msgstr "Grup category option"
 
 #: add
 msgid "Add"
-msgstr ""
+msgstr "Tambah"
 
 #: cancel
 msgid "Cancel"
-msgstr ""
+msgstr "Batal"
 
 #: move_up
 msgid "Move up"
-msgstr ""
+msgstr "Pindah ke atas"
 
 #: move_down
 msgid "Move down"
-msgstr ""
+msgstr "Pindah ke bawah"
 
 #: remove
 msgid "Remove"
-msgstr ""
+msgstr "Hapus"
 
 #: create_new_approval_level
 msgid "Create new approval level"
-msgstr ""
+msgstr "Buat tingkat persetujuan yang baru"
 
 #: confirm_delete_data_approval_level
 msgid "Are you sure you want to delete this data approval level?"
-msgstr ""
+msgstr "Apakah anda yakin ingin menghapus tingkat persetujuan data ini?"
 
 #: details
 msgid "Details"
-msgstr ""
+msgstr "Detail"
 
 #: specify_organisation_unit_level
 msgid "Specify organisation unit level"
-msgstr ""
+msgstr "Tentukan tingkat unit organisasi"
 
 #: approval_level_is_already_defined
 msgid "Approval level is already defined"
-msgstr ""
+msgstr "Tingkat persetujuan telah didefinisikan"
 
 #: disable_dataentry_when_dataset_completed
 msgid "Disable data entry when data set completed"
@@ -318,11 +338,11 @@ msgstr "Cache strategy"
 
 #: calendar
 msgid "Calendar"
-msgstr ""
+msgstr "Kalender"
 
 #: date_format
 msgid "Date format"
-msgstr ""
+msgstr "Format tanggal"
 
 #: no_cache
 msgid "No cache"
@@ -342,7 +362,7 @@ msgstr "Maximum offline organisation unit levels"
 
 #: relative_to_current_user
 msgid "relative to current user"
-msgstr ""
+msgstr "relative to current user"
 
 #: phone_number_area_code
 msgid "Phone number area code"
@@ -350,7 +370,7 @@ msgstr "Kode area nomer telepon"
 
 #: google_analytics_ua_key
 msgid "Google Analytics (Universal Analytics) key"
-msgstr ""
+msgstr "Google Analytics (Universal Analytics) key"
 
 #: application_introduction
 msgid "Application introduction"
@@ -358,15 +378,15 @@ msgstr "Pengenalan aplikasi"
 
 #: remote_access_settings
 msgid "Remote Access Settings"
-msgstr ""
+msgstr "Remote Access Settings"
 
 #: do_not_allow_self_registration
 msgid "Do not allow self registration"
-msgstr ""
+msgstr "Tidak diperbolehkan registrasi mandiri"
 
 #: do_not_require_recaptcha_for_self_registration
 msgid "Do not require recaptcha for self registration"
-msgstr ""
+msgstr "Tidak membutuhkan recaptcha untuk pendaftaran mandiri "
 
 #: self_registration_account_user_role
 msgid "Self registration account user role"
@@ -382,7 +402,7 @@ msgstr "Akses"
 
 #: remote_access
 msgid "Remote Access"
-msgstr ""
+msgstr "Remote Access"
 
 #: enable_user_account_recovery
 msgid "Enable user account recovery"
@@ -390,7 +410,7 @@ msgstr "Mengaktifkan penyelamatan akun pengguna"
 
 #: enable_user_account_invite
 msgid "Enable user account invite"
-msgstr ""
+msgstr "Mengaktifkan undangan akun user"
 
 #: select_organisation_unit
 msgid "Select organisation unit"
@@ -406,200 +426,202 @@ msgstr "Aktifkan form multi unit organisasi"
 
 #: port
 msgid "Port"
-msgstr ""
+msgstr "Port"
 
 #: tls
 msgid "TLS"
-msgstr ""
+msgstr "TLS"
 
 #: email_sender
 msgid "Email sender"
-msgstr ""
+msgstr "Pengirim email"
 
 #: allows_html
 msgid "allows HTML"
-msgstr ""
+msgstr "memperbolehkan HTML"
 
 #: application_left_footer
 msgid "Application left-side footer"
-msgstr ""
+msgstr "Application left-side footer"
 
 #: application_right_footer
 msgid "Application right-side footer"
-msgstr ""
+msgstr "Application right-side footer"
 
 #: user_credentials_expires
 msgid "Require user account password change"
-msgstr ""
+msgstr "Membutuhkan perubahan password akun user"
 
 #: never
 msgid "Never"
-msgstr ""
+msgstr "Tidak pernah"
 
 #: months
 msgid "Months"
-msgstr ""
+msgstr "Bulan"
 
 #: openid_provider_label
 msgid "OpenID provider label"
-msgstr ""
+msgstr "Label OpenID provider"
 
 #: openid_provider
 msgid "OpenID provider"
-msgstr ""
+msgstr "OpenID provider"
 
 #: allow_users_to_grant_own_user_roles
 msgid "Allow users to grant own user roles"
-msgstr ""
+msgstr "Allow users to grant own user roles"
 
 #: object_not_deleted_associated_by_objects
 msgid "Object not deleted because it is associated by objects of type"
-msgstr ""
+msgstr "Objek tidak dihapus karena hal tersebut berkaitan dengan tipe objek"
 
 #: analytics_max_limit
 msgid "Maximum number of analytics records "
-msgstr ""
+msgstr "Nomor maksimal dalam laporan analisis"
 
 #: unlimited
 msgid "Unlimited"
-msgstr ""
+msgstr "Tidak terbatas"
 
 #: uses_image_from
 msgid "will use image from"
-msgstr ""
+msgstr "akan menggunakan gambar dari "
 
 #: custom_login_page_logo
 msgid "Custom login page logo"
-msgstr ""
+msgstr "Custom login page logo"
 
 #: custom_top_menu_logo
 msgid "Custom top menu logo"
-msgstr ""
+msgstr "Custom top menu logo"
 
 #: synchronization
 msgid "Synchronization"
-msgstr ""
+msgstr "Sinkronisasi"
 
 #: oauth2_clients
 msgid "OAuth2 Clients"
-msgstr ""
+msgstr "OAuth2 Clients"
 
 #: remote_server_url
 msgid "Remote server URL"
-msgstr ""
+msgstr "Remote server URL"
 
 #: remote_server_username
 msgid "Remote server username"
-msgstr ""
+msgstr "Remote server username"
 
 #: remote_server_password
 msgid "Remote server password"
-msgstr ""
+msgstr "Remote server password"
 
 #: recommended
 msgid "recommended"
-msgstr ""
+msgstr "direkomendasikan"
 
 #: put_analytics_in_maintenance_mode
 msgid "Put analytics in maintenance mode"
-msgstr ""
+msgstr "Put analytics in maintenance mode"
 
 #: returns
 msgid "returns"
-msgstr ""
+msgstr "kembali"
 
 #: test_settings
 msgid "Test settings"
-msgstr ""
+msgstr "Test settings"
 
 #: hidden
 msgid "Hidden"
-msgstr ""
+msgstr "Tersembunyi"
 
 #: no_of_database_server_cpus
 msgid "Number of database server CPUs"
-msgstr ""
+msgstr "Jumlah database CPUs server"
 
 #: automatic
 msgid "Automatic"
-msgstr ""
+msgstr "Otomatis"
 
 #: detect_based_on_web_server
 msgid "detect based on web server"
-msgstr ""
+msgstr "mendeteksi berdasarkan web server"
 
 #: help_page_link
 msgid "Help page link"
-msgstr ""
+msgstr "Help page link"
 
 #: server_base_url
 msgid "Server base URL"
-msgstr ""
+msgstr "Server base URL"
 
 #: acceptance_required_before_approval
 msgid "Acceptance required before approval"
-msgstr ""
+msgstr "Penerimaan dibutuhkan sebelum persetujuan"
 
 #: system_notifications_email_address
 msgid "System notifications email address"
-msgstr ""
+msgstr "Sistem notifikasi alamat email"
 
 #: default_analysis_relative_period
 msgid "Default relative period for analysis"
-msgstr ""
+msgstr "Default relative period for analysis"
 
 #: infrastructural_indicators
 msgid "Infrastructure indicators"
-msgstr ""
+msgstr "Indikator infrastruktur"
 
 #: cors_whitelist
 msgid "CORS whitelist"
-msgstr ""
+msgstr "CORS whitelist"
 
 #: require_authority_to_add_to_view_object_lists
 msgid "Require authority to add to view object lists"
-msgstr ""
+msgstr "Membutuhkan otoritas untuk menambah daftar objek"
 
 #: for_example
 msgid "For example"
-msgstr ""
+msgstr "Sebagai contoh"
 
 #: allow_assigning_object_to_related_objects_during_add_or_update
 msgid "Allow assigning object to related objects during add or update"
 msgstr ""
+"Memperbolehkan objek yang ditetapkan ke objek yang terkait selama penambahan "
+"atau perbaruan"
 
 #: delete_oauth2_client
 msgid "Are you sure you want to remove this OAuth2 client?"
-msgstr ""
+msgstr "Apakah anda yakin ingin menghapus OAuth2 client ini?"
 
 #: oauth2_client_management
 msgid "OAuth2 Management"
-msgstr ""
+msgstr "Manajemen OAuth2"
 
 #: create_new_oauth2_client
 msgid "Create new OAuth2 Client"
-msgstr ""
+msgstr "Buat OAuth2 Client baru"
 
 #: edit_oauth2_client
 msgid "Edit OAuth2 Client"
-msgstr ""
+msgstr "Edit OAuth2 Client"
 
 #: name
 msgid "Name"
-msgstr ""
+msgstr "Nama"
 
 #: client_id
 msgid "Client ID"
-msgstr ""
+msgstr "Client ID"
 
 #: client_secret
 msgid "Client Secret"
-msgstr ""
+msgstr "Rahasia klien"
 
 #: grant_types
 msgid "Grant Types"
-msgstr ""
+msgstr "Grant Types"
 
 #: redirect_uris
 msgid "Redirect URIs"
-msgstr ""
+msgstr "Redirect URIs"

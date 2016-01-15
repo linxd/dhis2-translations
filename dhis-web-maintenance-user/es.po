@@ -1,14 +1,14 @@
 #. #-- See module privilegies ----------------------------------------------------#
-#. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-user/src/main/resources/org/hisp/dhis/user/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-user/src/main/resources/org/hisp/dhis/user/i18n_module_es.properties
-#, fuzzy
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-user/src/main/resources/org/hisp/dhis/user/i18n_module.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-04 06:51+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1533,14 +1533,11 @@ msgstr ""
 msgid "Programs"
 msgstr ""
 
-#: ldap_id
-msgid "LDAP identifier"
-msgstr "LDAP identifier"
+#~ msgid "LDAP identifier"
+#~ msgstr "LDAP identifier"
 
-#: ldap_in_use
-msgid "LDAP identifier in use"
-msgstr "LDAP identifier in use"
+#~ msgid "LDAP identifier in use"
+#~ msgstr "LDAP identifier in use"
 
-#: external_authentication_only
-msgid "External authentication only"
-msgstr "External authentication only"
+#~ msgid "External authentication only"
+#~ msgstr "External authentication only"

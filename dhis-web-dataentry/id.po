@@ -1,10 +1,10 @@
-#. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-dataentry/src/main/resources/org/hisp/dhis/de/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-dataentry/src/main/resources/org/hisp/dhis/de/i18n_module_id.properties
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-dataentry/src/main/resources/org/hisp/dhis/de/i18n_module.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-04 06:50+0200\n"
-"PO-Revision-Date: 2015-09-26 15:59+0000\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
+"PO-Revision-Date: 2015-12-27 09:00+0000\n"
 "Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1443283172.0\n"
+"X-POOTLE-MTIME: 1451206833.0\n"
 
 #: dataelement_comment
 msgid "Comment"
@@ -53,15 +53,15 @@ msgstr "Disimpan pada tanggal"
 
 #: last_updated
 msgid "Last updated"
-msgstr ""
+msgstr "Update terakhir"
 
 #: update
 msgid "Update"
-msgstr ""
+msgstr "Update"
 
 #: delete
 msgid "Delete"
-msgstr ""
+msgstr "Hapus"
 
 #: no_value
 msgid "No value"
@@ -89,7 +89,7 @@ msgstr "Periode"
 
 #: form_field
 msgid "Form field"
-msgstr ""
+msgstr "Form field"
 
 #: filter_on_section
 msgid "Filter on section"
@@ -105,7 +105,7 @@ msgstr "Perlihatkan semua bagian"
 
 #: show_all_items
 msgid "Show all items"
-msgstr ""
+msgstr "Tampilkan semua item"
 
 #: earlier_periods
 msgid "Earlier periods"
@@ -171,7 +171,7 @@ msgstr "Riwayat elemen data"
 
 #: audit_trail
 msgid "Audit trail"
-msgstr ""
+msgstr "Audit trail"
 
 #: nr
 msgid "Nr"
@@ -209,10 +209,12 @@ msgid ""
 "The following values are considered as outliers (min-max or std dev), please "
 "correct"
 msgstr ""
+"Nilai yang tersebut ini terindikasi sebagai outliers (min-maks atau std dev)"
+", silakan diperbaiki"
 
 #: the_following_fields_require_comment
 msgid "The following input fields require a comment, please enter"
-msgstr ""
+msgstr "Kolom input ini memerlukan komentar, silakan berikan komentar"
 
 #: the_following_values_violate_rules
 msgid "The following values violate validation rules"
@@ -296,7 +298,7 @@ msgstr ""
 
 #: datavalue_history
 msgid "Data value history"
-msgstr ""
+msgstr "Data value history"
 
 #: max_must_be_greater_than_min
 msgid "Max must be greater than min"
@@ -324,7 +326,7 @@ msgstr "Pilih periode"
 
 #: select_option
 msgid "Select option"
-msgstr ""
+msgstr "Pilih option"
 
 #: change_from
 msgid "change from"
@@ -332,11 +334,11 @@ msgstr "Diganti dari"
 
 #: modification
 msgid "Modification"
-msgstr ""
+msgstr "Modifikasi"
 
 #: modified_by
 msgid "Modified by"
-msgstr ""
+msgstr "Dimodifikasi oleh"
 
 #: to
 msgid "to"
@@ -348,7 +350,7 @@ msgstr "pada"
 
 #: value
 msgid "Value"
-msgstr ""
+msgstr "Value"
 
 #: no_response_from_server
 msgid "No response from server, please check connectivity and try again"
@@ -427,7 +429,7 @@ msgstr "Tidak ditemukan"
 
 #: does_not_exist_in_data_set
 msgid "does not exist in data set"
-msgstr ""
+msgstr "Tidak terdapat di set data"
 
 #: insert_input_fields_into_the_form
 msgid "Insert input fields into the form"
@@ -471,44 +473,28 @@ msgstr "Lihat komentar"
 
 #: no_orgunits
 msgid "No organisation unit attached to current user, no data entry possible"
-msgstr ""
+msgstr "No organisation unit attached to current user, no data entry possible"
 
 #: validation_rules_are_being_processed_please_wait
 msgid "Validation rules are being processed, please wait"
-msgstr ""
+msgstr "Validation rules sedang diproses, silakan tunggu"
 
 #: section
 msgid "Section"
-msgstr ""
+msgstr "Section"
 
 #: print_form
 msgid "Print form"
-msgstr ""
+msgstr "Cetak formulir"
 
 #: print_blank_form
 msgid "Print blank form"
-msgstr ""
+msgstr "Cetak formulir kosong"
 
 #: instruction
 msgid "Instruction"
-msgstr ""
+msgstr "Instruksi"
 
 #: there_is_no_audit_trail_for_this_value
 msgid "There is no audit trail for this value"
-msgstr ""
-
-#: are_you_sure_you_want_to_delete_this_file
-msgid "Are you sure you want to delete this file?"
-msgstr ""
-
-#: confirm_deletion
-msgid "Confirm deletion"
-msgstr ""
-
-#: file_upload_failed
-msgid "File upload failed"
-msgstr ""
-
-#: loading_file_info_failed
-msgid "Loading file info failed"
-msgstr ""
+msgstr "There is no audit trail for this value"

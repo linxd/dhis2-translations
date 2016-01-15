@@ -1,13 +1,13 @@
-#. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-mobile/src/main/resources/org/hisp/dhis/mobile/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-mobile/src/main/resources/org/hisp/dhis/mobile/i18n_module_tg.properties
-#, fuzzy
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-mobile/src/main/resources/org/hisp/dhis/mobile/i18n_module.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-04 06:51+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: tg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"

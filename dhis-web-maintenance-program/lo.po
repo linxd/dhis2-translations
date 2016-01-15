@@ -1,9 +1,9 @@
-#. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-program/src/main/resources/org/hisp/dhis/trackedentity/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-program/src/main/resources/org/hisp/dhis/trackedentity/i18n_module_lo.properties
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-program/src/main/resources/org/hisp/dhis/trackedentity/i18n_module.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-04 06:51+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: 2015-09-26 16:00+0000\n"
 "Last-Translator: viengthong <v.chongwaxiong@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.5.0\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
 "X-POOTLE-MTIME: 1443283208.0\n"
 
 #: groupBy
@@ -1012,8 +1012,9 @@ msgstr ""
 "Define formulas, expressions, rules for aggregation data from name-based to "
 "aggregation system"
 
-#~ msgid "Show incident date"
-#~ msgstr "Show incidence date"
+#: show_incident_date
+msgid "Show incidence date"
+msgstr "Show incidence date"
 
 #: display_date_of_incident
 msgid "Display date of incident"
@@ -1236,6 +1237,14 @@ msgstr ""
 #: executing
 msgid "Executing"
 msgstr "Executing"
+
+#: add_single_rule
+msgid "Add single rule"
+msgstr "Add single rule"
+
+#: add_multi_rule
+msgid "Add multi rule"
+msgstr "Add multi rule"
 
 #: no_aggregation
 msgid "No aggregation"
@@ -1695,6 +1704,10 @@ msgstr "Registration date"
 msgid "Create default registration form"
 msgstr "Create default registration form"
 
+#: use_birth_date_as_incident_date
+msgid "Set incidence date to date of birth"
+msgstr "Set incidence date to date of birth"
+
 #: use_birth_date_as_enrollment_date
 msgid "Set enrollment date to date of birth"
 msgstr "Set enrollment date to date of birth"
@@ -1715,8 +1728,9 @@ msgstr "Allow seleting enrollment dates in future"
 msgid "Allow future enrollment dates"
 msgstr "Allow future enrollment dates"
 
-#~ msgid "Allow future incident dates"
-#~ msgstr "Allow future incidence dates"
+#: allow_select_incident_date_in_future
+msgid "Allow future incidence dates"
+msgstr "Allow future incidence dates"
 
 #: relationship_text
 msgid "Relationship text"
@@ -1926,8 +1940,9 @@ msgstr "Users"
 msgid "Attribute users"
 msgstr "Attribute users"
 
-#~ msgid "View reminder message templates"
-#~ msgstr "View template reminder messages"
+#: view_reminder_message_templates
+msgid "View reminder message templatess"
+msgstr "View template reminder messages"
 
 #: display_in_list_no_program
 msgid "Display in list without program"
@@ -2069,6 +2084,10 @@ msgstr "Program Stage Sort Order"
 #: sort_order
 msgid "Sort order"
 msgstr "Sort order"
+
+#: expression_is_not_well_formed
+msgid "Expression is not well-formed"
+msgstr ""
 
 #: program_variables
 msgid "Program variables"
@@ -2263,42 +2282,11 @@ msgstr ""
 msgid "Missing value replacement"
 msgstr ""
 
-#: skip_offline
-msgid "Skip offline"
-msgstr ""
+#~ msgid "Show incident date"
+#~ msgstr "Show incidence date"
 
-#: data_approval_workflow
-msgid "Data approval workflow"
-msgstr ""
+#~ msgid "Allow future incident dates"
+#~ msgstr "Allow future incidence dates"
 
-#: display_front_page_list
-msgid "Display front page list"
-msgstr ""
-
-#: show_incident_date
-msgid "Show incidence date"
-msgstr "Show incidence date"
-
-#: add_single_rule
-msgid "Add single rule"
-msgstr "Add single rule"
-
-#: add_multi_rule
-msgid "Add multi rule"
-msgstr "Add multi rule"
-
-#: use_birth_date_as_incident_date
-msgid "Set incidence date to date of birth"
-msgstr "Set incidence date to date of birth"
-
-#: allow_select_incident_date_in_future
-msgid "Allow future incidence dates"
-msgstr "Allow future incidence dates"
-
-#: view_reminder_message_templates
-msgid "View reminder message templatess"
-msgstr "View template reminder messages"
-
-#: expression_is_not_well_formed
-msgid "Expression is not well-formed"
-msgstr ""
+#~ msgid "View reminder message templates"
+#~ msgstr "View template reminder messages"

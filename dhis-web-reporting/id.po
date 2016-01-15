@@ -1,17 +1,19 @@
-#. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-reporting/src/main/resources/org/hisp/dhis/reporting/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-reporting/src/main/resources/org/hisp/dhis/reporting/i18n_module_id.properties
-#, fuzzy
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-reporting/src/main/resources/org/hisp/dhis/reporting/i18n_module.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-04 06:51+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
+"PO-Revision-Date: 2016-01-01 16:13+0000\n"
+"Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1451664798.0\n"
 
 #: please_select_org_unit
 msgctxt "please_select_org_unit"
@@ -59,7 +61,7 @@ msgstr "Laporan data set"
 
 #: data_approval
 msgid "Data Approval"
-msgstr ""
+msgstr "Data Approval"
 
 #: add_selected
 msgid "Add selected"
@@ -95,7 +97,7 @@ msgstr "Pilih level unit organisasi/ Lihat semua"
 
 #: select_option_view_all
 msgid "Select option / View all"
-msgstr ""
+msgstr "Pilih Option / Tampilkan semua"
 
 #: level
 msgid "Level"
@@ -351,11 +353,11 @@ msgstr "Data elemen yang tersedia"
 
 #: select_dataelementgroup_all
 msgid "Select data element group / View all"
-msgstr ""
+msgstr "Pilih grup elemen data / Tampilkan semua"
 
 #: selected_dataelements
 msgid "Selected data elements"
-msgstr ""
+msgstr "Pilih elemen data"
 
 #: dataelements
 msgid "Data elements"
@@ -367,11 +369,11 @@ msgstr "Parameter tabel laporan"
 
 #: months_this_year
 msgid "Months this year"
-msgstr ""
+msgstr "Bulan tahun ini"
 
 #: quarters_this_year
 msgid "Quarters this year"
-msgstr ""
+msgstr "Triwulan di tahun ini"
 
 #: add_report_table
 msgid "Add Report Table"
@@ -503,7 +505,7 @@ msgstr "File"
 
 #: attachment
 msgid "Attachment"
-msgstr ""
+msgstr "Lampiran"
 
 #: url
 msgid "URL"
@@ -567,7 +569,7 @@ msgstr "Tahun berikutnya"
 
 #: none
 msgid "None"
-msgstr ""
+msgstr "Tidak ada"
 
 #: facility
 msgid "Facility"
@@ -587,11 +589,11 @@ msgstr "Metode"
 
 #: show_more_options
 msgid "Show more options"
-msgstr ""
+msgstr "Show more options"
 
 #: show_fewer_options
 msgid "Show fewer options"
-msgstr ""
+msgstr "Show fewer options"
 
 #: generate_before_export
 msgid "Please generate table before exporting"
@@ -678,6 +680,8 @@ msgid ""
 "View data and manage data approval by approving or unapproving, accepting or "
 "unaccepting data."
 msgstr ""
+"Tampilkan data dan mengelola persetujuan data dengan menyetujui atau tidak "
+"menyetujui, menerima atau tidak menerima data"
 
 #: orgunit_distribution_report
 msgid "Organisation Unit Distribution Report"
@@ -713,7 +717,7 @@ msgstr "Pilih unit organisasi"
 
 #: get_report
 msgid "Get report"
-msgstr ""
+msgstr "Dapatkan laporan"
 
 #: get_report_as_xls
 msgid "Download as Excel"
@@ -737,7 +741,7 @@ msgstr "Download dalam bentuk JRXML"
 
 #: select_category_combo
 msgid "Select category combination"
-msgstr ""
+msgstr "Pilih kombinasi kategori"
 
 #: sort_order
 msgid "Sort order"
@@ -845,11 +849,11 @@ msgstr "Kelompok/Grup unit organisasi terpilih"
 
 #: start_date
 msgid "Start date"
-msgstr ""
+msgstr "Tanggal mulai"
 
 #: end_date
 msgid "End date"
-msgstr ""
+msgstr "Tanggal akhir"
 
 #: start_export
 msgid "Start export"
@@ -873,7 +877,7 @@ msgstr "Print"
 
 #: reporting_period
 msgid "Reporting period"
-msgstr ""
+msgstr "Periode pelaporan"
 
 #: completed_by
 msgid "Completed by"
@@ -985,7 +989,7 @@ msgstr "Dapatkan template laporan dengan format HTML"
 
 #: analytics_tables_management
 msgid "Analytics tables management"
-msgstr ""
+msgstr "Pengaturan tabel analitik"
 
 #: analytics_tables
 msgid "Analytics tables"
@@ -1001,108 +1005,108 @@ msgstr "Tipe periode agregasi"
 
 #: analytics
 msgid "Analytics"
-msgstr ""
+msgstr "Analitik"
 
 #: approve
 msgid "Approve"
-msgstr ""
+msgstr "Menyetujui"
 
 #: unapprove
 msgid "Unapprove"
-msgstr ""
+msgstr "Tidak menyetujui"
 
 #: accept
 msgid "Accept"
-msgstr ""
+msgstr "Menerima"
 
 #: unaccept
 msgid "Unaccept"
-msgstr ""
+msgstr "Tidak menerima"
 
 #: waiting_for_lower_level_approval
 msgid "Waiting for lower levels to approve"
-msgstr ""
+msgstr "Menunggu persetujuan tingkat lebih rendah"
 
 #: approved_at_a_higher_level
 msgid "Approved at a higher level"
-msgstr ""
+msgstr "Disetujui pada tingkat yang lebih tinggi"
 
 #: approved
 msgid "Approved"
-msgstr ""
+msgstr "Disetujui"
 
 #: approved_and_accepted
 msgid "Approved and accepted"
-msgstr ""
+msgstr "Disetujui dan diterima"
 
 #: ready_for_approval_at_a_higher_level
 msgid "Ready for approval at a higher level"
-msgstr ""
+msgstr "Siap untuk menyetujui pada tingkat yang lebih tinggi"
 
 #: ready_for_approval
 msgid "Ready for approval"
-msgstr ""
+msgstr "Ready for approval"
 
 #: approval_not_relevant
 msgid "Approval not relevant"
-msgstr ""
+msgstr "Persetujuan tidak relevan"
 
 #: waiting_for_approval_elsewhere
 msgid "Waiting for approval elsewhere"
-msgstr ""
+msgstr "Menunggu persetujuan"
 
 #: approved_elsewhere
 msgid "Approved elsewhere"
-msgstr ""
+msgstr "Disetujui dimana saja"
 
 #: accepted_elsewhere
 msgid "Accepted elsewhere"
-msgstr ""
+msgstr "Diterima dimana saja"
 
 #: approved_for_part_of_this_period
 msgid "Approved for part of this period"
-msgstr ""
+msgstr "Bagian dari periode ini disetujui"
 
 #: accepted_for_part_of_this_period
 msgid "Accepted for part of this period"
-msgstr ""
+msgstr "Bagian dari periode ini diterima"
 
 #: approved_elsewhere_for_part_of_this_period
 msgid "Approved elsewhere for part of this period"
-msgstr ""
+msgstr "Bagian dari periode ini disetujui dimana saja"
 
 #: accepted_elsewhere_for_part_of_this_period
 msgid "Accepted elsewhere for part of this period"
-msgstr ""
+msgstr "Bagian dari periode ini disetujui dimana saja"
 
 #: confirm_approval
 msgid "Are you sure you want to approve this data set?"
-msgstr ""
+msgstr "Apakah anda yakin ingin menyetujui data set ini?"
 
 #: confirm_unapproval
 msgid "Are you sure you want to unapprove this data set?"
-msgstr ""
+msgstr "Apakah anda yakin tidak ingin menyetujui data set ini?"
 
 #: confirm_accept
 msgid "Are you sure you want to accept this data set approval?"
-msgstr ""
+msgstr "Apakah anda yakin ingin menerima persetujuan data set ini?"
 
 #: confirm_unaccept
 msgid "Are you sure you want to unaccept this data set approval?"
-msgstr ""
+msgstr "Apakah anda yakin tidak ingin menerima persetujuan data set ini?"
 
 #: approval_entity
 msgid "Approval entity"
-msgstr ""
+msgstr "Entitas persetujuan"
 
 #: approval_status
 msgid "Approval status"
-msgstr ""
+msgstr "Status persetujuan"
 
 #: please_make_selection
 msgid "Please make a selection below"
-msgstr ""
+msgstr "Silakan buat pilihan di bawah ini"
 
 #: data_criteria
 msgid "Data criteria"
-msgstr ""
+msgstr "Kriteria data"

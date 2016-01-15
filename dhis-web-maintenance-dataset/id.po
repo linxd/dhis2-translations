@@ -1,10 +1,10 @@
-#. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-dataset/src/main/resources/org/hisp/dhis/dataset/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-dataset/src/main/resources/org/hisp/dhis/dataset/i18n_module_id.properties
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-dataset/src/main/resources/org/hisp/dhis/dataset/i18n_module.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-04 06:50+0200\n"
-"PO-Revision-Date: 2015-09-26 15:59+0000\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
+"PO-Revision-Date: 2015-12-27 06:53+0000\n"
 "Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1443283176.0\n"
+"X-POOTLE-MTIME: 1451199217.0\n"
 
 #: available_for_mobile_reporting
 msgid "Available for mobile reporting"
@@ -65,7 +65,7 @@ msgstr "Judul"
 
 #: category_combo
 msgid "Combination of categories"
-msgstr ""
+msgstr "Kombinasi kategori"
 
 #: add_dataset
 msgid "Add data set"
@@ -77,7 +77,7 @@ msgstr "Detail data set"
 
 #: multiorg_dataset_details
 msgid "Multi-organisation unit entry details"
-msgstr ""
+msgstr "Detail entri multi-unit organisasi"
 
 #: frequency
 msgid "Frequency"
@@ -351,7 +351,7 @@ msgstr "Batas Kadaluarsa"
 
 #: timely_days
 msgid "Days after period to qualify for timely submission"
-msgstr ""
+msgstr "Days after period to qualify for timely submission"
 
 #: insert_data_elements_totals_indicators
 msgid "Insert data elements, totals and indicators"
@@ -427,7 +427,7 @@ msgstr "Notifikasi pad penerima selesai dilakukan"
 
 #: no_value_requires_comment
 msgid "Missing value requires comment on complete"
-msgstr ""
+msgstr "Missing value requires comment on complete"
 
 #: skip_offline
 msgid "Skip offline"
@@ -435,11 +435,11 @@ msgstr "Skip Offline"
 
 #: render_as_tabs
 msgid "Render sections as tabs"
-msgstr ""
+msgstr "Render sections as tabs"
 
 #: render_horizontally
 msgid "Render Vertically"
-msgstr ""
+msgstr "Buat secara vertikal"
 
 #: object_not_deleted_associated_by_objects
 msgid "Object not deleted because it is associated by objects of type"
@@ -453,9 +453,9 @@ msgstr "Autosave formulir entri data"
 msgid "Send notification to completing user"
 msgstr "Kirimkan notifikasi untuk pengguna"
 
-#: data_approval_workflow
-msgid "Data approval workflow"
-msgstr ""
+#: approve_data
+msgid "Approve data"
+msgstr "Approve data"
 
 #: insert_images
 msgid "Insert images"
@@ -463,36 +463,32 @@ msgstr "Insert gambar"
 
 #: dataelementdecoration
 msgid "Data element decoration"
-msgstr ""
+msgstr "Data element decoration"
 
 #: pdf_data_entry_form
 msgid "Get PDF for Data Entry"
-msgstr ""
+msgstr "Bentuk PDF untuk data entri"
 
 #: select_symbol
 msgid "Select symbol"
-msgstr ""
+msgstr "Pilih simbol"
 
 #: symbol
 msgid "Symbol"
-msgstr ""
+msgstr "Simbol"
 
 #: legend_set
 msgid "Legend set"
-msgstr ""
+msgstr "Buat legenda"
 
 #: enable_for_java_mobile_client
 msgid "Enable for Java mobile client"
-msgstr ""
+msgstr "Enable for Java mobile client"
 
 #: view_sections
 msgid "View sections"
-msgstr ""
+msgstr "Tampilkan sections"
 
 #: open_future_periods_for_data_entry
 msgid "Open future periods for data entry"
-msgstr ""
-
-#: approve_data
-msgid "Approve data"
-msgstr ""
+msgstr "Open future periods for data entry"

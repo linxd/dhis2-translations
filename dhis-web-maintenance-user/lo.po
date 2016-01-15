@@ -1,10 +1,10 @@
 #. #-- See module privilegies ----------------------------------------------------#
-#. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-user/src/main/resources/org/hisp/dhis/user/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-user/src/main/resources/org/hisp/dhis/user/i18n_module_lo.properties
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-user/src/main/resources/org/hisp/dhis/user/i18n_module.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-04 06:51+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: 2015-09-26 16:00+0000\n"
 "Last-Translator: viengthong <v.chongwaxiong@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.5.0\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
 "X-POOTLE-MTIME: 1443283209.0\n"
 
 #: M_dhis-web-api
@@ -1533,16 +1533,4 @@ msgstr ""
 
 #: programs
 msgid "Programs"
-msgstr ""
-
-#: ldap_id
-msgid "LDAP identifier"
-msgstr ""
-
-#: ldap_in_use
-msgid "LDAP identifier in use"
-msgstr ""
-
-#: external_authentication_only
-msgid "External authentication only"
 msgstr ""

@@ -1,21 +1,23 @@
-#. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-organisationunit/src/main/resources/org/hisp/dhis/oum/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-organisationunit/src/main/resources/org/hisp/dhis/oum/i18n_module_id.properties
-#, fuzzy
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-organisationunit/src/main/resources/org/hisp/dhis/oum/i18n_module.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-04 06:51+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
+"PO-Revision-Date: 2015-12-27 06:46+0000\n"
+"Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1451198788.0\n"
 
 #: create_new_root
 msgid "Are you sure you want to create a new root organisation unit?"
-msgstr ""
+msgstr "Apakah Anda yakin ingin membuat induk unit organisasi baru?"
 
 #: create_new_org_unit
 msgid "Create new organisation unit"
@@ -147,7 +149,7 @@ msgstr "Pemindahan unit organisasi dipindahkan"
 
 #: not_selected_moved_to_root_position
 msgid "Not selected, moved to root position"
-msgstr ""
+msgstr "Tidak dipilih, pindahkan ke posisi awal"
 
 #: verification_of_the_new_parent_org_unit_failed
 msgid ""
@@ -200,7 +202,7 @@ msgstr "Wajib"
 
 #: data_dimension
 msgid "Data Dimension"
-msgstr ""
+msgstr "Data Dimensi"
 
 #: exclusive
 msgid "Exclusive"
@@ -208,7 +210,7 @@ msgstr "Eksklusif"
 
 #: create_new_org_unit_group_set
 msgid "Create new organisation unit group set"
-msgstr ""
+msgstr "Buat kelompok unit organisasi baru"
 
 #: edit_org_unit_group_set
 msgid "Edit organisation unit group set"
@@ -396,7 +398,7 @@ msgstr "Ditemukan"
 
 #: all
 msgid "All"
-msgstr ""
+msgstr "Semua"
 
 #: please_select_from_tree
 msgid "Please select from tree (optional)"
@@ -412,7 +414,7 @@ msgstr "Point"
 
 #: offline_levels
 msgid "Offline levels"
-msgstr ""
+msgstr "Offline levels"
 
 #: available_data_sets
 msgid "Available data sets"
@@ -492,4 +494,4 @@ msgstr "Perlihatkan semua bagian"
 
 #: org_unit_levels_not_yet_saved
 msgid "Organisation unit level is not yet saved, please save"
-msgstr ""
+msgstr "Level unit organisasi belum disimpan, silakan simpan "

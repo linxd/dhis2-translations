@@ -1,10 +1,10 @@
-#. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-program/src/main/resources/org/hisp/dhis/trackedentity/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-maintenance/dhis-web-maintenance-program/src/main/resources/org/hisp/dhis/trackedentity/i18n_module_id.properties
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-program/src/main/resources/org/hisp/dhis/trackedentity/i18n_module.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-04 06:51+0200\n"
-"PO-Revision-Date: 2015-09-26 15:59+0000\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
+"PO-Revision-Date: 2016-01-02 11:10+0000\n"
 "Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1443283178.0\n"
+"X-POOTLE-MTIME: 1451733014.0\n"
 
 #: groupBy
 msgid "Group by"
@@ -44,7 +44,7 @@ msgstr "<="
 
 #: is_equal_to_tracked_entity_domain
 msgid "Is equal to tracked entity domain"
-msgstr ""
+msgstr "Apakah setara dengan domain tracked entity?"
 
 #: group
 msgid "Group"
@@ -72,7 +72,7 @@ msgstr "Are you sure you want to delete relationship type?"
 
 #: relationship_description
 msgid "Relationship (e.g. Mother-Child)"
-msgstr ""
+msgstr "Hubungan (contoh Ibu-Anak)"
 
 #: relationship_type
 msgid "Relationship type"
@@ -120,7 +120,7 @@ msgstr "Program Stage"
 
 #: section_details
 msgid "Section details"
-msgstr ""
+msgstr "Section details"
 
 #: close
 msgid "Close"
@@ -128,7 +128,7 @@ msgstr "Close"
 
 #: edit_tracked_entity_attribute
 msgid "Edit tracked entity attribute"
-msgstr ""
+msgstr "Edit tracked entity attribute"
 
 #: attribute
 msgctxt "attribute"
@@ -141,19 +141,19 @@ msgstr "Value Type"
 
 #: legend_set
 msgid "Legend set"
-msgstr ""
+msgstr "Legend set"
 
 #: create_new_tracked_entity_attribute
 msgid "Create new tracked entity attribute"
-msgstr ""
+msgstr "Create new tracked entity attribute"
 
 #: confirm_delete_tracked_entity_attribute
 msgid "Are you sure you want to delete this tracked entity attribute?"
-msgstr ""
+msgstr "Are you sure you want to delete this tracked entity attribute?"
 
 #: tracked_entity_attribute_management
 msgid "Tracked entity attribute management"
-msgstr ""
+msgstr "Tracked entity attribute management"
 
 #: name_in_use
 msgid "Name is in use"
@@ -161,11 +161,11 @@ msgstr "Name in use"
 
 #: short_name_in_use
 msgid "Short name in use"
-msgstr ""
+msgstr "Nama singkat tersebut sudah digunakan"
 
 #: code_in_use
 msgid "Code is in use"
-msgstr ""
+msgstr "Kode tersebut sudah digunakan"
 
 #: sort
 msgid "Sort"
@@ -283,7 +283,7 @@ msgstr "Everything is OK"
 #: tracked_entity_attribute
 msgctxt "tracked_entity_attribute"
 msgid "Attribute"
-msgstr ""
+msgstr "Attribute"
 
 #: program
 msgid "Program"
@@ -291,11 +291,11 @@ msgstr "Program"
 
 #: aggregation_query_builder
 msgid "Aggregation Query Builder"
-msgstr ""
+msgstr "Aggregation Query Builder"
 
 #: tracked_entity_aggregation_query_builder_management
 msgid "Aggregation query builder management"
-msgstr ""
+msgstr "Aggregation query builder management"
 
 #: dataelements
 msgid "Data elements"
@@ -304,7 +304,7 @@ msgstr "Data elements"
 #: tracked_entity_attributes
 msgctxt "tracked_entity_attributes"
 msgid "Attributes"
-msgstr ""
+msgstr "Attributes"
 
 #: operator
 msgid "Operator"
@@ -324,7 +324,7 @@ msgstr "Data entry form details"
 
 #: data_entry_form
 msgid "Data entry form"
-msgstr ""
+msgstr "Formulir data entri"
 
 #: blood_group
 msgid "Blood group"
@@ -344,7 +344,7 @@ msgstr "Mandatory"
 
 #: tracked_entity_attribute_group_management
 msgid "Tracked entity attribute group management"
-msgstr ""
+msgstr "Tracked entity attribute group management"
 
 #: move_selected
 msgid "Move selected items"
@@ -365,36 +365,36 @@ msgstr "Selected attributes"
 
 #: tracked_entity_attribute_group_deltails
 msgid "Tracked entity attribute group details"
-msgstr ""
+msgstr "Tracked entity attribute group details"
 
 #: tracked_entity_attribute_group
 msgctxt "tracked_entity_attribute_group"
 msgid "Attribute Group"
-msgstr ""
+msgstr "Grup Attribute"
 
 #: edit_tracked_entity_attribute_group
 msgid "Edit tracked entity attribute group"
-msgstr ""
+msgstr "Edit tracked entity attribute group"
 
 #: create_new_tracked_entity_attribute_group
 msgid "Create new tracked entity attribute group"
-msgstr ""
+msgstr "Create new tracked entity attribute group"
 
 #: delete_successfull
 msgid "Deleted successfully"
-msgstr "Deleted successfully"
+msgstr "This option has relationship with tracked entity attribute values"
 
 #: warning_delete_tracked_entity_attribute_option
 msgid "This option has relationship with tracked entity attribute values"
-msgstr ""
+msgstr "This option has relationship with tracked entity attribute values"
 
 #: success_delete_tracked_entity_attribute_option
 msgid "Deleted tracked entity attribute option successfully"
-msgstr ""
+msgstr "Deleted tracked entity attribute option successfully"
 
 #: error_delete_tracked_entity_attribute_option
 msgid "Can not find tracked entity attribute option to delete"
-msgstr ""
+msgstr "Can not find tracked entity attribute option to delete"
 
 #: combo
 msgid "Predefined value"
@@ -415,12 +415,12 @@ msgstr "Edit validation criteria"
 #: attribute_group
 msgctxt "attribute_group"
 msgid "Attribute Group"
-msgstr ""
+msgstr "Grup Attribute"
 
 #: attribute_visit_schedule
 msgctxt "attribute_visit_schedule"
 msgid "Attribute Visit Schedule"
-msgstr ""
+msgstr "Attribute Visit Schedule"
 
 #: create_validation_criteria
 msgid "Create validation criteria"
@@ -431,18 +431,24 @@ msgid ""
 "Create, modify and view tracked entity attributes. An attribute can be used "
 "to register extra information for a tracked entity."
 msgstr ""
+"Create, modify and view tracked entity attributes. An attribute can be used "
+"to register extra information for a tracked entity."
 
 #: intro_attribute_group
 msgid ""
 "Create, modify and view tracked entity attribute groups. Groups makes it "
 "more convenient to add attributes to a tracked entity."
 msgstr ""
+"Create, modify and view tracked entity attribute groups. Groups makes it "
+"more convenient to add attributes to a tracked entity."
 
 #: intro_attribute_visit_schedule
 msgid ""
 "Define which attributes to use in messages sent to clients regarding "
 "scheduled visits."
 msgstr ""
+"Define which attributes to use in messages sent to clients regarding "
+"scheduled visits."
 
 #: intro_relationship_type
 msgid ""
@@ -465,6 +471,8 @@ msgid ""
 "Set up aggregation rules for the process of aggregating tracked entity data "
 "to statistical data."
 msgstr ""
+"Set up aggregation rules for the process of aggregating tracked entity data "
+"to statistical data."
 
 #: intro_schedule_automated_message_reminder
 msgid ""
@@ -494,6 +502,8 @@ msgid ""
 "Define types of entities which can be tracked through the system, which can "
 "be anything from persons to commodities."
 msgstr ""
+"Define types of entities which can be tracked through the system, which can "
+"be anything from persons to commodities."
 
 #: inheritable
 msgid "Inheritable"
@@ -501,7 +511,7 @@ msgstr "Inheritable"
 
 #: tracked_entity_attribute_details
 msgid "Tracked entity attribute details"
-msgstr ""
+msgstr "Tracked entity attribute details"
 
 #: search_result
 msgid "Search result"
@@ -576,11 +586,11 @@ msgstr "Done"
 
 #: decimals_in_data_output
 msgid "Decimals in data output"
-msgstr ""
+msgstr "Desimal pada output data"
 
 #: other_program_stage_data_element
 msgid "Other program stage data element"
-msgstr ""
+msgstr "Other program stage data element"
 
 #: load_existed_form
 msgid "Load existing form"
@@ -682,7 +692,7 @@ msgstr "Program attribute details"
 
 #: select_program
 msgid "Select program"
-msgstr ""
+msgstr "Pilih program"
 
 #: create_new_program_validation_rule
 msgid "Create new program validation rule"
@@ -698,7 +708,7 @@ msgstr "Program validation rule details"
 
 #: view_validation_rules
 msgid "View validation rules"
-msgstr ""
+msgstr "Tampilkan ketentuan validasi"
 
 #: scheduled_days_from_start
 msgid "Scheduled days from start"
@@ -742,7 +752,7 @@ msgstr "Single event"
 
 #: tracked_entity_instances
 msgid "Tracked entity instances"
-msgstr ""
+msgstr "Tracked entity instances"
 
 #: dob_type
 msgid "DOB type"
@@ -806,7 +816,7 @@ msgstr "Run failed"
 
 #: total_of_tracked_entity_registration
 msgid "Total of tracked entity instance registration"
-msgstr ""
+msgstr "Total of tracked entity instance registration"
 
 #: repeatable
 msgid "Repeatable"
@@ -880,7 +890,7 @@ msgstr "Data element"
 
 #: condition
 msgid "Condition"
-msgstr ""
+msgstr "Kondisi"
 
 #: no_date_data_element_in_selected_program_stage
 msgid "No data elements of type date in the selected program stage"
@@ -908,7 +918,7 @@ msgstr "Display provided other facility column"
 
 #: tracked_entity_org_unit_registration
 msgid "Tracked entity org unit registration"
-msgstr ""
+msgstr "Tracked entity org unit registration"
 
 #: dataset
 msgid "Data set"
@@ -924,11 +934,11 @@ msgstr "Show All Items"
 
 #: with_registration
 msgid "With registration"
-msgstr ""
+msgstr "Dengan pendaftaran"
 
 #: without_registration
 msgid "Without registration"
-msgstr ""
+msgstr "Tanpa pendaftaran"
 
 #: for
 msgid "for"
@@ -944,7 +954,7 @@ msgstr "Program enrollment"
 
 #: due_date
 msgid "Due date"
-msgstr ""
+msgstr "Hari H"
 
 #: stage_visited
 msgid "Stage visited"
@@ -980,7 +990,7 @@ msgstr "Visited program stage"
 
 #: number_of_tracked_entity_instances
 msgid "Number of tracked entity instances"
-msgstr ""
+msgstr "Jumlah tracked entity instances"
 
 #: number_of_visits
 msgid "Number of visits"
@@ -999,9 +1009,12 @@ msgid ""
 "Define formulas, expressions, rules for aggregation data from name-based to "
 "aggregation system"
 msgstr ""
+"Menetapkan rumus, ekspresi, aturan untuk data agregasi dari sistem agregasi "
+"berdasarkan nama"
 
-#~ msgid "Show incident date"
-#~ msgstr "Show incident date"
+#: show_incident_date
+msgid "Show incidence date"
+msgstr "Show incident date"
 
 #: display_date_of_incident
 msgid "Display date of incident"
@@ -1009,7 +1022,7 @@ msgstr "Display date of incident"
 
 #: tracked_entity_attribute_group_sort_order
 msgid "Tracked entity attribute group sort order"
-msgstr ""
+msgstr "Tracked entity attribute group sort order"
 
 #: visit_selected_program_stage_x_th_time
 msgid "Visit selected program stage n(th) time"
@@ -1046,11 +1059,11 @@ msgstr "Add all"
 #: available_attributes
 msgctxt "available_attributes"
 msgid "Available attributes"
-msgstr ""
+msgstr "Available attributes"
 
 #: select_attributes
 msgid "Select attributes"
-msgstr ""
+msgstr "Pilih attributes"
 
 #: displayed_in_list
 msgid "Display in list"
@@ -1158,11 +1171,11 @@ msgstr "Auto-generate event"
 
 #: generate_events_based_on_enrollment_date
 msgid "Generate events based on enrollment date"
-msgstr ""
+msgstr "Generate events based on enrollment date"
 
 #: not_incident_date
 msgid "not incident date"
-msgstr ""
+msgstr "Bukan tanggal insidensi"
 
 #: execute_success
 msgid "Executed successfully"
@@ -1225,6 +1238,14 @@ msgstr ""
 msgid "Executing"
 msgstr "Executing"
 
+#: add_single_rule
+msgid "Add single rule"
+msgstr "Add single rule"
+
+#: add_multi_rule
+msgid "Add multi rule"
+msgstr "Add multi rule"
+
 #: no_aggregation
 msgid "No aggregation"
 msgstr "No aggregation"
@@ -1272,7 +1293,7 @@ msgstr "Complete allowed only if validation passes"
 
 #: skip_to_generate_overdue_events
 msgid "Skip generation of events that are overdue (before enrollment date)"
-msgstr ""
+msgstr "Skip generation of events that are overdue (before enrollment date)"
 
 #: display_generate_event_box_after_completed
 msgid "Display generate event box after completed"
@@ -1280,7 +1301,7 @@ msgstr "Display generate event box after completed"
 
 #: pre_generate_event_uid
 msgid "Pre-generate event UID"
-msgstr ""
+msgstr "Pre-generate event UID"
 
 #: calculated
 msgid "Calculated"
@@ -1308,13 +1329,15 @@ msgstr "Please select operator number of visit for this condition"
 
 #: design_prorgam_entry_form
 msgid "Design program entry form"
-msgstr ""
+msgstr "Formulir desain entri program"
 
 #: intro_tracked_entity_form
 msgid ""
 "Create custom tracked entity data capture forms with tracked entity "
 "attributes."
 msgstr ""
+"Create custom tracked entity data capture forms with tracked entity "
+"attributes."
 
 #: properties
 msgid "Properties"
@@ -1347,19 +1370,19 @@ msgstr "Phone number"
 
 #: email
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: prorgam_entry_form_details
 msgid "Program entry form details"
-msgstr ""
+msgstr "Detail formulir entri program"
 
 #: design_prorgam_entry_form_form
 msgid "Design program entry form  form"
-msgstr ""
+msgstr "Design program entry form form"
 
 #: confirm_delete_prorgam_entry_form_form
 msgid "Are you sure you want to delete program entry form?"
-msgstr ""
+msgstr "Anda yakin ingin menghapus formulir program entri?"
 
 #: fixed_attributes
 msgid "Fixed attributes"
@@ -1444,7 +1467,7 @@ msgstr "Last month"
 
 #: pdf_data_entry_form
 msgid "Get PDF for Data Entry"
-msgstr ""
+msgstr "PDF untuk Data Entri"
 
 #: last_3_month
 msgid "Last 3 months"
@@ -1472,7 +1495,7 @@ msgstr "Delete this form"
 
 #: auto_save_tracked_entity_forms
 msgid "Auto save tracked entity forms"
-msgstr ""
+msgstr "Auto save tracked entity forms"
 
 #: enter_a_name
 msgid "Please enter a name between 4 and 150 characters long"
@@ -1492,342 +1515,611 @@ msgstr "The registration form passed validation successfully"
 
 #: ask_user_to_complete_program_when_stage_complete
 msgid "Ask user to complete program when stage is complete"
-msgstr ""
+msgstr "Tanyakan user untuk menyelesaikan program ketika stage sudah lengkap"
 
 #: days_since_enrollment_date
 msgid "Days since enrollment date"
-msgstr ""
+msgstr "Hari sejak tanggal pendaftaran"
 
 #: date_to_compare
 msgid "Date to compare"
-msgstr ""
+msgstr "Tanggal untuk membandingkan"
 
 #: program_indicator_management
 msgid "Program Indicator Management"
-msgstr ""
+msgstr "Manajemen indikator program"
 
 #: view_program_indicators
 msgid "View program indicators"
-msgstr ""
+msgstr "Tampilkan indikator-indikator program"
 
 #: confirm_delete_prorgam_indicator
 msgid "Are you sure you want to delete this program indicator?"
-msgstr ""
+msgstr "Apakah anda yakin ingin menghapus indikator program ini?"
 
 #: program_indicator_details
 msgid "Program indicator details"
-msgstr ""
+msgstr "Detail indikator program"
 
 #: date_for_calculating
 msgid "Date for calculating"
-msgstr ""
+msgstr "Tanggal yang dibutuhkan untuk menghitung"
 
 #: create_new_program_indicator
 msgid "Create new program indicator"
-msgstr ""
+msgstr "Buat indikator program baru"
 
 #: update_program_indicator
 msgid "Edit program indicator"
-msgstr ""
+msgstr "Edit indikator program"
 
 #: disable_registration_fields
 msgid "Disable registration fields"
-msgstr ""
+msgstr "Disable registration fields"
 
 #: data_entry
 msgid "Data entry"
-msgstr ""
+msgstr "Data entri"
 
 #: combine
 msgid "Combine"
-msgstr ""
+msgstr "Gabung"
 
 #: completed
 msgid "Completed"
-msgstr ""
+msgstr "Selesai"
 
 #: events
 msgid "Events"
-msgstr ""
+msgstr "Events"
 
 #: allow_enrollment_at_all_orgunits
 msgid "Allow enrollment at all org units"
-msgstr ""
+msgstr "Allow enrollment at all org units"
 
 #: other_program_stages
 msgid "Other program stages"
-msgstr ""
+msgstr "Other program stages"
 
 #: minus
 msgid "Minus"
-msgstr ""
+msgstr "Kurang"
 
 #: and_operator
 msgid "AND"
-msgstr ""
+msgstr "DAN"
 
 #: or_operator
 msgid "OR"
-msgstr ""
+msgstr "ATAU"
 
 #: combine_operator
 msgid "COMBINE"
-msgstr ""
+msgstr "KOMBINASIKAN"
 
 #: filter_by_type
 msgid "Filter by type"
-msgstr ""
+msgstr "Filter berdasarkan tipe"
 
 #: orgunit_group
 msgid "Organisation unit group"
-msgstr ""
+msgstr "Grup unit organisasi"
 
 #: enrollement_date
 msgid "Enrollment date"
-msgstr ""
+msgstr "Enrollment date"
 
 #: days_since_incident_date
 msgid "Days since incident date"
-msgstr ""
+msgstr "Hari sejak tanggal insidensi"
 
 #: view_all
 msgid "View all"
-msgstr ""
+msgstr "Tampilkan semua"
 
 #: tracked_entity_attribute_visit_schedule
 msgctxt "tracked_entity_attribute_visit_schedule"
 msgid "Attribute Visit Schedule"
-msgstr ""
+msgstr "Attribute Visit Schedule"
 
 #: tracked_entity_attribute_visit_schedule_form
 msgid "Tracked entity attribute visit schedule"
-msgstr ""
+msgstr "Tracked entity attribute visit schedule"
 
 #: intro_tracked_entity_attribute_visit_schedule
 msgid ""
 "Configure which tracked entity attributes are added to the visit schedule. "
 "Gives better overview when used for tracking."
 msgstr ""
+"Configure which tracked entity attributes are added to the visit schedule. "
+"Gives better overview when used for tracking."
 
 #: selected_program_stages
 msgid "Selected program stages"
-msgstr ""
+msgstr "Pilih tahapan program"
 
 #: orgunit_registered
 msgid "Organisation unit phone number"
-msgstr ""
+msgstr "Nomor telepon unit orgahisasi"
 
 #: all_users_in_orgunit_registered
 msgid "All users in organisation unit registered"
 msgstr ""
+"All users in organisation unit registered                                    "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                                                                             "
+"                            "
 
 #: date_in_future
 msgid "Date in future"
-msgstr ""
+msgstr "Tanggal di masa depan"
 
 #: age_years
 msgctxt "age_years"
 msgid "Age(years)"
-msgstr ""
+msgstr "Age"
 
 #: complete_event
 msgid "Complete event"
-msgstr ""
+msgstr "Complete event"
 
 #: send_to
 msgid "Send to"
-msgstr ""
+msgstr "Kirim ke"
 
 #: complete_program
 msgid "Complete program"
-msgstr ""
+msgstr "Program lengkap"
 
 #: complete_program_stage
 msgid "Complete program stage"
-msgstr ""
+msgstr "Program stage lengkap"
 
 #: user_group
 msgid "User group"
-msgstr ""
+msgstr "Grup user"
 
 #: from_the_day_set
 msgid "From the day set"
-msgstr ""
+msgstr "Dari setting hari"
 
 #: orgunit_count
 msgid "Organisation unit count"
-msgstr ""
+msgstr "Hitung unit organisasi"
 
 #: default_registration_form
 msgid "Default registration form"
-msgstr ""
+msgstr "Default registration form"
 
 #: available_dynamic_attributes
 msgid "Available dynamic attributes"
-msgstr ""
+msgstr "Attributes dinamis yang tersedia"
 
 #: selected_dynamic_attributes
 msgid "Selected dynamic attributes"
-msgstr ""
+msgstr "Attributes dinamis yang terpilih"
 
 #: registrationDate
 msgctxt "registrationDate"
 msgid "Registration date"
-msgstr ""
+msgstr "Registration date"
 
 #: create_default_registration_form
 msgid "Create default registration form"
-msgstr ""
+msgstr "Buat default registration form"
+
+#: use_birth_date_as_incident_date
+msgid "Set incidence date to date of birth"
+msgstr "Menetapkan tanggal insidensi sampai ke tanggal lahir"
 
 #: use_birth_date_as_enrollment_date
 msgid "Set enrollment date to date of birth"
-msgstr ""
+msgstr "Menetapkan tanggal pendaftaran sampai tanggal lahir"
 
 #: default_form_name
 msgid "Default form name"
-msgstr ""
+msgstr "Default form name"
 
 #: custom_form_name
 msgid "Custom form name"
-msgstr ""
+msgstr "Custom form name"
 
 #: allow_select_enrollment_dates_in_future
 msgid "Allow selecting enrollment dates in future"
-msgstr ""
+msgstr "Memperbolehkan tanggal pendaftaran yang dipilih di masa depan"
 
 #: allow_select_enrollment_date_in_future
 msgid "Allow future enrollment dates"
-msgstr ""
+msgstr "Memperbolehkan tanggal pendaftaran di masa depan"
 
 #: allow_select_incident_date_in_future
-msgid "Allow future incident dates"
-msgstr ""
+msgid "Allow future incidence dates"
+msgstr "Memperbolehkan tanggal insidensi di masa depan"
 
 #: relationship_text
 msgid "Relationship text"
-msgstr ""
+msgstr "Relationship text"
 
 #: relationship_details
 msgid "Relationship details"
-msgstr ""
+msgstr "Relationship details"
 
 #: program_related
 msgid "Program related"
-msgstr ""
+msgstr "Program yang berhubungan"
 
 #: no_program
 msgid "No program"
-msgstr ""
+msgstr "Tidak ada program"
 
 #: display_as_radio_button
 msgid "Display as radio button"
-msgstr ""
+msgstr "Tampilkan sebagai tombol radio"
 
 #: days_scheduled
 msgid "Days scheduled"
-msgstr ""
+msgstr "Hari-hari yang sudah dijadwalkan"
 
 #: tracked_entity_sms_only
 msgid "Tracked entity instance (SMS only)"
-msgstr ""
+msgstr "Tracked entity instance (hanya boleh SMS)"
 
 #: orgunit_phone_number_sms_only
 msgid "Organisation unit phone number (SMS only)"
-msgstr ""
+msgstr "nomor telepon unit organisasi (hanya boleh SMS)"
 
 #: health_worker_assigned_to_tracked_entity
 msgid "Health worker assigned to tracked entity instance"
-msgstr ""
+msgstr "Health worker assigned to tracked entity instance"
 
 #: all_users_at_orgunit
 msgid "All users at organisation unit"
-msgstr ""
+msgstr "Semua user pada unit organisasi"
 
 #: send_base_on
 msgid "Send base on"
-msgstr ""
+msgstr "Dikirim berdasarkan"
 
 #: characters_without_params
 msgid "Characters without params"
-msgstr ""
+msgstr "Characters without params"
 
 #: scheduled_date
 msgid "scheduled date"
-msgstr ""
+msgstr "Tanggal yang dijadwalkan"
 
 #: send_message
 msgid "Send message"
-msgstr ""
+msgstr "Kirim pesan"
 
 #: message_is_sent
 msgid "Message is sent"
-msgstr ""
+msgstr "Pesan dikirim"
 
 #: recipients
 msgid "Recipients"
-msgstr ""
+msgstr "Penerima"
 
 #: message_type
 msgid "Message type"
-msgstr ""
+msgstr "Tipe pesan"
 
 #: both
 msgid "Both"
-msgstr ""
+msgstr "Keduanya"
 
 #: direct_sms
 msgid "Direct SMS"
-msgstr ""
+msgstr "SMS langsung"
 
 #: ask_user_to_create_new_event_when_stage_complete
 msgid "Ask user to create new event when stage is complete"
-msgstr ""
+msgstr "Meminta user untuk membuat event baru ketika stage lengkap"
 
 #: data_entry_method
 msgid "Data entry method"
-msgstr ""
+msgstr "Metode data entri"
 
 #: local_identifier
 msgid "Local identifier"
-msgstr ""
+msgstr "Local identifier"
 
 #: scope
 msgid "Scope"
-msgstr ""
+msgstr "Cakupan"
 
 #: drop_down_lists
 msgid "Drop-down lists"
-msgstr ""
+msgstr "Drop-down lists"
 
 #: radio_buttons
 msgid "Radio buttons"
-msgstr ""
+msgstr "Tombol-tombol radio"
 
 #: open_data_entry_form_after_enrolment
 msgid "Open data entry form after enrollment"
-msgstr ""
+msgstr "Buka formulir data entri setelah pendaftaran"
 
 #: report_date_to_use
 msgid "Report date to use"
-msgstr ""
+msgstr "Report date to use"
 
 #: the_properties_to_open_data_entry_form_after_enrolment_is_active_in_the_stage
 msgid ""
 "The properties to open data entry form after enrollment is active in the "
 "stage"
 msgstr ""
+"The properties to open data entry form after enrollment is active in the "
+"stage"
 
 #: add_relative
 msgid "Add relative"
-msgstr ""
+msgstr "Add relative"
 
 #: who_is_the_new_relative_to_the_existing_tracked_entity_instance
 msgid "Who is the new relative to the existing tracked entity instance?"
-msgstr ""
+msgstr "Who is the new relative to the existing tracked entity instance?"
 
 #: program_for_new_relative_to_be_enrolled_in
 msgid "Program for new relative to be enrolled in"
-msgstr ""
+msgstr "Program for new relative to be enrolled in"
 
 #: health_worker
 msgid "Health worker"
@@ -1835,135 +2127,135 @@ msgstr "Health worker"
 
 #: is_hidden
 msgid "Is hidden ?"
-msgstr ""
+msgstr "Apakah disembunyikan?"
 
 #: default_value
 msgid "Default value"
-msgstr ""
+msgstr "Default value"
 
 #: dashboard_shortcut_to_add_relative
 msgid "Shortcut link to add a relative"
-msgstr ""
+msgstr "Shortcut link to add a relative"
 
 #: shortcut_link_label_eg_add_child
 msgid "Shortcut link label (e.g. Add child)"
-msgstr ""
+msgstr "Shortcut link label (e.g. Add child)"
 
 #: relationship
 msgid "Relationship"
-msgstr ""
+msgstr "Relationship"
 
 #: select_at_least_one_scope
 msgid "Select at least one scope for local id"
-msgstr ""
+msgstr "Pilih paling tidak 1 cakupan untuk local id"
 
 #: scheduling_of_events
 msgid "Scheduling of events"
-msgstr ""
+msgstr "Penjadwalan events"
 
 #: tracker_associate
 msgid "Tracker associate"
-msgstr ""
+msgstr "Tracker associate"
 
 #: view_validation_criteria
 msgid "View validation criteria"
-msgstr ""
+msgstr "Tampilkan kriteria validasi"
 
 #: define_registration_form
 msgid "Define registration form"
-msgstr ""
+msgstr "Define registration form"
 
 #: reminder_message_template_details
 msgid "Reminder message template details"
-msgstr ""
+msgstr "Pengingat detail mengenai template pesan"
 
 #: edit_reminder_message_template
 msgid "Edit reminder message template"
-msgstr ""
+msgstr "Edit template pesan pengingat"
 
 #: create_new_reminder_message_template
 msgid "Create new reminder message template"
-msgstr ""
+msgstr "Buat template baru mengenai pesan pengingat"
 
 #: confirm_delete_reminder_message_template
 msgid "Are you sure you want to delete reminder message template?"
-msgstr ""
+msgstr "Apakah anda yakin ingin menghapus template pesan pengingat?"
 
 #: days_before
 msgid "day(s) before"
-msgstr ""
+msgstr "hari sebelumnya"
 
 #: days_after
 msgid "day(s) after"
-msgstr ""
+msgstr "hari setelahnya"
 
 #: data_entry_method_for_option_sets
 msgid "Data entry method for option sets"
-msgstr ""
+msgstr "Metode data entri untuk Option"
 
 #: users
 msgid "Users"
-msgstr ""
+msgstr "User"
 
 #: attribute_users
 msgid "Attribute users"
-msgstr ""
+msgstr "Attribute users"
 
 #: view_reminder_message_templates
-msgid "View reminder message templates"
-msgstr ""
+msgid "View reminder message templatess"
+msgstr "Tampilkan template pesan pengingat"
 
 #: display_in_list_no_program
 msgid "Display in list without program"
-msgstr ""
+msgstr "Tampilan dalam daftar tanpa program"
 
 #: manage_attributes_with_no_program
 msgid "Manage attributes with no program"
-msgstr ""
+msgstr "Atur attributes tanpa program"
 
 #: manage_attributes_for_visit_schedule
 msgid "Manage attributes for visit schedule"
-msgstr ""
+msgstr "Atur attributes untuk melihat jadwal"
 
 #: tracked_entity_attributes_displayed_in_list
 msgid "Tracked entity attributes displayed in list"
-msgstr ""
+msgstr "Tracked entity attributes displayed in list"
 
 #: unique
 msgid "Unique"
-msgstr ""
+msgstr "Unik"
 
 #: tracked_entity
 msgid "Tracked Entity"
-msgstr ""
+msgstr "Tracked Entity"
 
 #: tracked_entity_management
 msgid "Tracked entity management"
-msgstr ""
+msgstr "Tracked entity management"
 
 #: create_new_tracked_entity
 msgid "Create new tracked entity"
-msgstr ""
+msgstr "Buat tracked entity baru"
 
 #: tracked_entity_details
 msgid "Tracked entity details"
-msgstr ""
+msgstr "Detail Tracked entity"
 
 #: edit_tracked_entity
 msgid "Edit tracked entity"
-msgstr ""
+msgstr "Edit tracked entity"
 
 #: confirm_delete_tracked_entity
 msgid "Are you sure you want to delete this tracked entity?"
-msgstr ""
+msgstr "Apakah anda yakin ingin menghapus tracked entity ini?"
 
 #: option_set
 msgid "Option set"
-msgstr ""
+msgstr "Option set"
 
 #: number_of_tracked_entities
 msgid "Number of tracked entities"
-msgstr ""
+msgstr "Jumlah tracked entities"
 
 #: incident_date
 msgid "Incident Date"
@@ -1976,14 +2268,15 @@ msgstr "Enrollment date"
 #: please_select_at_least_attribute_for_displaying_in_list
 msgid "Please select at least one attribute to display in list"
 msgstr ""
+"Silakan pilih paling tidak satu attribute untuk ditampilkan dalam daftar"
 
 #: in
 msgid "in"
-msgstr ""
+msgstr "dalam"
 
 #: whole_system
 msgid "Whole system"
-msgstr ""
+msgstr "Sistem keseluruhan"
 
 #: orgunit
 msgctxt "orgunit"
@@ -1992,19 +2285,19 @@ msgstr "Organisation unit"
 
 #: program_within_orgunit
 msgid "Program within organisation unit"
-msgstr ""
+msgstr "Program dalam unit organisasi"
 
 #: auto_save_registration_forms
 msgid "Auto save registration form "
-msgstr ""
+msgstr "Auto save registration form"
 
 #: show_advanced_options
 msgid "Show advanced options"
-msgstr ""
+msgstr "Tampilkan advanced options"
 
 #: hide_advanced_options
 msgid "Hide advanced options"
-msgstr ""
+msgstr "Sembunyikan advanced options"
 
 #: program_validation_rule_management
 msgid "Program validation rule management"
@@ -2012,39 +2305,39 @@ msgstr "Program validation rule management"
 
 #: confidential
 msgid "Confidential"
-msgstr ""
+msgstr "Rahasia"
 
 #: available_indicators
 msgid "Available indicators"
-msgstr ""
+msgstr "Indikator yang tersedia"
 
 #: selected_indicators
 msgid "Selected indicators"
-msgstr ""
+msgstr "Indikator-indikator terpilih"
 
 #: program_indicator_management_form
 msgid "Program indicator management form"
-msgstr ""
+msgstr "Formulir manajemen indikator program"
 
 #: auto_save_prorgam_entry_form_forms
 msgid "Auto-save program entry forms"
-msgstr ""
+msgstr "Auto save program entry forms"
 
 #: filter_by_program
 msgid "Filter by program "
-msgstr ""
+msgstr "Filter berdasarkan program"
 
 #: enter_an_attribute
 msgid "Enter an attribute"
-msgstr ""
+msgstr "Masukkan sebuah attribute"
 
 #: enter_a_key
 msgid "Enter a key"
-msgstr ""
+msgstr "Masukkan kunci"
 
 #: date_diff
 msgid "Date diff"
-msgstr ""
+msgstr "Date diff"
 
 #: program_stage_sort_order
 msgid "Program stage sort order"
@@ -2054,235 +2347,205 @@ msgstr "Program Stage Sort Order"
 msgid "Sort order"
 msgstr "Sort order"
 
+#: expression_is_not_well_formed
+msgid "Expression is not well-formed"
+msgstr "Ekspresi tidak terbentuk dengan baik"
+
 #: program_variables
 msgid "Program variables"
-msgstr ""
+msgstr "Variabel-variabel program"
 
 #: custom_standard_interval
 msgid "Custom standard interval"
-msgstr ""
+msgstr "Custom standard interval"
 
 #: period_type
 msgid "Period type"
-msgstr ""
+msgstr "Tipe periode"
 
 #: source_fields
 msgid "Source fields"
-msgstr ""
+msgstr "Source fields"
 
 #: expression_evaluate_the_source_fields
 msgid "Expression - evaluate the source fields"
-msgstr ""
+msgstr "Ekspresi- mengevaluasi source fields"
 
 #: actions_that_is_executed_when_expression_is_true
 msgid "Actions that is executed when expression is true"
-msgstr ""
+msgstr "Actions that is executed when expression is true"
 
 #: display_text
 msgid "Display text"
-msgstr ""
+msgstr "Tampilan text"
 
 #: shows_a_key_data_box
 msgid "Shows a key data box"
-msgstr ""
+msgstr "Tampilkan key data box"
 
 #: hide_field
 msgid "Hide field"
-msgstr ""
+msgstr "Hide field"
 
 #: assign_variable
 msgid "Assign variable"
-msgstr ""
+msgstr "Variabel yang ditentukan"
 
 #: show_warning
 msgid "Show warning"
-msgstr ""
+msgstr "Tampilkan peringatan"
 
 #: show_error
 msgid "Show error"
-msgstr ""
+msgstr "Tampilkan error"
 
 #: view_program_rule
 msgid "View program rules"
-msgstr ""
+msgstr "Tampilkan aturan program"
 
 #: program_rule_management
 msgid "Program rule management"
-msgstr ""
+msgstr "Manajemen aturan program"
 
 #: create_new_program_rule
 msgid "Create new program rule"
-msgstr ""
+msgstr "Buat aturan program yang baru"
 
 #: program_rule_details
 msgid "Program rule details"
-msgstr ""
+msgstr "Detail aturan program"
 
 #: source_program_stage
 msgid "Source program stage"
-msgstr ""
+msgstr "Sumber program stage"
 
 #: source_dataElement
 msgid "Source DataElement"
-msgstr ""
+msgstr "Sumber eleman data"
 
 #: variable_name
 msgid "Variable name"
-msgstr ""
+msgstr "Nama variabel"
 
 #: data_element_newest_event_program_stage
 msgid "Data element newest event program stage"
-msgstr ""
+msgstr "Data element newest event program stage"
 
 #: data_element_newest_event_program
 msgid "Data element newest event program"
-msgstr ""
+msgstr "Data element newest event program"
 
 #: add_source_field
 msgid "Add source field"
-msgstr ""
+msgstr "Tambah source field"
 
 #: add_more_action
 msgid "Add more action"
-msgstr ""
+msgstr "Add more action"
 
 #: source_type
 msgid "Source type"
-msgstr ""
+msgstr "Tipe sumber"
 
 #: confirm_delete_program_rule
 msgid "Are you sure you want to delete program rule?"
-msgstr ""
+msgstr "Apakah anda yakin ingin menghapus aturan program ini?"
 
 #: edit_program_rule
 msgid "Edit program rule"
-msgstr ""
+msgstr "Edit aturan program "
 
 #: please_enter_error_message
 msgid "Please enter error message"
-msgstr ""
+msgstr "Silakan masukkan pesan yang error"
 
 #: please_enter_warning_message
 msgid "Please enter warning message"
-msgstr ""
+msgstr "Silakan masukkan pesan peringatan"
 
 #: please_enter_alert_message_when_hiding_a_field_that_contains_value
 msgid "Please enter alert message when hiding a field that contains value"
 msgstr ""
+"Sialkan masukkan pesan ketika menyembunyikan field yang mengandung nilai"
 
 #: please_enter_alert_message_when_hiding_a_section_that_contains_values
 msgid "Please enter alert message when hiding a section that contains values"
 msgstr ""
+"Silakan masukkan pesan peringatan ketika menyembunyikan sebuah section yang "
+"mengandung nilai-nilai"
 
 #: hide_section
 msgid "Hide section"
-msgstr ""
+msgstr "Sembunyikan section"
 
 #: reminder_message_template_management
 msgid "Reminder message template management"
-msgstr ""
+msgstr "Manajemen template pesan pengingat"
 
 #: expression_description
 msgid "Expression description"
-msgstr ""
+msgstr "Deskripsi ekspresi"
 
 #: expression_items
 msgid "Expression items"
-msgstr ""
+msgstr "Item-item ekspresi"
 
 #: filter_items
 msgid "Filter items"
-msgstr ""
+msgstr "Filter items"
 
 #: filter_description
 msgid "Filter description"
-msgstr ""
+msgstr "Deskripsi filter"
 
 #: select_program_stage
 msgid "Select program stage"
-msgstr ""
+msgstr "Pilih program stage "
 
 #: tei_attribute
 msgid "Tracked entity attribute"
-msgstr ""
+msgstr "Tracked entity attribute"
 
 #: design_custom_registration_form
 msgid "Design custom registration form"
-msgstr ""
+msgstr "Design custom registration form"
 
 #: program_registration_form
 msgid "Program registration form"
-msgstr ""
+msgstr "Formulir registrasi program"
 
 #: aggregation_type
 msgid "Aggregation type"
-msgstr ""
+msgstr "Tipe aggregasi"
 
 #: display_in_form
 msgid "Display in form"
-msgstr ""
+msgstr "Tampilkan dalam formulir"
 
 #: event
 msgid "Event"
-msgstr ""
+msgstr "Event"
 
 #: enrollment
 msgctxt "enrollment"
 msgid "Enrollment"
-msgstr ""
+msgstr "Enrollment details"
 
 #: tracked_entity_instance
 msgid "Tracked entity instance"
-msgstr ""
+msgstr "Tracked entity instance"
 
 #: event_output_type
 msgid "Event output type"
-msgstr ""
+msgstr "Tipe output event"
 
 #: category_combo
 msgid "Combination of categories"
-msgstr ""
+msgstr "Kombinasi kategori-kategori"
 
 #: missing_value_replacement
 msgid "Missing value replacement"
-msgstr ""
+msgstr "Missing value replacement"
 
-#: skip_offline
-msgid "Skip offline"
-msgstr ""
-
-#: data_approval_workflow
-msgid "Data approval workflow"
-msgstr ""
-
-#: display_front_page_list
-msgid "Display front page list"
-msgstr ""
-
-#: show_incident_date
-msgid "Show incidence date"
-msgstr "Show incident date"
-
-#: add_single_rule
-msgid "Add single rule"
-msgstr "Add single rule"
-
-#: add_multi_rule
-msgid "Add multi rule"
-msgstr "Add multi rule"
-
-#: use_birth_date_as_incident_date
-msgid "Set incidence date to date of birth"
-msgstr ""
-
-#: allow_select_incident_date_in_future
-msgid "Allow future incidence dates"
-msgstr ""
-
-#: view_reminder_message_templates
-msgid "View reminder message templatess"
-msgstr ""
-
-#: expression_is_not_well_formed
-msgid "Expression is not well-formed"
-msgstr ""
+#~ msgid "Show incident date"
+#~ msgstr "Show incident date"

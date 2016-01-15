@@ -1,10 +1,10 @@
 #. #-- Application name -----------------------------------------------------------#
-#. extracted from /home/jason/development/dhis2/dhis-2//dhis-services/dhis-service-core/src/main/resources/i18n_global.properties, /home/jason/development/dhis2/dhis-2//dhis-services/dhis-service-core/src/main/resources/i18n_global_vi.properties
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-services/dhis-service-core/src/main/resources/i18n_global.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-04 06:50+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: 2015-12-04 06:02+0000\n"
 "Last-Translator: Administrator <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.5.0\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
 "X-POOTLE-MTIME: 1449208952.0\n"
 
 #: district_health_information_software
@@ -156,10 +156,10 @@ msgstr "Quản trị người dùng"
 msgid "Data Administration"
 msgstr "Quản trị dữ liệu"
 
-#~ msgctxt "dhis-web-maintenance-settings"
-#~ "dhis-web-maintenance-settings"
-#~ msgid "Settings"
-#~ msgstr "Các thiết lập"
+#: dhis-web-maintenance-settings
+msgctxt "dhis-web-maintenance-settings"
+msgid "Settings"
+msgstr "Các thiết lập"
 
 #: dhis-web-maintenance-program
 msgid "Programs / Attributes"
@@ -311,7 +311,7 @@ msgstr ""
 "Quản lý các bảng tài nguyên, kiểm tra tính ràng buộc dữ liệu, xem số liệu "
 "thống kê và còn nhiều thứ khác"
 
-#: intro_dhis-web-settings
+#: intro_dhis-web-maintenance-settings
 msgid ""
 "Maintain user and system settings related to appearance, notifications and "
 "more."
@@ -2177,10 +2177,6 @@ msgstr ""
 msgid "Positive or Zero Integer"
 msgstr ""
 
-#: coordinate
-msgid "Coordinate"
-msgstr ""
-
 #: negative_integer
 msgid "Negative Integer"
 msgstr ""
@@ -2224,10 +2220,6 @@ msgstr "Chỉ đúng"
 msgid "Custom"
 msgstr ""
 
-#: file
-msgid "File"
-msgstr ""
-
 #. #-- Validation messages -------------------------------------------------------#
 #: value_must_integer
 msgid "Value must be an integer"
@@ -2257,10 +2249,6 @@ msgstr ""
 msgid "Value must be a percentage (between 0 and 100)"
 msgstr ""
 
-#: value_must_coordinate
-msgid "Value must be a coordinate (longitude, latitude)"
-msgstr ""
-
 #. #-- User account --------------------------------------------------------------#
 #: profile
 msgid "Profile"
@@ -2280,9 +2268,8 @@ msgstr ""
 
 #: user_name
 msgctxt "user_name"
-"user_name"
 msgid "Username"
-msgstr "Tên truy cập "
+msgstr ""
 
 #: old_password
 msgid "Old password"
@@ -2629,10 +2616,6 @@ msgstr ""
 msgid "Filter is not evaluating to true or false"
 msgstr ""
 
-#: expression_not_valid
-msgid "Expression is not valid"
-msgstr ""
-
 #: locate_by_code
 msgid "Locate by code"
 msgstr "Định vị bằng mã"
@@ -2794,8 +2777,9 @@ msgstr "Hoạt động "
 msgid "Type"
 msgstr "Loại "
 
-#~ msgid "Value type"
-#~ msgstr "Loại giá trị "
+#: value_type
+msgid "Value Type"
+msgstr "Loại giá trị "
 
 #: actual
 msgid "Actual"
@@ -3283,10 +3267,6 @@ msgstr ""
 msgid "Engender Health"
 msgstr ""
 
-#: eritrea
-msgid "Eritrea"
-msgstr ""
-
 #: ethiopia
 msgid "Ethiopia"
 msgstr "Ethiopia"
@@ -3358,10 +3338,6 @@ msgstr "JHPIEGO"
 #: kenya
 msgid "Kenya"
 msgstr "Kenya"
-
-#: kurdistan
-msgid "Kurdistan"
-msgstr ""
 
 #: laos
 msgid "Lao People's Democratic Republic"
@@ -3951,15 +3927,9 @@ msgstr ""
 msgid "Tracked entity instance count"
 msgstr ""
 
+#~ msgid "Value type"
+#~ msgstr "Loại giá trị "
+
 #~ msgctxt "dhis-web-settings"
 #~ msgid "Settings"
 #~ msgstr "Các thiết lập"
-
-#: dhis-web-maintenance-settings
-msgctxt "dhis-web-maintenance-settings"
-msgid "Settings"
-msgstr "Các thiết lập"
-
-#: value_type
-msgid "Value Type"
-msgstr "Loại giá trị "

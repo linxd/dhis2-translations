@@ -1,14 +1,14 @@
 #. #-- Application name -----------------------------------------------------------#
-#. extracted from /home/jason/development/dhis2/dhis-2//dhis-services/dhis-service-core/src/main/resources/i18n_global.properties, /home/jason/development/dhis2/dhis-2//dhis-services/dhis-service-core/src/main/resources/i18n_global_fr.properties
-#, fuzzy
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-services/dhis-service-core/src/main/resources/i18n_global.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-04 06:50+0200\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -316,7 +316,7 @@ msgstr ""
 "Gérer les tables de ressources, vérifier l'intégrité des données, voir les "
 "statistiques et plus."
 
-#: intro_dhis-web-settings
+#: intro_dhis-web-maintenance-settings
 msgid ""
 "Maintain user and system settings related to appearance, notifications and "
 "more."
@@ -2194,10 +2194,6 @@ msgstr "Entier positif"
 msgid "Positive or Zero Integer"
 msgstr "Nombre positif ou zéro"
 
-#: coordinate
-msgid "Coordinate"
-msgstr "Coordinate"
-
 #: negative_integer
 msgid "Negative Integer"
 msgstr "Nombre négatif"
@@ -2241,10 +2237,6 @@ msgstr "Oui seulement"
 msgid "Custom"
 msgstr "Personnalisé"
 
-#: file
-msgid "File"
-msgstr "File"
-
 #. #-- Validation messages -------------------------------------------------------#
 #: value_must_integer
 msgid "Value must be an integer"
@@ -2273,10 +2265,6 @@ msgstr "La valeur doit être une intervalle d'unité (entre 0 et 1)"
 #: value_must_percentage
 msgid "Value must be a percentage (between 0 and 100)"
 msgstr "La valeur doit être un pourcentage (entre 0 et 100)"
-
-#: value_must_coordinate
-msgid "Value must be a coordinate (longitude, latitude)"
-msgstr "Value must be a coordinate (longitude, latitude)"
 
 #. #-- User account --------------------------------------------------------------#
 #: profile
@@ -2652,10 +2640,6 @@ msgstr "Identifiants non valides dans l'expression"
 msgid "Filter is not evaluating to true or false"
 msgstr "Le filtre n'évalue pas True ou False"
 
-#: expression_not_valid
-msgid "Expression is not valid"
-msgstr "Expression is not valid"
-
 #: locate_by_code
 msgid "Locate by code"
 msgstr "Localiser par code"
@@ -2818,8 +2802,8 @@ msgid "Type"
 msgstr "Type"
 
 #: value_type
-msgid "Value type"
-msgstr "Type de valeur"
+msgid "Value Type"
+msgstr ""
 
 #: actual
 msgid "Actual"
@@ -3310,10 +3294,6 @@ msgstr "Égypte"
 msgid "Engender Health"
 msgstr "EngenderHealth"
 
-#: eritrea
-msgid "Eritrea"
-msgstr "Eritrea"
-
 #: ethiopia
 msgid "Ethiopia"
 msgstr "Ethiopie"
@@ -3385,10 +3365,6 @@ msgstr "JHPIEGO"
 #: kenya
 msgid "Kenya"
 msgstr "Kénya"
-
-#: kurdistan
-msgid "Kurdistan"
-msgstr "Kurdistan"
 
 #: laos
 msgid "Lao People's Democratic Republic"
@@ -3793,10 +3769,8 @@ msgstr "Quelqu'un (probablement vous) nous a demande de réactiver votre"
 
 #: email_restore_1_1st_paragraph_after_application_title
 msgctxt "email_restore_1_1st_paragraph_after_application_title"
-"email_restore_1_1st_paragraph_after_application_title"
-"email_restore_1_1st_paragraph_after_application_title"
 msgid "user account."
-msgstr "compte utilisateur"
+msgstr ""
 
 #: email_restore_1_2nd_paragraph
 msgctxt "email_restore_1_2nd_paragraph"
@@ -3983,7 +3957,23 @@ msgstr "Nombre d'enregistrements"
 msgid "Tracked entity instance count"
 msgstr "Nombre d'entités suivies"
 
-#: dhis-web-settings
-msgctxt "dhis-web-settings"
-msgid "Settings"
-msgstr ""
+#~ msgid "Coordinate"
+#~ msgstr "Coordinate"
+
+#~ msgid "File"
+#~ msgstr "File"
+
+#~ msgid "Value must be a coordinate (longitude, latitude)"
+#~ msgstr "Value must be a coordinate (longitude, latitude)"
+
+#~ msgid "Expression is not valid"
+#~ msgstr "Expression is not valid"
+
+#~ msgid "Value type"
+#~ msgstr "Type de valeur"
+
+#~ msgid "Eritrea"
+#~ msgstr "Eritrea"
+
+#~ msgid "Kurdistan"
+#~ msgstr "Kurdistan"

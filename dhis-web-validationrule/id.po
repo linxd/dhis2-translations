@@ -1,17 +1,19 @@
-#. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-validationrule/src/main/resources/org/hisp/dhis/validationrule/i18n_module.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-validationrule/src/main/resources/org/hisp/dhis/validationrule/i18n_module_id.properties
-#, fuzzy
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-validationrule/src/main/resources/org/hisp/dhis/validationrule/i18n_module.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-04 06:51+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
+"PO-Revision-Date: 2015-12-27 09:14+0000\n"
+"Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1451207692.0\n"
 
 #: group_members
 msgid "Group Members"
@@ -19,7 +21,7 @@ msgstr "Anggota Grup"
 
 #: available_data_elements
 msgid "Available data elements"
-msgstr ""
+msgstr "Elemen data tersedia"
 
 #: saving_validation_rule_failed
 msgid "Saving Validation Rule failed"
@@ -51,7 +53,7 @@ msgstr "kurung kiri"
 
 #: right_brackets
 msgid "Right brackets"
-msgstr "kurung kanan"
+msgstr "kurung siku kanan"
 
 #: multiply
 msgid "Multiply"
@@ -215,7 +217,7 @@ msgstr "Validasi"
 #: VALIDATION
 msgctxt "VALIDATION"
 msgid "Validation"
-msgstr ""
+msgstr "Validasi"
 
 #: data_quality_report
 msgid "Data quality report"
@@ -271,31 +273,31 @@ msgstr "Buat grup aturan validasi baru"
 
 #: available
 msgid "Available"
-msgstr ""
+msgstr "Tersedia"
 
 #: selected
 msgid "Selected"
-msgstr ""
+msgstr "Terpilih"
 
 #: validation_rules
 msgid "Validation rules"
-msgstr ""
+msgstr "Validation rules"
 
 #: user_groups_to_alert
 msgid "User groups to alert"
-msgstr ""
+msgstr "User groups to alert"
 
 #: alert_by_org_units
 msgid "Alert only organisation unit related users"
-msgstr ""
+msgstr "Alert only organisation unit related users"
 
 #: yes
 msgid "Yes"
-msgstr ""
+msgstr "Ya"
 
 #: no
 msgid "No"
-msgstr ""
+msgstr "Tidak"
 
 #: available_validation_rules
 msgid "Available validation rules"
@@ -311,7 +313,7 @@ msgstr "Semua aturan validasi"
 
 #: validation_alerts
 msgid "Validation alerts"
-msgstr ""
+msgstr "Validation alerts"
 
 #: validation_passed_successfully
 msgid "Validation passed successfully"
@@ -351,7 +353,7 @@ msgstr "Pilih induk unit organisasi"
 
 #: outlier_analysis
 msgid "Outlier Analysis"
-msgstr ""
+msgstr "Analisis Outlier"
 
 #: no_values_found
 msgid "No values found"
@@ -443,7 +445,7 @@ msgstr "Analisis data"
 
 #: data_analysis_report
 msgid "Data Analysis Report"
-msgstr ""
+msgstr "Laporan data analisis"
 
 #: stddevoutlier_analysis
 msgid "Std Dev Outlier Analysis"
@@ -459,7 +461,7 @@ msgstr "Analisis Gap"
 
 #: followup_analysis
 msgid "Follow-Up Analysis"
-msgstr ""
+msgstr "Analisis follow-up"
 
 #: validation_rule_analysis
 msgid "Validation Rule Analysis"
@@ -479,7 +481,7 @@ msgstr "Hapus expression"
 
 #: period_type
 msgid "Period type"
-msgstr ""
+msgstr "Jenis periode"
 
 #: available_data_sets
 msgid "Available data sets"
@@ -580,120 +582,120 @@ msgstr "Pasangan wajib"
 
 #: visible_in_validation_alerts
 msgid "visible in validation alerts"
-msgstr ""
+msgstr "visible in validation alerts"
 
 #: tip
 msgid "Tip"
-msgstr ""
+msgstr "Tip"
 
 #: use
 msgid "use"
-msgstr ""
+msgstr "Gunakan"
 
 #: importance
 msgid "Importance"
-msgstr ""
+msgstr "Tingkat kepentingan"
 
 #: high
 msgctxt "high"
 msgid "High"
-msgstr ""
+msgstr "Tinggi"
 
 #: medium
 msgctxt "medium"
 msgid "Medium"
-msgstr ""
+msgstr "Sedang"
 
 #: low
 msgctxt "low"
 msgid "Low"
-msgstr ""
+msgstr "Rendah"
 
 #: HIGH
 msgctxt "HIGH"
 msgid "High"
-msgstr ""
+msgstr "Tinggi"
 
 #: MEDIUM
 msgctxt "MEDIUM"
 msgid "Medium"
-msgstr ""
+msgstr "Sedang"
 
 #: LOW
 msgctxt "LOW"
 msgid "Low"
-msgstr ""
+msgstr "Rendah"
 
 #: rule_type
 msgid "Rule type"
-msgstr ""
+msgstr "Rule type"
 
 #: surveillance
 msgctxt "surveillance"
 msgid "Surveillance"
-msgstr ""
+msgstr "Surveilans"
 
 #: SURVEILLANCE
 msgctxt "SURVEILLANCE"
 msgid "Surveillance"
-msgstr ""
+msgstr "Surveilans"
 
 #: attributes
 msgid "Attributes"
-msgstr ""
+msgstr "Attributes"
 
 #: organisation_unit_level
 msgid "Organisation unit level"
-msgstr ""
+msgstr "Level unit organisasi"
 
 #: select_level
 msgid "Select level"
-msgstr ""
+msgstr "Pilih level"
 
 #: sequential_sample_count
 msgid "Sequential sample count"
-msgstr ""
+msgstr "Sequential sample count"
 
 #: annual_sample_count
 msgid "Annual sample count"
-msgstr ""
+msgstr "Annual sample count"
 
 #: high_outliers
 msgid "High outliers"
-msgstr ""
+msgstr "Outliers tinggi"
 
 #: low_outliers
 msgid "Low outliers"
-msgstr ""
+msgstr "Outliers rendah"
 
 #: number_of_user_groups_to_alert
 msgid "Number of user groups to alert"
-msgstr ""
+msgstr "Number of user groups to alert"
 
 #: send_alerts
 msgid "Send alerts"
-msgstr ""
+msgstr "Kirim peringatan"
 
 #: visible_when_rule_is_violated
 msgid "visible when rule is violated"
-msgstr ""
+msgstr "visible when rule is violated"
 
 #: instruction
 msgid "Instruction"
-msgstr ""
+msgstr "Instruksi"
 
 #: skip_if_any_value_is_missing
 msgid "Skip if any value is missing"
-msgstr ""
+msgstr "Skip if any value is missing"
 
 #: skip_if_all_values_are_missing
 msgid "Skip if all values are missing"
-msgstr ""
+msgstr "Skip if all values are missing"
 
 #: never_skip
 msgid "Never skip"
-msgstr ""
+msgstr "Jangan lewati"
 
 #: no_organisation_unit_selected
 msgid "No organisation unit selected"
-msgstr ""
+msgstr "Tidak ada unit organisasi yang dipilih"

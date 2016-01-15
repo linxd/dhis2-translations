@@ -1,10 +1,10 @@
-#. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-apps/src/main/webapp/dhis-web-mapping/i18n/i18n_app.properties, /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-apps/src/main/webapp/dhis-web-mapping/i18n/i18n_app_id.properties
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-apps/src/main/webapp/dhis-web-mapping/i18n/i18n_app.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-04 06:50+0200\n"
-"PO-Revision-Date: 2015-09-26 15:59+0000\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
+"PO-Revision-Date: 2016-01-01 16:19+0000\n"
 "Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1443283181.0\n"
+"X-POOTLE-MTIME: 1451665159.0\n"
 
 #: save
 msgid "Save"
@@ -1356,7 +1356,7 @@ msgstr "Tipe nilai"
 
 #: equal_counts
 msgid "Equal counts"
-msgstr ""
+msgstr "Equal counts"
 
 #: classes_method
 msgid "Classes / method"
@@ -1432,11 +1432,11 @@ msgstr "Legenda layer tematik 2"
 
 #: thematic_layer_3_legend
 msgid "Thematic layer 3 legend"
-msgstr ""
+msgstr "Thematic layer 3 legend"
 
 #: thematic_layer_4_legend
 msgid "Thematic layer 4 legend"
-msgstr ""
+msgstr "Thematic layer 4 legend"
 
 #: facility_layer_legend
 msgid "Facility layer legend"
@@ -1462,191 +1462,191 @@ msgstr "Informasi"
 
 #: parent_unit
 msgid "Parent unit"
-msgstr ""
+msgstr "Unit induk"
 
 #: home
 msgid "Home"
-msgstr ""
+msgstr "Beranda"
 
 #: google_streets
 msgid "Google Streets"
-msgstr ""
+msgstr "Google Streets"
 
 #: google_hybrid
 msgid "Google Hybrid"
-msgstr ""
+msgstr "Google Hybrid"
 
 #: openstreetmap
 msgid "OpenStreetMap"
-msgstr ""
+msgstr "OpenStreetMap"
 
 #: totals
 msgid "Totals"
-msgstr ""
+msgstr "Total"
 
 #: details
 msgid "Details"
-msgstr ""
+msgstr "Detail"
 
 #: last_week
 msgid "Last week"
-msgstr ""
+msgstr "Minggu lalu"
 
 #: last_month
 msgid "Last month"
-msgstr ""
+msgstr "Bulan lalu"
 
 #: last_bimonth
 msgid "Last bi-month"
-msgstr ""
+msgstr "2 bulan yang lalu"
 
 #: last_quarter
 msgid "Last quarter"
-msgstr ""
+msgstr "Triwulan yang lalu"
 
 #: last_sixmonth
 msgid "Last six-month"
-msgstr ""
+msgstr "6 bulan yang lalu"
 
 #: this_year
 msgid "This year"
-msgstr ""
+msgstr "Tahun ini"
 
 #: last_year
 msgid "Last year"
-msgstr ""
+msgstr "Tahun lalu"
 
 #: last_financial_year
 msgid "Last financial year"
-msgstr ""
+msgstr "Last financial year"
 
 #: select_organisation_units
 msgid "Select organisation units"
-msgstr ""
+msgstr "Pilih unit organisasi"
 
 #: select_boundaries_and_levels
 msgid "Select boundaries and levels"
-msgstr ""
+msgstr "Select boundaries and levels"
 
 #: select_organisation_unit_levels
 msgid "Select organisation unit levels"
-msgstr ""
+msgstr "Pilih tingkat unit organisasi"
 
 #: select_boundaries_and_groups
 msgid "Select boundaries and groups"
-msgstr ""
+msgstr "Select boundaries and groups"
 
 #: select_organisation_unit_groups
 msgid "Select organisation unit groups"
-msgstr ""
+msgstr "Pilih grup unit organisasi"
 
 #: user_organisation_unit
 msgid "User org unit"
-msgstr ""
+msgstr "User org unit"
 
 #: user_organisation_units
 msgid "User organisation units"
-msgstr ""
+msgstr "User organisation units"
 
 #: dataset
 msgid "Data set"
-msgstr ""
+msgstr "Data set"
 
 #: select_all_children
 msgid "Select all children"
-msgstr ""
+msgstr "Select all children"
 
 #: select_groupset
 msgid "Select group set"
-msgstr ""
+msgstr "Pilih grup set"
 
 #: allow_external_access
 msgid "Allow external access"
-msgstr ""
+msgstr "Allow external access"
 
 #: daily
 msgid "Daily"
-msgstr ""
+msgstr "Harian"
 
 #: weekly
 msgid "Weekly"
-msgstr ""
+msgstr "Mingguan"
 
 #: monthly
 msgid "Monthly"
-msgstr ""
+msgstr "Bulanan"
 
 #: bimonthly
 msgid "Bi-monthly"
-msgstr ""
+msgstr "Tiap 2 bulan"
 
 #: quarterly
 msgid "Quarterly"
-msgstr ""
+msgstr "Tiap triwulan"
 
 #: sixmonthly
 msgid "Six-monthly"
-msgstr ""
+msgstr "Tiap 6 bulan"
 
 #: sixmonthly_april
 msgid "Six-monthly April"
-msgstr ""
+msgstr "Tiap 6 bulan di bulan April"
 
 #: yearly
 msgid "Yearly"
-msgstr ""
+msgstr "Tahunan"
 
 #: financial_oct
 msgid "Financial October"
-msgstr ""
+msgstr "Financial October"
 
 #: financial_july
 msgid "Financial July"
-msgstr ""
+msgstr "Financial July"
 
 #: financial_april
 msgid "Financial April"
-msgstr ""
+msgstr "Financial April"
 
 #: relative
 msgid "Relative"
-msgstr ""
+msgstr "Relative"
 
 #: reporting_rates
 msgid "Reporting rates"
-msgstr ""
+msgstr "Reporting rates"
 
 #: event_layer
 msgid "Event layer"
-msgstr ""
+msgstr "Event layer"
 
 #: coordinates
 msgid "Coordinates"
-msgstr ""
+msgstr "Koordinat"
 
 #: go_to_pivot_tables
 msgid "Go to pivot tables"
-msgstr ""
+msgstr "Ke Tabel Pivot"
 
 #: open_this_map_as_table
 msgid "Open this map as table"
-msgstr ""
+msgstr "Tampilkan peta ini dalam tabel"
 
 #: open_last_table
 msgid "Open last table"
-msgstr ""
+msgstr "Tampilkan tabel terakhir"
 
 #: go_to_charts
 msgid "Go to charts"
-msgstr ""
+msgstr "Go to charts"
 
 #: open_this_map_as_chart
 msgid "Open this map as chart"
-msgstr ""
+msgstr "Tampilkan map ini sebagai diagram"
 
 #: open_last_chart
 msgid "Open last chart"
-msgstr ""
+msgstr "Tampilkan diagram terakhir"
 
 #: clear
 msgid "Clear"
@@ -1654,23 +1654,23 @@ msgstr "Hapus"
 
 #: select_sub_units
 msgid "Select sub-units"
-msgstr ""
+msgstr "Pilih sub-unit"
 
 #: you_do_not_have_access_to_all_items_in_this_favorite
 msgid "You do not have access to all items in this favorite"
-msgstr ""
+msgstr "Anda tidak memiliki akses untuk semua item di favorite"
 
 #: initializing
 msgid "Initializing"
-msgstr ""
+msgstr "Initializing"
 
 #: created_by
 msgid "Created by"
-msgstr ""
+msgstr "Dibuat oleh"
 
 #: clear_map
 msgid "Clear map"
-msgstr ""
+msgstr "Hapus map"
 
 #: manage_favorites
 msgid "Manage favorites"
@@ -1678,7 +1678,7 @@ msgstr "Pengaturan favorites"
 
 #: yes
 msgid "Yes"
-msgstr ""
+msgstr "Ya"
 
 #: no
 msgid "No"
@@ -1686,72 +1686,56 @@ msgstr "Tidak"
 
 #: this_financial_year
 msgid "This financial year"
-msgstr ""
+msgstr "This financial year"
 
 #: user_sub_units
 msgid "User sub-units"
-msgstr ""
+msgstr "User sub-units"
 
 #: user_sub_x2_units
 msgid "User sub-x2-units"
-msgstr ""
+msgstr "User sub-x2-units"
 
 #: this_week
 msgid "This week"
-msgstr ""
+msgstr "Minggu ini"
 
 #: this_quarter
 msgid "This quarter"
-msgstr ""
+msgstr "Triwulan ini"
 
 #: this_month
 msgid "This month"
-msgstr ""
+msgstr "Bulan ini"
 
 #: this_sixmonth
 msgid "This six-month"
-msgstr ""
+msgstr "6 bulan ini"
 
 #: this_bimonth
 msgid "This bi-month"
-msgstr ""
+msgstr "2 bulan ini"
 
 #: about
 msgid "About"
-msgstr ""
+msgstr "Tentang"
 
 #: time_since_last_data_update
 msgid "Time since last data update"
-msgstr ""
+msgstr "Waktu saat data terakhir diupdate"
 
 #: version
 msgid "Version"
-msgstr ""
+msgstr "Versi"
 
 #: revision
 msgid "Revision"
-msgstr ""
+msgstr "Revisi"
 
 #: build_time
 msgid "Build time"
-msgstr ""
+msgstr "Build time"
 
 #: username
 msgid "Username"
-msgstr ""
-
-#: event_data_items
-msgid "Event data items"
-msgstr ""
-
-#: program_indicators
-msgid "Program indicators"
-msgstr ""
-
-#: event_data_item
-msgid "Event data item"
-msgstr ""
-
-#: program
-msgid "Program"
-msgstr ""
+msgstr "Username"
