@@ -4,22 +4,25 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-12-04 06:24+0000\n"
+"Last-Translator: jmalcantara <jmalcantara@apunto.com.mx>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1449210298.0\n"
 
 #: remove_all
 msgid "Remove All Locks"
 msgstr "Eliminar todos los bloqueos"
 
 #: optional
+#, fuzzy
 msgid "Optional"
-msgstr ""
+msgstr "Opción"
 
 #: data_administration
 msgid "Data Administration"
@@ -142,8 +145,9 @@ msgid "Hit count"
 msgstr ""
 
 #: miss_count
+#, fuzzy
 msgid "Miss count"
-msgstr ""
+msgstr "Conteo de disco"
 
 #: exec_count
 msgid "Exec count"
@@ -579,8 +583,9 @@ msgid "Select the organisation unit to keep"
 msgstr "Seleccione la unidad organizativa a mantener"
 
 #: create_sql_views
+#, fuzzy
 msgid "Create SQL views"
-msgstr ""
+msgstr "Actualizar vista SQL"
 
 #: merge
 msgid "Merge"
@@ -826,8 +831,9 @@ msgid "SQL type"
 msgstr ""
 
 #: sql_view_type
+#, fuzzy
 msgid "SQL view"
-msgstr ""
+msgstr "Vista SQL"
 
 #: materialized_sql_view_type
 msgid "Materialized SQL view"
@@ -1057,16 +1063,19 @@ msgid "Download as PDF"
 msgstr "Descargar en formato PDF"
 
 #: get_report_as_html
+#, fuzzy
 msgid "Download as HTML"
-msgstr ""
+msgstr "Descargar archivo CSV"
 
 #: get_report_as_xml
+#, fuzzy
 msgid "Download as XML"
-msgstr ""
+msgstr "Descargar archivo CSV"
 
 #: get_report_as_json
+#, fuzzy
 msgid "Download as JSON"
-msgstr ""
+msgstr "Descargar archivo CSV"
 
 #: data_element_structure
 msgid "Data element structure"
@@ -1113,8 +1122,9 @@ msgid "Yesterday"
 msgstr "Ayer"
 
 #: last_2_days
+#, fuzzy
 msgid "Last 2 days"
-msgstr ""
+msgstr "Últimos 7 diass"
 
 #: last_7_days
 msgid "Last 7 days"
@@ -1161,8 +1171,9 @@ msgid "Organisation Unit Group"
 msgstr "Grupo de Unidades Organizativas"
 
 #: organisation_unit_group_set
+#, fuzzy
 msgid "Organisation Unit Group Set"
-msgstr ""
+msgstr "Listado de Grupos de Unidades Organizativas"
 
 #: user
 msgid "User"
@@ -1269,8 +1280,9 @@ msgid "Analytics tables task strategy"
 msgstr "Estrategia de generación de tablas Analytics"
 
 #: last_2_years_daily
+#, fuzzy
 msgid "Last 2 years daily"
-msgstr ""
+msgstr "Últimos 3 años diariamente"
 
 #: last_3_years_daily
 msgid "Last 3 years daily"
@@ -1460,8 +1472,9 @@ msgid "Data element category option combinations"
 msgstr "Combinación de categorías de elementos de datos"
 
 #: update_category_option_combos
+#, fuzzy
 msgid "Update category option combinations"
-msgstr ""
+msgstr "Combinación de categorías de elementos de datos"
 
 #: update_organisation_unit_paths
 msgid "Update organisation unit paths"
@@ -1524,12 +1537,14 @@ msgid "Last hour"
 msgstr ""
 
 #: data_set
+#, fuzzy
 msgid "Data Set"
-msgstr ""
+msgstr "Organisation unit"
 
 #: last_year_daily
+#, fuzzy
 msgid "Last year daily"
-msgstr ""
+msgstr "Últimos 3 años diariamente"
 
 #: show_fewer_options
 msgid "Show fewer options"
@@ -1560,8 +1575,9 @@ msgid "Last success"
 msgstr ""
 
 #: option_management
+#, fuzzy
 msgid "Option management"
-msgstr ""
+msgstr "Administración de set de opciones"
 
 #: add_option
 msgid "Add option"
@@ -1582,12 +1598,12 @@ msgstr ""
 #: please_select_a_dataset
 msgctxt "please_select_a_dataset"
 msgid "Please select a data set"
-msgstr ""
+msgstr "Seleccione un grupo de datos"
 
 #: please_select_an_organisation_unit
 msgctxt "please_select_an_organisation_unit"
 msgid "Please select an organisation unit"
-msgstr ""
+msgstr "Seleccione una unidad organizativa"
 
 #: prev_year
 msgid "Prev year"

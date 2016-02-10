@@ -4,14 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-02-01 20:54+0000\n"
+"Last-Translator: jmalcantara <jmalcantara@apunto.com.mx>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1454360062.0\n"
 
 #: title
 msgid "DHIS 2 Data Visualizer"
@@ -51,7 +53,7 @@ msgstr "Gráfico circular"
 
 #: radar_chart
 msgid "Radar chart"
-msgstr ""
+msgstr "Gráfico de radar"
 
 #: series
 msgid "Series"
@@ -352,7 +354,7 @@ msgstr "Sets de datos"
 #: data_sets
 msgctxt "data_sets"
 msgid "Data sets"
-msgstr ""
+msgstr "Sets de datos"
 
 #: reporting_rates
 msgid "Reporting rates"
@@ -560,7 +562,7 @@ msgstr "Periodos relativos"
 
 #: periods
 msgid "Periods"
-msgstr ""
+msgstr "Periodos"
 
 #: select_type
 msgid "Select type"
@@ -710,11 +712,11 @@ msgstr "Opciones"
 
 #: download
 msgid "Download"
-msgstr ""
+msgstr "Descargar"
 
 #: favorites
 msgid "Favorites"
-msgstr ""
+msgstr "Favoritos"
 
 #: chart_title
 msgid "Chart title"
@@ -799,7 +801,7 @@ msgstr "Gráficos"
 
 #: write_your_interpretation
 msgid "Write a comment, question or interpretation"
-msgstr ""
+msgstr "Escriba un comentario, pregunta o interpretación"
 
 #: sharing_settings
 msgid "Sharing settings"
@@ -814,80 +816,82 @@ msgid "Select boundaries and levels"
 msgstr ""
 
 #: select_organisation_unit_levels
+#, fuzzy
 msgid "Select organisation unit levels"
-msgstr ""
+msgstr "Seleccionar unidades organizativas"
 
 #: select_boundaries_and_groups
 msgid "Select boundaries and groups"
 msgstr ""
 
 #: select_organisation_unit_groups
+#, fuzzy
 msgid "Select organisation unit groups"
-msgstr ""
+msgstr "Seleccionar unidades organizativas"
 
 #: allow_external_access
 msgid "Allow external access"
-msgstr ""
+msgstr "Permitir acceso externo"
 
 #: daily
 msgid "Daily"
-msgstr ""
+msgstr "Diario"
 
 #: weekly
 msgid "Weekly"
-msgstr ""
+msgstr "Semanal"
 
 #: monthly
 msgid "Monthly"
-msgstr ""
+msgstr "Mensual"
 
 #: bimonthly
 msgid "Bi-monthly"
-msgstr ""
+msgstr "Bimestral"
 
 #: quarterly
 msgid "Quarterly"
-msgstr ""
+msgstr "Trimetral"
 
 #: sixmonthly
 msgid "Six-monthly"
-msgstr ""
+msgstr "Semestral"
 
 #: sixmonthly_april
 msgid "Six-monthly April"
-msgstr ""
+msgstr "Semestral Abril"
 
 #: yearly
 msgid "Yearly"
-msgstr ""
+msgstr "Anual"
 
 #: financial_oct
 msgid "Financial October"
-msgstr ""
+msgstr "Fiscal Octubre"
 
 #: financial_july
 msgid "Financial July"
-msgstr ""
+msgstr "Fiscal Julio"
 
 #: financial_april
 msgid "Financial April"
-msgstr ""
+msgstr "Fiscal Abril"
 
 #: all_indicators
 msgid "All indicators"
-msgstr ""
+msgstr "Todos los indicadores"
 
 #: all_data_elements
 msgid "All data elements"
-msgstr ""
+msgstr "Todos los elementos de datos"
 
 #: hide_empty_category_items
 msgid "Hide empty category items"
-msgstr ""
+msgstr "Ocultar categorías vacías"
 
 #: axes
 msgid "Axes"
-msgstr ""
+msgstr "Ejes"
 
 #: general
 msgid "General"
@@ -895,43 +899,43 @@ msgstr ""
 
 #: go_to_pivot_tables
 msgid "Go to pivot tables"
-msgstr ""
+msgstr "Ir a tablas dinámicas"
 
 #: open_this_chart_as_table
 msgid "Open this chart as table"
-msgstr ""
+msgstr "Abrir esta gráfica como tabla"
 
 #: open_last_pivot_table
 msgid "Open last table"
-msgstr ""
+msgstr "Abrir la tabla anterior"
 
 #: go_to_maps
 msgid "Go to maps"
-msgstr ""
+msgstr "Ir a mapas"
 
 #: open_this_chart_as_map
 msgid "Open this chart as map"
-msgstr ""
+msgstr "Abrir esta gráfica como mapa"
 
 #: open_last_map
 msgid "Open last map"
-msgstr ""
+msgstr "Abrir el mapa anterior"
 
 #: dimensions
 msgid "Dimensions"
-msgstr ""
+msgstr "Dimensiones"
 
 #: assigned_categories
 msgid "Assigned categories"
-msgstr ""
+msgstr "Categorías asignadas"
 
 #: table_layout
 msgid "Table layout"
-msgstr ""
+msgstr "Diseño de tabla"
 
 #: type
 msgid "Type"
-msgstr ""
+msgstr "Tipo"
 
 #: select_sub_units
 msgid "Select sub-units"
@@ -947,11 +951,11 @@ msgstr ""
 
 #: example1
 msgid "Creating a chart"
-msgstr ""
+msgstr "Crear una gráfica"
 
 #: example2
 msgid "Select items from any of the dimensions in the left menu"
-msgstr ""
+msgstr "Seleccione ítems de cualquiera de las dimensiones del menú izquierdo"
 
 #: example3
 msgid "Click Layout to arrange your dimensions on table rows and columns"
@@ -979,23 +983,23 @@ msgstr ""
 
 #: low_to_high
 msgid "Low to high"
-msgstr ""
+msgstr "Menor a mayor"
 
 #: high_to_low
 msgid "High to low"
-msgstr ""
+msgstr "Mayor a menor"
 
 #: sort_order
 msgid "Sort order"
-msgstr ""
+msgstr "Order"
 
 #: last_52_weeks
 msgid "Last 52 weeks"
-msgstr ""
+msgstr "Últimas 52 semanas"
 
 #: last_6_months
 msgid "Last 6 months"
-msgstr ""
+msgstr "Últimos 6 meses"
 
 #: created_by
 msgid "Created by"
@@ -1010,8 +1014,9 @@ msgid "Clear chart"
 msgstr ""
 
 #: this_financial_year
+#, fuzzy
 msgid "This financial year"
-msgstr ""
+msgstr "Último año financiero"
 
 #: user_sub_units
 msgid "User sub-units"
@@ -1031,27 +1036,27 @@ msgstr ""
 
 #: aggregation_type
 msgid "Aggregation type"
-msgstr ""
+msgstr "Tipo de agregación"
 
 #: by_data_element
 msgid "By data element"
-msgstr ""
+msgstr "Por elemento de datos"
 
 #: count
 msgid "Count"
-msgstr ""
+msgstr "Contar"
 
 #: sum
 msgid "Sum"
-msgstr ""
+msgstr "Sumar"
 
 #: stddev
 msgid "Standard deviation"
-msgstr ""
+msgstr "Desviación estándar"
 
 #: variance
 msgid "Variance"
-msgstr ""
+msgstr "Varianza"
 
 #: min
 msgid "Min"
@@ -1063,67 +1068,67 @@ msgstr ""
 
 #: this_week
 msgid "This week"
-msgstr ""
+msgstr "Esta semana"
 
 #: this_quarter
 msgid "This quarter"
-msgstr ""
+msgstr "Este trimestre"
 
 #: this_month
 msgid "This month"
-msgstr ""
+msgstr "Este mes"
 
 #: this_sixmonth
 msgid "This six-month"
-msgstr ""
+msgstr "Este semestre"
 
 #: this_bimonth
 msgid "This bi-month"
-msgstr ""
+msgstr "Este bimestre"
 
 #: excluded_dimensions
 msgid "Excluded dimensions"
-msgstr ""
+msgstr "Excluir dimensiones"
 
 #: series_dimensions
 msgid "Series dimensions"
-msgstr ""
+msgstr "Dimensiones en series"
 
 #: category_dimensions
 msgid "Category dimensions"
-msgstr ""
+msgstr "Dimensiones de categorías"
 
 #: report_filter
 msgid "Report filter"
-msgstr ""
+msgstr "Filtro del informe"
 
 #: about
 msgid "About"
-msgstr ""
+msgstr "Acerca de"
 
 #: time_since_last_data_update
 msgid "Time since last data update"
-msgstr ""
+msgstr "Tiempo desde la última actualización de datos"
 
 #: version
 msgid "Version"
-msgstr ""
+msgstr "Versión"
 
 #: revision
 msgid "Revision"
-msgstr ""
+msgstr "Revisión"
 
 #: build_time
 msgid "Build time"
-msgstr ""
+msgstr "Tiempo de construcción"
 
 #: username
 msgid "Username"
-msgstr ""
+msgstr "Nombre de usuario"
 
 #: no_values_found_for_current_selection
 msgid "No values found for the current selection"
-msgstr ""
+msgstr "No se encontraron valores para la selección actual"
 
 #: error
 msgid "Error"
@@ -1131,32 +1136,32 @@ msgstr ""
 
 #: warning
 msgid "Warning"
-msgstr ""
+msgstr "Advertencia"
 
 #: event_data_items
 msgid "Event data items"
-msgstr ""
+msgstr "Ítems de datos de eventos"
 
 #: program_indicators
 msgid "Program indicators"
-msgstr ""
+msgstr "Indicadores de programas"
 
 #: program
 msgid "Program"
-msgstr ""
+msgstr "Programa"
 
 #: select_program
 msgid "Select program"
-msgstr ""
+msgstr "Seleccione el programa"
 
 #: completed_only
 msgid "Completed only"
-msgstr ""
+msgstr "Solo completados"
 
 #: events
 msgid "Events"
-msgstr ""
+msgstr "Eventos"
 
 #: include_only_completed_events_only
 msgid "Include only completed events"
-msgstr ""
+msgstr "Incluir solo eventos completados"

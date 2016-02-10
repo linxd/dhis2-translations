@@ -4,14 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-02-01 19:56+0000\n"
+"Last-Translator: jmalcantara <jmalcantara@apunto.com.mx>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1454356582.0\n"
 
 #: please_select_org_unit
 msgctxt "please_select_org_unit"
@@ -370,12 +372,14 @@ msgid "Report table parameters"
 msgstr "Parametros de tablas de informe"
 
 #: months_this_year
+#, fuzzy
 msgid "Months this year"
-msgstr ""
+msgstr "Meses el año pasado"
 
 #: quarters_this_year
+#, fuzzy
 msgid "Quarters this year"
-msgstr ""
+msgstr "Trimestres el año pasado"
 
 #: add_report_table
 msgid "Add Report Table"
@@ -876,8 +880,9 @@ msgid "Print"
 msgstr "Imprimir"
 
 #: reporting_period
+#, fuzzy
 msgid "Reporting period"
-msgstr ""
+msgstr "Periodo de presentacion de informe"
 
 #: completed_by
 msgid "Completed by"
@@ -928,8 +933,9 @@ msgid "Interpretation was shared"
 msgstr "La interpretación se ha compartido con éxito"
 
 #: last_3_months
+#, fuzzy
 msgid "Last 3 months"
-msgstr ""
+msgstr "Ultimos 12 meses"
 
 #: get_report_template
 msgid "Get report template"
@@ -1009,7 +1015,7 @@ msgstr ""
 
 #: approve
 msgid "Approve"
-msgstr ""
+msgstr "Aprobar"
 
 #: unapprove
 msgid "Unapprove"
@@ -1024,20 +1030,21 @@ msgid "Unaccept"
 msgstr ""
 
 #: waiting_for_lower_level_approval
+#, fuzzy
 msgid "Waiting for lower levels to approve"
-msgstr ""
+msgstr "Esperando la aprobación en niveles inferiores"
 
 #: approved_at_a_higher_level
 msgid "Approved at a higher level"
-msgstr ""
+msgstr "Aprobado en un nivel superior"
 
 #: approved
 msgid "Approved"
-msgstr ""
+msgstr "Aprobado"
 
 #: approved_and_accepted
 msgid "Approved and accepted"
-msgstr ""
+msgstr "Aprobado y aceptado"
 
 #: ready_for_approval_at_a_higher_level
 msgid "Ready for approval at a higher level"
@@ -1057,7 +1064,7 @@ msgstr ""
 
 #: approved_elsewhere
 msgid "Approved elsewhere"
-msgstr ""
+msgstr "Aprobado en otro lugar"
 
 #: accepted_elsewhere
 msgid "Accepted elsewhere"
@@ -1065,7 +1072,7 @@ msgstr ""
 
 #: approved_for_part_of_this_period
 msgid "Approved for part of this period"
-msgstr ""
+msgstr "Aprobado para parte del periodo"
 
 #: accepted_for_part_of_this_period
 msgid "Accepted for part of this period"

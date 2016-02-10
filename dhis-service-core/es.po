@@ -5,14 +5,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-01-16 13:45+0000\n"
+"Last-Translator: Administrator <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1452951915.0\n"
 
 #: district_health_information_software
 msgid "District Health Information Software 2"
@@ -36,11 +38,8 @@ msgid ""
 "Sorry! The system failed to execute the operation. Usually, no data is lost "
 "and you can continue working by going back to the previous page."
 msgstr ""
-"¡Lo sentimos! El sistema ha fallado en ejecutar la operación. Normalmente no "
-"se pierden los datos y se puede continuar trabajando yendo atras. Si se "
-"desea reportar el incidente se puede guardar esta pagina seleccionando \""
-"Fichero -> Guardar (página como)\" en el navegador e incluir la página "
-"salvada en el informe. Los detalle del problema se indican debajo."
+"¡Lo sentimos! El sistema falló al ejecutar la operación. Normalmente no se "
+"pierden datos y puede continuar trabajando regresando a la página anterior."
 
 #: exception
 msgid "Exception"
@@ -164,7 +163,7 @@ msgstr "Configuración"
 
 #: dhis-web-maintenance-program
 msgid "Programs / Attributes"
-msgstr ""
+msgstr "Programas / Atributos"
 
 #: dhis-web-maintenance-mobile
 msgid "Mobile Configuration"
@@ -172,7 +171,7 @@ msgstr "Configuración móvil"
 
 #: dhis-web-maintenance-appmanager
 msgid "App Management"
-msgstr ""
+msgstr "Administración de Apps"
 
 #: dhis-web-caseentry
 msgid "Individual Records"
@@ -212,7 +211,7 @@ msgstr ""
 
 #: dhis-web-cache-cleaner
 msgid "Browser Cache Cleaner"
-msgstr ""
+msgstr "Limpiador de caché"
 
 #: dhis-web-reporting
 msgid "Reports"
@@ -515,11 +514,11 @@ msgstr "Conectado"
 
 #: next
 msgid "Next"
-msgstr ""
+msgstr "Siguiente"
 
 #: previous
 msgid "Previous"
-msgstr ""
+msgstr "Anterior"
 
 #: online_notification
 msgid "You are online"
@@ -580,7 +579,7 @@ msgstr "Cambiar contraseña"
 
 #: expired_password
 msgid "Your password has expired, please change"
-msgstr ""
+msgstr "Su contraseña ha caducado, por favor actualícela "
 
 #: date_selector
 msgid "Choose a date"
@@ -687,7 +686,7 @@ msgstr "Cancelar"
 
 #: clone
 msgid "Clone"
-msgstr ""
+msgstr "Clonar"
 
 #: add
 msgctxt "add"
@@ -801,21 +800,23 @@ msgstr ""
 
 #: name_in_use
 msgid "The name is already in use. Please choose a different name"
-msgstr ""
+msgstr "El nombre ya existe. Por favor use un nombre diferente"
 
 #: code_in_use
 msgid "The code is already in use. Please choose a different code"
-msgstr ""
+msgstr "El código ya existe. Por favor use un código diferente"
 
 #: short_name_in_use
 msgid "The short name is already in use. Please choose a different short name"
-msgstr ""
+msgstr "El nombre corto ya existe. Por favor use un nombre corto diferente"
 
 #: unsupported_browser
 msgid ""
 "Please upgrade your browser. Internet Explorer version 8 and earlier is not "
 "supported."
 msgstr ""
+"Por favor actualice su navegador. Internet Explorer versión 8 y anteriores "
+"no son compatibles"
 
 #: email_not_configured_for_system
 msgid "Email is not configured for the system"
@@ -839,31 +840,31 @@ msgstr ""
 
 #: left_brackets
 msgid "Left brackets"
-msgstr ""
+msgstr "Corchetes izquierdos"
 
 #: right_brackets
 msgid "Right brackets"
-msgstr ""
+msgstr "Corchetes derechos"
 
 #: multiply
 msgid "Multiply"
-msgstr ""
+msgstr "Multiplicar"
 
 #: divide
 msgid "Divide"
-msgstr ""
+msgstr "Dividir"
 
 #: plus
 msgid "Plus"
-msgstr ""
+msgstr "Más"
 
 #: minus
 msgid "Minus"
-msgstr ""
+msgstr "Menos"
 
 #: no_of_days
 msgid "No of days"
-msgstr ""
+msgstr "No de días"
 
 #: variables
 msgid "Variables"
@@ -880,99 +881,99 @@ msgstr ""
 #. #-- Relative periods -----------------------------------------------------------#
 #: LAST_MONTH
 msgid "Last month"
-msgstr ""
+msgstr "Último mes"
 
 #: LAST_BIMONTH
 msgid "Last bi-month"
-msgstr ""
+msgstr "Último bimestre"
 
 #: LAST_QUARTER
 msgid "Last quarter"
-msgstr ""
+msgstr "Último trimestre"
 
 #: LAST_SIX_MONTH
 msgid "Last six-month"
-msgstr ""
+msgstr "Último semestre"
 
 #: MONTHS_THIS_YEAR
 msgid "Months this year"
-msgstr ""
+msgstr "Meses este año"
 
 #: QUARTERS_THIS_YEAR
 msgid "Quarters this year"
-msgstr ""
+msgstr "Trimestres este año"
 
 #: THIS_YEAR
 msgid "This year"
-msgstr ""
+msgstr "Este año"
 
 #: MONTHS_LAST_YEAR
 msgid "Months last year"
-msgstr ""
+msgstr "Meses el último año"
 
 #: QUARTERS_LAST_YEAR
 msgid "Quarters last year"
-msgstr ""
+msgstr "Trimestres el último año"
 
 #: LAST_YEAR
 msgid "Last year"
-msgstr ""
+msgstr "Último año"
 
 #: LAST_5_YEARS
 msgid "Last 5 years"
-msgstr ""
+msgstr "Últimos 5 años"
 
 #: LAST_12_MONTHS
 msgid "Last 12 months"
-msgstr ""
+msgstr "Últimos 12 meses"
 
 #: LAST_6_MONTHS
 msgid "Last 6 months"
-msgstr ""
+msgstr "Últimos 6 meses"
 
 #: LAST_3_MONTHS
 msgid "Last 3 months"
-msgstr ""
+msgstr "Últimos 3 meses"
 
 #: LAST_6_BIMONTHS
 msgid "Last 6 bi-months"
-msgstr ""
+msgstr "Últimos 6 bimestres"
 
 #: LAST_4_QUARTERS
 msgid "Last 4 quarters"
-msgstr ""
+msgstr "Últimos 4 trimestres"
 
 #: LAST_2_SIXMONTHS
 msgid "Last 2 six-months"
-msgstr ""
+msgstr "Últimos 2 semestres"
 
 #: THIS_FINANCIAL_YEAR
 msgid "This financial year"
-msgstr ""
+msgstr "Este año fiscal"
 
 #: LAST_FINANCIAL_YEAR
 msgid "Last financial year"
-msgstr ""
+msgstr "Último año fiscal"
 
 #: LAST_5_FINANCIAL_YEARS
 msgid "Last 5 financial years"
-msgstr ""
+msgstr "Últimos 5 años fiscales"
 
 #: LAST_WEEK
 msgid "Last week"
-msgstr ""
+msgstr "Última semana"
 
 #: LAST_4_WEEKS
 msgid "Last 4 weeks"
-msgstr ""
+msgstr "Últimas 4 semanas"
 
 #: LAST_12_WEEKS
 msgid "Last 12 weeks"
-msgstr ""
+msgstr "Últimas 12 semanas"
 
 #: LAST_52_WEEKS
 msgid "Last 52 weeks"
-msgstr ""
+msgstr "Últimas 52 semanas"
 
 #. #-- PeriodTypes ----------------------------------------------------------------#
 #: Daily
@@ -1001,7 +1002,7 @@ msgstr "Semestral"
 
 #: SixMonthlyApril
 msgid "Six-monthly April"
-msgstr ""
+msgstr "Semestral Abril"
 
 #: Yearly
 msgid "Yearly"
@@ -1025,15 +1026,15 @@ msgstr "Relativo"
 
 #: FinancialApril
 msgid "Financial-April"
-msgstr "Finanzas-Abril"
+msgstr "Fiscal - Abril"
 
 #: FinancialJuly
 msgid "Financial-July"
-msgstr "Finanzas-Julio"
+msgstr "Fiscal - Julio"
 
 #: FinancialOct
 msgid "Financial-Oct"
-msgstr "Finanzas-Octubre"
+msgstr "Fiscal - Oct"
 
 #. #-- Period formats - Should not be translated ----------------------------------#
 #: format.Daily.startDate
@@ -1477,72 +1478,72 @@ msgstr ""
 #: nepali.weekday.monday
 msgctxt "nepali.weekday.monday"
 msgid "Monday"
-msgstr ""
+msgstr "Lunes"
 
 #: nepali.weekday.tuesday
 msgctxt "nepali.weekday.tuesday"
 msgid "Tuesday"
-msgstr ""
+msgstr "Martes"
 
 #: nepali.weekday.wednesday
 msgctxt "nepali.weekday.wednesday"
 msgid "Wednesday"
-msgstr ""
+msgstr "Miércoles"
 
 #: nepali.weekday.thursday
 msgctxt "nepali.weekday.thursday"
 msgid "Thursday"
-msgstr ""
+msgstr "Jueves"
 
 #: nepali.weekday.friday
 msgctxt "nepali.weekday.friday"
 msgid "Friday"
-msgstr ""
+msgstr "Viernes"
 
 #: nepali.weekday.saturday
 msgctxt "nepali.weekday.saturday"
 msgid "Saturday"
-msgstr ""
+msgstr "Sábado"
 
 #: nepali.weekday.sunday
 msgctxt "nepali.weekday.sunday"
 msgid "Sunday"
-msgstr ""
+msgstr "Domingo"
 
 #: nepali.weekday.short.monday
 msgctxt "nepali.weekday.short.monday"
 msgid "Mon"
-msgstr ""
+msgstr "Lun"
 
 #: nepali.weekday.short.tuesday
 msgctxt "nepali.weekday.short.tuesday"
 msgid "Tue"
-msgstr ""
+msgstr "Mar"
 
 #: nepali.weekday.short.wednesday
 msgctxt "nepali.weekday.short.wednesday"
 msgid "Wed"
-msgstr ""
+msgstr "Mié"
 
 #: nepali.weekday.short.thursday
 msgctxt "nepali.weekday.short.thursday"
 msgid "Thu"
-msgstr ""
+msgstr "Jue"
 
 #: nepali.weekday.short.friday
 msgctxt "nepali.weekday.short.friday"
 msgid "Fri"
-msgstr ""
+msgstr "Vie"
 
 #: nepali.weekday.short.saturday
 msgctxt "nepali.weekday.short.saturday"
 msgid "Sat"
-msgstr ""
+msgstr "Sáb"
 
 #: nepali.weekday.short.sunday
 msgctxt "nepali.weekday.short.sunday"
 msgid "Sun"
-msgstr ""
+msgstr "Dom"
 
 #. #-- Translation page ------------------------------------------------------#
 #: translation_translate
@@ -1682,7 +1683,7 @@ msgstr "¡Lo sentimos! Ha introducido un nombre corto duplicado"
 
 #: translation_label_formName
 msgid "Form name"
-msgstr ""
+msgstr "Nombre de formato"
 
 #. #-- About ----------------------------------------------------------------------#
 #: name_exists
@@ -1895,15 +1896,15 @@ msgstr "Fecha del servidor"
 
 #: last_analytics_table_generation
 msgid "Last analytics table generation"
-msgstr ""
+msgstr "Última generación de tablas analíticas"
 
 #: last_analytics_table_runtime
 msgid "Last analytics table runtime"
-msgstr ""
+msgstr "Último tiempo de ejecución de tablas analíticas"
 
 #: time_since_last_analytics_table_generation
 msgid "Time since last analytics table generation"
-msgstr ""
+msgstr "Tiempo desde la última generación de tablas analíticas"
 
 #: online_release_page
 msgctxt "online_release_page"
@@ -2139,11 +2140,11 @@ msgstr "Promedio"
 
 #: stddev
 msgid "Standard deviation"
-msgstr ""
+msgstr "Desviación estándar"
 
 #: variance
 msgid "Variance"
-msgstr ""
+msgstr "Varianza"
 
 #: min
 msgid "Min"
@@ -2159,7 +2160,7 @@ msgstr "Texto"
 
 #: long_text
 msgid "Long text"
-msgstr ""
+msgstr "Testo largo"
 
 #: string
 msgid "String"
@@ -2177,11 +2178,11 @@ msgstr "Número"
 
 #: positive_integer
 msgid "Positive Integer"
-msgstr ""
+msgstr "Entero positivo"
 
 #: zero_positive_int
 msgid "Positive or Zero Integer"
-msgstr ""
+msgstr "Entero positivo o cero"
 
 #: negative_integer
 msgid "Negative Integer"
@@ -2193,7 +2194,7 @@ msgstr ""
 
 #: percentage
 msgid "Percentage"
-msgstr ""
+msgstr "Porcentaje"
 
 #: date
 msgid "Date"
@@ -2220,7 +2221,7 @@ msgstr "Ninguno"
 
 #: yes_only
 msgid "Yes Only"
-msgstr ""
+msgstr "Sólo Sí"
 
 #: custom
 msgid "Custom"
@@ -2229,31 +2230,31 @@ msgstr ""
 #. #-- Validation messages -------------------------------------------------------#
 #: value_must_integer
 msgid "Value must be an integer"
-msgstr ""
+msgstr "El valor debe ser un entero"
 
 #: value_must_number
 msgid "Value must be a number"
-msgstr ""
+msgstr "El valor debe ser un número"
 
 #: value_must_positive_integer
 msgid "Value must be a positive integer"
-msgstr ""
+msgstr "El valor debe ser un entero positivo"
 
 #: value_must_negative_integer
 msgid "Value must be a negative integer"
-msgstr ""
+msgstr "El valor debe ser un entero negativo"
 
 #: value_must_zero_or_positive_integer
 msgid "Value must be zero or a positive integer"
-msgstr ""
+msgstr "El valor debe ser un entero positivo o cero"
 
 #: value_must_unit_interval
 msgid "Value must be a unit interval (between 0 and 1)"
-msgstr ""
+msgstr "El valor debe ser un intervalo unitario (entre 0 y 1)"
 
 #: value_must_percentage
 msgid "Value must be a percentage (between 0 and 100)"
-msgstr ""
+msgstr "El valor debe ser un porcentaje (entre 0 y 100)"
 
 #. #-- User account --------------------------------------------------------------#
 #: profile
@@ -2282,8 +2283,9 @@ msgid "Old password"
 msgstr "Contraseña antigua"
 
 #: new_password
+#, fuzzy
 msgid "New password"
-msgstr ""
+msgstr "Contraseña antigua"
 
 #: retype_new_password
 msgid "Retype new password"
@@ -2623,7 +2625,7 @@ msgstr ""
 
 #: filter_not_evaluating_to_true_or_false
 msgid "Filter is not evaluating to true or false"
-msgstr ""
+msgstr "El filtro no evalúa a verdadero o falso"
 
 #: locate_by_code
 msgid "Locate by code"
@@ -2788,7 +2790,7 @@ msgstr "Tipo"
 
 #: value_type
 msgid "Value Type"
-msgstr ""
+msgstr "Tipo de Valor"
 
 #: actual
 msgid "Actual"
@@ -2836,7 +2838,7 @@ msgstr "Conceptos de elementos de datos"
 
 #: organisation_units
 msgid "Organisation units"
-msgstr ""
+msgstr "Unidades organizativas"
 
 #: organisation_unit_groups
 msgid "Organisation unit groups"
@@ -2864,28 +2866,30 @@ msgid "User groups"
 msgstr "Grupos de usuario"
 
 #: pivot_tables
+#, fuzzy
 msgid "Pivot tables"
-msgstr ""
+msgstr "Tablas dinámicas"
 
 #: charts
 msgid "Charts"
-msgstr ""
+msgstr "Gráficas"
 
 #: maps
 msgid "Maps"
-msgstr ""
+msgstr "Mapas"
 
 #: dashboards
+#, fuzzy
 msgid "Dashboards"
-msgstr ""
+msgstr "Tableros"
 
 #: programs
 msgid "Programs"
-msgstr ""
+msgstr "Programas"
 
 #: events
 msgid "Events"
-msgstr ""
+msgstr "Eventos"
 
 #. #-- Indicator -----------------------------------------------------------------#
 #: expression
@@ -2960,7 +2964,7 @@ msgstr "El elemento de datos no existe"
 
 #: constant_does_not_exist
 msgid "Constant does not exist"
-msgstr ""
+msgstr "La constante no existe"
 
 #: org_unit_group_does_not_exist
 msgid "Organisation unit group does not exist"
@@ -2976,7 +2980,7 @@ msgstr ""
 
 #: valid
 msgid "Valid"
-msgstr ""
+msgstr "Válido"
 
 #. #-- Validation Rule -----------------------------------------------------------#
 #: absolute
@@ -3077,27 +3081,27 @@ msgstr ""
 
 #: equal_to_title
 msgid "Equal to"
-msgstr ""
+msgstr "igual que"
 
 #: not_equal_to_title
 msgid "Not equal to"
-msgstr ""
+msgstr "No igual que"
 
 #: less_than_title
 msgid "Less than"
-msgstr ""
+msgstr "Menor que"
 
 #: less_than_or_equal_to_title
 msgid "Less than or equal to"
-msgstr ""
+msgstr "Menor que o igual a"
 
 #: greater_than_title
 msgid "Greater than"
-msgstr ""
+msgstr "Mayor que"
 
 #: greater_than_or_equal_to_title
 msgid "Greater than or equal to"
-msgstr ""
+msgstr "Mayor que o igual a"
 
 #. #-- Constant ------------------------------------------------------------------#
 #: constant
@@ -3133,6 +3137,8 @@ msgstr "Acceso a grupo de usuarios"
 #: ajax_login_failed
 msgid "Login failed, check your username and password and try again"
 msgstr ""
+"El acceso falló, por favor revise su nombre de usuario y contraseña e "
+"intente nuevamente"
 
 #: group_name
 msgid "Group name"
@@ -3177,7 +3183,7 @@ msgstr "Este objeto será para su uso privado"
 
 #: created_by
 msgid "Created by"
-msgstr ""
+msgstr "Creado por"
 
 #. #-- Countries / flags ---------------------------------------------------------#
 #: afghanistan
@@ -3198,7 +3204,7 @@ msgstr "Argelia"
 
 #: armenia
 msgid "Armenia"
-msgstr ""
+msgstr "Armenia"
 
 #: bangladesh
 msgid "Bangladesh"
@@ -3234,7 +3240,7 @@ msgstr "Camboya"
 
 #: cameroon
 msgid "Cameroon"
-msgstr ""
+msgstr "Camerún"
 
 #: china
 msgid "China"
@@ -3310,7 +3316,7 @@ msgstr ""
 
 #: haiti
 msgid "Haiti"
-msgstr ""
+msgstr "Haití"
 
 #: icap
 msgid "ICAP"
@@ -3365,8 +3371,9 @@ msgid "Malawi"
 msgstr "Malaui"
 
 #: mali
+#, fuzzy
 msgid "Mali"
-msgstr ""
+msgstr "Masculino"
 
 #: mongolia
 msgid "Mongolia"
@@ -3565,7 +3572,7 @@ msgstr "Desarrollado por"
 
 #: sign_in
 msgid "Sign in"
-msgstr "Login"
+msgstr "Iniciar sesión"
 
 #. #-- New User Account page -----------------------------------------------------#
 #: new_user_account_name
@@ -3597,9 +3604,9 @@ msgid ""
 "invalid, your account might not permit restore or you might have entered an "
 "invalid email address for your account."
 msgstr ""
-"Lo sentimos, pero no hemos podido recuperar su cuenta. El nombre de usuario "
-"no sea valida, su cuenta podria no permitir la restauracion o que podr�a "
-"haber entrado en un e-mail valida electronico de su cuenta."
+"Lo sentimos, pero no hemos podido restaurar su cuenta. Es posible que el "
+"nombre de usuario no sea valido, su cuenta no permita la restauración o que "
+"haya ingresado una dirección de correo no válida en su cuenta."
 
 #. #-- App Menu ------------------------------------------------------------------#
 #: applications
@@ -3714,8 +3721,9 @@ msgid "Gregorian"
 msgstr ""
 
 #: ethiopian
+#, fuzzy
 msgid "Ethiopian"
-msgstr ""
+msgstr "Etiopía"
 
 #: thai
 msgid "Thai"
@@ -3745,9 +3753,10 @@ msgid "Someone, probably you, has asked us to restore your"
 msgstr ""
 
 #: email_restore_1_1st_paragraph_after_application_title
+#, fuzzy
 msgctxt "email_restore_1_1st_paragraph_after_application_title"
 msgid "user account."
-msgstr ""
+msgstr "User Account"
 
 #: email_restore_1_2nd_paragraph
 msgctxt "email_restore_1_2nd_paragraph"
@@ -3771,9 +3780,10 @@ msgid "Someone, probably you, has asked us to restore your"
 msgstr ""
 
 #: email_restore_2_1st_paragraph_after_application_title
+#, fuzzy
 msgctxt "email_restore_2_1st_paragraph_after_application_title"
 msgid "user account."
-msgstr ""
+msgstr "User Account"
 
 #: email_restore_2_2nd_paragraph
 msgctxt "email_restore_2_2nd_paragraph"
@@ -3802,9 +3812,10 @@ msgid "This is an invitation to create a"
 msgstr ""
 
 #: email_invite_1_1st_paragraph_after_application_title
+#, fuzzy
 msgctxt "email_invite_1_1st_paragraph_after_application_title"
 msgid "user account."
-msgstr ""
+msgstr "User Account"
 
 #: email_invite_1_2nd_paragraph
 msgctxt "email_invite_1_2nd_paragraph"
@@ -3827,9 +3838,10 @@ msgid "This is an invitation to create a"
 msgstr ""
 
 #: email_invite_2_1st_paragraph_after_application_title
+#, fuzzy
 msgctxt "email_invite_2_1st_paragraph_after_application_title"
 msgid "user account."
-msgstr ""
+msgstr "User Account"
 
 #: email_invite_2_2nd_paragraph
 msgctxt "email_invite_2_2nd_paragraph"

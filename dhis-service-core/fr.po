@@ -5,14 +5,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-11-22 20:44+0000\n"
+"Last-Translator: aleglise <alexandre.leglise@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1448225063.0\n"
 
 #: district_health_information_software
 msgid "District Health Information Software 2"
@@ -1048,7 +1050,7 @@ msgstr "Financière-Oct"
 #: format.Daily.startDate
 msgctxt "format.Daily.startDate"
 msgid "yyyy-MM-dd"
-msgstr ""
+msgstr "yyyy-MM-dd"
 
 #: format.Daily.endDate
 msgctxt "format.Daily.endDate"
@@ -1057,7 +1059,7 @@ msgstr ""
 
 #: format.Weekly.startDate
 msgid "yyyy 'W' w"
-msgstr ""
+msgstr "yyyy 'S' w"
 
 #: format.Weekly.endDate
 msgctxt "format.Weekly.endDate"
@@ -1066,7 +1068,7 @@ msgstr ""
 
 #: format.Monthly.startDate
 msgid "MMMM yyyy"
-msgstr ""
+msgstr "MMMM yyyy"
 
 #: format.Monthly.endDate
 msgctxt "format.Monthly.endDate"
@@ -1076,47 +1078,47 @@ msgstr ""
 #: format.BiMonthly.startDate
 msgctxt "format.BiMonthly.startDate"
 msgid "MMM 'to '"
-msgstr ""
+msgstr "MMM 'à '"
 
 #: format.BiMonthly.endDate
 msgctxt "format.BiMonthly.endDate"
 msgid "MMM yyyy"
-msgstr ""
+msgstr "MMM yyyy"
 
 #: format.Quarterly.startDate
 msgctxt "format.Quarterly.startDate"
 msgid "MMM 'to '"
-msgstr ""
+msgstr "MMM 'à '"
 
 #: format.Quarterly.endDate
 msgctxt "format.Quarterly.endDate"
 msgid "MMM yyyy"
-msgstr ""
+msgstr "MMM yyyy"
 
 #: format.SixMonthly.startDate
 msgctxt "format.SixMonthly.startDate"
 msgid "MMM 'to '"
-msgstr ""
+msgstr "MMM 'à '"
 
 #: format.SixMonthly.endDate
 msgctxt "format.SixMonthly.endDate"
 msgid "MMM yyyy"
-msgstr ""
+msgstr "MMM yyyy"
 
 #: format.SixMonthlyApril.startDate
 msgctxt "format.SixMonthlyApril.startDate"
 msgid "MMM 'to '"
-msgstr ""
+msgstr "MMM 'à '"
 
 #: format.SixMonthlyApril.endDate
 msgctxt "format.SixMonthlyApril.endDate"
 msgid "MMM yyyy"
-msgstr ""
+msgstr "MMM yyyy"
 
 #: format.Yearly.startDate
 msgctxt "format.Yearly.startDate"
 msgid "yyyy"
-msgstr ""
+msgstr "yyyy"
 
 #: format.Yearly.endDate
 msgctxt "format.Yearly.endDate"
@@ -1125,27 +1127,27 @@ msgstr ""
 
 #: format.TwoYearly.startDate
 msgid "yyyy 'and '"
-msgstr ""
+msgstr "yyyy 'et '"
 
 #: format.TwoYearly.endDate
 msgctxt "format.TwoYearly.endDate"
 msgid "yyyy"
-msgstr ""
+msgstr "yyyy"
 
 #: format.OnChange.startDate
 msgctxt "format.OnChange.startDate"
 msgid "yyyy-MM-dd '- '"
-msgstr ""
+msgstr "yyyy-MM-dd '- '"
 
 #: format.OnChange.endDate
 msgctxt "format.OnChange.endDate"
 msgid "yyyy-MM-dd"
-msgstr ""
+msgstr "yyyy-MM-dd"
 
 #: format.Survey.startDate
 msgctxt "format.Survey.startDate"
 msgid "yyyy-MM-dd"
-msgstr ""
+msgstr "yyyy-MM-dd"
 
 #: format.Survey.endDate
 msgctxt "format.Survey.endDate"
@@ -1155,42 +1157,42 @@ msgstr ""
 #: format.Relative.startDate
 msgctxt "format.Relative.startDate"
 msgid "yyyy-MM-dd '- '"
-msgstr ""
+msgstr "yyyy-MM-dd '- '"
 
 #: format.Relative.endDate
 msgctxt "format.Relative.endDate"
 msgid "yyyy-MM-dd"
-msgstr ""
+msgstr "yyyy-MM-dd"
 
 #: format.FinancialApril.startDate
 msgctxt "format.FinancialApril.startDate"
 msgid "MMM yyyy 'to '"
-msgstr ""
+msgstr "MMM yyyy 'à '"
 
 #: format.FinancialApril.endDate
 msgctxt "format.FinancialApril.endDate"
 msgid "MMM yyyy"
-msgstr ""
+msgstr "MMM yyyy"
 
 #: format.FinancialJuly.startDate
 msgctxt "format.FinancialJuly.startDate"
 msgid "MMM yyyy 'to '"
-msgstr ""
+msgstr "MMM yyyy 'à '"
 
 #: format.FinancialJuly.endDate
 msgctxt "format.FinancialJuly.endDate"
 msgid "MMM yyyy"
-msgstr ""
+msgstr "MMM yyyy"
 
 #: format.FinancialOct.startDate
 msgctxt "format.FinancialOct.startDate"
 msgid "MMM yyyy 'to '"
-msgstr ""
+msgstr "MMM yyyy 'à '"
 
 #: format.FinancialOct.endDate
 msgctxt "format.FinancialOct.endDate"
 msgid "MMM yyyy"
-msgstr ""
+msgstr "MMM yyyy"
 
 #. #-- Months and weeks -----------------------------------------------------------#
 #: month.january
@@ -2803,7 +2805,7 @@ msgstr "Type"
 
 #: value_type
 msgid "Value Type"
-msgstr ""
+msgstr "Type de valeur"
 
 #: actual
 msgid "Actual"
@@ -3770,7 +3772,7 @@ msgstr "Quelqu'un (probablement vous) nous a demande de réactiver votre"
 #: email_restore_1_1st_paragraph_after_application_title
 msgctxt "email_restore_1_1st_paragraph_after_application_title"
 msgid "user account."
-msgstr ""
+msgstr "compte utilisateur"
 
 #: email_restore_1_2nd_paragraph
 msgctxt "email_restore_1_2nd_paragraph"

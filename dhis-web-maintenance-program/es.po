@@ -4,14 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-12-04 06:24+0000\n"
+"Last-Translator: jmalcantara <jmalcantara@apunto.com.mx>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1449210299.0\n"
 
 #: groupBy
 msgid "Group by"
@@ -704,8 +706,9 @@ msgid "Program validation rule details"
 msgstr "Detalles de regla de validación de programa"
 
 #: view_validation_rules
+#, fuzzy
 msgid "View validation rules"
-msgstr ""
+msgstr "Editar criterios de validación"
 
 #: scheduled_days_from_start
 msgid "Scheduled days from start"
@@ -964,12 +967,14 @@ msgid "Report date"
 msgstr ""
 
 #: program_stage_properties
+#, fuzzy
 msgid "Program stage properties"
-msgstr ""
+msgstr "Propiedades de programa"
 
 #: allow_provided_elsewhere
+#, fuzzy
 msgid "Allow provided elsewhere"
-msgstr ""
+msgstr "Mostrar proporcionado en otra unidad"
 
 #: save_success
 msgid "Saved successful"
@@ -984,8 +989,9 @@ msgid "Assign program to organisation units for registering"
 msgstr ""
 
 #: visited_program_stage
+#, fuzzy
 msgid "Visited program stage"
-msgstr ""
+msgstr "Editar etapa de programa"
 
 #: number_of_tracked_entity_instances
 msgid "Number of tracked entity instances"
@@ -1026,24 +1032,28 @@ msgid "Visit selected program stage n(th) time"
 msgstr ""
 
 #: program_stage_section
+#, fuzzy
 msgid "Program stage section"
-msgstr ""
+msgstr "Detalles de etapa"
 
 #: create_new_program_stage_section
+#, fuzzy
 msgid "Create new program stage section"
-msgstr ""
+msgstr "Crear nueva etapa de programa"
 
 #: update_program_stage_section
+#, fuzzy
 msgid "Update program stage section"
-msgstr ""
+msgstr "Crear nueva etapa de programa"
 
 #: section_management
 msgid "Section management"
 msgstr ""
 
 #: program_stage_section_sort_order
+#, fuzzy
 msgid "Program stage section sort order"
-msgstr ""
+msgstr "Ordenar las Etapas del Programa"
 
 #: add_selected
 msgid "Add selected"
@@ -1056,19 +1066,21 @@ msgstr ""
 #: available_attributes
 msgctxt "available_attributes"
 msgid "Available attributes"
-msgstr ""
+msgstr "Atributos disponibles"
 
 #: select_attributes
+#, fuzzy
 msgid "Select attributes"
-msgstr ""
+msgstr "Atributos seleccionados"
 
 #: displayed_in_list
 msgid "Display in list"
 msgstr ""
 
 #: report_date_description
+#, fuzzy
 msgid "Description of report date"
-msgstr ""
+msgstr "Descripción de la fecha del incidente"
 
 #: reminder_message_template
 msgid "Reminder message templates"
@@ -1083,16 +1095,19 @@ msgid "Parameters"
 msgstr ""
 
 #: program_name
+#, fuzzy
 msgid "Program name"
-msgstr ""
+msgstr "Etapa de Programa"
 
 #: program_stage_name
+#, fuzzy
 msgid "Program stage name"
-msgstr ""
+msgstr "Administración de etapa de programa"
 
 #: orgunit_name
+#, fuzzy
 msgid "Organisation unit name"
-msgstr ""
+msgstr "Unidad organizativa"
 
 #: days_since_due_date
 msgid "Days since due date"
@@ -1143,8 +1158,9 @@ msgid "Time for sending message"
 msgstr ""
 
 #: number_of_attributes
+#, fuzzy
 msgid "The number of attributes"
-msgstr ""
+msgstr "Número de atributos"
 
 #: reminder
 msgid "Reminder"
@@ -1175,8 +1191,9 @@ msgid "not incident date"
 msgstr "sin fecha de incidente"
 
 #: execute_success
+#, fuzzy
 msgid "Executed successfully"
-msgstr ""
+msgstr "Eliminado correctamente"
 
 #: plus
 msgid "Plus"
@@ -1191,8 +1208,9 @@ msgid "Not null"
 msgstr ""
 
 #: confirm_delete_prorgam_stage_section
+#, fuzzy
 msgid "Are you sure you want to delete this program stage section ?"
-msgstr ""
+msgstr "¿Está seguro de querer eliminar esta etapa del programa?"
 
 #: form_details
 msgid "Form details"
@@ -1272,7 +1290,7 @@ msgstr ""
 #: update_program_validation_rule
 msgctxt "update_program_validation_rule"
 msgid "Edit program validation rule"
-msgstr ""
+msgstr "Editar regla de validación de programa"
 
 #: description_not_null
 msgid "Description is not null"
@@ -1323,8 +1341,9 @@ msgid "Please select operator number of visit for this condition"
 msgstr ""
 
 #: design_prorgam_entry_form
+#, fuzzy
 msgid "Design program entry form"
-msgstr ""
+msgstr "Diseñar formulario de entrada de datos"
 
 #: intro_tracked_entity_form
 msgid ""
@@ -1341,12 +1360,14 @@ msgid "Full name"
 msgstr ""
 
 #: birth_date
+#, fuzzy
 msgid "Date of birth"
-msgstr ""
+msgstr "Fecha de Nacimiento"
 
 #: death_date
+#, fuzzy
 msgid "Date of death"
-msgstr ""
+msgstr "Fecha de Nacimiento"
 
 #: registration_date
 msgctxt "registration_date"
@@ -1366,16 +1387,19 @@ msgid "Email"
 msgstr ""
 
 #: prorgam_entry_form_details
+#, fuzzy
 msgid "Program entry form details"
-msgstr ""
+msgstr "Detalles de formulario de entrada de datos"
 
 #: design_prorgam_entry_form_form
+#, fuzzy
 msgid "Design program entry form  form"
-msgstr ""
+msgstr "Diseñar formulario de entrada de datos"
 
 #: confirm_delete_prorgam_entry_form_form
+#, fuzzy
 msgid "Are you sure you want to delete program entry form?"
-msgstr ""
+msgstr "¿Confirma que desea eliminar este formulario de entrada de datos?"
 
 #: fixed_attributes
 msgid "Fixed attributes"
@@ -1384,7 +1408,7 @@ msgstr ""
 #: attributes
 msgctxt "attributes"
 msgid "Attributes"
-msgstr ""
+msgstr "Atributos"
 
 #: left_side_expression
 msgid "Left side expression"
@@ -1571,8 +1595,9 @@ msgid "Allow enrollment at all org units"
 msgstr ""
 
 #: other_program_stages
+#, fuzzy
 msgid "Other program stages"
-msgstr ""
+msgstr "Ver etapas de programa"
 
 #: minus
 msgid "Minus"
@@ -1595,8 +1620,9 @@ msgid "Filter by type"
 msgstr ""
 
 #: orgunit_group
+#, fuzzy
 msgid "Organisation unit group"
-msgstr ""
+msgstr "Unidad organizativa"
 
 #: enrollement_date
 msgid "Enrollment date"
@@ -1613,7 +1639,7 @@ msgstr ""
 #: tracked_entity_attribute_visit_schedule
 msgctxt "tracked_entity_attribute_visit_schedule"
 msgid "Attribute Visit Schedule"
-msgstr ""
+msgstr "Atributo de visita planificada"
 
 #: tracked_entity_attribute_visit_schedule_form
 msgid "Tracked entity attribute visit schedule"
@@ -1626,8 +1652,9 @@ msgid ""
 msgstr ""
 
 #: selected_program_stages
+#, fuzzy
 msgid "Selected program stages"
-msgstr ""
+msgstr "Editar etapa de programa"
 
 #: orgunit_registered
 msgid "Organisation unit phone number"
@@ -1671,12 +1698,14 @@ msgid "From the day set"
 msgstr ""
 
 #: orgunit_count
+#, fuzzy
 msgid "Organisation unit count"
-msgstr ""
+msgstr "Unidad organizativa"
 
 #: default_registration_form
+#, fuzzy
 msgid "Default registration form"
-msgstr ""
+msgstr "Definir formulario de registro"
 
 #: available_dynamic_attributes
 msgid "Available dynamic attributes"
@@ -1692,8 +1721,9 @@ msgid "Registration date"
 msgstr ""
 
 #: create_default_registration_form
+#, fuzzy
 msgid "Create default registration form"
-msgstr ""
+msgstr "Definir formulario de registro"
 
 #: use_birth_date_as_incident_date
 msgid "Set incidence date to date of birth"
@@ -1728,8 +1758,9 @@ msgid "Relationship text"
 msgstr ""
 
 #: relationship_details
+#, fuzzy
 msgid "Relationship details"
-msgstr ""
+msgstr "Detalles de tipo de relación"
 
 #: program_related
 msgid "Program related"
@@ -1886,8 +1917,9 @@ msgid "Tracker associate"
 msgstr ""
 
 #: view_validation_criteria
+#, fuzzy
 msgid "View validation criteria"
-msgstr ""
+msgstr "Editar criterios de validación"
 
 #: define_registration_form
 msgid "Define registration form"
@@ -1966,16 +1998,18 @@ msgid "Create new tracked entity"
 msgstr ""
 
 #: tracked_entity_details
+#, fuzzy
 msgid "Tracked entity details"
-msgstr ""
+msgstr "Instancias de entidad"
 
 #: edit_tracked_entity
 msgid "Edit tracked entity"
 msgstr ""
 
 #: confirm_delete_tracked_entity
+#, fuzzy
 msgid "Are you sure you want to delete this tracked entity?"
-msgstr ""
+msgstr "¿Confirma la eliminación del atributo de entidad?"
 
 #: option_set
 msgid "Option set"
@@ -2127,24 +2161,29 @@ msgid "Show error"
 msgstr ""
 
 #: view_program_rule
+#, fuzzy
 msgid "View program rules"
-msgstr ""
+msgstr "Ver etapas de programa"
 
 #: program_rule_management
+#, fuzzy
 msgid "Program rule management"
-msgstr ""
+msgstr "Administración de etapa de programa"
 
 #: create_new_program_rule
+#, fuzzy
 msgid "Create new program rule"
-msgstr ""
+msgstr "Crear nueva etapa de programa"
 
 #: program_rule_details
+#, fuzzy
 msgid "Program rule details"
-msgstr ""
+msgstr "Detalles de etapa"
 
 #: source_program_stage
+#, fuzzy
 msgid "Source program stage"
-msgstr ""
+msgstr "Editar etapa de programa"
 
 #: source_dataElement
 msgid "Source DataElement"
@@ -2175,12 +2214,14 @@ msgid "Source type"
 msgstr ""
 
 #: confirm_delete_program_rule
+#, fuzzy
 msgid "Are you sure you want to delete program rule?"
-msgstr ""
+msgstr "¿Está seguro de querer eliminar esta etapa del programa?"
 
 #: edit_program_rule
+#, fuzzy
 msgid "Edit program rule"
-msgstr ""
+msgstr "Editar etapa de programa"
 
 #: please_enter_error_message
 msgid "Please enter error message"
@@ -2223,12 +2264,14 @@ msgid "Filter description"
 msgstr ""
 
 #: select_program_stage
+#, fuzzy
 msgid "Select program stage"
-msgstr ""
+msgstr "Editar etapa de programa"
 
 #: tei_attribute
+#, fuzzy
 msgid "Tracked entity attribute"
-msgstr ""
+msgstr "Editar atributos de entidad"
 
 #: design_custom_registration_form
 msgid "Design custom registration form"
@@ -2256,8 +2299,9 @@ msgid "Enrollment"
 msgstr ""
 
 #: tracked_entity_instance
+#, fuzzy
 msgid "Tracked entity instance"
-msgstr ""
+msgstr "Instancias de entidad"
 
 #: event_output_type
 msgid "Event output type"

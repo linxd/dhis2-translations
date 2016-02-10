@@ -4,14 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-12-04 06:21+0000\n"
+"Last-Translator: jmalcantara <jmalcantara@apunto.com.mx>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1449210091.0\n"
 
 #: intro_sms_service_configuration
 msgid "Configure SMS service"
@@ -30,8 +32,9 @@ msgid "Create, ppdate, view and delete command of SMS received."
 msgstr ""
 
 #: intro_j2me_client_update
+#, fuzzy
 msgid "J2ME Client Update Configuration "
-msgstr ""
+msgstr "Configuración de actualización de cliente J2ME"
 
 #: patient_mobile_setting
 msgid "Person Mobile Settings"
@@ -563,12 +566,12 @@ msgstr ""
 #: KEY_VALUE_PARSER
 msgctxt "KEY_VALUE_PARSER"
 msgid "Key Value Parser"
-msgstr ""
+msgstr "Analizador de valores clave"
 
 #: J2ME_PARSER
 msgctxt "J2ME_PARSER"
 msgid "J2ME Parser"
-msgstr ""
+msgstr "Analizador J2ME"
 
 #: ALERT_PARSER
 msgid "Alert Parser"

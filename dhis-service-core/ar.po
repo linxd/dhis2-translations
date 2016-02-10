@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2015-10-07 08:19+0000\n"
+"PO-Revision-Date: 2015-12-04 06:24+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
@@ -14,8 +14,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
-"X-POOTLE-MTIME: 1444205944.0\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1449210277.0\n"
 
 #: district_health_information_software
 msgid "District Health Information Software 2"
@@ -2739,7 +2739,7 @@ msgstr "النمط "
 
 #: value_type
 msgid "Value Type"
-msgstr ""
+msgstr "نوع القيمة"
 
 #: actual
 msgid "Actual"
@@ -2815,8 +2815,9 @@ msgid "User groups"
 msgstr "مجموعات المستخدم"
 
 #: pivot_tables
+#, fuzzy
 msgid "Pivot tables"
-msgstr ""
+msgstr "جدول محوري "
 
 #: charts
 msgid "Charts"
@@ -2827,8 +2828,9 @@ msgid "Maps"
 msgstr ""
 
 #: dashboards
+#, fuzzy
 msgid "Dashboards"
-msgstr ""
+msgstr "لوحة العدادات"
 
 #: programs
 msgid "Programs"
@@ -3639,12 +3641,14 @@ msgid "Data value is not a valid date"
 msgstr "قيمة البيانات ليست تاريخا صالحا"
 
 #: stored_by_length_greater_than_max_length
+#, fuzzy
 msgid "Stored by is greater than max length"
-msgstr ""
+msgstr "قيمة البيانات اكبر من الحد الأقصى للطول"
 
 #: comment_length_greater_than_max_length
+#, fuzzy
 msgid "Comment is greater than max length"
-msgstr ""
+msgstr "قيمة البيانات اكبر من الحد الأقصى للطول"
 
 #. #-- calendars -----------------------------------------------------------------#
 #: islamic
