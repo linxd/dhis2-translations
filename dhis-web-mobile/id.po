@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2015-12-26 05:18+0000\n"
+"PO-Revision-Date: 2016-01-22 05:17+0000\n"
 "Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1451107090.0\n"
+"X-POOTLE-MTIME: 1453439822.0\n"
 
 #: no_data_is_stored
 msgid "No data is stored"
@@ -21,7 +21,7 @@ msgstr "Tidak ada data yang disimpan"
 
 #: you_have
 msgid "You have"
-msgstr "Anda memilikinya"
+msgstr "Anda mempunyai"
 
 #: form_stored
 msgid "form stored"
@@ -29,19 +29,19 @@ msgstr "Formulir telah disimpan"
 
 #: forms_stored
 msgid "forms stored"
-msgstr "Formulir-formulir telah disimpan"
+msgstr "Semua formulir telah disimpan"
 
 #: aggregate_reporting
 msgid "Aggregate Reporting"
-msgstr "Pelaporan Aggregrate"
+msgstr "Pelaporan Aggregrat"
 
 #: unable_to_send_reply
 msgid "Unable to send reply, please try again later"
-msgstr "Tidak dapat mengirimkan balasan, Silakan dicoba kembali"
+msgstr "Tidak dapat mengirimkan balasan, silakan coba kembali"
 
 #: unable_to_get_inbox
 msgid "Unable to get inbox, please try again later"
-msgstr "Tidak dapat membuka kotak masuk, silakan dicoba kembali"
+msgstr "Tidak dapat membuka kotak masuk, silakan coba kembali"
 
 #: no_messages
 msgid "No messages"
@@ -53,16 +53,16 @@ msgstr "Tidak ada yang dipilih"
 
 #: no_organisation_units_for_data_entry
 msgid "No organisation units available for data entry"
-msgstr "Tidak terdapat organisation units dalam data entri"
+msgstr "Tidak terdapat unit-unit organisasi dalam data entri"
 
 #: change_to_invalid_page
 msgid "Tried changing to invalid page"
-msgstr "Tried changing to invalid page"
+msgstr "Mengubah halaman yang invalid"
 
 #: logout
 msgid "Log out"
-msgstr "Logout"
+msgstr "Keluar"
 
 #: send_and_complete
 msgid "Send and Complete"
-msgstr "Kirim dan Lengkapi"
+msgstr "Kirim dan Selesai"

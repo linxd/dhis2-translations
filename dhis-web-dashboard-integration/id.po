@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2015-12-31 06:34+0000\n"
+"PO-Revision-Date: 2016-01-25 09:21+0000\n"
 "Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1451543692.0\n"
+"X-POOTLE-MTIME: 1453713676.0\n"
 
 #: dashboard
 msgid "Dashboard"
@@ -21,7 +21,7 @@ msgstr "Dashboard"
 
 #: insert
 msgid "Insert"
-msgstr "Sisipkan"
+msgstr "Insert"
 
 #: close
 msgid "Close"
@@ -49,17 +49,17 @@ msgstr "Sumber Data"
 
 #: report_table
 msgid "Report tables"
-msgstr "Report tables"
+msgstr "Tabel pelaporan"
 
 #: map_view
 msgctxt "map_view"
 msgid "Maps"
-msgstr "Peta"
+msgstr "Maps"
 
 #: map
 msgctxt "map"
 msgid "Maps"
-msgstr "Peta"
+msgstr "Maps"
 
 #: this_is_a_link_area
 msgid "This is a link area"
@@ -67,7 +67,7 @@ msgstr "Link Area"
 
 #: click_insert_and_select_link
 msgid "Click insert and select links"
-msgstr "Klik sisipkan dan pilih link yang akan dituju"
+msgstr "Klik insert dan pilih link yang akan dituju"
 
 #: this_is_a_chart_area
 msgid "This is a chart area"
@@ -99,7 +99,7 @@ msgstr "Subyek"
 
 #: remove
 msgid "Remove"
-msgstr "Pindahkan"
+msgstr "Buang"
 
 #: write_message
 msgid "Write message"
@@ -135,7 +135,7 @@ msgstr "Menandai untuk dilakukan follow up"
 
 #: clear_followup
 msgid "Clear followup"
-msgstr "Hapus followup"
+msgstr "Hapus follow up"
 
 #: read
 msgid "Read"
@@ -179,7 +179,7 @@ msgstr "Silakan memasukkan subyek"
 
 #: enter_text
 msgid "Please enter text"
-msgstr "Masukkan tulisan"
+msgstr "Silakan tulis"
 
 #: reply
 msgid "Reply"
@@ -191,7 +191,7 @@ msgstr "Username"
 
 #: user_roles
 msgid "User roles"
-msgstr "Peran pengguna"
+msgstr "Peran user"
 
 #: user_usergroups
 msgid "User/User Groups"
@@ -211,7 +211,7 @@ msgstr "Kirim pesan"
 
 #: explore
 msgid "Explore"
-msgstr "Jelajah"
+msgstr "Explore"
 
 #: interpretations
 msgid "Interpretations"
@@ -219,11 +219,11 @@ msgstr "Penafsiran"
 
 #: share_your_own_interpretations_from
 msgid "Share your own interpretations from"
-msgstr "Bagikan penafsiran anda"
+msgstr "Bagikan interpretasi anda dari"
 
 #: gis
 msgid "GIS"
-msgstr "SIG"
+msgstr "GIS"
 
 #: pivot_table
 msgid "Pivot table"
@@ -243,19 +243,19 @@ msgstr "Penafsiran baru"
 
 #: click_to_view_report_table
 msgid "Click to view report table"
-msgstr "Klik disini untuk melihat tampilan tabel laporan"
+msgstr "Klik disini untuk melihat tampilan tabel pelaporan"
 
 #: click_to_view_in_data_visualizer
 msgid "Click to view in Data Visualizer"
-msgstr "Klik disini untuk melihat tampilan data"
+msgstr "Klik disini untuk melihat Visualisasi Data (Data Visualizer)"
 
 #: click_to_view_in_gis
 msgid "Click to view in GIS"
-msgstr "Klik disini untuk melihat tampilan dalam SIG"
+msgstr "Klik disini untuk melihat tampilan dalam GIS"
 
 #: click_to_view_data_set_report
 msgid "Click to view data set report"
-msgstr "Klik disini untuk melihat laporan data set"
+msgstr "Klik disini untuk melihat fitur data set"
 
 #: share
 msgid "Share"
@@ -263,15 +263,15 @@ msgstr "Bagikan"
 
 #: write_your_interpretation
 msgid "Write a comment, question or interpretation"
-msgstr "Tulis komentar, pertanyaan, atau penafsiran"
+msgstr "Tulis komentar, pertanyaan, atau interpretasi"
 
 #: share_your_interpretation_of
 msgid "Share your interpretation of"
-msgstr "Bagikan penafsiran Anda"
+msgstr "Bagikan interpretasi Anda"
 
 #: interpretation_was_shared
 msgid "Interpretation was shared"
-msgstr "Penafsiran telah dibagikan "
+msgstr "Interpretasi telah dibagikan"
 
 #: viewing
 msgid "Viewing"
@@ -283,15 +283,15 @@ msgstr "Dari"
 
 #: load_favorite_click_share
 msgid "load a favorite and click 'Share' on the top menu"
-msgstr "Tampilkan favorit dan klik 'bagikan' pada tampilan atas menu"
+msgstr "Tampilkan \"favorite\" dan klik 'bagikan' pada tampilan atas menu"
 
 #: generate_pivot_table_click_share
 msgid "generate a pivot table and click 'Share' on the top menu"
-msgstr "Buat laporan data set dan klik 'bagikan pada tampilan atas menu"
+msgstr "Buat tabel pivot dan klik 'bagikan' pada tampilan atas menu"
 
 #: share_interpretation
 msgid "Share interpretation"
-msgstr "Bagikan penafsiran"
+msgstr "Bagikan interpretasi"
 
 #: select_users_and_user_groups
 msgid "Select users and user groups"
@@ -305,7 +305,7 @@ msgstr ""
 
 #: generate_data_set_report_click_share
 msgid "generate a data set report and click 'Share' on the top menu"
-msgstr "Buat laporan data set dan klik 'bagikan pada tampilan atas menu"
+msgstr "Buat data set dan klik 'bagikan pada tampilan atas menu"
 
 #: data_visualizer
 msgid "Data visualizer"
@@ -317,7 +317,7 @@ msgstr "Laporan set data"
 
 #: search_for_users_charts_maps_reports
 msgid "Search for users, charts, maps, reports and resources"
-msgstr "Pencarian pengguna, grafik, peta, dan laporan"
+msgstr "Pencarian pengguna, grafik, maps, dan sumber data"
 
 #: no_hits
 msgid "No hits, try again"
@@ -389,7 +389,7 @@ msgstr "Tarik ke atas"
 
 #: latest_interpretations
 msgid "Latest interpretations"
-msgstr "Penafsiran terbaru"
+msgstr "Interpretasi terbaru"
 
 #: view_full_profile
 msgid "View full profile"
@@ -401,15 +401,15 @@ msgstr "Tampilkan ukuran penuh"
 
 #: click_to_explore
 msgid "Click to explore"
-msgstr "Klik untuk menjelajah"
+msgstr "Klik untuk explore"
 
 #: to_org_unit
 msgid "To org unit"
-msgstr "ke unit kerja"
+msgstr "Ke unit organisasi"
 
 #: to_user
 msgid "To user"
-msgstr "ke pengguna"
+msgstr "Ke User"
 
 #: update_profile
 msgid "update profile!"
@@ -453,27 +453,28 @@ msgstr "Klik 'Tambah Baru' untuk mulai"
 
 #: add_stuff_by_searching
 msgid "Add stuff by searching from the search field above"
-msgstr "Add stuff by searching from the search field above"
+msgstr ""
+"Tambahkan item untuk melakukan pencarian dari kolom 'cari' di bagian atas"
 
 #: arrange_dashboard_by_dragging_and_dropping
 msgid "Then arrange dashboard by dragging and dropping items"
-msgstr "Then arrange dashboard by dragging and dropping items"
+msgstr "Silakan mengkustomisasi dashboard dengan fitur \"drag dan drop\""
 
 #: click_to_explore_drag_to_new_position
 msgid "Click to explore or drag to new position"
-msgstr "Klik untuk eksplor atau drag ke posisi yang baru"
+msgstr "Klik untuk explore atau drag ke posisi yang baru"
 
 #: click_and_drag_to_new_position
 msgid "Click and drag to new position"
-msgstr "Klik dan drag ke posisi yang baru"
+msgstr "Klik dan pindahkan ke posisi yang baru"
 
 #: drag_to_new_position
 msgid "Drag to new position"
-msgstr "Drag ke posisi yang baru"
+msgstr "Pindahkan ke posisi yang baru"
 
 #: system_notification
 msgid "System notification"
-msgstr "Sistem notifikasi"
+msgstr "Notifikasi Sistem"
 
 #: and
 msgid "and"
@@ -481,7 +482,7 @@ msgstr "dan"
 
 #: more
 msgid "more"
-msgstr "more"
+msgstr "selanjutnya"
 
 #: see_more_hits
 msgid "See more hits"
@@ -521,7 +522,7 @@ msgstr "Applies to favorites with \"user org units\" only"
 
 #: user_org_unit_filter
 msgid "User organisation unit filter"
-msgstr "Filter user organisasi unit"
+msgstr "Filter user unit organisasi"
 
 #: download
 msgid "Download"
@@ -529,7 +530,7 @@ msgstr "Download"
 
 #: api_link
 msgid "API link"
-msgstr "API link"
+msgstr "Link API"
 
 #: get_as_image
 msgid "Get as image"

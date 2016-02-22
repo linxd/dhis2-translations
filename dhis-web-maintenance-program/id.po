@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2016-01-02 11:10+0000\n"
+"PO-Revision-Date: 2016-02-22 04:31+0000\n"
 "Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -13,11 +13,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1451733014.0\n"
+"X-POOTLE-MTIME: 1456115474.0\n"
 
 #: groupBy
 msgid "Group by"
-msgstr "Group by"
+msgstr "Dikelompokkan berdasarkan"
 
 #: equal_to
 msgctxt "equal_to"
@@ -48,27 +48,27 @@ msgstr "Apakah setara dengan domain tracked entity?"
 
 #: group
 msgid "Group"
-msgstr "Group"
+msgstr "Grup"
 
 #: duplicate_names
 msgid "Name is already in use"
-msgstr "Name is already in use"
+msgstr "Nama telah digunakan"
 
 #: hide_details
 msgid "Hide details"
-msgstr "Hide details"
+msgstr "Sembunyikan detail"
 
 #: please_select
 msgid "Please select"
-msgstr "Please select"
+msgstr "Silakan pilih"
 
 #: is
 msgid "is"
-msgstr "is"
+msgstr "adalah"
 
 #: confirm_delete_relationship_type
 msgid "Are you sure you want to delete relationship type?"
-msgstr "Are you sure you want to delete relationship type?"
+msgstr "Apakah anda ingin menghapus relationship type?"
 
 #: relationship_description
 msgid "Relationship (e.g. Mother-Child)"
@@ -76,55 +76,55 @@ msgstr "Hubungan (contoh Ibu-Anak)"
 
 #: relationship_type
 msgid "Relationship type"
-msgstr "Relationship type"
+msgstr "Tipe hubungan"
 
 #: relationship_type_details
 msgid "Relationship type details"
-msgstr "Relationship type details"
+msgstr "Detail tipe hubungan"
 
 #: a_is_to_b
 msgid "A is to B"
-msgstr "A is to B"
+msgstr "A untuk B"
 
 #: b_is_to_a
 msgid "B is to A"
-msgstr "B is to A"
+msgstr "B untuk A"
 
 #: edit_relationship_type
 msgid "Edit relationship type"
-msgstr "Edit relationship type"
+msgstr "Edit tipe hubungan"
 
 #: create_new_relationship_type
 msgid "Create new relationship type"
-msgstr "Create new relationship type"
+msgstr "Buat tipe hubungan yang baru"
 
 #: relationship_type_management
 msgid "Relationship type management"
-msgstr "Relationship type management"
+msgstr "Manajemen tipe hubungan"
 
 #: or
 msgid "or"
-msgstr "or"
+msgstr "atau"
 
 #: age_days
 msgid "Age (days)"
-msgstr "Age (days)"
+msgstr "Usia (hari)"
 
 #: value_must_integer
 msgid "Value must be an integer"
-msgstr "Value must be an integer"
+msgstr "Nilai harus dalam bilangan bulat"
 
 #: program_stage
 msgid "Program Stage"
-msgstr "Program Stage"
+msgstr "Tahapan program"
 
 #: section_details
 msgid "Section details"
-msgstr "Section details"
+msgstr "Detail Section"
 
 #: close
 msgid "Close"
-msgstr "Close"
+msgstr "Tutup"
 
 #: edit_tracked_entity_attribute
 msgid "Edit tracked entity attribute"
@@ -133,11 +133,11 @@ msgstr "Edit tracked entity attribute"
 #: attribute
 msgctxt "attribute"
 msgid "Attribute"
-msgstr "Attribute"
+msgstr "Atribut"
 
 #: value_type
 msgid "Value type"
-msgstr "Value Type"
+msgstr "Tipe nilai"
 
 #: legend_set
 msgid "Legend set"
@@ -145,11 +145,11 @@ msgstr "Legend set"
 
 #: create_new_tracked_entity_attribute
 msgid "Create new tracked entity attribute"
-msgstr "Create new tracked entity attribute"
+msgstr "Buat tracked entity attribute baru"
 
 #: confirm_delete_tracked_entity_attribute
 msgid "Are you sure you want to delete this tracked entity attribute?"
-msgstr "Are you sure you want to delete this tracked entity attribute?"
+msgstr "Apakah anda yakin ingin menghapus tracked entity attribute ini?"
 
 #: tracked_entity_attribute_management
 msgid "Tracked entity attribute management"
@@ -157,7 +157,7 @@ msgstr "Tracked entity attribute management"
 
 #: name_in_use
 msgid "Name is in use"
-msgstr "Name in use"
+msgstr "Nama sedang digunakan"
 
 #: short_name_in_use
 msgid "Short name in use"
@@ -169,79 +169,79 @@ msgstr "Kode tersebut sudah digunakan"
 
 #: sort
 msgid "Sort"
-msgstr "Sort"
+msgstr "Urutkan"
 
 #: value_must_positive
 msgid "Value must be a positive number"
-msgstr "Value must be a positive number"
+msgstr "Nilai harus bilangan bulat positif"
 
 #: invalid_min_max_days
 msgid "Invalid min-max days combination"
-msgstr "Invalid min-max days combination"
+msgstr "Min-max kombinasi hari yang invalid"
 
 #: please_select_program
 msgid "Please select a program"
-msgstr "Please select a program"
+msgstr "Silakan pilih program"
 
 #: program_stage_management
 msgid "Program stage management"
-msgstr "Program stage management"
+msgstr "Manajemen tahapan program"
 
 #: view_program_stages
 msgid "View program stages"
-msgstr "View program stages"
+msgstr "Tampilkan tahapan program"
 
 #: assign_program_to_orgunits
 msgid "Assign program to organisation units"
-msgstr "Assign program to organisation units"
+msgstr "Tetapkan program untuk unit-unit organisasi"
 
 #: programs
 msgid "Programs"
-msgstr "Programs"
+msgstr "Program-program"
 
 #: no_of_dataelements
 msgid "Number of data elements to be collected"
-msgstr "Number of data elements to be collected"
+msgstr "Jumlah elemen data yang akan dikumpulkan"
 
 #: adding_program_stage_failed
 msgid "Adding program stage failed"
-msgstr "Adding program stage failed"
+msgstr "Penambahan tahapan program gagal"
 
 #: updating_program_stage_failed
 msgid "Updating program stage failed"
-msgstr "Updating program stage failed"
+msgstr "Update tahapan program gagal"
 
 #: confirm_delete_prorgam_stage
 msgid "Are you sure you want to delete this program stage?"
-msgstr "Are you sure you want to delete this program stage?"
+msgstr "Apakah anda yakin ingin menghapus tahapan program ini?"
 
 #: available_data_elements
 msgid "Available data elements"
-msgstr "Available data elements"
+msgstr "Elemen data tersedia"
 
 #: selected_data_elements
 msgid "Selected data elements"
-msgstr "Selected data elements"
+msgstr "Elemen data terpilih"
 
 #: program_stage_details
 msgid "Program stage details"
-msgstr "Program stage details"
+msgstr "Detail tahapan program"
 
 #: edit_program_stage
 msgid "Edit program stage"
-msgstr "Edit program stage"
+msgstr "Edit tahapan program"
 
 #: create_new_program_stage
 msgid "Create new program stage"
-msgstr "Create new program stage"
+msgstr "Buat tahapan program baru"
 
 #: order
 msgid "Order in program"
-msgstr "Order in program"
+msgstr "Susun dalam program"
 
 #: program_details
 msgid "Program details"
-msgstr "Program details"
+msgstr "Detail program"
 
 #: edit_program
 msgid "Edit program"
@@ -249,41 +249,41 @@ msgstr "Edit program"
 
 #: confirm_delete_prorgam
 msgid "Are you sure you want to delete this program?"
-msgstr "Are you sure you want to delete this program?"
+msgstr "Apakah anda ingin menghapus program ini?"
 
 #: create_new_program
 msgid "Create new program"
-msgstr "Create new program"
+msgstr "Buat program baru"
 
 #: search
 msgid "Search"
-msgstr "Search"
+msgstr "Cari"
 
 #: select
 msgid "Select"
-msgstr "Select"
+msgstr "Pilih"
 
 #: organisation_unit
 msgctxt "organisation_unit"
 msgid "Organisation unit"
-msgstr "Organisation unit"
+msgstr "Unit organisasi"
 
 #: add
 msgid "Add"
-msgstr "Add"
+msgstr "Tambah"
 
 #: program_management
 msgid "Program management"
-msgstr "Program management"
+msgstr "Manajemen program"
 
 #: everything_is_ok
 msgid "Everything is OK"
-msgstr "Everything is OK"
+msgstr "Semua OK"
 
 #: tracked_entity_attribute
 msgctxt "tracked_entity_attribute"
 msgid "Attribute"
-msgstr "Attribute"
+msgstr "Atribut"
 
 #: program
 msgid "Program"
@@ -299,12 +299,12 @@ msgstr "Aggregation query builder management"
 
 #: dataelements
 msgid "Data elements"
-msgstr "Data elements"
+msgstr "Elemen data"
 
 #: tracked_entity_attributes
 msgctxt "tracked_entity_attributes"
 msgid "Attributes"
-msgstr "Attributes"
+msgstr "Atribut"
 
 #: operator
 msgid "Operator"
@@ -312,15 +312,15 @@ msgstr "Operator"
 
 #: dataentryform_management_for_program_stage
 msgid "Data entry form management for program stage"
-msgstr "Data entry form management for program stage"
+msgstr "Manajemen formulir entri data untuk tahapan program"
 
 #: choose_existing_dataentry
 msgid "Choose existing data entry form"
-msgstr "Choose existing data entry form"
+msgstr "Pilih formulir entri data yang ada"
 
 #: dataentryform_details
 msgid "Data entry form details"
-msgstr "Data entry form details"
+msgstr "Detail formulir entri data"
 
 #: data_entry_form
 msgid "Data entry form"
@@ -328,7 +328,7 @@ msgstr "Formulir data entri"
 
 #: blood_group
 msgid "Blood group"
-msgstr "Blood group"
+msgstr "Golongan darah"
 
 #: attribute_options
 msgid "Attribute options"
@@ -336,11 +336,11 @@ msgstr "Attribute options"
 
 #: add_more_option
 msgid "Add Option"
-msgstr "Add Option"
+msgstr "Tambah Option"
 
 #: mandatory
 msgid "Mandatory"
-msgstr "Mandatory"
+msgstr "Wajib"
 
 #: tracked_entity_attribute_group_management
 msgid "Tracked entity attribute group management"
@@ -348,29 +348,29 @@ msgstr "Tracked entity attribute group management"
 
 #: move_selected
 msgid "Move selected items"
-msgstr "Move selected items"
+msgstr "Pindahkan item terpilih"
 
 #: remove_selected
 msgid "Remove selected items"
-msgstr "Remove selected items"
+msgstr "Pindahkan item terpilih"
 
 #: availableAttribute
 msgctxt "availableAttribute"
 msgid "Available attributes"
-msgstr "Available attributes"
+msgstr "Atribut yang tersedia"
 
 #: selectedAttribute
 msgid "Selected attributes"
-msgstr "Selected attributes"
+msgstr "Atribut terpilih"
 
 #: tracked_entity_attribute_group_deltails
 msgid "Tracked entity attribute group details"
-msgstr "Tracked entity attribute group details"
+msgstr "Detail tracked entity attribute group"
 
 #: tracked_entity_attribute_group
 msgctxt "tracked_entity_attribute_group"
 msgid "Attribute Group"
-msgstr "Grup Attribute"
+msgstr "Grup Atribut"
 
 #: edit_tracked_entity_attribute_group
 msgid "Edit tracked entity attribute group"
@@ -378,23 +378,23 @@ msgstr "Edit tracked entity attribute group"
 
 #: create_new_tracked_entity_attribute_group
 msgid "Create new tracked entity attribute group"
-msgstr "Create new tracked entity attribute group"
+msgstr "Buat tracked entity attribute group baru"
 
 #: delete_successfull
 msgid "Deleted successfully"
-msgstr "This option has relationship with tracked entity attribute values"
+msgstr "Option ini memiliki hubungan dengan tracked entity attribute values"
 
 #: warning_delete_tracked_entity_attribute_option
 msgid "This option has relationship with tracked entity attribute values"
-msgstr "This option has relationship with tracked entity attribute values"
+msgstr "Option ini memiliki hubungan dengan tracked entity attribute values"
 
 #: success_delete_tracked_entity_attribute_option
 msgid "Deleted tracked entity attribute option successfully"
-msgstr "Deleted tracked entity attribute option successfully"
+msgstr "Tracked entity attribute option berhasil terhapus"
 
 #: error_delete_tracked_entity_attribute_option
 msgid "Can not find tracked entity attribute option to delete"
-msgstr "Can not find tracked entity attribute option to delete"
+msgstr "Tidak dapat menemukan tracked entity attribute option untuk menghapus"
 
 #: combo
 msgid "Predefined value"
@@ -402,108 +402,111 @@ msgstr "Predefined value"
 
 #: related
 msgid "Related"
-msgstr "Related"
+msgstr "Terhubung"
 
 #: validation_criteria
 msgid "Validation Criteria"
-msgstr "Validation Criteria"
+msgstr "Kriteria validasi"
 
 #: edit_validation_criteria
 msgid "Edit validation criteria"
-msgstr "Edit validation criteria"
+msgstr "Edit kriteria validasi"
 
 #: attribute_group
 msgctxt "attribute_group"
 msgid "Attribute Group"
-msgstr "Grup Attribute"
+msgstr "Grup Atribut"
 
 #: attribute_visit_schedule
 msgctxt "attribute_visit_schedule"
 msgid "Attribute Visit Schedule"
-msgstr "Attribute Visit Schedule"
+msgstr "Atribut jadwal kunjungan"
 
 #: create_validation_criteria
 msgid "Create validation criteria"
-msgstr "Create validation criteria"
+msgstr "Buat kriteria validasi"
 
 #: intro_attribute
 msgid ""
 "Create, modify and view tracked entity attributes. An attribute can be used "
 "to register extra information for a tracked entity."
 msgstr ""
-"Create, modify and view tracked entity attributes. An attribute can be used "
-"to register extra information for a tracked entity."
+"Buat, modifikasi dan tampilkan atribut tracked entity. Atribut dapat "
+"digunakan untuk mendaftarkan ekstra informasi untuk tracked entity."
 
 #: intro_attribute_group
 msgid ""
 "Create, modify and view tracked entity attribute groups. Groups makes it "
 "more convenient to add attributes to a tracked entity."
 msgstr ""
-"Create, modify and view tracked entity attribute groups. Groups makes it "
-"more convenient to add attributes to a tracked entity."
+"Buat, modifikasi dan tampilkan grup atribut tracked entity. Grup membuatnya "
+"lebih nyaman untuk menambahkan atribut untuk tracked entity."
 
 #: intro_attribute_visit_schedule
 msgid ""
 "Define which attributes to use in messages sent to clients regarding "
 "scheduled visits."
 msgstr ""
-"Define which attributes to use in messages sent to clients regarding "
-"scheduled visits."
+"Definisikan atribut mana yang digunakan dalam pesan terkirim untuk klien "
+"dalam kunjungan yang terjadwalkan"
 
 #: intro_relationship_type
 msgid ""
 "Create, modify and view relationship types. A relationship is typically wife "
 "and husband or mother and child."
 msgstr ""
-"Create, modify and view relationship types. A relationship is typically wife "
-"and husband or mother and child."
+"Buat, modifikasi dan tampilkan tipe hubungan. Hubungan seperti istri dan "
+"suami atau ibu dan anak"
 
 #: intro_program
 msgid ""
 "Create, modify and view programs. A program has program stages and defines "
 "which actions should be taken at each stage."
 msgstr ""
-"Create, modify and view programs. A program has program stages and defines "
-"which actions should be taken at each stage."
+"Buat, modifikasi dan tampilkan program. Sebuah program memiliki tahapan "
+"program dan mendefinisikan aktivitas mana yang seharusnya dilakukan di "
+"setiap tahap."
 
 #: intro_aggregation_query_builder
 msgid ""
 "Set up aggregation rules for the process of aggregating tracked entity data "
 "to statistical data."
 msgstr ""
-"Set up aggregation rules for the process of aggregating tracked entity data "
-"to statistical data."
+"Set up aggregation rules untuk proses aggregating tracked entity data untuk "
+"kepentingan data statistik"
 
 #: intro_schedule_automated_message_reminder
 msgid ""
 "Set reminders to be automatically sent to enrolled tracked entity instances "
 "before scheduled appointments and after missed visits."
 msgstr ""
-"Set reminders to be automatically sent to enrolled persons before scheduled "
-"appointments and after missed visits."
+"Set pengingat dalam kondisi otomatis terkirim untuk didaftarkan tracked "
+"entity instances sebelum jadwad yang disepakati dan setelah kunjungan yang "
+"terlewati"
 
 #: intro_program_attribute
 msgid ""
 "Create, modify and view program attributes. A program can have any number of "
 "attributes."
 msgstr ""
-"Create, modify and view program attributes. A program can have any number of "
-"attributes."
+"Buat, modifikasi dan tampilkan atribut program.Program dapat memiliki "
+"beberapa atribut."
 
 #: intro_configuration
 msgid ""
 "Set the Excel XML template file used for automatically importing tracked "
 "entity instance data."
 msgstr ""
-"Set the Excel XML template file used for automatically importing person data."
+"Set file Excel XML template digunakan untuk mengimpor tracked entity "
+"instance data secara otomatis."
 
 #: intro_tracked_entity
 msgid ""
 "Define types of entities which can be tracked through the system, which can "
 "be anything from persons to commodities."
 msgstr ""
-"Define types of entities which can be tracked through the system, which can "
-"be anything from persons to commodities."
+"Definisikan tipe-tipe entity yang dapat diketahui melalui sistem, yang bisa "
+"apa saja dari orang sampai komoditas"
 
 #: inheritable
 msgid "Inheritable"
@@ -515,11 +518,11 @@ msgstr "Tracked entity attribute details"
 
 #: search_result
 msgid "Search result"
-msgstr "Search result"
+msgstr "Hasil pencarian"
 
 #: criteria
 msgid "Criteria"
-msgstr "Criteria"
+msgstr "Kriteria"
 
 #: operator_less_then
 msgctxt "operator_less_then"
@@ -538,51 +541,51 @@ msgstr ">"
 
 #: left_side
 msgid "Left side"
-msgstr "Left side"
+msgstr "Sisi sebelah kiri"
 
 #: right_side
 msgid "Right side"
-msgstr "Right side"
+msgstr "Sisi sebelah kanan"
 
 #: validation
 msgid "Validation"
-msgstr "Validation"
+msgstr "Validasi"
 
 #: field_is_required
 msgid "This field is required"
-msgstr "This field is required"
+msgstr "Kolom ini sudah terisi"
 
 #: number_of_attribute
 msgid "Number of attributes"
-msgstr "Number of attributes"
+msgstr "Jumlah atribut"
 
 #: available_program
 msgid "Available programs"
-msgstr "Available programs"
+msgstr "Program yang tersedia"
 
 #: selected_program
 msgid "Selected programs"
-msgstr "Selected programs"
+msgstr "Program terpilih"
 
 #: object_not_deleted_associated_by_objects
 msgid "Object not deleted because it is associated by objects of type"
-msgstr "Object not deleted because it is associated by objects of type"
+msgstr "Obyek tidak terhapus karena berhubungan dengan tipe obyek"
 
 #: confirm_delete_validation_criteria
 msgid "Are you sure you want to delete this validation criteria?"
-msgstr "Are you sure you want to delete this validation criteria?"
+msgstr "Apakah anda yakin ingin menghapus kriteria validasi ini?"
 
 #: specify_dataelememt
 msgid "Please specify a data element"
-msgstr "Please specify a data element"
+msgstr "Silahkan tentukan elemen data"
 
 #: processing
 msgid "Processing"
-msgstr "Processing"
+msgstr "Sedang dalam proses"
 
 #: done
 msgid "Done"
-msgstr "Done"
+msgstr "Selesai"
 
 #: decimals_in_data_output
 msgid "Decimals in data output"
@@ -590,73 +593,73 @@ msgstr "Desimal pada output data"
 
 #: other_program_stage_data_element
 msgid "Other program stage data element"
-msgstr "Other program stage data element"
+msgstr "Elemen data tahapan program lain "
 
 #: load_existed_form
 msgid "Load existing form"
-msgstr "Load existing form"
+msgstr "Load formulir yang tersedia"
 
 #: design_dataentry_form
 msgctxt "design_dataentry_form"
 msgid "Design data entry form"
-msgstr "Design data entry form"
+msgstr "Design formulir entri data"
 
 #: dataelement_is_inserted
 msgid "This data element is inserted in form"
-msgstr "This data element is inserted in form"
+msgstr "Elemen data ini telah dimasukkan dalam formulir"
 
 #: compulsory
 msgid "Compulsory"
-msgstr "Compulsory"
+msgstr "Wajib"
 
 #: design_data_entry_form
 msgctxt "design_data_entry_form"
 msgid "Design data entry form"
-msgstr "Design data entry form"
+msgstr "Design entri data formulir"
 
 #: no_of_char
 msgid "Number of characters"
-msgstr "Number of characters"
+msgstr "Jumlah karakter"
 
 #: letter_only
 msgid "Letter Only"
-msgstr "Letter Only"
+msgstr "Huruf saja"
 
 #: program_attribute
 msgid "Program Attribute"
-msgstr "Program Attribute"
+msgstr "Atribut program"
 
 #: program_attribute_management
 msgid "Program attribute management"
-msgstr "Program attribute management"
+msgstr "Manajemen atribut program"
 
 #: create_new_program_attribute
 msgid "Create new program attribute"
-msgstr "Create new program attribute"
+msgstr "Buat atribut program baru"
 
 #: edit_program_attribute
 msgid "Edit program attribute"
-msgstr "Edit program attribute"
+msgstr "Edit atribut program"
 
 #: import
 msgid "Import"
-msgstr "Import"
+msgstr "Impor"
 
 #: import_data
 msgid "Import Data"
-msgstr "Import Data"
+msgstr "Impor Data"
 
 #: configuration
 msgid "Configuration"
-msgstr "Configuration"
+msgstr "Konfigurasi"
 
 #: row
 msgid "Row"
-msgstr "Row"
+msgstr "Baris"
 
 #: duplicate
 msgid "Duplicate"
-msgstr "Duplicate"
+msgstr "Duplikasikan"
 
 #: option_combo
 msgid "Option combination"
@@ -684,11 +687,11 @@ msgstr "Program properties"
 
 #: validation_criteria_details
 msgid "Validation criteria details"
-msgstr "Validation criteria details"
+msgstr "Detail kriteria validasi"
 
 #: program_attribute_details
 msgid "Program attribute details"
-msgstr "Program attribute details"
+msgstr "Detail atribut program"
 
 #: select_program
 msgid "Select program"
@@ -696,15 +699,15 @@ msgstr "Pilih program"
 
 #: create_new_program_validation_rule
 msgid "Create new program validation rule"
-msgstr "Create new program validation rule"
+msgstr "Pilih program validation rule baru"
 
 #: add_multi_program_validation_rule
 msgid "Add multi-program validation rule"
-msgstr "Add multi program validation rule"
+msgstr "Tambahkan multi-program validation rule"
 
 #: program_validation_rule_details
 msgid "Program validation rule details"
-msgstr "Program validation rule details"
+msgstr "Detail program validation rule"
 
 #: view_validation_rules
 msgid "View validation rules"
@@ -712,19 +715,19 @@ msgstr "Tampilkan ketentuan validasi"
 
 #: scheduled_days_from_start
 msgid "Scheduled days from start"
-msgstr "Scheduled days from start"
+msgstr "Jadwalkan per hari dari awal"
 
 #: success_delete_program_attribute_option
 msgid "Deleted program attribute option successfully"
-msgstr "Deleted program attribute option successfully"
+msgstr "Program attribute option berhasil dihapus"
 
 #: validation_criteria_management
 msgid "Validation criteria management"
-msgstr "Validation criteria management"
+msgstr "Manajemen kriteria validasi"
 
 #: aggregation_data_element
 msgid "Aggregation data element"
-msgstr "Aggregation data element"
+msgstr "Elemen data agregasi"
 
 #: aggregation_expression
 msgid "Aggregation expression"
@@ -732,19 +735,19 @@ msgstr "Aggregation expression"
 
 #: aggregation_data_element_in_use
 msgid "Aggregation data element is in use"
-msgstr "Aggregation data element is in use"
+msgstr "Elemen data agregasi sedang digunakan"
 
 #: delete_program_data_entry_confirm
 msgid "Are you sure you want to delete this program data entry form?"
-msgstr "Are you sure you want to delete this program data entry form?"
+msgstr "Apakah anda ingin menghapus formulir program entri data ini? "
 
 #: save
 msgid "Save"
-msgstr "Save"
+msgstr "Simpan"
 
 #: must_select_one_dataelement
 msgid "Please select one data element"
-msgstr "Please select one data element"
+msgstr "Silahkan pilih satu elemen data"
 
 #: single_event
 msgid "Single event"
@@ -760,27 +763,27 @@ msgstr "DOB type"
 
 #: date_of_enrollment_description
 msgid "Description of enrollment date"
-msgstr "Description of enrollment date"
+msgstr "Deskripsi tanggal pendaftaran"
 
 #: date_of_incident_description
 msgid "Description of incident date"
-msgstr "Description of incident date"
+msgstr "Deskripsi tanggal insidensi"
 
 #: date_of_enrollment
 msgid "Date of enrollment"
-msgstr "Date of enrollment"
+msgstr "Tanggal pendaftaran"
 
 #: date_of_incident
 msgid "Date of incident"
-msgstr "Date of incident"
+msgstr "Tanggal insidensi"
 
 #: male
 msgid "Male"
-msgstr "Male"
+msgstr "Pria"
 
 #: female
 msgid "Female"
-msgstr "Female"
+msgstr "Wanita"
 
 #: transgender
 msgid "Trans-gender"
@@ -788,19 +791,19 @@ msgstr "Trans-gender"
 
 #: verified
 msgid "Verified"
-msgstr "Verified"
+msgstr "Terverifikasi"
 
 #: declared
 msgid "Declared"
-msgstr "Declared"
+msgstr "Diumumkan"
 
 #: approximated
 msgid "Approximated"
-msgstr "Approximated"
+msgstr "Kira-kira"
 
 #: others
 msgid "Others"
-msgstr "Others"
+msgstr "Yang lain"
 
 #: test_condition
 msgid "Test condition"
@@ -816,15 +819,15 @@ msgstr "Run failed"
 
 #: total_of_tracked_entity_registration
 msgid "Total of tracked entity instance registration"
-msgstr "Total of tracked entity instance registration"
+msgstr "Total dari pendaftaran tracked entity instance"
 
 #: repeatable
 msgid "Repeatable"
-msgstr "Repeatable"
+msgstr "Dapat diulang"
 
 #: date_of_birth
 msgid "Date of Birth"
-msgstr "Date of Birth"
+msgstr "Tanggal lahir"
 
 #: anonymous
 msgid "Anonymous"
@@ -838,55 +841,55 @@ msgstr "Edit program validation rule "
 #: age
 msgctxt "age"
 msgid "Age(years)"
-msgstr "Age"
+msgstr "Usia(tahun)"
 
 #: assign_validation_for_programs
 msgid "Assign validation for programs"
-msgstr "Assign validation for programs"
+msgstr "Tetapkan validasi untuk program"
 
 #: validation_for_date_data_elements
 msgid "Validation for date date elements"
-msgstr "Validation for date date elements"
+msgstr "Validasi untuk elemen data tanggal"
 
 #: before_current_date
 msgid "Before current date"
-msgstr "Before current date"
+msgstr "Sebelum tanggal yang ditentukan"
 
 #: before_or_equals_to_current_date
 msgid "Before or equal to current date"
-msgstr "Before or equal to current date"
+msgstr "Sebelum atau saat tanggal yang ditentukan"
 
 #: after_current_date
 msgid "After current date"
-msgstr "After current date"
+msgstr "Setelah tanggal saat ini"
 
 #: after_or_equals_to_current_date
 msgid "After or equal to current date"
-msgstr "After or equal to current date"
+msgstr "Setelah atau sama dengan tanggal saat ini"
 
 #: before_due_date
 msgid "Before due date"
-msgstr "Before due date"
+msgstr "Sebelum tanggal jatuh tempo"
 
 #: before_or_equals_to_due_date
 msgid "Before or equal to due date"
-msgstr "Before or equal to due date"
+msgstr "Sebelum atau saat hari H"
 
 #: after_due_date
 msgid "After due date"
-msgstr "After due date"
+msgstr "Setelah tanggal jatuh tempo"
 
 #: after_or_equals_to_due_date
 msgid "After or equal to due date"
-msgstr "After or equal to due date"
+msgstr "Setelah atau saat tanggal jatuh tempo"
 
 #: in_range_due_date
 msgid "In range due date"
-msgstr "In range due date"
+msgstr "Dalam kurun waktu tanggal jatuh tempo"
 
 #: data_element
 msgid "Data element"
-msgstr "Data element"
+msgstr "Elemen data"
 
 #: condition
 msgid "Condition"
@@ -894,27 +897,27 @@ msgstr "Kondisi"
 
 #: no_date_data_element_in_selected_program_stage
 msgid "No data elements of type date in the selected program stage"
-msgstr "No data elements with date-type in the selected program stage"
+msgstr "Tidak ada elemen data untuk tipe tanggal dalam tahapan program terpilih"
 
 #: shown_on_reports
 msgid "Shown on reports"
-msgstr "Shown on reports "
+msgstr "Tunjukkan dalam laporan"
 
 #: show_provided_provided_elsewhere
 msgid "Show provided elsewhere"
-msgstr "Show provided elsewhere"
+msgstr "Tunjukkan hal yang disediakan"
 
 #: available_values
 msgid "Available values"
-msgstr "Available values"
+msgstr "Nilai-nilai yang tersedia"
 
 #: insert_selected_values
 msgid "Insert selected values"
-msgstr "Insert selected values"
+msgstr "Masukkan nilai-nilai terpilih"
 
 #: display_provided_other_facility_column
 msgid "Display provided other facility column"
-msgstr "Display provided other facility column"
+msgstr "Tampilkan kolom fasilitas lain yang disediakan"
 
 #: tracked_entity_org_unit_registration
 msgid "Tracked entity org unit registration"
@@ -926,11 +929,11 @@ msgstr "Data set"
 
 #: filter_by_data_set
 msgid "Filter by data set"
-msgstr "Filter by data set"
+msgstr "Filter berdasarkan data set"
 
 #: show_all_item
 msgid "Show all items"
-msgstr "Show All Items"
+msgstr "Tampilkan semua item"
 
 #: with_registration
 msgid "With registration"
@@ -946,27 +949,27 @@ msgstr "for"
 
 #: standard_interval_days
 msgid "Standard interval days"
-msgstr "Standard interval days"
+msgstr "Interval hari-hari yang standar"
 
 #: program_enrollment
 msgid "Program enrollment"
-msgstr "Program enrollment"
+msgstr "Pendaftaran progran"
 
 #: due_date
 msgid "Due date"
-msgstr "Hari H"
+msgstr "Tanggal jatuh tempo"
 
 #: stage_visited
 msgid "Stage visited"
-msgstr "Stage visited"
+msgstr "Tahapan kunjungan"
 
 #: report_date
 msgid "Report date"
-msgstr "Report date"
+msgstr "Tanggal pelaporan"
 
 #: program_stage_properties
 msgid "Program stage properties"
-msgstr "Program stage properties"
+msgstr "Properties tahapan program"
 
 #: allow_provided_elsewhere
 msgid "Allow provided elsewhere"
@@ -974,19 +977,19 @@ msgstr "Allow provided elsewhere"
 
 #: save_success
 msgid "Saved successful"
-msgstr "Saved successful"
+msgstr "Berhasil tersimpan"
 
 #: sort_by_scheduled_days
 msgid "Sort by scheduled days"
-msgstr "Sort by scheduled days"
+msgstr "Urutkan sesuai dengan hari yang dijadwalkan"
 
 #: assign_program_to_orgunits_for_registering
 msgid "Assign program to organisation units for registering"
-msgstr "Assign program to organisation units for registering"
+msgstr "Tetapkan program unit organisasi untuk pendaftaran"
 
 #: visited_program_stage
 msgid "Visited program stage"
-msgstr "Visited program stage"
+msgstr "Tahapan program kunjungan"
 
 #: number_of_tracked_entity_instances
 msgid "Number of tracked entity instances"
@@ -994,128 +997,128 @@ msgstr "Jumlah tracked entity instances"
 
 #: number_of_visits
 msgid "Number of visits"
-msgstr "Number of visits"
+msgstr "Jumlah kunjungan"
 
 #: insert
 msgid "Insert "
-msgstr "Insert "
+msgstr "Masukkan"
 
 #: visit_selected_program_stage
 msgid "Visited selected program stage"
-msgstr "Visited selected program stage"
+msgstr "Kunjungi tahapan program terpilih"
 
 #: intro_tracked_entity_aggregation_query_builder
 msgid ""
 "Define formulas, expressions, rules for aggregation data from name-based to "
 "aggregation system"
 msgstr ""
-"Menetapkan rumus, ekspresi, aturan untuk data agregasi dari sistem agregasi "
-"berdasarkan nama"
+"Menetapkan rumus, expressions, aturan untuk data agregasi dari sistem "
+"agregasi berdasarkan nama"
 
 #: show_incident_date
 msgid "Show incidence date"
-msgstr "Show incident date"
+msgstr "Tampilkan tanggal insidensi"
 
 #: display_date_of_incident
 msgid "Display date of incident"
-msgstr "Display date of incident"
+msgstr "Tampilkan tanggal insidensi"
 
 #: tracked_entity_attribute_group_sort_order
 msgid "Tracked entity attribute group sort order"
-msgstr "Tracked entity attribute group sort order"
+msgstr "Urutkan susunan Tracked entity attribute group"
 
 #: visit_selected_program_stage_x_th_time
 msgid "Visit selected program stage n(th) time"
-msgstr "Visit selected program stage x(th) time"
+msgstr "Kunjungi tahapan program terpilih dalam satuan kali"
 
 #: program_stage_section
 msgid "Program stage section"
-msgstr "Program stage section"
+msgstr "Section tahapan program"
 
 #: create_new_program_stage_section
 msgid "Create new program stage section"
-msgstr "Create new program stage section"
+msgstr "Buat section tahapan program yang baru"
 
 #: update_program_stage_section
 msgid "Update program stage section"
-msgstr "Update program stage section"
+msgstr "Update section tahapan program"
 
 #: section_management
 msgid "Section management"
-msgstr "Section management"
+msgstr "Manajemen section"
 
 #: program_stage_section_sort_order
 msgid "Program stage section sort order"
-msgstr "Program stage section sort order "
+msgstr "Urutkan susunan section tahapan program"
 
 #: add_selected
 msgid "Add selected"
-msgstr "Add selected"
+msgstr "Tambah yang terpilih"
 
 #: add_all
 msgid "Add all"
-msgstr "Add all"
+msgstr "Tambah semua"
 
 #: available_attributes
 msgctxt "available_attributes"
 msgid "Available attributes"
-msgstr "Available attributes"
+msgstr "Atribut yang tersedia"
 
 #: select_attributes
 msgid "Select attributes"
-msgstr "Pilih attributes"
+msgstr "Pilih atribut"
 
 #: displayed_in_list
 msgid "Display in list"
-msgstr "Displayed in list"
+msgstr "Tampilkaan dalam daftar"
 
 #: report_date_description
 msgid "Description of report date"
-msgstr "Description of report date"
+msgstr "Deskripsi tanggal pelaporan"
 
 #: reminder_message_template
 msgid "Reminder message templates"
-msgstr "Reminder message template"
+msgstr "Template pesan pengingat "
 
 #: message
 msgid "Message"
-msgstr "Message"
+msgstr "Pesan"
 
 #: params
 msgid "Parameters"
-msgstr "Parameters"
+msgstr "Parameter"
 
 #: program_name
 msgid "Program name"
-msgstr "Program name"
+msgstr "Nama program"
 
 #: program_stage_name
 msgid "Program stage name"
-msgstr "Program stage name"
+msgstr "Nama tahapan program"
 
 #: orgunit_name
 msgid "Organisation unit name"
-msgstr "Organisation unit name"
+msgstr "Nama unit organisasi"
 
 #: days_since_due_date
 msgid "Days since due date"
-msgstr "Days since due date"
+msgstr "Hari sejak tanggal jatuh temo"
 
 #: scheduling
 msgid "Scheduling"
-msgstr "Scheduling"
+msgstr "Penjadwalan"
 
 #: schedule_automated_message_reminder
 msgid "Automated Message Reminder"
-msgstr "Automated Message Reminder"
+msgstr "Pesan pengingat otomatis"
 
 #: schedule
 msgid "Schedule"
-msgstr "Schedule"
+msgstr "Jadwal"
 
 #: start
 msgid "Start"
-msgstr "Start"
+msgstr "Mulai"
 
 #: stop
 msgid "Stop"
@@ -1123,43 +1126,43 @@ msgstr "Stop"
 
 #: scheduling_is
 msgid "Scheduling is"
-msgstr "Scheduling is"
+msgstr "Penjadwalan adalah"
 
 #: not_started
 msgid "not started"
-msgstr "not started"
+msgstr "belum dimulai"
 
 #: running
 msgid "active"
-msgstr "active"
+msgstr "aktif"
 
 #: gateway_type
 msgid "Gateway type"
-msgstr "Gateway type"
+msgstr "Tipe Gateway"
 
 #: execute
 msgid "Execute"
-msgstr "Execute"
+msgstr "Jalankan"
 
 #: time_for_sending_message
 msgid "Time for sending message"
-msgstr "Time for sending message"
+msgstr "Waktu untuk mengirimkan pesan"
 
 #: number_of_attributes
 msgid "The number of attributes"
-msgstr "The number of attributes"
+msgstr "Jumlah atribut"
 
 #: reminder
 msgid "Reminder"
-msgstr "Reminder"
+msgstr "Pengingat"
 
 #: remove_reminder
 msgid "Remove reminder"
-msgstr "Remove reminder"
+msgstr "Pindahkan pengingat"
 
 #: add_more
 msgid "Add more"
-msgstr "Add more ..."
+msgstr "Tambah lagi ..."
 
 #: inherit
 msgid "Inherit"
@@ -1179,7 +1182,7 @@ msgstr "Bukan tanggal insidensi"
 
 #: execute_success
 msgid "Executed successfully"
-msgstr "Execute successfully"
+msgstr "Berhasil dijalankan"
 
 #: plus
 msgid "Plus"
@@ -1187,60 +1190,61 @@ msgstr "Plus"
 
 #: diff_from
 msgid "Different from"
-msgstr "Different from"
+msgstr "Berbeda dari"
 
 #: not_null
 msgid "Not null"
-msgstr "Not null"
+msgstr "Bukan nol"
 
 #: confirm_delete_prorgam_stage_section
 msgid "Are you sure you want to delete this program stage section ?"
-msgstr "Are you sure you want to delete this program stage section ?"
+msgstr "Apakah anda ingin menghapus section tahapan program?"
 
 #: form_details
 msgid "Form details"
-msgstr "Form details"
+msgstr "Detail formulir"
 
 #: enrollment_details
 msgctxt "enrollment_details"
 msgid "Enrollment"
-msgstr "Enrollment details"
+msgstr "Pendaftaran"
 
 #: repeatable_program_stage_details
 msgid "Repeatable program stage details"
-msgstr "Repeatable program stage details"
+msgstr "Detail tahapan program yang dapat diulang"
 
 #: schedule_automated_aggregation
 msgid "Automated Aggregation"
-msgstr "Automated Aggregation"
+msgstr "Agregasi otomatis"
 
 #: schedule_automated_aggregation_form
 msgid "Schedule automated aggregation"
-msgstr "Schedule automated aggregation"
+msgstr "Jadwal agregasi otomatis"
 
 #: intro_schedule_automated_aggregation
 msgid ""
 "Schedule an automated tracked entity aggregation process, e.g. to run all "
 "pre-defined aggregation queries every midnight."
 msgstr ""
-"Schedule an automated person aggregation process, e.g. to run all pre-"
-"defined aggregation queries every midnight."
+"Jadwal proses tracked entity aggregation otomatis, seperti jalankan semua "
+"pre-defined aggregation queries setiap tengah malam."
 
 #: execute_tasks_confirmation
 msgid ""
 "Are you sure you want to execute all tasks now? Task processing might fully "
 "utilize your system resources and slow down other operations."
 msgstr ""
-"Are you sure you want to execute all tasks now? Task processing might fully "
-"utilize your system resources and slow down other operations."
+"Apakah anda yakin ingin menjalankan semua perintah sekarang? Memproses "
+"perintah mungkin menggunakan semua sumber sistem anda dan menurunkan sistem "
+"operasi yang lain."
 
 #: executing
 msgid "Executing"
-msgstr "Executing"
+msgstr "Menjalankan"
 
 #: add_single_rule
 msgid "Add single rule"
-msgstr "Add single rule"
+msgstr "Tambah single rule"
 
 #: add_multi_rule
 msgid "Add multi rule"
@@ -1248,11 +1252,11 @@ msgstr "Add multi rule"
 
 #: no_aggregation
 msgid "No aggregation"
-msgstr "No aggregation"
+msgstr "Tidak ada agregasi"
 
 #: age_at_visit_days_since_birth
 msgid "Age at visit (days since birth)"
-msgstr "Age at visit (days since birth)"
+msgstr "Usia saat kunjungan (perhitungan hari sejak kelahiran)"
 
 #: formula
 msgid "Formula"
@@ -1260,19 +1264,19 @@ msgstr "Formula"
 
 #: schedule_automated_message_reminder_form
 msgid "Schedule automated message reminder"
-msgstr "Schedule automated message reminder"
+msgstr "Jadwal pesan pengingat otomatis"
 
 #: display_in_reports
 msgid "Display in reports"
-msgstr "Display in reports"
+msgstr "Tampilkan dalam laporan"
 
 #: edit_left_side
 msgid "Edit left side"
-msgstr "Edit left side"
+msgstr "Edit bagian kiri"
 
 #: edit_right_side
 msgid "Edit right side"
-msgstr "Edit right side"
+msgstr "Edit bagian kanan"
 
 #: update_program_validation_rule
 msgctxt "update_program_validation_rule"
@@ -1281,23 +1285,25 @@ msgstr "Edit program validation rule"
 
 #: description_not_null
 msgid "Description is not null"
-msgstr "Description is not null"
+msgstr "Deskripsi bukan nol"
 
 #: expression_not_null
 msgid "Expression is not null"
-msgstr "Expression is not null"
+msgstr "Expression bukan nol"
 
 #: complete_allowed_only_if_validation_passes
 msgid "Complete allowed only if validation passes"
-msgstr "Complete allowed only if validation passes"
+msgstr "Dikatakan selsai hanya jika tervalidasi"
 
 #: skip_to_generate_overdue_events
 msgid "Skip generation of events that are overdue (before enrollment date)"
-msgstr "Skip generation of events that are overdue (before enrollment date)"
+msgstr ""
+"Skip keseluruhan events yang telah melebihi tanggal hari H (sebelum tanggal "
+"pendaftaran)"
 
 #: display_generate_event_box_after_completed
 msgid "Display generate event box after completed"
-msgstr "Display generate event box after completed"
+msgstr "Tampilkan Kotak event keseluruhan setelah selesai"
 
 #: pre_generate_event_uid
 msgid "Pre-generate event UID"
@@ -1305,27 +1311,27 @@ msgstr "Pre-generate event UID"
 
 #: calculated
 msgid "Calculated"
-msgstr "Calculated"
+msgstr "Kalkulasi"
 
 #: display_name
 msgid "Display name"
-msgstr "Display name"
+msgstr "Nama tampilan"
 
 #: code_and_name
 msgid "Code and Name"
-msgstr "Code and Name"
+msgstr "Kode dan nama"
 
 #: sort_by
 msgid "Sort by"
-msgstr "Sort by"
+msgstr "Diurutkan berdasarkan"
 
 #: block_entry_form_after_completed
 msgid "Block entry form after completed"
-msgstr "Block entry form after completed"
+msgstr "Blok formulir entri setelah lengkap"
 
 #: select_operator_number_of_visits_for_this_condition
 msgid "Please select operator number of visit for this condition"
-msgstr "Please select operator number of visit for this condition"
+msgstr "Silakan pilih nomor operator untuk kunjungan pada kondisi ini"
 
 #: design_prorgam_entry_form
 msgid "Design program entry form"
@@ -1336,7 +1342,7 @@ msgid ""
 "Create custom tracked entity data capture forms with tracked entity "
 "attributes."
 msgstr ""
-"Create custom tracked entity data capture forms with tracked entity "
+"Buat formulir custom tracked entity data capture dengan tracked entity "
 "attributes."
 
 #: properties
@@ -1345,28 +1351,28 @@ msgstr "Properties"
 
 #: full_name
 msgid "Full name"
-msgstr "Full name"
+msgstr "Nama lengkap"
 
 #: birth_date
 msgid "Date of birth"
-msgstr "Date of birth"
+msgstr "Tanggal lahir"
 
 #: death_date
 msgid "Date of death"
-msgstr "Date of death"
+msgstr "Tanggal kematian"
 
 #: registration_date
 msgctxt "registration_date"
 msgid "Registration date"
-msgstr "Registration date"
+msgstr "Tanggal pendaftaran"
 
 #: is_dead
 msgid "Is dead"
-msgstr "Is dead"
+msgstr "Meninggal"
 
 #: phone_number
 msgid "Phone number"
-msgstr "Phone number"
+msgstr "Nomor telepon"
 
 #: email
 msgid "Email"
@@ -1386,76 +1392,76 @@ msgstr "Anda yakin ingin menghapus formulir program entri?"
 
 #: fixed_attributes
 msgid "Fixed attributes"
-msgstr "Fixed attributes"
+msgstr "Atribut yang sudah fix"
 
 #: attributes
 msgctxt "attributes"
 msgid "Attributes"
-msgstr "Attributes"
+msgstr "Atribut"
 
 #: left_side_expression
 msgid "Left side expression"
-msgstr "Left side expression"
+msgstr "Expression sisi kiri"
 
 #: right_side_expression
 msgid "Right side expression"
-msgstr "Right side expression"
+msgstr "Expression sisi kanan"
 
 #: sum_dataelement_value
 msgid "Sum of data element values"
-msgstr "Sum of data element values"
+msgstr "Jumlah dari nilai elemen data"
 
 #: data_element_for_sum_avg_min_max
 msgid "Data element for sum/average/min/max"
-msgstr "Data element for sum/average/min/max "
+msgstr "Elemen data untuk jumlah/rata-rata/min/maks"
 
 #: avg_dataelement_value
 msgid "Average of data element values"
-msgstr "Average of data element values"
+msgstr "Nilai rata-rata elemen data"
 
 #: min_dataelement_value
 msgid "Minimum of data element values"
-msgstr "Minimum of data element values"
+msgstr "Nilai minimum elemen data"
 
 #: max_dataelement_value
 msgid "Maximum of data element values"
-msgstr "Maximum of data element values"
+msgstr "Nilai maksimum elemen data"
 
 #: property_is_inserted
 msgid "Property already exists in form"
-msgstr "The property is inserted in form"
+msgstr "Properti sudah tersedia dalam form"
 
 #: please_insert_all_required_fields
 msgid "Please insert all required fields"
-msgstr "Please insert all required fields"
+msgstr "Silahkan masukkan semua field yang dibutuhkan"
 
 #: required_fields_valivation
 msgid "Required fields validation"
-msgstr "Required fields validation"
+msgstr "Perlu dilakukan validasi fields ini"
 
 #: insert_properties
 msgid "Insert properties"
-msgstr "Insert properties"
+msgstr "Sisipkan properti"
 
 #: insert_images
 msgid "Insert images"
-msgstr "Insert images"
+msgstr "Sisipkan gambar"
 
 #: insert_data_elements
 msgid "Insert data elements"
-msgstr "Insert data elements"
+msgstr "Sisipkan elemen data"
 
 #: only_enroll_once
 msgid "Only enroll once (per tracked entity instance lifetime)"
-msgstr "Only enroll once"
+msgstr "Daftarkan 1 kali saja (per tracked entity instance lifetime)"
 
 #: insert_a_due_date
 msgid "Please insert a due-date"
-msgstr "Please insert a due-date"
+msgstr "Silakan tuliskan tanggal jatuh tempo"
 
 #: capture_coordinates
 msgid "Capture coordinates"
-msgstr "Capture coordinates"
+msgstr "Mengambil koordinat"
 
 #: task_stragely
 msgid "Task strategy"
@@ -1463,7 +1469,7 @@ msgstr "Task strategy"
 
 #: last_month
 msgid "Last month"
-msgstr "Last month"
+msgstr "Bulan lalu"
 
 #: pdf_data_entry_form
 msgid "Get PDF for Data Entry"
@@ -1471,15 +1477,15 @@ msgstr "PDF untuk Data Entri"
 
 #: last_3_month
 msgid "Last 3 months"
-msgstr "Last 3 months"
+msgstr "3 bulan terakhir"
 
 #: last_6_month
 msgid "Last 6 months"
-msgstr "Last 6 months"
+msgstr "6 bulan terakhir"
 
 #: last_12_month
 msgid "Last 12 months"
-msgstr "Last 12 months"
+msgstr "12 bulan terakhir"
 
 #: auto_save_data_entry_forms
 msgid "Auto save data entry forms"
@@ -1487,11 +1493,11 @@ msgstr "Auto save data entry forms"
 
 #: save_and_close
 msgid "Save and close"
-msgstr "Save and close"
+msgstr "Simpan dan tutup"
 
 #: delete_this_form
 msgid "Delete this form"
-msgstr "Delete this form"
+msgstr "Hapus form ini"
 
 #: auto_save_tracked_entity_forms
 msgid "Auto save tracked entity forms"
@@ -1499,19 +1505,19 @@ msgstr "Auto save tracked entity forms"
 
 #: enter_a_name
 msgid "Please enter a name between 4 and 150 characters long"
-msgstr "Please enter a name between 4 and 150 characters long."
+msgstr "Silahkan ketikkan nama dengan panjang karakter 4 - 150."
 
 #: save_unsuccess
 msgid "Save unsuccessfully"
-msgstr "Save unsuccessfully"
+msgstr "Sukses tersimpan"
 
 #: validate_form
 msgid "Validate form"
-msgstr "Validate form"
+msgstr "Validasi form"
 
 #: validate_success
 msgid "The registration form passed validation successfully"
-msgstr "The registration form passed validation successfully"
+msgstr "Form registrasi telah sukses divalidasi"
 
 #: ask_user_to_complete_program_when_stage_complete
 msgid "Ask user to complete program when stage is complete"
@@ -1563,7 +1569,7 @@ msgstr "Data entri"
 
 #: combine
 msgid "Combine"
-msgstr "Gabung"
+msgstr "Kombinasikan"
 
 #: completed
 msgid "Completed"
@@ -1575,27 +1581,27 @@ msgstr "Events"
 
 #: allow_enrollment_at_all_orgunits
 msgid "Allow enrollment at all org units"
-msgstr "Allow enrollment at all org units"
+msgstr "Izinkan pendaftaran untuk semua unit organisasi"
 
 #: other_program_stages
 msgid "Other program stages"
-msgstr "Other program stages"
+msgstr "Program stage lainnya"
 
 #: minus
 msgid "Minus"
-msgstr "Kurang"
+msgstr "Minus"
 
 #: and_operator
 msgid "AND"
-msgstr "DAN"
+msgstr "AND"
 
 #: or_operator
 msgid "OR"
-msgstr "ATAU"
+msgstr "OR"
 
 #: combine_operator
 msgid "COMBINE"
-msgstr "KOMBINASIKAN"
+msgstr "COMBINE"
 
 #: filter_by_type
 msgid "Filter by type"
@@ -1607,7 +1613,7 @@ msgstr "Grup unit organisasi"
 
 #: enrollement_date
 msgid "Enrollment date"
-msgstr "Enrollment date"
+msgstr "Tanggal pendaftaran"
 
 #: days_since_incident_date
 msgid "Days since incident date"
@@ -1950,16 +1956,16 @@ msgstr "Default registration form"
 
 #: available_dynamic_attributes
 msgid "Available dynamic attributes"
-msgstr "Attributes dinamis yang tersedia"
+msgstr "Atribut dinamis yang tersedia"
 
 #: selected_dynamic_attributes
 msgid "Selected dynamic attributes"
-msgstr "Attributes dinamis yang terpilih"
+msgstr "Atribut dinamis yang terpilih"
 
 #: registrationDate
 msgctxt "registrationDate"
 msgid "Registration date"
-msgstr "Registration date"
+msgstr "Tanggal pendaftaran"
 
 #: create_default_registration_form
 msgid "Create default registration form"
@@ -2011,11 +2017,11 @@ msgstr "Tidak ada program"
 
 #: display_as_radio_button
 msgid "Display as radio button"
-msgstr "Tampilkan sebagai tombol radio"
+msgstr "Tampilkan dalam bentuk \"radio button\""
 
 #: days_scheduled
 msgid "Days scheduled"
-msgstr "Hari-hari yang sudah dijadwalkan"
+msgstr "Hari yang dijadwalkan"
 
 #: tracked_entity_sms_only
 msgid "Tracked entity instance (SMS only)"
@@ -2027,7 +2033,7 @@ msgstr "nomor telepon unit organisasi (hanya boleh SMS)"
 
 #: health_worker_assigned_to_tracked_entity
 msgid "Health worker assigned to tracked entity instance"
-msgstr "Health worker assigned to tracked entity instance"
+msgstr "Tenaga kesehatan telah didaftarkan dalam tracked entity instance"
 
 #: all_users_at_orgunit
 msgid "All users at organisation unit"
@@ -2039,7 +2045,7 @@ msgstr "Dikirim berdasarkan"
 
 #: characters_without_params
 msgid "Characters without params"
-msgstr "Characters without params"
+msgstr "Karakter tanpa params"
 
 #: scheduled_date
 msgid "scheduled date"
@@ -2091,7 +2097,7 @@ msgstr "Drop-down lists"
 
 #: radio_buttons
 msgid "Radio buttons"
-msgstr "Tombol-tombol radio"
+msgstr "Radio buttons"
 
 #: open_data_entry_form_after_enrolment
 msgid "Open data entry form after enrollment"
@@ -2099,31 +2105,31 @@ msgstr "Buka formulir data entri setelah pendaftaran"
 
 #: report_date_to_use
 msgid "Report date to use"
-msgstr "Report date to use"
+msgstr "Laporkan tanggal yang akan digunakan"
 
 #: the_properties_to_open_data_entry_form_after_enrolment_is_active_in_the_stage
 msgid ""
 "The properties to open data entry form after enrollment is active in the "
 "stage"
 msgstr ""
-"The properties to open data entry form after enrollment is active in the "
-"stage"
+"Properti untuk membuka form entri data setelah pendaftaran dilakukan sudah "
+"diaktifkan di stage ini"
 
 #: add_relative
 msgid "Add relative"
-msgstr "Add relative"
+msgstr "Tambahkan relasi"
 
 #: who_is_the_new_relative_to_the_existing_tracked_entity_instance
 msgid "Who is the new relative to the existing tracked entity instance?"
-msgstr "Who is the new relative to the existing tracked entity instance?"
+msgstr "Siapa yang menjadi relasi baru untuk tracked entity instance yang ada?"
 
 #: program_for_new_relative_to_be_enrolled_in
 msgid "Program for new relative to be enrolled in"
-msgstr "Program for new relative to be enrolled in"
+msgstr "Program untuk mendaftarkan relasi baru"
 
 #: health_worker
 msgid "Health worker"
-msgstr "Health worker"
+msgstr "Tenaga kesehatan"
 
 #: is_hidden
 msgid "Is hidden ?"
@@ -2131,19 +2137,19 @@ msgstr "Apakah disembunyikan?"
 
 #: default_value
 msgid "Default value"
-msgstr "Default value"
+msgstr "Nilai default"
 
 #: dashboard_shortcut_to_add_relative
 msgid "Shortcut link to add a relative"
-msgstr "Shortcut link to add a relative"
+msgstr "Link shortcut untuk menambahkan relatif"
 
 #: shortcut_link_label_eg_add_child
 msgid "Shortcut link label (e.g. Add child)"
-msgstr "Shortcut link label (e.g. Add child)"
+msgstr "Shortcut link label (contoh. label \"Anak\")"
 
 #: relationship
 msgid "Relationship"
-msgstr "Relationship"
+msgstr "Hubungan"
 
 #: select_at_least_one_scope
 msgid "Select at least one scope for local id"
@@ -2175,7 +2181,7 @@ msgstr "Edit template pesan pengingat"
 
 #: create_new_reminder_message_template
 msgid "Create new reminder message template"
-msgstr "Buat template baru mengenai pesan pengingat"
+msgstr "Buat template pesan pengingat baru"
 
 #: confirm_delete_reminder_message_template
 msgid "Are you sure you want to delete reminder message template?"
@@ -2191,7 +2197,7 @@ msgstr "hari setelahnya"
 
 #: data_entry_method_for_option_sets
 msgid "Data entry method for option sets"
-msgstr "Metode data entri untuk Option"
+msgstr "Metode entri data untuk option sets"
 
 #: users
 msgid "Users"
@@ -2231,7 +2237,7 @@ msgstr "Tracked Entity"
 
 #: tracked_entity_management
 msgid "Tracked entity management"
-msgstr "Tracked entity management"
+msgstr "Manajemen Tracked entity"
 
 #: create_new_tracked_entity
 msgid "Create new tracked entity"
@@ -2293,11 +2299,11 @@ msgstr "Auto save registration form"
 
 #: show_advanced_options
 msgid "Show advanced options"
-msgstr "Tampilkan advanced options"
+msgstr "Tampilkan pilihan lanjutan"
 
 #: hide_advanced_options
 msgid "Hide advanced options"
-msgstr "Sembunyikan advanced options"
+msgstr "Sembunyikan piliihan lanjutan"
 
 #: program_validation_rule_management
 msgid "Program validation rule management"
@@ -2329,7 +2335,7 @@ msgstr "Filter berdasarkan program"
 
 #: enter_an_attribute
 msgid "Enter an attribute"
-msgstr "Masukkan sebuah attribute"
+msgstr "Masukkan Atribut"
 
 #: enter_a_key
 msgid "Enter a key"
@@ -2345,11 +2351,11 @@ msgstr "Program Stage Sort Order"
 
 #: sort_order
 msgid "Sort order"
-msgstr "Sort order"
+msgstr "Urutkan susunan"
 
 #: expression_is_not_well_formed
 msgid "Expression is not well-formed"
-msgstr "Ekspresi tidak terbentuk dengan baik"
+msgstr "Expression tidak tersusun dengan baik"
 
 #: program_variables
 msgid "Program variables"
@@ -2369,15 +2375,15 @@ msgstr "Source fields"
 
 #: expression_evaluate_the_source_fields
 msgid "Expression - evaluate the source fields"
-msgstr "Ekspresi- mengevaluasi source fields"
+msgstr "Expression - mengevaluasi source fields"
 
 #: actions_that_is_executed_when_expression_is_true
 msgid "Actions that is executed when expression is true"
-msgstr "Actions that is executed when expression is true"
+msgstr "Aktivitas yang dijalankan jika expression benar"
 
 #: display_text
 msgid "Display text"
-msgstr "Tampilan text"
+msgstr "Tampilan teks"
 
 #: shows_a_key_data_box
 msgid "Shows a key data box"
@@ -2385,11 +2391,11 @@ msgstr "Tampilkan key data box"
 
 #: hide_field
 msgid "Hide field"
-msgstr "Hide field"
+msgstr "Sembunyikan field"
 
 #: assign_variable
 msgid "Assign variable"
-msgstr "Variabel yang ditentukan"
+msgstr "Variabel yang ditetapkan"
 
 #: show_warning
 msgid "Show warning"
@@ -2401,7 +2407,7 @@ msgstr "Tampilkan error"
 
 #: view_program_rule
 msgid "View program rules"
-msgstr "Tampilkan aturan program"
+msgstr "Tampilkan program rules"
 
 #: program_rule_management
 msgid "Program rule management"
@@ -2429,11 +2435,11 @@ msgstr "Nama variabel"
 
 #: data_element_newest_event_program_stage
 msgid "Data element newest event program stage"
-msgstr "Data element newest event program stage"
+msgstr "Elemen data event program stage terbaru"
 
 #: data_element_newest_event_program
 msgid "Data element newest event program"
-msgstr "Data element newest event program"
+msgstr "Elemen data event program terbaru"
 
 #: add_source_field
 msgid "Add source field"
@@ -2441,7 +2447,7 @@ msgstr "Tambah source field"
 
 #: add_more_action
 msgid "Add more action"
-msgstr "Add more action"
+msgstr "Tambahkan aktivitas lanjutan"
 
 #: source_type
 msgid "Source type"
@@ -2449,11 +2455,11 @@ msgstr "Tipe sumber"
 
 #: confirm_delete_program_rule
 msgid "Are you sure you want to delete program rule?"
-msgstr "Apakah anda yakin ingin menghapus aturan program ini?"
+msgstr "Anda yakin ingin menghapus program rule?"
 
 #: edit_program_rule
 msgid "Edit program rule"
-msgstr "Edit aturan program "
+msgstr "Edit program rule"
 
 #: please_enter_error_message
 msgid "Please enter error message"
@@ -2465,14 +2471,13 @@ msgstr "Silakan masukkan pesan peringatan"
 
 #: please_enter_alert_message_when_hiding_a_field_that_contains_value
 msgid "Please enter alert message when hiding a field that contains value"
-msgstr ""
-"Sialkan masukkan pesan ketika menyembunyikan field yang mengandung nilai"
+msgstr "Sialkan masukkan pesan ketika menyembunyikan field yang memiliki nilai"
 
 #: please_enter_alert_message_when_hiding_a_section_that_contains_values
 msgid "Please enter alert message when hiding a section that contains values"
 msgstr ""
 "Silakan masukkan pesan peringatan ketika menyembunyikan sebuah section yang "
-"mengandung nilai-nilai"
+"memiliki nilai"
 
 #: hide_section
 msgid "Hide section"
@@ -2484,11 +2489,11 @@ msgstr "Manajemen template pesan pengingat"
 
 #: expression_description
 msgid "Expression description"
-msgstr "Deskripsi ekspresi"
+msgstr "Deskripsi expression"
 
 #: expression_items
 msgid "Expression items"
-msgstr "Item-item ekspresi"
+msgstr "Item Expression"
 
 #: filter_items
 msgid "Filter items"
@@ -2500,7 +2505,7 @@ msgstr "Deskripsi filter"
 
 #: select_program_stage
 msgid "Select program stage"
-msgstr "Pilih program stage "
+msgstr "Pilih program stage"
 
 #: tei_attribute
 msgid "Tracked entity attribute"
@@ -2529,7 +2534,7 @@ msgstr "Event"
 #: enrollment
 msgctxt "enrollment"
 msgid "Enrollment"
-msgstr "Enrollment details"
+msgstr "Detail Pendaftaran"
 
 #: tracked_entity_instance
 msgid "Tracked entity instance"
@@ -2541,11 +2546,11 @@ msgstr "Tipe output event"
 
 #: category_combo
 msgid "Combination of categories"
-msgstr "Kombinasi kategori-kategori"
+msgstr "Kombinasi kategori"
 
 #: missing_value_replacement
 msgid "Missing value replacement"
-msgstr "Missing value replacement"
+msgstr "Penggantian nilai missing"
 
 #~ msgid "Show incident date"
 #~ msgstr "Show incident date"

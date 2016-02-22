@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2015-12-27 06:46+0000\n"
-"Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
+"PO-Revision-Date: 2016-02-19 04:47+0000\n"
+"Last-Translator: Annisa Ristya <annisaristya@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1451198788.0\n"
+"X-POOTLE-MTIME: 1455857258.0\n"
 
 #: create_new_root
 msgid "Are you sure you want to create a new root organisation unit?"
@@ -33,7 +33,7 @@ msgstr "Buat grup unit organisasi baru"
 
 #: hierarchy_operations
 msgid "Hierarchy operations"
-msgstr "Sistem hierarki"
+msgstr "Hierarchy operations"
 
 #: select_an_org_unit_to_move
 msgid "Select an organisation unit to move"
@@ -49,7 +49,7 @@ msgstr "Konfirmasi"
 
 #: select_the_new_parent_org_unit_for_the_one_to_move
 msgid "Select the new parent organisation unit for the one to move"
-msgstr "Pilih induk unit organisasi yang baru sebagai tempat tujuan perpindahan"
+msgstr "Pilih induk unit organisasi baru sebagai tempat tujuan perpindahan"
 
 #: reset
 msgid "Reset"
@@ -65,7 +65,7 @@ msgstr "Grup Unit Organisasi"
 
 #: hierarchy_operations_menu
 msgid "Hierarchy Operations"
-msgstr "Sistem hierarki"
+msgstr "Hierarchy Operations"
 
 #: org_unit_level
 msgid "Organisation Unit Level"
@@ -129,7 +129,7 @@ msgstr "Induk unit organisasi baru disetujui"
 
 #: name_in_use
 msgid "The name is already in use. Please choose a different name."
-msgstr "Nama ini sudah digunakan. Silakan pilih nama yang lain"
+msgstr "Nama ini sudah digunakan. Silakan mengisikan nama yang berbeda"
 
 #: code_in_use
 msgid "The code is already in use. Please choose a different code."
@@ -145,11 +145,11 @@ msgstr ""
 
 #: the_org_unit_to_move_is_approved
 msgid "The organisation unit to move is approved"
-msgstr "Pemindahan unit organisasi dipindahkan"
+msgstr "Pemindahan unit organisasi disetujui"
 
 #: not_selected_moved_to_root_position
 msgid "Not selected, moved to root position"
-msgstr "Tidak dipilih, pindahkan ke posisi awal"
+msgstr "Tidak dipilih, pindahkan ke posisi \"root\""
 
 #: verification_of_the_new_parent_org_unit_failed
 msgid ""
@@ -171,19 +171,19 @@ msgstr ""
 #: saving_the_org_unit_failed
 msgid "Saving the organisation unit failed with the following message"
 msgstr ""
-"Penyimpanan unit organisasi gagal dilakukan dengan pesan sebagai berikut"
+"Penyimpanan unit organisasi gagal dilakukan dengan keterangan sebagai berikut"
 
 #: confirm_to_delete_org_unit_group
 msgid "Are you sure you want to delete this Organisation Unit Group?"
-msgstr "Apakah Anda yakin akan menghapus kelompok unit organisasi?"
+msgstr "Apakah Anda yakin akan menghapus grup unit organisasi?"
 
 #: confirm_to_delete_org_unit_group_set
 msgid "Are you sure you want to delete this organisation unit group set?"
-msgstr "Apakah Anda akan menghapus set kelompok unit organisasi"
+msgstr "Apakah Anda akan menghapus set grup unit organisasi?"
 
 #: org_unit_group_set_management
 msgid "Organisation unit group set management"
-msgstr "Manajemen set kelompok unit organisasi"
+msgstr "Manajemen set grup unit organisasi"
 
 #: org_unit_group_set
 msgid "Organisation Unit Group Set"
@@ -193,8 +193,8 @@ msgstr "Set grup unit organisasi"
 msgid ""
 "Saving the organisation unit group set failed with the following message"
 msgstr ""
-"Penyimpanan set grup unit organisasi gagal dilakukan dengan pesan sebagai "
-"berikut"
+"Penyimpanan set grup unit organisasi gagal dilakukan dengan keterangan "
+"sebagai berikut"
 
 #: compulsory
 msgid "Compulsory"
@@ -202,7 +202,7 @@ msgstr "Wajib"
 
 #: data_dimension
 msgid "Data Dimension"
-msgstr "Data Dimensi"
+msgstr "Dimensi Data"
 
 #: exclusive
 msgid "Exclusive"
@@ -210,11 +210,11 @@ msgstr "Eksklusif"
 
 #: create_new_org_unit_group_set
 msgid "Create new organisation unit group set"
-msgstr "Buat kelompok unit organisasi baru"
+msgstr "Buat grup unit organisasi baru"
 
 #: edit_org_unit_group_set
 msgid "Edit organisation unit group set"
-msgstr "Edit set kelompok unit organisasi"
+msgstr "Edit set grup unit organisasi"
 
 #: number_of_members
 msgid "Number of members"
@@ -222,15 +222,15 @@ msgstr "Jumlah anggota"
 
 #: available_groups
 msgid "Available groups"
-msgstr "Kelompok yang tersedia"
+msgstr "Grup tersedia"
 
 #: selected_groups
 msgid "Selected groups"
-msgstr "Kelompok yang dipilih"
+msgstr "Grup terpilih"
 
 #: the_group_set_can_not_be_creat_bec_it_is_exc_and
 msgid "The group set can not be created because it is exclusive and"
-msgstr "Set kelompok tidak dapat dibuat karena terlalu eksklusif dan"
+msgstr "Set grup tidak dapat dibuat karena terlalu eksklusif dan"
 
 #: is_a_member_of_more_than_one_selected_group
 msgid "is a member of more than one selected group"
@@ -246,7 +246,7 @@ msgstr "Pindahkan semua"
 
 #: remove_selected
 msgid "Remove selected"
-msgstr "Hapus yang dipilih"
+msgstr "Hapus yang terpilih"
 
 #: remove_all
 msgid "Remove all"
@@ -302,11 +302,11 @@ msgstr "Daftarkan ke set grup unit organisasi wajib"
 
 #: organisation_unit_group_set
 msgid "Organisation unit group set"
-msgstr "Set kelompok unit organisasi"
+msgstr "Set grup unit organisasi"
 
 #: group_members
 msgid "Group members"
-msgstr "Anggota kelompok"
+msgstr "Anggota grup"
 
 #: last_updated
 msgid "Last updated"
@@ -325,16 +325,16 @@ msgid ""
 "Create, modify, view and delete organisation unit groups. Groups are used "
 "for improved analysis."
 msgstr ""
-"Buat, modifikasi, lihat dan hapus kelompok unit organisasi. Set kelompok "
-"akan digunakan untuk analisis lanjut. "
+"Buat, modifikasi, lihat dan hapus grup unit organisasi. Set grup akan "
+"digunakan untuk analisis lanjut."
 
 #: intro_org_unit_group_set
 msgid ""
 "Create, modify, view and delete organisation unit group sets. Group sets are "
 "used for improved analysis."
 msgstr ""
-"Buat, modifikasi, lihat dan hapus set kelompok unit organisasi. Set kelompok "
-"akan digunakan untuk analisis lanjut."
+"Buat, modifikasi, lihat dan hapus set grup unit organisasi. Set grup akan "
+"digunakan untuk analisis lanjut."
 
 #: intro_org_unit_level
 msgid ""
@@ -342,15 +342,15 @@ msgid ""
 "levels in the system."
 msgstr ""
 "Buat, modifikasi, lihat dan hapus deskripsi untuk level unit organisasi "
-"dalam sistem ini. "
+"dalam sistem ini."
 
 #: intro_org_unit_search
 msgid ""
 "Search organisation units based on name and group sets. View extended "
 "information for individual units."
 msgstr ""
-"Cari unit organisasi berdasarkan nama dan set kelompok. Lihat informasi "
-"tambahan untuk unit organisasi."
+"Cari unit organisasi berdasarkan nama dan set grup. Lihat informasi tambahan "
+"untuk unit organisasi."
 
 #: intro_hierarchy_operations_menu
 msgid ""
@@ -374,7 +374,7 @@ msgstr "Pencarian Unit organisasi"
 
 #: org_unit_search_management
 msgid "Organisation unit search"
-msgstr "Pencarian unit organisasi "
+msgstr "Pencarian unit organisasi"
 
 #: criteria
 msgid "Criteria"
@@ -382,7 +382,7 @@ msgstr "Kriteria"
 
 #: options
 msgid "Options"
-msgstr "Opsi"
+msgstr "Options"
 
 #: search
 msgid "Search"
@@ -390,7 +390,7 @@ msgstr "Cari"
 
 #: organisation_units
 msgid "organisation units"
-msgstr "Unit organisasi"
+msgstr "unit-unit organisasi"
 
 #: found
 msgid "Found"
@@ -406,7 +406,7 @@ msgstr "Silakan pilih tingkatan (opsi)"
 
 #: polygon
 msgid "Polygon"
-msgstr "Poligon"
+msgstr "Polygon"
 
 #: point
 msgid "Point"
@@ -494,4 +494,4 @@ msgstr "Perlihatkan semua bagian"
 
 #: org_unit_levels_not_yet_saved
 msgid "Organisation unit level is not yet saved, please save"
-msgstr "Level unit organisasi belum disimpan, silakan simpan "
+msgstr "Level unit organisasi belum disimpan, silakan simpan"

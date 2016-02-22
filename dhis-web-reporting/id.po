@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2016-01-01 16:13+0000\n"
+"PO-Revision-Date: 2016-02-19 01:43+0000\n"
 "Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1451664798.0\n"
+"X-POOTLE-MTIME: 1455846224.0\n"
 
 #: please_select_org_unit
 msgctxt "please_select_org_unit"
@@ -31,7 +31,7 @@ msgstr "Silakan pilih set grup"
 
 #: reporting_unit
 msgid "Reporting unit"
-msgstr "Unit pelapor"
+msgstr "Unit pelaporan"
 
 #: report_period
 msgid "Report period"
@@ -39,7 +39,7 @@ msgstr "Periode laporan"
 
 #: select_data_set
 msgid "Please select a data set"
-msgstr "Silahkan pilih sebuah data set"
+msgstr "Silahkan pilih data set"
 
 #: select_period
 msgctxt "select_period"
@@ -61,7 +61,7 @@ msgstr "Laporan data set"
 
 #: data_approval
 msgid "Data Approval"
-msgstr "Data Approval"
+msgstr "Persetujuan data"
 
 #: add_selected
 msgid "Add selected"
@@ -125,7 +125,7 @@ msgstr "Tambah sublevel"
 
 #: create
 msgid "Create"
-msgstr "Buat baru"
+msgstr "Buat"
 
 #: indicators
 msgid "Indicators"
@@ -145,7 +145,7 @@ msgstr "Periode relatif"
 
 #: reporting_month
 msgid "Reporting month"
-msgstr "Laporan bulan"
+msgstr "Pelaporan bulan"
 
 #: this_year
 msgid "This year"
@@ -153,11 +153,11 @@ msgstr "Tahun ini"
 
 #: reporting_sixmonth
 msgid "Reporting six-month"
-msgstr "Laporan semester 1"
+msgstr "Laporan per semester"
 
 #: last_2_sixmonths
 msgid "Last 2 six-months"
-msgstr "Laporan semester 2"
+msgstr "Laporan dua semester terakhir"
 
 #: last_week
 msgid "Last week"
@@ -165,7 +165,7 @@ msgstr "Minggu lalu"
 
 #: last_4_weeks
 msgid "Last 4 weeks"
-msgstr "4 minggu lalu"
+msgstr "4 minggu terakhir"
 
 #: last_12_weeks
 msgid "Last 12 weeks"
@@ -173,11 +173,11 @@ msgstr "12 minggu lalu"
 
 #: months_last_year
 msgid "Months last year"
-msgstr "Bulan tahun lalu"
+msgstr "Beberapa bulan tahun lalu"
 
 #: quarters_last_year
 msgid "Quarters last year"
-msgstr "Kuartal tahun lalu"
+msgstr "Beberapa triwulan tahun lalu"
 
 #: last_year
 msgid "Last year"
@@ -185,11 +185,11 @@ msgstr "Tahun lalu"
 
 #: report_table
 msgid "Report Table"
-msgstr "Tabel laporan"
+msgstr "Tabel pelaporan"
 
 #: crosstab_dimensions
 msgid "Crosstab dimensions"
-msgstr "Dimensi kros-tabulasi"
+msgstr "Crosstab dimensions"
 
 #: confirm_delete_table
 msgid "Are you sure you want to remove table?"
@@ -205,15 +205,15 @@ msgstr "Selesai"
 
 #: crosstab_indicators
 msgid "Crosstab indicators"
-msgstr "Krostabulasi indikator"
+msgstr "Crosstab indicators"
 
 #: crosstab_periods
 msgid "Crosstab periods"
-msgstr "Krostabulasi periode"
+msgstr "Crosstab periods"
 
 #: crosstab_organisation_units
 msgid "Crosstab organisation units"
-msgstr "Krostabulasi unit organisasi"
+msgstr "Crosstab organisation units"
 
 #: must_select_at_least_one_indictor_data_element_data_set
 msgid "Please select at least one indicator, data element or data set"
@@ -241,7 +241,7 @@ msgstr "Silahkan masukkan nama"
 
 #: specify_name
 msgid "Please specify a name"
-msgstr "Silahkan buat sebuah nama"
+msgstr "Silakan tentukan nama"
 
 #: name_in_use
 msgid "The name is already in use"
@@ -253,7 +253,7 @@ msgstr "Desain"
 
 #: home
 msgid "Home"
-msgstr "Home"
+msgstr "Beranda"
 
 #: directory
 msgid "Directory"
@@ -289,7 +289,7 @@ msgstr "Hapus laporan"
 
 #: submit
 msgid "Submit"
-msgstr "Submit"
+msgstr "Kirim"
 
 #: edit_report
 msgid "Edit report"
@@ -321,7 +321,7 @@ msgstr "Bulanan"
 
 #: quarterly
 msgid "Quarterly"
-msgstr "Kuartalan"
+msgstr "Triwulanan"
 
 #: yearly
 msgid "Yearly"
@@ -345,11 +345,11 @@ msgstr "Laporan parameter"
 
 #: parent_organisation_unit
 msgid "Parent organisation unit"
-msgstr "Unit organisasi diatasnya"
+msgstr "Induk unit organisasi"
 
 #: available_dataelements
 msgid "Available data elements"
-msgstr "Data elemen yang tersedia"
+msgstr "Elemen data tersedia"
 
 #: select_dataelementgroup_all
 msgid "Select data element group / View all"
@@ -361,7 +361,7 @@ msgstr "Pilih elemen data"
 
 #: dataelements
 msgid "Data elements"
-msgstr "Data elemen"
+msgstr "Elemen data"
 
 #: report_table_parameters
 msgid "Report table parameters"
@@ -381,7 +381,7 @@ msgstr "Tambah tabel laporan"
 
 #: add_dataelement_dimension_table
 msgid "Add Dataelement Dimension Table"
-msgstr "Tambah dimensi tabel data elemen"
+msgstr "Tambah elemen data pada dimensi tabel"
 
 #: generate
 msgid "Generate"
@@ -393,11 +393,11 @@ msgstr "Proses selesai"
 
 #: view
 msgid "View"
-msgstr "Lihat"
+msgstr "Tampilkan"
 
 #: chart
 msgid "Chart"
-msgstr "Chart"
+msgstr "Diagram"
 
 #: dimension
 msgid "Dimension"
@@ -405,11 +405,11 @@ msgstr "Dimensi"
 
 #: pivot_table
 msgid "Pivot Table"
-msgstr "Pivot Tabel"
+msgstr "Tabel pivot"
 
 #: indicator_group
 msgid "Indicator group"
-msgstr "Group indikator"
+msgstr "Grup indikator"
 
 #: period_type
 msgid "Period type"
@@ -449,11 +449,11 @@ msgstr "Kriteria"
 
 #: this_indicator_and_periods
 msgid "This indicator and periods"
-msgstr "Indikator ini dan periode"
+msgstr "Indikator dan periode"
 
 #: this_indicator_and_orgunits
 msgid "This indicator and orgunits"
-msgstr "Indikator ini dan Unit org."
+msgstr "Indikator dan Unit org."
 
 #: all_indicator_and_periods
 msgid "All indicators and periods"
@@ -481,19 +481,19 @@ msgstr "Apakah Anda yakin ingin menambahkan laporan ini ke dashboard?"
 
 #: resource
 msgid "Resource"
-msgstr "Sumber"
+msgstr "Resource"
 
 #: view_report
 msgid "View report"
-msgstr "Lihat laporan"
+msgstr "Tampilkan laporan"
 
 #: create_new_resource
 msgid "Create new resource"
-msgstr "Buat resource baru"
+msgstr "Buat Resource baru"
 
 #: external_url
 msgid "External URL"
-msgstr "External URL"
+msgstr "URL eksternal"
 
 #: upload_file
 msgid "Upload file"
@@ -525,7 +525,7 @@ msgstr "Kolom"
 
 #: confirm_add_report_table_to_dashboard
 msgid "Are you sure you want to add this report table to dashboard?"
-msgstr "Apakah Anda yakin menambahkan tabel laporan ini ke dashboard?"
+msgstr "Apakah Anda yakin akan menambahkan tabel laporan ini ke dashboard?"
 
 #: continue
 msgid "Continue"
@@ -545,15 +545,15 @@ msgstr "Nama Tally Sheet"
 
 #: data_element
 msgid "Data element"
-msgstr "Data elemen"
+msgstr "Elemen data"
 
 #: clear
 msgid "Clear"
-msgstr "Clear"
+msgstr "Hapus"
 
 #: next
 msgid "Next"
-msgstr "Selanjutnya"
+msgstr "Lanjut"
 
 #: prev
 msgid "Prev"
@@ -589,11 +589,11 @@ msgstr "Metode"
 
 #: show_more_options
 msgid "Show more options"
-msgstr "Show more options"
+msgstr "Tampilkan options lebih banyak"
 
 #: show_fewer_options
 msgid "Show fewer options"
-msgstr "Show fewer options"
+msgstr "Tampilkan options lebih sedikit"
 
 #: generate_before_export
 msgid "Please generate table before exporting"
@@ -601,11 +601,11 @@ msgstr "Silahkan buat tabel sebelum mengeksport"
 
 #: based_on_registration
 msgid "Based on complete data set registrations"
-msgstr "Berdasarkan data set registrasi yang lengkap"
+msgstr "Berdasarkan registrasi  data set yang lengkap"
 
 #: based_on_compulsory
 msgid "Based on compulsory data elements"
-msgstr "Berdasarkan data elemen wajib"
+msgstr "Berdasarkan elemen data-elemen data wajib"
 
 #: based_on_ratio
 msgid "Based on number of registered data values"
@@ -616,7 +616,7 @@ msgid ""
 "View and add reports based on the JasperReports library. These can be based "
 "on report tables and can be designed in iReport."
 msgstr ""
-"Lihat dan tambah laporan berdasarkan JasperReports library. Ini dapat "
+"Lihat dan tambah laporan berdasarkan JasperReports library. Laporan dapat "
 "diperoleh dari tabel laporan dan dapat digunakan di iReport"
 
 #: intro_dataset_report
@@ -632,7 +632,7 @@ msgid ""
 "View and add resources. These resources can be uploaded documents or URLs on "
 "the web."
 msgstr ""
-"Lihat dan tambah sumber data Sumber data ini dapat diupload dalam bentuk "
+"Lihat dan tambah sumber data.Sumber data ini dapat diupload dalam bentuk "
 "dokumen atau URL di web."
 
 #: intro_tally_sheet_generator
@@ -648,39 +648,39 @@ msgid ""
 "Browse pivot tables, which can be pivoted on any of the indicator, "
 "organisation unit and period dimensions."
 msgstr ""
-"Telusuri pivot tabel, yang bisa dipivotkan untuk setiap indikator, unit "
-"organisasi, dan dimensi peiode."
+"Telusuri tabel pivot, yang bisa dibuat pivot untuk setiap indikator, unit "
+"organisasi, dan dimensi periode."
 
 #: intro_report_table
 msgid ""
 "Add and generate report tables. Report tables are customizable database "
 "tables which can be used as basis for reports."
 msgstr ""
-"Tambah dan buat tabel laporan. Tabel laporan  merupakan penyesuaian dari "
-"tabel database  yang dapat digunakan sebagai dasar untuk pelaporan."
+"Tambah dan buat tabel laporan. Tabel laporan merupakan penyesuaian dari "
+"tabel database yang dapat digunakan sebagai dasar untuk pelaporan."
 
 #: intro_reporting_rate_summary
 msgid ""
 "Browse the reporting rates of data sets by organisation unit and period "
 "based on various criteria for submission."
 msgstr ""
-"Telusuri tingkat pelaporan data set unit organisasi dan periode berdasarkan "
-"berrbagai macam kriteria pengiriman."
+"Telusuri tingkat pelaporan data set berdasarkan unit organisasi dan periode "
+"berdasarkan berbagai macam kriteria pengiriman."
 
 #: intro_orgunit_distribution_report
 msgid ""
 "Browse the organisation unit distribution report based on the organisation "
 "unit group sets and its groups."
 msgstr ""
-"Telusuri distribusi unit organisasi berdasarkan set grup unit organisasi dan "
-"grup"
+"Telusuri distribusi unit organisasi berdasarkan set grup dan grup unit "
+"organisasi dan grup."
 
 #: intro_data_approval
 msgid ""
 "View data and manage data approval by approving or unapproving, accepting or "
 "unaccepting data."
 msgstr ""
-"Tampilkan data dan mengelola persetujuan data dengan menyetujui atau tidak "
+"Tampilkan data dan kelola persetujuan data dengan menyetujui atau tidak "
 "menyetujui, menerima atau tidak menerima data"
 
 #: orgunit_distribution_report
@@ -705,11 +705,11 @@ msgstr "Laporan distribusi unit organisasi"
 
 #: get_chart
 msgid "Get chart"
-msgstr "Buat grafik"
+msgstr "Dapatkan diagram"
 
 #: group_set
 msgid "Group set"
-msgstr "set grup"
+msgstr "Set grup"
 
 #: select_org_unit
 msgid "Select organisation unit"
@@ -789,7 +789,7 @@ msgstr "Periode toogle fixed"
 
 #: toggle_fixed_organisation_units
 msgid "Toggle fixed organisation units"
-msgstr "Toogle fixed unit organisasi"
+msgstr "Toggle fixed organisation units"
 
 #: group
 msgid "Group"
@@ -797,7 +797,7 @@ msgstr "Grup"
 
 #: groups
 msgid "Groups"
-msgstr "Groups"
+msgstr "Grup-grup"
 
 #: confirm_delete
 msgid "Are you sure you want to delete this object?"
@@ -821,7 +821,7 @@ msgstr "Pelaporan 3 bulanan"
 
 #: include_organisation_unit_group_sets
 msgid "Include org unit group sets param"
-msgstr "Masukkan param set grup unit organisasi "
+msgstr "Masukkan parameter set grup unit organisasi "
 
 #: last_5_years
 msgid "Last 5 years"
@@ -841,11 +841,11 @@ msgstr "Ringkasan tingkat pelaporan"
 
 #: available_organisation_unit_groups
 msgid "Available organisation unit groups"
-msgstr "Kelompok/Grup unit organisasi yang tersedia"
+msgstr "Grup unit organisasi yang tersedia"
 
 #: selected_organisation_unit_groups
 msgid "Selected organisation unit groups"
-msgstr "Kelompok/Grup unit organisasi terpilih"
+msgstr "Grup unit organisasi terpilih"
 
 #: start_date
 msgid "Start date"
@@ -857,7 +857,7 @@ msgstr "Tanggal akhir"
 
 #: start_export
 msgid "Start export"
-msgstr "Mulai mengeksport"
+msgstr "Mulai mengekspor"
 
 #: period_types
 msgid "Period types"
@@ -889,19 +889,19 @@ msgstr "Lihat sumber data"
 
 #: this_financial_year
 msgid "This financial year"
-msgstr "Perhitungan keuangan tahun ini"
+msgstr "This financial year"
 
 #: last_financial_year
 msgid "Last financial year"
-msgstr "Perhitungan keuangan tahun terakhir "
+msgstr "Last financial year"
 
 #: last_5_financial_years
 msgid "Last 5 financial years"
-msgstr "Perhitungan keuangan 5 tahun terakhir"
+msgstr "Last 5 financial year"
 
 #: financial_yearly
 msgid "Financial Yearly"
-msgstr "Perhitungan keuangan tahunan"
+msgstr "Financial Yearly"
 
 #: please_specify_file
 msgid "Please specify a design file"
@@ -921,11 +921,11 @@ msgstr "Bagikan"
 
 #: share_your_interpretation
 msgid "Share your interpretation"
-msgstr "Bagikan penafsiran Anda"
+msgstr "Bagikan Interpretasi anda"
 
 #: interpretation_was_shared
 msgid "Interpretation was shared"
-msgstr "Penafsiran telah dibagikan"
+msgstr "Interpretasi telah dibagikan"
 
 #: last_3_months
 msgid "Last 3 months"
@@ -945,7 +945,7 @@ msgstr "Laporan yang diharapkan"
 
 #: percent
 msgid "Percent"
-msgstr "Persen"
+msgstr "Persentase"
 
 #: reports_on_time
 msgid "Reports On Time"
@@ -993,11 +993,11 @@ msgstr "Pengaturan tabel analitik"
 
 #: analytics_tables
 msgid "Analytics tables"
-msgstr "Tabel Analisis"
+msgstr "Tabel analitik"
 
 #: analytics_tables_update
 msgid "Analytics tables update"
-msgstr "Update tabel analisis"
+msgstr "Update tabel analitik"
 
 #: aggregation_period_types
 msgid "Aggregation period types"
@@ -1025,7 +1025,7 @@ msgstr "Tidak menerima"
 
 #: waiting_for_lower_level_approval
 msgid "Waiting for lower levels to approve"
-msgstr "Menunggu persetujuan tingkat lebih rendah"
+msgstr "Menunggu persetujuan tingkat di bawahnya"
 
 #: approved_at_a_higher_level
 msgid "Approved at a higher level"
@@ -1041,11 +1041,11 @@ msgstr "Disetujui dan diterima"
 
 #: ready_for_approval_at_a_higher_level
 msgid "Ready for approval at a higher level"
-msgstr "Siap untuk menyetujui pada tingkat yang lebih tinggi"
+msgstr "Siap untuk disetujui di tingkat yang lebih tinggi"
 
 #: ready_for_approval
 msgid "Ready for approval"
-msgstr "Ready for approval"
+msgstr "Siap untuk disetujui"
 
 #: approval_not_relevant
 msgid "Approval not relevant"
@@ -1077,7 +1077,7 @@ msgstr "Bagian dari periode ini disetujui dimana saja"
 
 #: accepted_elsewhere_for_part_of_this_period
 msgid "Accepted elsewhere for part of this period"
-msgstr "Bagian dari periode ini disetujui dimana saja"
+msgstr "Setujui bagian periode ini "
 
 #: confirm_approval
 msgid "Are you sure you want to approve this data set?"
@@ -1093,7 +1093,7 @@ msgstr "Apakah anda yakin ingin menerima persetujuan data set ini?"
 
 #: confirm_unaccept
 msgid "Are you sure you want to unaccept this data set approval?"
-msgstr "Apakah anda yakin tidak ingin menerima persetujuan data set ini?"
+msgstr "Apakah anda yakin tidak menerima persetujuan data set ini?"
 
 #: approval_entity
 msgid "Approval entity"
@@ -1105,7 +1105,7 @@ msgstr "Status persetujuan"
 
 #: please_make_selection
 msgid "Please make a selection below"
-msgstr "Silakan buat pilihan di bawah ini"
+msgstr "Silahkan pilih"
 
 #: data_criteria
 msgid "Data criteria"

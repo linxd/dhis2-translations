@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2015-12-26 22:12+0000\n"
-"Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
+"PO-Revision-Date: 2016-02-16 06:59+0000\n"
+"Last-Translator: Annisa Ristya <annisaristya@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1451167940.0\n"
+"X-POOTLE-MTIME: 1455605984.0\n"
 
 #: dimensions
 msgid "Dimensions"
@@ -69,7 +69,7 @@ msgstr "Normal"
 
 #: reporting_period
 msgid "Reporting period"
-msgstr "Reporting period"
+msgstr "Periode pelaporan"
 
 #: organisation_unit
 msgid "Organisation unit"
@@ -85,11 +85,11 @@ msgstr "Induk unit organisasi"
 
 #: user_organisation_unit
 msgid "User org unit"
-msgstr "User org unit"
+msgstr "User unit organisasi"
 
 #: table_options
 msgid "Table options"
-msgstr "Pilihan tabel"
+msgstr "Table options"
 
 #: create
 msgid "Create"
@@ -141,11 +141,11 @@ msgstr "Sebelumnya"
 
 #: next
 msgid "Next"
-msgstr "Lanjut"
+msgstr "Selanjutnya"
 
 #: rename
 msgid "Rename"
-msgstr "Ubah nama"
+msgstr "Rename"
 
 #: overwrite
 msgid "Overwrite"
@@ -153,7 +153,7 @@ msgstr "Overwrite"
 
 #: share_with_other_people
 msgid "Share with other people"
-msgstr "Bagikan dengan orang lain "
+msgstr "Bagikan dengan orang lain"
 
 #: sharing_settings
 msgid "Sharing settings"
@@ -173,11 +173,11 @@ msgstr "Tidak ada"
 
 #: public_access
 msgid "Public access"
-msgstr "Public access"
+msgstr "Akses publik"
 
 #: search_for_user_groups
 msgid "Search for user groups"
-msgstr "Search for user groups"
+msgstr "Cari user groups"
 
 #: available
 msgid "Available"
@@ -193,11 +193,11 @@ msgstr "Indikator-indikator"
 
 #: all_indicator_groups
 msgid "All indicator groups"
-msgstr "Semua kelompok indikator"
+msgstr "Semua grup indikator"
 
 #: select_indicator_group
 msgid "Select indicator group"
-msgstr "Pilih kelompok indikator"
+msgstr "Pilih grup indikator"
 
 #: data_elements
 msgid "Data elements"
@@ -205,15 +205,15 @@ msgstr "Elemen data"
 
 #: all_data_element_groups
 msgid "All data element groups"
-msgstr "Semua kelompok elemen data"
+msgstr "Semua grup elemen data"
 
 #: select_data_element_group
 msgid "Select data element group"
-msgstr "Pilih kelompok elemen data"
+msgstr "Pilih grup elemen data"
 
 #: data_sets
 msgid "Data sets"
-msgstr "Set data"
+msgstr "Data set"
 
 #: reporting_rates
 msgid "Reporting rates"
@@ -237,11 +237,11 @@ msgstr "Minggu lalu"
 
 #: last_4_weeks
 msgid "Last 4 weeks"
-msgstr "4 minggu yang lalu"
+msgstr "4 minggu terakhir"
 
 #: last_12_weeks
 msgid "Last 12 weeks"
-msgstr "12 minggu yang lalu"
+msgstr "12 minggu terakhir"
 
 #: months
 msgid "Months"
@@ -253,11 +253,11 @@ msgstr "Bulan lalu"
 
 #: last_3_months
 msgid "Last 3 months"
-msgstr "3 bulan yang lalu"
+msgstr "3 bulan terakhir"
 
 #: last_12_months
 msgid "Last 12 months"
-msgstr "12 bulan yang lalu"
+msgstr "12 bulan terakhir"
 
 #: bimonths
 msgid "Bi-months"
@@ -265,11 +265,11 @@ msgstr "Tiap 2 bulan"
 
 #: last_bimonth
 msgid "Last bi-month"
-msgstr "2 bulan yang lalu"
+msgstr "2 bulan terakhir"
 
 #: last_6_bimonths
 msgid "Last 6 bi-months"
-msgstr "6 kali 2 bulan terakhir"
+msgstr "6 kali 2 bulanan terakhir"
 
 #: quarters
 msgid "Quarters"
@@ -341,7 +341,7 @@ msgstr "Tabel"
 
 #: chart
 msgid "Chart"
-msgstr "Chart"
+msgstr "Diagram"
 
 #: map
 msgid "Map"
@@ -385,8 +385,7 @@ msgstr "Kategori tidak dapat ditetapkan sebagai filter"
 
 #: data_element_group_sets_cannot_be_specified_together_with_data_sets
 msgid "Data element group sets cannot be specified together with data sets"
-msgstr ""
-"Kelompok elemen data set tidak dapat ditetapkan bersama dengan set data  "
+msgstr "Set grup elemen data tidak dapat ditetapkan bersama dengan data set"
 
 #: at_least_one_dimension_must_be_specified_as_row_or_column
 msgid "At least one dimension must be specified as row or column"
@@ -415,15 +414,15 @@ msgstr "Favorites"
 
 #: include_regression
 msgid "Include regression"
-msgstr "Include regression"
+msgstr "Tampilkan regresi"
 
 #: include_cumulative
 msgid "Include cumulative"
-msgstr "Include cumulative"
+msgstr "Tampilkan kumulatif"
 
 #: sort_order
 msgid "Sort order"
-msgstr "Sort order"
+msgstr "Urutkan susunan"
 
 #: low_to_high
 msgid "Low to high"
@@ -443,11 +442,11 @@ msgstr "Plain data source"
 
 #: graphics
 msgid "Graphics"
-msgstr "Graphics"
+msgstr "Grafik"
 
 #: data_sets_cannot_be_specified_as_filter
 msgid "Data sets cannot be specified as filter"
-msgstr "Set data tidak dapat ditetapkan sebagai filter"
+msgstr "Data set tidak dapat ditetapkan sebagai filter"
 
 #: share
 msgid "Share"
@@ -471,7 +470,7 @@ msgstr "Pilih unit organisasi"
 
 #: select_boundaries_and_levels
 msgid "Select boundaries and levels"
-msgstr "Select boundaries and levels"
+msgstr "Pilih boundaries dan levels"
 
 #: select_organisation_unit_levels
 msgid "Select organisation unit levels"
@@ -487,7 +486,7 @@ msgstr "Detail"
 
 #: select_boundaries_and_groups
 msgid "Select boundaries and groups"
-msgstr "Select boundaries and groups"
+msgstr "Pilih boundaries dan groups"
 
 #: select_organisation_unit_groups
 msgid "Select organisation unit groups"
@@ -495,7 +494,7 @@ msgstr "Pilih kelompok unit organisasi"
 
 #: allow_external_access
 msgid "Allow external access"
-msgstr "Allow external access"
+msgstr "Izinkan akses eksternal"
 
 #: show_hierarchy
 msgid "Show hierarchy"
@@ -531,11 +530,11 @@ msgstr "Tiap triwulan"
 
 #: sixmonthly
 msgid "Six-monthly"
-msgstr "Tiap 6 bulan"
+msgstr "Tiap semester"
 
 #: sixmonthly_april
 msgid "Six-monthly April"
-msgstr "Tiap 6 bulan di bulan April"
+msgstr "Tiap April per semester"
 
 #: yearly
 msgid "Yearly"
@@ -563,7 +562,7 @@ msgstr "Default"
 
 #: aggregation_type
 msgid "Aggregation type"
-msgstr "Aggregation type"
+msgstr "Tipe agregasi"
 
 #: relative_periods
 msgid "Relative periods"
@@ -571,7 +570,7 @@ msgstr "Relative periods"
 
 #: start_end_dates
 msgid "Start-end dates"
-msgstr "Tanggal dari mulai sampai terakhir"
+msgstr "Start-end dates"
 
 #: top
 msgid "Top"
@@ -599,7 +598,7 @@ msgstr "Diagram kolom"
 
 #: stacked_column_chart
 msgid "Stacked column chart"
-msgstr "Stacked column chart"
+msgstr "Diagram kolom bertingkat"
 
 #: bar_chart
 msgid "Bar chart"
@@ -607,7 +606,7 @@ msgstr "Diagram batang"
 
 #: stacked_bar_chart
 msgid "Stacked bar chart"
-msgstr "Stacked bar chart"
+msgstr "Diagram batang bertingkat"
 
 #: line_chart
 msgid "Line chart"
@@ -615,15 +614,15 @@ msgstr "Diagram garis"
 
 #: area_chart
 msgid "Area chart"
-msgstr "Area chart"
+msgstr "Diagram bidang"
 
 #: pie_chart
 msgid "Pie chart"
-msgstr "Pie chart"
+msgstr "Diagram lingkaran"
 
 #: radar_chart
 msgid "Radar chart"
-msgstr "Radar chart"
+msgstr "Diagram radar"
 
 #: events
 msgid "Events"
@@ -639,23 +638,23 @@ msgstr "Count type"
 
 #: trend_line
 msgid "Show trend lines"
-msgstr "Show trend lines"
+msgstr "Perlihatkan garis tren"
 
 #: hide_subtitle
 msgid "Hide chart subtitle"
-msgstr "Hide chart subtitle"
+msgstr "Sembunyikan sub judul diagram"
 
 #: hide_legend
 msgid "Hide chart legend"
-msgstr "Hide chart legend"
+msgstr "Sembunyikan legenda pada diagram"
 
 #: domain_axis_label
 msgid "Domain axis title"
-msgstr "Domain axis title"
+msgstr "Judul Domain sumbu X"
 
 #: range_axis_label
 msgid "Range axis title"
-msgstr "Range axis title"
+msgstr "Judul Rentang sumbu X"
 
 #: target
 msgid "Target"
@@ -671,15 +670,15 @@ msgstr "Target line label"
 
 #: show_values
 msgid "Show values"
-msgstr "Tampilkan value"
+msgstr "Tampilkan nilai"
 
 #: hide_empty_category_items
 msgid "Hide empty category items"
-msgstr "Hide empty category items"
+msgstr "Sembunyikan item kategori kosong"
 
 #: chart_title
 msgid "Chart title"
-msgstr "Judul Diagram"
+msgstr "Sembunyikan item kategori yang kosong"
 
 #: hide_chart_title
 msgid "Hide chart title"
@@ -687,7 +686,7 @@ msgstr "Sembunyikan judul diagram"
 
 #: trend
 msgid "Trend"
-msgstr "Trend"
+msgstr "Tren"
 
 #: base
 msgid "Base"
@@ -703,7 +702,7 @@ msgstr "General"
 
 #: go_to_event_reports
 msgid "Go to event reports"
-msgstr "Go to event reports"
+msgstr "Lanjut ke event reports"
 
 #: open_this_chart_as_table
 msgid "Open this chart as table"
@@ -715,7 +714,7 @@ msgstr "Buka tabel terakhir"
 
 #: chart_options
 msgid "Chart options"
-msgstr "Chart options"
+msgstr "Pilihan diagram"
 
 #: select_sub_units
 msgid "Select sub-units"
@@ -727,7 +726,7 @@ msgstr "Anda tidak memiliki akses untuk semua item di favorite"
 
 #: example1
 msgid "Creating a chart"
-msgstr "Buat sebuah diagram"
+msgstr "Buat diagram"
 
 #: example2
 msgid "Select items from any of the dimensions in the left menu"
@@ -756,15 +755,15 @@ msgstr "Klik Favorites untuk menyimpan diagram"
 
 #: example8
 msgid "Click Download to save chart graphics to your computer"
-msgstr "Klik Download untuk menyimpan chart graphics "
+msgstr "Klik Download untuk menyimpan diagram"
 
 #: last_52_weeks
 msgid "Last 52 weeks"
-msgstr "52 minggu yang lalu"
+msgstr "52 minggu terakhir"
 
 #: last_6_months
 msgid "Last 6 months"
-msgstr "6 bulan yang lalu"
+msgstr "6 bulan terakhir"
 
 #: initializing
 msgid "Initializing"
@@ -788,7 +787,7 @@ msgstr "Tidak"
 
 #: output_type
 msgid "Output type"
-msgstr "Output type"
+msgstr "Tipe output"
 
 #: event
 msgid "Event"
@@ -800,7 +799,7 @@ msgstr "Tracked entity instance"
 
 #: enrollment
 msgid "Enrollment"
-msgstr "Enrollment"
+msgstr "Pendaftaran"
 
 #: series_dimension
 msgid "Series dimension"
@@ -808,11 +807,11 @@ msgstr "Series dimension"
 
 #: category_dimension
 msgid "Category dimension"
-msgstr "Category dimension"
+msgstr "Dimensi kategori"
 
 #: chart_filter
 msgid "Chart filter"
-msgstr "Chart filter"
+msgstr "Filter Diagram"
 
 #: report_filter
 msgid "Report filter"
@@ -820,7 +819,7 @@ msgstr "Report filter"
 
 #: value
 msgid "Value"
-msgstr "Value"
+msgstr "Nilai"
 
 #: average
 msgid "Average"
@@ -836,7 +835,7 @@ msgstr "Jumlah"
 
 #: by_data_element
 msgid "By data element"
-msgstr "By data element"
+msgstr "Berdasarkan elemen data"
 
 #: stddev
 msgid "Std Dev"
@@ -872,11 +871,11 @@ msgstr "User sub-x2-units"
 
 #: hide_na_data
 msgid "Hide n/a data"
-msgstr "Hide n/a data"
+msgstr "Sembunyikan n/a data"
 
 #: duplicate
 msgid "Duplicate"
-msgstr "Duplicate"
+msgstr "Duplikasi"
 
 #: remove
 msgid "Remove"
@@ -932,7 +931,7 @@ msgstr "Username"
 
 #: no_values_found_for_current_selection
 msgid "No values found for the current selection"
-msgstr "No values found for the current selection"
+msgstr "Data tidak dapat ditampilkan"
 
 #: error
 msgid "Error"
@@ -944,8 +943,8 @@ msgstr "Peringatan"
 
 #: completed_only
 msgid "Completed only"
-msgstr "Completed only"
+msgstr "Hanya jika lengkap"
 
 #: include_only_completed_events_only
 msgid "Include only completed events"
-msgstr "Include only completed events"
+msgstr "Masukkan event yang lengkap saja"

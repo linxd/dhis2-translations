@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2015-12-26 08:43+0000\n"
+"PO-Revision-Date: 2016-01-22 08:09+0000\n"
 "Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1451119432.0\n"
+"X-POOTLE-MTIME: 1453450177.0\n"
 
 #: home
 msgid "Home"
@@ -41,7 +41,7 @@ msgstr "Registered events"
 
 #: new_event_registration
 msgid "New event registration"
-msgstr "New event registration"
+msgstr "Registrasi event baru"
 
 #: event_details
 msgid "Event details"
@@ -49,15 +49,15 @@ msgstr "Detail Event"
 
 #: no_registered_event
 msgid "There are no registered events."
-msgstr "There are no registered events."
+msgstr "Tidak ada event yang teregistrasi"
 
 #: event_registration_error
 msgid "Error in event registration"
-msgstr "Error in event registration"
+msgstr " Registrasi event error"
 
 #: validation_error
 msgid "Validation Error"
-msgstr "Validation Error"
+msgstr "Validasi Error"
 
 #: help
 msgid "Help"
@@ -65,7 +65,7 @@ msgstr "Bantuan"
 
 #: click_for_action
 msgid "Click for more actions"
-msgstr "Click for more actions"
+msgstr "Klik untuk aksi lanjutan"
 
 #: details
 msgid "Details"
@@ -149,19 +149,19 @@ msgstr "Wajib diisi"
 
 #: int_required
 msgid "Value must be a number"
-msgstr "Harus dalam angka"
+msgstr "Nilainya harus dalam angka"
 
 #: string_required
 msgid "Value must be a text"
-msgstr "Harus dalam text"
+msgstr "Nilainya harus dalam teks"
 
 #: date_required
 msgid "Value must be date"
-msgstr "Harus dalam format tanggal"
+msgstr "Nilainya harus dalam format tanggal"
 
 #: bool_required
 msgid "Value must be true/false."
-msgstr "Harus dalam format benar/salah"
+msgstr "Nilai harus dalam format benar/salah"
 
 #: option_required
 msgid "Option is required. Please select one."
@@ -205,11 +205,11 @@ msgstr "Default form"
 
 #: print_list
 msgid "Print list"
-msgstr "Daftar cetak"
+msgstr "Cetak Daftar"
 
 #: print_form
 msgid "Print form"
-msgstr "Formulir cetak"
+msgstr "Cetak formulir"
 
 #: print_details
 msgid "Print details"
@@ -257,7 +257,7 @@ msgstr "Komentar"
 
 #: recorded_comments
 msgid "Recorded comments"
-msgstr "Recorded comments"
+msgstr "Komentar yang tersimpan"
 
 #: show_comments
 msgid "Show comments"
@@ -265,7 +265,7 @@ msgstr "Tampilkan komentar"
 
 #: new_event
 msgid "New Event"
-msgstr "New Event"
+msgstr "Event baru"
 
 #: data_element
 msgid "Data element"
@@ -273,7 +273,7 @@ msgstr "Elemen data"
 
 #: value
 msgid "Value"
-msgstr "Value"
+msgstr "Nilai"
 
 #: form_id
 msgid "Form id"
@@ -345,7 +345,7 @@ msgstr "Pilih program"
 
 #: select_program_stage
 msgid "Select program stage"
-msgstr "Select program stage"
+msgstr "Pilih program stage"
 
 #: period
 msgid "Period"
@@ -357,7 +357,7 @@ msgstr "Periode"
 
 #: start_date
 msgid "Start date"
-msgstr "Tanggal mulai "
+msgstr "Tanggal mulai"
 
 #: end_date
 msgid "End date"
@@ -365,7 +365,7 @@ msgstr "Tanggal selesai"
 
 #: incident_date
 msgid "Incident date"
-msgstr "Incident date"
+msgstr "Tanggal insidensi"
 
 #: lower_limit
 msgid "Lower limit"
@@ -393,11 +393,11 @@ msgstr "Cari"
 
 #: locate_organisation_unit_by_name
 msgid "Locate organisation unit by name"
-msgstr "Letakkan unit organisasi berdasarkan nama"
+msgstr "Urutkan unit organisasi berdasarkan nama"
 
 #: register_new
 msgid "Register New"
-msgstr "Register New"
+msgstr "Register Baru"
 
 #: empty_event_list
 msgid "There are no events"
@@ -437,7 +437,7 @@ msgstr "[Garis lintang, Garis Bujur]"
 
 #: get_from_map
 msgid "Get from map"
-msgstr "Dapatkan dari map "
+msgstr "Dapatkan dari map"
 
 #: capture
 msgid "Capture"
@@ -461,7 +461,7 @@ msgstr "Tentukan koordinat"
 
 #: point_and_click_for_coordinate
 msgid "Point and click for coordinate"
-msgstr "Buat titik dan klik untuk melihat koordinat"
+msgstr "Tunjuk dan klik untuk melihat koordinat"
 
 #: profile
 msgid "Profile"
@@ -489,7 +489,7 @@ msgstr "Akun"
 
 #: log_out
 msgid "Log out"
-msgstr "Logout"
+msgstr "Keluar"
 
 #: about_dhis2
 msgid "About DHIS 2 "
@@ -501,15 +501,15 @@ msgstr "Update Event"
 
 #: missing_translation_file
 msgid "Missing Translation File"
-msgstr "Missing Translation File"
+msgstr "File Translasi Hilang"
 
 #: missing_translation_using_default
 msgid ""
 "No translation file is found for the selected locale. Using default "
 "translation (English)."
 msgstr ""
-"Tidak ada file translasi yang dapat ditemukan. Gunakan default translation "
-"(English)"
+"Tidak ada file translasi yang dapat ditemukan. Gunakan default translation ("
+"Bahasa Inggris)"
 
 #: value_must_be
 msgid "Value must be"
@@ -521,7 +521,7 @@ msgstr "Angka"
 
 #: value_must_be_number
 msgid "Value must be number"
-msgstr "Harus dalam angka"
+msgstr "Nilai harus dalam angka"
 
 #: value_must_be_posInt
 msgid "Value must be positive integer"
@@ -561,7 +561,7 @@ msgstr "Nilainya harus diantara [-180 ... 180]"
 
 #: loading_tree
 msgid "Loading orgunit tree"
-msgstr "Loading orgunit tree"
+msgstr "Loading daftar unit organisasi"
 
 #: loading_metadata
 msgid "Loading meta-data"
@@ -586,7 +586,7 @@ msgstr "Lanjutkan"
 
 #: lacking_required_authority_to_add_update_event
 msgid "Lacking required authority to add/update event."
-msgstr "Lacking required authority to add/update event."
+msgstr "Tidak ada otoritas untuk menambah/ mengupdate event."
 
 #: select_or_search
 msgid "Select or search from the list"
@@ -602,7 +602,7 @@ msgstr "Sembunyikan menu"
 
 #: extend_menu
 msgid "Extend menu"
-msgstr "Extend menu"
+msgstr "Tampilkan menu"
 
 #: show_main_menu
 msgid "Show main menu"

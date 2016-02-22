@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2015-12-31 06:59+0000\n"
+"PO-Revision-Date: 2016-01-22 07:31+0000\n"
 "Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1451545186.0\n"
+"X-POOTLE-MTIME: 1453447904.0\n"
 
 #: DHIS_2
 msgid "DHIS2"
@@ -29,7 +29,7 @@ msgstr "Beranda"
 
 #: navigate_to
 msgid "Navigate to"
-msgstr "Arahkan ke"
+msgstr "Navigasikan ke"
 
 #: reports
 msgid "Reports"
@@ -65,7 +65,7 @@ msgstr "Entri Data"
 
 #: namebased_data_entry
 msgid "Namebased Data Entry"
-msgstr "Entri Data berbasis Nama"
+msgstr "Nama berbasis Entri Data"
 
 #: data_entry_overview
 msgid "Data Entry Overview"
@@ -73,7 +73,7 @@ msgstr "Overview Entri Data"
 
 #: logout
 msgid "Logout"
-msgstr "Logout"
+msgstr "Keluar"
 
 #: desktop_version
 msgid "Desktop version"
@@ -85,7 +85,7 @@ msgstr "Parameter laporan"
 
 #: get_report
 msgid "Get report"
-msgstr "Buat laporan"
+msgstr "Dapatkan laporan"
 
 #: reporting_period
 msgid "Report period"
@@ -97,19 +97,19 @@ msgstr "Silakan pilih unit organisasi"
 
 #: available_datasets
 msgid "Available data sets"
-msgstr "Data set yang tersedia"
+msgstr "Data set tersedia"
 
 #: available_organisation_units
 msgid "Available organisation units"
-msgstr "Unit organisasi yang tersedia"
+msgstr "Unit organisasi tersedia"
 
 #: available_periods
 msgid "Available periods"
-msgstr "Periode yang tersedia"
+msgstr "Periode tersedia"
 
 #: settings
 msgid "Settings"
-msgstr "Pengaturan"
+msgstr "Settings"
 
 #: language
 msgid "Interface Language"
@@ -161,7 +161,7 @@ msgstr "penanda identitas angka telah diduplikasi"
 
 #: warnings_and_errors
 msgid "Warnings and errors"
-msgstr "Peringatan dan kesalahan"
+msgstr "Peringatan dan eror"
 
 #: validation_rule_violation_warnings
 msgid "Validation Rule Violation Warnings"
@@ -173,7 +173,7 @@ msgstr "Peringatan Pelanggaran Min/Maks"
 
 #: type_violation_errors
 msgid "Type Violation Errors"
-msgstr "Tipe Kesalahan Pelanggaran"
+msgstr "Tipe Violation Errors"
 
 #: messages
 msgid "Messages"
@@ -193,11 +193,11 @@ msgstr "Balas"
 
 #: form_complete
 msgid "Form complete"
-msgstr "Form lengkap"
+msgstr "Formulir lengkap"
 
 #: completed
 msgid "Completed"
-msgstr "Sudah lengkap"
+msgstr "Lengkap"
 
 #: complete_programs
 msgid "Completed Programs"
@@ -205,11 +205,11 @@ msgstr "Program sudah lengkap"
 
 #: saved_section
 msgid "Saved Section"
-msgstr "Simpan bagian"
+msgstr "Simpan Section"
 
 #: sections
 msgid "Sections"
-msgstr "Bagian"
+msgstr "Sections"
 
 #: current_activityplan
 msgid "Current Activity Plan"
@@ -233,7 +233,7 @@ msgstr "Daftar Aktivitas"
 
 #: successfully_saved
 msgid "Successfully Saved"
-msgstr "Disimpan dengan sukses"
+msgstr "Sukses Tersimpan"
 
 #: select_option
 msgid "Select Option"
@@ -241,11 +241,11 @@ msgstr "Pilih Opsi"
 
 #: option_set_searching_result
 msgid "Option Set Searching Result"
-msgstr "Set opsi pencarian hasil"
+msgstr "Hasil Pencarian Option Set"
 
 #: search_for
 msgid "Searching for"
-msgstr "Pencarian untuk"
+msgstr "Cari untuk"
 
 #: id
 msgid "ID"
@@ -302,7 +302,7 @@ msgstr "Pendaftaran Orang"
 
 #: beneficiary_search
 msgid "Person Search"
-msgstr "Pencarian Orang"
+msgstr "Cari Orang"
 
 #: beneficiary_name
 msgid "Person Name"
@@ -310,11 +310,11 @@ msgstr "Nama orang"
 
 #: search_result_for
 msgid "Search Result for"
-msgstr "Pencarian Hasil untuk"
+msgstr "Cari Hasil untuk"
 
 #: search
 msgid "Search"
-msgstr "Pencarian"
+msgstr "Cari"
 
 #: enrolled_programs
 msgid "Enrolled Program(s)"
@@ -338,11 +338,11 @@ msgstr "Program tidak lengkap"
 
 #: enroll
 msgid "Enroll"
-msgstr "Mendaftarkan"
+msgstr "Daftarkan"
 
 #: enrollment_date
 msgid "Enrollment Date"
-msgstr "Tanggal Mendaftarkan"
+msgstr "Tanggal Pendaftaran"
 
 #: incident_date
 msgid "Incident Date"
@@ -362,11 +362,11 @@ msgstr "Daftar Single Event"
 
 #: back_single_event_form
 msgid "Back To Single Event Form"
-msgstr "Kembali ke Form Single Event"
+msgstr "Kembali ke Formulir Single Event"
 
 #: tracking
 msgid "Tracking"
-msgstr "Melacak"
+msgstr "Tracking"
 
 #: find_beneficiary
 msgid "Find Person"
@@ -378,7 +378,7 @@ msgstr "Rencana Kegiatan"
 
 #: search_by_name_or_id
 msgid "Search By Name or ID or Phone Number"
-msgstr "Pencarian berdasarkan Nama atau ID atau No.Telp."
+msgstr "Cari berdasarkan Nama atau ID atau No.Telp."
 
 #: select_orgunit
 msgid "Select Organisation Unit"
@@ -390,7 +390,7 @@ msgstr "Semua Unit Organisasi"
 
 #: tracking_menu
 msgid "Tracking Menu"
-msgstr "Melacak Menu"
+msgstr "Tracking Menu"
 
 #: due_date
 msgid "Due Date"
@@ -398,7 +398,7 @@ msgstr "Tanggal pelaksanaan"
 
 #: register_due_date_for
 msgid "Register Due Date For"
-msgstr "Daftar tanggal jatuh tempo untuk"
+msgstr "Register tanggal jatuh tempo untuk"
 
 #: schedule
 msgid "Schedule"
@@ -442,7 +442,7 @@ msgstr "Tambahkan Hubungan"
 
 #: related_person_search
 msgid "Related Person Search"
-msgstr "Pencarian Orang yang berkaitan"
+msgstr "Cari Orang yang berkaitan"
 
 #: related_person_list
 msgid "Related Person List"
@@ -462,15 +462,15 @@ msgstr "Tipe Tanggal Lahir"
 
 #: approximated
 msgid "Approximated"
-msgstr "Didekati"
+msgstr "Mendekati"
 
 #: declared
 msgid "Declared"
-msgstr "Dinyatakan"
+msgstr "Menyatakan"
 
 #: verified
 msgid "Verified"
-msgstr "Diverifikasi"
+msgstr "Terverifikasi"
 
 #: anomynous_program_list
 msgid "Anonymous Program List"
@@ -535,7 +535,7 @@ msgstr "Simpan saja"
 
 #: form_in_complete
 msgid "Form InComplete"
-msgstr "Form tidak lengkap"
+msgstr "Formulir tidak lengkap"
 
 #: allow_provided_elsewhere
 msgid "Provided elsewhere"
@@ -543,7 +543,7 @@ msgstr "Disediakan di tempat lain"
 
 #: search_user
 msgid "Search user by name"
-msgstr "Pencarian user berdasarkan nama"
+msgstr "Cari user berdasarkan nama"
 
 #: last_recipients
 msgid "Last recipients"
@@ -563,7 +563,7 @@ msgstr ""
 
 #: select_attribute
 msgid "Select attribute"
-msgstr "Pilih attribut"
+msgstr "Pilih atribut"
 
 #: tracked_entity
 msgid "Tracked entity"

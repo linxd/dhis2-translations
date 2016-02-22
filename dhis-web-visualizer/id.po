@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2015-12-27 06:42+0000\n"
-"Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
+"PO-Revision-Date: 2016-02-16 04:41+0000\n"
+"Last-Translator: Annisa Ristya <annisaristya@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1451198555.0\n"
+"X-POOTLE-MTIME: 1455597660.0\n"
 
 #: title
 msgid "DHIS 2 Data Visualizer"
@@ -25,11 +25,11 @@ msgstr "Tipe Diagram"
 
 #: column_chart
 msgid "Column chart"
-msgstr "Diagram Batang"
+msgstr "Diagram Kolom"
 
 #: stacked_column_chart
 msgid "Stacked column chart"
-msgstr "Stacked column chart"
+msgstr "Diagram kolom bertingkat"
 
 #: bar_chart
 msgid "Bar chart"
@@ -37,23 +37,23 @@ msgstr "Diagram batang"
 
 #: stacked_bar_chart
 msgid "Stacked bar chart"
-msgstr "Stacked bar chart"
+msgstr "Diagram batang bertingkat"
 
 #: line_chart
 msgid "Line chart"
-msgstr "Line chart"
+msgstr "Diagram garis"
 
 #: area_chart
 msgid "Area chart"
-msgstr "Area chart"
+msgstr "Diagram bidang"
 
 #: pie_chart
 msgid "Pie chart"
-msgstr "Pie chart"
+msgstr "Diagram lingkaran"
 
 #: radar_chart
 msgid "Radar chart"
-msgstr "Radar chart"
+msgstr "Diagram radar"
 
 #: series
 msgid "Series"
@@ -69,7 +69,7 @@ msgstr "Filter"
 
 #: example_chart
 msgid "Example chart"
-msgstr "Contoh grafik"
+msgstr "Contoh diagram"
 
 #: loading
 msgid "Loading..."
@@ -85,7 +85,7 @@ msgstr "Nilai"
 
 #: indicators
 msgid "Indicators"
-msgstr "Indikator"
+msgstr "Indikator-indikator"
 
 #: select_group
 msgid "Select group"
@@ -125,7 +125,7 @@ msgstr "3 bulan"
 
 #: last_quarter
 msgid "Last quarter"
-msgstr "3 bulan terakhir"
+msgstr "Triwulan terakhir"
 
 #: last_4_quarters
 msgid "Last 4 quarters"
@@ -163,7 +163,7 @@ msgstr "Unit organisasi"
 
 #: select_all_children
 msgid "Select all children"
-msgstr "Pilih semua level di bawah induk unit organisasi"
+msgstr "Select all children"
 
 #: chart_options
 msgid "Chart options"
@@ -179,19 +179,19 @@ msgstr "Perlihatkan garis trend"
 
 #: hide_subtitle
 msgid "Hide chart subtitle"
-msgstr "Sembunyikan sub judul grafik"
+msgstr "Sembunyikan sub judul diagram"
 
 #: hide_legend
 msgid "Hide chart legend"
-msgstr "Sembunyikan chart legend"
+msgstr "Sembunyikan legenda pada diagram"
 
 #: domain_axis_label
 msgid "Domain axis title"
-msgstr "Label Domain axis (X)"
+msgstr "Judul domain sumbu X"
 
 #: range_axis_label
 msgid "Range axis title"
-msgstr "Label range axis (Y)"
+msgstr "Judul rentang sumbu X"
 
 #: target
 msgid "Target"
@@ -207,7 +207,7 @@ msgstr "Target line label"
 
 #: show_hide_chart_settings
 msgid "Show/hide chart settings"
-msgstr "Pengaturan untuk menampilkan/menyembunyikan grafik"
+msgstr "Setting untuk menampilkan/menyembunyikan diagram"
 
 #: update
 msgid "Update"
@@ -215,7 +215,7 @@ msgstr "Update"
 
 #: data_table
 msgid "Data table"
-msgstr "Tabel laporan"
+msgstr "Tabel data"
 
 #: manage_favorites
 msgid "Manage favorites"
@@ -247,11 +247,11 @@ msgstr "Rename"
 
 #: rename_favorite
 msgid "Rename favorite"
-msgstr "Rename favorit"
+msgstr "Rename favorite"
 
 #: cancel
 msgid "Cancel"
-msgstr "Cancel"
+msgstr "Batal"
 
 #: name_already_in_use
 msgid "* Name already in use"
@@ -264,7 +264,7 @@ msgstr "Hapus"
 
 #: delete_favorite
 msgid "Delete favorite"
-msgstr "Hapus favorit"
+msgstr "Hapus favorite"
 
 #: are_you_sure
 msgid "Are you sure?"
@@ -276,19 +276,19 @@ msgstr "Simpan"
 
 #: create_chart_before_saving
 msgid "Please create a chart before saving"
-msgstr "Silakan membuat grafik sebelum menyimpan"
+msgstr "Silakan membuat diagram sebelum menyimpan"
 
 #: overwrite
 msgid "Overwrite"
-msgstr "Tulis ulang"
+msgstr "Overwrite"
 
 #: no_svg_format
 msgid "No SVG format"
-msgstr "Tidak ada format dalam bentuk SVG"
+msgstr "Tidak  dalam bentuk SVG format"
 
 #: image_png
 msgid "Image"
-msgstr "Gambar dalam bentuk PNG"
+msgstr "Gambar"
 
 #: hide_data_table
 msgid "Hide data table"
@@ -304,7 +304,7 @@ msgstr "Perbarui nama"
 
 #: deleting
 msgid "Deleting"
-msgstr "Hapus"
+msgstr "Menghapus"
 
 #: data
 msgid "Data"
@@ -328,11 +328,11 @@ msgstr "Unit organisasi"
 
 #: system_favorite_overwrite_not_allowed
 msgid "* You are not allowed to overwrite a system favorite"
-msgstr "*Anda tidak diizinkan untuk menulis kembali sistem favorit"
+msgstr "*Anda tidak diizinkan untuk overwrite sistem favorite"
 
 #: favorite_no_orgunits
 msgid "Favorite has no organisation units"
-msgstr "Favorit tidak memiliki unit organisasi"
+msgstr "Favorite tidak memiliki unit organisasi"
 
 #: this_year
 msgid "This year"
@@ -349,12 +349,12 @@ msgstr "Data set"
 #: datasets
 msgctxt "datasets"
 msgid "Data sets"
-msgstr "Data sets"
+msgstr "Data set- data set"
 
 #: data_sets
 msgctxt "data_sets"
 msgid "Data sets"
-msgstr "Data sets"
+msgstr "Data set- data set"
 
 #: reporting_rates
 msgid "Reporting rates"
@@ -362,7 +362,7 @@ msgstr "Tingkat pelaporan"
 
 #: base_line_value
 msgid "Base line value"
-msgstr "Nilai Base line"
+msgstr "Nilai base line"
 
 #: base_line_label
 msgid "Base line label"
@@ -382,7 +382,7 @@ msgstr "[Tidak ada]"
 
 #: et_no_data
 msgid "No data returned from server"
-msgstr "Tidak ada data kembali pada server"
+msgstr "Tidak ada data yang kembali dari server"
 
 #: em_no_data
 msgid ""
@@ -390,7 +390,7 @@ msgid ""
 "has been run properly."
 msgstr ""
 "Pastikan bahwa ada data yang tersimpan dalam database dan data mart telah "
-"berjalan dengan baik."
+"dijalankan dengan baik."
 
 #: et_invalid_dimension_setup
 msgid "Invalid dimension setup"
@@ -434,37 +434,37 @@ msgstr "Silakan menambahkan min 1 grup unit organisasi"
 
 #: et_line_area_categories
 msgid "Not enough categories selected"
-msgstr "Tidak cukup kategori yang dipilih"
+msgstr "Kategori yang dipilih tidak mencukupi"
 
 #: em_line_area_categories
 msgid "Please select at least two categories for line and area charts."
-msgstr "Silakan pilih min 2 kategori untuk line chart dan area chart."
+msgstr "Silakan pilih min 2 kategori untuk diagram garis dan diagram bidang."
 
 #: et_invalid_uid
 msgid "Invalid ID"
-msgstr "Invalid uid"
+msgstr "ID invalid"
 
 #: em_invalid_uid
 msgid "Please provide a valid chart ID."
-msgstr "Silakan menyediakan valid chart uid"
+msgstr "Silakan berikan ID diagram yang valid"
 
 #: et_svg_browser
 msgid "SVG not supported by browser"
-msgstr "Browser ini tidak mensupport SVG"
+msgstr "SVG tidak disupport oleh browser"
 
 #: em_svg_browser
 msgid "Please use Chrome, Firefox, Opera or Safari to export images."
 msgstr ""
-"Silakan menggunakan Chrome, Firefox, Opera atau Safari untuk mengeksport "
+"Silakan menggunakan Chrome, Firefox, Opera atau Safari untuk mengekspor "
 "gambar"
 
 #: wm_trendline_deactivated
 msgid "Trend line deactivated"
-msgstr "Deaktivasi garis trend"
+msgstr "Deaktivasi garis tren"
 
 #: wm_targetline_deactivated
 msgid "Target line deactivated"
-msgstr "Deaktivasi garis trend"
+msgstr "Deaktivasi garis tren"
 
 #: wm_baseline_deactivated
 msgid "Base line deactivated"
@@ -476,19 +476,19 @@ msgstr "tidak berlaku untuk"
 
 #: wm_stacked_chart
 msgid "stacked charts"
-msgstr "stacked charts"
+msgstr "diagram bertingkat"
 
 #: wm_pie_chart
 msgid "pie charts"
-msgstr "pie charts"
+msgstr "diagram lingkaran"
 
 #: wm_required_categories
 msgid "at least two categories required"
-msgstr "minimal 2 kategori dibutuhkan"
+msgstr "minimal dibutuhkan 2 kategori"
 
 #: wm_multiple_filter_ind_de_ds
 msgid "Multiple indicators/data elements/data sets selected as filter."
-msgstr "Multiple indikator/elemen data/data set terpilih sebagai filter"
+msgstr "Multiple indikator/elemen data/data set terpilih sebagai filter."
 
 #: wm_multiple_filter_period
 msgid "Multiple periods selected as filter."
@@ -508,7 +508,7 @@ msgstr "Bagian pertama telah digunakan"
 
 #: available_attribute
 msgid "Available attribute"
-msgstr "Atribut yang tersedia "
+msgstr "Atribut yang tersedia"
 
 #: selected_attribute
 msgid "Selected attribute"
@@ -532,11 +532,11 @@ msgstr "Interpretasi telah dibagikan"
 
 #: save_load_favorite_before_sharing
 msgid "Please save or load a favorite before sharing"
-msgstr "Silakan menyimpan atau memuat favorit sebelum dibagikan"
+msgstr "Silakan menyimpan atau memuat favorite sebelum dibagikan"
 
 #: create_chart_before_datatable
 msgid "Please create a chart before showing the datatable"
-msgstr "Silakan membuat grafik sebelum menampilkan tabel data"
+msgstr "Silakan membuat diagram sebelum menampilkan tabel data"
 
 #: organisation_unit_groups
 msgid "Organisation unit groups"
@@ -556,7 +556,7 @@ msgstr "Periode relatif"
 
 #: periods
 msgid "Periods"
-msgstr "Periode"
+msgstr "Periode-periode"
 
 #: select_type
 msgid "Select type"
@@ -616,11 +616,11 @@ msgstr "Minggu lalu"
 
 #: last_4_weeks
 msgid "Last 4 weeks"
-msgstr "4 minggu yang lalu"
+msgstr "4 minggu terakhir"
 
 #: last_12_weeks
 msgid "Last 12 weeks"
-msgstr "12 minggu yang lalu"
+msgstr "12 minggu terakhir"
 
 #: bimonths
 msgid "Bi-months"
@@ -628,7 +628,7 @@ msgstr "2 bulan"
 
 #: last_bimonth
 msgid "Last bi-month"
-msgstr "2 bulan yang lalu "
+msgstr "2 bulan terakhir"
 
 #: last_6_bimonths
 msgid "Last 6 bi-months"
@@ -684,7 +684,7 @@ msgstr ""
 #: at_least_one_period_must_be_specified_as_column_row_or_filter
 msgid "At least one period must be specified as column, row or filter"
 msgstr ""
-"Paling tidak ada 1 periode yang ditetapkan sebagai kolom, baris atau filter "
+"Paling tidak ada 1 periode yang ditetapkan sebagai kolom, baris atau filter"
 
 #: indicators_cannot_be_specified_as_filter
 msgid "Indicators cannot be specified as filter"
@@ -712,7 +712,7 @@ msgstr "Download"
 
 #: favorites
 msgid "Favorites"
-msgstr "Favorit"
+msgstr "Favorite"
 
 #: chart_title
 msgid "Chart title"
@@ -724,7 +724,7 @@ msgstr "Sembunyikan judul diagram"
 
 #: search_for_favorites
 msgid "Search for favorites"
-msgstr "Search for favorites"
+msgstr "Cari favorites"
 
 #: overwrite_favorite
 msgid "Overwrite favorite"
@@ -769,7 +769,7 @@ msgstr "Tambah baru"
 
 #: can_view
 msgid "Can view"
-msgstr "Dapat ditampilkan"
+msgstr "Dapat menampilkan"
 
 #: can_edit_and_view
 msgid "Can edit and view"
@@ -777,15 +777,15 @@ msgstr "Dapat diedit dan ditampilkan"
 
 #: search_for_user_groups
 msgid "Search for user group"
-msgstr "Search for user group"
+msgstr "Cari grup user"
 
 #: public_access
 msgid "Public access"
-msgstr "Public access"
+msgstr "Akses publik"
 
 #: detailed_data_elements_cannot_be_specified_as_filter
 msgid "Detailed data elements cannot be specified as filter"
-msgstr "Elemen data detail tidak dapat ditetapkan sebagai filter"
+msgstr "Elemen data secara detail tidak dapat ditetapkan sebagai filter"
 
 #: plain_data_sources
 msgid "Plain data source"
@@ -809,7 +809,7 @@ msgstr "Pilih unit organisasi"
 
 #: select_boundaries_and_levels
 msgid "Select boundaries and levels"
-msgstr "Select boundaries and levels"
+msgstr "Pilih boundaries dan level"
 
 #: select_organisation_unit_levels
 msgid "Select organisation unit levels"
@@ -825,7 +825,7 @@ msgstr "Pilih kelompok unit organisasi"
 
 #: allow_external_access
 msgid "Allow external access"
-msgstr "Allow external access"
+msgstr "Ijinkan akses eksternal"
 
 #: daily
 msgid "Daily"
@@ -841,7 +841,7 @@ msgstr "Bulanan"
 
 #: bimonthly
 msgid "Bi-monthly"
-msgstr "Tiap 2 bulan "
+msgstr "Tiap 2 bulan"
 
 #: quarterly
 msgid "Quarterly"
@@ -881,7 +881,7 @@ msgstr "Semua elemen data"
 
 #: hide_empty_category_items
 msgid "Hide empty category items"
-msgstr "Hide empty category items"
+msgstr "Sembunyikan item kategori yang kosong"
 
 #: axes
 msgid "Axes"
@@ -893,7 +893,7 @@ msgstr "General"
 
 #: go_to_pivot_tables
 msgid "Go to pivot tables"
-msgstr "Ke tabel Pivot"
+msgstr "Lanjut ke tabel Pivot"
 
 #: open_this_chart_as_table
 msgid "Open this chart as table"
@@ -905,7 +905,7 @@ msgstr "Tampilkan tabel terakhir"
 
 #: go_to_maps
 msgid "Go to maps"
-msgstr "Go to maps"
+msgstr "Lanjut ke map"
 
 #: open_this_chart_as_map
 msgid "Open this chart as map"
@@ -921,7 +921,7 @@ msgstr "Dimensi"
 
 #: assigned_categories
 msgid "Assigned categories"
-msgstr "Assigned categories"
+msgstr "Tetapkan kategori"
 
 #: table_layout
 msgid "Table layout"
@@ -965,7 +965,8 @@ msgstr "Working with a chart"
 
 #: example6
 msgid "Click Options to show trend lines, target lines, axis titles and more"
-msgstr "Klik Options untuk  trend lines, target lines, axis titles dan lainnya"
+msgstr ""
+"Klik Options untuk melihat trend lines, target lines, axis titles dan lainnya"
 
 #: example7
 msgid "Click Favorites to save your chart for later use"
@@ -973,7 +974,7 @@ msgstr "Klik Favorites untuk menyimpan diagram"
 
 #: example8
 msgid "Click Download to save chart graphics to your computer"
-msgstr "Klik Download untuk menyimpan diagram grafik "
+msgstr "Klik Download untuk menyimpan diagram grafik"
 
 #: low_to_high
 msgid "Low to high"
@@ -985,15 +986,15 @@ msgstr "Tinggi ke rendah"
 
 #: sort_order
 msgid "Sort order"
-msgstr "Sort order"
+msgstr "Urutkan susunan"
 
 #: last_52_weeks
 msgid "Last 52 weeks"
-msgstr "52 minggu yang lalu"
+msgstr "52 minggu terakhir"
 
 #: last_6_months
 msgid "Last 6 months"
-msgstr "6 bulan yang lalu"
+msgstr "6 bulan terakhir"
 
 #: created_by
 msgid "Created by"
@@ -1029,11 +1030,11 @@ msgstr "Layout diagram"
 
 #: aggregation_type
 msgid "Aggregation type"
-msgstr "Aggregation type"
+msgstr "Tipe agregasi"
 
 #: by_data_element
 msgid "By data element"
-msgstr "By data element"
+msgstr "Berdasarkan elemen data"
 
 #: count
 msgid "Count"
@@ -1073,7 +1074,7 @@ msgstr "Bulan ini"
 
 #: this_sixmonth
 msgid "This six-month"
-msgstr "6 bulan ini"
+msgstr "Semester ini"
 
 #: this_bimonth
 msgid "This bi-month"
@@ -1121,7 +1122,7 @@ msgstr "Username"
 
 #: no_values_found_for_current_selection
 msgid "No values found for the current selection"
-msgstr "No values found for the current selection"
+msgstr "Data tidak dapat ditampilkan"
 
 #: error
 msgid "Error"
@@ -1149,12 +1150,12 @@ msgstr "Pilih program"
 
 #: completed_only
 msgid "Completed only"
-msgstr "Completed only"
+msgstr "Hanya jika lengkap"
 
 #: events
 msgid "Events"
-msgstr "Event"
+msgstr "Events"
 
 #: include_only_completed_events_only
 msgid "Include only completed events"
-msgstr "Include only completed events"
+msgstr "Masukkan event yang lengkap saja"

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2015-12-27 06:04+0000\n"
+"PO-Revision-Date: 2016-02-22 05:10+0000\n"
 "Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1451196250.0\n"
+"X-POOTLE-MTIME: 1456117806.0\n"
 
 #: online_notification
 msgid "You are online"
@@ -29,11 +29,11 @@ msgstr "Login gagal, cek username anda, password dan coba kembali"
 
 #: tracked_entity_management
 msgid "Tracked entity management"
-msgstr "Tracked entity management"
+msgstr "Manajeman Tracked entity"
 
 #: registering_unit
 msgid "Registering unit"
-msgstr "Registering unit"
+msgstr "Unit pendaftaran"
 
 #: program
 msgid "Program"
@@ -45,7 +45,7 @@ msgstr "Tracked Entity"
 
 #: tracked_entity_attribute
 msgid "Tracked Entity Attribute"
-msgstr "Tracked Entity Attribute"
+msgstr "Atribut Tracked Entity"
 
 #: select_or_search
 msgid "Select or search from the list"
@@ -65,59 +65,63 @@ msgstr "[Tidak ada program]"
 
 #: please_select_a_program_for_enrollment
 msgid "Please select a program for enrollment."
-msgstr "Please select a program for enrollment."
+msgstr "Silahkan pilih program untuk pendaftaran."
 
 #: please_select_program_report
 msgid "Please select a program for reporting."
-msgstr "Please select a program for reporting."
+msgstr "Silahkan pilih program untuk pelaporan."
 
 #: please_select_a_relationship
 msgid "Please select a relationship"
-msgstr "Please select a relationship"
+msgstr "Silahkan pilih hubungan"
 
 #: no_relationship
 msgid "No relationship exists."
-msgstr "No relationship exists."
+msgstr "Tidak ada hubungan."
 
 #: relationship_not_possible
 msgid "No tracked entity instance, relationship not possible."
-msgstr "No tracked entity instance, relationship not possible."
+msgstr "Tidak ada tracked entity instance, tidak memungkinkan adanya hubungan."
 
 #: no_program_exists_enrollment
 msgid "No program exists for the selected org unit. Enrollment not possible."
-msgstr "No program exists for the selected org unit. Enrollment not possible."
+msgstr ""
+"Tidak ada program untuk unit organisasi terpilih.Pendaftaran tidak "
+"dimungkinkan."
 
 #: no_program_exists_report
 msgid "No program exists for the selected org unit. Reporting not possible."
-msgstr "No program exists for the selected org unit. Reporting not possible."
+msgstr ""
+"Tidak ada program untuk organisasi terpilih. Pelaporan tidak mungkin "
+"dilakukan."
 
 #: not_yet_enrolled_data_entry
 msgid "Not yet enrolled. Data entry not possible."
-msgstr "Not yet enrolled. Data entry not possible."
+msgstr "Belum terdaftar. Entri data tidak dimungkinkan."
 
 #: not_yet_enrolled_enrollment
 msgid "Not yet enrolled. Please enroll."
-msgstr "Not yet enrolled. Please enroll."
+msgstr "Belum terdaftar. Sialahkan daftar."
 
 #: no_active_enrollment_exists
 msgid "No active enrollment exists for the selected program"
-msgstr "No active enrollment exists for the selected program"
+msgstr "Tidak ada pendaftaran untuk program terpilih"
 
 #: not_yet_enrolled_note
 msgid "Not yet enrolled. Note recording not possible."
-msgstr "Not yet enrolled. Note recording not possible."
+msgstr "Belum terdaftar. Perekaman catatan tidak dimungkinkan."
 
 #: not_yet_enrolled_report
 msgid "Not yet enrolled. Reporting not possible"
-msgstr "Not yet enrolled. Reporting not possible"
+msgstr "Belum terdaftar. Pelaporan tidak dimungkinkan"
 
 #: no_data_report
 msgid "No record exists for reporting"
-msgstr "No record exists for reporting"
+msgstr "Tidak ada rekaman untuk pelaporan"
 
 #: empty_notes
 msgid "Empty notes list."
-msgstr "Empty notes list"
+msgstr "Daftar catatan kosong."
 
 #: event
 msgid "Event"
@@ -145,7 +149,7 @@ msgstr "[Tampilkan semua]"
 
 #: list_all_entities
 msgid "List all entities"
-msgstr "List all entities"
+msgstr "Daftar semua entity"
 
 #: list_all
 msgid "List all"
@@ -161,7 +165,7 @@ msgstr "Invalid"
 
 #: selected_tei_is_invalid
 msgid "Selected tracked entity instance is invalid."
-msgstr "Selected tracked entity instance is invalid."
+msgstr "Tracked entity instance terpilih tidak valid."
 
 #: required
 msgid "Required"
@@ -257,15 +261,15 @@ msgstr "Silakan tentukan kriteria pencarian yang dimaksud"
 
 #: in_progress
 msgid "In progress"
-msgstr "In progress"
+msgstr "Dalam proses"
 
 #: registered_entities
 msgid "Registered entities"
-msgstr "Registered entities"
+msgstr "Entity yang terdaftar"
 
 #: empty_entity_list
 msgid "There are no registered entities"
-msgstr "There are no registered entities"
+msgstr "Tidak ada entity yang terdaftar"
 
 #: empty
 msgid "Empty"
@@ -273,7 +277,7 @@ msgstr "Kosong"
 
 #: form_is_empty_fill_at_least_one
 msgid "Form is empty, please fill at least one."
-msgstr "Formulirnya kosong, silakan isi paling tidak satu "
+msgstr "Formulirnya kosong, silakan isi paling tidak satu"
 
 #: total
 msgid "Total"
@@ -337,7 +341,7 @@ msgstr "Tracker associate"
 
 #: association
 msgid "Manage associations"
-msgstr "Manage associations"
+msgstr "Atur asosiasi"
 
 #: change_location
 msgid "Manage location"
@@ -397,11 +401,11 @@ msgstr "Skip"
 
 #: unskip
 msgid "Schedule back"
-msgstr "Schedule back"
+msgstr "Jadwal ulang"
 
 #: complete
 msgid "Complete"
-msgstr "Selesai"
+msgstr "Lengkap"
 
 #: incomplete
 msgid "Incomplete"
@@ -453,7 +457,7 @@ msgstr "Buat event baru"
 
 #: create_new_event_repeatable
 msgid "Create new event from a repeatable stage"
-msgstr "Create new event from a repeatable stage"
+msgstr "Buat event baru untuk tahapan yang dapat diulangi"
 
 #: toggle_table_view_on
 msgid "Show events as tables where possible"
@@ -465,7 +469,7 @@ msgstr "Tampilkan data entri untuk setiap event"
 
 #: event_recorded_on
 msgid "Event recorded on"
-msgstr "Event recorded on"
+msgstr "Event yang tersimpan pada"
 
 #: at
 msgid "at"
@@ -473,11 +477,11 @@ msgstr "di"
 
 #: show_more
 msgid "Click for more"
-msgstr "Click for more"
+msgstr "Klik untuk penjelasan lebih lanjut"
 
 #: close_search
 msgid "Close search"
-msgstr "Close search"
+msgstr "Tutup pencarian"
 
 #: search_attributes
 msgid "Search attributes"
@@ -485,15 +489,15 @@ msgstr "Cari atribut"
 
 #: available_search_attributes
 msgid "Available search attributes"
-msgstr "Available search attributes"
+msgstr "Atribut pencarian yang tersedia"
 
 #: selected_search_attributes
 msgid "Selected search attributes"
-msgstr "Selected search attributes"
+msgstr "Atribut pencarian terpilih"
 
 #: search_for_dashboard
 msgid "Search for dashboard items"
-msgstr "Search for dashboard items"
+msgstr "Cari item dashboard"
 
 #: dashboard
 msgid "Dashboard"
@@ -509,27 +513,27 @@ msgstr "Kembali"
 
 #: enrollment
 msgid "Enrollment"
-msgstr "Enrollment"
+msgstr "Pendaftaran"
 
 #: enrolling_orgunit
 msgid "Enrolling orgunit"
-msgstr "Enrolling orgunit"
+msgstr "Pendaftaran unit organisasi"
 
 #: delete_enrollment
 msgid "Delete enrollment"
-msgstr "Hapus enrollment"
+msgstr "Hapus pendaftaran"
 
 #: terminate_enrollment
 msgid "Terminate enrollment"
-msgstr "Akhiri enrollment"
+msgstr "Akhiri pendaftaran"
 
 #: complete_enrollment
 msgid "Complete enrollment"
-msgstr "Selesaikan enrollment"
+msgstr "Selesaikan pendaftaran"
 
 #: enrollment_date
 msgid "Enrollment date"
-msgstr "Tanggal enrollment"
+msgstr "Tanggal pendaftaran"
 
 #: notes
 msgid "Notes"
@@ -549,11 +553,11 @@ msgstr "Tambahkan hubungan"
 
 #: a_is_to_b
 msgid "A is to B"
-msgstr "A is to B"
+msgstr "A untuk B"
 
 #: b_is_to_a
 msgid "B is to A"
-msgstr "B is to A"
+msgstr "B untuk A"
 
 #: select
 msgid "Select"
@@ -569,7 +573,7 @@ msgstr "Daftar baru"
 
 #: search_from_existing
 msgid "Search from existing"
-msgstr "Search from existing"
+msgstr "Cari dari yang ada"
 
 #: name
 msgid "Name"
@@ -613,11 +617,11 @@ msgstr "Registrasi dan Data Entri"
 
 #: program_summary_report
 msgid "Program Summary Report"
-msgstr "Program Summary Report"
+msgstr "Laporan ringkasan program"
 
 #: program_summary
 msgid "Program Summary"
-msgstr "Program Summary"
+msgstr "Ringkasan program"
 
 #: program_summary_description
 msgid ""
@@ -625,13 +629,13 @@ msgid ""
 "time frame. The report presents a list of tracked entity instances and their "
 "records organized based on program stages."
 msgstr ""
-"Generate a summary report for a particular program, organisation unit and "
-"time frame. The report presents a list of tracked entity instances and their "
-"records organized based on program stages."
+"Buat sebuah laporan ringkasan untuk program tertentu, unit organisasi dan "
+"time frame. Laporan menunjukkan sebuah daftar tracked entity instances dan "
+"rekaman dikelola berdasarkan tahapan program."
 
 #: program_statistics_report
 msgid "Program Statistics Report"
-msgstr "Program Statistics Report"
+msgstr "Laporan Program Statistik"
 
 #: program_statistics
 msgid "Program Statistics"
@@ -643,13 +647,13 @@ msgid ""
 "for example an overview of drop-outs or completion rates in a given time "
 "frame at a particular organisation unit."
 msgstr ""
-"Generate a statistics report for a particular program. The report provides "
-"for example an overview of drop-outs or completion rates in a given time "
-"frame at a particular organisation unit."
+"Buat laporan statistik untuk program tertentu. Laporan tersebut menyediakan "
+"contoh overview drop out atau rata-rata penyelesaian dalam time frame pada "
+"unit organisasi tertentu."
 
 #: upcoming_events
 msgid "Upcoming Events"
-msgstr "Upcoming Events"
+msgstr "Event selanjutnya"
 
 #: upcoming_events_description
 msgid ""
@@ -657,9 +661,9 @@ msgid ""
 "upcoming events for a selected program and time. Searching, sorting and show/"
 "hide operations are possible on the columns."
 msgstr ""
-"Generate a tabular report showing tracked entity instances and their "
-"upcoming events for a selected program and time. Searching, sorting and show/"
-"hide operations are possible on the columns."
+"Buat laporan tabulasi yang menunjukkan tracked entity instances dan event "
+"selanjutnya untuk program dan waktu yang dipilih. Pencarian, pengurutan dan "
+"tampilkan/sembunyikan operation dalam bentuk kolom."
 
 #: overdue_events
 msgid "Overdue Events"
@@ -671,13 +675,14 @@ msgid ""
 "of tracked entity instances and their events that are not conducted on time. "
 "Filtering and searching is also possible."
 msgstr ""
-"Generate a list of events for a selected program. The report displays list "
-"of tracked entity instances and their events that are not conducted on time. "
-"Filtering and searching is also possible."
+"Buat sebuah daftar event untuk program terpilih. Laporan tersebut "
+"menunjukkan daftar tracked entity instances dan event yang tdak "
+"diselenggarakan tepat waktu. Memfilter dan melakukan pencarian mungkin "
+"dilakukan."
 
 #: enrollment_stats
 msgid "Enrollment statistics"
-msgstr "Statistik enrollment"
+msgstr "Statistik pendaftaran"
 
 #: event_stats
 msgid "Event statistics"
@@ -685,7 +690,7 @@ msgstr "Statistik Event"
 
 #: upcoming_event
 msgid "Upcoming event"
-msgstr "Upcoming event"
+msgstr "Event selanjutnya"
 
 #: legend
 msgid "Legend"
@@ -697,7 +702,7 @@ msgstr "Apa arti warna tersebut?"
 
 #: completed
 msgid "COMPLETED"
-msgstr "SELESAI"
+msgstr "COMPLETED"
 
 #: executed
 msgid "EXECUTED"
@@ -705,7 +710,7 @@ msgstr "EXECUTED"
 
 #: ontime
 msgid "ONTIME"
-msgstr "TEPAT WAKTU"
+msgstr "ONTIME"
 
 #: overdue
 msgid "OVERDUE"
@@ -725,7 +730,7 @@ msgstr "laporan"
 
 #: visit_schedule
 msgid "Visit Schedule"
-msgstr "Lihat jadwal"
+msgstr "Jadwal Kunjungan"
 
 #: mark_for_followup
 msgid "Mark for follow-up"
@@ -737,7 +742,7 @@ msgstr "Hapus dari follow-up"
 
 #: only_marked_for_followup
 msgid "Only marked for follow-up"
-msgstr "Only marked for follow-up"
+msgstr "Hanya ditandai untuk follow-up"
 
 #: registered_data
 msgid "Registered data"
@@ -761,15 +766,15 @@ msgstr "Data tersedia"
 
 #: data_registerd
 msgid "No data registered"
-msgstr "Tiada data yang terdaftar"
+msgstr "Tidak ada data yang terdaftar"
 
 #: no_visit_made
 msgid "No visit made"
-msgstr "No visit made"
+msgstr "Tidak ada kunjungan"
 
 #: visit_not_made
 msgid "Visit not made"
-msgstr "Visit not made"
+msgstr "Kunjungan tidak dilakukan"
 
 #: _visit
 msgid "visit"
@@ -785,7 +790,7 @@ msgstr "Kunjungi"
 
 #: current_selections
 msgid "Current selections"
-msgstr "Current selections"
+msgstr "Yang dipilih saat ini"
 
 #: activePrograms
 msgid "Active programs"
@@ -830,7 +835,7 @@ msgstr "Tersedia dimana saja"
 
 #: expand
 msgid "Expand"
-msgstr "Expand"
+msgstr "Perlihatkan lebih detail"
 
 #: collapse
 msgid "Collapse"
@@ -894,7 +899,7 @@ msgstr "Program stage"
 
 #: due_date
 msgid "Due date"
-msgstr "Hari H"
+msgstr "Tanggal jatuh tempo"
 
 #: event_date
 msgid "Event date"
@@ -910,15 +915,15 @@ msgstr "Tidak dapat dijadwal ulang"
 
 #: show_hide_scheduling
 msgid "Show/hide scheduling form"
-msgstr "Tampilkan/sembunyikan lembar penjadwalan"
+msgstr "Tampilkan/sembunyikan form penjadwalan"
 
 #: show_hide_messaging
 msgid "Show/hide messaging form"
-msgstr "Tampilkan/sembunyikan lembar pesan"
+msgstr "Tampilkan/sembunyikan form pengiriman pesan"
 
 #: messaging
 msgid "Messaging"
-msgstr "Messaging"
+msgstr "Pengiriman pesan"
 
 #: scheduling
 msgid "Scheduling"
@@ -926,7 +931,7 @@ msgstr "Penjadwalan"
 
 #: reschedule_duedate
 msgid "Reschedule due date"
-msgstr "Jadwalkan ulang hari H"
+msgstr "Jadwalkan ulang tanggal jatuh tempo"
 
 #: reschedule
 msgid "Reschedule"
@@ -950,7 +955,7 @@ msgstr "Rincian jadwal"
 
 #: no_event_to_schedule
 msgid "No event to schedule"
-msgstr "No event to schedule"
+msgstr "Tidak ada event terjadwal"
 
 #: enroll
 msgid "Enroll"
@@ -958,7 +963,7 @@ msgstr "Daftar"
 
 #: new_enrollment
 msgid "New enrollment"
-msgstr "Daftar baru"
+msgstr "Pendaftaran baru"
 
 #: start_date
 msgid "Start date"
@@ -966,7 +971,7 @@ msgstr "Tanggal mulai"
 
 #: end_date
 msgid "End date"
-msgstr "Tanggal terakhir"
+msgstr "Tanggal berakhir"
 
 #: from
 msgid "From"
@@ -1038,19 +1043,19 @@ msgstr "Tidak"
 
 #: records
 msgid "Records"
-msgstr "Records"
+msgstr "Rekam"
 
 #: record
 msgid "Record"
-msgstr "Record"
+msgstr "Rekam"
 
 #: _record
 msgid "record"
-msgstr "record"
+msgstr "rekam"
 
 #: _records
 msgid "records"
-msgstr "records"
+msgstr "rekam"
 
 #: found
 msgid "Found"
@@ -1058,11 +1063,11 @@ msgstr "Ditemukan"
 
 #: move_to_selected
 msgid "Move to selected"
-msgstr "Move to selected"
+msgstr "Pindahkan ke bagian yang terpilih"
 
 #: move_all_to_selected
 msgid "Move all to selected"
-msgstr "Move all to selected"
+msgstr "Pindahkan semua ke bagian yang terpilih"
 
 #: current
 msgid "Current"
@@ -1102,19 +1107,19 @@ msgstr "Error in registration"
 
 #: update_error
 msgid "Error in update"
-msgstr "Error in update"
+msgstr "Error dalam proses update"
 
 #: event_creation_error
 msgid "Error in event creation"
-msgstr "Error in event creation"
+msgstr "Error dalam pembuatan event"
 
 #: relationship_error
 msgid "Error in relationship assignment"
-msgstr "Error in relationship assignment"
+msgstr "Error dalam penugasan hubungan"
 
 #: tracker_associate_error
 msgid "Error in tracker associate assignment"
-msgstr "Error in tracker associate assignment"
+msgstr "Error dalam penugasan tracker associate"
 
 #: error
 msgid "Error"
@@ -1191,15 +1196,15 @@ msgstr "Apakah anda yakin ingin menghapus enrollment yang dipilih?"
 
 #: would_you_like_to_complete_enrollment
 msgid "Would you like to complete the current enrollment?"
-msgstr "Would you like to complete the current enrollment?"
+msgstr "Apakah Anda ingin melengkapi pendaftaran terkini?"
 
 #: are_you_sure_to_complete_enrollment
 msgid "Are you sure you want to complete the selected enrollment?"
-msgstr "Are you sure you want to complete the selected enrollment?"
+msgstr "Anda yakin akan menghapus pendaftaran yang dipilih?"
 
 #: are_you_sure_to_terminate_enrollment
 msgid "Are you sure you want to terminate the selected enrollment?"
-msgstr "Are you sure you want to terminate the selected enrollment?"
+msgstr "Anda yakin akan menghentikan pendaftaran yang dipilih?"
 
 #: are_you_sure_to_delete_event
 msgid "Are you sure you want to delete the selected event?"
@@ -1235,7 +1240,7 @@ msgstr "Lagi"
 
 #: under_construction
 msgid "Under construction.    "
-msgstr "Under construction"
+msgstr "Sedang dalam perbaikan."
 
 #: advanced_search
 msgid "Advanced search"
@@ -1251,7 +1256,7 @@ msgstr "Apps"
 
 #: more_applications
 msgid "More apps"
-msgstr "More apps"
+msgstr "Apps lainnya"
 
 #: settings
 msgid "Settings"
@@ -1267,7 +1272,7 @@ msgstr "Bantuan"
 
 #: log_out
 msgid "Log out"
-msgstr "Logout"
+msgstr "Log out"
 
 #: about_dhis2
 msgid "About DHIS 2"
@@ -1282,12 +1287,12 @@ msgid ""
 "No translation file is found for the selected locale. Using default "
 "translation (English)."
 msgstr ""
-"No translation file is found for the selected locale. Using default "
+"File translasi tidak ditemukan pada locale terpilih. Gunakan default "
 "translation (English)."
 
 #: loading_tree
 msgid "Loading orgunit tree"
-msgstr "Memuat bagan unit organisasi"
+msgstr "Loading bagan unit organisasi"
 
 #: loading_metadata
 msgid "Loading meta-data"
@@ -1295,15 +1300,15 @@ msgstr "Loading meta-data"
 
 #: latitude
 msgid "Latitude"
-msgstr "Garis lintang"
+msgstr "Latitude"
 
 #: longitude
 msgid "Longitude"
-msgstr "Garis Bujur"
+msgstr "Longitude"
 
 #: lat_lng
 msgid "[Latitude Longitude]"
-msgstr "[Garis lintang, Garis Bujur]"
+msgstr "[Latitude Longitude]"
 
 #: get
 msgid "Get"
@@ -1311,7 +1316,7 @@ msgstr "Dapatkan"
 
 #: get_from_map
 msgid "Get from map"
-msgstr "Dapatkan dari map"
+msgstr "Dapatkan dari peta"
 
 #: capture
 msgid "Capture"
@@ -1359,19 +1364,19 @@ msgstr "Tampilkan hanya yang aktif saja"
 
 #: all_enrollment
 msgid "Show with all enrollment status"
-msgstr "Show with all enrollment status"
+msgstr "Tampilkan semua status pendaftaran"
 
 #: active_enrollment
 msgid "Only those with active enrollment"
-msgstr "Only those with active enrollment"
+msgstr "Hanya untuk pendaftaran yang aktif saja"
 
 #: cancelled_enrollment
 msgid "Only those with cancelled enrollment"
-msgstr "Only those with cancelled enrollment"
+msgstr "Hanya untuk pendaftaran yang dibatalkan"
 
 #: completed_enrollment
 msgid "Only those with completed enrollment"
-msgstr "Only those with completed enrollment"
+msgstr "Hanya untuk pendaftaran yang lengkap"
 
 #: filter_events
 msgid "Filter events"
@@ -1467,19 +1472,19 @@ msgstr "lebih besar dari"
 
 #: inactive
 msgid "Inactive"
-msgstr "Tidak aktif"
+msgstr "Inaktif"
 
 #: activate_tei
 msgid "Set TEI to active"
-msgstr "Set TEI to active"
+msgstr "Aktifkan TEI"
 
 #: deactivate_tei
 msgid "Set TEI to inactive"
-msgstr "Set TEI to inactive"
+msgstr "Inaktifkan TEI"
 
 #: tei_inactive_only_read
 msgid "The TEI is inactive. Only read operations are allowed."
-msgstr "TEI tidak aktif. Hanya membaca operation yang diperbolehkan "
+msgstr "TEI tidak aktif. Hanya memperbolehkan read operations."
 
 #: hide_menu
 msgid "Hide menu"

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2015-12-26 07:58+0000\n"
+"PO-Revision-Date: 2016-01-22 05:04+0000\n"
 "Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1451116729.0\n"
+"X-POOTLE-MTIME: 1453439077.0\n"
 
 #: home
 msgid "Home"
@@ -37,11 +37,11 @@ msgstr "Apps"
 
 #: more_applications
 msgid "More apps"
-msgstr "More apps"
+msgstr "More Apps"
 
 #: search_apps
 msgid "Search apps"
-msgstr "Cari apps"
+msgstr "Cari Apps"
 
 #: settings
 msgid "Settings"
@@ -53,7 +53,7 @@ msgstr "Akun"
 
 #: log_out
 msgid "Log out"
-msgstr "Logout"
+msgstr "Keluar"
 
 #: about_dhis2
 msgid "About DHIS 2"
@@ -77,19 +77,19 @@ msgstr "DHIS 2 browser cache cleaner"
 
 #: clears_local_cache
 msgid "This clears selected items from your browser cache"
-msgstr "This clears selected items from your browser cache"
+msgstr "Proses ini membersihkan item terpilih pada cache di browser anda"
 
 #: proceed_cleaning
 msgid "Are your sure you want to proceed with the cleaning?"
-msgstr "Aapakah anda yakin untuk melanjutkan proses cleaning? "
+msgstr "Apakah anda yakin untuk melanjutkan proses cleaning?"
 
 #: cache_cleared
 msgid "Browser cache is cleared."
-msgstr "Browser cache is cleared."
+msgstr "Cache pada browser anda telah dihapus."
 
 #: nothing_to_clear
 msgid "Browser cache is empty. Nothing to clear."
-msgstr "Browser cache is empty. Nothing to clear."
+msgstr "Cache pada Browser sudah tidak ada."
 
 #: clearing_cache
 msgid "Clearing cache"
@@ -101,11 +101,11 @@ msgstr "Lanjutkan"
 
 #: select_all
 msgid "Select all"
-msgstr "Select all"
+msgstr "Pilih semua"
 
 #: unselect_all
 msgid "Unselect all"
-msgstr "Unselect all"
+msgstr "Batalkan semua pilihan"
 
 #: cancel
 msgid "Cancel"

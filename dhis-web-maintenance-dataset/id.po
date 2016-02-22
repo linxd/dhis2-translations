@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2015-12-27 06:53+0000\n"
+"PO-Revision-Date: 2016-01-27 03:55+0000\n"
 "Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -13,11 +13,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1451199217.0\n"
+"X-POOTLE-MTIME: 1453866930.0\n"
 
 #: available_for_mobile_reporting
 msgid "Available for mobile reporting"
-msgstr "Tersedia untuk Pelaporan Mobile"
+msgstr "Tersedia untuk Pelaporan berbasis Mobile"
 
 #: please_select_dataset
 msgid "Please select a data set"
@@ -33,11 +33,11 @@ msgstr "Section grey field management"
 
 #: disable
 msgid "Disable"
-msgstr "Disable"
+msgstr "Nonaktif kan"
 
 #: enable
 msgid "Enable"
-msgstr "Enable"
+msgstr "Aktifkan"
 
 #: nr
 msgid "No"
@@ -53,7 +53,7 @@ msgstr "Elemen - elemen data"
 
 #: indicators
 msgid "Indicators"
-msgstr "Indikator"
+msgstr "Indikator-indikator"
 
 #: select_categorycombo
 msgid "Select category combo"
@@ -101,7 +101,7 @@ msgstr "Indikator tersedia"
 
 #: define_associations
 msgid "Assign to organisation units"
-msgstr "Tempatkan data set ke unit organisasi yang dituju"
+msgstr "Daftarkan data set ke unit organisasi yang dituju"
 
 #: number_of_data_elements
 msgid "Number of data elements"
@@ -109,11 +109,11 @@ msgstr "Jumlah elemen data"
 
 #: define_dataset_associations
 msgid "Assign data set to organisation units"
-msgstr "Tempatkan data set ke unit organisasi yang dituju"
+msgstr "Daftarkan data set ke unit organisasi yang dituju"
 
 #: assign
 msgid "Assign"
-msgstr "Tempatkan"
+msgstr "Daftarkan"
 
 #: edit_dataset
 msgid "Edit data set"
@@ -178,11 +178,11 @@ msgstr "Pilih data set"
 
 #: sort_section
 msgid "Sort section"
-msgstr "Urutkan bagian"
+msgstr "Urutkan section"
 
 #: dataset_section
 msgid "Data Set Section"
-msgstr "Bagian Data Set"
+msgstr "Data Set Section"
 
 #: label
 msgid "Label"
@@ -198,11 +198,11 @@ msgstr "Tambahkan bagian"
 
 #: section_details
 msgid "Section Details"
-msgstr "Detail bagian"
+msgstr "Detail Section"
 
 #: edit_section
 msgid "Edit section"
-msgstr "Edit bagian"
+msgstr "Edit section"
 
 #: sort
 msgid "Sort"
@@ -223,14 +223,14 @@ msgstr "Manajemen data set"
 
 #: section_management
 msgid "Data set section management"
-msgstr "Manajemen bagian data set"
+msgstr "Manajemen data set section"
 
 #: intro_dataset
 msgid ""
 "Create, update, view and delete data sets and custom forms. A data set is a "
 "collection of data elements for which data is entered."
 msgstr ""
-"Buat, update, lihat dan hapus data set dan mendesain formulir. Data set "
+"Buat, update, lihat dan hapus data set dan custom formulir. Data set "
 "merupakan kumpulan elemen data yang digunakan untuk mengentri data"
 
 #: intro_dataset_assignment_editor
@@ -247,15 +247,15 @@ msgstr "Edit elemen data wajib"
 
 #: dataset_assignment_editor
 msgid "Data Set Assignment Editor"
-msgstr "Editor Penugasan data set"
+msgstr "Data Set Assignment Editor"
 
 #: new
 msgid "Add new"
-msgstr "Tambahkan baru"
+msgstr "Tambah baru"
 
 #: delete_success
 msgid "Delete successfully"
-msgstr "Hapus dengan sukses"
+msgstr "Sukses terhapus"
 
 #: select
 msgid "[Select]"
@@ -263,7 +263,7 @@ msgstr "[Pilih]"
 
 #: save_success
 msgid "Saved successfully"
-msgstr "Simpan dengan sukses"
+msgstr "Sukses tersimpan"
 
 #: save_close
 msgid "Save and close"
@@ -311,11 +311,11 @@ msgstr "Selesai"
 
 #: section_sort_order
 msgid "Section sort order"
-msgstr "Urutkan menurut bagian"
+msgstr "Urutkan menurut section"
 
 #: confirm_delete_section
 msgid "Are you sure you want to delete this section?"
-msgstr "Apakah Anda yakin akan menghapus bagian ini?"
+msgstr "Apakah Anda yakin akan menghapus section ini?"
 
 #: specify_name
 msgid "Please specify a name"
@@ -351,7 +351,9 @@ msgstr "Batas Kadaluarsa"
 
 #: timely_days
 msgid "Days after period to qualify for timely submission"
-msgstr "Days after period to qualify for timely submission"
+msgstr ""
+"Jumlah hari setelah periode tertentu untuk mengukur ketepatan waktu "
+"pelaporan data"
 
 #: insert_data_elements_totals_indicators
 msgid "Insert data elements, totals and indicators"
@@ -367,7 +369,7 @@ msgstr "Comfortable"
 
 #: regular
 msgid "Regular"
-msgstr "Reguler"
+msgstr "Regular"
 
 #: compact
 msgid "Compact"
@@ -383,7 +385,7 @@ msgstr "Aktifkan periode mendatang"
 
 #: skip_aggregation
 msgid "Skip data mart aggregation"
-msgstr "Skip agregasi"
+msgstr "Skip agregasi data mart"
 
 #: insert_data_elements
 msgid "Insert data elements"
@@ -391,11 +393,11 @@ msgstr "Insert elemen data"
 
 #: insert_input_fields_into_the_form
 msgid "Insert input fields into the form"
-msgstr "Inset bidang input ke dalam form"
+msgstr "Insert input ke dalam formulir"
 
 #: cat_option_combo_not_exist
 msgid "Category option combo does not exist"
-msgstr "Pilihan kategori kombo tidak ditemukan"
+msgstr "Category option combo tidak ditemukan"
 
 #: data_element_not_exist
 msgid "Data element does not exist"
@@ -407,7 +409,7 @@ msgstr "Indikator tidak ditemukan"
 
 #: cat_combo_not_exist
 msgid "Category combo does not exist"
-msgstr "Kategori kombo tidak ditemukan"
+msgstr "Kategori combo tidak ditemukan"
 
 #: all_fields_for_data_element_required
 msgid "All fields for data elements required"
@@ -419,11 +421,11 @@ msgstr "Detail form"
 
 #: complete_allowed_only_if_validation_passes
 msgid "Complete allowed only if validation passes"
-msgstr "Silakan klik lengkap diizinkan jika validasi berhasil dijalankan"
+msgstr "Silakan klik lengkap jika validasi berhasil dijalankan"
 
 #: notification_recipients
 msgid "Complete notification recipients"
-msgstr "Notifikasi pad penerima selesai dilakukan"
+msgstr "Complete notification recipients"
 
 #: no_value_requires_comment
 msgid "Missing value requires comment on complete"
@@ -439,7 +441,7 @@ msgstr "Render sections as tabs"
 
 #: render_horizontally
 msgid "Render Vertically"
-msgstr "Buat secara vertikal"
+msgstr "Render Vertically"
 
 #: object_not_deleted_associated_by_objects
 msgid "Object not deleted because it is associated by objects of type"
@@ -451,11 +453,11 @@ msgstr "Autosave formulir entri data"
 
 #: notify_completing_user
 msgid "Send notification to completing user"
-msgstr "Kirimkan notifikasi untuk pengguna"
+msgstr "Kirimkan notifikasi untuk user"
 
 #: approve_data
 msgid "Approve data"
-msgstr "Approve data"
+msgstr "Data disetujui"
 
 #: insert_images
 msgid "Insert images"
@@ -467,7 +469,7 @@ msgstr "Data element decoration"
 
 #: pdf_data_entry_form
 msgid "Get PDF for Data Entry"
-msgstr "Bentuk PDF untuk data entri"
+msgstr "Dapatkan form data entri dalam PDF"
 
 #: select_symbol
 msgid "Select symbol"
@@ -479,11 +481,11 @@ msgstr "Simbol"
 
 #: legend_set
 msgid "Legend set"
-msgstr "Buat legenda"
+msgstr "Legend set"
 
 #: enable_for_java_mobile_client
 msgid "Enable for Java mobile client"
-msgstr "Enable for Java mobile client"
+msgstr "Aktifkan Java mobile client"
 
 #: view_sections
 msgid "View sections"
@@ -491,4 +493,4 @@ msgstr "Tampilkan sections"
 
 #: open_future_periods_for_data_entry
 msgid "Open future periods for data entry"
-msgstr "Open future periods for data entry"
+msgstr "Tampilkan periode selanjutnya untuk entri data"

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2015-12-26 06:34+0000\n"
+"PO-Revision-Date: 2016-01-22 07:08+0000\n"
 "Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1451111644.0\n"
+"X-POOTLE-MTIME: 1453446484.0\n"
 
 #: DHIS_2
 msgid "DHIS2"
@@ -25,7 +25,7 @@ msgstr "Menu"
 
 #: home
 msgid "Home"
-msgstr "Home"
+msgstr "Beranda"
 
 #: navigate_to
 msgid "Navigate to"
@@ -73,7 +73,7 @@ msgstr "Overview Entri Data"
 
 #: logout
 msgid "Logout"
-msgstr "Logout"
+msgstr "Keluar"
 
 #: desktop_version
 msgid "Desktop version"
@@ -85,7 +85,7 @@ msgstr "Parameter laporan"
 
 #: get_report
 msgid "Get report"
-msgstr "Buat laporan"
+msgstr "Dapatkan laporan"
 
 #: reporting_period
 msgid "Report period"
@@ -97,11 +97,11 @@ msgstr "Silakan memilih unit organisasi"
 
 #: available_datasets
 msgid "Available data sets"
-msgstr "Data set yang tersedia"
+msgstr "Data set tersedia"
 
 #: available_organisation_units
 msgid "Available organisation units"
-msgstr "Unit organisasi yang tersedia"
+msgstr "Unit organisasi tersedia"
 
 #: available_periods
 msgid "Available periods"
@@ -109,7 +109,7 @@ msgstr "Periode yang tersedia"
 
 #: settings
 msgid "Settings"
-msgstr "Pengaturan"
+msgstr "Settings"
 
 #: language
 msgid "Interface Language"
@@ -141,7 +141,7 @@ msgstr "Bukan bilangan bulat negatif yang valid"
 
 #: warnings_and_errors
 msgid "Warnings and errors"
-msgstr "Peringatan dan kesalahan"
+msgstr "Peringatan dan error"
 
 #: validation_rule_violation_warnings
 msgid "Validation Rule Violation Warnings"
@@ -161,7 +161,7 @@ msgstr "Pesan"
 
 #: conversations
 msgid "Conversations"
-msgstr "Pembicaraan"
+msgstr "Percakapan"
 
 #: subject
 msgid "Subject"
@@ -173,19 +173,19 @@ msgstr "Balas"
 
 #: form_complete
 msgid "Form complete"
-msgstr "Form lengkap"
+msgstr "Formulir lengkap"
 
 #: completed
 msgid "Completed"
-msgstr "Sudah lengkap"
+msgstr "Lengkap"
 
 #: saved_section
 msgid "Saved Section"
-msgstr "Simpan Bagian"
+msgstr "Simpan Section"
 
 #: sections
 msgid "Sections"
-msgstr "Bagian"
+msgstr "Sections"
 
 #: current_activityplan
 msgid "Current Activity Plan"
@@ -205,11 +205,11 @@ msgstr "Daftar penerima"
 
 #: activity_list
 msgid "Activity List"
-msgstr "Daftar aktivitasi"
+msgstr "Daftar aktivitas"
 
 #: successfully_saved
 msgid "Successfully Saved"
-msgstr "Tersimpan dengan sukses"
+msgstr "Sukses Tersimpan "
 
 #: select_option
 msgid "Select Option"
@@ -245,7 +245,7 @@ msgstr "Pendaftaran Penerima"
 
 #: beneficiary_search
 msgid "Beneficiary Search"
-msgstr "Mencari Penerima"
+msgstr "Cari Penerima"
 
 #: beneficiary_name
 msgid "Beneficiary Name"
@@ -266,7 +266,7 @@ msgstr "Kirim SMS"
 
 #: test_sms_input
 msgid "Test SMS input"
-msgstr "Uji masukan SMS"
+msgstr "Uji input SMS"
 
 #: send_sms
 msgctxt "send_sms"
@@ -307,7 +307,7 @@ msgstr "Hanya untuk tingkatan di bawah unit organisasi"
 
 #: please_select_a_program
 msgid "Please select a program"
-msgstr "Silakan memilih program"
+msgstr "Silakan pilih program"
 
 #: please_select_user_group
 msgid "Please select user group"
@@ -325,7 +325,7 @@ msgstr "Servis berhenti. SMS tidak dapat dikirimkan"
 msgid ""
 "Please verify the phone number(s). Separate each number with a semicolon (;)"
 msgstr ""
-"Silakan memverifikasi no.telp. Pisahkan setiap angka dengan semicolon (;)"
+"Silakan memverifikasi no.telp. Pisahkan setiap angka dengan titik koma (;)"
 
 #: please_select_orgunit
 msgid "Please select at least one organisation unit"
@@ -341,11 +341,11 @@ msgstr "Unit Pendaftaran"
 
 #: search_by_name_identifier
 msgid "Search by name or identifier"
-msgstr "Pencarian berdasarkan nama/pengenal"
+msgstr "Cari berdasarkan nama/pengenal"
 
 #: search_by_program
 msgid "Search by program"
-msgstr "Pencarian berdasarkan program"
+msgstr "Cari berdasarkan program"
 
 #: please_select_village
 msgid "Please select village"
@@ -357,11 +357,11 @@ msgstr "Silakan menspesifikasikan kriteria pencarian"
 
 #: list_all_patients
 msgid "List all Persons"
-msgstr "Daftarkan semua orang"
+msgstr "Tampilkan semua orang"
 
 #: search
 msgid "Search"
-msgstr "Pencarian"
+msgstr "Cari"
 
 #: search_by_selected_unit
 msgid "Search by selected unit"
@@ -397,7 +397,7 @@ msgstr "Tidak ada no. telp."
 
 #: add_phone_to_list
 msgid "Add phone to list"
-msgstr "Tambahkan no.telp ke daftar"
+msgstr "Tambahkan no.telp ke dalam daftar"
 
 #: hierachy_orgunit
 msgid "Hierarchy organisation unit"
@@ -405,7 +405,7 @@ msgstr "Hierarki unit organisasi"
 
 #: total_result
 msgid "Total number of results"
-msgstr "Jumlah total hasil"
+msgstr "Total hasil"
 
 #: search_result_matching_the_search_criteria
 msgid "Result matches the search criteria"
@@ -413,7 +413,7 @@ msgstr "Hasil sesuai dengan kriteria pencarian"
 
 #: search_patients_by_attributes
 msgid "Search persons by attributes"
-msgstr "Pencarian orang berdasarkan atribut"
+msgstr "Cari orang berdasarkan atribut"
 
 #: user_group
 msgid "User Group"
@@ -461,11 +461,11 @@ msgstr "Lakukan pencarian di semua fasilitas"
 
 #: dblick_to_unselect
 msgid "Double-click to remove"
-msgstr "Double-klik untuk menghilangkan"
+msgstr "Klik dua kali untuk menghapus"
 
 #: advance_search
 msgid "Advance search"
-msgstr "Pencarian lanjut"
+msgstr "Pencarian lanjutan"
 
 #: program
 msgid "Program"
@@ -485,4 +485,4 @@ msgstr "Usia (th)"
 
 #: org_unit_phone_number
 msgid "Organisation unit phone number"
-msgstr "Telepon unit organisasi"
+msgstr "Nomor telepon unit organisasi"

@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2016-01-02 18:33+0000\n"
-"Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
+"PO-Revision-Date: 2016-02-19 04:00+0000\n"
+"Last-Translator: Annisa Ristya <annisaristya@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1451759636.0\n"
+"X-POOTLE-MTIME: 1455854428.0\n"
 
 #: omit_indicators_zero_numerator_data_mart
 msgid "Omit indicator values with zero numerator in data mart"
@@ -22,7 +22,7 @@ msgstr ""
 
 #: dashboard_charts_to_display
 msgid "Dashboard Charts to Display"
-msgstr "Tampilkan dashboard grafik"
+msgstr "Tampilkan dashboard Diagram"
 
 #: code
 msgid "Code"
@@ -66,11 +66,11 @@ msgstr "Setting"
 
 #: flag
 msgid "Flag"
-msgstr "Flag"
+msgstr "Bendera"
 
 #: no_flag
 msgid "No flag"
-msgstr "No flag"
+msgstr "Tidak ada bendera"
 
 #: macos
 msgid "Mac OS"
@@ -93,15 +93,15 @@ msgid ""
 "Customize the system behavior with regard to aggregation strategy, "
 "infrastructural data elements and more."
 msgstr ""
-"Menyesuaikan perilaku sistem yang berkaitan dengan strategi agregasi, elemen "
-"infrastruktur data dan lainnya"
+"Menyesuaikan perilaku sistem yang berkaitan dengan strategi agregasi, "
+"infrastruktur elemen data dan sebagainya"
 
 #: intro_appearance_settings
 msgid ""
 "Customize the system behavior with regard to application title, style, flag, "
 "start page."
 msgstr ""
-"Menyesuaikan sistem perilaku yang berkaitan dengan judul aplikasi, style, "
+"Menyesuaikan perilaku sistem yang berkaitan dengan judul aplikasi, style, "
 "bendera, dan halaman depan"
 
 #: intro_email_settings
@@ -109,7 +109,7 @@ msgid ""
 "Configure the email SMTP setup with regard to host name, user name and "
 "password."
 msgstr ""
-"Mengkonfigurasi email SMTP setup berkaitan dengan nama host, username dan "
+"Mengkonfigurasi setup email SMTP berkaitan dengan nama host, username dan "
 "password."
 
 #: intro_approval_settings
@@ -117,7 +117,7 @@ msgid ""
 "Configure the levels at which data is approved according to organisation "
 "unit level and category option group."
 msgstr ""
-"Mengkonfigurasi tingkat dimana data telah disetuji berdasarkan tingkat unit "
+"Mengkonfigurasi tingkat dimana data telah disetujui berdasarkan tingkat unit "
 "organisasi dan grup category option."
 
 #: intro_access_settings
@@ -164,7 +164,7 @@ msgstr "Setting email"
 
 #: approval_settings
 msgid "Approval Settings"
-msgstr "Approval Settings"
+msgstr "Setting persetujuan"
 
 #: calendar_settings
 msgid "Calendar Settings"
@@ -192,14 +192,14 @@ msgstr "Email"
 
 #: send_test_email
 msgid "Send me a test email"
-msgstr "Kirimi saya sebuah email tes "
+msgstr "Kirimi saya sebuah email untuk ujicoba"
 
 #: info_send_test_email
 msgid ""
 "Send an automatically generated email using the supplied SMTP settings to "
 "your email address"
 msgstr ""
-"Kirim email secara otomatis menggunakan  SMTP settings yang disediakan untuk "
+"Kirim email secara otomatis menggunakan SMTP setting yang disediakan untuk "
 "alamat email anda"
 
 #: approval
@@ -216,11 +216,11 @@ msgstr "Sembunyikan data yang tidak disetujui dalam analisis"
 
 #: data_approval_levels
 msgid "Data approval levels"
-msgstr "Tingkat persetujuan data"
+msgstr "Level persetujuan data"
 
 #: approval_level
 msgid "Approval level"
-msgstr "Tingkat persetujuan"
+msgstr "Level persetujuan"
 
 #: organisation_unit_level
 msgid "Organisation unit level"
@@ -310,7 +310,7 @@ msgstr "Infrastruktur elemen data"
 
 #: infrastructural_period_type
 msgid "Infrastructural period type"
-msgstr "Infrastruktur jenis periode"
+msgstr "Infrastruktur tipe periode"
 
 #: feedback_recipients
 msgid "Feedback recipients"
@@ -322,7 +322,7 @@ msgstr "Tidak ada penerima pesan"
 
 #: completeness_recipients
 msgid "Completeness notification recipients"
-msgstr "Penerima kelengkapan notifikasi "
+msgstr "Penerima kelengkapan notifikasi"
 
 #: no_completeness_recipients
 msgid "No completeness recipients"
@@ -350,15 +350,15 @@ msgstr "No cache"
 
 #: cache_until_6am_tomorrow
 msgid "Cache until 6 AM tomorrow"
-msgstr "Cache until 6 AM tomorrow"
+msgstr "Cache sampai jam 6 pagi, besok"
 
 #: cache_for_two_weeks
 msgid "Cache for two weeks"
-msgstr "Cache for two weeks"
+msgstr "Cache selama 2 minggu"
 
 #: max_levels_to_offline
 msgid "Max offline organisation unit levels"
-msgstr "Maximum offline organisation unit levels"
+msgstr "Max level unit organisasi offline"
 
 #: relative_to_current_user
 msgid "relative to current user"
@@ -386,15 +386,15 @@ msgstr "Tidak diperbolehkan registrasi mandiri"
 
 #: do_not_require_recaptcha_for_self_registration
 msgid "Do not require recaptcha for self registration"
-msgstr "Tidak membutuhkan recaptcha untuk pendaftaran mandiri "
+msgstr "Tidak membutuhkan recaptcha untuk registrasi mandiri"
 
 #: self_registration_account_user_role
 msgid "Self registration account user role"
-msgstr "Peran pengguna untuk akun self registration"
+msgstr "Peran pengguna untuk akun registrasi mandiri"
 
 #: self_registration_account_organisation_unit
 msgid "Self registration account organisation unit"
-msgstr "Akun self registration unit organisasi"
+msgstr "Akun registrasi mandiri unit organisasi"
 
 #: access
 msgid "Access"
@@ -422,7 +422,7 @@ msgstr "Notifikasi aplikasi"
 
 #: multi_organisation_unit_forms
 msgid "Enable multi-organisation unit forms"
-msgstr "Aktifkan form multi unit organisasi"
+msgstr "Aktifkan formulir multi-unit organisasi"
 
 #: port
 msgid "Port"
@@ -438,7 +438,7 @@ msgstr "Pengirim email"
 
 #: allows_html
 msgid "allows HTML"
-msgstr "memperbolehkan HTML"
+msgstr "izinkan format HTML"
 
 #: application_left_footer
 msgid "Application left-side footer"
@@ -546,11 +546,11 @@ msgstr "Otomatis"
 
 #: detect_based_on_web_server
 msgid "detect based on web server"
-msgstr "mendeteksi berdasarkan web server"
+msgstr "deteksi berdasarkan web server"
 
 #: help_page_link
 msgid "Help page link"
-msgstr "Help page link"
+msgstr "Link halaman Bantuan"
 
 #: server_base_url
 msgid "Server base URL"
@@ -558,7 +558,7 @@ msgstr "Server base URL"
 
 #: acceptance_required_before_approval
 msgid "Acceptance required before approval"
-msgstr "Penerimaan dibutuhkan sebelum persetujuan"
+msgstr "Penerimaan dibutuhkan sebelum persetujuan dilakukan"
 
 #: system_notifications_email_address
 msgid "System notifications email address"
@@ -566,7 +566,7 @@ msgstr "Sistem notifikasi alamat email"
 
 #: default_analysis_relative_period
 msgid "Default relative period for analysis"
-msgstr "Default relative period for analysis"
+msgstr "Default periode relatif untuk analisis"
 
 #: infrastructural_indicators
 msgid "Infrastructure indicators"
@@ -587,8 +587,7 @@ msgstr "Sebagai contoh"
 #: allow_assigning_object_to_related_objects_during_add_or_update
 msgid "Allow assigning object to related objects during add or update"
 msgstr ""
-"Memperbolehkan objek yang ditetapkan ke objek yang terkait selama penambahan "
-"atau perbaruan"
+"Izinkan objek yang terkait objek tertentu selama penambahan atau perbaruan"
 
 #: delete_oauth2_client
 msgid "Are you sure you want to remove this OAuth2 client?"
@@ -616,7 +615,7 @@ msgstr "Client ID"
 
 #: client_secret
 msgid "Client Secret"
-msgstr "Rahasia klien"
+msgstr "Client Secret"
 
 #: grant_types
 msgid "Grant Types"

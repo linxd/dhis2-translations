@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2016-01-01 16:19+0000\n"
+"PO-Revision-Date: 2016-02-19 03:00+0000\n"
 "Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -13,15 +13,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1451665159.0\n"
+"X-POOTLE-MTIME: 1455850806.0\n"
 
 #: save
 msgid "Save"
-msgstr "simpan"
+msgstr "Simpan"
 
 #: saved
 msgid "saved"
-msgstr "disimpan"
+msgstr "tersimpan"
 
 #: delete
 msgid "Delete"
@@ -29,7 +29,7 @@ msgstr "hapus"
 
 #: deleted
 msgid "deleted"
-msgstr "dihapus"
+msgstr "terhapus"
 
 #: update
 msgid "Update"
@@ -45,7 +45,7 @@ msgstr "daftar"
 
 #: registered
 msgid "registered"
-msgstr "didaftar"
+msgstr "terdaftar"
 
 #: add
 msgid "Add"
@@ -89,7 +89,7 @@ msgstr "pasang"
 
 #: applied
 msgid "applied"
-msgstr "dipasang"
+msgstr "terpasang"
 
 #: show
 msgid "Show"
@@ -97,31 +97,31 @@ msgstr "tampil"
 
 #: hide
 msgid "Hide"
-msgstr "sembunyi"
+msgstr "Sembunyikan"
 
 #: showhide
 msgid "Show / hide"
-msgstr "tampil / sembunyi"
+msgstr "Tampilkan / Sembunyikan"
 
 #: toggle
 msgid "Toggle"
-msgstr "beralih"
+msgstr "Toggle"
 
 #: boundary
 msgid "Boundary"
-msgstr "batas"
+msgstr "Boundary"
 
 #: level
 msgid "Level"
-msgstr "tingkat"
+msgstr "Level"
 
 #: type
 msgid "Type"
-msgstr "tipe"
+msgstr "Tipe"
 
 #: new
 msgid "New"
-msgstr "baru"
+msgstr "Baru"
 
 #: edit
 msgid "Edit"
@@ -129,51 +129,51 @@ msgstr "edit"
 
 #: export
 msgid "Export"
-msgstr "eksport"
+msgstr "Ekspor"
 
 #: map
 msgid "Map"
-msgstr "peta"
+msgstr "Map"
 
 #: favorite
 msgid "Favorite"
-msgstr "favorit"
+msgstr "Favorite"
 
 #: favorites
 msgid "Favorites"
-msgstr "banyak favorit"
+msgstr "Favorites"
 
 #: legend
 msgid "Legend"
-msgstr "legenda"
+msgstr "Legenda"
 
 #: legendset
 msgid "Legend set"
-msgstr "set legenda"
+msgstr "Legend set"
 
 #: group
 msgid "Group"
-msgstr "grup"
+msgstr "Grup"
 
 #: groups
 msgid "Groups"
-msgstr "banyak grup"
+msgstr "Banyak grup"
 
 #: groupset
 msgid "Group set"
-msgstr "set satu grup"
+msgstr "Set grup"
 
 #: groupsets
 msgid "Group sets"
-msgstr "set grup"
+msgstr "Beberapa set grup"
 
 #: indicators
 msgid "Indicators"
-msgstr "indikator"
+msgstr "Indikator-indikator"
 
 #: dataelements
 msgid "Data elements"
-msgstr "elemen data"
+msgstr "Elemen Data"
 
 #: thematic_map
 msgid "Thematic map"
@@ -181,23 +181,23 @@ msgstr "peta tematik"
 
 #: polygon_layer
 msgid "Polygon layer"
-msgstr "lapisan poligon"
+msgstr "Polygon layer"
 
 #: point_layer
 msgid "Point layer"
-msgstr "lapisan titik"
+msgstr "Point layer"
 
 #: indicator_group
 msgid "Indicator group"
-msgstr "group indikator"
+msgstr "Grup indikator"
 
 #: indicator
 msgid "Indicator"
-msgstr "indikator"
+msgstr "Indikator"
 
 #: period_type
 msgid "Period type"
-msgstr "tipe periode"
+msgstr "Tipe periode"
 
 #: period
 msgid "Period"
@@ -217,7 +217,7 @@ msgstr "Metode"
 
 #: classes
 msgid "Classes"
-msgstr "Kelas"
+msgstr "Kelas - kelas"
 
 #: low_color
 msgid "Low color"
@@ -245,11 +245,11 @@ msgstr "Predefined"
 
 #: equal_intervals
 msgid "Equal intervals"
-msgstr "interval equal"
+msgstr "Interval yang sama"
 
 #: equal_group_count
 msgid "Equal group count"
-msgstr "Banyak kelompok yang sama "
+msgstr "Jumlah kelompok yang setara"
 
 #: fixed_intervals
 msgid "Fixed intervals"
@@ -265,59 +265,59 @@ msgstr "Sumber peta"
 
 #: base_coordinate
 msgid "Base coordinate"
-msgstr "koordinat dasar"
+msgstr "Basis koordinat "
 
 #: admin_panels
 msgid "Admin panels"
-msgstr "panel admin"
+msgstr "Panel admin"
 
 #: longitude_x
 msgid "Longitude (x)"
-msgstr "longitude"
+msgstr "Longitude (x)"
 
 #: latitude_y
 msgid "Latitude (y)"
-msgstr "latitude"
+msgstr "Latitude (y)"
 
 #: save_coordinate
 msgid "Save coordinate"
-msgstr "simpan koordinat"
+msgstr "Simpan koordinat"
 
 #: error_while_retrieving_data
 msgid "Error while retrieving data"
-msgstr "kesalahan saat mengambil data"
+msgstr "Error saat mengambil data"
 
 #: status
 msgid "Status"
-msgstr "status"
+msgstr "Status"
 
 #: bounds
 msgid "Bounds"
-msgstr "batas"
+msgstr "Bounds"
 
 #: comma_separated_values
 msgid "Comma separated values"
-msgstr "nilai terpisah koma"
+msgstr "Comma separated values"
 
 #: ajax_request_failed
 msgid "Ajax request failed"
-msgstr "permintaan ajax gagal"
+msgstr "Ajax request gagal"
 
 #: error
 msgid "Error"
-msgstr "error"
+msgstr "Error"
 
 #: component_init_not_complete
 msgid "Component init not complete"
-msgstr "komponen init tidak lengkap"
+msgstr "komponen ini tidak lengkap"
 
 #: form_is_not_complete
 msgid "Form is not complete"
-msgstr "formulir belum lengkap"
+msgstr "Formulir belum lengkap"
 
 #: filter
 msgid "Filter"
-msgstr "Saring"
+msgstr "Filter"
 
 #: assign_all
 msgid "Assign all"
@@ -329,7 +329,7 @@ msgstr "Auto-assign"
 
 #: please_select_map
 msgid "Please select a map"
-msgstr "Silakan pilih peta"
+msgstr "Silakan pilih Map"
 
 #: auto_assignment
 msgid "Auto assignment"
@@ -341,11 +341,11 @@ msgstr "Hapus semua"
 
 #: remove_all_relations
 msgid "Remove all relations"
-msgstr "Hapus semua relation"
+msgstr "Hapus semua keterkaitan"
 
 #: all_relations_for_the_map
 msgid "All relations for the map"
-msgstr "Semua relation dengan peta"
+msgstr "Semua yang berkaitan dengan peta"
 
 #: removed
 msgid "removed"
@@ -354,7 +354,7 @@ msgstr "dihapus"
 #: error_while_deleting_relation_map_and_oranisation_unit
 msgid "Error while deleting relation between map and organisation unit"
 msgstr ""
-"Error terjadi ketika menghapus relation antara peta dengan unit organisasi"
+"Error terjadi ketika menghapus hubungan antara peta dengan unit organisasi"
 
 #: remove_selected
 msgid "Remove selected"
@@ -362,7 +362,7 @@ msgstr "Hapus yang dipilih"
 
 #: remove_relation
 msgid "Remove relation"
-msgstr "Hapus relation"
+msgstr "Hapus keterkaitan"
 
 #: please_select_least_one_organisation_unit_in_the_list
 msgid "Please select at least one organisation unit in the list"
@@ -390,11 +390,11 @@ msgstr "database"
 
 #: min_size
 msgid "Min size"
-msgstr "Min size"
+msgstr "Ukuran min"
 
 #: max_size
 msgid "Max size"
-msgstr "Maks size"
+msgstr "Ukuran maks"
 
 #: select_a_value
 msgid "Select a value.."
@@ -406,7 +406,7 @@ msgstr "Unit organisasi telah didaftarkan"
 
 #: applying_organisation_units_relations
 msgid "Applying organisation units relations"
-msgstr "Terapkan relation unit organisasi"
+msgstr "Tentukan hubungan unit organisasi"
 
 #: assigning
 msgid "Assigning"
@@ -414,7 +414,7 @@ msgstr "Mendaftarkan"
 
 #: creating_map
 msgid "Creating map.."
-msgstr "Membuat peta."
+msgstr "Membuat peta.."
 
 #: current_selection_no_data
 msgid "The current selection returned no data"
@@ -422,7 +422,7 @@ msgstr "Tidak ada data pada pilihan yang dituju"
 
 #: creating_choropleth
 msgid "Creating choropleth.."
-msgstr "Membuat choropleth."
+msgstr "Membuat choropleth.."
 
 #: assign_organisation_unit
 msgid "Assign organisation unit"
@@ -466,23 +466,23 @@ msgstr "Dapatkan bantuan untuk SIG"
 
 #: create_predefined_legend_sets
 msgid "Create predefined legend sets"
-msgstr "Membuat set standar legenda"
+msgstr "Membuat predefined legend sets"
 
 #: export_map_as_excel
 msgid "Export map as Excel spreadsheet"
-msgstr "Eksport peta dalam bentuk Excel spreadsheet"
+msgstr "Ekspor peta dalam bentuk Excel spreadsheet"
 
 #: export_map_as_image
 msgid "Export map as image"
-msgstr "Eksport peta dalam bentuk gambar"
+msgstr "Ekspor peta dalam bentuk gambar"
 
 #: favorite_map_views
 msgid "Favorite map views"
-msgstr "Tampilan peta favorit"
+msgstr "Tampilan Favorite peta"
 
 #: show_hide_labels
 msgid "Show/hide feature labels"
-msgstr "Perlihatkan/sembunyikan label fitur"
+msgstr "Tampilkan/sembunyikan label fitur"
 
 #: zoom_to_visible_extent
 msgid "Zoom to visible extent"
@@ -490,19 +490,19 @@ msgstr "Zoom sampai batas dapat dilihat"
 
 #: zoom_out
 msgid "Zoom out"
-msgstr "perkecil"
+msgstr "Zoom out"
 
 #: zoom_in
 msgid "Zoom in"
-msgstr "perbesar"
+msgstr "Zoom in"
 
 #: assign_organisation_units_to_map
 msgid "Assign organisation units to map"
-msgstr "menetapkan unit organisasi peta"
+msgstr "Menetapkan unit organisasi peta"
 
 #: map_layers
 msgid "Map layers"
-msgstr "layer peta"
+msgstr "Map layers"
 
 #: and
 msgid "and"
@@ -514,7 +514,7 @@ msgstr "disimpan sebagai basis koordinat"
 
 #: error_while_saving_data
 msgid "Error while saving data"
-msgstr "kesalahan saat menyimpan data"
+msgstr "Error saat menyimpan data"
 
 #: is_saved_as_map_source
 msgid "is saved as map source"
@@ -522,7 +522,7 @@ msgstr "disimpan sebagai sumber peta"
 
 #: is_already_selected
 msgid "is already selected"
-msgstr "sudah dipilih"
+msgstr "sudah terpilih"
 
 #: overlays_
 msgid "Overlays"
@@ -598,11 +598,11 @@ msgstr "Judul"
 
 #: preview
 msgid "Preview"
-msgstr "Pratinjau"
+msgstr "Preview"
 
 #: queryable
 msgid "Queryable"
-msgstr "Mampu di query"
+msgstr "Queryable"
 
 #: description
 msgid "Description"
@@ -614,7 +614,7 @@ msgstr "Mendaftarkan peta"
 
 #: register_maps
 msgid "Register maps"
-msgstr "mendaftar lebih dari satu peta "
+msgstr "mendaftar lebih dari satu peta"
 
 #: zoom
 msgid "Zoom"
@@ -646,7 +646,7 @@ msgstr "Masukkan nilai"
 
 #: export_excel
 msgid "Export spreadsheet"
-msgstr "Eksport spreadsheet"
+msgstr "Ekspor spreadsheet"
 
 #: image_format
 msgid "Image format"
@@ -658,11 +658,11 @@ msgstr "Kualitas gambar"
 
 #: export_image
 msgid "Export image"
-msgstr "Eksport gambar"
+msgstr "Ekspor gambar"
 
 #: image_export
 msgid "Image export"
-msgstr "Eksport gambar"
+msgstr "Ekspor gambar"
 
 #: setup
 msgid "Setup"
@@ -686,7 +686,7 @@ msgstr "Dashboard DHIS"
 
 #: dashboard_map_view
 msgid "Dashboard map view"
-msgstr "Dashboard tampilan peta"
+msgstr "Tampilan peta dalam Dashboard"
 
 #: the_view
 msgid "The view"
@@ -714,7 +714,7 @@ msgstr "Tampilkan peta baru"
 
 #: there_is_already_a_map_view_called
 msgid "There is already a map view called"
-msgstr "sudah ada tampilan peta yaitu"
+msgstr "Sudah ada tampilan peta yaitu"
 
 #: thematic_map_form_is_not_complete
 msgid "Thematic map form is not complete"
@@ -730,7 +730,7 @@ msgstr "Simpan peta tematik terbaru."
 
 #: new_legend_set
 msgid "New legend set"
-msgstr "Set legenda baru"
+msgstr "Legend set baru"
 
 #: already_exists
 msgid "already exists"
@@ -738,7 +738,7 @@ msgstr "sudah ada"
 
 #: a_legend_set_called
 msgid "A legend set called"
-msgstr "Set legenda yaitu"
+msgstr "Legend set yaitu"
 
 #: assign_to_indicator
 msgid "Assign to indicators"
@@ -750,11 +750,11 @@ msgstr "Daftarkan elemen data"
 
 #: please_select_a_legend_set
 msgid "Please select a legend set"
-msgstr "Silakan pilih set legenda"
+msgstr "Silakan pilih legend set"
 
 #: link_legend_set_to_indicator
 msgid "Link legend set to indicator"
-msgstr "Hubungkan set legenda ke indikator"
+msgstr "Hubungkan legend set ke indikator"
 
 #: please_select_at_least_one_indicator
 msgid "Please select at least one indicator"
@@ -762,11 +762,11 @@ msgstr "Silakan pilih min 1 indikator"
 
 #: was_updated
 msgid "was updated"
-msgstr "sudah diupdate"
+msgstr "sudah terupdate"
 
 #: automatic_legend_sets
 msgid "Automatic legend sets"
-msgstr "Set legenda otomatis"
+msgstr "Legend set otomatis"
 
 #: start_value
 msgid "Start value"
@@ -802,7 +802,7 @@ msgstr "Silakan pilih min 1 legenda"
 
 #: predefined_legend_sets
 msgid "Predefined legend sets"
-msgstr "Set legenda standar"
+msgstr "Predefined legend sets"
 
 #: assignment
 msgid "Assignment"
@@ -826,7 +826,7 @@ msgstr "harus berada diantara -90 dan 90"
 
 #: there_is_already_a_map_called
 msgid "There is already a map called"
-msgstr "Sudah ada peta yaitu"
+msgstr "Sudah ada peta yang disebut"
 
 #: the_source_file
 msgid "The source file"
@@ -834,23 +834,23 @@ msgstr "Sumber file"
 
 #: selected_relations_removed
 msgid "Selected relations removed"
-msgstr "Relation yang dipilih sudah dihapus"
+msgstr "Hubungan yang terpilih sudah terhapus"
 
 #: delete_baselayer
 msgid "Delete base layer"
-msgstr "Hapus lapisan dasar"
+msgstr "Hapus layer dasar"
 
 #: please_select_a_baselayer
 msgid "Please select a base layer"
-msgstr "Silakan pilih layar dasar"
+msgstr "Silakan pilih layer dasar"
 
 #: baselayer
 msgid "Base layer"
-msgstr "Lapisan dasar"
+msgstr "Layer dasar"
 
 #: baselayers
 msgid "Base layers"
-msgstr "Lapisan - lapisan dasar"
+msgstr "Layer-layer dasar"
 
 #: url
 msgid "URL"
@@ -862,11 +862,11 @@ msgstr "Lapisan"
 
 #: new_baselayer
 msgid "New base layer"
-msgstr "Lapisan dasar baru"
+msgstr "Layer dasar baru"
 
 #: baselayer_form_is_not_complete
 msgid "Base layer form is not complete"
-msgstr "Form lapisan dasar belum lengkap"
+msgstr "Form layer dasar belum lengkap"
 
 #: mapvaluetype
 msgid "Map value type"
@@ -874,7 +874,7 @@ msgstr "Tipe nilai peta"
 
 #: dataelement_group
 msgid "Data el. group"
-msgstr "Kelompok elemen data"
+msgstr "Grup elemen data"
 
 #: dataelement
 msgid "Data element"
@@ -894,7 +894,7 @@ msgstr "Nilai peta agregat"
 
 #: loading_geojson
 msgid "Loading GeoJSON.."
-msgstr "Loading geojson."
+msgstr "Loading GeoJSon.."
 
 #: date_type
 msgid "Date type"
@@ -950,11 +950,11 @@ msgstr "Resolusi"
 
 #: max
 msgid "max"
-msgstr "Maks"
+msgstr "maks"
 
 #: characters
 msgid "characters"
-msgstr "Karakter"
+msgstr "karakter-karakter"
 
 #: geojson_file
 msgid "GeoJSON file"
@@ -966,7 +966,7 @@ msgstr "Riwayat"
 
 #: api_key
 msgid "API key"
-msgstr "Kunci API"
+msgstr "API key"
 
 #: measure_distance
 msgid "Measure distance"
@@ -998,7 +998,7 @@ msgstr "Filter teks"
 
 #: font_size
 msgid "Font size"
-msgstr "Font size"
+msgstr "Ukuran font"
 
 #: bold_
 msgid "Bold"
@@ -1026,7 +1026,7 @@ msgstr "Alamat"
 
 #: contact_person
 msgid "Contact person"
-msgstr "Kontak person"
+msgstr "Contact person"
 
 #: email
 msgid "Email"
@@ -1042,7 +1042,7 @@ msgstr "Data infrastruktur"
 
 #: select_point_level
 msgid "Select point level"
-msgstr "pilih level point"
+msgstr "Pilih level point"
 
 #: level_is_higher_that_boundary_level
 msgid "Level is higher than boundary level"
@@ -1062,7 +1062,7 @@ msgstr "Pindahkan"
 
 #: administrator_settings
 msgid "Administrator settings"
-msgstr "Pengaturan administrasi"
+msgstr "Pengaturan administrator"
 
 #: thematic_layer
 msgid "Thematic layer"
@@ -1070,11 +1070,11 @@ msgstr "Layer tematik"
 
 #: register_map_favorite
 msgid "Register current map as a favorite"
-msgstr "Register peta terbaru sebagai favorit"
+msgstr "Daftarkan peta terbaru sebagai favorite"
 
 #: delete_favorite
 msgid "Delete favorite"
-msgstr "Hapus favorit"
+msgstr "Hapus favorite"
 
 #: register_new_legend
 msgid "Register new legend"
@@ -1090,23 +1090,23 @@ msgstr "Overlay"
 
 #: register_new_legend_set
 msgid "Register new legend set"
-msgstr "Register set legenda yang baru"
+msgstr "Daftarkan set legend baru"
 
 #: delete_legend_set
 msgid "Delete legend set"
-msgstr "Hapus set legenda"
+msgstr "Hapus legend set"
 
 #: assign_indicators_to_legend_set
 msgid "Assign indicators to legend set"
-msgstr "Daftarkan indikator ke set legenda"
+msgstr "Daftarkan indikator ke legend set"
 
 #: assign_dataelements_to_legend_set
 msgid "Assign data elements to legend set"
-msgstr "Daftarkan elemen data ke set legenda"
+msgstr "Daftarkan elemen data ke legend set"
 
 #: export_thematic_map_to_png
 msgid "Export thematic map to PNG"
-msgstr "Eksport peta tematik ke dalam bentuk PNG"
+msgstr "Ekspor peta tematik ke dalam bentuk PNG"
 
 #: total_distance
 msgid "Total distance"
@@ -1123,7 +1123,7 @@ msgstr "Set tanggal peta tematik"
 
 #: tools
 msgid "Tools"
-msgstr "Alat"
+msgstr "Tools"
 
 #: layers
 msgid "Layers"
@@ -1135,7 +1135,7 @@ msgstr "Edit layer"
 
 #: search
 msgid "Search"
-msgstr "Pencarian"
+msgstr "Cari"
 
 #: labels
 msgid "Labels"
@@ -1143,7 +1143,7 @@ msgstr "Label"
 
 #: show_hide_feature_labels
 msgid "Show / Hide feature labels"
-msgstr "Tunjukan/ Sembunyikan label fitur"
+msgstr "Tampilkan/ Sembunyikan label fitur"
 
 #: opacity
 msgid "Opacity"
@@ -1216,11 +1216,11 @@ msgstr "Gambar"
 
 #: register_new_wms_overlay
 msgid "Register new WMS overlay"
-msgstr "Register overlay WMS yang baru"
+msgstr "Daftarkan overlay WMS yang baru"
 
 #: register_new_vector_overlay
 msgid "Register new vector overlay"
-msgstr "Register overlay vektor yang baru"
+msgstr "Daftarkan overlay vektor yang baru"
 
 #: can_view
 msgid "Can view"
@@ -1240,7 +1240,7 @@ msgstr "Akses publik"
 
 #: search_for_user_groups
 msgid "Search for user groups"
-msgstr "Pencarian kelompok pengguna"
+msgstr "Cari grup user"
 
 #: create
 msgid "Create"
@@ -1252,7 +1252,7 @@ msgstr "Tambahkan baru"
 
 #: search_for_favorites
 msgid "Search for favorites"
-msgstr "Pencarian favorites"
+msgstr "Cari favorites"
 
 #: prev
 msgid "Prev"
@@ -1360,7 +1360,7 @@ msgstr "Equal counts"
 
 #: classes_method
 msgid "Classes / method"
-msgstr "Classes/ metode"
+msgstr "Kelas-kelas / metode"
 
 #: low_color_size
 msgid "Low color / size"
@@ -1416,7 +1416,7 @@ msgstr "Tabel"
 
 #: chart
 msgid "Chart"
-msgstr "Grafik"
+msgstr "Diagram"
 
 #: layer_stack_transparency
 msgid "Layer stack / opacity"
@@ -1424,11 +1424,11 @@ msgstr "Layer stack/ transparan"
 
 #: thematic_layer_1_legend
 msgid "Thematic layer 1 legend"
-msgstr "Legenda layer tematik 1"
+msgstr "Thematic layer 1 legend"
 
 #: thematic_layer_2_legend
 msgid "Thematic layer 2 legend"
-msgstr "Legenda layer tematik 2"
+msgstr "Thematic layer 2 legend"
 
 #: thematic_layer_3_legend
 msgid "Thematic layer 3 legend"
@@ -1440,11 +1440,11 @@ msgstr "Thematic layer 4 legend"
 
 #: facility_layer_legend
 msgid "Facility layer legend"
-msgstr "Legenda facility layer"
+msgstr "Facility layer legend"
 
 #: facility_layer_export_currently_not_supported
 msgid "Facility layer export currently not supported"
-msgstr "Eksport facility layer saat ini tidak dapat dilakukan"
+msgstr "Ekspor facility layer saat ini tidak dapat dilakukan"
 
 #: link_
 msgid "Link"
@@ -1498,15 +1498,15 @@ msgstr "Bulan lalu"
 
 #: last_bimonth
 msgid "Last bi-month"
-msgstr "2 bulan yang lalu"
+msgstr "Dua bulan terakhir"
 
 #: last_quarter
 msgid "Last quarter"
-msgstr "Triwulan yang lalu"
+msgstr "Triwulan terakhir"
 
 #: last_sixmonth
 msgid "Last six-month"
-msgstr "6 bulan yang lalu"
+msgstr "Semester terakhir"
 
 #: this_year
 msgid "This year"
@@ -1526,7 +1526,7 @@ msgstr "Pilih unit organisasi"
 
 #: select_boundaries_and_levels
 msgid "Select boundaries and levels"
-msgstr "Select boundaries and levels"
+msgstr "Pilih boundaries dan level"
 
 #: select_organisation_unit_levels
 msgid "Select organisation unit levels"
@@ -1534,7 +1534,7 @@ msgstr "Pilih tingkat unit organisasi"
 
 #: select_boundaries_and_groups
 msgid "Select boundaries and groups"
-msgstr "Select boundaries and groups"
+msgstr "Pilih boundaries dan grup"
 
 #: select_organisation_unit_groups
 msgid "Select organisation unit groups"
@@ -1558,11 +1558,11 @@ msgstr "Select all children"
 
 #: select_groupset
 msgid "Select group set"
-msgstr "Pilih grup set"
+msgstr "Pilih set grup"
 
 #: allow_external_access
 msgid "Allow external access"
-msgstr "Allow external access"
+msgstr "Izinkan akses eksternal"
 
 #: daily
 msgid "Daily"
@@ -1610,11 +1610,11 @@ msgstr "Financial April"
 
 #: relative
 msgid "Relative"
-msgstr "Relative"
+msgstr "Relatif"
 
 #: reporting_rates
 msgid "Reporting rates"
-msgstr "Reporting rates"
+msgstr "Tingkat pelaporan"
 
 #: event_layer
 msgid "Event layer"
@@ -1630,7 +1630,7 @@ msgstr "Ke Tabel Pivot"
 
 #: open_this_map_as_table
 msgid "Open this map as table"
-msgstr "Tampilkan peta ini dalam tabel"
+msgstr "Tampilkan peta ini dalam bentuk tabel"
 
 #: open_last_table
 msgid "Open last table"
@@ -1638,11 +1638,11 @@ msgstr "Tampilkan tabel terakhir"
 
 #: go_to_charts
 msgid "Go to charts"
-msgstr "Go to charts"
+msgstr "Lanjut ke diagram"
 
 #: open_this_map_as_chart
 msgid "Open this map as chart"
-msgstr "Tampilkan map ini sebagai diagram"
+msgstr "Tampilkan peta ini sebagai diagram"
 
 #: open_last_chart
 msgid "Open last chart"
@@ -1670,11 +1670,11 @@ msgstr "Dibuat oleh"
 
 #: clear_map
 msgid "Clear map"
-msgstr "Hapus map"
+msgstr "Hapus peta"
 
 #: manage_favorites
 msgid "Manage favorites"
-msgstr "Pengaturan favorites"
+msgstr "Atur favorites"
 
 #: yes
 msgid "Yes"

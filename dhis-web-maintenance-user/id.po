@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2016-01-02 07:48+0000\n"
-"Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
+"PO-Revision-Date: 2016-02-22 02:46+0000\n"
+"Last-Translator: Annisa Ristya <annisaristya@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1451720894.0\n"
+"X-POOTLE-MTIME: 1456109200.0\n"
 
 #: M_dhis-web-api
 msgid "See API Module"
@@ -42,7 +42,7 @@ msgstr "Lihat modul Maintenance Organisasi Unit"
 
 #: M_dhis-web-maintenance-user
 msgid "See User Maintenance module"
-msgstr "Lihat modul Maintenance Pengguna"
+msgstr "Lihat modul User Maintenance"
 
 #: M_dhis-web-maintenance-dataadmin
 msgid "See Data Administration module"
@@ -58,7 +58,7 @@ msgstr "Lihat modul Apps Maintenance"
 
 #: M_dhis-web-dataentry
 msgid "See Data Entry module"
-msgstr "Lihat modul Pemasukan Data"
+msgstr "Lihat modul Entri Data"
 
 #: M_dhis-web-importexport
 msgid "See Import-Export module"
@@ -70,12 +70,12 @@ msgstr "Lihat modul Data Mart"
 
 #: M_dhis-web-validationrule
 msgid "See Validation Rule module"
-msgstr "Lihat modul Aturan Validasi"
+msgstr "Lihat modul Validation Rule"
 
 #: M_dhis-web-gis
 msgctxt "M_dhis-web-gis"
 msgid "See GIS module"
-msgstr "Lihat modul GIS"
+msgstr "Lihat modul SIG"
 
 #: M_dhis-web-reporting
 msgid "See Report module"
@@ -91,7 +91,7 @@ msgstr "Lihat modul Dashboard"
 
 #: M_dhis-web-dataentry-national
 msgid "See Line-listing DataEntry module"
-msgstr "Lihat modul daftar baris entri data"
+msgstr "Lihat modul Line-listing DataEntry"
 
 #: M_dhis-web-reports
 msgid "See NRHM Reports module"
@@ -99,7 +99,7 @@ msgstr "Lihat modul Laporan NRHM"
 
 #: M_dhis-web-validationrule-local-in
 msgid "See Validation Analysis module"
-msgstr "Lihat modul analisis validasi"
+msgstr "Lihat modul Analisis Validasi"
 
 #: M_dhis-web-excel-reporting
 msgid "See Excel Report module"
@@ -111,12 +111,12 @@ msgstr "Lihat Pencatatan Individu"
 
 #: M_dhis-web-maintenance-program
 msgid "See Tracked Entity And Programs module"
-msgstr "Lihat Tracked Entity dan modul program"
+msgstr "Lihat Modul Tracked Entity dan Program"
 
 #: M_dhis-web-mapping
 msgctxt "M_dhis-web-mapping"
 msgid "See GIS module"
-msgstr "Lihat modul GIS"
+msgstr "Lihat modul SIG"
 
 #: M_dhis-web-event-reports
 msgid "See Event Reports module"
@@ -132,7 +132,7 @@ msgstr "Lihat modul Smartphone"
 
 #: M_dhis-web-visualizer
 msgid "See Data Visualizer module"
-msgstr "Lihat modul Data Visualisasi"
+msgstr "Lihat modul Data Visualizer"
 
 #: M_dhis-web-maintenance-mobile
 msgid "See Mobile Maintenance module"
@@ -189,19 +189,19 @@ msgstr "Manajemen Konstan"
 
 #: F_DATAADMIN_LOCK
 msgid "Data Admin Locking"
-msgstr "Kunci Data Admin"
+msgstr "Data Admin Locking"
 
 #: F_DATAADMIN_UNLOCK
 msgid "Data Admin UnLocking"
-msgstr "Buka Kunci Data Admin"
+msgstr "Data Admin UnLocking"
 
 #: F_DATAELEMENT_PUBLIC_ADD
 msgid "Add/Update Public Data Element"
-msgstr "Tambahkan Elemen Data Umum"
+msgstr "Tambah/Update Public Data Element"
 
 #: F_DATAELEMENT_PRIVATE_ADD
 msgid "Add/Update Private Data Element"
-msgstr "Tambahkan Elemen Data Khusus"
+msgstr "Tambahkan Private Data Element"
 
 #: F_DATAELEMENT_DELETE
 msgid "Delete Data Element"
@@ -209,11 +209,11 @@ msgstr "Hapus Elemen Data"
 
 #: F_CATEGORY_PUBLIC_ADD
 msgid "Add/Update Public Data Element Category"
-msgstr "Tambah/Update kategori elemen data publik"
+msgstr "Tambah/Update Public Data Element Category"
 
 #: F_CATEGORY_PRIVATE_ADD
 msgid "Add/Update Private Data Element Category"
-msgstr "Tambah/Update kategori elemen data privat"
+msgstr "Tambah/Update Private Data Element Category"
 
 #: F_CATEGORY_DELETE
 msgid "Delete Data Element Category"
@@ -222,36 +222,36 @@ msgstr "Hapus kategori elemen data"
 #: F_CATEGORY_OPTION_PUBLIC_ADD
 msgctxt "F_CATEGORY_OPTION_PUBLIC_ADD"
 msgid "Add/Update Public Data Element Category Option"
-msgstr "Tambah/Update Kelompok Elemen Data Category Option"
+msgstr "Tambah/Up Public Data Element Category Option"
 
 #: F_CATEGORY_OPTION_PRIVATE_ADD
 msgid "Add/Update Private Data Element Category Option"
-msgstr "Tambah/update Category Option elemen data privat"
+msgstr "Tambah/update Private Data Element Category Option"
 
 #: F_CATEGORY_OPTION_DELETE
 msgctxt "F_CATEGORY_OPTION_DELETE"
 msgid "Add/Update Public Data Element Category Option"
-msgstr "Tambah/Update Category Option elemen data publik"
+msgstr "Tambah/Update Public Data Element Category Option"
 
 #: F_CATEGORY_COMBO_PUBLIC_ADD
 msgid "Add/Update Public Data Element Category Combo"
-msgstr "Add/Update Public Data Element Category Combo"
+msgstr "Tambah/Update Public Data Element Category Combo"
 
 #: F_CATEGORY_COMBO_PRIVATE_ADD
 msgid "Add/Update Private Data Element Category Combo"
-msgstr "Add/Update Private Data Element Category Combo"
+msgstr "Tambah/update Private Data Element Category Combo"
 
 #: F_CATEGORY_COMBO_DELETE
 msgid "Delete Data Element Category Combo"
-msgstr "Hapus Category Combo elemen data"
+msgstr "Hapus Data Element Category Combo"
 
 #: F_CATEGORY_OPTION_GROUP_PUBLIC_ADD
 msgid "Add/Update Public Category Option Group"
-msgstr "Tambah/Update grup Category Option publik"
+msgstr "Tambah/Update Public Category Option Group"
 
 #: F_CATEGORY_OPTION_GROUP_PRIVATE_ADD
 msgid "Add/Update Private Category Option Group"
-msgstr "Tambah/Update grup Category Option Privat"
+msgstr "Tambah/Update Private Category Option Group"
 
 #: F_CATEGORY_OPTION_GROUP_DELETE
 msgid "Delete Category Option Group"
@@ -259,11 +259,11 @@ msgstr "Hapus grup Category Option"
 
 #: F_CATEGORY_OPTION_GROUP_SET_PUBLIC_ADD
 msgid "Add/Update Public Category Option Group Set"
-msgstr "Tambah/Update grup Category Option"
+msgstr "Tambah/Update Public Category Option Group Set"
 
 #: F_CATEGORY_OPTION_GROUP_SET_PRIVATE_ADD
 msgid "Add/Update Private Category Option Group Set"
-msgstr "Tambah/update grup Category Option privat"
+msgstr "Tambah/update Private Category Option Group Set"
 
 #: F_CATEGORY_OPTION_GROUP_SET_DELETE
 msgid "Delete Category Option Group Set"
@@ -271,51 +271,51 @@ msgstr "Hapus grup Category Option"
 
 #: F_CATEGORY_OPTION_COMBO_PUBLIC_ADD
 msgid "Add/Update Public Data Element Category Option Combo"
-msgstr "Add/Update Public Data Element Category Option Combo"
+msgstr "Tambah/Update Public Data Element Category Option Combo"
 
 #: F_CATEGORY_OPTION_COMBO_PRIVATE_ADD
 msgid "Add/Update Private Data Element Category Option Combo"
-msgstr "Add/Update Public Data Element Category Option Combo"
+msgstr "Tambah/Update Private Data Element Category Option Combo"
 
 #: F_DATAELEMENTGROUP_PUBLIC_ADD
 msgid "Add/Update Public Data Element Groups"
-msgstr "Tambahkan Kelompok Elemen Data Umum"
+msgstr "Tambah/Update Public Data Element Groups"
 
 #: F_DATAELEMENTGROUP_PRIVATE_ADD
 msgid "Add/Update Private Data Element Groups"
-msgstr "Tambahkan Kelompok Elemen Data Khusus"
+msgstr "Tambah/Update Private Data Element Groups"
 
 #: F_DATAELEMENTGROUP_DELETE
 msgid "Delete Data Element Groups"
-msgstr "Hapus Kelompok Elemen Data"
+msgstr "Hapus grup Elemen Data"
 
 #: F_DATAELEMENTGROUPSET_PUBLIC_ADD
 msgid "Add/Update Public Data Element Group Sets"
-msgstr "Tambahkan Set Kelompok Elemen Data Umum"
+msgstr "Tambah/Update Public Data Element Group Sets"
 
 #: F_DATAELEMENTGROUPSET_PRIVATE_ADD
 msgid "Add/Update Private Data Element Group Sets"
-msgstr "Tambahkan Set Kelompok Elemen Data Khusus"
+msgstr "Tambah/Update Private Data Element Group Sets "
 
 #: F_DATAELEMENTGROUPSET_DELETE
 msgid "Delete Data Element Group Sets"
-msgstr "Hapus Set Kelompok Elemen Data"
+msgstr "Hapus Set Grup Elemen Data"
 
 #: F_DATAELEMENT_MINMAX_ADD
 msgid "Add/Update Min/max rule"
-msgstr "Tambahkan Perintah Minimal/Maksimal"
+msgstr "Tambahkan aturan Minimal/Maksimal"
 
 #: F_DATAELEMENT_MINMAX_DELETE
 msgid "Delete Min/max rule"
-msgstr "Hapus Perintah Minimal/Maksimal"
+msgstr "Hapus aturan Minimal/Maksimal"
 
 #: F_DATASET_PUBLIC_ADD
 msgid "Add/Update Public Data Set"
-msgstr "Tambahkan Data Set Umum"
+msgstr "Tambah/update Public Data Set"
 
 #: F_DATASET_PRIVATE_ADD
 msgid "Add/Update Private Data Set"
-msgstr "Tambahkan Data Set Khusus"
+msgstr "Tambahkan Private Data Set"
 
 #: F_DATASET_DELETE
 msgid "Delete Data Set"
@@ -331,7 +331,7 @@ msgstr "Kunci Data Set"
 
 #: F_SECTION_ADD
 msgid "Add/Update Section"
-msgstr "Tambahkan Bagian"
+msgstr "Tambah/Update Section"
 
 #: F_SECTION_DELETE
 msgid "Delete Section"
@@ -339,7 +339,7 @@ msgstr "Hapus Bagian"
 
 #: F_DATAVALUE_ADD
 msgid "Add/Update Data Value"
-msgstr "Tambahkan Nilai Data"
+msgstr "Tambah/Update Nilai Data"
 
 #: F_DATAVALUE_DELETE
 msgid "Delete Data Value"
@@ -347,11 +347,11 @@ msgstr "Hapus Nilai Data"
 
 #: F_INDICATOR_PUBLIC_ADD
 msgid "Add/Update Public Indicator"
-msgstr "Tambahkan Indikator Umum"
+msgstr "Tambah/update Public Indicator"
 
 #: F_INDICATOR_PRIVATE_ADD
 msgid "Add/Update Private Indicator"
-msgstr "Tambahkan Indikator Khusus"
+msgstr "Tambah/Update Private Indicator"
 
 #: F_INDICATOR_DELETE
 msgid "Delete Indicator"
@@ -359,7 +359,7 @@ msgstr "Hapus Indikator"
 
 #: F_INDICATORTYPE_ADD
 msgid "Add/Update Indicator Type"
-msgstr "Tambahkan Tipe Indikator"
+msgstr "Tambah/Update Tipe Indikator"
 
 #: F_INDICATORTYPE_DELETE
 msgid "Delete Indicator Type"
@@ -367,31 +367,31 @@ msgstr "Hapus Tipe Indikator"
 
 #: F_INDICATORGROUP_PUBLIC_ADD
 msgid "Add/Update Public Indicator Group"
-msgstr "Tambahkan Kelompok Indikator Umum"
+msgstr "Tambah/Update Public Indicator Group"
 
 #: F_INDICATORGROUP_PRIVATE_ADD
 msgid "Add/Update Private Indicator Group"
-msgstr "Tambahkan Kelompok Indikator Khusus"
+msgstr "Tambah/update Private Indicator Group"
 
 #: F_INDICATORGROUP_DELETE
 msgid "Delete Indicator Group"
-msgstr "Hapus Kelompok Indikator"
+msgstr "Hapus grup indikator"
 
 #: F_INDICATORGROUPSET_PUBLIC_ADD
 msgid "Add/Update Public Indicator Group Sets"
-msgstr "Tambah Set Kelompok Indikator Umum"
+msgstr "Tambah/Update Public Indicator Group Sets"
 
 #: F_INDICATORGROUPSET_PRIVATE_ADD
 msgid "Add/Update Private Indicator Group Sets"
-msgstr "Tambah Set Kelompok Indikator Khusus"
+msgstr "Tambah/Update Private Indicator Group Sets"
 
 #: F_INDICATORGROUPSET_DELETE
 msgid "Delete Indicator Group Sets"
-msgstr "Hapus Set Kelompok Indikator"
+msgstr "Hapus Set grup indikator"
 
 #: F_ORGANISATIONUNIT_ADD
 msgid "Add/Update Organisation Unit"
-msgstr "Tambah Unit Organisasi"
+msgstr "Tambah/Update Unit Organisasi"
 
 #: F_ORGANISATIONUNIT_DELETE
 msgid "Delete Organisation Unit"
@@ -403,67 +403,67 @@ msgstr "Pindah Unit Organisasi"
 
 #: F_ORGUNITGROUP_PUBLIC_ADD
 msgid "Add/Update Public Organisation Unit Group"
-msgstr "Tambah Kelompok Unit Organisasi"
+msgstr "Tambah/update Public Organisation Unit Group"
 
 #: F_ORGUNITGROUP_PRIVATE_ADD
 msgid "Add/Update Private Organisation Unit Group"
-msgstr "Tambah/Update Kelompok Unit Organisasi privat"
+msgstr "Tambah/Update Private Organisation Unit Group"
 
 #: F_ORGUNITGROUP_DELETE
 msgid "Delete Organisation Unit Group"
-msgstr "Hapus Kelompok Unit Organisasi"
+msgstr "Hapus grup Unit Organisasi"
 
 #: F_ORGUNITGROUPSET_PUBLIC_ADD
 msgid "Add/Update Public Organisation Unit Group Set"
-msgstr "Tambah Set Kelompok Unit Organisasi"
+msgstr "Tambah/Update Public Organisation Unit Group Set"
 
 #: F_ORGUNITGROUPSET_PRIVATE_ADD
 msgid "Add/Update Private Organisation Unit Group Set"
-msgstr "Tambah/Update grup unit organisasi privat"
+msgstr "Tambah/Update Private Organisation Unit Group Set"
 
 #: F_ORGUNITGROUPSET_DELETE
 msgid "Delete Organisation Unit Group Set"
-msgstr "Hapus Set Kelompok Unit Organisasi"
+msgstr "Hapus Set grup Unit Organisasi"
 
 #: F_ORGANISATIONUNITLEVEL_UPDATE
 msgid "Update Organisation Unit Level"
-msgstr "Perbaharui Tingkatan Unit Organisasi"
+msgstr "Update Level Unit Organisasi"
 
 #: F_USERROLE_PUBLIC_ADD
 msgid "Add/Update Public User Role"
-msgstr "Tambah Peran Pengguna"
+msgstr "Tambah/update Public User Role"
 
 #: F_USERROLE_PRIVATE_ADD
 msgid "Add/Update Private User Role"
-msgstr "Tambah/update peran Private User "
+msgstr "Tambah/update Private User Role"
 
 #: F_USERROLE_DELETE
 msgid "Delete User Role"
-msgstr "Hapus Peran Pengguna"
+msgstr "Hapus User Role"
 
 #: F_USERROLE_LIST
 msgid "List User Roles"
-msgstr "Daftar Peran Pengguna"
+msgstr "Daftar User Roles"
 
 #: F_USERGROUP_PUBLIC_ADD
 msgid "Add/Update Public User Group"
-msgstr "Tambahkan Kelompok Pengguna Publik"
+msgstr "Tambah/Update Public User Group"
 
 #: F_USERGROUP_PRIVATE_ADD
 msgid "Add/Update Private User Group"
-msgstr "Tambahkan Kelompok Pengguna Privat"
+msgstr "Tambah/Update Private User Group"
 
 #: F_USERGROUP_DELETE
 msgid "Delete User Group"
-msgstr "Hapus Kelompok Pengguna"
+msgstr "Hapus grup user"
 
 #: F_USERGROUP_LIST
 msgid "List User Groups"
-msgstr "Daftar Kelompok Pengguna"
+msgstr "Daftar grup User"
 
 #: F_USERGROUP_MANAGING_RELATIONSHIPS_ADD
 msgid "Add/Update User Group Managing Relationships"
-msgstr "Tambah/update Grup User pengelola hubungan "
+msgstr "Tambah/update User Group Managing Relationships"
 
 #: F_USERGROUP_MANAGING_RELATIONSHIPS_VIEW
 msgid "View User Group Managing Relationships"
@@ -471,51 +471,51 @@ msgstr "Tampilkan User Group Managing Relationships"
 
 #: F_USER_GROUPS_READ_ONLY_ADD_MEMBERS
 msgid "Add/Remove Members In Read-Only User Groups"
-msgstr "Add/Remove Members In Read-Only User Groups"
+msgstr "Tambah/hapus anggota dalam Read-Only User Groups"
 
 #: F_USER_ADD
 msgid "Add/Update User"
-msgstr "Tambahkan Pengguna"
+msgstr "Tambah/Update User"
 
 #: F_USER_DELETE
 msgid "Delete User"
-msgstr "Hapus Pengguna"
+msgstr "Hapus User"
 
 #: F_USER_VIEW
 msgid "View User"
-msgstr "Lihat Pengguna"
+msgstr "Lihat User"
 
 #: F_USER_ADD_WITHIN_MANAGED_GROUP
 msgid "Add/Update User Within Managed Group"
-msgstr "Add/Update User Within Managed Group"
+msgstr "Tambah/update User Within Managed Group"
 
 #: F_USER_DELETE_WITHIN_MANAGED_GROUP
 msgid "Delete User Within Managed Group"
-msgstr "Delete User Within Managed Group"
+msgstr "Hapus User dalam Managed Group"
 
 #: F_USER_VIEW_WITHIN_MANAGED_GROUP
 msgid "View User Within Managed Group"
-msgstr "View User Within Managed Group"
+msgstr "Tampilkan User dalam Managed Group"
 
 #: F_VALIDATIONRULE_ADD
 msgid "Add/Update Validation Rule"
-msgstr "Tambahkan Aturan Validasi"
+msgstr "Tambah/Update Validation Rule"
 
 #: F_VALIDATIONRULE_DELETE
 msgid "Delete Validation Rule"
-msgstr "Hapus Aturan Validasi"
+msgstr "Hapus Validation Rule"
 
 #: F_VALIDATIONRULEGROUP_PUBLIC_ADD
 msgid "Add/Update Public Validation Rule Group"
-msgstr "Tambahkan kelompok Aturan Validasi"
+msgstr "Tambah/Update Public Validation Rule Group"
 
 #: F_VALIDATIONRULEGROUP_PRIVATE_ADD
 msgid "Add/Update Private Validation Rule Group"
-msgstr "Add/Update Private Validation Rule Group"
+msgstr "Tambah/Update Private Validation Rule Group"
 
 #: F_VALIDATIONRULEGROUP_DELETE
 msgid "Delete Validation Rule Group"
-msgstr "Hapus kelompok Aturan Validasi"
+msgstr "Hapus Validation Rule Group"
 
 #: F_GIS_CONFIGURATION_UPDATE
 msgid "Change GIS Configuration"
@@ -523,11 +523,11 @@ msgstr "Ubah konfigurasi SIG"
 
 #: F_REPORT_PUBLIC_ADD
 msgid "Add/Update Public Report"
-msgstr "Tambahkan Laporan Publik"
+msgstr "Tambah/update Public Report"
 
 #: F_REPORT_PRIVATE_ADD
 msgid "Add/Update Private Report"
-msgstr "Tambahkan laporan Privat"
+msgstr "Tambah/Update Private Report"
 
 #: F_REPORT_DELETE
 msgid "Delete Report"
@@ -535,11 +535,11 @@ msgstr "Hapus Laporan"
 
 #: F_REPORTTABLE_PUBLIC_ADD
 msgid "Add/Update Public Report Table"
-msgstr "Tambahkan Tabel laporan publik"
+msgstr "Tambah/Update Public Report Table"
 
 #: F_REPORTTABLE_EXTERNAL
 msgid "Report Table External Access"
-msgstr "Laporkan akses eksternal tabel "
+msgstr "Laporan akses eksternal tabel"
 
 #: F_REPORTTABLE_DELETE
 msgid "Delete Report Table"
@@ -599,7 +599,7 @@ msgstr "Tambahkan Tipe Hubungan"
 
 #: F_RELATIONSHIPTYPE_UPDATE
 msgid "Update Relationship Type"
-msgstr "Update tipe hubungan"
+msgstr "Update Relationship Type"
 
 #: F_ORGANISATION_REGISTRATION
 msgid "Organisation Unit Registration"
@@ -667,11 +667,11 @@ msgstr "Manajemen Pelacakan Program"
 
 #: F_PROGRAM_PUBLIC_ADD
 msgid "Add/Update Public Program"
-msgstr "Tambahkan Program Publik"
+msgstr "Tambah/Update Public Program"
 
 #: F_PROGRAM_PRIVATE_ADD
 msgid "Add/Update Private Program"
-msgstr "Tambahkan Program Privat"
+msgstr "Tambah/Update Private Program"
 
 #: F_PROGRAM_DELETE
 msgid "Delete Program"
@@ -679,35 +679,35 @@ msgstr "Hapus Program"
 
 #: F_PROGRAM_VALIDATION
 msgid "Manage Program Validation"
-msgstr "Atur Validasi Program"
+msgstr "Atur Program Validasi"
 
 #: F_PROGRAMSTAGE_ADD
 msgid "Add/Update Program Stage"
-msgstr "tambah tahap program"
+msgstr "Tambah/Update tahap program"
 
 #: F_PROGRAMSTAGE_DELETE
 msgid "Delete Program Stage"
-msgstr "hapus tahap program"
+msgstr "Hapus tahap program"
 
 #: F_PROGRAMSTAGE_SECTION_MANAGEMENT
 msgid "Program Stage Section Management"
-msgstr "tahap program bagian manajemen"
+msgstr "Section Manajemen Tahapan program"
 
 #: F_PROGRAMSTAGE_SECTION_ADD
 msgid "Add/Update Program Stage Section"
-msgstr "tambahkan tahapan program"
+msgstr "Tambah/update tahapan program"
 
 #: F_PROGRAMSTAGE_SECTION_DELETE
 msgid "Delete Program Stage Section"
-msgstr "hapus tahapan program"
+msgstr "Hapus Section Tahapan Program"
 
 #: F_PROGRAM_ATTRIBUTE_ADD
 msgid "Add/Update Program Attribute"
-msgstr "tambahkan atribut program"
+msgstr "Tambah/update atribut program"
 
 #: F_PROGRAM_ATTRIBUTE_DELETE
 msgid "Delete Program Attribute"
-msgstr "hapus atribut program "
+msgstr "Hapus atribut program "
 
 #: F_TRACKED_ENTITY_ADD
 msgid "Add/Update Tracked Entity"
@@ -727,7 +727,7 @@ msgstr "Tampilkan Tracked Entity Attribute"
 
 #: F_TRACKED_ENTITY_DATAVALUE_ADD
 msgid "Add/Update Tracked Entity Data Value"
-msgstr "Tambah/update nilai Tracked Entity Data"
+msgstr "Tambah/Update nilai Tracked Entity Data"
 
 #: F_TRACKED_ENTITY_DATAVALUE_DELETE
 msgid "Delete Tracked Entity Data Value"
@@ -779,7 +779,7 @@ msgstr "Atur indikator-indikator program"
 
 #: F_PROGRAM_STAGE_COMPLETENESS
 msgid "View Program Stage Completeness Report"
-msgstr "Tampilkan Laporan Lengkap program stage"
+msgstr "Tampilkan tahapan program dalam Laporan Lengkap"
 
 #: F_SCHEDULING_SEND_MESSAGE
 msgid "Scheduling send messages"
@@ -787,23 +787,23 @@ msgstr "jadwalkan pengiriman pesan"
 
 #: F_SCHEDULING_CASE_AGGREGATE_QUERY_BUILDER
 msgid "Scheduling case aggregate query builder"
-msgstr "jadwalkan kasus pembangun kueri agregat"
+msgstr "Jadwalkan case aggregate query builder"
 
 #: F_ACTIVITY_PLAN
 msgid "Search Activity Plan"
-msgstr "cari rencana aktivitas"
+msgstr "Cari rencana aktivitas"
 
 #: F_ACTIVITY_PLAN_EXPORT
 msgid "Export Activity Plan to XLS file"
-msgstr "eksport rencana aktivitas ke data XLS"
+msgstr "Ekspor rencana aktivitas ke data XLS"
 
 #: F_GENERATE_ACTIVITY_PLANS
 msgid "Generate Activity Plans"
-msgstr "Buat Rencana Aktivitas"
+msgstr "Rencana Aktivitas keseluruhan"
 
 #: F_GENERATE_PROGRAM_SUMMARY_REPORT
 msgid "Generate Program Summary Report"
-msgstr "laporan jumlah keseluruhan program"
+msgstr "Laporkan laporan jumlah keseluruhan program"
 
 #: F_GENERATE_STATISTICAL_PROGRAM_REPORT
 msgid "Generate Program Statistics Report"
@@ -811,7 +811,7 @@ msgstr "laporan statistik keseluruhan program"
 
 #: F_GENERATE_BENEFICIARY_TABULAR_REPORT
 msgid "Generate Tracked Entity Tabular report"
-msgstr "Buat laporan tabular orang"
+msgstr "Generate Tracked Entity Tabular report"
 
 #: F_TRACKED_ENTITY_AGGREGATION
 msgid "Tracked Entity Aggregation"
@@ -823,7 +823,7 @@ msgstr "Manajemen Tracked Entity Instance"
 
 #: F_NAME_BASED_DATA_ENTRY
 msgid "Multiple Individual Data Entry"
-msgstr "Entri multipel data individual"
+msgstr "Multipel individual entri data"
 
 #: F_SINGLE_EVENT_DATA_ENTRY
 msgid "Single Event With Registration Data Entry"
@@ -835,7 +835,7 @@ msgstr "Single event tanpa entri data registrasi"
 
 #: F_PROGRAM_ENROLLMENT
 msgid "Program Enrollment"
-msgstr "Pendaftaran  program"
+msgstr "Pendaftaran program"
 
 #: F_PROGRAM_UNENROLLMENT
 msgid "Program Un-enrollment"
@@ -851,15 +851,15 @@ msgstr "Load pesan pengingat event"
 
 #: F_PROGRAM_TRACKING_SEARCH
 msgid "Search events with registration"
-msgstr "Pencarian event dengan registrasi"
+msgstr "Cari event teregistrasi"
 
 #: F_PROGRAM_STAGE_INSTANCE_SEARCH
 msgid "Search events without registration"
-msgstr "Pencarian event tanpa registrasi"
+msgstr "Pencarian event belum teregistrasi"
 
 #: F_RELATIONSHIP_MANAGEMENT
 msgid "Tracked Entity Relationship Management"
-msgstr "Manajemen hubungan orang"
+msgstr "Tracked Entity Relationship Management"
 
 #: F_RELATIONSHIP_ADD
 msgid "Add Tracked Entity Relationship"
@@ -871,7 +871,7 @@ msgstr "Hapus Tracked Entity Relationship"
 
 #: F_SYSTEM_SETTING
 msgid "Change system settings"
-msgstr "Ubah pengaturan sistem"
+msgstr "Ubah sistem settings"
 
 #: F_COPY_EXCEL_ITEM_ADMINISTRATION
 msgid "Copy Excel Item"
@@ -920,23 +920,23 @@ msgstr "Menjadwalkan Administrasi"
 
 #: F_SQLVIEW_PUBLIC_ADD
 msgid "Add/Update Public SQL View"
-msgstr "Tambahkan tampilan Sql"
+msgstr "Tambahkan tampilan SQL"
 
 #: F_SQLVIEW_PRIVATE_ADD
 msgid "Add/Update Private SQL View"
-msgstr "Tambah/Update tampilan SQL privat"
+msgstr "Tambah/Update tampilan Private SQL"
 
 #: F_SQLVIEW_DELETE
 msgid "Delete SQL View"
-msgstr "Hapus Tampilan Sql"
+msgstr "Hapus Tampilan SQL"
 
 #: F_SQLVIEW_EXECUTE
 msgid "Execute SQL View"
-msgstr "Jalankan tampilan Sql"
+msgstr "Jalankan tampilan SQL"
 
 #: F_SQLVIEW_MANAGEMENT
 msgid "Sql View Management"
-msgstr "Manajemen tampilan Sql"
+msgstr "Manajemen tampilan SQL"
 
 #: F_SQLVIEW_EXTERNAL
 msgid "Sql View External Access"
@@ -956,11 +956,11 @@ msgstr "Kirim pesan"
 
 #: F_OPTIONSET_MANAGEMENT
 msgid "Option Set Management"
-msgstr "Opsi Pengaturan Manajemen "
+msgstr "Option Set Management"
 
 #: F_OPTIONSET_PUBLIC_ADD
 msgid "Add/Update Public Option Set"
-msgstr "Tambahkan Opsi Set"
+msgstr "Tambah/update Public Option Set"
 
 #: F_OPTIONSET_PRIVATE_ADD
 msgid "Add/Update Private Option Set"
@@ -981,11 +981,11 @@ msgstr "Administrasi data vizualiser"
 
 #: F_MOBILE_SENDSMS
 msgid "Send SMS"
-msgstr "Kirim SMSS"
+msgstr "Kirim SMS"
 
 #: F_MOBILE_SETTINGS
 msgid "Set mobile settings"
-msgstr "Set pengaturan mobile"
+msgstr "Atur mobile settings"
 
 #: F_MOBILE_DELETE_SMS
 msgid "Delete SMS"
@@ -1017,7 +1017,7 @@ msgstr "Arsip data"
 
 #: F_ATTRIBUTE_ADD
 msgid "Add/Update Attribute"
-msgstr "Tambahkan atribut"
+msgstr "Tambah/Update Atribut"
 
 #: F_ATTRIBUTE_DELETE
 msgid "Delete Attribute"
@@ -1029,7 +1029,7 @@ msgstr "Atur rute integrasi"
 
 #: F_IMPORT_DATA
 msgid "Import data"
-msgstr "Import data"
+msgstr "Impor data"
 
 #: F_IMPORT_EVENTS
 msgid "Import events"
@@ -1045,7 +1045,7 @@ msgstr "Impor GML"
 
 #: F_EXPORT_DATA
 msgid "Export data"
-msgstr "Eksport data"
+msgstr "Ekspor data"
 
 #: F_EXPORT_EVENTS
 msgid "Export events"
@@ -1053,11 +1053,11 @@ msgstr "Ekspor events"
 
 #: F_METADATA_IMPORT
 msgid "Import meta-Data"
-msgstr "Import Meta-Data"
+msgstr "Impor Meta-Data"
 
 #: F_METADATA_EXPORT
 msgid "Export meta-Data"
-msgstr "Eksport Meta-Data"
+msgstr "Ekspor Meta-Data"
 
 #: F_APPROVE_DATA
 msgid "Approve data"
@@ -1133,7 +1133,7 @@ msgstr "Tampilkan data yang tidak disetujui"
 
 #: F_PROGRAM_RULE_MANAGEMENT
 msgid "Manage Program Rule"
-msgstr "Mengatur aturan program"
+msgstr "Mengatur Aturan Program"
 
 #: F_PROGRAM_RULE_ADD
 msgid "Add Program Rule"
@@ -1203,7 +1203,7 @@ msgstr "Pengguna berdasarkan unit organisasi"
 
 #: user_role
 msgid "User Role"
-msgstr "Peran Pengguna"
+msgstr "User Role"
 
 #: change
 msgid "Change"
@@ -1263,7 +1263,7 @@ msgstr "Nama depan"
 
 #: edit_user
 msgid "Update user"
-msgstr "Update pengguna"
+msgstr "Update user"
 
 #: confirm_delete_user
 msgid "Are you sure you want to delete this user?"
@@ -1295,11 +1295,11 @@ msgstr "Manajemen peran pengguna"
 
 #: edit_user_role
 msgid "Update user role"
-msgstr "Update peran pengguna"
+msgstr "Update user role"
 
 #: create_new_user_role
 msgid "Create new user role"
-msgstr "Buat peran pengguna yang baru"
+msgstr "Buat user role yang baru"
 
 #: organisation_units
 msgid "Organisation units"
@@ -1307,7 +1307,7 @@ msgstr "Unit organisasi"
 
 #: confirm_delete_role
 msgid "Are you sure you want to remove the user role?"
-msgstr "Apakah Anda yakin akan menghapus peran pengguna tersebut?"
+msgstr "Apakah Anda yakin akan menghapus user role tersebut?"
 
 #: authorities
 msgid "Authorities"
@@ -1318,24 +1318,24 @@ msgid ""
 "Create, modify, delete and view all users. A user is associated with user "
 "roles and an organisation unit."
 msgstr ""
-"Buat, modifikasi, hapus dan lihat semua pengguna. Pengguna berhubungan "
-"dengan peran pengguna dan unit organisasi."
+"Buat, modifikasi, hapus dan lihat semua user. User terhubung dengan peran "
+"pengguna dan unit organisasi."
 
 #: intro_user_by_orgunit
 msgid ""
 "Create, modify, view and delete users which are assigned to a given "
 "organisation unit."
 msgstr ""
-"Buat, modifikasi, lihat dan hapus pengguna yang akan didaftarkan dalam satu "
-"unit organisasi"
+"Buat, modifikasi, lihat dan hapus user yang akan didaftarkan dalam satu unit "
+"organisasi"
 
 #: intro_user_role
 msgid ""
 "Create, modify, view and delete user roles. A user role has a set of "
 "authorities in the system."
 msgstr ""
-"Buat, modifikasi, lihat dan hapus peran pengguna. Peran pengguna memiliki "
-"suatu set otoritas dalam sistem."
+"Buat, modifikasi, lihat dan hapus peran user. Peran pengguna memiliki suatu "
+"set otoritas dalam sistem."
 
 #: intro_self_registered_user
 msgid ""
@@ -1395,11 +1395,11 @@ msgstr "Buat"
 
 #: disabled
 msgid "Disabled"
-msgstr "Non-aktifkan"
+msgstr "Dinonaktifkan"
 
 #: disable
 msgid "Disable"
-msgstr "Non-aktifkan"
+msgstr "Menon-aktifkan"
 
 #: enable
 msgid "Enable"
@@ -1411,51 +1411,51 @@ msgstr "Data capture and maintenance organisation units"
 
 #: data_output_analysis_org_units
 msgid "Data output and analysis organisation units"
-msgstr "Output data dan analisis unit-unit organisasi"
+msgstr "Output data dan analisis unit organisasi"
 
 #: data_capture_organisation_unit_required_for_user
 msgid "User must be assigned to at least one data capture organisation unit"
-msgstr "User harus dipastikan paling tidak 1 data capture organisation unit"
+msgstr "User harus didaftarkan pada minimal 1 data capture organisation unit"
 
 #: user_must_be_assigned_to_at_least_one_user_group
 msgid "User must be assigned to at least one user group"
-msgstr "User harus ditentukan paling tidak 1 grup user"
+msgstr "User harus didaftarkan pada minimal 1 grup user"
 
 #: available_dimension_restrictions_for_data_analytics
 msgid "Available dimension restrictions for data analytics"
-msgstr "Tersedia batasan dimensi untuk analisis data"
+msgstr "Batasan dimensi untuk analisis data yang tersedia"
 
 #: selected_dimension_restrictions_for_data_analytics
 msgid "Selected dimension restrictions for data analytics"
-msgstr "Batasan dimensi untuk analisis data yang terpilih"
+msgstr "Batasan dimensi ntuk analisis data yang terpilih"
 
 #: show_more_options
 msgid "Show more options"
-msgstr "Tampilkan more options"
+msgstr "Tampilkan pilihan yang lebih banyak"
 
 #: show_fewer_options
 msgid "Show fewer options"
-msgstr "Tampilkan fewer options"
+msgstr "Tampilkan pillihan yang lebih sedikit"
 
 #: intro_user_group
 msgid ""
 "Create user groups for functionality that should work on a group of users, "
 "like notifications."
 msgstr ""
-"Create user groups for functionality that should work on a group of users, "
-"like notifications."
+"Buat grup user untuk berbagai fungsi yang melibatkan grup user, seperti "
+"notifikasi."
 
 #: user_group_management
 msgid "User group management"
-msgstr "Manajemen grup User"
+msgstr "Manajemen grup user"
 
 #: join_group
 msgid "Join group"
-msgstr "Masuk dalam grup"
+msgstr "Bergabung ke grup"
 
 #: leave_group
 msgid "Leave group"
-msgstr "Meninggalkan grup"
+msgstr "Tinggalkan grup"
 
 #: user_group_details
 msgid "User group details"
@@ -1503,11 +1503,11 @@ msgstr "Show by inactivity"
 
 #: show_invitations
 msgid "Show invitations"
-msgstr "Tampilkan undangan-undangan"
+msgstr "Tampilkan semua undangan"
 
 #: all_invitations
 msgid "All invitations"
-msgstr "Semua undangan-undangan"
+msgstr "Semua undangan"
 
 #: expired_invitations
 msgid "Expired invitations"
@@ -1527,7 +1527,7 @@ msgstr "Replikasi"
 
 #: resend_invitation
 msgid "Resend invitation"
-msgstr "Undangan yang dikirimkan ulang"
+msgstr "Kirim ulang undangan"
 
 #: invitation_sent
 msgid "Invitation sent"

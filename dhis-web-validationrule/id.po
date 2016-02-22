@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2015-12-27 09:14+0000\n"
-"Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
+"PO-Revision-Date: 2016-02-22 02:40+0000\n"
+"Last-Translator: Annisa Ristya <annisaristya@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1451207692.0\n"
+"X-POOTLE-MTIME: 1456108854.0\n"
 
 #: group_members
 msgid "Group Members"
@@ -37,7 +37,7 @@ msgstr "Penambahan aturan validasi gagal dilakukan"
 
 #: validation_failed
 msgid "Validation failed"
-msgstr "Validasi gagal "
+msgstr "Validasi gagal"
 
 #: right_side
 msgid "Right side"
@@ -49,7 +49,7 @@ msgstr "Sisi kiri"
 
 #: left_brackets
 msgid "Left brackets"
-msgstr "kurung kiri"
+msgstr "kurung siku kiri"
 
 #: right_brackets
 msgid "Right brackets"
@@ -127,11 +127,11 @@ msgstr "Nama sudah digunakan"
 
 #: dataelements_left_must_be_type_integers
 msgid "The data elements on the left side must be of type numbers"
-msgstr "Data elemen pada sisi kiri harus dalam bentuk angka"
+msgstr "Elemen data pada sisi kiri harus dalam bentuk angka"
 
 #: dataelements_right_must_be_type_integers
 msgid "The data elements on the right side must be of type numbers"
-msgstr "Data elemen pada sisi kanan harus dalam bentuk angka"
+msgstr "Elemen data pada sisi kanan harus dalam bentuk angka"
 
 #: create_new_validation_rule
 msgid "Create new validation rule"
@@ -191,7 +191,7 @@ msgstr "Nilai"
 
 #: data_element
 msgid "Data element"
-msgstr "Data elemen"
+msgstr "Elemen data"
 
 #: organisation_unit
 msgid "Organisation unit"
@@ -233,19 +233,19 @@ msgstr "Aturan validasi"
 
 #: dataelement_id_not_numeric
 msgid "Data element identifier must be a number"
-msgstr "Pengenal data elemen harus berupa angka"
+msgstr "Pengenal elemen data harus berupa angka"
 
 #: category_option_combo_id_not_numeric
 msgid "Category option combo identifier must be a number"
-msgstr "Pengenal kategori pilihan kombo harus berupa angka"
+msgstr "Pengenal category option combo harus berupa angka"
 
 #: data_element_does_not_exist
 msgid "Identifier does not reference a data element"
-msgstr "Pengenal tidak merefensikan data elemen"
+msgstr "Pengenal tidak mereferensikan data elemen"
 
 #: category_option_combo_does_not_exist
 msgid "Identifier does not reference a category option combo"
-msgstr "Pengenal tidak merefensikan kategori pilihan kombo"
+msgstr "Pengenal tidak mereferensikan category option combo"
 
 #: expression_not_well_formed
 msgid "Expression is not well formed"
@@ -253,11 +253,11 @@ msgstr "Expression tidak dirumuskan dengan sempurna"
 
 #: everything_is_ok
 msgid "Everything is OK"
-msgstr "Semua berjalan lancar"
+msgstr "Semua OK"
 
 #: validation_rule_group_management
 msgid "Validation rule group management"
-msgstr "Manajemen pengaturan aturan validasi"
+msgstr "Manajemen grup aturan validasi"
 
 #: validation_rule_management
 msgid "Validation rule management"
@@ -281,15 +281,16 @@ msgstr "Terpilih"
 
 #: validation_rules
 msgid "Validation rules"
-msgstr "Validation rules"
+msgstr "Aturan validasi"
 
 #: user_groups_to_alert
 msgid "User groups to alert"
-msgstr "User groups to alert"
+msgstr "Peringatan kepada grup user "
 
 #: alert_by_org_units
 msgid "Alert only organisation unit related users"
-msgstr "Alert only organisation unit related users"
+msgstr ""
+"Peringatan diberikan kepada user yang berhubungan dengan unit organisasi saja"
 
 #: yes
 msgid "Yes"
@@ -313,11 +314,11 @@ msgstr "Semua aturan validasi"
 
 #: validation_alerts
 msgid "Validation alerts"
-msgstr "Validation alerts"
+msgstr "Peringatan validasi"
 
 #: validation_passed_successfully
 msgid "Validation passed successfully"
-msgstr "Validasi berhasil dilalui"
+msgstr "Validasi berhasil dengan sukses"
 
 #: from_date
 msgid "From date"
@@ -345,7 +346,7 @@ msgstr "Nilai ditemukan"
 
 #: select_std_dev
 msgid "Select number of standard deviations"
-msgstr "Tentukan standar deviasi"
+msgstr "Pilih standar deviasi"
 
 #: select_parent_organisation_unit
 msgid "Select parent organisation unit"
@@ -364,7 +365,7 @@ msgid ""
 "Add, modify, view and delete validation rules. Anomalies can be discovered "
 "by running validation rules against the data."
 msgstr ""
-"Tambahkan, modifikasi, lihat, dan hapus aturan validasi. Kesalahan dapat "
+"Tambahkan, modifikasi, tampilkan, dan hapus aturan validasi. Kesalahan dapat "
 "ditemukan setelah menjalankan aturan validasi data"
 
 #: intro_validation_rule_group
@@ -372,7 +373,7 @@ msgid ""
 "Add, modify, view and delete validation rule groups. Provides the ability to "
 "group and run validation rules together."
 msgstr ""
-"Tambahkan, modifikasi, lihat, dan hapus grup aturan validasi. Sediakan "
+"Tambahkan, modifikasi, tampilkan, dan hapus grup aturan validasi. Sediakan "
 "kemampuan untuk mengelompokkan dan jalankan aturan validasi bersama."
 
 #: intro_validation_rule_analysis
@@ -515,7 +516,9 @@ msgstr ""
 
 #: captured_data_info
 msgid "All children of the selected organisation unit will be included"
-msgstr "Semua level dari unit organisasi terpilih akan dimasukkan"
+msgstr ""
+"Semua level yang berada langsung di bawah unit organisasi terpilih akan "
+"dimasukkan"
 
 #: method
 msgid "Method"
@@ -528,12 +531,12 @@ msgstr "Lihat statistik"
 #: description_not_null
 msgctxt "description_not_null"
 msgid "Please specify a description"
-msgstr "Silakan memberikan keterangan pad bagian Deskripsi"
+msgstr "Silakan memberikan keterangan pad bagian deskripsi"
 
 #: expression_not_null
 msgctxt "expression_not_null"
 msgid "Please specify an expression"
-msgstr "Silakan memberikan keterangan pad bagian Expression"
+msgstr "Silakan memberikan keterangan pad bagian expression"
 
 #: number_of_members
 msgid "Number of members"
@@ -578,7 +581,7 @@ msgstr "Pilih parameter"
 
 #: compulsory_pair
 msgid "Compulsory pair"
-msgstr "Pasangan wajib"
+msgstr "Compulsory pair"
 
 #: visible_in_validation_alerts
 msgid "visible in validation alerts"
@@ -594,7 +597,7 @@ msgstr "Gunakan"
 
 #: importance
 msgid "Importance"
-msgstr "Tingkat kepentingan"
+msgstr "Importance"
 
 #: high
 msgctxt "high"
@@ -604,7 +607,7 @@ msgstr "Tinggi"
 #: medium
 msgctxt "medium"
 msgid "Medium"
-msgstr "Sedang"
+msgstr "Medium"
 
 #: low
 msgctxt "low"
@@ -619,7 +622,7 @@ msgstr "Tinggi"
 #: MEDIUM
 msgctxt "MEDIUM"
 msgid "Medium"
-msgstr "Sedang"
+msgstr "Medium"
 
 #: LOW
 msgctxt "LOW"
@@ -628,7 +631,7 @@ msgstr "Rendah"
 
 #: rule_type
 msgid "Rule type"
-msgstr "Rule type"
+msgstr "Tipe aturan"
 
 #: surveillance
 msgctxt "surveillance"
@@ -642,7 +645,7 @@ msgstr "Surveilans"
 
 #: attributes
 msgid "Attributes"
-msgstr "Attributes"
+msgstr "Atribut"
 
 #: organisation_unit_level
 msgid "Organisation unit level"
@@ -654,11 +657,11 @@ msgstr "Pilih level"
 
 #: sequential_sample_count
 msgid "Sequential sample count"
-msgstr "Sequential sample count"
+msgstr "Jumlah sampel sekuensial"
 
 #: annual_sample_count
 msgid "Annual sample count"
-msgstr "Annual sample count"
+msgstr "Jumlah sampel setiap tahun"
 
 #: high_outliers
 msgid "High outliers"
@@ -670,7 +673,7 @@ msgstr "Outliers rendah"
 
 #: number_of_user_groups_to_alert
 msgid "Number of user groups to alert"
-msgstr "Number of user groups to alert"
+msgstr "Jumlah grup user yang diberi peringatan"
 
 #: send_alerts
 msgid "Send alerts"
@@ -678,7 +681,7 @@ msgstr "Kirim peringatan"
 
 #: visible_when_rule_is_violated
 msgid "visible when rule is violated"
-msgstr "visible when rule is violated"
+msgstr "terlihat jika aturan dilanggar"
 
 #: instruction
 msgid "Instruction"
@@ -686,15 +689,15 @@ msgstr "Instruksi"
 
 #: skip_if_any_value_is_missing
 msgid "Skip if any value is missing"
-msgstr "Skip if any value is missing"
+msgstr "Skip jika terdapat nilai yang missing"
 
 #: skip_if_all_values_are_missing
 msgid "Skip if all values are missing"
-msgstr "Skip if all values are missing"
+msgstr "Skip jika semua nilai missing"
 
 #: never_skip
 msgid "Never skip"
-msgstr "Jangan lewati"
+msgstr "Jangan pernah skip"
 
 #: no_organisation_unit_selected
 msgid "No organisation unit selected"
